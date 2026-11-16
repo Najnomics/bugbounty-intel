@@ -28,3 +28,5 @@ See also [`../payloads/business-logic.md`](../payloads/business-logic.md) when p
 # try: PUT /api/admin/{my-user-id} {"admin_permissions":"0000000f"}; POST /autologin/devices {"access_key":"{my-key}"}; GET /api/users/{any-user-id}
 # note: Liabilities/collateral accounting that can be reset are double-count primitives.
 ```
+
+- 2026-11-16: see [2026-11-16 check-specs](2026-11-16-mcp-open-data-rpc-tracer-logs.md)

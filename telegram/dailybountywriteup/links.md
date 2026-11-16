@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **12899**
+Total distinct URLs: **12909**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -12905,3 +12905,13 @@ Total distinct URLs: **12899**
 | [14984](https://t.me/dailybountywriteup/14984) | 2026-11-14 08:54:05 | From P4 to P1 | https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-16-race-condition-vulnerabilities-finding-and-exploiting-time-based-logic-545999610673 |
 | [14984](https://t.me/dailybountywriteup/14984) | 2026-11-14 08:54:05 | One Asterisk Means No Password. It Also Means the Hash Failed. SSH Compared the Two. | https://medium.com/codetodeploy/one-asterisk-means-no-password-it-also-means-the-hash-failed-ssh-compared-the-two-b227cee28f5c |
 | [14984](https://t.me/dailybountywriteup/14984) | 2026-11-14 08:54:05 | CVE-2026–126641 | https://medium.com/@aleens09/cve-2026-126641-when-trust-on-first-use-trusts-the-second-key-too-a244cfb8e109 |
+| [14985](https://t.me/dailybountywriteup/14985) | 2026-11-15 09:16:04 | Bundle Loopholes Web CTF Walkthrough \| Master Web Exploitation & Ethical Hacking | https://medium.com/@pentesterclubpvtltd/bundle-loopholes-web-ctf-walkthrough-master-web-exploitation-ethical-hacking-7224644323d9 |
+| [14985](https://t.me/dailybountywriteup/14985) | 2026-11-15 09:16:04 | API Security Top 10 (2023) | https://medium.com/@fmn.flame/dvapi-a-step-by-step-walkthrough-of-the-owasp-api-security-top-10-2023-a62859e021f9 |
+| [14985](https://t.me/dailybountywriteup/14985) | 2026-11-15 09:16:04 | The Premium Paradox | https://medium.com/@vasanthgn/the-premium-paradox-a-youtube-music-bug-that-worked-only-in-india-unreproducible-in-other-53f0510bec20 |
+| [14985](https://t.me/dailybountywriteup/14985) | 2026-11-15 09:16:04 | How to Start in Cybersecurity in 2027 (If I Had to Start Over) | https://medium.com/@cyberbali/how-to-start-in-cybersecurity-in-2027-if-i-had-to-start-over-6c2b728b4e70 |
+| [14985](https://t.me/dailybountywriteup/14985) | 2026-11-15 09:16:04 | Exploiting All 10 OWASP API Security Risks in vAPI (+ Bonus Arena Challenges) | https://medium.com/@fmn.flame/exploiting-all-10-owasp-api-security-risks-in-vapi-bonus-arena-challenges-7b0f621ced6c |
+| [14985](https://t.me/dailybountywriteup/14985) | 2026-11-15 09:16:04 | Tally Ira’s | https://akashkansal065.medium.com/tally-iras-hardcoded-production-secrets-a64721f81c81 |
+| [14985](https://t.me/dailybountywriteup/14985) | 2026-11-15 09:16:04 | Pre-Auth Account Takeover via Broken Password Reset in a Legacy Mobile API | https://medium.com/@youssefezzat.pt/pre-auth-account-takeover-via-broken-password-reset-in-a-legacy-mobile-api-f1b0b63dc1a6 |
+| [14985](https://t.me/dailybountywriteup/14985) | 2026-11-15 09:16:04 | Information Disclosure — Intercom Identity Verification secret (HMAC key) is hard-coded in… | https://medium.com/@jokodfir/information-disclosure-intercom-identity-verification-secret-hmac-key-is-hard-coded-in-59a6413bfd0d |
+| [14985](https://t.me/dailybountywriteup/14985) | 2026-11-15 09:16:04 | From P4 to P1 | https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-17-advanced-ssrf-testing-url-validation-bypasses-redirects-and-dns-rebinding-5f6d92dca0fa |
+| [14985](https://t.me/dailybountywriteup/14985) | 2026-11-15 09:16:04 | P4 Anonymous S3 Bucket Object Listing Leading to Cloud Storage Information Disclosure | https://medium.com/@akashmotkar001/p4anonymous-s3-bucket-object-listing-leading-to-cloud-storage-information-disclosure-555ee8a3e796 |

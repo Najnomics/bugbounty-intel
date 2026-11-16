@@ -2,7 +2,7 @@
 
 A personal knowledge base of **publicly claimed, valid (or triaged) bug-bounty findings** by consistent security researchers, compiled for Dorothy's hunting workflow.
 
-Last updated: **15 November 2026** (Africa/Lagos).
+Last updated: **16 November 2026** (Africa/Lagos).
 
 > **For the harness agent:** start at [harness/README.md](harness/README.md); for real-world CVE / HackerOne examples per bug class start at [harness/cve-index.md](harness/cve-index.md). It has a merged recon workflow, one check-spec file per bug class under [harness/bug-classes/](harness/bug-classes/), and [harness/findings.jsonl](harness/findings.jsonl). The single richest methodology source is Marius du Preez's full verbatim prompt pack at [writeups/mdp_sec/prompts/](writeups/mdp_sec/prompts/).
 
@@ -33,8 +33,8 @@ This is not a complete map of X, and it is not a hall-of-fame ranking. It starts
 | [posts/](posts/) | `posts/<handle>/<YYYY-MM-DD>-<postid>.md` — verbatim post + thread + quoted post + media, then an `## Analysis` section (tags, bug class, root cause, how found, takeaways pulled from the researcher file) |
 | [writeups/](writeups/) | `writeups/<researcher>/<slug>.md` — full text of linked blogs/reports, header with source URL and fetch date |
 | [telegram/](telegram/) | Verbatim public Telegram channel archives: [@defendor_eng](telegram/defendor_eng/) (DeFi / Web3 security feed) and [@dailybountywriteup](telegram/dailybountywriteup/) (daily bug-bounty writeup links). Machine-readable jsonl and daily-run cursors live under [`data/telegram_state.json`](data/telegram_state.json). |
-| [cves/](cves/) + `data/cve`, `data/nvd`, `data/ghsa`, `data/osv`, `data/exploitdb`, `data/zdi` | **CVE / advisory / exploit layer** (see [cves/README.md](cves/README.md)): every CVE 1999–2026 from cvelistV5 (425,693), NVD enrichment (424,750), CISA KEV (1,781), GHSA (37,810), OSV non-GHSA (23,801), Exploit-DB with PoC code (47,182), Linux kernel CNA (18,563), 37 vendor layers (Google/Chrome/Android, Linux, PHP, Apple, Microsoft, Mozilla, OpenSSL, Node.js, Apache, GitLab, …), Google Project Zero (258 posts + 0day ITW sheet + RCAs), ZDI (17,361 advisories, all with full text), php-src/electron/WordPress repo advisories |
-| [hackerone/](hackerone/) + `data/h1` | **All 12,754 publicly disclosed HackerOne reports** in full (original report text + summaries + weakness/severity/bounty/CVE), indexed by weakness, program and bounty (see [hackerone/README.md](hackerone/README.md)) |
+| [cves/](cves/) + `data/cve`, `data/nvd`, `data/ghsa`, `data/osv`, `data/exploitdb`, `data/zdi` | **CVE / advisory / exploit layer** (see [cves/README.md](cves/README.md)): every CVE 1999–2026 from cvelistV5 (425,874), NVD enrichment (425,880), CISA KEV (1,781), GHSA (37,810), OSV non-GHSA (23,843), Exploit-DB with PoC code (47,182), Linux kernel CNA (18,563), 37 vendor layers (Google/Chrome/Android, Linux, PHP, Apple, Microsoft, Mozilla, OpenSSL, Node.js, Apache, GitLab, …), Google Project Zero (259 posts + 0day ITW sheet + RCAs), ZDI (17,417 advisories, all with full text), php-src/electron/WordPress repo advisories |
+| [hackerone/](hackerone/) + `data/h1` | **All 12,758 publicly disclosed HackerOne reports** in full (original report text + summaries + weakness/severity/bounty/CVE), indexed by weakness, program and bounty (see [hackerone/README.md](hackerone/README.md)) |
 
 Post timestamps in these files are converted from UTC to **Africa/Lagos (WAT, UTC+1)**.
 

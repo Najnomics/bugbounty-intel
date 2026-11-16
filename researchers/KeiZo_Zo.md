@@ -24,3 +24,14 @@
 He posted that since the beginning of March he had been researching "AI led" bug bounty hunting and had reported **30 reports on Immunefi** to various Web3 programs during that period (thread marked 1/5; later parts were not pulled in this pass). [post](https://x.com/KeiZo_Zo/status/2075628283027234941)
 
 No public PoC or root-cause writeup for a specific bug was found in this pass.
+
+## Daily update 2026-11-16
+
+### Bring your niche edge to LLM hunting to avoid dupes (2026-11-15)
+
+- Post: https://x.com/KeiZo_Zo/status/2121895644927525150 — verbatim: [`posts/KeiZo_Zo/2026-11-15-2121895644927525150.md`](../posts/KeiZo_Zo/2026-11-15-2121895644927525150.md)
+- **Bug class:** Methodology
+- **Root cause:** N/A
+- **How it was found:** N/A
+- **Takeaways / harness:** Encode specialist/niche knowledge into the harness; generic prompts converge on the same (duplicate) findings.
+

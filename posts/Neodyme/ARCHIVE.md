@@ -1,11 +1,57 @@
 # @Neodyme — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 122
-- Conversations/threads: 51
+- Posts in this file: 184
+- Conversations/threads: 113
 - Oldest post captured: 2021-12-03
-- Newest post captured: 2026-04-17
+- Newest post captured: 2026-11-15
+
+
+---
+
+## 2026-11-15 · Post · What's up, Breakpoint! 👋
+
+
+Tags (automatic): RCE
+
+
+### Post — @Neodyme — 2026-11-15 12:21 UTC (2026-11-15 13:21 WAT)
+
+- URL: https://x.com/Neodyme/status/2121941626822004761
+- Metrics (at fetch): bookmark 15, impression 13127, like 149, quote 12, reply 11, retweet 19
+
+> What's up, Breakpoint! 👋
+>
+> It's badge pickup time, so we thought we'd take a closer look at their security.
+>
+> We achieved zero-click RCE against any device connected to a Wi-Fi network (via deauthentication attacks or simply by joining a vulnerable AP).
+>
+> Details coming soon 👀
+>
+> For a live PoC, hit us up at the venue!
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2121941595536740352/img/CPTV9B51mI8ZMCIO.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-10 · Post · We're proud to be supporting Scale Or Die, already happening soon on Nov 14! 🛠️
+
+
+### Post — @Neodyme — 2026-11-10 10:22 UTC (2026-11-10 11:22 WAT)
+
+- URL: https://x.com/Neodyme/status/2120099777459490997
+- Metrics (at fetch): bookmark 0, impression 929, like 2, quote 0, reply 2, retweet 0
+
+> We're proud to be supporting Scale Or Die, already happening soon on Nov 14! 🛠️
+> Yes, our dankest minds supplied stickers again. You’re welcome. 🧠✨
+>
+> Our team is already out and about in London - shoot us a DM if you want to talk all things security. https://t.co/wADL6l2Kqi
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HWwalJUWQAApxlL.jpg — no alt text provided by author
 
 
 ---
@@ -16,13 +62,21 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 ### Post — @Neodyme — 2026-04-17 15:55 UTC (2026-04-17 16:55 WAT)
 
 - URL: https://x.com/Neodyme/status/2045169195160158212
-- Metrics (at fetch): bookmark 0, impression 1109, like 7, quote 0, reply 1, retweet 0
+- Metrics (at fetch): bookmark 0, impression 1150, like 7, quote 0, reply 1, retweet 0
 
 > Happy to publicly announce the new advisory!🎉 https://twitter.com/TheZDIBugs/status/2044532001407918108
 
 **Links in post:** https://twitter.com/TheZDIBugs/status/2044532001407918108
 
-**Quoted post** 2044532001407918108: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1518982517562429441 — 2026-04-15 21:43 UTC (2026-04-15 22:43 WAT)
+    
+    - URL: https://x.com/1518982517562429441/status/2044532001407918108
+    - Metrics (at fetch): bookmark 1, impression 1715, like 2, quote 1, reply 0, retweet 0
+    
+    > [ZDI-26-280|CVE-2026-4682] (Pwn2Own) HP DeskJet 2855e JobStatusEvent Stack-based Buffer Overflow Remote Code Execution Vulnerability (CVSS 8.8; Credit: Team Neodyme (@Neodyme)) https://t.co/o2tEFP9WPp
+    
 
 
 ---
@@ -33,7 +87,7 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 ### Post — @Neodyme — 2026-04-01 23:04 UTC (2026-04-02 00:04 WAT)
 
 - URL: https://x.com/Neodyme/status/2039479078047109628
-- Metrics (at fetch): bookmark 9, impression 5475, like 29, quote 1, reply 2, retweet 2
+- Metrics (at fetch): bookmark 9, impression 5508, like 29, quote 1, reply 2, retweet 2
 
 > Small update on the unfolding Drift timeline: as surfaced in other threads (eg https://x.com/TheSoftwareJedi/status/2039464884371652852), the malicious proposal and execution were nonce transactions (those can be signed offline and not immediately submitted to the network).
 >
@@ -44,7 +98,17 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 
 **Links in post:** https://x.com/TheSoftwareJedi/status/2039464884371652852
 
-**Quoted post** 2039464884371652852: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @12513442 — 2026-04-01 22:08 UTC (2026-04-01 23:08 WAT)
+    
+    - URL: https://x.com/12513442/status/2039464884371652852
+    - Metrics (at fetch): bookmark 32, impression 32885, like 81, quote 5, reply 9, retweet 5
+    
+    > i missed the fact that these drift related squads txs had durable nonces...  that changes things. perhaps all my wallet security rants are misapplied here.
+    >
+    > the drift admins may not have completely exposed their keys.  just signed a rogue tx sometime in the last 10 days / 2 days
+    
 
 
 ---
@@ -58,7 +122,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2026-04-01 22:02 UTC (2026-04-01 23:02 WAT)
 
 - URL: https://x.com/Neodyme/status/2039463435881111878
-- Metrics (at fetch): bookmark 25, impression 12798, like 68, quote 7, reply 3, retweet 16
+- Metrics (at fetch): bookmark 25, impression 12815, like 68, quote 7, reply 3, retweet 16
 
 > Drift Protocol on Solana just got drained. It's looking like a multisig member compromise -- and the story starts at least a 20 days before the attack. Here's the breakdown: [pic.x.com/MBnMaIUYfY]
 
@@ -171,13 +235,24 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2026-03-24 15:50 UTC (2026-03-24 16:50 WAT)
 
 - URL: https://x.com/Neodyme/status/2036470611237552435
-- Metrics (at fetch): bookmark 0, impression 647, like 10, quote 0, reply 2, retweet 1
+- Metrics (at fetch): bookmark 0, impression 660, like 10, quote 0, reply 2, retweet 1
 
 > Excellent discussion on the current and future landscape of Solana auditing. Thank you @mikemaccana! https://twitter.com/QuicknodeSolana/status/2036424563563585723
 
 **Links in post:** https://twitter.com/QuicknodeSolana/status/2036424563563585723
 
-**Quoted post** 2036424563563585723: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1993361439424401408 — 2026-03-24 12:47 UTC (2026-03-24 13:47 WAT)
+    
+    - URL: https://x.com/1993361439424401408/status/2036424563563585723
+    - Metrics (at fetch): bookmark 2, impression 2035, like 15, quote 3, reply 0, retweet 2
+    
+    > We spoke with Marius at @Neodyme - auditors for Anza, Jump, Marinade, Drift and more - on the past and future of Solana program security. https://t.co/jYmN4rP8n5
+    
+    **Media:**
+    - media `13_2036418468581384192` (details not returned by the API)
+    
 
 
 ---
@@ -188,7 +263,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2026-03-24 09:01 UTC (2026-03-24 10:01 WAT)
 
 - URL: https://x.com/Neodyme/status/2036367679951417747
-- Metrics (at fetch): bookmark 1, impression 527, like 5, quote 0, reply 2, retweet 0
+- Metrics (at fetch): bookmark 1, impression 537, like 5, quote 0, reply 2, retweet 0
 
 > New blog post 🚨 
 >
@@ -209,6 +284,36 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2026-01-14 · Post · Drones are hot - their security is not.
+
+
+### Post — @Neodyme — 2026-01-14 12:16 UTC (2026-01-14 13:16 WAT)
+
+- URL: https://x.com/Neodyme/status/2011412153266323960
+- Metrics (at fetch): bookmark 6, impression 1686, like 20, quote 0, reply 2, retweet 14
+
+> Drones are hot - their security is not.
+> Here is how removed the NAND, dumped firmware, and reverse-engineered ECC on a consumer drone. Stay tuned for part 2!
+> https://t.co/ppZtcLzuP1
+
+
+---
+
+## 2026-01-14 · Post · Drones are hot  - their security is not.
+
+
+### Post — @Neodyme — 2026-01-14 12:12 UTC (2026-01-14 13:12 WAT)
+
+- URL: https://x.com/Neodyme/status/2011411040248922321
+- Metrics (at fetch): bookmark 0, impression 81, like 1, quote 0, reply 0, retweet 0
+
+> Drones are hot  - their security is not.
+> Here is how removed the NAND, dumped firmware, and reverse-engineered ECC on a consumer drone. Stay tuned for part 2!
+> https://t.co/ppZtcLzuP1
+
+
+---
+
 ## 2025-12-12 · Post · Our Solana PDA database is live at http://solana-pda.neodyme.io. Go check it out to get some alpha.
 
 
@@ -218,7 +323,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2025-12-12 13:27 UTC (2025-12-12 14:27 WAT)
 
 - URL: https://x.com/Neodyme/status/1999471049843573184
-- Metrics (at fetch): bookmark 1, impression 775, like 14, quote 0, reply 7, retweet 1
+- Metrics (at fetch): bookmark 1, impression 782, like 14, quote 0, reply 7, retweet 1
 
 > Our Solana PDA database is live at http://solana-pda.neodyme.io. Go check it out to get some alpha.
 
@@ -236,7 +341,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2025-12-08 13:37 UTC (2025-12-08 14:37 WAT)
 
 - URL: https://x.com/Neodyme/status/1998024069229498878
-- Metrics (at fetch): bookmark 1, impression 1381, like 11, quote 1, reply 4, retweet 1
+- Metrics (at fetch): bookmark 1, impression 1395, like 11, quote 1, reply 4, retweet 1
 
 > Ever ask yourself which protocol is actually the richest on Solana?* Spoiler: DeFiLlama got it wrong.
 > We’re breaking the real numbers open at @SolanaConf.
@@ -251,6 +356,87 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2025-10-29 · Post · It was an honor🫡 https://t.co/TA43q6YtE1
+
+
+### Post — @Neodyme — 2025-10-29 09:31 UTC (2025-10-29 10:31 WAT)
+
+- URL: https://x.com/Neodyme/status/1983466592819446099
+- Metrics (at fetch): bookmark 0, impression 1135, like 10, quote 0, reply 2, retweet 1
+
+> It was an honor🫡 https://t.co/TA43q6YtE1
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1960675575388889088 — 2025-10-27 08:59 UTC (2025-10-27 09:59 WAT)
+    
+    - URL: https://x.com/1960675575388889088/status/1982733929611415651
+    - Metrics (at fetch): bookmark 0, impression 4280, like 56, quote 5, reply 22, retweet 3
+    
+    > We are happy to report that Brasa has been successfully audited by @Neodyme 
+    >
+    > Neodyme is one of the leading audit firms in Solana, with deep expertise around the Stake Pool program, so we couldn't be in better hands.
+    >
+    > Audit report to be published soon alongside the Brasa docs. https://t.co/40NadPlSCM
+    
+    **Media:**
+    - media `3_1982731767757836288` (details not returned by the API)
+    
+
+
+---
+
+## 2025-10-23 · Post · Another amazing Pwn2Own in the books! 💪 
+
+
+### Post — @Neodyme — 2025-10-23 16:42 UTC (2025-10-23 17:42 WAT)
+
+- URL: https://x.com/Neodyme/status/1981400861684228118
+- Metrics (at fetch): bookmark 2, impression 2074, like 25, quote 1, reply 3, retweet 3
+
+> Another amazing #Pwn2Own in the books! 💪 
+> Our team pulled off some great hacks: 
+> 🖨️ HP Printer — $20K / 2 MoP 
+> 🏠 Home Assistant — $15K / 3 MoP 
+> 🔌 Smart Plug — $20K / 2 MoP 
+> 📸 Canon — $10K / 2 MoP 
+> Total: $65K / 9 MoP 
+> So proud of what we achieved together! 🧠⚡ https://t.co/1YZQSWvNnI
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G39T96cXEAEisMB.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G39T_kIXEAE772_.jpg — no alt text provided by author
+
+
+---
+
+## 2025-10-23 · Post · Check out our new blog post on a research-driven look at software-only DRM. Explore how the Qiling e
+
+
+### Post — @Neodyme — 2025-10-23 12:12 UTC (2025-10-23 13:12 WAT)
+
+- URL: https://x.com/Neodyme/status/1981332992875282502
+- Metrics (at fetch): bookmark 4, impression 1683, like 14, quote 1, reply 0, retweet 2
+
+> Check out our new blog post on a research-driven look at software-only DRM. Explore how the Qiling emulation framework can be used to analyze Widevine and how Differential Fault Analysis (DFA) and emulation aid de-obfuscation.
+> ▶️ Read more: https://t.co/v9wyj5eqy0
+
+
+---
+
+## 2025-10-22 · Post · Shout-out to our colleagues at Pwn2Own in Cork: https://t.co/vjTP9tQPwc
+
+
+### Post — @Neodyme — 2025-10-22 13:21 UTC (2025-10-22 14:21 WAT)
+
+- URL: https://x.com/Neodyme/status/1980987957017530388
+- Metrics (at fetch): bookmark 0, impression 881, like 3, quote 0, reply 0, retweet 1
+
+> Shout-out to our colleagues at #Pwn2Own in Cork: https://t.co/vjTP9tQPwc
+
+
+---
+
 ## 2025-10-21 · Post · While our colleagues hack live at Pwn2Own in Cork, take a look at our newly published last year's w
 
 
@@ -260,12 +446,52 @@ Tags (automatic): Path normalization
 ### Post — @Neodyme — 2025-10-21 12:40 UTC (2025-10-21 13:40 WAT)
 
 - URL: https://x.com/Neodyme/status/1980615277680189918
-- Metrics (at fetch): bookmark 1, impression 911, like 12, quote 0, reply 1, retweet 5
+- Metrics (at fetch): bookmark 1, impression 915, like 12, quote 0, reply 1, retweet 5
 
 > While our colleagues hack live at #Pwn2Own in Cork, take a look at our newly published last year's writeup on our blog: We compromised a QNAP router to take over a networked Canon printer. 
 > ▶️ Read the findings and how we got there: https://neodyme.io/en/blog/pwn2own-2024_qhora/
 
 **Links in post:** https://neodyme.io/en/blog/pwn2own-2024_qhora/
+
+
+---
+
+## 2025-10-17 · Post · Heading to @hack_lu? 🔐
+
+
+### Post — @Neodyme — 2025-10-17 16:12 UTC (2025-10-17 17:12 WAT)
+
+- URL: https://x.com/Neodyme/status/1979218978481303739
+- Metrics (at fetch): bookmark 0, impression 894, like 3, quote 0, reply 0, retweet 3
+
+> Heading to @hack_lu? 🔐
+> Our colleague Felipe will discuss how partial emulation and DFA can be used to study a legacy version of Widevine L3, Google's software-based DRM. 
+> ➡️ Dive into the past to strengthen future DRM security.
+>
+> 🗓️ Oct 23 at 2:15pm
+> https://2025.hack.lu/agenda/
+
+**Links in post:** https://2025.hack.lu/agenda/
+
+
+---
+
+## 2025-10-17 · Post · Heading to hack_lu? 🔐
+
+
+### Post — @Neodyme — 2025-10-17 15:53 UTC (2025-10-17 16:53 WAT)
+
+- URL: https://x.com/Neodyme/status/1979214157263061406
+- Metrics (at fetch): bookmark 0, impression 148, like 1, quote 0, reply 0, retweet 0
+
+> Heading to #hack_lu? 🔐
+> Our colleague Felipe will discuss how partial emulation and DFA can be used to study a legacy version of Widevine L3, Google's software-based DRM. 
+> ➡️ Dive into the past to strengthen future DRM security.
+>
+> 🗓️ Oct 23 at 2:15pm
+> https://2025.hack.lu/agenda/
+
+**Links in post:** https://2025.hack.lu/agenda/
 
 
 ---
@@ -276,12 +502,175 @@ Tags (automatic): Path normalization
 ### Post — @Neodyme — 2025-10-01 14:27 UTC (2025-10-01 15:27 WAT)
 
 - URL: https://x.com/Neodyme/status/1973394439436456063
-- Metrics (at fetch): bookmark 2, impression 1217, like 9, quote 0, reply 1, retweet 4
+- Metrics (at fetch): bookmark 2, impression 1220, like 9, quote 0, reply 1, retweet 4
 
 > ⚡️ Lenovo DCC contained an easy-to-exploit LPE: a weak ACL bug → local privilege escalation → full admin 🖥️👨‍💻
 > We break it down with reverse engineering, process tracing, &amp; two exploit strategies. Read Part 1 of our deep dive: 👉 https://neodyme.io/de/blog/lenovo_dcc_lpe_logic/
 
 **Links in post:** https://neodyme.io/de/blog/lenovo_dcc_lpe_logic/
+
+
+---
+
+## 2025-09-16 · Post · ▶️ We built a proof-of-concept post-quantum FIDO authenticator. It's phishing- AND quantum-resistant
+
+
+### Post — @Neodyme — 2025-09-16 13:46 UTC (2025-09-16 14:46 WAT)
+
+- URL: https://x.com/Neodyme/status/1967948085235269998
+- Metrics (at fetch): bookmark 2, impression 824, like 11, quote 0, reply 1, retweet 3
+
+> ▶️ We built a proof-of-concept post-quantum FIDO authenticator. It's phishing- AND quantum-resistant.
+> ✅️Bonus: it even outperforms Google's prototype. 👀
+> Full write-up here: https://neodyme.io/en/blog/pqc-fido/
+
+**Links in post:** https://neodyme.io/en/blog/pqc-fido/
+
+
+---
+
+## 2025-09-05 · Post · ☀️Teamwork doesn't just happen at the desk.
+
+
+### Post — @Neodyme — 2025-09-05 15:17 UTC (2025-09-05 16:17 WAT)
+
+- URL: https://x.com/Neodyme/status/1963984751166984435
+- Metrics (at fetch): bookmark 0, impression 560, like 10, quote 0, reply 1, retweet 0
+
+> ☀️Teamwork doesn't just happen at the desk.
+> This week, our crew is in Mallorca, building ideas, strengthening bonds, and enjoying some well-deserved sunshine together.🌴
+> Great collaboration comes from trust, connection, and a shared good vibe✨ [pic.x.com/9SeaWNQ8yT]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G0F5pP2WkAAfJHP.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G0F5lVmWAAAUOyI.jpg — no alt text provided by author
+
+
+---
+
+## 2025-09-05 · Post · 🔗 We're sponsoring the TUM Blockchain Conference 2025! @tbc_munich 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2025-09-05 09:17 UTC (2025-09-05 10:17 WAT)
+
+- URL: https://x.com/Neodyme/status/1963894234806616306
+- Metrics (at fetch): bookmark 0, impression 486, like 4, quote 0, reply 2, retweet 0
+
+> 🔗 We're sponsoring the TUM Blockchain Conference 2025! @tbc_munich 
+> 🗓 Sept 11–12
+> 📍 House of Communication, Munich
+>
+> We're giving away 10 free tickets 🎟️
+>
+> Want one?
+> 👉 Comment why you want to attend
+>
+> Winners will be announced soon. Don't miss it!
+
+
+---
+
+## 2025-09-05 · Post · 🔗 We're sponsoring the @tbc_munich 2025!
+
+
+### Post — @Neodyme — 2025-09-05 09:16 UTC (2025-09-05 10:16 WAT)
+
+- URL: https://x.com/Neodyme/status/1963894030200193412
+- Metrics (at fetch): bookmark 0, impression 29, like 0, quote 0, reply 0, retweet 0
+
+> 🔗 We're sponsoring the @tbc_munich 2025!
+> 🗓 Sept 11–12
+> 📍 House of Communication, Munich
+>
+> We're giving away 10 free tickets 🎟️
+>
+> Want one?
+> 👉 Comment why you want to attend
+>
+> Winners will be announced soon. Don't miss it!
+
+
+---
+
+## 2025-09-03 · Post · Very proud to support the TUM Blockchain Conference taking place September 11-12, 2025. https://twit
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2025-09-03 17:55 UTC (2025-09-03 18:55 WAT)
+
+- URL: https://x.com/Neodyme/status/1963299812159234232
+- Metrics (at fetch): bookmark 1, impression 518, like 1, quote 0, reply 0, retweet 0
+
+> Very proud to support the TUM Blockchain Conference taking place September 11-12, 2025. https://twitter.com/tbc_munich/status/1963257548594638861
+
+**Links in post:** https://twitter.com/tbc_munich/status/1963257548594638861
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1531913920650280962 — 2025-09-03 15:07 UTC (2025-09-03 16:07 WAT)
+    
+    - URL: https://x.com/1531913920650280962/status/1963257548594638861
+    - Metrics (at fetch): bookmark 0, impression 1560, like 25, quote 2, reply 10, retweet 2
+    
+    > Meet our Bronze Sponsors 🚀 
+    >
+    > 📢 We’re thrilled to announce @StakingFac, @Neodyme and @arcium as the bronze sponsors of the TUM Blockchain Conference 2025!
+    >
+    > Staking Facilities are a leading provider of enterprise-grade Web 3.0 infrastructure and non-custodial staking services for various Proof-of-Stake blockchains, offering secure and reliable staking solutions.
+    >
+    > Neodyme is a team of security researchers and experts offering cutting-edge security audits, training, and consulting services for the blockchain industry, particularly focusing on smart contract security.
+    >
+    > Arcium is a decentralized confidential computing network that allows for secure, private data processing and collaboration using advanced cryptography like MPC and ZKPs. It enables computations on encrypted data, protecting privacy across diverse industries.
+    >
+    > 🙏 Thank you for supporting us!
+    >
+    > 📅 Mark your calendars: September 11–12, 2025
+    > 📍 Location: House of Communication, Munich
+    > 🎟 Tickets: https://tum-blockchain-conference-25.eventbrite.de
+    >
+    > [BlockchainConference25 StakingFacilities Neodyme Arcium TUMBlockchainClub TUMBlockchainConference Sponsor Students]
+    
+    **Media:**
+    - media `3_1963257539006451712` (details not returned by the API)
+    
+    **Links in post:** https://tum-blockchain-conference-25.eventbrite.de
+    
+
+
+---
+
+## 2025-08-27 · Post · Stopping sandwiching requires more than patches, it requires principles. https://twitter.com/Marinad
+
+
+### Post — @Neodyme — 2025-08-27 08:47 UTC (2025-08-27 09:47 WAT)
+
+- URL: https://x.com/Neodyme/status/1960625209783808397
+- Metrics (at fetch): bookmark 0, impression 598, like 1, quote 0, reply 0, retweet 0
+
+> Stopping sandwiching requires more than patches, it requires principles. https://twitter.com/MarinadeFinance/status/1960409410817417664
+
+**Links in post:** https://twitter.com/MarinadeFinance/status/1960409410817417664
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1375046230858993664 — 2025-08-26 18:30 UTC (2025-08-26 19:30 WAT)
+    
+    - URL: https://x.com/1375046230858993664/status/1960409410817417664
+    - Metrics (at fetch): bookmark 0, impression 3240, like 37, quote 2, reply 8, retweet 4
+    
+    > Sandwiching has been a recurring issue in Solana’s history. 
+    > The real solution? Accountability and honesty.
+    >
+    > Patrick Reich from @neodyme breaks down how @MarinadeFinance Select is stopping sandwiching by committing to ethical onchain practices.
+    
+    **Media:**
+    - media `13_1960406403379515392` (details not returned by the API)
+    
 
 
 ---
@@ -295,7 +684,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2025-08-20 18:26 UTC (2025-08-20 19:26 WAT)
 
 - URL: https://x.com/Neodyme/status/1958234163376717904
-- Metrics (at fetch): bookmark 13, impression 46027, like 141, quote 18, reply 14, retweet 23
+- Metrics (at fetch): bookmark 13, impression 46030, like 141, quote 18, reply 14, retweet 23
 
 > We've concluded our audit of P-Token, Solana's new token program build with Pinocchio. It promises impressive savings in Compute Unit (CU) usage. 
 > But what exactly does this mean in practice? We've investigated 👇️
@@ -334,18 +723,205 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2025-08-13 · Post · Back from @BlackHatEvents &amp; @defcon! 🎉
+
+
+### Post — @Neodyme — 2025-08-13 07:04 UTC (2025-08-13 08:04 WAT)
+
+- URL: https://x.com/Neodyme/status/1955525856404885773
+- Metrics (at fetch): bookmark 5, impression 3271, like 26, quote 0, reply 1, retweet 3
+
+> Back from @BlackHatEvents &amp; @defcon! 🎉
+> Our colleagues delivered insightful trainings on crypto hacking and binary exploitation and got amazing feedback from the crowd 🙌
+> Missed it? We offer tailored security trainings for companies too. Just reach out. [pic.x.com/qefAXPtKtH]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GyNiOZ1WsAEzKQ1.jpg — no alt text provided by author
+
+
+---
+
 ## 2025-07-25 · Post · We reported a vulnerability in Parallels Client via @thezdi last year. 
 
 
 ### Post — @Neodyme — 2025-07-25 09:01 UTC (2025-07-25 10:01 WAT)
 
 - URL: https://x.com/Neodyme/status/1948669905005601000
-- Metrics (at fetch): bookmark 8, impression 2203, like 21, quote 0, reply 0, retweet 8
+- Metrics (at fetch): bookmark 8, impression 2205, like 21, quote 0, reply 0, retweet 8
 
 > We reported a vulnerability in Parallels Client via @thezdi last year. 
 > 🔥 The issue (CVE-2025-6812) - now fixed: A privileged service searched for an OpenSSL config file in an unsecured location, enabling LPE. 
-> ➡️ Advisory here: https://t.co/snjiUw8gLt 
+> ➡️ Advisory here: https://neodyme.io/en/advisories/cve-2025-6812/ 
 > ☂️ Patch your systems!
+
+**Links in post:** https://neodyme.io/en/advisories/cve-2025-6812/
+
+
+---
+
+## 2025-07-10 · Post · 🔧✨ On our company retreat this week, we're diving into hardware and protocol hacking: fingerprint se
+
+
+### Post — @Neodyme — 2025-07-10 10:08 UTC (2025-07-10 11:08 WAT)
+
+- URL: https://x.com/Neodyme/status/1943251096190726310
+- Metrics (at fetch): bookmark 1, impression 772, like 10, quote 0, reply 0, retweet 1
+
+> 🔧✨ On our company retreat this week, we're diving into hardware and protocol hacking: fingerprint sensors, smart locks, drones and Bluetooth speakers. A great mix of hands-on research, creative exploration, and team bonding over board games!🎲 [pic.x.com/KuHPa8OJZg]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvfQfZ-XYAAhwTD.jpg — no alt text provided by author
+
+
+---
+
+## 2025-07-09 · Post · @GMX_IO V1 has been hacked. Here is how: [pic.x.com/HoPh41jbcb]
+
+
+### Post — @Neodyme — 2025-07-09 22:40 UTC (2025-07-09 23:40 WAT)
+
+- URL: https://x.com/Neodyme/status/1943077811666706516
+- Metrics (at fetch): bookmark 12, impression 4426, like 18, quote 4, reply 2, retweet 5
+
+> @GMX_IO V1 has been hacked. Here is how: [pic.x.com/HoPh41jbcb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvcwudLWIAAbzdC.jpg — no alt text provided by author
+
+
+---
+
+## 2025-07-03 · Post · 🎤At 4pm today at the "Festival der Zukunft", our colleagues dive into:
+
+
+### Post — @Neodyme — 2025-07-03 07:47 UTC (2025-07-03 08:47 WAT)
+
+- URL: https://x.com/Neodyme/status/1940678670299058621
+- Metrics (at fetch): bookmark 0, impression 498, like 1, quote 0, reply 0, retweet 0
+
+> 🎤At 4pm today at the "Festival der Zukunft", our colleagues dive into:
+> "Black Hat, White Hat, Cyberwar - Modern Attacks and Defense"
+>
+> From hacking-as-a-service to cyberwarfare, discover how attacks are evolving and what it means for digital defense.
+> 🕵️‍♀️ Don't miss it!
+
+
+---
+
+## 2025-07-02 · Post · Think your speech model is secure?
+
+
+### Post — @Neodyme — 2025-07-02 14:03 UTC (2025-07-02 15:03 WAT)
+
+- URL: https://x.com/Neodyme/status/1940411028749312107
+- Metrics (at fetch): bookmark 0, impression 553, like 8, quote 0, reply 0, retweet 3
+
+> Think your speech model is secure?
+> It might be quietly leaking what it was trained on.
+>
+> In a new blog post, we explain membership inference attacks and why they matter for cyber security experts.
+> 🔗 https://neodyme.io/en/blog/membership_inference/
+
+**Links in post:** https://neodyme.io/en/blog/membership_inference/
+
+
+---
+
+## 2025-06-23 · Post · Meet our colleagues at the "Festival der Zukunft" at @DeutschesMuseum in Munich. Don't miss our talk
+
+
+### Post — @Neodyme — 2025-06-23 10:40 UTC (2025-06-23 11:40 WAT)
+
+- URL: https://x.com/Neodyme/status/1937098315369271576
+- Metrics (at fetch): bookmark 0, impression 681, like 6, quote 0, reply 0, retweet 1
+
+> Meet our colleagues at the "Festival der Zukunft" at @DeutschesMuseum in Munich. Don't miss our talk on July 3 at 4pm! 
+> Check it out here: https://www.1e9.community/festival-der-zukunft/programm/2025/black-hat-white-hat-cyberwar-the-dark-side-of-the-net [pic.x.com/dfzhPcN3vr]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GuHz-rVXsAARiFh.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GuH0AuSW4AAnz7w.jpg — no alt text provided by author
+
+**Links in post:** https://www.1e9.community/festival-der-zukunft/programm/2025/black-hat-white-hat-cyberwar-the-dark-side-of-the-net
+
+
+---
+
+## 2025-06-20 · Post · Cybersecurity needs more than tech, it needs people who care. ❤️
+
+
+### Post — @Neodyme — 2025-06-20 12:00 UTC (2025-06-20 13:00 WAT)
+
+- URL: https://x.com/Neodyme/status/1936031477499838663
+- Metrics (at fetch): bookmark 0, impression 639, like 3, quote 0, reply 0, retweet 1
+
+> Cybersecurity needs more than tech, it needs people who care. ❤️
+> That's why Neodyme is committed to supporting Nachwuchsförderung IT-Sicherheit e.V. not just financially, but with time, energy, and heart from our team. https://twitter.com/DHM_ctf/status/1936002669878853766
+
+**Links in post:** https://twitter.com/DHM_ctf/status/1936002669878853766
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1808779984405999617 — 2025-06-20 10:06 UTC (2025-06-20 11:06 WAT)
+    
+    - URL: https://x.com/1808779984405999617/status/1936002669878853766
+    - Metrics (at fetch): bookmark 3, impression 10947, like 9, quote 2, reply 0, retweet 3
+    
+    > Congratulations to the winners of the German Hacking Championship 2025:
+    > 1️⃣ Team KuK Hofhackerei
+    > 2️⃣ Team Organizers
+    > 3️⃣ Team Boomers :-)
+    > Incredible work by all teams: 33 hours of pure teamwork, and tech brilliance. 👏 [pic.x.com/Qgnauz6y5x]
+    
+    **Media:**
+    - media `3_1936002411279069184` (details not returned by the API)
+    
+
+
+---
+
+## 2025-06-18 · Post · We're thrilled that Nachwuchsförderung IT-Sicherheit is organizing the @DHM_ctf 2025! 🇩🇪🧠
+
+
+### Post — @Neodyme — 2025-06-18 08:20 UTC (2025-06-18 09:20 WAT)
+
+- URL: https://x.com/Neodyme/status/1935251260552220715
+- Metrics (at fetch): bookmark 1, impression 534, like 2, quote 0, reply 0, retweet 0
+
+> We're thrilled that Nachwuchsförderung IT-Sicherheit is organizing the @DHM_ctf 2025! 🇩🇪🧠
+> It's a fantastic event for the next generation of cybersecurity minds, we can't wait to see what they bring to the challenge! 💙 https://t.co/61yBKj8Cg3
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1808779984405999617 — 2025-06-18 08:10 UTC (2025-06-18 09:10 WAT)
+    
+    - URL: https://x.com/1808779984405999617/status/1935248722926895279
+    - Metrics (at fetch): bookmark 1, impression 1002, like 7, quote 2, reply 0, retweet 0
+    
+    > 💥 It’s ON! The German Hacking Championship 2025 kicks off now.
+    > Top teams from across Germany and beyond are tackling tough challenges in this 33-hour CTF marathon. 🧠💻
+    >
+    > Best of luck to all teams! 🛡️ https://t.co/iNQ8SbRdZj
+    
+    **Media:**
+    - media `3_1935248496103206912` (details not returned by the API)
+    
+
+
+---
+
+## 2025-06-06 · Post · 🏆 Throwback to Pwn2Own Toronto 2022: "Routers are just Linux boxes with antennas." So we treated one
+
+
+Tags (automatic): Path normalization
+
+
+### Post — @Neodyme — 2025-06-06 16:08 UTC (2025-06-06 17:08 WAT)
+
+- URL: https://x.com/Neodyme/status/1931020362013089950
+- Metrics (at fetch): bookmark 13, impression 1533, like 29, quote 0, reply 0, retweet 6
+
+> 🏆 Throwback to Pwn2Own Toronto 2022: "Routers are just Linux boxes with antennas." So we treated one like it. At #Pwn2Own 2022, we turned a Netgear RAX30 into a stepping stone for a full LAN pivot. Story: https://t.co/18MoY4DvMP
 
 
 ---
@@ -359,12 +935,30 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2025-05-28 15:13 UTC (2025-05-28 16:13 WAT)
 
 - URL: https://x.com/Neodyme/status/1927745141680275958
-- Metrics (at fetch): bookmark 4, impression 954, like 11, quote 1, reply 0, retweet 6
+- Metrics (at fetch): bookmark 4, impression 955, like 11, quote 1, reply 0, retweet 6
 
 > Part 3 of our Riverguard series is out! 
 > We're looking under the hood at the "fuzzcases" Riverguard uses to catch real-world bugs in Solana smart contracts. 
 > Still shocked how often some of these pop up. 
 > Check it out 👉 https://t.co/5WkvxEz0oU
+
+
+---
+
+## 2025-05-28 · Post · Once again this year, a few colleagues couldn’t resist jumping into the HTB CTF to take on experts f
+
+
+### Post — @Neodyme — 2025-05-28 10:39 UTC (2025-05-28 11:39 WAT)
+
+- URL: https://x.com/Neodyme/status/1927676147568980450
+- Metrics (at fetch): bookmark 0, impression 1102, like 8, quote 0, reply 1, retweet 3
+
+> Once again this year, a few colleagues couldn’t resist jumping into the HTB CTF to take on experts from around the world. 💻
+> A great challenge with a wide range of categories.
+> The result: 1st place in 🇩🇪 and top 3 in 🇪🇺. https://t.co/pGqdB71DbJ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GsB673XWEAAbQXd.jpg — no alt text provided by author
 
 
 ---
@@ -378,11 +972,28 @@ Tags (automatic): RCE
 ### Post — @Neodyme — 2025-05-22 11:07 UTC (2025-05-22 12:07 WAT)
 
 - URL: https://x.com/Neodyme/status/1925508702955610145
-- Metrics (at fetch): bookmark 26, impression 5011, like 71, quote 0, reply 2, retweet 15
+- Metrics (at fetch): bookmark 26, impression 5012, like 71, quote 0, reply 2, retweet 15
 
 > At #Pwn2Own Ireland 2024, we successfully targeted the SOHO Smashup category. 🖨️
 > Starting with a QNAP QHora-322 NAS, we pivoted to the Canon imageCLASS MF656Cdw - and ended up with shellcode execution.
 > Read the full vulnerability deep dive here 👉 https://t.co/Lx8T5mLVaL
+
+
+---
+
+## 2025-05-17 · Post · Day 2 at @offensive_con has just started and our colleagues Kolja Grassmann and Alain Rödel are righ
+
+
+### Post — @Neodyme — 2025-05-17 08:49 UTC (2025-05-17 09:49 WAT)
+
+- URL: https://x.com/Neodyme/status/1923662268484518305
+- Metrics (at fetch): bookmark 1, impression 2912, like 22, quote 0, reply 0, retweet 4
+
+> Day 2 at @offensive_con has just started and our colleagues Kolja Grassmann and Alain Rödel are right in the middle of it! 🔥
+> Can't wait to hear the insights they bring back from some of the sharpest minds in offensive security. If you're there too, make sure to say hi! https://t.co/JnCZvpD34J
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrI3-AwX0AAkmPF.jpg — no alt text provided by author
 
 
 ---
@@ -396,7 +1007,7 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 ### Post — @Neodyme — 2025-05-02 11:03 UTC (2025-05-02 12:03 WAT)
 
 - URL: https://x.com/Neodyme/status/1918259999668662740
-- Metrics (at fetch): bookmark 47, impression 6405, like 68, quote 1, reply 1, retweet 27
+- Metrics (at fetch): bookmark 47, impression 6407, like 68, quote 1, reply 1, retweet 27
 
 > From iframes and file reads to full RCE. 🔥
 >
@@ -405,6 +1016,62 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 > 👉 Read the full write-up here: https://neodyme.io/en/blog/html_renderer_to_rce/
 
 **Links in post:** https://neodyme.io/en/blog/html_renderer_to_rce/
+
+
+---
+
+## 2025-04-29 · Post · Interested in learning about Windows exploitation?
+
+
+### Post — @Neodyme — 2025-04-29 07:50 UTC (2025-04-29 08:50 WAT)
+
+- URL: https://x.com/Neodyme/status/1917124384428265971
+- Metrics (at fetch): bookmark 0, impression 1062, like 8, quote 0, reply 1, retweet 5
+
+> Interested in learning about Windows exploitation?
+>
+> This August, join us in Las Vegas for an intensive, hands-on 4-day DEFCON training:
+> Binary Exploitation on Windows, led by Felipe and Kolja!
+>
+> 🗓️ When: August 9–12, 2025
+> 📍 Where: Las Vegas Convention Center https://t.co/KfftGPzIE6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gpr-KUKXkAA48B2.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-26 · Post · Wrapping up our COM hijacking series! 🎉
+
+
+### Post — @Neodyme — 2025-02-26 15:37 UTC (2025-02-26 16:37 WAT)
+
+- URL: https://x.com/Neodyme/status/1894773883963601372
+- Metrics (at fetch): bookmark 18, impression 2410, like 49, quote 0, reply 0, retweet 16
+
+> Wrapping up our COM hijacking series! 🎉
+>
+> In the final part, we discuss a custom IPC protocol, use a registry write to gain SYSTEM privileges, and explore Denial of Service attacks on security products. 💥💻
+>
+> Don't miss it! https://t.co/y3slXMYAKe
+
+
+---
+
+## 2025-02-21 · Post · Neodyme about to go downhill (but just on these Utah slopes) ⛷️ 
+
+
+### Post — @Neodyme — 2025-02-21 21:59 UTC (2025-02-21 22:59 WAT)
+
+- URL: https://x.com/Neodyme/status/1893057930917814724
+- Metrics (at fetch): bookmark 0, impression 834, like 10, quote 1, reply 0, retweet 1
+
+> Neodyme about to go downhill (but just on these Utah slopes) ⛷️ 
+> Catch one of these guys at mtnDAO v7 to get your Neodyme beanie. https://t.co/aLvEuw5Nd6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkV9zgxW8AALyYu.jpg — no alt text provided by author
 
 
 ---
@@ -429,6 +1096,22 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 
 ---
 
+## 2025-02-05 · Post · 🪝Introducing HyperHook! 🪝 
+
+
+### Post — @Neodyme — 2025-02-05 15:18 UTC (2025-02-05 16:18 WAT)
+
+- URL: https://x.com/Neodyme/status/1887158796516049075
+- Metrics (at fetch): bookmark 1, impression 924, like 11, quote 0, reply 1, retweet 6
+
+> 🪝Introducing HyperHook! 🪝 
+> A harnessing framework for snapshot-based #fuzzing using Nyx. ⚒️ 
+> HyperHook simplifies guest-to-host communication &amp; automates repetitive tasks, making snapshot-fuzzing easier &amp; more efficient! 
+> 🔗 Read more: https://t.co/3p9aL51bsP
+
+
+---
+
 ## 2025-01-29 · Post · 🔎Part 2 of our COM hijacking series is live!
 
 
@@ -446,13 +1129,36 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 
 ---
 
+## 2025-01-21 · Post · We made it to the news... 📰 https://t.co/hXaQOyCJ6Q
+
+
+### Post — @Neodyme — 2025-01-21 17:58 UTC (2025-01-21 18:58 WAT)
+
+- URL: https://x.com/Neodyme/status/1881763437518389694
+- Metrics (at fetch): bookmark 1, impression 567, like 4, quote 0, reply 2, retweet 0
+
+> We made it to the news... 📰 https://t.co/hXaQOyCJ6Q
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1526726883487907842 — 2025-01-21 00:11 UTC (2025-01-21 01:11 WAT)
+    
+    - URL: https://x.com/1526726883487907842/status/1881494802463687001
+    - Metrics (at fetch): bookmark 0, impression 1156, like 15, quote 2, reply 0, retweet 3
+    
+    > Windows LPE (@MrAle_98), CLR OPSEC (@passthehashbrwn), WinRM BOFs (@falconforceteam), Bitlocker bypass (@Neodyme), and more! https://t.co/ZA9CzKGJ98
+    
+
+
+---
+
 ## 2025-01-17 · Post · Your laptop was stolen. It’s running Windows 11, fully up-to-date, device encryption (BitLocker) and
 
 
 ### Post — @Neodyme — 2025-01-17 14:00 UTC (2025-01-17 15:00 WAT)
 
 - URL: https://x.com/Neodyme/status/1880253893680197795
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 38, impression 5939, like 83, quote 3, reply 2, retweet 29
 
 > Your laptop was stolen. It’s running Windows 11, fully up-to-date, device encryption (BitLocker) and Secure Boot enabled. Your data is safe, right? Think again! This software-only attack grabs your encryption key. Following up on our #38C3 talk: https://neodyme.io/blog/bitlocker_screwed_without_a_screwdriver/
 
@@ -467,12 +1173,47 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 ### Post — @Neodyme — 2025-01-15 15:10 UTC (2025-01-15 16:10 WAT)
 
 - URL: https://x.com/Neodyme/status/1879546640983310647
-- Metrics (at fetch): bookmark 28, impression 15712, like 71, quote 3, reply 1, retweet 22
+- Metrics (at fetch): bookmark 28, impression 15713, like 71, quote 3, reply 1, retweet 22
 
 > Following our #38c3 talk about exploiting security software for privilege escalation, we're excited to kick off a new blog series! 🎊 
 > Check out our first blog post on our journey to 💥 exploit five reputable security products to gain privileges via COM hijacking: https://neodyme.io/blog/com_hijacking_1/
 
 **Links in post:** https://neodyme.io/blog/com_hijacking_1/
+
+
+---
+
+## 2024-12-27 · Post · ND people are @ 38c3 in Hamburg, Germany. Be sure to check out our two talks about LPEs in AV/EDR P
+
+
+### Post — @Neodyme — 2024-12-27 17:47 UTC (2024-12-27 18:47 WAT)
+
+- URL: https://x.com/Neodyme/status/1872700846640963787
+- Metrics (at fetch): bookmark 1, impression 1302, like 9, quote 0, reply 1, retweet 4
+
+> ND people are @ #38c3 in Hamburg, Germany. Be sure to check out our two talks about LPEs in AV/EDR Products (Saturday, 4 PM YELL) and a not yet mitigated Bitlocker Flaw! (Saturday, 7:15 PM HUFF) https://t.co/lVlqx7Yvaf
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gf0qaYNWMAAoIiq.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-16 · Post · Ever feel like Solana’s consensus isn’t clearly explained? We did too — so we dove deep and broke it
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2024-12-16 15:45 UTC (2024-12-16 16:45 WAT)
+
+- URL: https://x.com/Neodyme/status/1868683825242607773
+- Metrics (at fetch): bookmark 113, impression 22210, like 153, quote 10, reply 6, retweet 34
+
+> Ever feel like Solana’s consensus isn’t clearly explained? We did too — so we dove deep and broke it all down for you. With code-references for the glass-eaters! https://t.co/dxv0iGk9Dv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ge7lsj_WwAAKW8x.png — no alt text provided by author
 
 
 ---
@@ -483,7 +1224,7 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 ### Post — @Neodyme — 2024-11-21 16:56 UTC (2024-11-21 17:56 WAT)
 
 - URL: https://x.com/Neodyme/status/1859641975030546679
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 1471, like 13, quote 1, reply 0, retweet 7
 
 > 💥When security software itself becomes a target! 💥
 > Learn how we've uncovered critical vulnerabilities in Wazuh, turning a powerful security tool into an unexpected attack vector. 
@@ -506,6 +1247,60 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GavTmzFXsAAEQ8p.jpg — no alt text provided by author
+
+
+---
+
+## 2024-10-23 · Post · While some of our colleagues were at the itsaexpo in Nuremberg, our team who traveled to Cork succe
+
+
+### Post — @Neodyme — 2024-10-23 19:51 UTC (2024-10-23 20:51 WAT)
+
+- URL: https://x.com/Neodyme/status/1849176875433955328
+- Metrics (at fetch): bookmark 0, impression 739, like 9, quote 0, reply 1, retweet 0
+
+> While some of our colleagues were at the #itsaexpo in Nuremberg, our team who traveled to Cork successfully completed the #SOHOSmashup category at #Pwn2Own! We've responsibly disclosed the vulnerabilities we found. Big thanks to @thezdi for organizing this amazing event! https://t.co/7KiyWOooYl
+
+**Quoted post (full text):**
+
+    #### Quoted post — @thezdi — 2024-10-23 18:49 UTC (2024-10-23 19:49 WAT)
+    
+    - URL: https://x.com/thezdi/status/1849161189005398370
+    - Metrics (at fetch): bookmark 2, impression 13601, like 27, quote 5, reply 0, retweet 5
+    
+    > Our final SOHO Smashup of Day 2 ends with a partial collision. Neodyme (@Neodyme) used 4 bugs, including a stack-based buffer overflow, in their successful demonstration, but 1 bug had previously been used in the contest. They earn $21,875 and 8.75 Master of Pwn points. #Pwn2Own https://t.co/0HXlmtm0yi
+    
+    **Media:**
+    - media `3_1849161169681944576` (details not returned by the API)
+    
+
+
+---
+
+## 2024-10-22 · Post · gg, this should fit nicely into our new office 🖨️
+
+
+### Post — @Neodyme — 2024-10-22 11:01 UTC (2024-10-22 12:01 WAT)
+
+- URL: https://x.com/Neodyme/status/1848681093513257219
+- Metrics (at fetch): bookmark 0, impression 2296, like 24, quote 1, reply 3, retweet 5
+
+> gg, this should fit nicely into our new office 🖨️
+>
+> We'll be looking to complete the set tomorrow by attacking Lexmark CX331adwe at 3pm in the printers category and QNAP QHora-322 and Canon imageCLASS MF656Cdw at 5pm in the SOHO category. See you there! https://t.co/Iv0yQGK64e
+
+**Quoted post (full text):**
+
+    #### Quoted post — @thezdi — 2024-10-22 10:57 UTC (2024-10-22 11:57 WAT)
+    
+    - URL: https://x.com/thezdi/status/1848680053753663726
+    - Metrics (at fetch): bookmark 5, impression 11175, like 61, quote 3, reply 0, retweet 7
+    
+    > Confirmed! Team Neodyme (@Neodyme) used a stack-based buffer overflow to exploit the HP Color LaserJet Pro MFP 3301fdw printer. The earn $20,000 and 2 Master of Pwn points. #Pwn2Own #P2OIreland https://t.co/BXwQuDNcIi
+    
+    **Media:**
+    - media `7_1848679884094091264` (details not returned by the API)
+    
 
 
 ---
@@ -553,6 +1348,83 @@ Tags (automatic): Path normalization
     **Media:**
     - media `7_1844770824479236103` (details not returned by the API)
     
+
+
+---
+
+## 2024-10-10 · Post · We can't wait to put our logo on some printer at this years pwn2own again and call them our own 🥳 h
+
+
+### Post — @Neodyme — 2024-10-10 16:54 UTC (2024-10-10 17:54 WAT)
+
+- URL: https://x.com/Neodyme/status/1844421269867118792
+- Metrics (at fetch): bookmark 2, impression 1807, like 22, quote 0, reply 2, retweet 3
+
+> We can't wait to put our logo on some printer at this years #pwn2own again and call them our own 🥳 https://t.co/6khOlbdQ70
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZik_PMXgAMCuWn.jpg — alt text: "neodyme logo image on printer"
+
+
+---
+
+## 2024-09-11 · Post · Do you know how to use Token22 securely? Are you sure? 
+
+
+### Post — @Neodyme — 2024-09-11 17:21 UTC (2024-09-11 18:21 WAT)
+
+- URL: https://x.com/Neodyme/status/1833918780910801154
+- Metrics (at fetch): bookmark 7, impression 1941, like 16, quote 1, reply 2, retweet 5
+
+> Do you know how to use Token22 securely? Are you sure? 
+>
+> Read our latest blogpost! 👀
+>
+> https://t.co/ZPUYo8t5r1
+
+
+---
+
+## 2024-09-03 · Post · We're always there for you when the stakes are high. 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2024-09-03 14:31 UTC (2024-09-03 15:31 WAT)
+
+- URL: https://x.com/Neodyme/status/1830976873532383678
+- Metrics (at fetch): bookmark 4, impression 2741, like 16, quote 2, reply 2, retweet 3
+
+> We're always there for you when the stakes are high. 
+>
+> That's why we're happy to support @MarinadeFinance  as a sponsor for Stakepoint this year! 🧑‍🍳
+>
+> Looking forward to meet the community &amp; talk all about validators, staking and security the day before @SolanaConf  🥳 https://t.co/QJgMQ1qhBa
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWjvEeNWoAAhViZ.jpg — no alt text provided by author
+
+
+---
+
+## 2024-07-23 · Post · Looking to bulletproof your @Solana smart contracts? 👀
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2024-07-23 21:09 UTC (2024-07-23 22:09 WAT)
+
+- URL: https://x.com/Neodyme/status/1815856907829051519
+- Metrics (at fetch): bookmark 7, impression 1846, like 22, quote 1, reply 2, retweet 6
+
+> Looking to bulletproof your @Solana smart contracts? 👀
+> Dive into our latest blog post where we walk you through the easy steps to onboard with our automated vulnerability scanner Riverguard and secure your projects! 
+> Link in replies⬇️ https://t.co/SwJZVOu5T6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GTM1rlwXAAAKSfk.jpg — no alt text provided by author
 
 
 ---
@@ -616,6 +1488,52 @@ Tags (automatic): Path normalization
 > Curious? Stay tuned for our conference talks (tba) and in-depth technical blogposts!
 >
 > 2/2
+
+
+---
+
+## 2024-03-27 · Post · Come see @r0bre's talk on securing Solana contracts tomorrow at solana hackerhouse NYC!
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2024-03-27 19:51 UTC (2024-03-27 20:51 WAT)
+
+- URL: https://x.com/Neodyme/status/1773075333673050421
+- Metrics (at fetch): bookmark 1, impression 1313, like 14, quote 0, reply 5, retweet 1
+
+> Come see @r0bre's talk on securing Solana contracts tomorrow at #solana hackerhouse NYC!
+>
+> We'll also host a lunch session about OPSEC and will be around to chat on both days! [pic.x.com/UaPTIPo2gZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GJs6ne9XsAAnIAg.jpg — no alt text provided by author
+
+
+---
+
+## 2024-03-20 · Post · We're joining for another edition of @SuperteamDE's Solana Build Station in MUNICH! 🧑🏻‍💻👩🏻‍💻🥨
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2024-03-20 20:53 UTC (2024-03-20 21:53 WAT)
+
+- URL: https://x.com/Neodyme/status/1770554237488922931
+- Metrics (at fetch): bookmark 0, impression 29203, like 76, quote 0, reply 43, retweet 14
+
+> We're joining for another edition of @SuperteamDE's Solana Build Station in MUNICH! 🧑🏻‍💻👩🏻‍💻🥨
+>
+> Catch our talk on Day 1 and don't miss the opportunity to meet our top-tier auditors. We'll be there both days!
+>
+> Sign up 👉🏻 https://lu.ma/buildstationmunich [pic.x.com/TVmtAZoQ7F]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GJIXL0mXIAAiVS3.jpg — no alt text provided by author
+
+**Links in post:** https://lu.ma/buildstationmunich
 
 
 ---
@@ -846,12 +1764,77 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2024-02-29 18:50 UTC (2024-02-29 19:50 WAT)
 
 - URL: https://x.com/Neodyme/status/1763275472904052853
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 6, impression 3889, like 12, quote 2, reply 1, retweet 4
 
 > New Blogpost: Learn how Riverguard works and how we used it to find a bug in an on-chain casino 🎰↓
 > https://neodyme.io/en/blog/riverguard_1_intro/
 
 **Links in post:** https://neodyme.io/en/blog/riverguard_1_intro/
+
+
+---
+
+## 2024-02-26 · Post · Are you from Munich and interested in Blockchains?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2024-02-26 13:47 UTC (2024-02-26 14:47 WAT)
+
+- URL: https://x.com/Neodyme/status/1762112270992122262
+- Metrics (at fetch): bookmark 2, impression 2319, like 22, quote 0, reply 4, retweet 6
+
+> Are you from Munich and interested in Blockchains?
+>
+> We're partnering with @SuperteamDE, @StakingFac, @solanabeach_io, TUM Blockchain Club and @Solana to host the Munich Blockchain Startup &amp; Hackathon Day!
+>
+> 📅 March 9th, 15:30-19:30
+> https://lu.ma/Munich_hack
+
+**Links in post:** https://lu.ma/Munich_hack
+
+
+---
+
+## 2024-02-22 · Post · If your auditor isn't using Apple Vision Pro, they're probably missing 42% of bugs. 
+
+
+### Post — @Neodyme — 2024-02-22 19:15 UTC (2024-02-22 20:15 WAT)
+
+- URL: https://x.com/Neodyme/status/1760745098755596548
+- Metrics (at fetch): bookmark 2, impression 6561, like 37, quote 0, reply 3, retweet 7
+
+> If your auditor isn't using Apple Vision Pro, they're probably missing 42% of bugs. 
+>
+> Meet us at @mtndao, we'll explain.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GG9qE52XgAAN9j_.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/GG9qkjXWUAAsyr2.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-16 · Post · Have you ever pushed a secret to github by accident?
+
+
+### Post — @Neodyme — 2024-02-16 17:02 UTC (2024-02-16 18:02 WAT)
+
+- URL: https://x.com/Neodyme/status/1758537285006446692
+- Metrics (at fetch): bookmark 8, impression 2579, like 37, quote 1, reply 0, retweet 8
+
+> Have you ever pushed a secret to github by accident?
+> Did you try to rewrite history with a quick
+>
+> `git reset --hard HEAD^ &amp;&amp; git push origin -f` ??
+>
+> Well, maybe you should read our new blog post. 
+> Let's just say the internet never forgits👀
+>
+> https://neodyme.io/en/blog/github_secrets/
+
+**Links in post:** https://neodyme.io/en/blog/github_secrets/
 
 
 ---
@@ -862,7 +1845,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2024-01-24 18:19 UTC (2024-01-24 19:19 WAT)
 
 - URL: https://x.com/Neodyme/status/1750221784220336278
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 34, impression 10689, like 41, quote 5, reply 2, retweet 13
 
 > Read our new blogpost: How to hack a DAO! 😈
 >
@@ -883,7 +1866,7 @@ Tags (automatic): Dependency confusion / supply chain, Blockchain / L1-L2 / brid
 ### Post — @Neodyme — 2023-12-14 16:35 UTC (2023-12-14 17:35 WAT)
 
 - URL: https://x.com/Neodyme/status/1735337711555285261
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 67, impression 32498, like 144, quote 10, reply 4, retweet 40
 
 > Technical Analysis of the Ledger Supply-Chain Attack 🧵
 >
@@ -938,7 +1921,7 @@ Tags (automatic): Dependency confusion / supply chain, Blockchain / L1-L2 / brid
     #### Quoted post — @2652239532 — 2023-12-14 13:58 UTC (2023-12-14 14:58 WAT)
     
     - URL: https://x.com/2652239532/status/1735298142118072512
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 153, impression 732601, like 2202, quote 213, reply 314, retweet 740
     
     > Update: 
     >
@@ -956,6 +1939,106 @@ Tags (automatic): Dependency confusion / supply chain, Blockchain / L1-L2 / brid
 
 ---
 
+## 2023-11-06 · Post · Wow, what a week it has been! It was great to be hosting the security stage at @SolanaConf this year
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2023-11-06 11:54 UTC (2023-11-06 12:54 WAT)
+
+- URL: https://x.com/Neodyme/status/1721496297876979926
+- Metrics (at fetch): bookmark 0, impression 3151, like 25, quote 1, reply 1, retweet 7
+
+> Wow, what a week it has been! It was great to be hosting the security stage at @SolanaConf this year. Thanks to everyone who came to meet us, and a big THANK YOU to the teams at @solana that made this happen.
+>
+> Now, back to auditing. 👋
+
+
+---
+
+## 2023-11-03 · Post · Curious about blockchain hacking? May I interest you in our blog?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2023-11-03 12:00 UTC (2023-11-03 13:00 WAT)
+
+- URL: https://x.com/Neodyme/status/1720410673598083366
+- Metrics (at fetch): bookmark 0, impression 688, like 4, quote 0, reply 0, retweet 0
+
+> Curious about blockchain hacking? May I interest you in our blog?
+>
+> https://neodyme.io/blog/ [pic.x.com/MD788yuLCR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F-AgY8DaMAAtiks.png — no alt text provided by author
+
+**Links in post:** https://neodyme.io/blog/
+
+
+---
+
+## 2023-11-02 · Post · Here's the recording of our Riverguard announcement at Breakpoint2023
+
+
+### Post — @Neodyme — 2023-11-02 12:55 UTC (2023-11-02 13:55 WAT)
+
+- URL: https://x.com/Neodyme/status/1720062179204903351
+- Metrics (at fetch): bookmark 0, impression 938, like 5, quote 0, reply 0, retweet 0
+
+> Here's the recording of our Riverguard announcement at #Breakpoint2023
+>
+> https://www.youtube.com/watch?v=DF6jXAZqFaw 🍿🎥 https://twitter.com/Neodyme/status/1719723518638817321
+
+**Links in post:** https://www.youtube.com/watch?v=DF6jXAZqFaw, https://twitter.com/Neodyme/status/1719723518638817321
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Neodyme — 2023-11-01 14:30 UTC (2023-11-01 15:30 WAT)
+    
+    - URL: https://x.com/Neodyme/status/1719723518638817321
+    - Metrics (at fetch): bookmark 22, impression 31116, like 110, quote 11, reply 22, retweet 70
+    
+    > Introducing Riverguard 🏞️💂
+    >
+    > A new security tool for Solana program deployers... 🧵
+    >
+    > https://riverguard.io [pic.x.com/kKn8UqYbJN]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/F92vbGrbYAAdd47.jpg — no alt text provided by author
+    
+    **Links in post:** https://riverguard.io
+    
+
+
+---
+
+## 2023-11-02 · Post · Only 2 days left to snag early access for http://riverguard.io and secure your programs!
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2023-11-02 09:00 UTC (2023-11-02 10:00 WAT)
+
+- URL: https://x.com/Neodyme/status/1720002869884301534
+- Metrics (at fetch): bookmark 1, impression 608, like 3, quote 0, reply 0, retweet 0
+
+> Only 2 days left to snag early access for http://riverguard.io and secure your programs!
+>
+> Don't miss our @SolanaConf Lounge at Het Hem today or tomorrow. We'll personally guide you through the setup process. [pic.x.com/zUpr7YfRyf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F96tfYpaMAAFkGg.jpg — no alt text provided by author
+
+**Links in post:** http://riverguard.io
+
+
+---
+
 ## 2023-11-01 · Post · Introducing Riverguard 🏞️💂
 
 
@@ -965,7 +2048,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2023-11-01 14:30 UTC (2023-11-01 15:30 WAT)
 
 - URL: https://x.com/Neodyme/status/1719723518638817321
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 22, impression 31116, like 110, quote 11, reply 22, retweet 70
 
 > Introducing Riverguard 🏞️💂
 >
@@ -977,6 +2060,309 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - photo: https://pbs.twimg.com/media/F92vbGrbYAAdd47.jpg — no alt text provided by author
 
 **Links in post:** https://riverguard.io
+
+
+---
+
+## 2023-11-01 · Post · In Amsterdam for @SolanaConf this week? 👀
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2023-11-01 08:02 UTC (2023-11-01 09:02 WAT)
+
+- URL: https://x.com/Neodyme/status/1719625835840508223
+- Metrics (at fetch): bookmark 1, impression 2941, like 22, quote 1, reply 1, retweet 6
+
+> In Amsterdam for @SolanaConf this week? 👀
+>
+> Today, we're hosting the Neodyme Security Stage at Het Hem!
+> A full day dedicated to securing the Solana Ecosystem.
+>
+> Here's a breakdown of the day!  📅👇
+> #Breakpoint2023 [pic.x.com/67IMMf8JdJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F91WlL5aIAANVDH.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-31 · Post · Pumpkin carving contest was pretty dope ngl [pic.x.com/JJoNVPapr6]
+
+
+### Post — @Neodyme — 2023-10-31 18:37 UTC (2023-10-31 19:37 WAT)
+
+- URL: https://x.com/Neodyme/status/1719423460445724805
+- Metrics (at fetch): bookmark 0, impression 465, like 2, quote 0, reply 0, retweet 0
+
+> Pumpkin carving contest was pretty dope ngl [pic.x.com/JJoNVPapr6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9yeecaXYAAM2p0.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F9yeecVX0AA6WVi.jpg — no alt text provided by author
+- video: https://pbs.twimg.com/amplify_video_thumb/1719423403671646208/img/9rXVYNvbQlpK7qXV.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-31 · Post · Get in loser, we're going to https://lu.ma/ez0qr1s9
+
+
+### Post — @Neodyme — 2023-10-31 18:00 UTC (2023-10-31 19:00 WAT)
+
+- URL: https://x.com/Neodyme/status/1719414063653102020
+- Metrics (at fetch): bookmark 1, impression 621, like 4, quote 0, reply 1, retweet 1
+
+> Get in loser, we're going to https://lu.ma/ez0qr1s9
+> #Breakpoint2023 [pic.x.com/GWCTqdL7zB]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9yV-j2a0AQdve6.png — no alt text provided by author
+
+**Links in post:** https://lu.ma/ez0qr1s9
+
+
+---
+
+## 2023-10-31 · Post · Pumpkin carving contest starting at 13:30 at Het Hem! 🤩🎃
+
+
+### Post — @Neodyme — 2023-10-31 12:13 UTC (2023-10-31 13:13 WAT)
+
+- URL: https://x.com/Neodyme/status/1719326820397400079
+- Metrics (at fetch): bookmark 1, impression 511, like 4, quote 0, reply 0, retweet 1
+
+> Pumpkin carving contest starting at 13:30 at Het Hem! 🤩🎃
+> #Breakpoint2023 [pic.x.com/U4l3OFMKSO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9xGn_EXwAAQJe7.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F9xGn_GWYAA-N_P.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-31 · Post · Looking for LPs too supply tokens to our Neodime-@FlashTrade_ Pool 🪙
+
+
+### Post — @Neodyme — 2023-10-31 11:37 UTC (2023-10-31 12:37 WAT)
+
+- URL: https://x.com/Neodyme/status/1719317749657112693
+- Metrics (at fetch): bookmark 1, impression 927, like 13, quote 0, reply 1, retweet 2
+
+> Looking for LPs too supply tokens to our Neodime-@FlashTrade_ Pool 🪙
+> #Breakpoint2023 [pic.x.com/ub8NOfq3y5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9w-YAAW0AAzH35.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-31 · Post · Hurry up! Tickets for tonight's Hacky Halloween Party are almost gone! 👻
+
+
+### Post — @Neodyme — 2023-10-31 09:30 UTC (2023-10-31 10:30 WAT)
+
+- URL: https://x.com/Neodyme/status/1719285663357649288
+- Metrics (at fetch): bookmark 0, impression 415, like 5, quote 0, reply 0, retweet 0
+
+> Hurry up! Tickets for tonight's Hacky Halloween Party are almost gone! 👻
+>
+> Are you coming? Dress up and join the costume contest!
+>
+> No costume? No problem! Come by our Lounge at Het Hem and talented make-up artists will give you a spooky makeover💄
+>
+> 🎟️  https://lu.ma/ez0qr1s9 [pic.x.com/hsGQ2AptvL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9whMrtbAAAnyID.jpg — no alt text provided by author
+
+**Links in post:** https://lu.ma/ez0qr1s9
+
+
+---
+
+## 2023-10-30 · Post · Large amounts of "Neodime" coins have been found to be circulating at Breakpoint2023 [pic.x.com/2NR
+
+
+### Post — @Neodyme — 2023-10-30 18:44 UTC (2023-10-30 19:44 WAT)
+
+- URL: https://x.com/Neodyme/status/1719062648564625814
+- Metrics (at fetch): bookmark 1, impression 771, like 12, quote 0, reply 1, retweet 0
+
+> Large amounts of "Neodime" coins have been found to be circulating at #Breakpoint2023 [pic.x.com/2NR0XFr1l3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9tWXP3W0AAb6rr.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-30 · Post · Tomorrow. Pumpkin carving contest. Be there.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2023-10-30 18:00 UTC (2023-10-30 19:00 WAT)
+
+- URL: https://x.com/Neodyme/status/1719051640349888554
+- Metrics (at fetch): bookmark 0, impression 553, like 5, quote 0, reply 0, retweet 1
+
+> Tomorrow. Pumpkin carving contest. Be there.
+>
+> 🕰️ Tue, Oct 31 - During the Lunch Break
+> 📌 Next to ground floor stage at Het Hem #Breakpoint2023 @SolanaConf [pic.x.com/x7Babo01cT]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9tMWuDasAAqdCB.png — no alt text provided by author
+
+
+---
+
+## 2023-10-30 · Post · Swipe by our Lounge at @SolanaConf this week to talk security and claim a Neodime!
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2023-10-30 11:23 UTC (2023-10-30 12:23 WAT)
+
+- URL: https://x.com/Neodyme/status/1718951833949925473
+- Metrics (at fetch): bookmark 0, impression 1074, like 18, quote 0, reply 3, retweet 1
+
+> Swipe by our Lounge at @SolanaConf this week to talk security and claim a Neodime!
+> #Breakpoint2023 [pic.x.com/JwdxtMwI3B]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9rxlJcW0AAEctv.jpg — no alt text provided by author
+
+
+---
+
+## 2023-10-28 · Post · Ok one more hint
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2023-10-28 07:00 UTC (2023-10-28 08:00 WAT)
+
+- URL: https://x.com/Neodyme/status/1718160708473655634
+- Metrics (at fetch): bookmark 0, impression 1494, like 14, quote 1, reply 1, retweet 1
+
+> Ok one more hint
+> @SolanaConf #Breakpoint2023 [pic.x.com/8yoXM1H42N] https://twitter.com/Neodyme/status/1717586436764180676
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9giDrYbwAA5B6X.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/Neodyme/status/1717586436764180676
+
+**Quoted post (full text):**
+
+    #### Quoted post — @Neodyme — 2023-10-26 16:58 UTC (2023-10-26 17:58 WAT)
+    
+    - URL: https://x.com/Neodyme/status/1717586436764180676
+    - Metrics (at fetch): bookmark 3, impression 16518, like 49, quote 3, reply 2, retweet 7
+    
+    > Solana security won't be the same after this
+    >
+    > 📅 November 1st, 15:15
+    >
+    > https://conference.solana.com/breakpoint/agenda/session/1244720 [pic.x.com/hEb6jEts7Y]
+    
+    **Media:**
+    - media `3_1717586430493696002` (details not returned by the API)
+    
+    **Links in post:** https://conference.solana.com/breakpoint/agenda/session/1244720
+    
+
+
+---
+
+## 2023-10-27 · Post · It was a pleasure working with the @MarinadeFinance team to make sure this upgrade is as secure as p
+
+
+### Post — @Neodyme — 2023-10-27 17:11 UTC (2023-10-27 18:11 WAT)
+
+- URL: https://x.com/Neodyme/status/1717952052632911962
+- Metrics (at fetch): bookmark 0, impression 657, like 4, quote 0, reply 0, retweet 1
+
+> It was a pleasure working with the @MarinadeFinance team to make sure this upgrade is as secure as possible 🧑🏻‍🍳 https://twitter.com/MarinadeFinance/status/1717932577053426019
+
+**Links in post:** https://twitter.com/MarinadeFinance/status/1717932577053426019
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1375046230858993664 — 2023-10-27 15:53 UTC (2023-10-27 16:53 WAT)
+    
+    - URL: https://x.com/1375046230858993664/status/1717932577053426019
+    - Metrics (at fetch): bookmark 8, impression 49015, like 129, quote 6, reply 13, retweet 52
+    
+    > Marinade is completing preparations for an upgrade to its liquid staking smart contract. 
+    >
+    > Its designed to improve the performance and security of mSOL and capitalize on upcoming updates to Solana itself.  
+    >
+    > The multisig signing of the upgrade will begin on November 7th.  Once 6 signatures are reached the contract upgrade can be executed.  
+    >
+    > This upgrade has already completed two audits (Neodyme and Sec3). Read Neodyme's here: https://marinade.finance/docs/Neodyme_2023.pdf  
+    >
+    > The open-source code is available to be viewed on github: https://github.com/marinade-finance/liquid-staking-program/tree/1bd5133d3198c0af05a0952d1ca8cd0d1e19fad6 
+    >
+    > Read details about the upgrade on the blog: https://marinade.finance/blog/marinade-is-preparing-smart-contract-upgrade/ 
+    >
+    > Reach out if you have questions!
+    
+    **Links in post:** https://marinade.finance/docs/Neodyme_2023.pdf, https://github.com/marinade-finance/liquid-staking-program/tree/1bd5133d3198c0af05a0952d1ca8cd0d1e19fad6, https://marinade.finance/blog/marinade-is-preparing-smart-contract-upgrade/
+    
+
+
+---
+
+## 2023-10-27 · Post · Reminder: Your Solana upgrade authority should not be a hot wallet [pic.x.com/nC3oZpeI0Z]
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2023-10-27 16:58 UTC (2023-10-27 17:58 WAT)
+
+- URL: https://x.com/Neodyme/status/1717948822180302899
+- Metrics (at fetch): bookmark 0, impression 756, like 11, quote 0, reply 1, retweet 3
+
+> Reminder: Your Solana upgrade authority should not be a hot wallet [pic.x.com/nC3oZpeI0Z]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F9dhWRSbkAEwpTZ.png — no alt text provided by author
+
+
+---
+
+## 2023-10-26 · Post · Solana security won't be the same after this
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @Neodyme — 2023-10-26 16:58 UTC (2023-10-26 17:58 WAT)
+
+- URL: https://x.com/Neodyme/status/1717586436764180676
+- Metrics (at fetch): bookmark 3, impression 16518, like 49, quote 3, reply 2, retweet 7
+
+> Solana security won't be the same after this
+>
+> 📅 November 1st, 15:15
+>
+> https://conference.solana.com/breakpoint/agenda/session/1244720 [pic.x.com/hEb6jEts7Y]
+
+**Media:**
+- media `3_1717586430493696002` (details not returned by the API)
+
+**Links in post:** https://conference.solana.com/breakpoint/agenda/session/1244720
 
 
 ---

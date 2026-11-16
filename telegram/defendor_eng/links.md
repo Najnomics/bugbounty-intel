@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **512**
+Total distinct URLs: **513**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -518,3 +518,4 @@ Total distinct URLs: **512**
 | [2335](https://t.me/defendor_eng/2335) | 2026-11-12 15:51:57 | 🔓 Mercado Bitcoin lost $48.6M in multi-chain hack | https://rekt.news/mercado-rekt |
 | [2338](https://t.me/defendor_eng/2338) | 2026-11-13 12:10:40 | 🔬 CertiK: Arcus Records Show Integer Overflow Signature | https://www.certik.com/blog/arcus-incident-analysis |
 | [2340](https://t.me/defendor_eng/2340) | 2026-11-13 20:30:16 | 📋 Certora Guide: What to Check Before a Sui Audit | https://www.certora.com/blog/auditing-smart-contracts-sui |
+| [2346](https://t.me/defendor_eng/2346) | 2026-11-15 14:05:53 | 🚨 US Seizes $1.2B Frozen After North Korean Binance Hack | https://protos.com/us-seizes-1-2b-in-funds-frozen-after-north-korean-binance-hack |

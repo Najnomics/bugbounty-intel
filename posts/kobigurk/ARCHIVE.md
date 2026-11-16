@@ -1,6 +1,6 @@
 # @kobigurk — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 129
 - Conversations/threads: 111
@@ -242,7 +242,7 @@ Tags (automatic): ZK
     #### Quoted post — @zksecurityXYZ — 2026-10-21 14:20 UTC (2026-10-21 15:20 WAT)
     
     - URL: https://x.com/zksecurityXYZ/status/2112911877403758680
-    - Metrics (at fetch): bookmark 5, impression 3448, like 22, quote 2, reply 2, retweet 5
+    - Metrics (at fetch): bookmark 5, impression 3460, like 22, quote 2, reply 2, retweet 5
     
     > we packed the last zk podcast with zksecurity folks! mathias, giorgio, nico, and kobi talk about our lean framework (clean) to formally verify zk circuits and our competitive platform for degens to submit lean proofs https://zk.golf!
     
@@ -277,7 +277,7 @@ Tags (automatic): ZK
     #### Quoted post — @zksecurityXYZ — 2026-10-16 02:54 UTC (2026-10-16 03:54 WAT)
     
     - URL: https://x.com/zksecurityXYZ/status/2110927385868571017
-    - Metrics (at fetch): bookmark 12, impression 5313, like 67, quote 4, reply 3, retweet 8
+    - Metrics (at fetch): bookmark 12, impression 5324, like 66, quote 4, reply 3, retweet 8
     
     > We're proud to announce the release of zkao version 3, the most powerful zkao update we've released so far. If you have a codebase that implements cryptography, now is the time to let zkao find bugs in it. Go to https://www.zkao.io to request access today. [pic.x.com/n2TM3Wd8e3]
     
@@ -333,7 +333,19 @@ Tags (automatic): AI-assisted hunting
 
 > Optimizing with AI works - how about for cryptography? Can it break?? Wrote some thoughts and examples of how to do it well 😃 https://t.co/SPywVqp9X6
 
-**Quoted post** 2087190608771231750: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @zksecurityXYZ — 2026-08-11 14:53 UTC (2026-08-11 15:53 WAT)
+    
+    - URL: https://x.com/zksecurityXYZ/status/2087190608771231750
+    - Metrics (at fetch): bookmark 64, impression 9880, like 119, quote 1, reply 3, retweet 13
+    
+    > vibe cryptographing? do it right! explore some ways AI is being used to optimize cryptography
+    >
+    > https://blog.zksecurity.xyz/posts/optimizing-cryptography-with-ai/
+    
+    **Links in post:** https://blog.zksecurity.xyz/posts/optimizing-cryptography-with-ai/
+    
 
 
 ---

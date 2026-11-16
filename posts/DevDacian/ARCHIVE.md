@@ -1,11 +1,29 @@
 # @DevDacian — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 407
-- Conversations/threads: 359
+- Posts in this file: 408
+- Conversations/threads: 360
 - Oldest post captured: 2023-02-23
-- Newest post captured: 2026-11-12
+- Newest post captured: 2026-11-15
+
+
+---
+
+## 2026-11-15 · Post · Every failure is a future opportunity for success.
+
+
+### Post — @DevDacian — 2026-11-15 13:51 UTC (2026-11-15 14:51 WAT)
+
+- URL: https://x.com/DevDacian/status/2121964406565454125
+- Metrics (at fetch): bookmark 2, impression 1238, like 52, quote 1, reply 4, repost 2
+
+> Every failure is a future opportunity for success.
+>
+> Rather than beat yourself up over failure, reframe it as an opportunity to learn &amp; grow. [pic.x.com/Yfhz09yB0n]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXK6zQ6a8AA_gUq.jpg — no alt text provided by author
 
 
 ---

@@ -1,11 +1,36 @@
 # @depi_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 6
-- Conversations/threads: 3
+- Posts in this file: 7
+- Conversations/threads: 4
 - Oldest post captured: 2026-11-11
-- Newest post captured: 2026-11-13
+- Newest post captured: 2026-11-15
+
+
+---
+
+## 2026-11-15 · Reply · @0xLupin Reporting for duty! 🫡
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @0xLupin — 2026-11-15 00:24 UTC (2026-11-15 01:24 WAT)
+
+- URL: https://x.com/0xLupin/status/2121761198278595026
+- Metrics (at fetch): bookmark 130, impression 217088, like 752, quote 10, reply 28, retweet 19
+
+> The CEO of a pretty big company challenged me to hack them and right now pulling an all nighter hacking. Already found different ways to backdoor them but I won't stop until there is a giga crit. Will report back. 
+>
+> It's fun coming back to some old school hacking &lt;3
+
+
+### Post — @depi_ — 2026-11-15 15:21 UTC (2026-11-15 16:21 WAT)
+
+- URL: https://x.com/depi_/status/2121987077474508807
+- Metrics (at fetch): bookmark 0, impression 1603, like 4, quote 0, reply 0, repost 0
+
+> @0xLupin Reporting for duty! 🫡
 
 
 ---

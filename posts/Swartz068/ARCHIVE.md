@@ -1,11 +1,87 @@
 # @Swartz068 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 50
-- Conversations/threads: 33
+- Posts in this file: 54
+- Conversations/threads: 36
 - Oldest post captured: 2024-12-30
-- Newest post captured: 2026-11-14
+- Newest post captured: 2026-11-15
+
+
+---
+
+## 2026-11-15 · Thread · @Bugcrowd @lostsec_ @GodfatherOrwa @Hacker0x01 
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-11-15 17:25 UTC (2026-11-15 18:25 WAT)
+
+- URL: https://x.com/Swartz068/status/2122018251408654659
+- Metrics (at fetch): bookmark 0, impression 134, like 3, quote 0, reply 1, retweet 0
+
+> @Bugcrowd @lostsec_ @GodfatherOrwa @Hacker0x01 
+>
+> #BugBounty #CyberSecurity #EthicalHacking #BugHunter [pic.x.com/WPZwvGbWmN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXLsWLaakAAmRGH.jpg — no alt text provided by author
+
+
+### Thread part 2 — @Swartz068 — 2026-11-15 18:24 UTC (2026-11-15 19:24 WAT)
+
+- URL: https://x.com/Swartz068/status/2122033136947323077
+- Metrics (at fetch): bookmark 0, impression 20, like 1, quote 0, reply 0, retweet 0
+
+> @AkhilUngurala @Bugcrowd @lostsec_ @GodfatherOrwa @Hacker0x01 Sure
+
+
+---
+
+## 2026-11-15 · Post · @areebbbbaaaa Keep busy yourself with lots of things  learning &amp; exploring ✨️
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1430528648969428992 — 2026-11-15 11:57 UTC (2026-11-15 12:57 WAT)
+
+- URL: https://x.com/1430528648969428992/status/2121935509648019762
+- Metrics (at fetch): bookmark 24, impression 11041, like 266, quote 4, reply 45, retweet 17
+
+> How to control from texting a person!!!!!!
+
+
+### Post — @Swartz068 — 2026-11-15 17:33 UTC (2026-11-15 18:33 WAT)
+
+- URL: https://x.com/Swartz068/status/2122020123964031366
+- Metrics (at fetch): bookmark 0, impression 41, like 0, quote 0, reply 0, retweet 0
+
+> @areebbbbaaaa Keep busy yourself with lots of things  learning &amp; exploring ✨️
+
+
+---
+
+## 2026-11-15 · Post · Lol 😆 You can find classic IDORs like this:
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-11-15 12:31 UTC (2026-11-15 13:31 WAT)
+
+- URL: https://x.com/Swartz068/status/2121944192893264156
+- Metrics (at fetch): bookmark 34, impression 1097, like 38, quote 0, reply 0, retweet 3
+
+> Lol 😆 You can find classic IDORs like this:
+>
+> 1. Collect URLs from Wayback Machine.
+> 2. Save them in urls.txt.
+> 3. Filter URLs containing /user, /order, /id, etc.
+>
+> cat urls.txt | grep -E '/user|/order|/id'
+>
+> #bugbountytip #bugcrowd #bounty #hacking #cybersecurity
 
 
 ---

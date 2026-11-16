@@ -103,3 +103,5 @@ for shape in api_shapes:
 
 ## Related findings
 - See `harness/findings.jsonl` records with bug_class containing "Auth bypass" / "path normalisation".
+
+- 2026-11-16: see [2026-11-16 check-specs](2026-11-16-mcp-open-data-rpc-tracer-logs.md)

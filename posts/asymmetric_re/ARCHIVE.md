@@ -1,6 +1,6 @@
 # @asymmetric_re — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 139
 - Conversations/threads: 67
@@ -104,7 +104,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @asymmetric_re — 2026-10-22 19:41 UTC (2026-10-22 20:41 WAT)
 
 - URL: https://x.com/asymmetric_re/status/2113355177382351304
-- Metrics (at fetch): bookmark 2, impression 817, like 19, quote 0, reply 0, retweet 2
+- Metrics (at fetch): bookmark 2, impression 848, like 19, quote 0, reply 0, retweet 2
 
 > The recent OpenAI case shows that a serious compromise doesn't take much: with an insider, it just needs hardware that anyone can buy.
 >
@@ -112,7 +112,24 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Links in post:** https://twitter.com/fund_defi/status/2113279551069458486
 
-**Quoted post** 2113279551069458486: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1408488721813590016 — 2026-10-22 14:41 UTC (2026-10-22 15:41 WAT)
+    
+    - URL: https://x.com/1408488721813590016/status/2113279551069458486
+    - Metrics (at fetch): bookmark 4, impression 2059, like 23, quote 3, reply 0, retweet 3
+    
+    > The FBI recently arrested an @OpenAI engineer, accusing him of planting a covert recording device in the company’s executive conference room.
+    >
+    > Today, the DEF team published an OPSeC security expert take from @asymmetric_re's Tom Matthews. He shares advice on how to defend your office's physical security.
+    >
+    > https://www.defieducationfund.org/physical-security-advice-from-an-opsec-security-expert/
+    
+    **Media:**
+    - media `3_2113279150806937600` (details not returned by the API)
+    
+    **Links in post:** https://www.defieducationfund.org/physical-security-advice-from-an-opsec-security-expert/
+    
 
 
 ---
@@ -158,7 +175,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @asymmetric_re — 2026-10-19 17:36 UTC (2026-10-19 18:36 WAT)
 
 - URL: https://x.com/asymmetric_re/status/2112236410455597403
-- Metrics (at fetch): bookmark 29, impression 8803, like 95, quote 11, reply 11, retweet 12
+- Metrics (at fetch): bookmark 28, impression 8864, like 95, quote 11, reply 11, retweet 12
 
 > For its first 6 weeks on mainnet, Solana's governance program had a bug: any validator could silently erase its delegators' dissenting votes.
 >
@@ -261,7 +278,7 @@ Tags (automatic): TEE / enclave
     #### Quoted post — @osec_io — 2026-07-09 17:02 UTC (2026-07-09 18:02 WAT)
     
     - URL: https://x.com/osec_io/status/2075264272419143984
-    - Metrics (at fetch): bookmark 13, impression 14719, like 45, quote 5, reply 7, retweet 6
+    - Metrics (at fetch): bookmark 13, impression 14767, like 45, quote 5, reply 7, retweet 6
     
     > http://x.com/i/article/2074567551846354944
     
@@ -432,7 +449,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     #### Quoted post — @asymmetric_re — 2026-05-04 19:08 UTC (2026-05-04 20:08 WAT)
     
     - URL: https://x.com/asymmetric_re/status/2051378400900595730
-    - Metrics (at fetch): bookmark 74, impression 50387, like 175, quote 11, reply 18, retweet 39
+    - Metrics (at fetch): bookmark 74, impression 50399, like 176, quote 11, reply 18, retweet 39
     
     > Today we're launching Crucible, a coverage-guided fuzzing framework for Solana programs. Built for Anchor, with v2 support from day one.
     >
@@ -513,7 +530,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @asymmetric_re — 2026-05-04 19:08 UTC (2026-05-04 20:08 WAT)
 
 - URL: https://x.com/asymmetric_re/status/2051378400900595730
-- Metrics (at fetch): bookmark 74, impression 50387, like 175, quote 11, reply 18, retweet 39
+- Metrics (at fetch): bookmark 74, impression 50399, like 176, quote 11, reply 18, retweet 39
 
 > Today we're launching Crucible, a coverage-guided fuzzing framework for Solana programs. Built for Anchor, with v2 support from day one.
 >
@@ -604,7 +621,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @asymmetric_re — 2026-04-22 16:28 UTC (2026-04-22 17:28 WAT)
 
 - URL: https://x.com/asymmetric_re/status/2046989542054613194
-- Metrics (at fetch): bookmark 34, impression 13119, like 65, quote 5, reply 3, retweet 8
+- Metrics (at fetch): bookmark 34, impression 13131, like 65, quote 5, reply 3, retweet 8
 
 > On Solana, events are often reconstructed from transaction traces, and failed transactions still emit data.
 >
@@ -635,7 +652,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @asymmetric_re — 2026-04-15 16:13 UTC (2026-04-15 17:13 WAT)
 
 - URL: https://x.com/asymmetric_re/status/2044449154781569298
-- Metrics (at fetch): bookmark 41, impression 37003, like 128, quote 12, reply 5, retweet 20
+- Metrics (at fetch): bookmark 41, impression 37013, like 128, quote 11, reply 5, retweet 20
 
 > CU optimizations come with risks.
 >
@@ -1178,7 +1195,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     
     > We've launched a new security bounty program for Anchor, offering rewards of up to $100k for vulnerabilities that affect production code.
     >
-    > If you think you’ve found an issue, we want to hear from you. Details on scope and eligibility below ↓ https://t.co/qUFPrMSekk
+    > If you think you’ve found an issue, we want to hear from you. Details on scope and eligibility below ↓ [pic.x.com/qUFPrMSekk]
     
     **Media:**
     - media `3_1979203918031708160` (details not returned by the API)
@@ -1267,7 +1284,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @asymmetric_re — 2025-09-24 16:20 UTC (2025-09-24 17:20 WAT)
 
 - URL: https://x.com/asymmetric_re/status/1970886189587759268
-- Metrics (at fetch): bookmark 7, impression 2411, like 17, quote 1, reply 1, retweet 2
+- Metrics (at fetch): bookmark 7, impression 2412, like 17, quote 1, reply 1, retweet 2
 
 > GitHub Actions are a powerful automation tool, but also a prime target for supply-chain attacks.
 >
@@ -1310,11 +1327,11 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @asymmetric_re — 2025-09-22 17:01 UTC (2025-09-22 18:01 WAT)
 
 - URL: https://x.com/asymmetric_re/status/1970171583735243197
-- Metrics (at fetch): bookmark 47, impression 39866, like 111, quote 12, reply 6, retweet 15
+- Metrics (at fetch): bookmark 47, impression 39870, like 111, quote 12, reply 6, retweet 15
 
 > New post: @RelayProtocol’s contracts trusted Ed25519 verification without validating offsets, opening the door to forged allocator signatures and potential double-spends.
 >
-> @_fel1x details the bug, the risks it posed to cross-chain liquidity, and how the issue was addressed. https://t.co/uyg4CKFpeA
+> @_fel1x details the bug, the risks it posed to cross-chain liquidity, and how the issue was addressed. [pic.x.com/uyg4CKFpeA]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G1dxYFFaoAEMZ9i.jpg — no alt text provided by author
@@ -1347,7 +1364,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @asymmetric_re — 2025-09-17 12:20 UTC (2025-09-17 13:20 WAT)
 
 - URL: https://x.com/asymmetric_re/status/1968288978182050226
-- Metrics (at fetch): bookmark 102, impression 35449, like 155, quote 11, reply 6, retweet 26
+- Metrics (at fetch): bookmark 102, impression 35451, like 155, quote 11, reply 6, retweet 26
 
 > Threat Contained: marginfi Flash Loan Vulnerability by @_fel1x  
 >
@@ -1380,11 +1397,30 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @asymmetric_re — 2025-09-16 11:57 UTC (2025-09-16 12:57 WAT)
 
 - URL: https://x.com/asymmetric_re/status/1967920810863067427
-- Metrics (at fetch): bookmark 3, impression 23318, like 214, quote 2, reply 17, retweet 12
+- Metrics (at fetch): bookmark 3, impression 23319, like 214, quote 2, reply 17, retweet 12
 
-> This is one of the most significant audit competitions to date. Honored to support @category_xyz as a security partner to ensure everything runs smoothly. https://t.co/MohqySAX68
+> This is one of the most significant audit competitions to date. Honored to support @category_xyz as a security partner to ensure everything runs smoothly. https://twitter.com/monad/status/1967692955814334633
 
-**Quoted post** 1967692955814334633: not readable via the API (deleted, private, or withheld).
+**Links in post:** https://twitter.com/monad/status/1967692955814334633
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1342961741718810632 — 2025-09-15 20:52 UTC (2025-09-15 21:52 WAT)
+    
+    - URL: https://x.com/1342961741718810632/status/1967692955814334633
+    - Metrics (at fetch): bookmark 129, impression 322989, like 5616, quote 468, reply 1379, retweet 1901
+    
+    > Monad client is now open source --&gt; time for an audit competition
+    >
+    > A $500k unconditional prize pool is live on @code4rena
+    >
+    > Open for the next 27 days
+    >
+    > Competition link below 👇 [pic.x.com/xSWyIAiUBr]
+    
+    **Media:**
+    - media `3_1967692013869973504` (details not returned by the API)
+    
 
 
 ---
@@ -1485,7 +1521,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > New blog post: Behind the Scenes of a Blocked Phishing Attempt by @jb_asymmetricre
 >
 > An attacker posing as a well-known web3 founder messaged one of our engineers. We broke down the payload to demonstrate how even basic phishing tactics carry real risk.
-> https://t.co/60Ft8QY5U1
+> https://blog.asymmetric.re/threat-contained-behind-the-scenes-of-a-blocked-phishing-attempt/
+
+**Links in post:** https://blog.asymmetric.re/threat-contained-behind-the-scenes-of-a-blocked-phishing-attempt/
 
 
 ---
@@ -1496,13 +1534,27 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @asymmetric_re — 2025-06-19 18:04 UTC (2025-06-19 19:04 WAT)
 
 - URL: https://x.com/asymmetric_re/status/1935760517177675877
-- Metrics (at fetch): bookmark 3, impression 3629, like 37, quote 0, reply 0, retweet 1
+- Metrics (at fetch): bookmark 3, impression 3630, like 37, quote 0, reply 0, retweet 1
 
 > Lessons from early builds at Jump shaped how we approach embedded security. 
 >
-> Now, as Asymmetric Research, we continue to bring that model to high-trust teams building critical infrastructure through deep, long-term partnerships. https://t.co/lZhz1093hF
+> Now, as Asymmetric Research, we continue to bring that model to high-trust teams building critical infrastructure through deep, long-term partnerships. https://twitter.com/jump_/status/1935435825207984228
 
-**Quoted post** 1935435825207984228: not readable via the API (deleted, private, or withheld).
+**Links in post:** https://twitter.com/jump_/status/1935435825207984228
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1436363727159365637 — 2025-06-18 20:33 UTC (2025-06-18 21:33 WAT)
+    
+    - URL: https://x.com/1436363727159365637/status/1935435825207984228
+    - Metrics (at fetch): bookmark 168, impression 418762, like 736, quote 92, reply 230, retweet 65
+    
+    > @jump_ is re-introducing itself: the builders behind some of the most ambitious projects in crypto.
+    > We are transforming real-world constraints into open-source, decentralized infrastructure and inviting builders and policymakers to shape the future of financial markets with us.
+    > https://jumpcrypto.com/reintroducing-jump-crypto/
+    
+    **Links in post:** https://jumpcrypto.com/reintroducing-jump-crypto/
+    
 
 
 ---

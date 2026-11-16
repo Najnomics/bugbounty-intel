@@ -73,6 +73,7 @@ Compiled 12 November 2026 (Africa/Lagos). Daily update applied. Handles link to 
 | [@ChainLight_io](https://x.com/ChainLight_io) | [profile](researchers/ChainLight_io.md) | Audit firm; DEF CON winners | Web3 / ZK | Weekly security summaries. | [researchers/ChainLight_io.md](researchers/ChainLight_io.md) |
 | [@0xiczc](https://x.com/0xiczc) | [profile](researchers/0xiczc.md) | Immunefi | Web3 / ZK / Cosmos | Polygon zkEVM bug; Evmos mint bug. | [researchers/0xiczc.md](researchers/0xiczc.md) |
 | [@Shanon40439853](https://x.com/Shanon40439853) | [profile](researchers/Shanon40439853.md) | Immunefi ($1m Balancer critical; leaderboard GothicShanon ~$4.18M) | Web3 | All 2023 reports paid. | [researchers/Shanon40439853.md](researchers/Shanon40439853.md) |
+| [@Neodyme](https://x.com/Neodyme) | [profile](researchers/Neodyme.md) | Security firm (already watched handle; index file created 16 Nov 2026) | Solana / embedded | Solana Breakpoint badge zero-click RCE over Wi-Fi (15 Nov 2026 post; details not yet published). | [researchers/Neodyme.md](researchers/Neodyme.md) |
 
 ## Watch-only mentions (not given a full file)
 

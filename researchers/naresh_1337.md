@@ -37,3 +37,14 @@
 - **24 Aug 2026:** A confirmed Immunefi finding (audit-competition card); "reported as critical but landed medium." [post](https://x.com/naresh_1337/status/2091908429119983811)
 
 Profile earnings ($35,538 on 11 Nov 2026) and the "12 reports / 8 criticals" snapshot should be read as time-bounded public claims, not a fully reconciled ledger.
+
+## Daily update 2026-11-16
+
+### Immunefi High confirmed (bounty evidence) (2026-11-16)
+
+- Post: https://x.com/naresh_1337/status/2122192059536699603 — verbatim: [`posts/naresh_1337/2026-11-16-2122192059536699603.md`](../posts/naresh_1337/2026-11-16-2122192059536699603.md)
+- **Bug class:** Undisclosed (Immunefi, severity High, status confirmed)
+- **Root cause:** Details undisclosed
+- **How it was found:** Details undisclosed
+- **Takeaways / harness:** Evidence of continued valid Immunefi finds only.
+

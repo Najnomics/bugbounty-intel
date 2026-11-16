@@ -41,3 +41,14 @@ _No single post in this capture describes a specific vulnerability in enough det
 - Writeup: [`writeups/zksecurityXYZ/monero-generalized-bulletproofs-lean-proof-2026-11.md`](../writeups/zksecurityXYZ/monero-generalized-bulletproofs-lean-proof-2026-11.md)
 - **Summary:** reviewed `generalized-bulletproofs` in `monero-oxide` (4 low, 3 info, no high/med), then published an independent Lean proof of completeness/ZK/soundness for the interactive protocol.
 - **Takeaway:** verification scope excludes Fiat-Shamir, the Rust impl, the concrete curves, and FCMP++ circuits — the real audit surface.
+
+## Daily update 2026-11-16
+
+### Collision Atlas — 123 runnable hash-collision pairs (2026-11-16)
+
+- Post: https://x.com/zksecurityXYZ/status/2122127588986438139 — verbatim: [`posts/zksecurityXYZ/2026-11-16-2122127588986438139.md`](../posts/zksecurityXYZ/2026-11-16-2122127588986438139.md)
+- **Bug class:** Cryptography reference (hash collisions; 15 full breaks incl. MD5/SHA-1, 108 reduced-round)
+- **Root cause:** N/A
+- **How it was found:** N/A
+- **Takeaways / harness:** Full dataset in [writeups/zksecurityXYZ/collision-atlas-2026-11-16.md](../writeups/zksecurityXYZ/collision-atlas-2026-11-16.md); use MD5/SHA-1 pairs as test vectors against dedupe/integrity/allowlist logic.
+

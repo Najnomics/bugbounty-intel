@@ -1,0 +1,37 @@
+# Join the SecurityCipher's server Discord Server!
+
+- **Source URL:** https://discord.gg/kuaJ9NbCd
+- **Fetched from:** https://discord.com
+- **Fetched:** 2026-11-16
+- **Channel:** @dailybountywriteup
+- **Telegram message:** https://t.me/dailybountywriteup/14912 (id 14912)
+- **Method:** trafilatura readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
+
+---
+# Group chat that’s all fun & games
+
+Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.
+
+## MAKE YOUR GROUP CHATS MORE FUN
+
+Use custom emoji, stickers, soundboard effects and more to add your personality to your voice, video, or text chat. Set your avatar and a custom status, and write your own profile to show up in chat your way.
+
+## stream like you’re in the same room
+
+High quality and low latency streaming makes it feel like you're hanging out on the couch with friends while playing a game, watching shows, looking at photos, or idk doing homework or something.
+
+## Hop in when you're free, no need to call
+
+Easily hop in and out of voice or text chats without having to call or invite anyone, so your party chat lasts before, during, and after your game session.
+
+## See who's around to chill
+
+See who's around, playing games, or just hanging out. For supported games, you can see what modes or characters your friends are playing and directly join up.
+
+## always have something to do together
+
+Watch videos, play built-in games, listen to music, or just scroll together and spam memes. Seamlessly text, call, video chat, and play games, all in one group chat.
+
+## wherever YOU GAME, HANG OUT HERE
+
+On your PC, phone, or console, you can still hang out on Discord. Easily switch between devices and use tools to manage multiple group chats with friends.

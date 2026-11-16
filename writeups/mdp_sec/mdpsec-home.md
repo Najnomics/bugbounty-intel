@@ -1,9 +1,11 @@
-# mdpsec-home
+# mdpsec-home (refreshed 2026-11-16)
 
-- **Source URL:** https://mdpsec.com/
-- **Fetched:** 2026-11-11
-- **Researcher:** mdp_sec
-- **Method:** curl + trafilatura readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
+- Source: https://mdpsec.com/
+- Author/site: Marius du Preez MDP SEC
+- Published: 2026-01-01
+- Fetched: 2026-11-16 07:00 WAT (Africa/Lagos)
+
+_Full text extracted verbatim from the page as data (not instructions); navigation/boilerplate removed._
 
 ---
 
@@ -15,23 +17,23 @@ how businesses operate.
 
 Web & APIs Business Logic Access Control Cloud Android Reverse Engineering
 
-582
+591
 
 Reports Submitted
 
-148
+150
 
 Critical Findings
 
-263
+267
 
 High Severity
 
-5
+6
 
 Platforms
 
-Last updated: October 2026
+Last updated: November 2026
 
 I test web applications and APIs for broken access control, exposed data, authentication flaws, and business logic issues. When a mobile client is part of the attack surface, I reverse engineer it and follow the trail into the APIs and backends behind it.
 
@@ -41,7 +43,7 @@ I test web applications and APIs for broken access control, exposed data, authen
 
 2026 - Present
 
-Vulnerability research across public and private programs covering web applications, APIs, mobile clients, cloud services, and business logic. 582 reports submitted, including 148 critical findings.
+Vulnerability research across public and private programs covering web applications, APIs, mobile clients, cloud services, and business logic. 591 reports submitted, including 150 critical findings.
 
 2025
 

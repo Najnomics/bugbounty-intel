@@ -1,11 +1,74 @@
 # @saxenism — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1154
-- Conversations/threads: 886
+- Posts in this file: 1156
+- Conversations/threads: 888
 - Oldest post captured: 2020-03-15
-- Newest post captured: 2026-11-13
+- Newest post captured: 2026-11-15
+
+
+---
+
+## 2026-11-15 · Post · @m4rio_eth 100% with you on this
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @192610117 — 2026-11-14 13:17 UTC (2026-11-14 14:17 WAT)
+
+- URL: https://x.com/192610117/status/2121593422595137607
+- Metrics (at fetch): bookmark 18, impression 10044, like 100, quote 3, reply 20, retweet 1
+
+> my X feed is full of security researchers treating deepseek like it’s some kind of god.
+>
+> I’ve tested it multiple times, and while ds is good and cheap, I’ve found that it mostly catches low-hanging fruit, which is still important but the amplification of these posts on X has turned it into some kind of master model that supposedly makes everything else unnecessary, security wise
+>
+> i feel like this creates a false sense of security, as if we’ve somehow solved security
+
+
+### Post — @saxenism — 2026-11-15 15:33 UTC (2026-11-15 16:33 WAT)
+
+- URL: https://x.com/saxenism/status/2121990052482097405
+- Metrics (at fetch): bookmark 0, impression 73, like 1, quote 0, reply 0, retweet 0
+
+> @m4rio_eth 100% with you on this
+
+
+---
+
+## 2026-11-15 · Post · Flare’s docs say FCC pins container image hashes onchain and verifies machine registration through a
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, TEE / enclave
+
+
+### Post — @saxenism — 2026-11-15 14:36 UTC (2026-11-15 15:36 WAT)
+
+- URL: https://x.com/saxenism/status/2121975522028859699
+- Metrics (at fetch): bookmark 1, impression 370, like 4, quote 0, reply 0, retweet 0
+
+> Flare’s docs say FCC pins container image hashes onchain and verifies machine registration through attestation. I’m curious about the platform policy: which hardware and TCB claims are accepted, who updates that policy after Google firmware rollouts, and can users inspect the exact rules?
+
+**Links in post:** https://twitter.com/BitcoinChina_/status/2121374094138524102
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1410243693773090823 — 2026-11-13 22:46 UTC (2026-11-13 23:46 WAT)
+    
+    - URL: https://x.com/1410243693773090823/status/2121374094138524102
+    - Metrics (at fetch): bookmark 19, impression 8416, like 246, quote 3, reply 13, retweet 61
+    
+    > JUST IN: @FlareNetworks is advancing confidential computing with @GoogleCloud hosting its specialized computing infrastructure. 
+    >
+    > The first application enables Hex Trust to verify the backing of USDX on Songbird without revealing sensitive reserve balances. Google Cloud, which reported $30.709 billion in Q3 revenue, provides the infrastructure supporting this privacy-focused solution. 
+    >
+    > The development highlights how FlareNetworks is combining blockchain technology and confidential computing to bring greater transparency to institutional financial services while protecting sensitive data.
+    
+    **Media:**
+    - media `3_2121374021417639936` (details not returned by the API)
+    - media `3_2121374066665787392` (details not returned by the API)
+    
 
 
 ---
@@ -3792,10 +3855,12 @@ Tags (automatic): ZK
     - URL: https://x.com/50535198/status/2096988476327534923
     - Metrics (at fetch): bookmark 62, impression 546068, like 630, quote 76, reply 92, retweet 76
     
-    > 3,400 BTC just returned to the liquid federation. Looks like ~600 BTC stayed behind. https://t.co/u8VeT1Bqyu https://t.co/a3W6xcm3Fu
+    > 3,400 BTC just returned to the liquid federation. Looks like ~600 BTC stayed behind. [pic.x.com/u8VeT1Bqyu] https://twitter.com/Rob1Ham/status/2096671192228741515
     
     **Media:**
     - media `3_2096988370920407040` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/Rob1Ham/status/2096671192228741515
     
     **Quoted post** 2096671192228741515: not readable via the API (deleted, private, or withheld).
     
@@ -3952,7 +4017,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 #### Root post — @trailofbits — 2026-08-26 11:15 UTC (2026-08-26 12:15 WAT)
 
 - URL: https://x.com/trailofbits/status/2092571523450114277
-- Metrics (at fetch): bookmark 984, impression 499432, like 1698, quote 100, reply 69, retweet 333
+- Metrics (at fetch): bookmark 983, impression 499585, like 1698, quote 100, reply 69, retweet 332
 
 > We asked GPT 5.6-Cyber to escape a VM used to sandbox agents. It broke out three times.
 >

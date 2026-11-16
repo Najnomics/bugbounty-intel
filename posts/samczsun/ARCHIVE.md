@@ -1,6 +1,6 @@
 # @samczsun — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 179
 - Conversations/threads: 87
@@ -16,13 +16,25 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 ### Post — @samczsun — 2026-11-04 20:02 UTC (2026-11-04 21:02 WAT)
 
 - URL: https://x.com/samczsun/status/2118071390746321221
-- Metrics (at fetch): bookmark 8, impression 15050, like 95, quote 1, reply 6, retweet 3
+- Metrics (at fetch): bookmark 8, impression 15412, like 95, quote 1, reply 6, retweet 3
 
 > which one of you did this https://twitter.com/bhargreaves/status/2118016856426758506
 
 **Links in post:** https://twitter.com/bhargreaves/status/2118016856426758506
 
-**Quoted post** 2118016856426758506: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @15856882 — 2026-11-04 16:25 UTC (2026-11-04 17:25 WAT)
+    
+    - URL: https://x.com/15856882/status/2118016856426758506
+    - Metrics (at fetch): bookmark 2697, impression 1403419, like 17871, quote 260, reply 299, retweet 1582
+    
+    > Some dude in California running a 3-person company got voters to give him $4.2 billion by authoring a ballot measure, which passed https://twitter.com/immad/status/2117992424438133115
+    
+    **Links in post:** https://twitter.com/immad/status/2117992424438133115
+    
+    **Quoted post** 2117992424438133115: not readable via the API (deleted, private, or withheld).
+    
 
 
 ---
@@ -33,7 +45,7 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 ### Post — @samczsun — 2026-10-16 17:36 UTC (2026-10-16 18:36 WAT)
 
 - URL: https://x.com/samczsun/status/2111149389716861349
-- Metrics (at fetch): bookmark 15, impression 33775, like 492, quote 5, reply 49, retweet 16
+- Metrics (at fetch): bookmark 15, impression 34105, like 494, quote 5, reply 49, retweet 16
 
 > It's been an incredible journey, but I've made the difficult decision to step back from day-to-day operations at @_SEAL_Org. I'll be transitioning onto the Board while @sbatt55 transitions from COO to Interim CEO
 
@@ -78,7 +90,7 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 ### Post — @samczsun — 2026-07-30 18:36 UTC (2026-07-30 19:36 WAT)
 
 - URL: https://x.com/samczsun/status/2082898149119754695
-- Metrics (at fetch): bookmark 24, impression 24595, like 169, quote 1, reply 15, retweet 8
+- Metrics (at fetch): bookmark 24, impression 24828, like 169, quote 1, reply 15, retweet 8
 
 > congrats to my friends at zellic for another successful raise on their latest venture, excited to see where things go from here https://twitter.com/v12sec/status/2082890648374424012
 
@@ -161,13 +173,26 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 ### Post — @samczsun — 2026-06-15 18:14 UTC (2026-06-15 19:14 WAT)
 
 - URL: https://x.com/samczsun/status/2066585226885599323
-- Metrics (at fetch): bookmark 9, impression 11590, like 79, quote 0, reply 15, retweet 8
+- Metrics (at fetch): bookmark 9, impression 11665, like 78, quote 0, reply 15, retweet 8
 
 > congrats to one of my closest friends for launching his new firm, ive had the pleasure of working together on projects in the intersection of security x policy and id trust brendan to help navigate the thorniest issues out there https://twitter.com/brendanpmalone/status/2066581517539983718
 
 **Links in post:** https://twitter.com/brendanpmalone/status/2066581517539983718
 
-**Quoted post** 2066581517539983718: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @128091222 — 2026-06-15 18:00 UTC (2026-06-15 19:00 WAT)
+    
+    - URL: https://x.com/128091222/status/2066581517539983718
+    - Metrics (at fetch): bookmark 36, impression 66078, like 222, quote 20, reply 51, retweet 16
+    
+    > Excited to announce Thompson Street, a new kind of advisory firm working across product, public affairs, and policy for frontier tech with @0xYager, @KhurramDara, and @jonfinkisaksen.
+    >
+    > We’re approaching Thompson Street like you would a startup: built for velocity, adaptability, https://t.co/d9elK1cNxo
+    
+    **Media:**
+    - media `3_2066581513299271680` (details not returned by the API)
+    
 
 
 ---
@@ -178,7 +203,7 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 ### Post — @samczsun — 2026-05-15 16:22 UTC (2026-05-15 17:22 WAT)
 
 - URL: https://x.com/samczsun/status/2055323055887650936
-- Metrics (at fetch): bookmark 17, impression 34590, like 403, quote 1, reply 44, retweet 34
+- Metrics (at fetch): bookmark 17, impression 34631, like 402, quote 1, reply 44, retweet 34
 
 > [pic.x.com/CufRGwYK8G] https://twitter.com/THORChain/status/2055300162331742233
 
@@ -187,7 +212,34 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 
 **Links in post:** https://twitter.com/THORChain/status/2055300162331742233
 
-**Quoted post** 2055300162331742233: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1012021170244161536 — 2026-05-15 14:51 UTC (2026-05-15 15:51 WAT)
+    
+    - URL: https://x.com/1012021170244161536/status/2055300162331742233
+    - Metrics (at fetch): bookmark 53, impression 225260, like 497, quote 72, reply 110, retweet 111
+    
+    > Important Announcement
+    >
+    > Trading on THORChain is currently halted after a vault was compromised. Initial indications are user funds are safe and only protocol owned funds are affected.
+    >
+    > The network automatically detected abnormal behavior and halted signing activity, which alerted the broader community and prevented further outbound transactions.
+    >
+    > The investigation is still ongoing to determine the root cause. Contributors are actively working on the issue and we will report updates as we progress toward a solution.
+    >
+    > What we currently know:
+    > * One of the six Asgard vaults appears to have been compromised.
+    > * Current estimates place the loss at approximately $10.7m USD
+    > * The network automatically detected the abnormal behavior and halted signing activity, preventing further outbound activity.
+    > * Nodes securing the vault were subject to their bonded RUNE being slashed as a result of the unauthorized outbound transactions.
+    > * Churn activity has been paused while the investigation and remediation efforts are ongoing.
+    > * Onboarding additional chains and operations requiring churns will be delayed until the network is stabilized.
+    > * Initial indications show no individual user swaps were affected.
+    >
+    > We are asking all node operators to immediately review their infrastructure, hosts, key management systems, and operational security for any signs of compromise or abnormal behavior, and to report anything suspicious in Discord.
+    >
+    > Node operators participating in the affected vault are requested to securely provide Bifrost logs to the dev team for analysis using 'make relay' .
+    
 
 
 ---
@@ -224,7 +276,7 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 ### Post — @samczsun — 2026-04-29 18:05 UTC (2026-04-29 19:05 WAT)
 
 - URL: https://x.com/samczsun/status/2049550622827942309
-- Metrics (at fetch): bookmark 10, impression 15327, like 92, quote 1, reply 11, retweet 17
+- Metrics (at fetch): bookmark 10, impression 15358, like 91, quote 1, reply 11, retweet 17
 
 > if you have 5 minutes and 5 dollars, you can directly help fund @_SEAL_Org through @thedaofund's qf round and help avoid a tragedy of the commons
 >
@@ -236,7 +288,17 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 
 **Links in post:** https://qf.giveth.io/project/seal-safe-harbor, https://qf.giveth.io/project/seal-intel, https://qf.giveth.io/project/seal-frameworks, https://qf.giveth.io/project/seal-certifications, https://qf.giveth.io/project/seal-911, https://twitter.com/LayerZero_Core/status/2049198683443618246
 
-**Quoted post** 2049198683443618246: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1395504028910424065 — 2026-04-28 18:46 UTC (2026-04-28 19:46 WAT)
+    
+    - URL: https://x.com/1395504028910424065/status/2049198683443618246
+    - Metrics (at fetch): bookmark 2, impression 28801, like 100, quote 1, reply 4, retweet 3
+    
+    > Thank you to @aave, @arbitrum, @ethena, @ether_fi, DeFi United, @_SEAL_Org, and all of the others who have been tirelessly working behind the scenes with us to make this happen.
+    >
+    > DeFi will win.
+    
 
 
 ---
@@ -260,7 +322,7 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 ### Post — @samczsun — 2026-04-27 16:44 UTC (2026-04-27 17:44 WAT)
 
 - URL: https://x.com/samczsun/status/2048805566169186793
-- Metrics (at fetch): bookmark 13, impression 24865, like 133, quote 3, reply 11, retweet 21
+- Metrics (at fetch): bookmark 13, impression 24896, like 132, quote 3, reply 11, retweet 21
 
 > seal's chief of staff (@davidthegardens) is looking for his next role! hes been with us since the start and helped us go 0-1. if youre looking for someone who can build orgs, navigate chaos, and actually get things done in crypto security, shoot him a dm
 >
@@ -277,7 +339,7 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 ### Post — @samczsun — 2026-04-21 17:02 UTC (2026-04-21 18:02 WAT)
 
 - URL: https://x.com/samczsun/status/2046635763433922885
-- Metrics (at fetch): bookmark 0, impression 6527, like 47, quote 0, reply 5, retweet 4
+- Metrics (at fetch): bookmark 0, impression 6543, like 47, quote 0, reply 5, retweet 4
 
 > someone tell the captains of these ships about seal 911 [pic.x.com/Mw3R2IOYvY]
 
@@ -293,7 +355,7 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
 ### Post — @samczsun — 2026-04-21 05:08 UTC (2026-04-21 06:08 WAT)
 
 - URL: https://x.com/samczsun/status/2046455983082267096
-- Metrics (at fetch): bookmark 11, impression 34301, like 500, quote 3, reply 31, retweet 53
+- Metrics (at fetch): bookmark 11, impression 34319, like 500, quote 3, reply 31, retweet 53
 
 > huge day for victims of the kelp dao hack, i hope that we can look back on today as the day our industry realized that we can simultaneously build useful products while also protecting users rather than be a consequence-free infinite money glitch for hackers
 
@@ -322,7 +384,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @samczsun — 2026-04-05 17:27 UTC (2026-04-05 18:27 WAT)
 
 - URL: https://x.com/samczsun/status/2040843662368678222
-- Metrics (at fetch): bookmark 15, impression 31495, like 234, quote 0, reply 21, retweet 45
+- Metrics (at fetch): bookmark 15, impression 31516, like 234, quote 0, reply 21, retweet 45
 
 > at the risk of sounding like jimmy wales, if the drift hack scares you then please donate to @_seal_org so we can keep on building the security infrastructure that crypto so desperately needs
 >
@@ -330,7 +392,33 @@ Tags (automatic): Smart contract / DeFi
 
 **Links in post:** https://securityalliance.org/donate, https://twitter.com/tayvano_/status/2040616103333040508
 
-**Quoted post** 2040616103333040508: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @19748227 — 2026-04-05 02:22 UTC (2026-04-05 03:22 WAT)
+    
+    - URL: https://x.com/19748227/status/2040616103333040508
+    - Metrics (at fetch): bookmark 1814, impression 733169, like 3204, quote 52, reply 170, retweet 415
+    
+    > I beg everyone in crypto to read this in full.
+    >
+    > I expected this to be another case of social engineering, likely some recruiter/job offer shit. 
+    >
+    > I was very wrong.
+    >
+    > And the depth of the operation and personas makes me think they already have multiple other teams on lock.
+    >
+    > 😳 https://t.co/8ZTEDwqs9Y
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1395713029593989121 — 2026-04-05 02:03 UTC (2026-04-05 03:03 WAT)
+        
+        - URL: https://x.com/1395713029593989121/status/2040611161121370409
+        - Metrics (at fetch): bookmark 2404, impression 6599262, like 3644, quote 1334, reply 643, retweet 672
+        
+        > https://t.co/qYBMCup9i6
+        
+    
 
 
 ---
@@ -354,7 +442,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @samczsun — 2026-03-14 19:57 UTC (2026-03-14 20:57 WAT)
 
 - URL: https://x.com/samczsun/status/2032908915222974598
-- Metrics (at fetch): bookmark 14, impression 28225, like 317, quote 4, reply 38, retweet 21
+- Metrics (at fetch): bookmark 14, impression 28243, like 316, quote 4, reply 38, retweet 21
 
 > crypto will have truly matured when we can stop using telegram
 
@@ -367,13 +455,25 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @samczsun — 2026-03-13 02:25 UTC (2026-03-13 03:25 WAT)
 
 - URL: https://x.com/samczsun/status/2032281886496797129
-- Metrics (at fetch): bookmark 5, impression 25447, like 70, quote 0, reply 4, retweet 8
+- Metrics (at fetch): bookmark 5, impression 25466, like 70, quote 0, reply 4, retweet 8
 
 > if youre going to ethcc study fight club https://twitter.com/spacexbt/status/2032268674887774491
 
 **Links in post:** https://twitter.com/spacexbt/status/2032268674887774491
 
-**Quoted post** 2032268674887774491: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1433494466988593153 — 2026-03-13 01:33 UTC (2026-03-13 02:33 WAT)
+    
+    - URL: https://x.com/1433494466988593153/status/2032268674887774491
+    - Metrics (at fetch): bookmark 24, impression 49172, like 112, quote 2, reply 22, retweet 1
+    
+    > another irl crypto robbery in france just happened, leaving victim naked
+    >
+    > a 33y old man was abducted by four masked men after leaving a restaurant in "Vaulx En Velin" and left in his underwear
+    >
+    > according to his statement, he was held in a cellar and severely assaulted after refusing to send over $100,000 in crypto to the masked men
+    
 
 
 ---
@@ -384,7 +484,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @samczsun — 2026-03-12 18:52 UTC (2026-03-12 19:52 WAT)
 
 - URL: https://x.com/samczsun/status/2032167869174214703
-- Metrics (at fetch): bookmark 19, impression 83260, like 219, quote 25, reply 34, retweet 6
+- Metrics (at fetch): bookmark 19, impression 83278, like 219, quote 25, reply 34, retweet 6
 
 > guh [pic.x.com/7xro8XWwIn] https://twitter.com/bbbb/status/2032164489437585805
 
@@ -393,7 +493,17 @@ Tags (automatic): Smart contract / DeFi
 
 **Links in post:** https://twitter.com/bbbb/status/2032164489437585805
 
-**Quoted post** 2032164489437585805: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @104551723 — 2026-03-12 18:39 UTC (2026-03-12 19:39 WAT)
+    
+    - URL: https://x.com/104551723/status/2032164489437585805
+    - Metrics (at fetch): bookmark 10, impression 70562, like 36, quote 4, reply 3, retweet 0
+    
+    > https://etherscan.io/tx/0x45388b0f9ff46ffe98a3124c22ab1db2b1764ecb3b61234e29e5c9732b7fd4ab
+    
+    **Links in post:** https://etherscan.io/tx/0x45388b0f9ff46ffe98a3124c22ab1db2b1764ecb3b61234e29e5c9732b7fd4ab
+    
 
 
 ### Thread part 2 — @samczsun — 2026-03-12 19:36 UTC (2026-03-12 20:36 WAT)
@@ -444,7 +554,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2026-02-05 23:17 UTC (2026-02-06 00:17 WAT)
 
 - URL: https://x.com/samczsun/status/2019551027457097765
-- Metrics (at fetch): bookmark 5, impression 9414, like 86, quote 1, reply 11, retweet 7
+- Metrics (at fetch): bookmark 5, impression 9419, like 86, quote 1, reply 11, retweet 7
 
 > on one hand the crypto dream feels dead but on the other hand weve finally figured out how to spin ai agents into the shitcoin grift cycle so really who can say
 
@@ -457,7 +567,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2026-01-30 18:57 UTC (2026-01-30 19:57 WAT)
 
 - URL: https://x.com/samczsun/status/2017311339686027770
-- Metrics (at fetch): bookmark 1, impression 9871, like 32, quote 0, reply 2, retweet 5
+- Metrics (at fetch): bookmark 1, impression 9876, like 32, quote 0, reply 2, retweet 5
 
 > we have an incredible roster of speakers covering everything from opsec to dprk to bug bounties, you won't want to miss it
 >
@@ -465,7 +575,27 @@ Tags (automatic): AI-assisted hunting
 
 **Links in post:** https://luma.com/m6q8aqcw, https://twitter.com/_SEAL_Org/status/2017308283707768966
 
-**Quoted post** 2017308283707768966: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1756434947202748416 — 2026-01-30 18:45 UTC (2026-01-30 19:45 WAT)
+    
+    - URL: https://x.com/1756434947202748416/status/2017308283707768966
+    - Metrics (at fetch): bookmark 10, impression 22866, like 60, quote 6, reply 3, retweet 14
+    
+    > darkMode 2026 registration is live! 
+    >
+    > Our first public conference features 20+ sessions with practitioners sharing what actually works. 
+    >
+    > 📅 Feb 16-18
+    > 📍 ETHDenver
+    > 💰 100% FREE
+    > 🎟️ Register (space is limited!): http://luma.com/m6q8aqcw [pic.x.com/BihuHahOCY]
+    
+    **Media:**
+    - media `3_2017299340528652288` (details not returned by the API)
+    
+    **Links in post:** http://luma.com/m6q8aqcw
+    
 
 
 ---
@@ -476,7 +606,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2026-01-10 21:39 UTC (2026-01-10 22:39 WAT)
 
 - URL: https://x.com/samczsun/status/2010104272982282591
-- Metrics (at fetch): bookmark 1, impression 7741, like 33, quote 0, reply 5, retweet 3
+- Metrics (at fetch): bookmark 1, impression 7744, like 33, quote 0, reply 5, retweet 3
 
 > crazy github bug makes browsing on mobile impossible: scrolling up at all causes the page to jump to top. can devs do something pls
 
@@ -489,13 +619,28 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2025-12-15 18:10 UTC (2025-12-15 19:10 WAT)
 
 - URL: https://x.com/samczsun/status/2000629458622202038
-- Metrics (at fetch): bookmark 15, impression 18650, like 62, quote 0, reply 7, retweet 4
+- Metrics (at fetch): bookmark 15, impression 18653, like 62, quote 0, reply 7, retweet 4
 
 > i know everyone on here has Opinions so i better see you on stage physically or virtually 😤 https://twitter.com/_SEAL_Org/status/2000626201883463932
 
 **Links in post:** https://twitter.com/_SEAL_Org/status/2000626201883463932
 
-**Quoted post** 2000626201883463932: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1756434947202748416 — 2025-12-15 17:57 UTC (2025-12-15 18:57 WAT)
+    
+    - URL: https://x.com/1756434947202748416/status/2000626201883463932
+    - Metrics (at fetch): bookmark 27, impression 39816, like 89, quote 4, reply 8, retweet 19
+    
+    > Do you have something interesting about crypto security you want to share with the community? We're hosting our first ever public security conference next year and applications are open for speakers and workshops!
+    >
+    > https://darkmode.securityalliance.org/darkmode-2026/ [pic.x.com/VAOd0pMmDQ]
+    
+    **Media:**
+    - media `3_2000623200657616896` (details not returned by the API)
+    
+    **Links in post:** https://darkmode.securityalliance.org/darkmode-2026/
+    
 
 
 ---
@@ -506,7 +651,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2025-12-12 00:51 UTC (2025-12-12 01:51 WAT)
 
 - URL: https://x.com/samczsun/status/1999280993354879124
-- Metrics (at fetch): bookmark 19, impression 37680, like 203, quote 6, reply 19, retweet 21
+- Metrics (at fetch): bookmark 19, impression 37686, like 203, quote 6, reply 19, retweet 21
 
 > its a little over 3 years since seal was founded, and between seal 911, intel, frameworks, and certifications, im super proud of how weve made every dollar count. if you agree, please consider supporting us so we can continue shipping in 2026 and beyond
 >
@@ -514,7 +659,19 @@ Tags (automatic): AI-assisted hunting
 
 **Links in post:** https://securityalliance.org/donate?campaignId=financial_report25, https://twitter.com/_SEAL_Org/status/1999276432393142338
 
-**Quoted post** 1999276432393142338: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1756434947202748416 — 2025-12-12 00:33 UTC (2025-12-12 01:33 WAT)
+    
+    - URL: https://x.com/1756434947202748416/status/1999276432393142338
+    - Metrics (at fetch): bookmark 15, impression 41058, like 74, quote 4, reply 4, retweet 8
+    
+    > Ever wonder how much money it costs to secure the future of crypto? Take a look at our first ever financial transparency report
+    >
+    > https://radar.securityalliance.org/2025-financial-transparency-report/
+    
+    **Links in post:** https://radar.securityalliance.org/2025-financial-transparency-report/
+    
 
 
 ---
@@ -525,7 +682,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2025-11-08 07:45 UTC (2025-11-08 08:45 WAT)
 
 - URL: https://x.com/samczsun/status/1987063920230867457
-- Metrics (at fetch): bookmark 70, impression 65209, like 288, quote 8, reply 71, retweet 22
+- Metrics (at fetch): bookmark 70, impression 65212, like 288, quote 8, reply 71, retweet 22
 
 > so how do we secure protocols after they earn "survived the test of time" status? seems like
 > - bug bounty doesnt justify low ev
@@ -557,7 +714,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @samczsun — 2025-12-10 18:06 UTC (2025-12-10 19:06 WAT)
     
     - URL: https://x.com/samczsun/status/1998816590901756081
-    - Metrics (at fetch): bookmark 101, impression 43183, like 232, quote 9, reply 22, retweet 39
+    - Metrics (at fetch): bookmark 101, impression 43190, like 231, quote 9, reply 22, retweet 39
     
     > i wrote some thoughts on bug bounties payouts and how we should think about crypto security going forward
     >
@@ -575,7 +732,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2025-12-10 18:06 UTC (2025-12-10 19:06 WAT)
 
 - URL: https://x.com/samczsun/status/1998816590901756081
-- Metrics (at fetch): bookmark 101, impression 43183, like 232, quote 9, reply 22, retweet 39
+- Metrics (at fetch): bookmark 101, impression 43190, like 231, quote 9, reply 22, retweet 39
 
 > i wrote some thoughts on bug bounties payouts and how we should think about crypto security going forward
 >
@@ -595,7 +752,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @samczsun — 2025-11-22 18:19 UTC (2025-11-22 19:19 WAT)
 
 - URL: https://x.com/samczsun/status/1992296916491915403
-- Metrics (at fetch): bookmark 40, impression 61113, like 206, quote 4, reply 22, repost 19
+- Metrics (at fetch): bookmark 40, impression 61121, like 206, quote 4, reply 22, retweet 19
 
 > i love etherscan but unless im misunderstanding something, they have essentially paywalled verified contract code access for base, op, and bsc. open source contracts are a cornerstone of evm culture and this situation just goes to show the importance of @verifalliance https://twitter.com/LefterisJP/status/1992274019358281904
 
@@ -654,7 +811,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
         #### Quoted post — @samczsun — 2025-11-22 18:19 UTC (2025-11-22 19:19 WAT)
         
         - URL: https://x.com/samczsun/status/1992296916491915403
-        - Metrics (at fetch): bookmark 40, impression 61113, like 206, quote 4, reply 22, repost 19
+        - Metrics (at fetch): bookmark 40, impression 61121, like 206, quote 4, reply 22, retweet 19
         
         > i love etherscan but unless im misunderstanding something, they have essentially paywalled verified contract code access for base, op, and bsc. open source contracts are a cornerstone of evm culture and this situation just goes to show the importance of @verifalliance https://twitter.com/LefterisJP/status/1992274019358281904
         
@@ -696,7 +853,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @samczsun — 2025-10-27 18:26 UTC (2025-10-27 19:26 WAT)
 
 - URL: https://x.com/samczsun/status/1982876564384797013
-- Metrics (at fetch): bookmark 16, impression 68958, like 269, quote 2, reply 42, retweet 23
+- Metrics (at fetch): bookmark 16, impression 69519, like 269, quote 2, reply 42, retweet 22
 
 > new me [pic.x.com/dCyUJd9b5x]
 
@@ -712,7 +869,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @samczsun — 2025-10-23 00:30 UTC (2025-10-23 01:30 WAT)
 
 - URL: https://x.com/samczsun/status/1981156197412827401
-- Metrics (at fetch): bookmark 6, impression 26589, like 63, quote 1, reply 2, retweet 9
+- Metrics (at fetch): bookmark 6, impression 26593, like 63, quote 1, reply 2, retweet 9
 
 > hi @nikitabier [pic.x.com/ugZnEcxpKH] https://twitter.com/jelena647/status/1981151354912723186
 
@@ -732,7 +889,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @samczsun — 2025-10-21 19:32 UTC (2025-10-21 20:32 WAT)
 
 - URL: https://x.com/samczsun/status/1980718830260490447
-- Metrics (at fetch): bookmark 28, impression 23150, like 138, quote 0, reply 7, retweet 15
+- Metrics (at fetch): bookmark 28, impression 23155, like 138, quote 0, reply 7, retweet 15
 
 > i stopped having time to maintain openchain a long time ago, so i transferred the repos and domains over to @SourcifyEth. they'll be running the signature database, backed by data collected by @verifalliance
 >
@@ -740,7 +897,27 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Links in post:** https://twitter.com/SourcifyEth/status/1980657962990600647
 
-**Quoted post** 1980657962990600647: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1263776412244291585 — 2025-10-21 15:30 UTC (2025-10-21 16:30 WAT)
+    
+    - URL: https://x.com/1263776412244291585/status/1980657962990600647
+    - Metrics (at fetch): bookmark 18, impression 30188, like 36, quote 4, reply 3, retweet 5
+    
+    > 🧩Sourcify is taking over http://openchain.xyz's signature API
+    >
+    > • Verified contracts auto-add new signatures
+    > • Playground → http://4byte.sourcify.dev
+    > • Switch to http://api.4byte.sourcify.dev (openchain compatible)
+    >
+    > This week we're gradually shifting the traffic to our servers [pic.x.com/VNe3L775Jk]
+    
+    **Media:**
+    - media `3_1980655528482136064` (details not returned by the API)
+    - media `3_1980656569323864064` (details not returned by the API)
+    
+    **Links in post:** http://openchain.xyz, http://4byte.sourcify.dev, http://api.4byte.sourcify.dev
+    
 
 
 ---
@@ -751,14 +928,25 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @samczsun — 2025-10-21 15:53 UTC (2025-10-21 16:53 WAT)
 
 - URL: https://x.com/samczsun/status/1980663773829689819
-- Metrics (at fetch): bookmark 19, impression 43242, like 193, quote 1, reply 16, retweet 26
+- Metrics (at fetch): bookmark 19, impression 43247, like 192, quote 1, reply 16, retweet 26
 
 > before: open pr on eth-phishing-detect, ping seal 911, wait for it to get picked up across wallets, slow and requires human review
 > now: submit verifiable phishing report, automatically sent to the biggest wallets and blocked in real time, instantaneous and no humans required https://twitter.com/_SEAL_Org/status/1980661021045059876
 
 **Links in post:** https://twitter.com/_SEAL_Org/status/1980661021045059876
 
-**Quoted post** 1980661021045059876: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1756434947202748416 — 2025-10-21 15:42 UTC (2025-10-21 16:42 WAT)
+    
+    - URL: https://x.com/1756434947202748416/status/1980661021045059876
+    - Metrics (at fetch): bookmark 32, impression 178346, like 281, quote 23, reply 36, retweet 57
+    
+    > We are launching a global real-time phishing defense network alongside @MetaMask, @WalletConnect, @Backpack, and @phantom! This allows us to create a decentralized immune system for crypto security where anyone from around the world can prevent the next major phishing attack [pic.x.com/TMoYEZuwl1]
+    
+    **Media:**
+    - media `3_1980658150760984576` (details not returned by the API)
+    
 
 
 ---
@@ -772,7 +960,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2025-10-16 23:25 UTC (2025-10-17 00:25 WAT)
 
 - URL: https://x.com/samczsun/status/1978965609086881838
-- Metrics (at fetch): bookmark 4, impression 11473, like 56, quote 1, reply 9, retweet 6
+- Metrics (at fetch): bookmark 4, impression 11478, like 56, quote 1, reply 9, retweet 6
 
 > i keep seeing posts that are conceptually interesting but then it turns out to be llm slop, why disrespect your readers like that [pic.x.com/59ZU2iKcD5]
 
@@ -791,13 +979,25 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2025-10-13 15:38 UTC (2025-10-13 16:38 WAT)
 
 - URL: https://x.com/samczsun/status/1977760765374246995
-- Metrics (at fetch): bookmark 36, impression 26093, like 140, quote 0, reply 4, retweet 24
+- Metrics (at fetch): bookmark 36, impression 26093, like 140, quote 0, reply 4, retweet 23
 
 > check it out, self-serve flagging with the biggest wallets in crypto (more news on that soontm) https://twitter.com/_SEAL_Org/status/1977757520522326337
 
 **Links in post:** https://twitter.com/_SEAL_Org/status/1977757520522326337
 
-**Quoted post** 1977757520522326337: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1756434947202748416 — 2025-10-13 15:25 UTC (2025-10-13 16:25 WAT)
+    
+    - URL: https://x.com/1756434947202748416/status/1977757520522326337
+    - Metrics (at fetch): bookmark 50, impression 44963, like 213, quote 6, reply 17, retweet 43
+    
+    > 🔏 SEAL has been working on a new tool to enable advanced users and security researchers to join the fight against crypto phishing, and we're excited to release it to the public [pic.x.com/6denBjlO1L]
+    
+    **Media:**
+    - media `3_1977754810440171521` (details not returned by the API)
+    - media `3_1977754863963668480` (details not returned by the API)
+    
 
 
 ---

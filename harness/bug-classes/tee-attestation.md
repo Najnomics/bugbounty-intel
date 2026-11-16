@@ -44,3 +44,6 @@ confirm "valid" maps to a verified cryptographic quote, not a flag
 5. Diff CPU vs GPU (or other) verification paths; `parseAttestationBundle()`-only paths that still show "TEE Hardware Verified" are false claims.
 6. Inside enclaves, bind signed message type to the privileged op (saxenism: "execute" ≠ "migrate").
 Sources: posts/bluethroat_labs/2026-11-11-2120528783673299290.md, writeups/bluethroat_labs/phala-cloud-gpu-attestation-fake-verified-no-cryptography.md, posts/saxenism/2026-11-11-2120538169259209027.md
+
+- 2026-11-16: see [2026-11-16 check-specs](2026-11-16-mcp-open-data-rpc-tracer-logs.md)
+- 2026-11-16 (Flare FCC): audit accepted hardware/TCB claims, policy-update authority after cloud firmware rollouts, and whether users can inspect the policy — [saxenism](../../posts/saxenism/2026-11-15-2121975522028859699.md)

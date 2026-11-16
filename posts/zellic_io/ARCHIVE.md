@@ -1,9 +1,9 @@
 # @zellic_io — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 544
-- Conversations/threads: 125
+- Posts in this file: 545
+- Conversations/threads: 126
 - Oldest post captured: 2022-01-27
 - Newest post captured: 2026-11-11
 
@@ -94,7 +94,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @zellic_io — 2026-10-05 14:57 UTC (2026-10-05 15:57 WAT)
 
 - URL: https://x.com/zellic_io/status/2107122920984076566
-- Metrics (at fetch): bookmark 15, impression 9714, like 85, quote 1, reply 3, retweet 2
+- Metrics (at fetch): bookmark 15, impression 9757, like 84, quote 1, reply 3, retweet 2
 
 > Congratulations to our very own @ipwning  for another huge finding!
 >
@@ -120,6 +120,9 @@ Tags (automatic): Platform: Immunefi
     > Absolutely insane debut 🔥
     >
     > Congrats! [pic.x.com/5iOi1gZ0Ny]
+    
+    **Media:**
+    - media `3_2107053102256070656` (details not returned by the API)
     
 
 
@@ -247,7 +250,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @zellic_io — 2026-09-22 16:51 UTC (2026-09-22 17:51 WAT)
 
 - URL: https://x.com/zellic_io/status/2102440678009835722
-- Metrics (at fetch): bookmark 12, impression 3433, like 63, quote 0, reply 1, retweet 9
+- Metrics (at fetch): bookmark 12, impression 3446, like 63, quote 0, reply 1, retweet 9
 
 > Security researchers from Zellic and V12 are presenting at BSides Canberra this week!
 >
@@ -759,10 +762,13 @@ Tags (automatic): ZK
 ## 2026-05-15 · Post · Microsoft Edge's Enhanced Security Mode was designed to be the ultimate defense when browsing unfami
 
 
+Tags (automatic): Memory corruption / native
+
+
 ### Post — @zellic_io — 2026-05-15 20:45 UTC (2026-05-15 21:45 WAT)
 
 - URL: https://x.com/zellic_io/status/2055389182131093949
-- Metrics (at fetch): bookmark 60, impression 21466, like 163, quote 1, reply 4, retweet 12
+- Metrics (at fetch): bookmark 60, impression 21469, like 163, quote 1, reply 4, retweet 12
 
 > Microsoft Edge's Enhanced Security Mode was designed to be the ultimate defense when browsing unfamiliar websites.
 >
@@ -770,11 +776,24 @@ Tags (automatic): ZK
 >
 > Their target? DrumBrake, Microsoft's WebAssembly interpreter.
 >
-> The irony? This security feature https://twitter.com/offensive_con/status/2055337476072317314
+> The irony? This security feature became a massive attack surface itself.
+>
+> These findings span type confusion, out-of-bounds memory access, use-after-free, and critical control flow errors.
 
 **Links in post:** https://twitter.com/offensive_con/status/2055337476072317314
 
-**Quoted post** 2055337476072317314: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @823927742911709185 — 2026-05-15 17:20 UTC (2026-05-15 18:20 WAT)
+    
+    - URL: https://x.com/823927742911709185/status/2055337476072317314
+    - Metrics (at fetch): bookmark 13, impression 24104, like 55, quote 1, reply 3, retweet 3
+    
+    > Enhanced Insecurity Mode: 23 RCEs in Edge's "Safe" WebAssembly Interpreter by @eternalsakura13 and R1nd0 [pic.x.com/y0nJsyIw0V]
+    
+    **Media:**
+    - media `3_2055337473882882048` (details not returned by the API)
+    
 
 
 ---
@@ -785,7 +804,7 @@ Tags (automatic): ZK
 ### Post — @zellic_io — 2026-04-30 15:47 UTC (2026-04-30 16:47 WAT)
 
 - URL: https://x.com/zellic_io/status/2049878418037362886
-- Metrics (at fetch): bookmark 44, impression 77211, like 171, quote 4, reply 3, retweet 20
+- Metrics (at fetch): bookmark 44, impression 77219, like 171, quote 4, reply 3, retweet 20
 
 > The core utilities that run every Linux system have been rewritten in Rust. We audited them.
 >
@@ -811,13 +830,35 @@ Tags (automatic): ZK
 
 ---
 
+## 2026-04-20 · Post · OpenClaw leaks secrets. IronClaw is a fork that's built to fix that and have from the ground up secu
+
+
+### Post — @zellic_io — 2026-04-20 20:42 UTC (2026-04-20 21:42 WAT)
+
+- URL: https://x.com/zellic_io/status/2046328691559391510
+- Metrics (at fetch): bookmark 47, impression 8026, like 71, quote 0, reply 1, retweet 6
+
+> OpenClaw leaks secrets. IronClaw is a fork that's built to fix that and have from the ground up security.
+>
+> But after some testing (collabing w/ the IronClaw team) we found three critical ways it failed.
+>
+> Here's how we pierced Ironclaw's veil to expose and fix security flaws: [pic.x.com/d86bYFpvIJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HGXxFOLaYAAhyDH.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HGXxHRRaEAAR6-N.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HGXxIykbUAEC6dh.jpg — no alt text provided by author
+
+
+---
+
 ## 2026-03-09 · Thread · It only cost $3.79.
 
 
 ### Post — @zellic_io — 2026-03-09 21:23 UTC (2026-03-09 22:23 WAT)
 
 - URL: https://x.com/zellic_io/status/2031118701119091014
-- Metrics (at fetch): bookmark 100, impression 37816, like 153, quote 4, reply 8, retweet 3
+- Metrics (at fetch): bookmark 100, impression 37820, like 153, quote 4, reply 8, retweet 3
 
 > It only cost $3.79.
 >
@@ -879,7 +920,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
 ### Post — @zellic_io — 2026-02-17 17:22 UTC (2026-02-17 18:22 WAT)
 
 - URL: https://x.com/zellic_io/status/2023810360013410357
-- Metrics (at fetch): bookmark 72, impression 10691, like 100, quote 2, reply 5, retweet 7
+- Metrics (at fetch): bookmark 72, impression 10695, like 100, quote 2, reply 5, retweet 7
 
 > Solana’s VM has bugs.
 >
@@ -986,7 +1027,7 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 ### Post — @zellic_io — 2026-01-29 17:13 UTC (2026-01-29 18:13 WAT)
 
 - URL: https://x.com/zellic_io/status/2016922553848344905
-- Metrics (at fetch): bookmark 4, impression 1481, like 9, quote 0, reply 1, retweet 1
+- Metrics (at fetch): bookmark 4, impression 1482, like 9, quote 0, reply 1, retweet 1
 
 > Supernova used V12 to help expedite their code review process. They ran V12 on a 3,744 SLOC codebase. It found two critical-risk bugs, including the one in the snippet below.
 >
@@ -1041,7 +1082,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @zellic_io — 2026-01-20 19:53 UTC (2026-01-20 20:53 WAT)
 
 - URL: https://x.com/zellic_io/status/2013701495041204463
-- Metrics (at fetch): bookmark 30, impression 7744, like 66, quote 1, reply 5, retweet 3
+- Metrics (at fetch): bookmark 30, impression 7745, like 66, quote 1, reply 5, retweet 3
 
 > V12 caught a critical funds-draining bug in preproduction.
 >
@@ -1098,13 +1139,13 @@ Tags (automatic): XSS, Account takeover
 ### Post — @zellic_io — 2026-01-16 17:59 UTC (2026-01-16 18:59 WAT)
 
 - URL: https://x.com/zellic_io/status/2012223168661028880
-- Metrics (at fetch): bookmark 54, impression 18245, like 186, quote 0, reply 2, retweet 7
+- Metrics (at fetch): bookmark 54, impression 18248, like 186, quote 0, reply 2, retweet 7
 
 > Youssef Sammouda, a Zellic Security Researcher and Meta's #1 Bug Bounty Researcher (2019 - 2024), uncovered $312,500 worth of XSS vulnerabilities in Meta's Conversions API Gateway.
 >
 > The impact? Zero-click Facebook account takeover and more.
 >
-> Check out the full write-up below!👇 https://twitter.com/samm0uda/status/2011439232083210309
+> Check out the full write-up below!👇
 
 **Links in post:** https://twitter.com/samm0uda/status/2011439232083210309
 
@@ -1117,7 +1158,9 @@ Tags (automatic): XSS, Account takeover
     
     > $312,500 worth of stored/reflected XSS vulnerabilities in Meta’s Conversions API Gateway allowed Javascript code to run on any Facebook domain and millions of third-party websites. The flaw enabled zero-click Facebook account takeover and more:
     >
-    > https://t.co/7gWpR4LQ8x
+    > https://ysamm.com/uncategorized/2025/01/13/capig-xss.html
+    
+    **Links in post:** https://ysamm.com/uncategorized/2025/01/13/capig-xss.html
     
 
 
@@ -1132,7 +1175,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @zellic_io — 2025-12-13 16:23 UTC (2025-12-13 17:23 WAT)
 
 - URL: https://x.com/zellic_io/status/1999877848136667285
-- Metrics (at fetch): bookmark 92, impression 37115, like 366, quote 1, reply 2, retweet 25
+- Metrics (at fetch): bookmark 92, impression 37120, like 366, quote 1, reply 2, retweet 25
 
 > Last month, Zellic researcher @farazsth98 gave an internal talk on pwning Linux kernel. He teased an exploit he'd be submitting to a 0day challenge.
 >
@@ -1151,7 +1194,7 @@ Tags (automatic): Memory corruption / native
     - Metrics (at fetch): bookmark 10, impression 32246, like 65, quote 1, reply 2, retweet 2
     
     > Team CCC (@u1f383 &amp; @farazsth98):
-    > Team CCC dropped a Linux Kernel 0-day vulnerability that won them 3rd place (tied) and $40,000. Clean exploit, big win, and stronger Linux security. https://t.co/ylB9Du4pdC
+    > Team CCC dropped a Linux Kernel 0-day vulnerability that won them 3rd place (tied) and $40,000. Clean exploit, big win, and stronger Linux security. [pic.x.com/ylB9Du4pdC]
     
     **Media:**
     - media `3_1999484047605579777` (details not returned by the API)
@@ -1169,7 +1212,7 @@ Tags (automatic): Smart contract / DeFi, ZK, AI-assisted hunting, Platform: Code
 ### Post — @zellic_io — 2025-09-25 15:02 UTC (2025-09-25 16:02 WAT)
 
 - URL: https://x.com/zellic_io/status/1971228712147485185
-- Metrics (at fetch): bookmark 403, impression 270926, like 723, quote 73, reply 78, retweet 130
+- Metrics (at fetch): bookmark 403, impression 270969, like 723, quote 73, reply 78, retweet 130
 
 > Bad auditors miss obvious bugs. We built an AI tool that finds them.
 >

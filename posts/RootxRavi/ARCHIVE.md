@@ -1,11 +1,37 @@
 # @RootxRavi — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 106
-- Conversations/threads: 99
+- Posts in this file: 107
+- Conversations/threads: 100
 - Oldest post captured: 2022-10-11
-- Newest post captured: 2026-10-31
+- Newest post captured: 2026-11-15
+
+
+---
+
+## 2026-11-15 · Post · @krishnsec [pic.x.com/bROtzb2ZKL]
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @krishnsec — 2026-11-15 12:49 UTC (2026-11-15 13:49 WAT)
+
+- URL: https://x.com/krishnsec/status/2121948671239708956
+- Metrics (at fetch): bookmark 10, impression 4338, like 28, quote 1, reply 9, retweet 0
+
+> which is best model for #BugBounty hunting ??
+
+
+### Post — @RootxRavi — 2026-11-15 12:51 UTC (2026-11-15 13:51 WAT)
+
+- URL: https://x.com/RootxRavi/status/2121949129362559317
+- Metrics (at fetch): bookmark 0, impression 509, like 3, quote 0, reply 1, retweet 0
+
+> @krishnsec [pic.x.com/bROtzb2ZKL]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/HXKteiIasAASf3k.jpg — no alt text provided by author
 
 
 ---

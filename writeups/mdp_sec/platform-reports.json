@@ -260,5 +260,158 @@
   "bugcrowd": {
     "handle": "marius_dp",
     "status": "profile gated behind authenticated hacker portal; no public per-report data retrievable 2026-11-11"
+  },
+  "refresh_2026_11_16": {
+    "hackerone": {
+      "reputation": 889,
+      "rank": 2659,
+      "signal": 6.547169811320755,
+      "resolved_report_count": 26,
+      "hacktivity_entries": [
+        {
+          "report_id": "3925364",
+          "program": "msd",
+          "program_name": "Merck & Co., Inc., Rahway, NJ, USA",
+          "submitted_at": "2026-08-08T04:49:14.382Z",
+          "bounty": null,
+          "disclosed": false
+        },
+        {
+          "report_id": "3925371",
+          "program": "msd",
+          "program_name": "Merck & Co., Inc., Rahway, NJ, USA",
+          "submitted_at": "2026-08-08T04:54:13.087Z",
+          "bounty": null,
+          "disclosed": false
+        },
+        {
+          "report_id": "3925395",
+          "program": "beiersdorf",
+          "program_name": "Beiersdorf",
+          "submitted_at": "2026-08-08T05:15:37.555Z",
+          "bounty": null,
+          "disclosed": false
+        },
+        {
+          "report_id": "3927183",
+          "program": "ibm",
+          "program_name": "IBM",
+          "submitted_at": "2026-08-09T05:52:45.438Z",
+          "bounty": null,
+          "disclosed": false
+        },
+        {
+          "report_id": "3927185",
+          "program": "autodesk",
+          "program_name": "Autodesk",
+          "submitted_at": "2026-08-09T05:55:37.781Z",
+          "bounty": null,
+          "disclosed": false
+        },
+        {
+          "report_id": "3927192",
+          "program": "beiersdorf",
+          "program_name": "Beiersdorf",
+          "submitted_at": "2026-08-09T06:04:08.902Z",
+          "bounty": null,
+          "disclosed": false
+        },
+        {
+          "report_id": "3934414",
+          "program": "autodesk",
+          "program_name": "Autodesk",
+          "submitted_at": "2026-08-12T08:28:16.791Z",
+          "bounty": null,
+          "disclosed": false
+        },
+        {
+          "report_id": "3934419",
+          "program": "autodesk",
+          "program_name": "Autodesk",
+          "submitted_at": "2026-08-12T08:30:33.339Z",
+          "bounty": null,
+          "disclosed": false
+        },
+        {
+          "report_id": "3934562",
+          "program": "msd",
+          "program_name": "Merck & Co., Inc., Rahway, NJ, USA",
+          "submitted_at": "2026-08-12T09:57:10.635Z",
+          "bounty": null,
+          "disclosed": false
+        },
+        {
+          "report_id": "3985410",
+          "program": "basecamp",
+          "program_name": "Basecamp",
+          "submitted_at": "2026-09-01T01:25:41.287Z",
+          "bounty": null,
+          "disclosed": false
+        },
+        {
+          "report_id": "4012593",
+          "program": "mercadolibre",
+          "program_name": "MercadoLibre",
+          "submitted_at": "2026-09-09T02:45:15.363Z",
+          "bounty": null,
+          "disclosed": false
+        },
+        {
+          "report_id": "4041963",
+          "program": "goldmansachs",
+          "program_name": "Goldman Sachs",
+          "submitted_at": "2026-09-19T05:34:01.655Z",
+          "bounty": 100,
+          "disclosed": false
+        },
+        {
+          "report_id": "4054862",
+          "program": "logitech",
+          "program_name": "Logitech",
+          "submitted_at": "2026-09-23T22:02:34.192Z",
+          "bounty": null,
+          "disclosed": false
+        },
+        {
+          "report_id": "4061813",
+          "program": "s-pankki",
+          "program_name": "S-Pankki",
+          "submitted_at": "2026-09-26T09:48:21.344Z",
+          "bounty": null,
+          "disclosed": false
+        },
+        {
+          "report_id": "4071668",
+          "program": "stripe",
+          "program_name": "Stripe",
+          "submitted_at": "2026-09-30T07:13:36.163Z",
+          "bounty": 842,
+          "disclosed": false
+        },
+        {
+          "report_id": "4092104",
+          "program": "abb",
+          "program_name": "ABB Information Systems Ltd",
+          "submitted_at": "2026-10-06T23:36:46.134Z",
+          "bounty": null,
+          "disclosed": false
+        },
+        {
+          "report_id": "4092109",
+          "program": "abb",
+          "program_name": "ABB Information Systems Ltd",
+          "submitted_at": "2026-10-06T23:39:34.856Z",
+          "bounty": null,
+          "disclosed": false
+        }
+      ]
+    },
+    "site_claims": {
+      "reports_submitted": 591,
+      "critical": 150,
+      "high": 267,
+      "platforms": 6,
+      "last_updated": "2026-11"
+    }
   }
 }

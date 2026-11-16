@@ -61,3 +61,5 @@ for ep in object_endpoints:
 
 ## Related findings
 - `harness/findings.jsonl` records with bug_class "IDOR" / access control.
+
+- 2026-11-16: see [2026-11-16 check-specs](2026-11-16-mcp-open-data-rpc-tracer-logs.md)

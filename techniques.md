@@ -2,9 +2,33 @@
 
 High-level methodology, recon tips, and bug patterns pulled from the public sources in this repo. Each item is linked to its source. This is a workflow aid, not an exploit guide: reproduction steps and payloads stay in the original writeups.
 
-Last updated: 15 November 2026 (Africa/Lagos).
+Last updated: 16 November 2026 (Africa/Lagos).
 
 ---
+
+## 2026-11-16 additions (daily X sweep, HackerOne, Telegram)
+
+**MCP servers: test every tool as its own API — presence-only bearer checks.** mdp_sec was paid $5,000 (Bugcrowd, critical) because an MCP server "just checked an auth header was there. made up token got u in" and the *write* tool let anyone rewrite a creator's AI knowledge base. Harness: `initialize` → `tools/list` → call each `tools/call` with no header, `Bearer x`, random JWT; flag parity with a valid token. Source: [@mdp_sec 15 Nov 2026](posts/mdp_sec/2026-11-15-2121878367997714848.md).
+
+**"Pages locked, data endpoints open."** Three mdp_sec finds in one day share the pattern: a login-gated support portal whose anonymous file-lookup API returns raw storage URLs (confidential firmware/board designs) ([post](posts/mdp_sec/2026-11-15-2122089761938518398.md)); a public data server whose query endpoints return millions of proprietary rows without a token (dupe, 135 days late) ([post](posts/mdp_sec/2026-11-15-2122059562161487988.md)); Lovable-built apps with locked pages but open data endpoints ([post](posts/mdp_sec/2026-11-15-2122081089435181494.md)). Harness: replay every XHR/API seen in an authenticated crawl with cookies and Authorization stripped; walk pagination for scale.
+
+**Entitlement issuance is as sensitive as redemption.** A "generate perk link" endpoint called by the legit claim flow had no tier check, no limit and non-expiring links → any free account mints paid perks forever. Source: [@mdp_sec 15 Nov 2026](posts/mdp_sec/2026-11-15-2121968965266088068.md).
+
+**Public RPC custom JS tracers = unauthenticated node DoS ($10,000, HackerOne/Cantina arc-bbp).** `debug_traceCall`/`debug_traceTransaction` with custom JavaScript tracers (Boa engine via revm-inspectors `JsInspector`) exposed with no auth/timeout/memory caps: parser stack overflow → SIGABRT, Map+GC `BorrowMutError` non-unwinding panic → process abort, `regress` ReDoS pins threads, native `toHex` over a 4 GiB-length array, unbounded result size. Harness: probe every public RPC for `debug_*` methods and JS tracer support; fingerprint engine (`web3_clientVersion`); test bounded single-request crash primitives only with permission. Source: [hackerone/reports/2026/3966160.md](hackerone/reports/2026/3966160.md).
+
+**Proxy-header trust in rate limiters.** Weblate's DRF `RateOverrideThrottle` inherited `SimpleRateThrottle.get_ident()` so `X-Forwarded-For` chose the throttle bucket → anonymous rate-limit bypass. Harness: rotate `X-Forwarded-For`/`X-Real-IP`/`Forwarded` per request against throttled endpoints and compare 429 behaviour. Source: [hackerone/reports/2026/4059744.md](hackerone/reports/2026/4059744.md). Same day: Weblate Change API leaked `details.ip_address` of anonymous suggestions to read-only users ([4117330](hackerone/reports/2026/4117330.md)) — diff API objects against what the HTML view hides.
+
+**Debug logs + vulnerable observability stack = key theft (Proxima, 5,324 SOL).** A debug log statement around wallet create/import emitted private keys once prod log level was lowered to debug; 15-day retention kept them in a SigNoz instance running a version with a public unauthenticated-data-access vuln; attacker extracted logs and drained 870 wallets while extraction was ongoing. Harness: fingerprint exposed observability UIs/APIs (SigNoz, Grafana, Kibana, Loki, Jaeger, OpenSearch) on in-scope hosts, check known unauth CVEs, grep accessible logs for key/seed/JWT material. Source: [writeups/telegram-defendor_eng/proxima-post-mortem-signoz-leaked-private-keys.md](writeups/telegram-defendor_eng/proxima-post-mortem-signoz-leaked-private-keys.md).
+
+**Hash-collision test vectors.** zkSecurity's Collision Atlas: 123 runnable colliding pairs (15 full breaks incl. MD5/SHA-1; 108 reduced-round). Use full-break pairs against anything that dedupes, caches, signs or allowlists by MD5/SHA-1. Full dataset: [writeups/zksecurityXYZ/collision-atlas-2026-11-16.md](writeups/zksecurityXYZ/collision-atlas-2026-11-16.md).
+
+**Attestation-policy questions for TEE-backed chains.** saxenism on Flare Confidential Compute: which hardware/TCB claims are accepted, who updates the policy after Google firmware rollouts, can users inspect the rules? Source: [@saxenism 15 Nov 2026](posts/saxenism/2026-11-15-2121975522028859699.md).
+
+**Hardware badge/wallet zero-click over Wi-Fi.** Neodyme got zero-click RCE on the Solana Breakpoint badge via deauth or joining a vulnerable AP (details pending). Source: [@Neodyme 15 Nov 2026](posts/Neodyme/2026-11-15-2121941626822004761.md).
+
+**AI harness economics.** Stock DeepSeek V4.1 Flash via first-party API: 0 refusals on 100 black-box labs, 21 solves at $1.59/solve vs Claude Opus 5 22 at $41.97 and Grok 4.6 21 at $19.01 (mdp_sec's BB Arena). Call providers directly (resellers may quantize); add an "irrefutable proof" validation step. Sources: [deepseek post](posts/mdp_sec/2026-11-15-2121908568110628935.md), [validation step](posts/mdp_sec/2026-11-16-2122139706913878466.md).
+
+**Formal verification lessons (Will Papper, 5 years of Certora at Syndicate).** Specs = reachable/unreachable state machine; keep specs close to code; verified model ≠ deployed code (prefer bytecode-level verification); tool map Lean / Certora CVL / Verus / Aeneas / Hax. Source: [writeups/telegram-defendor_eng/willpapper-five-years-formal-verification-certora.md](writeups/telegram-defendor_eng/willpapper-five-years-formal-verification-certora.md).
 
 
 ## 2026-11-15 additions (from daily X sweep)

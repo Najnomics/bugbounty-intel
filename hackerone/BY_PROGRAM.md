@@ -1,4 +1,4 @@
-# HackerOne disclosed reports by program (340 programs)
+# HackerOne disclosed reports by program (341 programs)
 
 
 ## deptofdefense (896)
@@ -5708,6 +5708,172 @@
 - [3198980](reports/2025/3198980.md) Woocommerce SQL Injection in WC_Report_Coupon_Usage — automattic — medium —  — SQL Injection
 - [3447021](reports/2026/3447021.md) XSS Vulnerability on Pressable/Atomic Hosting Platform via unescaped admin notices leads to code execution — automattic — - —  — 
 
+## weblate (163)
+
+- [223350](reports/2017/223350.md) Web server is vulnerable to Beast Attack — weblate — low —  — Cryptographic Issues - Generic
+- [225100](reports/2017/225100.md) CSRF to Connect third party Account — weblate — medium —  — Cross-Site Request Forgery (CSRF)
+- [225653](reports/2017/225653.md) Account Takeover using Third party Auth CSRF — weblate — high —  — Cross-Site Request Forgery (CSRF)
+- [223434](reports/2017/223434.md) Improper access control when an added email address is deleted from authentication — weblate — high —  — Improper Access Control - Generic
+- [225495](reports/2017/225495.md) full path disclosure at hosted.weblate.org/admin/accounts/profile/  — weblate — medium —  — Path Traversal
+- [223694](reports/2017/223694.md) No Rate Limitting at Change Password — weblate — medium —  — 
+- [224287](reports/2017/224287.md) Email verification over an unencrypted channel — weblate — low —  — Man-in-the-Middle
+- [223854](reports/2017/223854.md) No Password Length Restriction leads to Denial of Service — weblate — low —  — Uncontrolled Resource Consumption
+- [223362](reports/2017/223362.md) Improper Password Reset Policy on https://hosted.weblate.org/ — weblate — low —  — Violation of Secure Design Principles
+- [223653](reports/2017/223653.md) demo.weblate.org is vulnerable to SWEET32 Vulnerability — weblate — low —  — Inadequate Encryption Strength
+- [223718](reports/2017/223718.md) Open redirect in Signing in via Social Sites — weblate — medium —  — Open Redirect
+- [223637](reports/2017/223637.md) [hosted.weblate.org]Account Takeover — weblate — low —  — 
+- [223630](reports/2017/223630.md) Content Spoofing — weblate — low —  — 
+- [223324](reports/2017/223324.md) Registration captcha bypass — weblate — medium —  — Violation of Secure Design Principles
+- [223427](reports/2017/223427.md) Login using disconnected google account i.e login using old email id — weblate — low —  — Improper Authentication - Generic
+- [223355](reports/2017/223355.md) Insecure Account Removal — weblate — low —  — Violation of Secure Design Principles
+- [223326](reports/2017/223326.md) Open Redirect via "next" parameter in third-party authentication — weblate — medium —  — Open Redirect
+- [223339](reports/2017/223339.md) Activation tokens are not expiring — weblate — medium —  — Cross-Site Request Forgery (CSRF)
+- [224291](reports/2017/224291.md) CSV Injection with the CVS export feature - Glossary — weblate — low —  — Command Injection - Generic
+- [224015](reports/2017/224015.md) Specify maximal length in translation — weblate — none —  — Violation of Secure Design Principles
+- [223331](reports/2017/223331.md) [demo.weblate.org] Stored Self-XSS via Editor Link in Profile — weblate — low —  — Cross-site Scripting (XSS) - Stored
+- [223329](reports/2017/223329.md) Logout CSRF — weblate — low —  — Cross-Site Request Forgery (CSRF)
+- [223396](reports/2017/223396.md) hosted.weblate.org: X-XSS-Protection not enabled — weblate — low —  — Cross-site Scripting (XSS) - Generic
+- [223723](reports/2017/223723.md) weblate.org: X-XSS-Protection not enabled — weblate — low —  — Cross-site Scripting (XSS) - Generic
+- [223931](reports/2017/223931.md) Specify maximal length in new comment — weblate — low —  — Violation of Secure Design Principles
+- [223430](reports/2017/223430.md) Content Spoofing — weblate — low —  — Violation of Secure Design Principles
+- [223557](reports/2017/223557.md) Abuse of Api that causes spamming users and possible DOS due to missing rate limit — weblate — low —  — 
+- [223542](reports/2017/223542.md) Abuse of Api that causes spamming users and possible DOS due to missing rate limit on contact form — weblate — none —  — 
+- [223545](reports/2017/223545.md) Missing DMARC on weblate.org — weblate — low —  — 
+- [223327](reports/2017/223327.md) No expiration of session ID after Password change — weblate — low —  — Insufficient Session Expiration
+- [223456](reports/2017/223456.md) Content Spoofing in error message — weblate — low —  — Violation of Secure Design Principles
+- [223343](reports/2017/223343.md) Already Registered Email Disclosure — weblate — low —  — Information Disclosure
+- [223999](reports/2017/223999.md) CSV export filter bypass leads to formula injection. — weblate — medium —  — Command Injection - Generic
+- [223525](reports/2017/223525.md) Spamming any user from Reset Password Function — weblate — low —  — Violation of Secure Design Principles
+- [223531](reports/2017/223531.md) User Enumeration when adding email to account — weblate — low —  — 
+- [224460](reports/2017/224460.md) Rate Limit Bypass on login Page — weblate — medium —  — Improper Authentication - Generic
+- [224379](reports/2017/224379.md) session id missing secure flag - Hosted Website — weblate — low —  — 
+- [223692](reports/2017/223692.md) Self XSS at translation page through Editor Link at demo.weblate.org — weblate — low —  — Cross-site Scripting (XSS) - Generic
+- [223461](reports/2017/223461.md) Weak e-mail change functionality could lead to account takeover — weblate — low —  — Violation of Secure Design Principles
+- [223345](reports/2017/223345.md) CSRF : Lock and Unlock Translation — weblate — medium —  — Cross-Site Request Forgery (CSRF)
+- [223344](reports/2017/223344.md) CSV Injection with the CSV export feature — weblate — low —  — OS Command Injection
+- [223333](reports/2017/223333.md) CSRF : Reset API  — weblate — low —  — Cross-Site Request Forgery (CSRF)
+- [223337](reports/2017/223337.md) No BruteForce Protection — weblate — medium —  — Improper Restriction of Authentication Attempts
+- [223609](reports/2017/223609.md) Notify user about password change — weblate — low —  — Improper Authentication - Generic
+- [223454](reports/2017/223454.md) Missing restriction on string size of Full Name at https://demo.weblate.org/accounts/register/ — weblate — low —  — Memory Corruption - Generic
+- [224006](reports/2017/224006.md) HttpOnly Flag not set  — weblate — none —  — Violation of Secure Design Principles
+- [224072](reports/2017/224072.md) Running 2 accounts with a single email — weblate — none —  — Business Logic Errors
+- [223851](reports/2017/223851.md) Setting a password with a single character — weblate — low —  — Weak Cryptography for Passwords
+- [223846](reports/2017/223846.md) Access to completion page without performing any action — weblate — none —  — Improper Access Control - Generic
+- [223618](reports/2017/223618.md) Null Password - Setting a new password doesn't check for empty spaces — weblate — low —  — Weak Cryptography for Passwords
+- [223374](reports/2017/223374.md) You can simply just use passwords that simply are as 123456 — weblate — low —  — 
+- [223435](reports/2017/223435.md) Open SMTP port can let anyone send email from mail.chihar.com — weblate — - —  — Cryptographic Issues - Generic
+- [230194](reports/2017/230194.md) Option method enabled — weblate — none —  — Violation of Secure Design Principles
+- [225901](reports/2017/225901.md) Missing filteration of meta characters in full name field on registration page https://demo.weblate.org/accounts/register — weblate — none —  — Violation of Secure Design Principles
+- [231062](reports/2017/231062.md) CSP "script-src" includes "unsafe-inline" in weblate.org and demo.weblate.org — weblate — none —  — Violation of Secure Design Principles
+- [229511](reports/2017/229511.md) No Rate Limiting at /contact — weblate — low —  — Memory Corruption - Generic
+- [229528](reports/2017/229528.md) Login CSRF : Login Authentication Flaw — weblate — medium —  — Cross-Site Request Forgery (CSRF)
+- [229735](reports/2017/229735.md) Self-XSS can be achieved in the editor link using filter bypass — weblate — none —  — Cross-site Scripting (XSS) - Generic
+- [229909](reports/2017/229909.md) No notificatoin sent on email after account deletion. — weblate — - —  — 
+- [229417](reports/2017/229417.md) Design Flaw in session management of password reset  — weblate — - —  — Improper Access Control - Generic
+- [232994](reports/2017/232994.md) API Does Not Apply Access Controls to Translations — weblate — low —  — Improper Access Control - Generic
+- [232614](reports/2017/232614.md) Uploaded XLF files result in External Entity Execution — weblate — high —  — XML External Entities (XXE)
+- [230863](reports/2017/230863.md) CSRF bypass ( Delate Source Translation From dictionaries ) in demo.weblate.org — weblate — medium —  — Cross-Site Request Forgery (CSRF)
+- [229620](reports/2017/229620.md) Information Disclosure on demo.weblate.org — weblate — low —  — Information Disclosure
+- [229541](reports/2017/229541.md) Captcha Bypass at Email Reset can lead to Spamming users. — weblate — - —  — Violation of Secure Design Principles
+- [223367](reports/2017/223367.md) CSRF - Changing the full name / adding a secondary email identity of an account via a GET request — weblate — medium —  — Cross-Site Request Forgery (CSRF)
+- [229796](reports/2017/229796.md) Missing restriction on string size — weblate — low —  — 
+- [229577](reports/2017/229577.md) Old password can be new password — weblate — low —  — 
+- [230633](reports/2017/230633.md) Weblate- Banner Grabbing-Ngnix Server version — weblate — - —  — 
+- [223391](reports/2017/223391.md) Clickjacking docs.weblate.org — weblate — low —  — 
+- [224317](reports/2017/224317.md) Open redirect while disconnecting authenticated account — weblate — medium —  — Open Redirect
+- [238117](reports/2017/238117.md) Open redirect while disconnecting Email — weblate — - —  — Open Redirect
+- [230076](reports/2017/230076.md) Takeover of an account via reset password options after removing the account — weblate — low —  — Improper Authentication - Generic
+- [225769](reports/2017/225769.md) Facebook share URL should be HTTPS — weblate — - —  — 
+- [225722](reports/2017/225722.md) 7BO: Binary Option Robot URL should be HTTPS — weblate — - —  — 
+- [225555](reports/2017/225555.md) ClickJacking on Debug — weblate — - —  — UI Redressing (Clickjacking)
+- [225540](reports/2017/225540.md) Incorrect HTTPS Certificate — weblate — none —  — Improper Certificate Validation
+- [224186](reports/2017/224186.md) Email spoofing at weblate.org — weblate — - —  — 
+- [223384](reports/2017/223384.md) Directory Listing  — weblate — none —  — Cleartext Storage of Sensitive Information
+- [223475](reports/2017/223475.md) Existing sessions valid after removing third party auth — weblate — low —  — Improper Authentication - Generic
+- [229483](reports/2017/229483.md) Improper validation of unicode characters — weblate — - —  — 
+- [229987](reports/2017/229987.md) Password token validation in https://demo.weblate.org/ — weblate — - —  — Improper Authentication - Generic
+- [229869](reports/2017/229869.md) Adding Email lacks Password validation — weblate — low —  — 
+- [229584](reports/2017/229584.md) Captcha bypass at registration — weblate — low —  — 
+- [230648](reports/2017/230648.md) Weblate |Security Misconfiguration| Method Enumeration Possible on domain  — weblate — none —  — 
+- [229825](reports/2017/229825.md) Rate Limit Issue on hosted.weblate.org — weblate — low —  — Improper Restriction of Authentication Attempts
+- [224342](reports/2017/224342.md) Bypassing captcha in registration on Hosted site — weblate — medium —  — Uncontrolled Resource Consumption
+- [224362](reports/2017/224362.md) Invalidate session after password reset - hosted website — weblate — low —  — 
+- [242945](reports/2017/242945.md) No filteration of null characters in name field — weblate — none —  — Violation of Secure Design Principles
+- [243609](reports/2017/243609.md) The username of an account can be .. — weblate — none —  — Business Logic Errors
+- [243664](reports/2017/243664.md) Error Message When Changing Username — weblate — none —  — Business Logic Errors
+- [229405](reports/2017/229405.md) Csrf in watch-unwatch projects — weblate — low —  — Cross-Site Request Forgery (CSRF)
+- [224572](reports/2017/224572.md) Weak password policy — weblate — low —  — 
+- [242171](reports/2017/242171.md) Improper validation of unicode characters — weblate — - —  — Violation of Secure Design Principles
+- [229920](reports/2017/229920.md) Password Restriction — weblate — low —  — Violation of Secure Design Principles
+- [241596](reports/2017/241596.md) Improper validation of unicode characters still not fixed — weblate — - —  — 
+- [243611](reports/2017/243611.md) Improper validation of unicode characters still not fixed #2 — weblate — - —  — 
+- [243635](reports/2017/243635.md) Improper validation of unicode characters #3 — weblate — - —  — 
+- [243842](reports/2017/243842.md) Password token validation in Weblate Bypass — weblate — none —  — Improper Authentication - Generic
+- [244287](reports/2017/244287.md) Password token validation in Weblate Bypass #2 — weblate — - —  — 
+- [243616](reports/2017/243616.md) Previous password could set as new password — weblate — - —  — 
+- [241623](reports/2017/241623.md) Persistence of Third Party Association. — weblate — - —  — Business Logic Errors
+- [243619](reports/2017/243619.md) No Rate Limitation on Regenerate Api Key — weblate — - —  — 
+- [241598](reports/2017/241598.md) Full Name Overwrite on Third party login — weblate — - —  — 
+- [243594](reports/2017/243594.md) Reset password more than once with a reset link — weblate — - —  — Business Logic Errors
+- [245518](reports/2017/245518.md) [debian.weblate.org]-Missing SPF Record — weblate — low —  — Violation of Secure Design Principles
+- [232306](reports/2017/232306.md) Improper Cookie expiration | Cookies Expiration Set to Future  — weblate — low —  — 
+- [257384](reports/2017/257384.md) No rate limit or captcha to identify humans — weblate — none —  — Violation of Secure Design Principles
+- [257376](reports/2017/257376.md) Missing Restriction On String Size — weblate — none —  — Memory Corruption - Generic
+- [253926](reports/2017/253926.md) DKIM records not present, Email Hijacking is possible..... — weblate — none —  — Improper Authentication - Generic
+- [265987](reports/2017/265987.md) Add another email address without verification — weblate — - —  — Improper Access Control - Generic
+- [264934](reports/2017/264934.md)  Application allowing old password to be set as new password | hosted.weblate.org — weblate — - —  — 
+- [245450](reports/2017/245450.md) Reset password more than once with a reset link #2 — weblate — - —  — Business Logic Errors
+- [241608](reports/2017/241608.md) Running 2 accounts with a single email [Part 2] — weblate — - —  — Business Logic Errors
+- [278718](reports/2017/278718.md) Improper validation of unicode characters  — weblate — none —  — 
+- [228471](reports/2018/228471.md) DNSSEC Zone Walk using NSEC Records — weblate — none —  — Information Disclosure
+- [245304](reports/2018/245304.md) Running 2 accounts with a single email #3 — weblate — - —  — Business Logic Errors
+- [275303](reports/2018/275303.md)  Account Restore / Reactivating an old email via old reset link — weblate — - —  — 
+- [229532](reports/2018/229532.md) Insecure Account Removal #2 — weblate — low —  — Violation of Secure Design Principles
+- [296632](reports/2018/296632.md) Audit log validation — weblate — none —  — Improper Neutralization of HTTP Headers for Scripting Syntax
+- [403891](reports/2018/403891.md) Tab nabbing via window.opener — weblate — - —  — 
+- [223421](reports/2018/223421.md) Open port leads to information disclosure — weblate — low —  — Information Disclosure
+- [400826](reports/2018/400826.md) Broken Authentication – Session Token bug — weblate — none —  — 
+- [400781](reports/2018/400781.md) Browser Self XSS Protection not implemented — weblate — - —  — Information Disclosure
+- [282772](reports/2018/282772.md) no notification send to victim if attacker hacks/accesses his victims WebLate account. — weblate — low —  — Business Logic Errors
+- [404035](reports/2018/404035.md) flood of comment no rate  limit on commnets >>  by using different user agent  — weblate — low —  — Violation of Secure Design Principles
+- [404713](reports/2018/404713.md) 2nd issue>>> flood of email  no rate limit on delete account confirmation email >>  — weblate — low —  — Violation of Secure Design Principles
+- [479021](reports/2019/479021.md) No Rate Limit  On Add new word — weblate — low —  — Business Logic Errors
+- [481654](reports/2019/481654.md) No Rate On Add Suggest — weblate — low —  — Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')
+- [472391](reports/2019/472391.md) Stored XSS @ /engage/<project_slug> — weblate — medium —  — Cross-site Scripting (XSS) - Stored
+- [610219](reports/2019/610219.md) Stored XSS via Create Project (Add new translation project) — weblate — medium —  — Cross-site Scripting (XSS) - Stored
+- [634312](reports/2019/634312.md) HTML injection and information disclosure in support panel — weblate — medium —  — Information Disclosure
+- [236398](reports/2019/236398.md) no captcha for register user and weak question attacker can spam email — weblate — - —  — Violation of Secure Design Principles
+- [926093](reports/2020/926093.md) Secret_key in GitHub — weblate — none —  — Information Disclosure
+- [279945](reports/2020/279945.md) Improper validation of unicode characters#2 — weblate — none —  — 
+- [942146](reports/2020/942146.md) Open Github Repo Leaking WEBLATE SECRET KEY — weblate — none —  — Cleartext Storage of Sensitive Information
+- [1003468](reports/2020/1003468.md) Send Empty CSRF leads to log out user on [https://hosted.weblate.org/accounts/profile] — weblate — low —  — Cross-Site Request Forgery (CSRF)
+- [1004536](reports/2020/1004536.md) Reset password cookie leads to account takeover — weblate — medium —  — Reliance on Cookies without Validation and Integrity Checking in a Security Decision
+- [1087188](reports/2021/1087188.md) Race Condition allows to get more free trials and get more than 100 languages and strings for free — weblate — low —  — Business Logic Errors
+- [1238749](reports/2021/1238749.md) No rate Limit on Add new Translation Project  — weblate — - —  — Improper Restriction of Authentication Attempts
+- [1454552](reports/2022/1454552.md) hosted.weblate.org display of unfiltered results — weblate — none —  — 
+- [1723445](reports/2022/1723445.md) No rate limiting for Remove Account lead to huge Mass mailings — weblate — none —  — Business Logic Errors
+- [1927499](reports/2023/1927499.md) Testing flow includes a DeepSource secret — weblate — low —  — Use of Hard-coded Credentials
+- [1971589](reports/2023/1971589.md) CSRF with logout action — weblate — - —  — Cross-Site Request Forgery (CSRF)
+- [1971610](reports/2023/1971610.md) Logging in without knowing credentials after logged out action — weblate — - —  — 
+- [2370002](reports/2024/2370002.md) Information Disclosure — weblate — low —  — 
+- [3179850](reports/2025/3179850.md) exposure of personal IP address via email. — weblate — - —  — Privacy Violation
+- [3518571](reports/2026/3518571.md) Argument Injection in /manage/ssh/ via host parameter leads to sensitive file disclosure on Weblate — weblate — - —  — 
+- [3869124](reports/2026/3869124.md) **Unauthenticated IDOR allows modification of payment customer billing information** — weblate — high —  — Insecure Direct Object Reference (IDOR)
+- [3887969](reports/2026/3887969.md) SSRF via URL Parser Differential in `normalize_request_url` (wlc) — weblate — high —  — Server-Side Request Forgery (SSRF)
+- [3898281](reports/2026/3898281.md) Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process-global lock in Weblate — weblate — high —  — Uncontrolled Resource Consumption
+- [3825141](reports/2026/3825141.md) API token sent to URL dictated by an untrusted project .weblate file — weblate — medium —  — Information Disclosure
+- [3874004](reports/2026/3874004.md)  Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() leads to command execution — weblate — high —  — OS Command Injection
+- [4022462](reports/2026/4022462.md) Uncaught RecursionError crash in translation-finder (deep directory tree DoS) — weblate — low —  — Uncontrolled Resource Consumption
+- [4028616](reports/2026/4028616.md) Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()` — weblate — medium —  — Uncontrolled Resource Consumption
+- [4044441](reports/2026/4044441.md) Translation discovery crashes on crafted filenames (regex substitution injection) — weblate — low —  — Use of Externally-Controlled Format String
+- [4040149](reports/2026/4040149.md) wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem errors surface as raw Python tracebacks. — weblate — low —  — Information Exposure Through an Error Message
+- [4037976](reports/2026/4037976.md) Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `VCS_METADATA_DIRS` entries. — weblate — medium —  — Path Traversal
+- [4088592](reports/2026/4088592.md) CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask matching — weblate — medium —  — Uncontrolled Resource Consumption
+- [4094236](reports/2026/4094236.md)  Billion laughs entity expansion in Qt .ts discovery: a crafted ~950 KB file forces ~55 MB of XML expansion per parse, cost scales with crafted file c — weblate — medium —  — XML Entity Expansion
+- [4081135](reports/2026/4081135.md) Privilege escalation via unfiltered role restoration in project backup import — weblate — critical —  — Privilege Escalation
+- [4117330](reports/2026/4117330.md) Anonymous Translation Suggestion IP Address Exposure Through Change API — weblate — low —  — Information Disclosure
+- [4059744](reports/2026/4059744.md) Anonymous API Rate Limit Bypass via X-Forwarded-For — weblate — medium —  — Uncontrolled Resource Consumption
+
 ## shopify-scripts (161)
 
 - [181321](reports/2016/181321.md) Use after free vulnerability in mruby Array#to_h causing DOS possible RCE — shopify-scripts — critical —  — Code Injection
@@ -5871,170 +6037,6 @@
 - [633607](reports/2019/633607.md) Invalid read in `str_replace_partial` — shopify-scripts — - — $1,000 — Out-of-bounds Read
 - [535827](reports/2019/535827.md) Buffer overflow in yywarning_s — shopify-scripts — - — $1,000 — Classic Buffer Overflow
 - [621308](reports/2019/621308.md) NULL pointer dereference in `mrb_check_frozen` — shopify-scripts — - — $1,000 — NULL Pointer Dereference
-
-## weblate (161)
-
-- [223350](reports/2017/223350.md) Web server is vulnerable to Beast Attack — weblate — low —  — Cryptographic Issues - Generic
-- [225100](reports/2017/225100.md) CSRF to Connect third party Account — weblate — medium —  — Cross-Site Request Forgery (CSRF)
-- [225653](reports/2017/225653.md) Account Takeover using Third party Auth CSRF — weblate — high —  — Cross-Site Request Forgery (CSRF)
-- [223434](reports/2017/223434.md) Improper access control when an added email address is deleted from authentication — weblate — high —  — Improper Access Control - Generic
-- [225495](reports/2017/225495.md) full path disclosure at hosted.weblate.org/admin/accounts/profile/  — weblate — medium —  — Path Traversal
-- [223694](reports/2017/223694.md) No Rate Limitting at Change Password — weblate — medium —  — 
-- [224287](reports/2017/224287.md) Email verification over an unencrypted channel — weblate — low —  — Man-in-the-Middle
-- [223854](reports/2017/223854.md) No Password Length Restriction leads to Denial of Service — weblate — low —  — Uncontrolled Resource Consumption
-- [223362](reports/2017/223362.md) Improper Password Reset Policy on https://hosted.weblate.org/ — weblate — low —  — Violation of Secure Design Principles
-- [223653](reports/2017/223653.md) demo.weblate.org is vulnerable to SWEET32 Vulnerability — weblate — low —  — Inadequate Encryption Strength
-- [223718](reports/2017/223718.md) Open redirect in Signing in via Social Sites — weblate — medium —  — Open Redirect
-- [223637](reports/2017/223637.md) [hosted.weblate.org]Account Takeover — weblate — low —  — 
-- [223630](reports/2017/223630.md) Content Spoofing — weblate — low —  — 
-- [223324](reports/2017/223324.md) Registration captcha bypass — weblate — medium —  — Violation of Secure Design Principles
-- [223427](reports/2017/223427.md) Login using disconnected google account i.e login using old email id — weblate — low —  — Improper Authentication - Generic
-- [223355](reports/2017/223355.md) Insecure Account Removal — weblate — low —  — Violation of Secure Design Principles
-- [223326](reports/2017/223326.md) Open Redirect via "next" parameter in third-party authentication — weblate — medium —  — Open Redirect
-- [223339](reports/2017/223339.md) Activation tokens are not expiring — weblate — medium —  — Cross-Site Request Forgery (CSRF)
-- [224291](reports/2017/224291.md) CSV Injection with the CVS export feature - Glossary — weblate — low —  — Command Injection - Generic
-- [224015](reports/2017/224015.md) Specify maximal length in translation — weblate — none —  — Violation of Secure Design Principles
-- [223331](reports/2017/223331.md) [demo.weblate.org] Stored Self-XSS via Editor Link in Profile — weblate — low —  — Cross-site Scripting (XSS) - Stored
-- [223329](reports/2017/223329.md) Logout CSRF — weblate — low —  — Cross-Site Request Forgery (CSRF)
-- [223396](reports/2017/223396.md) hosted.weblate.org: X-XSS-Protection not enabled — weblate — low —  — Cross-site Scripting (XSS) - Generic
-- [223723](reports/2017/223723.md) weblate.org: X-XSS-Protection not enabled — weblate — low —  — Cross-site Scripting (XSS) - Generic
-- [223931](reports/2017/223931.md) Specify maximal length in new comment — weblate — low —  — Violation of Secure Design Principles
-- [223430](reports/2017/223430.md) Content Spoofing — weblate — low —  — Violation of Secure Design Principles
-- [223557](reports/2017/223557.md) Abuse of Api that causes spamming users and possible DOS due to missing rate limit — weblate — low —  — 
-- [223542](reports/2017/223542.md) Abuse of Api that causes spamming users and possible DOS due to missing rate limit on contact form — weblate — none —  — 
-- [223545](reports/2017/223545.md) Missing DMARC on weblate.org — weblate — low —  — 
-- [223327](reports/2017/223327.md) No expiration of session ID after Password change — weblate — low —  — Insufficient Session Expiration
-- [223456](reports/2017/223456.md) Content Spoofing in error message — weblate — low —  — Violation of Secure Design Principles
-- [223343](reports/2017/223343.md) Already Registered Email Disclosure — weblate — low —  — Information Disclosure
-- [223999](reports/2017/223999.md) CSV export filter bypass leads to formula injection. — weblate — medium —  — Command Injection - Generic
-- [223525](reports/2017/223525.md) Spamming any user from Reset Password Function — weblate — low —  — Violation of Secure Design Principles
-- [223531](reports/2017/223531.md) User Enumeration when adding email to account — weblate — low —  — 
-- [224460](reports/2017/224460.md) Rate Limit Bypass on login Page — weblate — medium —  — Improper Authentication - Generic
-- [224379](reports/2017/224379.md) session id missing secure flag - Hosted Website — weblate — low —  — 
-- [223692](reports/2017/223692.md) Self XSS at translation page through Editor Link at demo.weblate.org — weblate — low —  — Cross-site Scripting (XSS) - Generic
-- [223461](reports/2017/223461.md) Weak e-mail change functionality could lead to account takeover — weblate — low —  — Violation of Secure Design Principles
-- [223345](reports/2017/223345.md) CSRF : Lock and Unlock Translation — weblate — medium —  — Cross-Site Request Forgery (CSRF)
-- [223344](reports/2017/223344.md) CSV Injection with the CSV export feature — weblate — low —  — OS Command Injection
-- [223333](reports/2017/223333.md) CSRF : Reset API  — weblate — low —  — Cross-Site Request Forgery (CSRF)
-- [223337](reports/2017/223337.md) No BruteForce Protection — weblate — medium —  — Improper Restriction of Authentication Attempts
-- [223609](reports/2017/223609.md) Notify user about password change — weblate — low —  — Improper Authentication - Generic
-- [223454](reports/2017/223454.md) Missing restriction on string size of Full Name at https://demo.weblate.org/accounts/register/ — weblate — low —  — Memory Corruption - Generic
-- [224006](reports/2017/224006.md) HttpOnly Flag not set  — weblate — none —  — Violation of Secure Design Principles
-- [224072](reports/2017/224072.md) Running 2 accounts with a single email — weblate — none —  — Business Logic Errors
-- [223851](reports/2017/223851.md) Setting a password with a single character — weblate — low —  — Weak Cryptography for Passwords
-- [223846](reports/2017/223846.md) Access to completion page without performing any action — weblate — none —  — Improper Access Control - Generic
-- [223618](reports/2017/223618.md) Null Password - Setting a new password doesn't check for empty spaces — weblate — low —  — Weak Cryptography for Passwords
-- [223374](reports/2017/223374.md) You can simply just use passwords that simply are as 123456 — weblate — low —  — 
-- [223435](reports/2017/223435.md) Open SMTP port can let anyone send email from mail.chihar.com — weblate — - —  — Cryptographic Issues - Generic
-- [230194](reports/2017/230194.md) Option method enabled — weblate — none —  — Violation of Secure Design Principles
-- [225901](reports/2017/225901.md) Missing filteration of meta characters in full name field on registration page https://demo.weblate.org/accounts/register — weblate — none —  — Violation of Secure Design Principles
-- [231062](reports/2017/231062.md) CSP "script-src" includes "unsafe-inline" in weblate.org and demo.weblate.org — weblate — none —  — Violation of Secure Design Principles
-- [229511](reports/2017/229511.md) No Rate Limiting at /contact — weblate — low —  — Memory Corruption - Generic
-- [229528](reports/2017/229528.md) Login CSRF : Login Authentication Flaw — weblate — medium —  — Cross-Site Request Forgery (CSRF)
-- [229735](reports/2017/229735.md) Self-XSS can be achieved in the editor link using filter bypass — weblate — none —  — Cross-site Scripting (XSS) - Generic
-- [229909](reports/2017/229909.md) No notificatoin sent on email after account deletion. — weblate — - —  — 
-- [229417](reports/2017/229417.md) Design Flaw in session management of password reset  — weblate — - —  — Improper Access Control - Generic
-- [232994](reports/2017/232994.md) API Does Not Apply Access Controls to Translations — weblate — low —  — Improper Access Control - Generic
-- [232614](reports/2017/232614.md) Uploaded XLF files result in External Entity Execution — weblate — high —  — XML External Entities (XXE)
-- [230863](reports/2017/230863.md) CSRF bypass ( Delate Source Translation From dictionaries ) in demo.weblate.org — weblate — medium —  — Cross-Site Request Forgery (CSRF)
-- [229620](reports/2017/229620.md) Information Disclosure on demo.weblate.org — weblate — low —  — Information Disclosure
-- [229541](reports/2017/229541.md) Captcha Bypass at Email Reset can lead to Spamming users. — weblate — - —  — Violation of Secure Design Principles
-- [223367](reports/2017/223367.md) CSRF - Changing the full name / adding a secondary email identity of an account via a GET request — weblate — medium —  — Cross-Site Request Forgery (CSRF)
-- [229796](reports/2017/229796.md) Missing restriction on string size — weblate — low —  — 
-- [229577](reports/2017/229577.md) Old password can be new password — weblate — low —  — 
-- [230633](reports/2017/230633.md) Weblate- Banner Grabbing-Ngnix Server version — weblate — - —  — 
-- [223391](reports/2017/223391.md) Clickjacking docs.weblate.org — weblate — low —  — 
-- [224317](reports/2017/224317.md) Open redirect while disconnecting authenticated account — weblate — medium —  — Open Redirect
-- [238117](reports/2017/238117.md) Open redirect while disconnecting Email — weblate — - —  — Open Redirect
-- [230076](reports/2017/230076.md) Takeover of an account via reset password options after removing the account — weblate — low —  — Improper Authentication - Generic
-- [225769](reports/2017/225769.md) Facebook share URL should be HTTPS — weblate — - —  — 
-- [225722](reports/2017/225722.md) 7BO: Binary Option Robot URL should be HTTPS — weblate — - —  — 
-- [225555](reports/2017/225555.md) ClickJacking on Debug — weblate — - —  — UI Redressing (Clickjacking)
-- [225540](reports/2017/225540.md) Incorrect HTTPS Certificate — weblate — none —  — Improper Certificate Validation
-- [224186](reports/2017/224186.md) Email spoofing at weblate.org — weblate — - —  — 
-- [223384](reports/2017/223384.md) Directory Listing  — weblate — none —  — Cleartext Storage of Sensitive Information
-- [223475](reports/2017/223475.md) Existing sessions valid after removing third party auth — weblate — low —  — Improper Authentication - Generic
-- [229483](reports/2017/229483.md) Improper validation of unicode characters — weblate — - —  — 
-- [229987](reports/2017/229987.md) Password token validation in https://demo.weblate.org/ — weblate — - —  — Improper Authentication - Generic
-- [229869](reports/2017/229869.md) Adding Email lacks Password validation — weblate — low —  — 
-- [229584](reports/2017/229584.md) Captcha bypass at registration — weblate — low —  — 
-- [230648](reports/2017/230648.md) Weblate |Security Misconfiguration| Method Enumeration Possible on domain  — weblate — none —  — 
-- [229825](reports/2017/229825.md) Rate Limit Issue on hosted.weblate.org — weblate — low —  — Improper Restriction of Authentication Attempts
-- [224342](reports/2017/224342.md) Bypassing captcha in registration on Hosted site — weblate — medium —  — Uncontrolled Resource Consumption
-- [224362](reports/2017/224362.md) Invalidate session after password reset - hosted website — weblate — low —  — 
-- [242945](reports/2017/242945.md) No filteration of null characters in name field — weblate — none —  — Violation of Secure Design Principles
-- [243609](reports/2017/243609.md) The username of an account can be .. — weblate — none —  — Business Logic Errors
-- [243664](reports/2017/243664.md) Error Message When Changing Username — weblate — none —  — Business Logic Errors
-- [229405](reports/2017/229405.md) Csrf in watch-unwatch projects — weblate — low —  — Cross-Site Request Forgery (CSRF)
-- [224572](reports/2017/224572.md) Weak password policy — weblate — low —  — 
-- [242171](reports/2017/242171.md) Improper validation of unicode characters — weblate — - —  — Violation of Secure Design Principles
-- [229920](reports/2017/229920.md) Password Restriction — weblate — low —  — Violation of Secure Design Principles
-- [241596](reports/2017/241596.md) Improper validation of unicode characters still not fixed — weblate — - —  — 
-- [243611](reports/2017/243611.md) Improper validation of unicode characters still not fixed #2 — weblate — - —  — 
-- [243635](reports/2017/243635.md) Improper validation of unicode characters #3 — weblate — - —  — 
-- [243842](reports/2017/243842.md) Password token validation in Weblate Bypass — weblate — none —  — Improper Authentication - Generic
-- [244287](reports/2017/244287.md) Password token validation in Weblate Bypass #2 — weblate — - —  — 
-- [243616](reports/2017/243616.md) Previous password could set as new password — weblate — - —  — 
-- [241623](reports/2017/241623.md) Persistence of Third Party Association. — weblate — - —  — Business Logic Errors
-- [243619](reports/2017/243619.md) No Rate Limitation on Regenerate Api Key — weblate — - —  — 
-- [241598](reports/2017/241598.md) Full Name Overwrite on Third party login — weblate — - —  — 
-- [243594](reports/2017/243594.md) Reset password more than once with a reset link — weblate — - —  — Business Logic Errors
-- [245518](reports/2017/245518.md) [debian.weblate.org]-Missing SPF Record — weblate — low —  — Violation of Secure Design Principles
-- [232306](reports/2017/232306.md) Improper Cookie expiration | Cookies Expiration Set to Future  — weblate — low —  — 
-- [257384](reports/2017/257384.md) No rate limit or captcha to identify humans — weblate — none —  — Violation of Secure Design Principles
-- [257376](reports/2017/257376.md) Missing Restriction On String Size — weblate — none —  — Memory Corruption - Generic
-- [253926](reports/2017/253926.md) DKIM records not present, Email Hijacking is possible..... — weblate — none —  — Improper Authentication - Generic
-- [265987](reports/2017/265987.md) Add another email address without verification — weblate — - —  — Improper Access Control - Generic
-- [264934](reports/2017/264934.md)  Application allowing old password to be set as new password | hosted.weblate.org — weblate — - —  — 
-- [245450](reports/2017/245450.md) Reset password more than once with a reset link #2 — weblate — - —  — Business Logic Errors
-- [241608](reports/2017/241608.md) Running 2 accounts with a single email [Part 2] — weblate — - —  — Business Logic Errors
-- [278718](reports/2017/278718.md) Improper validation of unicode characters  — weblate — none —  — 
-- [228471](reports/2018/228471.md) DNSSEC Zone Walk using NSEC Records — weblate — none —  — Information Disclosure
-- [245304](reports/2018/245304.md) Running 2 accounts with a single email #3 — weblate — - —  — Business Logic Errors
-- [275303](reports/2018/275303.md)  Account Restore / Reactivating an old email via old reset link — weblate — - —  — 
-- [229532](reports/2018/229532.md) Insecure Account Removal #2 — weblate — low —  — Violation of Secure Design Principles
-- [296632](reports/2018/296632.md) Audit log validation — weblate — none —  — Improper Neutralization of HTTP Headers for Scripting Syntax
-- [403891](reports/2018/403891.md) Tab nabbing via window.opener — weblate — - —  — 
-- [223421](reports/2018/223421.md) Open port leads to information disclosure — weblate — low —  — Information Disclosure
-- [400826](reports/2018/400826.md) Broken Authentication – Session Token bug — weblate — none —  — 
-- [400781](reports/2018/400781.md) Browser Self XSS Protection not implemented — weblate — - —  — Information Disclosure
-- [282772](reports/2018/282772.md) no notification send to victim if attacker hacks/accesses his victims WebLate account. — weblate — low —  — Business Logic Errors
-- [404035](reports/2018/404035.md) flood of comment no rate  limit on commnets >>  by using different user agent  — weblate — low —  — Violation of Secure Design Principles
-- [404713](reports/2018/404713.md) 2nd issue>>> flood of email  no rate limit on delete account confirmation email >>  — weblate — low —  — Violation of Secure Design Principles
-- [479021](reports/2019/479021.md) No Rate Limit  On Add new word — weblate — low —  — Business Logic Errors
-- [481654](reports/2019/481654.md) No Rate On Add Suggest — weblate — low —  — Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')
-- [472391](reports/2019/472391.md) Stored XSS @ /engage/<project_slug> — weblate — medium —  — Cross-site Scripting (XSS) - Stored
-- [610219](reports/2019/610219.md) Stored XSS via Create Project (Add new translation project) — weblate — medium —  — Cross-site Scripting (XSS) - Stored
-- [634312](reports/2019/634312.md) HTML injection and information disclosure in support panel — weblate — medium —  — Information Disclosure
-- [236398](reports/2019/236398.md) no captcha for register user and weak question attacker can spam email — weblate — - —  — Violation of Secure Design Principles
-- [926093](reports/2020/926093.md) Secret_key in GitHub — weblate — none —  — Information Disclosure
-- [279945](reports/2020/279945.md) Improper validation of unicode characters#2 — weblate — none —  — 
-- [942146](reports/2020/942146.md) Open Github Repo Leaking WEBLATE SECRET KEY — weblate — none —  — Cleartext Storage of Sensitive Information
-- [1003468](reports/2020/1003468.md) Send Empty CSRF leads to log out user on [https://hosted.weblate.org/accounts/profile] — weblate — low —  — Cross-Site Request Forgery (CSRF)
-- [1004536](reports/2020/1004536.md) Reset password cookie leads to account takeover — weblate — medium —  — Reliance on Cookies without Validation and Integrity Checking in a Security Decision
-- [1087188](reports/2021/1087188.md) Race Condition allows to get more free trials and get more than 100 languages and strings for free — weblate — low —  — Business Logic Errors
-- [1238749](reports/2021/1238749.md) No rate Limit on Add new Translation Project  — weblate — - —  — Improper Restriction of Authentication Attempts
-- [1454552](reports/2022/1454552.md) hosted.weblate.org display of unfiltered results — weblate — none —  — 
-- [1723445](reports/2022/1723445.md) No rate limiting for Remove Account lead to huge Mass mailings — weblate — none —  — Business Logic Errors
-- [1927499](reports/2023/1927499.md) Testing flow includes a DeepSource secret — weblate — low —  — Use of Hard-coded Credentials
-- [1971589](reports/2023/1971589.md) CSRF with logout action — weblate — - —  — Cross-Site Request Forgery (CSRF)
-- [1971610](reports/2023/1971610.md) Logging in without knowing credentials after logged out action — weblate — - —  — 
-- [2370002](reports/2024/2370002.md) Information Disclosure — weblate — low —  — 
-- [3179850](reports/2025/3179850.md) exposure of personal IP address via email. — weblate — - —  — Privacy Violation
-- [3518571](reports/2026/3518571.md) Argument Injection in /manage/ssh/ via host parameter leads to sensitive file disclosure on Weblate — weblate — - —  — 
-- [3869124](reports/2026/3869124.md) **Unauthenticated IDOR allows modification of payment customer billing information** — weblate — high —  — Insecure Direct Object Reference (IDOR)
-- [3887969](reports/2026/3887969.md) SSRF via URL Parser Differential in `normalize_request_url` (wlc) — weblate — high —  — Server-Side Request Forgery (SSRF)
-- [3898281](reports/2026/3898281.md) Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process-global lock in Weblate — weblate — high —  — Uncontrolled Resource Consumption
-- [3825141](reports/2026/3825141.md) API token sent to URL dictated by an untrusted project .weblate file — weblate — medium —  — Information Disclosure
-- [3874004](reports/2026/3874004.md)  Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() leads to command execution — weblate — high —  — OS Command Injection
-- [4022462](reports/2026/4022462.md) Uncaught RecursionError crash in translation-finder (deep directory tree DoS) — weblate — low —  — Uncontrolled Resource Consumption
-- [4028616](reports/2026/4028616.md) Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()` — weblate — medium —  — Uncontrolled Resource Consumption
-- [4044441](reports/2026/4044441.md) Translation discovery crashes on crafted filenames (regex substitution injection) — weblate — low —  — Use of Externally-Controlled Format String
-- [4040149](reports/2026/4040149.md) wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem errors surface as raw Python tracebacks. — weblate — low —  — Information Exposure Through an Error Message
-- [4037976](reports/2026/4037976.md) Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `VCS_METADATA_DIRS` entries. — weblate — medium —  — Path Traversal
-- [4088592](reports/2026/4088592.md) CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask matching — weblate — medium —  — Uncontrolled Resource Consumption
-- [4094236](reports/2026/4094236.md)  Billion laughs entity expansion in Qt .ts discovery: a crafted ~950 KB file forces ~55 MB of XML expansion per parse, cost scales with crafted file c — weblate — medium —  — XML Entity Expansion
-- [4081135](reports/2026/4081135.md) Privilege escalation via unfiltered role restoration in project backup import — weblate — critical —  — Privilege Escalation
 
 ## legalrobot (155)
 
@@ -13775,3 +13777,7 @@
 ## vercel (1)
 
 - [3852102](reports/2026/3852102.md) Revoked deployment collaborator regains access to private comments after active collaborator interaction — vercel — medium — $1,026 — Access Control Check Implemented After Asset is Accessed
+
+## arc-bbp (1)
+
+- [3966160](reports/2026/3966160.md) Unauthenticated remote process termination of Arc RPC nodes via custom JS tracer (Boa engine) leads to sustained node DoS — arc-bbp — high — $10,000 — Uncontrolled Resource Consumption

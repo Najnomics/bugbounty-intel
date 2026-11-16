@@ -18,7 +18,7 @@ His site claims **582 reports submitted, 148 critical, 263 high, across 5 platfo
 
 | Source | Reports | Full detail | Metadata only | Notes |
 | --- | --- | --- | --- | --- |
-| **HackerOne** `mdpsec` | 24 resolved | 0 | 15 (hacktivity) | 0 publicly disclosed. 15 hacktivity entries give program + internal id only; 2 show a bounty ($100 goldmansachs, $842 stripe). Rep 849, rank 2739, signal 6.52. |
+| **HackerOne** `mdpsec` | 26 resolved (2026-11-16; was 24) | 0 | 17 (hacktivity) | 0 publicly disclosed. 17 hacktivity entries (2026-11-16 refresh adds 3925371 msd, 4061813 s-pankki) give program + internal id only; 2 show a bounty ($100 goldmansachs, $842 stripe). Rep 889, rank 2659, signal 6.55 (2026-11-16). |
 | **HackenProof** `MDPSEC` | 15 paid | 0 | 15 (counts) | 0 disclosed. Severity split: 3 critical, 3 high, 6 medium, 3 low. Rank 104, rep 966, 29 influenced programs. |
 | **Bugcrowd** `marius_dp` | unknown | 0 | 0 | Profile gated behind the authenticated hacker portal; no public per-report data retrievable on 2026-11-11. |
 | **X (@mdp_sec)** | — | ~a dozen with technique | the rest | His own posts are the only place with real vulnerability detail; the detailed ones are analysed below. |
@@ -26,6 +26,8 @@ His site claims **582 reports submitted, 148 critical, 263 high, across 5 platfo
 **Exact counts.** Full report detail available publicly: **0** disclosed platform reports. Metadata-only: **30** (15 HackerOne hacktivity + 15 HackenProof paid-report severity rows). Missing / undisclosed with no public metadata: the remainder of his self-reported 582 (i.e. ~552, including all Bugcrowd and the ~9 HackerOne resolved reports not in hacktivity). The platform figures are in [`writeups/mdp_sec/platform-reports.md`](../writeups/mdp_sec/platform-reports.md) and `.json`.
 
 His own earliest retrievable post (2026-07-22) states: "$83,088 from bug bounties in my first 151 days. 203 reports since my first submission on 20 February." See [`posts/mdp_sec/2026-07-22-2079869121513378138.md`](../posts/mdp_sec/2026-07-22-2079869121513378138.md).
+
+**2026-11-16 site refresh:** mdpsec.com now claims **591 reports submitted, 150 critical, 267 high, 6 platforms** ("Last updated: November 2026"); still no per-report listing. Bugcrowd posts this run add a $5,000 MCP auth bypass (details above).
 
 ## X capture
 
@@ -73,6 +75,46 @@ His full retrievable original-post timeline was captured verbatim: **430+ post f
 - **How it was found:** N/A — he states AI does all hunting with no guiding; he builds prompts, helpers, RAG; goes direct to the provider API; only reviews reports. Same-day tip: enforce scope at the proxy, not the prompt.
 - **Takeaways / harness:** Separate knowledge/RAG, scoped egress proxy, and human-only report review.
 
+
+### $5,000 Bugcrowd auth bypass on an MCP server — any bearer token accepted (2026-11-15)
+
+- Post: https://x.com/mdp_sec/status/2121878367997714848 — verbatim: [`posts/mdp_sec/2026-11-15-2121878367997714848.md`](../posts/mdp_sec/2026-11-15-2121878367997714848.md)
+- **Bug class:** Broken authentication (presence-only header check) on MCP tool endpoints → unauthenticated write to a creator's AI knowledge base (critical)
+- **Root cause:** "it just checked an auth header was there. made up token got u in"; "write was the one i proved. it took any bearer token as valid".
+- **How it was found:** "treat every tool like its own api endpoint and test auth on each" — enumerate MCP tools/list and test every tools/call with no/junk tokens.
+- **Takeaways / harness:** MCP scanner: initialize → tools/list → call each tool with no auth, `Bearer x`, random JWT; flag success parity, prioritise write tools.
+
+### Anonymous file-lookup API leaks storage URLs behind a login-gated support portal (2026-11-15)
+
+- Post: https://x.com/mdp_sec/status/2122089761938518398 — verbatim: [`posts/mdp_sec/2026-11-15-2122089761938518398.md`](../posts/mdp_sec/2026-11-15-2122089761938518398.md)
+- **Bug class:** Broken access control — page-level auth only; file API returns direct storage URLs anonymously (confidential firmware/board designs)
+- **Root cause:** Gated pages redirect to sign-in, but the anonymous file lookup returns the exact storage URL and storage serves it without auth.
+- **How it was found:** Replaying the portal's own file API logged out.
+- **Takeaways / harness:** Replay every file/attachment metadata endpoint without cookies; grep for storage URLs; fetch them unauthenticated; check signed-URL expiry.
+
+### Unauthenticated data-query endpoints on a public data server — millions of records (Duplicate, 135 days late) (2026-11-15)
+
+- Post: https://x.com/mdp_sec/status/2122059562161487988 — verbatim: [`posts/mdp_sec/2026-11-15-2122059562161487988.md`](../posts/mdp_sec/2026-11-15-2122059562161487988.md)
+- **Bug class:** Missing authentication on data query API → mass data exposure
+- **Root cause:** Admin/token pages locked; query endpoints open with no token/cookie; pagination to the last record reconstructs the dataset.
+- **How it was found:** Logged-out queries against the data endpoints, then paging to the end.
+- **Takeaways / harness:** Test data/query APIs unauthenticated, walk pagination for scale; expect dupes on long-unfixed issues.
+
+### Free account mints paid perks via the generate endpoint — no tier check, no limit, no expiry (2026-11-15)
+
+- Post: https://x.com/mdp_sec/status/2121968965266088068 — verbatim: [`posts/mdp_sec/2026-11-15-2121968965266088068.md`](../posts/mdp_sec/2026-11-15-2121968965266088068.md)
+- **Bug class:** Business logic / missing authorization on entitlement issuance
+- **Root cause:** Generate-perk endpoint used by the legit claim flow lacks tier check, rate limit and link expiry.
+- **How it was found:** Watched a normal claim in the proxy, replayed the generate call as a free user, looped it.
+- **Takeaways / harness:** Record eligible-user flows; replay issuance endpoints as lower tier; loop; test expiry and single-use.
+
+### Stock DeepSeek V4.1 Flash: 0 refusals on 100 black-box labs at $1.59/solve (2026-11-15)
+
+- Post: https://x.com/mdp_sec/status/2121908568110628935 — verbatim: [`posts/mdp_sec/2026-11-15-2121908568110628935.md`](../posts/mdp_sec/2026-11-15-2121908568110628935.md)
+- **Bug class:** Methodology (AI harness model selection)
+- **Root cause:** N/A
+- **How it was found:** N/A — BB Arena benchmark: Claude Opus 5 22 solves $41.97/solve, Grok 4.6 21 $19.01, DeepSeek V4.1 Flash 21 $1.59; all 0 refusals; direct provider APIs only.
+- **Takeaways / harness:** Benchmark on private labs with unique proof values; call first-party APIs (resellers may quantize); use a cheap worker + strong verifier; add an "irrefutable proof" validation step.
 
 ### Unauthenticated SQL injection in a public quote flow ($4,000)
 

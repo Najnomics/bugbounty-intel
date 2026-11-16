@@ -41,3 +41,14 @@ _Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim post
 - **Nibiru Chain total-funds bug** (`Chain-level critical (details in post)`)
   - post: https://x.com/usmannk/status/2075339613045129441
   - local: `posts/usmannk/2026-07-09-2075339613045129441.md`
+
+## Daily update 2026-11-16
+
+### Privy embedded-wallet key export / enclave key shares (Plasma One debate) (2026-11-15)
+
+- Post: https://x.com/usmannk/status/2122063337173418096 — verbatim: [`posts/usmannk/2026-11-15-2122063337173418096.md`](../posts/usmannk/2026-11-15-2122063337173418096.md)
+- **Bug class:** Wallet key management / TEE-held key shares (no bug claimed)
+- **Root cause:** Key split into enclave share + Privy share unlocked by login; export possible via Privy API though not in Plasma One UI; banned accounts cannot export.
+- **How it was found:** Public debate thread.
+- **Takeaways / harness:** Test key-export API auth (re-auth/MFA), stranded keys after bans, UI-vs-API capability gaps, enclave attestation.
+

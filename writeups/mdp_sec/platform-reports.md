@@ -75,3 +75,28 @@ Linked from his site's JSON-LD (`sameAs`) and his X posts. As of 2026-11-11 the 
 ## Reconciling with his site's headline stats
 
 mdpsec.com states **582 reports submitted, 148 critical, 263 high, across 5 platforms** (last updated October 2026). These are self-reported aggregate stats on a static marketing site; the site has **no** per-report listing, no reports page, and no data API (only a `/security-test/` application form at `/api/apply`). The platform-verifiable public numbers are far smaller: HackerOne 24 resolved / 0 disclosed, HackenProof 15 paid / 0 disclosed, Bugcrowd not publicly retrievable. The gap is undisclosed private-program work.
+
+
+## Refresh 2026-11-16 (WAT)
+
+Source: HackerOne GraphQL `user(username:"mdpsec")` → reputation 889, rank 2659, signal 6.547, resolved_report_count **26** (was 24 on 2026-11-11); hacktivity index `reporter:mdpsec` → **17** entries (was 15), all still undisclosed (report body null). New since last capture: **3925371** (msd, submitted 2026-08-08T04:54Z) and **4061813** (s-pankki / S-Pankki, submitted 2026-09-26T09:48Z). mdpsec.com stats now: 591 reports submitted, 150 critical, 267 high, 6 platforms ("Last updated: November 2026"). No new public disclosures anywhere.
+
+| Report id | Program | Program name | Submitted (UTC) | Bounty | Disclosed |
+| --- | --- | --- | --- | --- | --- |
+| 3925364 | msd | Merck & Co., Inc., Rahway, NJ, USA | 2026-08-08T04:49:14.382Z |  | False |
+| 3925371 | msd | Merck & Co., Inc., Rahway, NJ, USA | 2026-08-08T04:54:13.087Z |  | False |
+| 3925395 | beiersdorf | Beiersdorf | 2026-08-08T05:15:37.555Z |  | False |
+| 3927183 | ibm | IBM | 2026-08-09T05:52:45.438Z |  | False |
+| 3927185 | autodesk | Autodesk | 2026-08-09T05:55:37.781Z |  | False |
+| 3927192 | beiersdorf | Beiersdorf | 2026-08-09T06:04:08.902Z |  | False |
+| 3934414 | autodesk | Autodesk | 2026-08-12T08:28:16.791Z |  | False |
+| 3934419 | autodesk | Autodesk | 2026-08-12T08:30:33.339Z |  | False |
+| 3934562 | msd | Merck & Co., Inc., Rahway, NJ, USA | 2026-08-12T09:57:10.635Z |  | False |
+| 3985410 | basecamp | Basecamp | 2026-09-01T01:25:41.287Z |  | False |
+| 4012593 | mercadolibre | MercadoLibre | 2026-09-09T02:45:15.363Z |  | False |
+| 4041963 | goldmansachs | Goldman Sachs | 2026-09-19T05:34:01.655Z | $100 | False |
+| 4054862 | logitech | Logitech | 2026-09-23T22:02:34.192Z |  | False |
+| 4061813 | s-pankki | S-Pankki | 2026-09-26T09:48:21.344Z |  | False |
+| 4071668 | stripe | Stripe | 2026-09-30T07:13:36.163Z | $842 | False |
+| 4092104 | abb | ABB Information Systems Ltd | 2026-10-06T23:36:46.134Z |  | False |
+| 4092109 | abb | ABB Information Systems Ltd | 2026-10-06T23:39:34.856Z |  | False |

@@ -1,11 +1,73 @@
 # @usmannk — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 58
-- Conversations/threads: 56
+- Posts in this file: 60
+- Conversations/threads: 57
 - Oldest post captured: 2023-08-16
-- Newest post captured: 2026-11-05
+- Newest post captured: 2026-11-15
+
+
+---
+
+## 2026-11-15 · Thread · This isn't true, see our help pages.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1455573809193435142 — 2026-11-15 14:51 UTC (2026-11-15 15:51 WAT)
+
+- URL: https://x.com/1455573809193435142/status/2121979459481833772
+- Metrics (at fetch): bookmark 48, impression 9937, like 102, quote 2, reply 39, retweet 2
+
+> Self-custodial, but where is my private key?
+>
+> Take Plasma One. @Plasma's site says it "does not custody your assets", they are "owned and custodied by you"
+>
+> How it actually works:
+>
+> - the wallet runs on @privy_io, the wallet company Stripe bought in 2025
+> - no seed phrase, and no way to export a private key. I asked the app: "You do not need to save or manage private keys yourself"
+> - per Privy's docs, the key is split into two shares: one sealed in a secure enclave, one stored by Privy and unlocked by your login
+> - the full key exists only inside that enclave, for the moment it signs
+>
+> So Plasma really doesn't hold your money. But the only way to reach it is the Plasma One app, and it's not the only card built this way
+>
+> Now imagine the app bans your account. The money is in your wallet, not theirs
+>
+> How do you take it out without a key?
+
+**Media:**
+- media `3_2121979376656859136` (details not returned by the API)
+
+
+### Post — @usmannk — 2026-11-15 20:25 UTC (2026-11-15 21:25 WAT)
+
+- URL: https://x.com/usmannk/status/2122063337173418096
+- Metrics (at fetch): bookmark 1, impression 334, like 4, quote 0, reply 2, retweet 0
+
+> This isn't true, see our help pages.
+>
+> https://www.plasma.org/learn/how-embedded-wallets-work-the-infrastructure-replacing-seed-phrases
+>
+> "Privy also supports key export, meaning users can extract their private key and use it with any other wallet client if they choose. This preserves the option of full self-custody for users who want it, while defaulting to a managed experience for everyone else."
+>
+> Technically-savvy (or LLM-handy) users can export their keys today from P1 or *any app* which uses non-custodial embedded @privy_io wallets like we do.
+>
+> We're working on ways to make this more accessible and safe for every day use. For the time being I strongly recommend not attempting this as it may lead to you compromising your own account.
+
+**Links in post:** https://www.plasma.org/learn/how-embedded-wallets-work-the-infrastructure-replacing-seed-phrases
+
+
+### Thread part 2 — @usmannk — 2026-11-15 22:16 UTC (2026-11-15 23:16 WAT)
+
+- URL: https://x.com/usmannk/status/2122091376783577136
+- Metrics (at fetch): bookmark 0, impression 96, like 1, quote 0, reply 1, retweet 0
+
+> @0xVishnya @Plasma @privy_io you can use the Privy API today to export your Plasma One keys! people have done it
 
 
 ---

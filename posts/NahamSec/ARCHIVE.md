@@ -1,11 +1,36 @@
 # @NahamSec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1169
-- Conversations/threads: 993
+- Posts in this file: 1170
+- Conversations/threads: 994
 - Oldest post captured: 2016-09-01
-- Newest post captured: 2026-11-13
+- Newest post captured: 2026-11-15
+
+
+---
+
+## 2026-11-15 · Reply · @0xLupin @grok what’s a giga crit
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @0xLupin — 2026-11-15 00:24 UTC (2026-11-15 01:24 WAT)
+
+- URL: https://x.com/0xLupin/status/2121761198278595026
+- Metrics (at fetch): bookmark 130, impression 217088, like 752, quote 10, reply 28, retweet 19
+
+> The CEO of a pretty big company challenged me to hack them and right now pulling an all nighter hacking. Already found different ways to backdoor them but I won't stop until there is a giga crit. Will report back. 
+>
+> It's fun coming back to some old school hacking &lt;3
+
+
+### Post — @NahamSec — 2026-11-15 22:09 UTC (2026-11-15 23:09 WAT)
+
+- URL: https://x.com/NahamSec/status/2122089626810949821
+- Metrics (at fetch): bookmark 0, impression 904, like 6, quote 0, reply 1, repost 0
+
+> @0xLupin @grok what’s a giga crit
 
 
 ---

@@ -1,11 +1,53 @@
 # @0xriptide — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 217
+- Posts in this file: 218
 - Conversations/threads: 211
 - Oldest post captured: 2014-07-21
-- Newest post captured: 2026-11-14
+- Newest post captured: 2026-11-15
+
+
+---
+
+## 2026-11-12 · Thread · @richhomiecon great form
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @richhomiecon — 2026-11-12 01:54 UTC (2026-11-12 02:54 WAT)
+
+- URL: https://x.com/richhomiecon/status/2120696636326445355
+- Metrics (at fetch): bookmark 1, impression 1084, like 12, quote 0, reply 2, retweet 0
+
+> How many can you do? [pic.x.com/XU6XOKU09x]
+
+**Media:**
+- media `13_2120696551659937794` (details not returned by the API)
+
+
+### Post — @0xriptide — 2026-11-12 07:28 UTC (2026-11-12 08:28 WAT)
+
+- URL: https://x.com/0xriptide/status/2120780877450125552
+- Metrics (at fetch): bookmark 0, impression 165, like 2, quote 0, reply 1, retweet 0
+
+> @richhomiecon great form
+>
+> can beat you by +1
+
+
+### Thread part 2 — @0xriptide — 2026-11-15 14:52 UTC (2026-11-15 15:52 WAT)
+
+- URL: https://x.com/0xriptide/status/2121979548359332215
+- Metrics (at fetch): bookmark 0, impression 13, like 0, quote 0, reply 0, repost 0
+
+> @richhomiecon let's do it in person
+>
+> pull up comp in Cannes
+>
+> apr '27
+>
+> VCs vs founders
 
 
 ---
@@ -38,34 +80,6 @@ _Generated 2026-11-15 from the X API (full-archive search + timeline). Every pos
     **Media:**
     - media `3_2121239446070657024` (details not returned by the API)
     
-
-
----
-
-## 2026-11-12 · Reply · @richhomiecon great form
-
-
-**Context — conversation root by another account:**
-
-#### Root post — @richhomiecon — 2026-11-12 01:54 UTC (2026-11-12 02:54 WAT)
-
-- URL: https://x.com/richhomiecon/status/2120696636326445355
-- Metrics (at fetch): bookmark 1, impression 1084, like 12, quote 0, reply 2, retweet 0
-
-> How many can you do? [pic.x.com/XU6XOKU09x]
-
-**Media:**
-- media `13_2120696551659937794` (details not returned by the API)
-
-
-### Post — @0xriptide — 2026-11-12 07:28 UTC (2026-11-12 08:28 WAT)
-
-- URL: https://x.com/0xriptide/status/2120780877450125552
-- Metrics (at fetch): bookmark 0, impression 165, like 2, quote 0, reply 1, retweet 0
-
-> @richhomiecon great form
->
-> can beat you by +1
 
 
 ---

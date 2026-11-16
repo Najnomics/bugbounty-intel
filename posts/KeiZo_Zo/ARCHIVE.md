@@ -1,11 +1,41 @@
 # @KeiZo_Zo — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 24
-- Conversations/threads: 18
+- Posts in this file: 25
+- Conversations/threads: 19
 - Oldest post captured: 2022-09-26
-- Newest post captured: 2026-11-02
+- Newest post captured: 2026-11-15
+
+
+---
+
+## 2026-11-15 · Reply · @ControlZ_1337 This is the exact same thing I’ve been saying and it also goes way back to the manual
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1633975370985746432 — 2026-11-15 05:21 UTC (2026-11-15 06:21 WAT)
+
+- URL: https://x.com/1633975370985746432/status/2121835846110237162
+- Metrics (at fetch): bookmark 10, impression 1648, like 37, quote 0, reply 2, retweet 0
+
+> And that’s exactly why almost everything ends up being a duplicate. Researchers need to find a way to bring their own unique edge to the research process when using LLM’s if they want to discover findings others miss, or at least find them first. https://twitter.com/aegiryy/status/2121824856673239486
+
+**Links in post:** https://twitter.com/aegiryy/status/2121824856673239486
+
+**Quoted post** 2121824856673239486: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @KeiZo_Zo — 2026-11-15 09:18 UTC (2026-11-15 10:18 WAT)
+
+- URL: https://x.com/KeiZo_Zo/status/2121895644927525150
+- Metrics (at fetch): bookmark 0, impression 219, like 6, quote 0, reply 1, repost 1
+
+> @ControlZ_1337 This is the exact same thing I’ve been saying and it also goes way back to the manual hunting as well. If you want to be good SR, you need to find your own niche where you dive deep and therefore you will become better than others. Nowadays you just need to bring that edge to LLM
 
 
 ---

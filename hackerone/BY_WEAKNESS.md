@@ -1,4 +1,4 @@
-# HackerOne disclosed reports by weakness (12755 reports)
+# HackerOne disclosed reports by weakness (12758 reports)
 
 
 ## Unspecified (1279)
@@ -1283,7 +1283,7 @@
 - [4062511](reports/2026/4062511.md) `Vary` cache-key conflation of absent and empty request fields — django — low —  — 
 - [3460138](reports/2026/3460138.md) Open Email Relay on WordPress Gutenberg Plugin via formAction parameter leads to phishing and spam campaigns — wordpress — - —  — 
 
-## Information Disclosure (1192)
+## Information Disclosure (1193)
 
 - [231460](reports/2017/231460.md) Open prod Jenkins instance — snapchat — high — $15,000 — Information Disclosure
 - [911606](reports/2021/911606.md) Leaked JFrog Artifactory  username and password exposed on GitHub - https://snapchat.jfrog.io — snapchat — high — $15,000 — Information Disclosure
@@ -2477,6 +2477,7 @@
 - [4152553](reports/2026/4152553.md) Unauthenticated Disclosure of Private, Draft, and Password-Protected Post Content via Core Read-Permission Bypass in SCF Reference Fields — wordpress — high —  — Information Disclosure
 - [3840113](reports/2026/3840113.md) Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████████ — essity — critical —  — Information Disclosure
 - [4151790](reports/2026/4151790.md) Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in visitor's response is cached at the edge and returned to ev — basecamp — low —  — Information Disclosure
+- [4117330](reports/2026/4117330.md) Anonymous Translation Suggestion IP Address Exposure Through Change API — weblate — low —  — Information Disclosure
 
 ## Cross-site Scripting (XSS) - Generic (744)
 
@@ -5854,7 +5855,7 @@
 - [3878649](reports/2026/3878649.md) Reflected XSS via wrong permission check in conversion statistics — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
 - [3942028](reports/2026/3942028.md) Reflected XSS via invocation banner ID field in admin-generate.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
 
-## Uncontrolled Resource Consumption (508)
+## Uncontrolled Resource Consumption (510)
 
 - [183356](reports/2016/183356.md) Segfault and/or potential unwanted (byte)code execution with "break" and "||=" inside a loop — shopify-scripts — high — $10,000 — Uncontrolled Resource Consumption
 - [181828](reports/2016/181828.md) Segfault in mruby, mruby_engine and the parent MRI Ruby due to null pointer dereference — shopify-scripts — high — $10,000 — Uncontrolled Resource Consumption
@@ -5864,6 +5865,7 @@
 - [188326](reports/2016/188326.md) Buffer overflow in mrb_time_asctime — shopify-scripts — high — $10,000 — Uncontrolled Resource Consumption
 - [182484](reports/2016/182484.md) Broken handling of maximum number of method call arguments leads to segfault — shopify-scripts — high — $10,000 — Uncontrolled Resource Consumption
 - [187305](reports/2017/187305.md) Invalid handling of zero-length heredoc identifiers leads to infinite loop in the sandbox — shopify-scripts — high — $10,000 — Uncontrolled Resource Consumption
+- [3966160](reports/2026/3966160.md) Unauthenticated remote process termination of Arc RPC nodes via custom JS tracer (Boa engine) leads to sustained node DoS — arc-bbp — high — $10,000 — Uncontrolled Resource Consumption
 - [622122](reports/2019/622122.md) DoS on PayPal via web cache poisoning — paypal — medium — $9,700 — Uncontrolled Resource Consumption
 - [183405](reports/2016/183405.md) Null target_class DoS — shopify-scripts — high — $8,000 — Uncontrolled Resource Consumption
 - [181695](reports/2016/181695.md) Undefined method_missing null pointer dereference — shopify-scripts — high — $8,000 — Uncontrolled Resource Consumption
@@ -6364,6 +6366,7 @@
 - [3816330](reports/2026/3816330.md) Monero IPv6 /128 tracking bypasses per-IP limit, enables remote OOM — monero — high —  — Uncontrolled Resource Consumption
 - [3890352](reports/2026/3890352.md) Connector/C++ aborts client process on server session-tracking packet via std::stoi — mariadb — medium —  — Uncontrolled Resource Consumption
 - [4088592](reports/2026/4088592.md) CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask matching — weblate — medium —  — Uncontrolled Resource Consumption
+- [4059744](reports/2026/4059744.md) Anonymous API Rate Limit Bypass via X-Forwarded-For — weblate — medium —  — Uncontrolled Resource Consumption
 
 ## Cross-site Scripting (XSS) - Stored (475)
 

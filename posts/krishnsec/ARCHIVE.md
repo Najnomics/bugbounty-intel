@@ -1,11 +1,24 @@
 # @krishnsec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 187
-- Conversations/threads: 177
+- Posts in this file: 188
+- Conversations/threads: 178
 - Oldest post captured: 2021-08-17
-- Newest post captured: 2026-11-04
+- Newest post captured: 2026-11-15
+
+
+---
+
+## 2026-11-15 · Post · which is best model for BugBounty hunting ??
+
+
+### Post — @krishnsec — 2026-11-15 12:49 UTC (2026-11-15 13:49 WAT)
+
+- URL: https://x.com/krishnsec/status/2121948671239708956
+- Metrics (at fetch): bookmark 10, impression 4338, like 28, quote 1, reply 9, retweet 0
+
+> which is best model for #BugBounty hunting ??
 
 
 ---

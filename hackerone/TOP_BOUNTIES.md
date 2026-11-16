@@ -89,6 +89,7 @@
 - [2900606](reports/2025/2900606.md) sys_fsc2h_ctrl kernel stack free — playstation — high — $10,000 — Use After Free
 - [3124517](reports/2025/3124517.md) Arbitrary Read of Another Users private repository without Authorization — github — high — $10,000 — Insecure Direct Object Reference (IDOR)
 - [3320669](reports/2026/3320669.md) Double fdrop on a socket through sys_netcontrol — playstation — high — $10,000 — Double Free
+- [3966160](reports/2026/3966160.md) Unauthenticated remote process termination of Arc RPC nodes via custom JS tracer (Boa engine) leads to sustained node DoS — arc-bbp — high — $10,000 — Uncontrolled Resource Consumption
 - [622122](reports/2019/622122.md) DoS on PayPal via web cache poisoning — paypal — medium — $9,700 — Uncontrolled Resource Consumption
 - [1444682](reports/2023/1444682.md) XSS at jamfpro.shopifycloud.com — shopify — medium — $9,400 — Cross-site Scripting (XSS) - Generic
 - [3962925](reports/2026/3962925.md) Launchpad file read leaks production keys — basecamp — critical — $9,337 — Path Traversal
@@ -499,4 +500,3 @@
 - [953083](reports/2020/953083.md) Ability to publish a paid theme without purchasing it. — shopify — low — $2,000 — Improper Access Control - Generic
 - [981472](reports/2020/981472.md) Undocumented `fileCopy` GraphQL API — shopify — medium — $2,000 — Improper Access Control - Generic
 - [859333](reports/2020/859333.md) Stored XSS in group issue list — gitlab — medium — $2,000 — Cross-site Scripting (XSS) - Stored
-- [1044716](reports/2021/1044716.md) SQL Injection in www.hyperpure.com — eternal — critical — $2,000 — Code Injection

@@ -1,11 +1,37 @@
 # @irsdl — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-15 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 603
-- Conversations/threads: 526
+- Posts in this file: 604
+- Conversations/threads: 527
 - Oldest post captured: 2010-05-25
-- Newest post captured: 2026-11-13
+- Newest post captured: 2026-11-15
+
+
+---
+
+## 2026-11-15 · Post · @hkashfi You are so ready! so prepared! above and beyond!
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @21872102 — 2026-11-14 23:16 UTC (2026-11-15 00:16 WAT)
+
+- URL: https://x.com/21872102/status/2121744099577655706
+- Metrics (at fetch): bookmark 2, impression 1868, like 31, quote 0, reply 3, retweet 1
+
+> I don't often prepare for MacOS full updates, but when I do, I prepare beyond 100% [pic.x.com/Mqr9cJCgau]
+
+**Media:**
+- media `3_2121744009148153856` (details not returned by the API)
+
+
+### Post — @irsdl — 2026-11-15 18:04 UTC (2026-11-15 19:04 WAT)
+
+- URL: https://x.com/irsdl/status/2122028047914422560
+- Metrics (at fetch): bookmark 0, impression 127, like 0, quote 0, reply 0, retweet 0
+
+> @hkashfi You are so ready! so prepared! above and beyond!
 
 
 ---

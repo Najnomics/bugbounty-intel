@@ -76,3 +76,14 @@ _Auto-maintained from `harness/findings.jsonl`. 5 finding(s). Full verbatim post
 - **Bug class:** incomplete-patch / remediation bypass (same impact via an unaccounted path), @bluethroat_labs Zcash campaign.
 - **Root cause:** came out of reviewing the *remediation* of an already-disclosed bug; the patch closed the exact path in the original report, but the impact stayed reachable through a path the fix did not account for. (Quoted finding #7: threat-modelling on what actors *should* do vs *could* do.)
 - **Takeaways:** review patches, not just code — enumerate every path to the fixed impact; model by capability. Add a harness "remediation review" mode seeded from CVE/GHSA fix commits.
+
+## Daily update 2026-11-16
+
+### Flare Confidential Compute attestation-policy questions (2026-11-15)
+
+- Post: https://x.com/saxenism/status/2121975522028859699 — verbatim: [`posts/saxenism/2026-11-15-2121975522028859699.md`](../posts/saxenism/2026-11-15-2121975522028859699.md)
+- **Bug class:** TEE / remote-attestation policy review (no bug claimed)
+- **Root cause:** Open questions: which hardware/TCB claims are accepted, who updates policy after Google firmware rollouts, can users inspect the rules.
+- **How it was found:** Reading Flare FCC docs (image hashes pinned on-chain + machine registration via attestation).
+- **Takeaways / harness:** Attestation checklist: accepted measurements, TCB floor, debug flag, policy-update authority, verifiability.
+

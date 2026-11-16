@@ -52,3 +52,5 @@ for advisory in projects/{zcash,ethereum,solana}/advisories/*.md:
 for solidity_bug in solidity-compiler-bugs.md:
   if contract.compiler_version in [introduced, fixed): FLAG compiler-bug
 ```
+
+- 2026-11-16: see [2026-11-16 check-specs](2026-11-16-mcp-open-data-rpc-tracer-logs.md)

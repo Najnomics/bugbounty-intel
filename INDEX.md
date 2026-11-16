@@ -2,6 +2,14 @@
 
 Generated 11 Nov 2026 (WAT), Telegram sources added 12 Nov 2026 (Africa/Lagos). Every link points to a file inside this repo that holds **full verbatim text** — no X or Telegram access needed.
 
+## Daily update — 16 November 2026 (Africa/Lagos)
+
+- New X posts (with analysis): [mdp_sec MCP bearer-presence auth bypass $5k](posts/mdp_sec/2026-11-15-2121878367997714848.md), [mdp_sec unauthenticated file API](posts/mdp_sec/2026-11-15-2122089761938518398.md), [mdp_sec open data server (dupe)](posts/mdp_sec/2026-11-15-2122059562161487988.md), [mdp_sec perk mint logic](posts/mdp_sec/2026-11-15-2121968965266088068.md), [mdp_sec DeepSeek 0 refusals](posts/mdp_sec/2026-11-15-2121908568110628935.md), [zkSecurity Collision Atlas](posts/zksecurityXYZ/2026-11-16-2122127588986438139.md) + [writeup](writeups/zksecurityXYZ/collision-atlas-2026-11-16.md), [naresh_1337 Immunefi High](posts/naresh_1337/2026-11-16-2122192059536699603.md), [Neodyme](posts/Neodyme/2026-11-15-2121941626822004761.md). 112 new watched-account posts; backfill +605.
+- Telegram: @defendor_eng +4 ([archive](telegram/defendor_eng/ARCHIVE-2026-02071-02349.md); Proxima SigNoz key leak [writeup](writeups/telegram-defendor_eng/proxima-post-mortem-signoz-leaked-private-keys.md)); @dailybountywriteup +1. Writeups: defendor +74 (246 total, 77 pending); dailybounty +168 (933 total, 10,842 pending; 76 via Medium RSS).
+- HackerOne +3: [Arc RPC JS-tracer DoS #3966160](hackerone/reports/2026/3966160.md), [Weblate XFF rate-limit bypass #4059744](hackerone/reports/2026/4059744.md), [Weblate suggestion IP exposure #4117330](hackerone/reports/2026/4117330.md).
+- CVE cvelistV5 +106 / 15 upd; NVD +110 / 11; OSV +42; ZDI +56; P0 +1; KEV/GHSA unchanged.
+- Harness: [2026-11-16 bug-class checks](harness/bug-classes/2026-11-16-mcp-open-data-rpc-tracer-logs.md); [techniques.md 2026-11-16 additions](techniques.md).
+
 ## Daily update — 15 November 2026 (Africa/Lagos)
 
 - New X posts (security-relevant, with analysis): [mdp_sec guest-upload RCE](posts/mdp_sec/2026-11-14-2121727373498257576.md), [mdp_sec widget-config stored XSS](posts/mdp_sec/2026-11-14-2121606577698308308.md), [mdp_sec sequential-IDOR SSN (Critical dupe)](posts/mdp_sec/2026-11-14-2121546179360276882.md), [mdp_sec mobile hardcoded key → prod private key](posts/mdp_sec/2026-11-14-2121515980211785729.md), [mdp_sec AI harness zero-steering](posts/mdp_sec/2026-11-15-2121817970381094966.md), [kobigurk harness skeuomorphism](posts/kobigurk/2026-11-15-2121784321799598543.md), [zkSecurity newsletter](posts/zksecurityXYZ/2026-11-14-2121564859724648754.md) + [writeup](writeups/zksecurityXYZ/newsletter-2026-11-14.md). 93 new watched-account posts captured into `data/x_posts.jsonl` / ARCHIVEs.
