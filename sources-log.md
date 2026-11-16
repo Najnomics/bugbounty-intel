@@ -475,3 +475,4 @@ CVE/advisory: CVEProject/cvelistV5 deltas 2026-11-13_end_of_day + 2026-11-14_050
 HackerOne: GraphQL CompleteHacktivityReportIndex disclosed_at:[2026-11-12 TO 2026-11-15] → +2 reports (4175245 Basecamp stored XSS→admin takeover, 4000535 PortSwigger Burp OpenAPI $id local-file read).
 10.0.0.1 - campaign feed: apex-hunter/okta-bugcrowd-2026-11 (okta S1, 3 technique records)
 session-feed: apex-hunter/thegraph 2026-11-16 — 3 technique rows appended
+- 2026-11-16 apex-hunter/aera-2026-11-16 campaign feed: +4 records (vault pricing class, dead-code invariants, unaudited-rewrite gap, merkle value leaf)
