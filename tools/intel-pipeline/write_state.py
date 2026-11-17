@@ -1,4 +1,5 @@
-import json,os,glob,subprocess
+import json,os,glob,subprocess,datetime
+TODAY=datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=1))).strftime('%Y-%m-%d')+' (Africa/Lagos)'
 O='/workspace/bugbounty-intel'; R='/workspace/raw'
 def J(p,d=None):
     try: return json.load(open(p))
@@ -15,7 +16,7 @@ kev=J(R+'/cve/kev.json',{})
 kn=J(R+'/kvulns_stats.json',{}); nv=J(R+'/nvd/build_stats.json',{}); zd=J(R+'/zdi/build_stats.json',{})
 edbh=subprocess.run(['git','-C',R+'/edb','log','-1','--format=%H %cI'],capture_output=True,text=True).stdout.split() or ['?','?']
 p0=[x for x in sorted(os.listdir(O+'/cves/google-project-zero/blog')) if x!='0day.md']
-st={'generated':'2026-11-17 (Africa/Lagos)','note':'Markers for the daily incremental CVE run. See cves/README.md "Daily incremental procedure".',
+st={'generated':TODAY,'note':'Markers for the daily incremental CVE run. See cves/README.md "Daily incremental procedure".',
  'sources':{
   'cvelistV5':{'status':'complete','records':cnt(O+'/data/cve/all/*/*.jsonl'),'years':'1999-2026','max_dateUpdated':maxf(O+'/data/cve/all/202[56]/*.jsonl','updated'),
      'source':'https://github.com/CVEProject/cvelistV5 (release zip)','incremental':'download https://github.com/CVEProject/cvelistV5/releases latest *_delta_CVEs_at_*.zip or the daily cumulative delta since max_dateUpdated; re-run tools/intel-pipeline/cve_build.py'},
@@ -35,7 +36,7 @@ json.dump(st,open(O+'/data/cve_state.json','w'),indent=1)
 ids=[json.loads(l) for l in open(R+'/h1/ids.jsonl')]
 recs=cnt(O+'/data/h1/*.jsonl'); last=max(ids,key=lambda d:d.get('disclosed_at') or '')
 bs=J(R+'/h1/build_stats.json',{})
-h={'generated':'2026-11-17 (Africa/Lagos)','status':'complete' if recs>=len(ids) else 'pending','enumerated':len(ids),'captured':recs,'content':bs.get('content'),
+h={'generated':TODAY,'status':'complete' if recs>=len(ids) else 'pending','enumerated':len(ids),'captured':recs,'content':bs.get('content'),
  'also_in_telegram_writeups':bs.get('in_telegram_writeups'),'failed_ids':[json.loads(l) for l in open(R+'/h1/failed.jsonl')] if os.path.exists(R+'/h1/failed.jsonl') else [],
  'last_disclosed_at':last.get('disclosed_at'),'last_disclosed_id':last['id'],'max_report_id':max(int(d['id']) for d in ids),
  'enumeration':'POST https://hackerone.com/graphql search(index: CompleteHacktivityReportIndex, query_string: "disclosed:true AND disclosed_at:[A TO B]", sort disclosed_at ASC, size 100) — one window per month (<10k results/window)',
