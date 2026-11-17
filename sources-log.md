@@ -502,3 +502,4 @@ session-feed: apex-hunter/thegraph 2026-11-16 — 3 technique rows appended
 - GitHub Security Advisories: zcash/librustzcash (+1 GHSA-4q7w-cx94-55pc), axiom-crypto/snark-verifier (+1 GHSA-265x-v3qf-ff6p); `solana-program/solana-program-library` advisories return 404.
 - CVE: cvelistV5 27 delta zips since 2026-11-18T04:57:55Z; NVD API lastModStartDate=2026-11-18..; CISA KEV 2026.11.18 (+4); github/advisory-database pull (5a263e90); OSV all.zip re-pull; kernel vulns.git (f418c111); ZDI published/2026 (+28); Exploit-DB unchanged (70bbef3f); Project Zero unchanged (258); HackerOne GraphQL hacktivity [2026-11-18..2026-11-19] (+2).
 - mdpsec.com checked (unchanged).
+- 2026-11-17 apex-hunter/0x-immunefi S2+S3 campaigns: +4 findings rows (deployment-skew gates, ERC-7739 marker trap, AH probe-bound, strict-entry-decoder shield).
