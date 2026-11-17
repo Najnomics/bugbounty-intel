@@ -1,9 +1,9 @@
 # @samczsun — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 179
-- Conversations/threads: 87
+- Posts in this file: 235
+- Conversations/threads: 142
 - Oldest post captured: 2020-03-13
 - Newest post captured: 2026-11-04
 
@@ -1021,7 +1021,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2025-09-19 02:23 UTC (2025-09-19 03:23 WAT)
 
 - URL: https://x.com/samczsun/status/1968863507656433672
-- Metrics (at fetch): bookmark 25, impression 97335, like 848, quote 0, reply 31, repost 21
+- Metrics (at fetch): bookmark 25, impression 97337, like 847, quote 0, reply 31, retweet 21
 
 > what was your customer support team doing for the past decade, stealing customer information or something? https://twitter.com/brian_armstrong/status/1968844394921926755
 
@@ -1050,13 +1050,24 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2025-09-17 19:46 UTC (2025-09-17 20:46 WAT)
 
 - URL: https://x.com/samczsun/status/1968401172105986385
-- Metrics (at fetch): bookmark 10, impression 23467, like 120, quote 2, reply 13, retweet 18
+- Metrics (at fetch): bookmark 10, impression 23469, like 120, quote 2, reply 13, retweet 18
 
 > building an online portfolio is so important for consultants but the north korean devs have been too busy shipping so we figured we'd help them out https://twitter.com/_SEAL_Org/status/1968396194805088754
 
 **Links in post:** https://twitter.com/_SEAL_Org/status/1968396194805088754
 
-**Quoted post** 1968396194805088754: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1756434947202748416 — 2025-09-17 19:26 UTC (2025-09-17 20:26 WAT)
+    
+    - URL: https://x.com/1756434947202748416/status/1968396194805088754
+    - Metrics (at fetch): bookmark 128, impression 1358149, like 480, quote 42, reply 40, retweet 85
+    
+    > North Korean developers are eager to work for your company, but it's important to not get scammed by imposters when hiring. We built this portfolio to help you pick out the right North Korean IT worker for your company. https://t.co/3Td2vX4C2v
+    
+    **Media:**
+    - media `3_1968395039286931457` (details not returned by the API)
+    
 
 
 ---
@@ -1067,13 +1078,23 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2025-09-08 20:08 UTC (2025-09-08 21:08 WAT)
 
 - URL: https://x.com/samczsun/status/1965145113891688644
-- Metrics (at fetch): bookmark 59, impression 70550, like 596, quote 3, reply 24, retweet 42
+- Metrics (at fetch): bookmark 59, impression 70554, like 596, quote 3, reply 24, retweet 42
 
 > my sincerest condolences to the person responsible for this, this was a generational fumble, the likes of which we will probably never see again https://twitter.com/_SEAL_Org/status/1965142759213584812
 
 **Links in post:** https://twitter.com/_SEAL_Org/status/1965142759213584812
 
-**Quoted post** 1965142759213584812: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1756434947202748416 — 2025-09-08 19:58 UTC (2025-09-08 20:58 WAT)
+    
+    - URL: https://x.com/1756434947202748416/status/1965142759213584812
+    - Metrics (at fetch): bookmark 147, impression 219093, like 1368, quote 64, reply 57, retweet 152
+    
+    > Picture this: you compromise the account of a NPM developer whose packages are downloaded more than 2 billion times per week. You could have unfettered access to millions of developer workstations. Untold riches await you. The world is your oyster.
+    >
+    > You profit less than 50 USD.
+    
 
 
 ---
@@ -1084,7 +1105,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2025-09-04 17:26 UTC (2025-09-04 18:26 WAT)
 
 - URL: https://x.com/samczsun/status/1963654852195799210
-- Metrics (at fetch): bookmark 22, impression 51852, like 400, quote 3, reply 19, retweet 10
+- Metrics (at fetch): bookmark 22, impression 51858, like 400, quote 3, reply 19, retweet 10
 
 > [pic.x.com/PTWleQwKlQ] https://twitter.com/tempo/status/1963634039413510507
 
@@ -1093,7 +1114,17 @@ Tags (automatic): AI-assisted hunting
 
 **Links in post:** https://twitter.com/tempo/status/1963634039413510507
 
-**Quoted post** 1963634039413510507: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @5814 — 2025-09-04 16:03 UTC (2025-09-04 17:03 WAT)
+    
+    - URL: https://x.com/5814/status/1963634039413510507
+    - Metrics (at fetch): bookmark 537, impression 607991, like 1918, quote 213, reply 411, retweet 188
+    
+    > Introducing Tempo: a payments-first blockchain incubated by Stripe and Paradigm.
+    >
+    > As stablecoins go mainstream, there’s a need for optimized infrastructure. Tempo is purpose-built for stablecoins and real-world payments, born from Stripe’s experience in global payments and
+    
 
 
 ---
@@ -1104,7 +1135,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2025-09-04 02:21 UTC (2025-09-04 03:21 WAT)
 
 - URL: https://x.com/samczsun/status/1963427179896635399
-- Metrics (at fetch): bookmark 67, impression 141557, like 1803, quote 5, reply 42, repost 57
+- Metrics (at fetch): bookmark 67, impression 141568, like 1801, quote 5, reply 42, retweet 57
 
 > this explains a lot https://twitter.com/brian_armstrong/status/1963315806248604035
 
@@ -1134,7 +1165,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2025-09-03 21:22 UTC (2025-09-03 22:22 WAT)
 
 - URL: https://x.com/samczsun/status/1963351913682145545
-- Metrics (at fetch): bookmark 43, impression 22930, like 188, quote 3, reply 18, retweet 13
+- Metrics (at fetch): bookmark 42, impression 22939, like 188, quote 3, reply 18, retweet 12
 
 > finally saw @CodeIsLawFilm and breaks my heart to hear @ChrJentzsch, @griffgreen, @d1ll0nk, @functi0nZer0, @cleanunicorn, and others recount their experiences. congrats to @jamescraig1111 for this masterpiece, and hopefully the sequel will have a happy ending
 
@@ -1147,7 +1178,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2025-08-16 21:31 UTC (2025-08-16 22:31 WAT)
 
 - URL: https://x.com/samczsun/status/1956831322477133969
-- Metrics (at fetch): bookmark 33, impression 77037, like 727, quote 1, reply 58, repost 25
+- Metrics (at fetch): bookmark 33, impression 77045, like 727, quote 1, reply 58, retweet 25
 
 > qrts are really disappointing tbh
 >
@@ -1166,26 +1197,704 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2025-08-10 20:19 UTC (2025-08-10 21:19 WAT)
 
 - URL: https://x.com/samczsun/status/1954638638601683100
-- Metrics (at fetch): bookmark 11, impression 45954, like 454, quote 3, reply 27, retweet 11
+- Metrics (at fetch): bookmark 11, impression 45962, like 454, quote 3, reply 27, retweet 11
 
 > do you not understand how memes work or is it only ok to talk shit when you do it from the official foundation account https://twitter.com/toly/status/1954628667436589299
 
 **Links in post:** https://twitter.com/toly/status/1954628667436589299
 
-**Quoted post** 1954628667436589299: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @2327407569 — 2025-08-10 19:39 UTC (2025-08-10 20:39 WAT)
+    
+    - URL: https://x.com/2327407569/status/1954628667436589299
+    - Metrics (at fetch): bookmark 2, impression 60057, like 163, quote 2, reply 28, retweet 0
+    
+    > @samczsun lol wut? How was that a victim card.  🤷‍♂️. 
+    >
+    > Your top post literally had “I fucking hate you…” as equivalent to mentioning 22 TPS without using the word ethereum directly.
+    
 
 
 ---
 
-## 2025-04-04 · Post · to me, paradigm is about experimentation and reaching new frontiers. when i told matt that i wanted 
+## 2025-08-10 · Post · solana culture is starting shit on the tl and then crying about it when people call you out. at leas
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2025-08-10 17:06 UTC (2025-08-10 18:06 WAT)
+
+- URL: https://x.com/samczsun/status/1954590106960142743
+- Metrics (at fetch): bookmark 37, impression 111386, like 954, quote 8, reply 55, retweet 48
+
+> solana culture is starting shit on the tl and then crying about it when people call you out. at least have the balls to own it lol https://t.co/xHMD1eMNUF https://t.co/uu6HLLtLpa
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GyAZV7maAAACnMj.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2327407569 — 2025-08-10 15:50 UTC (2025-08-10 16:50 WAT)
+    
+    - URL: https://x.com/2327407569/status/1954570941616542090
+    - Metrics (at fetch): bookmark 3, impression 108270, like 57, quote 4, reply 20, retweet 1
+    
+    > @samczsun lol.  Technical comparison is equivalent to hate? Sheesh.
+    
+
+
+---
+
+## 2025-08-10 · Post · the official solana account when a chain other than solana is accelerating https://t.co/Rcd74tKvxB h
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2025-08-10 00:14 UTC (2025-08-10 01:14 WAT)
+
+- URL: https://x.com/samczsun/status/1954335420973711750
+- Metrics (at fetch): bookmark 18, impression 137583, like 875, quote 7, reply 43, retweet 26
+
+> the official solana account when a chain other than solana is accelerating https://t.co/Rcd74tKvxB https://t.co/Ev82Cs7VoR
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gx8xtZAa4AA5nP0.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @951329744804392960 — 2025-08-09 01:00 UTC (2025-08-09 02:00 WAT)
+    
+    - URL: https://x.com/951329744804392960/status/1953984755365519510
+    - Metrics (at fetch): bookmark 149, impression 1293884, like 2599, quote 232, reply 619, retweet 206
+    
+    > When they say the future of markets runs at 22 TPS but NASDAQ handles 2k trades per second https://t.co/TAsGAcFc7k
+    
+    **Media:**
+    - media `13_1953984704165584896` (details not returned by the API)
+    
+
+
+---
+
+## 2025-08-07 · Post · if you or someone you know is involved with treasurycos please get in touch because it would be real
+
+
+### Post — @samczsun — 2025-08-07 21:40 UTC (2025-08-07 22:40 WAT)
+
+- URL: https://x.com/samczsun/status/1953571997939904898
+- Metrics (at fetch): bookmark 26, impression 68964, like 506, quote 3, reply 21, retweet 64
+
+> if you or someone you know is involved with treasurycos please get in touch because it would be really bad for you and for crypto if we set a new record for biggest hack in 2026 https://t.co/LvS86c5Szw
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1387497871751196672 — 2025-08-07 19:50 UTC (2025-08-07 20:50 WAT)
+    
+    - URL: https://x.com/1387497871751196672/status/1953544390799917172
+    - Metrics (at fetch): bookmark 1489, impression 2920730, like 36830, quote 1172, reply 1352, retweet 5299
+    
+    > BREAKING: 🇺🇸 President Trump officially signs executive order opening the $12.5 trillion 401(k) retirement market to crypto investments.
+    
+
+
+---
+
+## 2025-07-24 · Post · does anyone use multisigs outside of a high-value slow-moving context (i.e. cold wallets, protocol a
+
+
+### Post — @samczsun — 2025-07-24 05:03 UTC (2025-07-24 06:03 WAT)
+
+- URL: https://x.com/samczsun/status/1948247770936340880
+- Metrics (at fetch): bookmark 16, impression 17216, like 74, quote 0, reply 35, retweet 6
+
+> does anyone use multisigs outside of a high-value slow-moving context (i.e. cold wallets, protocol admins, etc)? what's your use case?
+
+
+---
+
+## 2025-07-23 · Post · huge news for the contract verification ecosystem. please consider using sourcify so that your contr
+
+
+### Post — @samczsun — 2025-07-23 18:30 UTC (2025-07-23 19:30 WAT)
+
+- URL: https://x.com/samczsun/status/1948088426005467383
+- Metrics (at fetch): bookmark 52, impression 22005, like 210, quote 1, reply 13, retweet 25
+
+> huge news for the contract verification ecosystem. please consider using sourcify so that your contract source code can automatically be picked up by tooling (wallets, debuggers, etc) and other explorers (@blockscout, @routescan_io) via @verifalliance https://t.co/OiRKoLAYKZ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1263776412244291585 — 2025-07-23 11:59 UTC (2025-07-23 12:59 WAT)
+    
+    - URL: https://x.com/1263776412244291585/status/1947989903054389379
+    - Metrics (at fetch): bookmark 21, impression 26580, like 77, quote 9, reply 4, retweet 11
+    
+    > We just launched a brand new Verification UI!
+    >
+    > With Sourcify APIv2, it makes verification smoother than ever:
+    >
+    > ✅ Clear error messages
+    > ✅ Onchain vs recompiled diffs
+    > ✅ One-click GitHub issue reporting when it fails
+    > ✅ Etherscan import
+    > ✅ Solidity &amp; Vyper
+    >
+    > Let’s break it down 👇 https://t.co/Z1vMgffAju
+    
+    **Media:**
+    - media `13_1947989827569467392` (details not returned by the API)
+    
+
+
+---
+
+## 2025-07-11 · Post · "you are under the misconception that the blacklist() function is meant to stop hackers. it is not. 
+
+
+### Post — @samczsun — 2025-07-11 02:32 UTC (2025-07-11 03:32 WAT)
+
+- URL: https://x.com/samczsun/status/1943498641005543614
+- Metrics (at fetch): bookmark 38, impression 44594, like 351, quote 2, reply 17, retweet 33
+
+> "you are under the misconception that the blacklist() function is meant to stop hackers. it is not. what it is, really, is a way for us to gaslight regulators and lawmakers into believing that we are the most compliant stablecoin" [pic.x.com/PT4lDYVcco] https://twitter.com/0xWenMoon/status/1942952102419972271
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GvixgbYWIAIHUty.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/0xWenMoon/status/1942952102419972271
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1441113712291581958 — 2025-07-09 14:20 UTC (2025-07-09 15:20 WAT)
+    
+    - URL: https://x.com/1441113712291581958/status/1942952102419972271
+    - Metrics (at fetch): bookmark 60, impression 209979, like 347, quote 26, reply 58, retweet 22
+    
+    > This is absolutely INSANE!
+    >
+    > The exploiter held 1.3M USDT0 and the @USDT0_to team immediately froze the address...
+    >
+    > However, the attacker managed to swap out all the USDT0 for USDC just 23 seconds before being frozen!
+    >
+    > It's been more than an hour since the exploit and @circle still hasn't responded or frozen...
+    
+    **Media:**
+    - media `3_1942952096975749120` (details not returned by the API)
+    - media `3_1942951817467351040` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/0xWenMoon/status/1942943065020514557
+    
+    **Quoted post** 1942943065020514557: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-07-02 · Post · [pic.x.com/Www2NYyzBB] https://twitter.com/Suhail/status/1940287384131969067
+
+
+### Post — @samczsun — 2025-07-02 21:53 UTC (2025-07-02 22:53 WAT)
+
+- URL: https://x.com/samczsun/status/1940529168271528186
+- Metrics (at fetch): bookmark 4, impression 12954, like 75, quote 0, reply 5, retweet 4
+
+> [pic.x.com/Www2NYyzBB] https://twitter.com/Suhail/status/1940287384131969067
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gu4k_VhWcAA7ACj.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/Suhail/status/1940287384131969067
+
+**Quoted post (full text):**
+
+    #### Quoted post — @793023 — 2025-07-02 05:52 UTC (2025-07-02 06:52 WAT)
+    
+    - URL: https://x.com/793023/status/1940287384131969067
+    - Metrics (at fetch): bookmark 8435, impression 23135179, like 24657, quote 2638, reply 1432, retweet 2301
+    
+    > PSA: there’s a guy named Soham Parekh (in India) who works at 3-4 startups at the same time. He’s been preying on YC companies and more. Beware.
+    >
+    > I fired this guy in his first week and told him to stop lying / scamming people. He hasn’t stopped a year later. No more excuses.
+    
+
+
+---
+
+## 2025-05-23 · Post · [pic.x.com/Q5aGKnWZAk] https://twitter.com/HashemGhaili/status/1925616536791760987
+
+
+### Post — @samczsun — 2025-05-23 14:42 UTC (2025-05-23 15:42 WAT)
+
+- URL: https://x.com/samczsun/status/1925925415429849575
+- Metrics (at fetch): bookmark 3, impression 10468, like 61, quote 0, reply 12, retweet 7
+
+> [pic.x.com/Q5aGKnWZAk] https://twitter.com/HashemGhaili/status/1925616536791760987
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GrpC9Y0X0AI22qT.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/HashemGhaili/status/1925616536791760987
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3332890245 — 2025-05-22 18:15 UTC (2025-05-22 19:15 WAT)
+    
+    - URL: https://x.com/3332890245/status/1925616536791760987
+    - Metrics (at fetch): bookmark 12158, impression 6043762, like 23986, quote 2312, reply 971, retweet 3767
+    
+    > Prompt Theory (Made with Veo 3)
+    >
+    > What if AI-generated characters refused to believe they were AI-generated? [pic.x.com/GJSRCXp3JP]
+    
+    **Media:**
+    - media `13_1925614679801389056` (details not returned by the API)
+    
+
+
+---
+
+## 2025-05-17 · Post · if you're a high value target (high net worth, founder, etc), have you thought carefully about your 
+
+
+### Post — @samczsun — 2025-05-17 08:40 UTC (2025-05-17 09:40 WAT)
+
+- URL: https://x.com/samczsun/status/1923659783015710823
+- Metrics (at fetch): bookmark 11, impression 12588, like 33, quote 1, reply 15, retweet 8
+
+> if you're a high value target (high net worth, founder, etc), have you thought carefully about your opsec and if so how do you feel about it?
+
+
+---
+
+## 2025-05-14 · Post · [pic.x.com/W9UDc2fKZ2] https://twitter.com/ethereumfndn/status/1922632702097801229
+
+
+### Post — @samczsun — 2025-05-14 14:16 UTC (2025-05-14 15:16 WAT)
+
+- URL: https://x.com/samczsun/status/1922657164318978215
+- Metrics (at fetch): bookmark 19, impression 27403, like 466, quote 1, reply 20, retweet 22
+
+> [pic.x.com/W9UDc2fKZ2] https://twitter.com/ethereumfndn/status/1922632702097801229
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gq6mgGzWEAAvRPJ.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/ethereumfndn/status/1922632702097801229
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1529875152460193794 — 2025-05-14 12:38 UTC (2025-05-14 13:38 WAT)
+    
+    - URL: https://x.com/1529875152460193794/status/1922632702097801229
+    - Metrics (at fetch): bookmark 324, impression 480092, like 3440, quote 180, reply 170, retweet 690
+    
+    > 0. Announcing the Trillion Dollar Security (1TS) initiative: an ecosystem-wide effort to upgrade Ethereum’s security to help bring the world onchain.
+    
+
+
+---
+
+## 2025-05-13 · Post · this is what the crypto insiders dont want you to know about what a project's choice of domain says:
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @samczsun — 2025-05-13 17:25 UTC (2025-05-13 18:25 WAT)
+
+- URL: https://x.com/samczsun/status/1922342380729966915
+- Metrics (at fetch): bookmark 202, impression 98376, like 1381, quote 35, reply 158, retweet 89
+
+> this is what the crypto insiders dont want you to know about what a project's choice of domain says:
+>
+> .com/.org - found pmf
+> .xyz - "hello i do crypto"
+> .finance/.fi - defi lego
+> .network - tried to do a chain
+> .fun - scam
+
+
+---
+
+## 2025-05-02 · Post · this is the company conducting the third party review btw [pic.x.com/fFllsy0YxN] https://twitter.com
+
+
+### Post — @samczsun — 2025-05-02 04:57 UTC (2025-05-02 05:57 WAT)
+
+- URL: https://x.com/samczsun/status/1918167891897352468
+- Metrics (at fetch): bookmark 84, impression 140660, like 668, quote 7, reply 52, retweet 26
+
+> this is the company conducting the third party review btw [pic.x.com/fFllsy0YxN] https://twitter.com/movement_xyz/status/1918134801028268187
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gp6zhQUawAEhgsE.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Gp6zhuJbQAA0VyE.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Gp6zh-sakAAxtoE.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/movement_xyz/status/1918134801028268187
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1632504432746192896 — 2025-05-02 02:45 UTC (2025-05-02 03:45 WAT)
+    
+    - URL: https://x.com/1632504432746192896/status/1918134801028268187
+    - Metrics (at fetch): bookmark 200, impression 1387478, like 1765, quote 353, reply 895, retweet 173
+    
+    > We confirm that Rushi Manche has been suspended from Movement Labs. This decision was made in light of ongoing events and as the third-party review is still being conducted by Groom Lake regarding organizational governance and recent incidents involving a market maker.
+    
+
+
+---
+
+## 2025-04-29 · Post · should i coin this? https://t.co/UsDmAozBdA
+
+
+### Post — @samczsun — 2025-04-29 04:51 UTC (2025-04-29 05:51 WAT)
+
+- URL: https://x.com/samczsun/status/1917079260403273915
+- Metrics (at fetch): bookmark 64, impression 146195, like 1447, quote 21, reply 87, retweet 84
+
+> should i coin this? https://t.co/UsDmAozBdA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GprVQ7PbQAAUrQF.png — no alt text provided by author
+
+
+---
+
+## 2025-04-22 · Post · there's a fine line between being competitive and being deceptive. glad to see people talking about 
+
+
+### Post — @samczsun — 2025-04-22 23:12 UTC (2025-04-23 00:12 WAT)
+
+- URL: https://x.com/samczsun/status/1914819594554147263
+- Metrics (at fetch): bookmark 14, impression 19443, like 112, quote 0, reply 9, retweet 12
+
+> there's a fine line between being competitive and being deceptive. glad to see people talking about this problem, it's been going on for long enough now https://t.co/45UW6myfNb
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2025-04-22 20:29 UTC (2025-04-22 21:29 WAT)
+    
+    - URL: https://x.com/zellic_io/status/1914778524956709074
+    - Metrics (at fetch): bookmark 89, impression 115446, like 280, quote 29, reply 12, retweet 55
+    
+    > How to spot misleading audit competition metrics
+    >
+    > Competitions are crowdsourced audits, where auditors compete to find bugs in a set timeframe. Last year, we acquired @code4rena which does these.
+    >
+    > We've also seen tons of misleading sales pitches. Here's what to watch out for: 🧵
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GpKnnp-WsAAoQGo.png — no alt text provided by author
+    
+
+
+---
+
+## 2025-04-19 · Post · https://t.co/PSUnZW1aqX
+
+
+### Post — @samczsun — 2025-04-19 23:14 UTC (2025-04-20 00:14 WAT)
+
+- URL: https://x.com/samczsun/status/1913732861481615631
+- Metrics (at fetch): bookmark 15, impression 48386, like 634, quote 4, reply 23, retweet 23
+
+> https://t.co/PSUnZW1aqX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Go7x5U1bgAAztLP.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-18 · Post · what happened to you man https://t.co/JhD2RAbpZF
+
+
+### Post — @samczsun — 2025-04-18 20:46 UTC (2025-04-18 21:46 WAT)
+
+- URL: https://x.com/samczsun/status/1913333301458374962
+- Metrics (at fetch): bookmark 36, impression 191656, like 1093, quote 3, reply 47, retweet 26
+
+> what happened to you man https://t.co/JhD2RAbpZF
+
+**Quoted post (full text):**
+
+    #### Quoted post — @18876842 — 2025-04-18 14:42 UTC (2025-04-18 15:42 WAT)
+    
+    - URL: https://x.com/18876842/status/1913241816318775563
+    - Metrics (at fetch): bookmark 7, impression 252509, like 106, quote 17, reply 60, retweet 0
+    
+    > @mert I respect an artists ability to be provocative https://t.co/DMu4Dhnvpk
+    
+    **Quoted post** 1913231157820592326: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-04-07 · Post · matt and i were competing to see who could do a handstand first and i fear i may have lost https://t
+
+
+### Post — @samczsun — 2025-04-07 18:53 UTC (2025-04-07 19:53 WAT)
+
+- URL: https://x.com/samczsun/status/1909318584473731350
+- Metrics (at fetch): bookmark 4, impression 16219, like 85, quote 0, reply 11, retweet 0
+
+> matt and i were competing to see who could do a handstand first and i fear i may have lost https://t.co/0PeQ8kvtyJ https://t.co/yc7kBZoGrH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gn9C3gxbwAE_IjG.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1528558014 — 2025-04-07 14:50 UTC (2025-04-07 15:50 WAT)
+    
+    - URL: https://x.com/1528558014/status/1909257555408277766
+    - Metrics (at fetch): bookmark 262, impression 780430, like 564, quote 46, reply 40, retweet 55
+    
+    > For years I’ve asked @matthuang to let us feature him and @paradigm
+    >
+    > Matt is the steadiest of hands in a very high vol asset class and world
+    >
+    > He just said he’s more bullish on crypto than any time since 2018, so excited to share our profile with you all, on @joincolossus https://t.co/VaHRsi6wxW
+    
+    **Media:**
+    - media `3_1909257547892117504` (details not returned by the API)
+    
+
+
+---
+
+## 2025-04-04 · Thread · after nearly 4.5 years at @paradigm, it's with a bittersweet feeling that i finish writing this chap
 
 
 ### Post — @samczsun — 2025-04-04 19:47 UTC (2025-04-04 20:47 WAT)
+
+- URL: https://x.com/samczsun/status/1908245100750397849
+- Metrics (at fetch): bookmark 115, impression 149494, like 1789, quote 12, reply 169, retweet 49
+
+> after nearly 4.5 years at @paradigm, it's with a bittersweet feeling that i finish writing this chapter of my life story. when @matthuang messaged me in 2020, never in my wildest dreams could i have imagined where that journey would take me. thank you
+>
+> 🎵 https://t.co/mZ5D3s1AKA https://t.co/JPZopGeGZZ
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/Gntr4CuboAAvCiU.jpg — no alt text provided by author
+
+
+### Thread part 2 — @samczsun — 2025-04-04 19:47 UTC (2025-04-04 20:47 WAT)
 
 - URL: https://x.com/samczsun/status/1908245103837405216
 - Metrics (at fetch): bookmark 1, impression 7515, like 132, quote 0, reply 1, retweet 0
 
 > to me, paradigm is about experimentation and reaching new frontiers. when i told matt that i wanted to build the solution to crypto security, he was fully supportive. when that began taking up more and more of my time, he helped reduce my workload so i could chase my passion
+
+
+---
+
+## 2025-04-03 · Post · new token valuation framework just dropped https://t.co/uJbQ5OVFKs
+
+
+### Post — @samczsun — 2025-04-03 21:47 UTC (2025-04-03 22:47 WAT)
+
+- URL: https://x.com/samczsun/status/1907912870941356437
+- Metrics (at fetch): bookmark 13, impression 9495, like 29, quote 0, reply 6, retweet 4
+
+> new token valuation framework just dropped https://t.co/uJbQ5OVFKs
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GnpEl6LbYAAZzeA.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-03 · Post · crypto mentioned!!! https://t.co/ElVq4kWba1 https://t.co/pikMLGcI0X
+
+
+### Post — @samczsun — 2025-04-03 17:45 UTC (2025-04-03 18:45 WAT)
+
+- URL: https://x.com/samczsun/status/1907852049779405188
+- Metrics (at fetch): bookmark 5, impression 11185, like 54, quote 1, reply 4, retweet 3
+
+> crypto mentioned!!! https://t.co/ElVq4kWba1 https://t.co/pikMLGcI0X
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GnoNVENaMAA1OH2.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @174934382 — 2025-04-02 14:26 UTC (2025-04-02 15:26 WAT)
+    
+    - URL: https://x.com/174934382/status/1907439419642032416
+    - Metrics (at fetch): bookmark 1669, impression 2041842, like 3602, quote 458, reply 218, retweet 212
+    
+    > Deel CEO and company founder @Bouazizalex  personally orchestrated his company’s alleged spy scheme, the spy said in a full confession
+    >
+    > Alex allegedly recruited the spy, received the stolen info, and arranged payment via a person known only by their pseudonym: “The Watchman” https://t.co/t9QJlM8Qci
+    
+    **Media:**
+    - media `3_1907439217262944257` (details not returned by the API)
+    - media `3_1907439217254572033` (details not returned by the API)
+    - media `3_1907439217262964736` (details not returned by the API)
+    
+
+
+---
+
+## 2025-04-03 · Post · ok but what if we tokenized the tariffs
+
+
+### Post — @samczsun — 2025-04-03 16:46 UTC (2025-04-03 17:46 WAT)
+
+- URL: https://x.com/samczsun/status/1907837125695021487
+- Metrics (at fetch): bookmark 10, impression 35788, like 573, quote 9, reply 57, retweet 45
+
+> ok but what if we tokenized the tariffs
+
+
+---
+
+## 2025-03-31 · Post · i wrote a thing about all the different teams in north korea dedicated exclusively to fucking your s
+
+
+### Post — @samczsun — 2025-03-31 17:05 UTC (2025-03-31 18:05 WAT)
+
+- URL: https://x.com/samczsun/status/1906754853063565720
+- Metrics (at fetch): bookmark 372, impression 83941, like 760, quote 16, reply 38, retweet 177
+
+> i wrote a thing about all the different teams in north korea dedicated exclusively to fucking your shit up and how you can know exactly which one just ruined your entire month
+>
+> https://t.co/KidMTTWlyx
+
+
+---
+
+## 2025-03-29 · Post · he will never be jailed after being featured in a forbes article [pic.x.com/R1wZyyUhxY] https://twit
+
+
+### Post — @samczsun — 2025-03-29 17:50 UTC (2025-03-29 18:50 WAT)
+
+- URL: https://x.com/samczsun/status/1906041316926251257
+- Metrics (at fetch): bookmark 2, impression 13377, like 77, quote 0, reply 6, retweet 1
+
+> he will never be jailed after being featured in a forbes article [pic.x.com/R1wZyyUhxY] https://twitter.com/justinsuntron/status/1905324113851547790
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GnOeej7a8AAdL-y.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/justinsuntron/status/1905324113851547790
+
+**Quoted post (full text):**
+
+    #### Quoted post — @902839045356744704 — 2025-03-27 18:20 UTC (2025-03-27 19:20 WAT)
+    
+    - URL: https://x.com/902839045356744704/status/1905324113851547790
+    - Metrics (at fetch): bookmark 601, impression 8587691, like 8199, quote 386, reply 4636, retweet 1511
+    
+    > From a visionary to a global force — honored to be featured on Forbes as Crypto’s Billionaire Barker. TRON’s journey continues, powering a global payment system with 300 million users and counting. Decentralization will prevail. [pic.x.com/m6FXcbrvMJ]
+    
+    **Media:**
+    - media `3_1905324104733077504` (details not returned by the API)
+    
+
+
+---
+
+## 2025-03-29 · Post · [pic.x.com/5KHoNyUCvr] https://twitter.com/toly/status/1905654043382612437
+
+
+### Post — @samczsun — 2025-03-29 02:34 UTC (2025-03-29 03:34 WAT)
+
+- URL: https://x.com/samczsun/status/1905810778034245817
+- Metrics (at fetch): bookmark 19, impression 18064, like 250, quote 0, reply 9, retweet 1
+
+> [pic.x.com/5KHoNyUCvr] https://twitter.com/toly/status/1905654043382612437
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GnLMzWJbIAANEdn.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/toly/status/1905654043382612437
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2327407569 — 2025-03-28 16:11 UTC (2025-03-28 17:11 WAT)
+    
+    - URL: https://x.com/2327407569/status/1905654043382612437
+    - Metrics (at fetch): bookmark 8, impression 62717, like 237, quote 11, reply 6, retweet 21
+    
+    > If we tokenize the gold, after the government seizes the gold you still have the tokens.  It’s a completely revolutionary asset. https://twitter.com/PeterSchiff/status/1905614504857043415
+    
+    **Links in post:** https://twitter.com/PeterSchiff/status/1905614504857043415
+    
+    **Quoted post** 1905614504857043415: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-03-28 · Post · ? https://twitter.com/CoinbaseAssets/status/1905707359772774410
+
+
+### Post — @samczsun — 2025-03-28 22:53 UTC (2025-03-28 23:53 WAT)
+
+- URL: https://x.com/samczsun/status/1905755236188197159
+- Metrics (at fetch): bookmark 2, impression 12365, like 88, quote 0, reply 7, retweet 0
+
+> ? https://twitter.com/CoinbaseAssets/status/1905707359772774410
+
+**Links in post:** https://twitter.com/CoinbaseAssets/status/1905707359772774410
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1422537905885442055 — 2025-03-28 19:43 UTC (2025-03-28 20:43 WAT)
+    
+    - URL: https://x.com/1422537905885442055/status/1905707359772774410
+    - Metrics (at fetch): bookmark 68, impression 785338, like 1497, quote 246, reply 513, retweet 290
+    
+    > Assets added to the roadmap today: Keyboard Cat (KEYCAT) 
+    > https://www.coinbase.com/blog/increasing-transparency-for-new-asset-listings-on-coinbase
+    
+    **Links in post:** https://www.coinbase.com/blog/increasing-transparency-for-new-asset-listings-on-coinbase
+    
+
+
+---
+
+## 2025-03-27 · Post · guy with a blockchain: sure the tidal wave of ai slop might be strangling the creative industry and 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+### Post — @samczsun — 2025-03-27 20:45 UTC (2025-03-27 21:45 WAT)
+
+- URL: https://x.com/samczsun/status/1905360629915115791
+- Metrics (at fetch): bookmark 8, impression 15915, like 209, quote 0, reply 11, retweet 0
+
+> guy with a blockchain: sure the tidal wave of ai slop might be strangling the creative industry and destroying the internet as we know it but have you considered a blockchain? https://twitter.com/jasonjzhao/status/1905305705713991701
+
+**Links in post:** https://twitter.com/jasonjzhao/status/1905305705713991701
+
+**Quoted post** 1905305705713991701: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-03-27 · Post · something deeply uncomfy about seeing the entire timeline enamoured with ghiblification idk [pic.x.c
+
+
+### Post — @samczsun — 2025-03-27 18:51 UTC (2025-03-27 19:51 WAT)
+
+- URL: https://x.com/samczsun/status/1905331756888424883
+- Metrics (at fetch): bookmark 7, impression 8436, like 141, quote 0, reply 14, retweet 0
+
+> something deeply uncomfy about seeing the entire timeline enamoured with ghiblification idk [pic.x.com/OQn2ATOL6L]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GnEZIffbMAAJHki.jpg — no alt text provided by author
 
 
 ---
@@ -1202,7 +1911,661 @@ Tags (automatic): AI-assisted hunting
 
 **Links in post:** https://twitter.com/TheAtlantic/status/1904205971779408052
 
-**Quoted post** 1904205971779408052: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @35773039 — 2025-03-24 16:17 UTC (2025-03-24 17:17 WAT)
+    
+    - URL: https://x.com/35773039/status/1904205971779408052
+    - Metrics (at fetch): bookmark 5806, impression 30025606, like 57279, quote 5189, reply 3533, retweet 11854
+    
+    > American war planning usually takes place in highly secure facilities. But the Trump administration planned its strikes on the Houthis using a group chat—and accidentally included The Atlantic’s editor in chief, @JeffreyGoldberg. https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/?taid=67e185a0142e3e00010cde92&utm_campaign=the-atlantic&utm_content=true-anthem&utm_medium=social&utm_source=twitter
+    
+    **Links in post:** https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/?taid=67e185a0142e3e00010cde92&utm_campaign=the-atlantic&utm_content=true-anthem&utm_medium=social&utm_source=twitter
+    
+
+
+---
+
+## 2025-03-24 · Post · these guys put in more effort being a fake vc than some people do being a real vc. much to think abo
+
+
+### Post — @samczsun — 2025-03-24 15:14 UTC (2025-03-24 16:14 WAT)
+
+- URL: https://x.com/samczsun/status/1904190190446649641
+- Metrics (at fetch): bookmark 2, impression 13603, like 69, quote 0, reply 6, retweet 0
+
+> these guys put in more effort being a fake vc than some people do being a real vc. much to think about https://twitter.com/_SEAL_Org/status/1904189235726610807
+
+**Links in post:** https://twitter.com/_SEAL_Org/status/1904189235726610807
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1756434947202748416 — 2025-03-24 15:11 UTC (2025-03-24 16:11 WAT)
+    
+    - URL: https://x.com/1756434947202748416/status/1904189235726610807
+    - Metrics (at fetch): bookmark 7, impression 22960, like 53, quote 5, reply 1, retweet 17
+    
+    > Real or fake? The answer might be surprising. SEAL is tracking the threat actors operating Aureon Capital as ELUSIVE COMET and recommends users (and IT teams) stay safe by turning off Remote Control sessions on Zoom. More info and IoCs below [pic.x.com/ZU1RwPznRY]
+    
+    **Media:**
+    - media `3_1904188481112547328` (details not returned by the API)
+    
+
+
+---
+
+## 2025-03-23 · Post · hard to say whether the bigger crime is the blatant market manipulation* or the use of the "🥺" emoji
+
+
+### Post — @samczsun — 2025-03-23 03:41 UTC (2025-03-23 04:41 WAT)
+
+- URL: https://x.com/samczsun/status/1903653302237331953
+- Metrics (at fetch): bookmark 5, impression 15291, like 118, quote 0, reply 10, retweet 0
+
+> hard to say whether the bigger crime is the blatant market manipulation* or the use of the "🥺" emoji while doing it https://twitter.com/justinsuntron/status/1903616358916764044
+
+**Links in post:** https://twitter.com/justinsuntron/status/1903616358916764044
+
+**Quoted post (full text):**
+
+    #### Quoted post — @902839045356744704 — 2025-03-23 01:14 UTC (2025-03-23 02:14 WAT)
+    
+    - URL: https://x.com/902839045356744704/status/1903616358916764044
+    - Metrics (at fetch): bookmark 90, impression 524386, like 2754, quote 131, reply 1271, retweet 303
+    
+    > The wallet is ready, and I’m starting to buy meme coins. Whether I win or lose, I hope everyone understands. 🥹 NFA
+    
+
+
+---
+
+## 2025-03-22 · Post · [pic.x.com/jza1rwqRQy] https://twitter.com/rainbowdotme/status/1903095966913143185
+
+
+### Post — @samczsun — 2025-03-22 21:46 UTC (2025-03-22 22:46 WAT)
+
+- URL: https://x.com/samczsun/status/1903563879109845182
+- Metrics (at fetch): bookmark 10, impression 21077, like 300, quote 0, reply 9, retweet 0
+
+> [pic.x.com/jza1rwqRQy] https://twitter.com/rainbowdotme/status/1903095966913143185
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmrRQkdaEAAaia6.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/rainbowdotme/status/1903095966913143185
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1103191459409420288 — 2025-03-21 14:46 UTC (2025-03-21 15:46 WAT)
+    
+    - URL: https://x.com/1103191459409420288/status/1903095966913143185
+    - Metrics (at fetch): bookmark 169, impression 314656, like 891, quote 61, reply 105, retweet 120
+    
+    > Rainbow Token Launcher is live!
+    >
+    > ✨ Update your Rainbow app NOW! ✨
+    >
+    > How does it work?
+    > ⛓️ Launch your own tokens on your favorite EVM chains.
+    > 🎁 Built-in tool for airdropping your token to friends &amp; communities
+    > 🏆 Win together and make crypto fun again!
+    >
+    > Let’s break it down 👇 [pic.x.com/jIPtJAjWKd]
+    
+    **Media:**
+    - media `7_1902814004780920832` (details not returned by the API)
+    
+
+
+---
+
+## 2025-03-20 · Post · top signal for base i fear https://twitter.com/Caitlyn_Jenner/status/1902855648532107526
+
+
+### Post — @samczsun — 2025-03-20 23:39 UTC (2025-03-21 00:39 WAT)
+
+- URL: https://x.com/samczsun/status/1902867598888538626
+- Metrics (at fetch): bookmark 5, impression 13680, like 201, quote 0, reply 8, retweet 0
+
+> top signal for base i fear https://twitter.com/Caitlyn_Jenner/status/1902855648532107526
+
+**Links in post:** https://twitter.com/Caitlyn_Jenner/status/1902855648532107526
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3303293865 — 2025-03-20 22:51 UTC (2025-03-20 23:51 WAT)
+    
+    - URL: https://x.com/3303293865/status/1902855648532107526
+    - Metrics (at fetch): bookmark 114, impression 542754, like 2546, quote 254, reply 1004, retweet 258
+    
+    > Wow @base took one day to win my heart, sorry @solana
+    
+
+
+---
+
+## 2025-03-18 · Post · [pic.x.com/utwIUerZtt] https://twitter.com/samczsun/status/1901764865435619630
+
+
+### Post — @samczsun — 2025-03-18 04:48 UTC (2025-03-18 05:48 WAT)
+
+- URL: https://x.com/samczsun/status/1901858247189106708
+- Metrics (at fetch): bookmark 4, impression 9808, like 54, quote 0, reply 6, retweet 0
+
+> [pic.x.com/utwIUerZtt] https://twitter.com/samczsun/status/1901764865435619630
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmTB_BEaMAEQjrf.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/samczsun/status/1901764865435619630
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2025-03-17 22:37 UTC (2025-03-17 23:37 WAT)
+    
+    - URL: https://x.com/samczsun/status/1901764865435619630
+    - Metrics (at fetch): bookmark 4, impression 18495, like 214, quote 1, reply 10, retweet 0
+    
+    > "time to accelerate" [pic.x.com/DEcix51CKK] https://twitter.com/solana/status/1901675230868758895
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GmRtEVbb0AABSiF.jpg — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/solana/status/1901675230868758895
+    
+    **Quoted post** 1901675230868758895: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-03-17 · Post · "time to accelerate" [pic.x.com/DEcix51CKK] https://twitter.com/solana/status/1901675230868758895
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2025-03-17 22:37 UTC (2025-03-17 23:37 WAT)
+
+- URL: https://x.com/samczsun/status/1901764865435619630
+- Metrics (at fetch): bookmark 4, impression 18495, like 214, quote 1, reply 10, retweet 0
+
+> "time to accelerate" [pic.x.com/DEcix51CKK] https://twitter.com/solana/status/1901675230868758895
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GmRtEVbb0AABSiF.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/solana/status/1901675230868758895
+
+**Quoted post** 1901675230868758895: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-03-11 · Post · i am begging the base team to have a little self respect and not turn their chain into bsc but with 
+
+
+### Post — @samczsun — 2025-03-11 03:36 UTC (2025-03-11 04:36 WAT)
+
+- URL: https://x.com/samczsun/status/1899303316599029903
+- Metrics (at fetch): bookmark 12, impression 25529, like 475, quote 0, reply 19, retweet 1
+
+> i am begging the base team to have a little self respect and not turn their chain into bsc but with eagle noises https://twitter.com/base/status/1899186780290846870
+
+**Links in post:** https://twitter.com/base/status/1899186780290846870
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1628067904083181570 — 2025-03-10 19:53 UTC (2025-03-10 20:53 WAT)
+    
+    - URL: https://x.com/1628067904083181570/status/1899186780290846870
+    - Metrics (at fetch): bookmark 384, impression 1345251, like 2544, quote 307, reply 638, retweet 627
+    
+    > icymi, @grok launched a token on Base
+    >
+    > thanks to @bankrbot and Clanker’s trading mechanisms, Grok’s AI-controlled wallet is already stacking fees ($200K+ and counting)
+    >
+    > why does it matter? AI is owning wallets, making markets, and generating revenue.
+    >
+    > welcome to the future.
+    
+
+
+---
+
+## 2025-03-06 · Post · does anyone know how to get telegram accounts unrestricted so @Fives_275555 can actually message peo
+
+
+### Post — @samczsun — 2025-03-06 03:05 UTC (2025-03-06 04:05 WAT)
+
+- URL: https://x.com/samczsun/status/1897483684196049121
+- Metrics (at fetch): bookmark 0, impression 6954, like 10, quote 0, reply 6, retweet 1
+
+> does anyone know how to get telegram accounts unrestricted so @Fives_275555 can actually message people again
+
+
+---
+
+## 2025-03-04 · Post · imagine if trump drops another memecoin during the summit this friday
+
+
+### Post — @samczsun — 2025-03-04 20:30 UTC (2025-03-04 21:30 WAT)
+
+- URL: https://x.com/samczsun/status/1897021809817751966
+- Metrics (at fetch): bookmark 2, impression 15366, like 212, quote 0, reply 30, retweet 7
+
+> imagine if trump drops another memecoin during the summit this friday
+
+
+---
+
+## 2025-02-25 · Post · "show me the incentives and ill show you the outcome"
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2025-02-25 04:01 UTC (2025-02-25 05:01 WAT)
+
+- URL: https://x.com/samczsun/status/1894236236262351219
+- Metrics (at fetch): bookmark 3, impression 7401, like 14, quote 0, reply 11, retweet 3
+
+> "show me the incentives and ill show you the outcome"
+>
+> if solana is going to continue being the face of consumer crypto, then its way past time for community leaders to start steering the ship in the right direction. abdicating responsibility is not an acceptable answer https://t.co/35V4mo0AXU https://t.co/0W5NdqVJbA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkmsjHDXUAA46Wf.png — no alt text provided by author
+
+**Quoted post** 1894232755812135385: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-02-25 · Post · maybe its just me but i think when over 85% of your chain's volume is literally just money launderin
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2025-02-25 02:22 UTC (2025-02-25 03:22 WAT)
+
+- URL: https://x.com/samczsun/status/1894211315675123897
+- Metrics (at fetch): bookmark 38, impression 66933, like 295, quote 5, reply 23, retweet 19
+
+> maybe its just me but i think when over 85% of your chain's volume is literally just money laundering for kim jong un then maybe the validators want to consider doing something before ofac smacks the entire thing with one giant sanction https://t.co/4t1hCCnqOE https://t.co/c0s76SgBXB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkmXJpybkAEwN5l.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @111533746 — 2025-02-25 01:15 UTC (2025-02-25 02:15 WAT)
+    
+    - URL: https://x.com/111533746/status/1894194423535472655
+    - Metrics (at fetch): bookmark 26, impression 145815, like 160, quote 20, reply 23, retweet 17
+    
+    > Bybit hackers have laundered 89,500 ETH (worth about $224 million) in the past 2.5 days, accounting for 18% of the total amount of ETH stolen (499,000), according to @EmberCN. Hhackers expect to be able to exchange the remaining 410,000 ETH into other assets (such as BTC, DAI, https://t.co/busz8Ujilj
+    
+    **Quoted post** 1894193036873404436: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2025-02-19 · Post · this entire industry is caught in a tragedy of the commons and if we cant collectively agree on what
+
+
+### Post — @samczsun — 2025-02-19 01:35 UTC (2025-02-19 02:35 WAT)
+
+- URL: https://x.com/samczsun/status/1892025180299419796
+- Metrics (at fetch): bookmark 18, impression 44450, like 565, quote 14, reply 44, retweet 45
+
+> this entire industry is caught in a tragedy of the commons and if we cant collectively agree on what is socially unacceptable and how to sanction that behavior, theres not gonna be an industry to build in real soon. you might have market dominance but even 100% of 0 is still 0
+
+
+---
+
+## 2025-02-18 · Post · imo, at this point it doesnt matter if youre a user, dev, vc, trader, influencer, or anything else. 
+
+
+### Post — @samczsun — 2025-02-18 05:14 UTC (2025-02-18 06:14 WAT)
+
+- URL: https://x.com/samczsun/status/1891717863565897997
+- Metrics (at fetch): bookmark 99, impression 198075, like 2006, quote 59, reply 136, retweet 292
+
+> imo, at this point it doesnt matter if youre a user, dev, vc, trader, influencer, or anything else. as long as your plan isnt to max extract and leave, then one of your main priorities should be working together to purge the people who are dragging our reputation through the mud
+
+
+---
+
+## 2025-02-18 · Post · the fact that he got an offer to tweet some random crypto memecoin and went "yeah that'll probably f
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2025-02-18 02:07 UTC (2025-02-18 03:07 WAT)
+
+- URL: https://x.com/samczsun/status/1891670742674088268
+- Metrics (at fetch): bookmark 1, impression 5567, like 52, quote 1, reply 10, retweet 2
+
+> the fact that he got an offer to tweet some random crypto memecoin and went "yeah that'll probably fly with the crypto crowd, risk/reward worth it" means we fucked up somewhere. industry reputation in shambles if this is how everyone thinks of us. time for onchain jail https://t.co/9f6eSB2kfD
+
+**Quoted post** 1891655763455627488: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-02-17 · Post · heres another really simple idea (h/t @uriklarman)
+
+
+### Post — @samczsun — 2025-02-17 22:00 UTC (2025-02-17 23:00 WAT)
+
+- URL: https://x.com/samczsun/status/1891608713972142282
+- Metrics (at fetch): bookmark 9, impression 10329, like 49, quote 2, reply 12, retweet 3
+
+> heres another really simple idea (h/t @uriklarman)
+>
+> frontends (dexes, tg bots, etc) can introduce an option for "show known hacks" that defaults to no. sensible defaults matter, and surely the goal of the frontend is to help users make informed decisions, right?
+
+
+---
+
+## 2025-02-17 · Post · why is the only solution "just keep building"? when crime happens in real life, society isnt like "o
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2025-02-17 17:50 UTC (2025-02-17 18:50 WAT)
+
+- URL: https://x.com/samczsun/status/1891545881406496843
+- Metrics (at fetch): bookmark 58, impression 89479, like 461, quote 10, reply 48, retweet 22
+
+> why is the only solution "just keep building"? when crime happens in real life, society isnt like "oh man that really sucks but hey the victims are actually super into it and shaming the criminals just gives them more attention, just keep building lol"
+>
+> time for onchain jail https://t.co/GgdXMBY68q
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mert — 2025-02-17 07:18 UTC (2025-02-17 08:18 WAT)
+    
+    - URL: https://x.com/mert/status/1891386627928514786
+    - Metrics (at fetch): bookmark 73, impression 387161, like 483, quote 24, reply 88, retweet 48
+    
+    > this is what people don't get
+    >
+    > "just hold grifters accountable"
+    >
+    > brother, these mfers are shunned constantly — in fact, many of the same ppl doing it this cycle were the same ones relentlessly shamed from the last NFT cycle
+    >
+    > this does not work, because as cobie says you can't https://t.co/gAKBDPbRQz
+    
+    **Media:**
+    - media `3_1891382783886688256` (details not returned by the API)
+    
+
+
+---
+
+## 2025-02-17 · Post · "no way to prevent this", says only industry where this regularly happens https://t.co/Ao9xbmtrcm
+
+
+### Post — @samczsun — 2025-02-17 02:13 UTC (2025-02-17 03:13 WAT)
+
+- URL: https://x.com/samczsun/status/1891309868885119144
+- Metrics (at fetch): bookmark 5, impression 19120, like 103, quote 1, reply 19, retweet 6
+
+> "no way to prevent this", says only industry where this regularly happens https://t.co/Ao9xbmtrcm
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1420846776958005251 — 2025-02-17 02:08 UTC (2025-02-17 03:08 WAT)
+    
+    - URL: https://x.com/1420846776958005251/status/1891308734812414188
+    - Metrics (at fetch): bookmark 2, impression 26887, like 18, quote 1, reply 6, retweet 0
+    
+    > @cobie @samczsun @toly which CA? https://t.co/AKzc67yv29
+    
+    **Media:**
+    - media `3_1891308732035850240` (details not returned by the API)
+    
+
+
+---
+
+## 2025-02-17 · Post · heres a really simple idea - the next time a massive account gets hacked and promotes an obvious sca
+
+
+### Post — @samczsun — 2025-02-17 01:23 UTC (2025-02-17 02:23 WAT)
+
+- URL: https://x.com/samczsun/status/1891297474318397611
+- Metrics (at fetch): bookmark 7, impression 39648, like 134, quote 7, reply 26, retweet 4
+
+> heres a really simple idea - the next time a massive account gets hacked and promotes an obvious scam, maybe the frontend should manually delist the scam? surely there could be no objections to this, unless the goal is to enable people to gamble at the casino? https://t.co/QJ2SjX0Ihv
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2259434528 — 2025-02-17 01:02 UTC (2025-02-17 02:02 WAT)
+    
+    - URL: https://x.com/2259434528/status/1891292154036916354
+    - Metrics (at fetch): bookmark 266, impression 333581, like 2284, quote 61, reply 105, retweet 264
+    
+    > @samczsun @toly The main new development is that market participants are now moth-like. They actively rush into these scams, mostly knowing that they are scams, because the goal is to flip the scam for a 3x to somebody else. 
+    >
+    > There is no skepticism left for these buyers, they just want to hit a
+    
+
+
+---
+
+## 2025-02-16 · Post · is the social layer even capable of holding people accountable?
+
+
+### Post — @samczsun — 2025-02-16 20:56 UTC (2025-02-16 21:56 WAT)
+
+- URL: https://x.com/samczsun/status/1891230256364732607
+- Metrics (at fetch): bookmark 192, impression 430483, like 897, quote 59, reply 137, retweet 41
+
+> is the social layer even capable of holding people accountable?
+
+
+---
+
+## 2025-02-16 · Post · even if the original vision of memecoins was good, its hard to believe anyone can argue in good fait
+
+
+### Post — @samczsun — 2025-02-16 00:29 UTC (2025-02-16 01:29 WAT)
+
+- URL: https://x.com/samczsun/status/1890921411331432508
+- Metrics (at fetch): bookmark 59, impression 88053, like 1022, quote 34, reply 94, retweet 93
+
+> even if the original vision of memecoins was good, its hard to believe anyone can argue in good faith that the current meta is anything but negative sum. memecoins are a wildfire burning through our industry, and if we dont want to be left with only ashes then it's time to act
+
+
+---
+
+## 2025-02-01 · Post · does anyone know if there are still people who work at x dot com that can help lock/recover compromi
+
+
+### Post — @samczsun — 2025-02-01 09:39 UTC (2025-02-01 10:39 WAT)
+
+- URL: https://x.com/samczsun/status/1885623914807865647
+- Metrics (at fetch): bookmark 4, impression 14716, like 104, quote 2, reply 26, retweet 9
+
+> does anyone know if there are still people who work at x dot com that can help lock/recover compromised accounts? current trend of high profile hacks is pretty concerning!
+
+
+---
+
+## 2025-01-25 · Post · guys is his account hacked im not sure [pic.x.com/Az0S5KHndY] https://twitter.com/deanjnorris/status
+
+
+### Post — @samczsun — 2025-01-25 17:37 UTC (2025-01-25 18:37 WAT)
+
+- URL: https://x.com/samczsun/status/1883207672708911187
+- Metrics (at fetch): bookmark 2, impression 15185, like 55, quote 2, reply 9, retweet 2
+
+> guys is his account hacked im not sure [pic.x.com/Az0S5KHndY] https://twitter.com/deanjnorris/status/1883017493356429511
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GiJ_ZRNbgAAk7rA.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/deanjnorris/status/1883017493356429511
+
+**Quoted post** 1883017493356429511: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2025-01-25 · Post · you've gotta be kidding me [pic.x.com/UgkizdvFIN] https://twitter.com/samczsun/status/18827948785870
+
+
+### Post — @samczsun — 2025-01-25 04:48 UTC (2025-01-25 05:48 WAT)
+
+- URL: https://x.com/samczsun/status/1883014046410318133
+- Metrics (at fetch): bookmark 1, impression 13553, like 52, quote 1, reply 8, retweet 1
+
+> you've gotta be kidding me [pic.x.com/UgkizdvFIN] https://twitter.com/samczsun/status/1882794878587052339
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GiHPSrebQAAU6fD.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/samczsun/status/1882794878587052339
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2025-01-24 14:17 UTC (2025-01-24 15:17 WAT)
+    
+    - URL: https://x.com/samczsun/status/1882794878587052339
+    - Metrics (at fetch): bookmark 8, impression 31452, like 254, quote 5, reply 18, retweet 17
+    
+    > im so tired boss [pic.x.com/DeFRmfJK9j]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GiEH9w-aIAA5r_-.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2025-01-24 · Post · im so tired boss [pic.x.com/DeFRmfJK9j]
+
+
+### Post — @samczsun — 2025-01-24 14:17 UTC (2025-01-24 15:17 WAT)
+
+- URL: https://x.com/samczsun/status/1882794878587052339
+- Metrics (at fetch): bookmark 8, impression 31452, like 254, quote 5, reply 18, retweet 17
+
+> im so tired boss [pic.x.com/DeFRmfJK9j]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GiEH9w-aIAA5r_-.jpg — no alt text provided by author
+
+
+---
+
+## 2024-12-23 · Post · despite having spent multiple years in service of this industry without asking for anything in retur
+
+
+### Post — @samczsun — 2024-12-23 05:15 UTC (2024-12-23 06:15 WAT)
+
+- URL: https://x.com/samczsun/status/1871061990212501509
+- Metrics (at fetch): bookmark 66, impression 167599, like 1074, quote 9, reply 50, retweet 65
+
+> despite having spent multiple years in service of this industry without asking for anything in return, tay is getting lambasted for this tweet because the price *checks notes* had already been falling for 12.5 hours and continued to fall after the tweet. super upsetting to see https://twitter.com/tayvano_/status/1870960207842701358
+
+**Links in post:** https://twitter.com/tayvano_/status/1870960207842701358
+
+**Quoted post (full text):**
+
+    #### Quoted post — @19748227 — 2024-12-22 22:30 UTC (2024-12-22 23:30 WAT)
+    
+    - URL: https://x.com/19748227/status/1870960207842701358
+    - Metrics (at fetch): bookmark 629, impression 2151449, like 2090, quote 304, reply 167, retweet 171
+    
+    > DPRK's trading career is...uh....going.....🙈
+    >
+    > tbh if i was the dude managing Hyperliquid's 4 validators (or those fucking ghetto ass binaries on gh) I would be shitting my pants right now.
+    >
+    > Hyperliquid dudes dont seem worried at all though so im sure its fine. 🫠 [pic.x.com/JrrU7t1sJe]
+    
+    **Media:**
+    - media `3_1870955480836943872` (details not returned by the API)
+    
+
+
+---
+
+## 2024-12-16 · Post · If you're gonna get sent to zero, at least let it be because you bought the wrong coin, not because 
+
+
+### Post — @samczsun — 2024-12-16 23:58 UTC (2024-12-17 00:58 WAT)
+
+- URL: https://x.com/samczsun/status/1868808056194392153
+- Metrics (at fetch): bookmark 5, impression 16081, like 116, quote 0, reply 8, retweet 9
+
+> If you're gonna get sent to zero, at least let it be because you bought the wrong coin, not because of some hacker halfway around the world https://twitter.com/_SEAL_Org/status/1868805837311074576
+
+**Links in post:** https://twitter.com/_SEAL_Org/status/1868805837311074576
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1756434947202748416 — 2024-12-16 23:50 UTC (2024-12-17 00:50 WAT)
+    
+    - URL: https://x.com/1756434947202748416/status/1868805837311074576
+    - Metrics (at fetch): bookmark 83, impression 123493, like 347, quote 42, reply 13, retweet 154
+    
+    > ⚠️ Reminder that if you ever stored your private keys or seed phrases in LastPass prior to 2023, your funds might be at risk. We've seen 15+ cases of potential LastPass-related hacks TODAY
+    >
+    > Move your assets before hackers move them for you. For more information, keep reading🧵
+    
+
+
+---
+
+## 2024-12-13 · Post · Anyone interested in doing malware analysis research (primarily JavaScript) with me at @_SEAL_Org? D
+
+
+### Post — @samczsun — 2024-12-13 23:26 UTC (2024-12-14 00:26 WAT)
+
+- URL: https://x.com/samczsun/status/1867712610197811572
+- Metrics (at fetch): bookmark 21, impression 32683, like 176, quote 2, reply 16, retweet 20
+
+> Anyone interested in doing malware analysis research (primarily JavaScript) with me at @_SEAL_Org? DMs are open
+
+
+---
+
+## 2024-09-04 · Post · Anyone have friends at @github? Would like to know if they're unhappy with the volume of pull reques
+
+
+### Post — @samczsun — 2024-09-04 17:11 UTC (2024-09-04 18:11 WAT)
+
+- URL: https://x.com/samczsun/status/1831379594680877216
+- Metrics (at fetch): bookmark 7, impression 23418, like 122, quote 2, reply 16, retweet 6
+
+> Anyone have friends at @github? Would like to know if they're unhappy with the volume of pull requests or if this is just automation gone wrong [pic.x.com/tvi1UrkkJ4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWpeCWla8AMmQof.jpg — no alt text provided by author
+
+
+---
+
+## 2024-04-17 · Post · Today, we're launching the latest @_SEAL_Org initiative, and it's going to change crypto security fo
+
+
+### Post — @samczsun — 2024-04-17 13:16 UTC (2024-04-17 14:16 WAT)
+
+- URL: https://x.com/samczsun/status/1780586104506531948
+- Metrics (at fetch): bookmark 145, impression 272292, like 941, quote 68, reply 74, retweet 205
+
+> Today, we're launching the latest @_SEAL_Org initiative, and it's going to change crypto security forever. It's called SEAL-ISAC, and this is why we need it https://t.co/Ra6Vl3jfd3
+
+**Media:**
+- media `3_1780492291226095616` (details not returned by the API)
 
 
 ---
@@ -1557,7 +2920,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2023-08-07 18:09 UTC (2023-08-07 19:09 WAT)
 
 - URL: https://x.com/samczsun/status/1688613385565528064
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 240, impression 333019, like 1014, quote 56, reply 49, retweet 217
 
 > Over the past few days I've been working with a group of whitehats, auditors, and other security leaders to try and solve the hardest part of responsible disclosure: finding the right person to talk to. [pic.x.com/pPjt7D51ZE]
 

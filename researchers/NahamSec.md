@@ -41,3 +41,14 @@ _Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim post
 - **AI hackbot missed a $5,000 bounty** (`AI-assisted hunting`)
   - post: https://x.com/NahamSec/status/2114703602505949692
   - local: `posts/NahamSec/2026-10-26-2114703602505949692.md`
+
+## Daily update 2026-11-17
+
+### "AI found it. Can we fix it?" — PHP2Shell, Node2Shell, KindaRails2Shell, HEIF Heist, XBOW Chrome chain (2026-11-16)
+
+- Post: https://x.com/NahamSec/status/2122326320243769795 — verbatim: [`posts/NahamSec/2026-11-16-2122326320243769795.md`](../posts/NahamSec/2026-11-16-2122326320243769795.md)
+- **Bug class:** Framework-level RCE families found with AI assistance (commentary + video)
+- **Root cause:** Long-standing framework bugs now being found quickly with AI.
+- **How it was found:** Commentary; video https://youtu.be/cbJs1GPIU50 (not transcribed).
+- **Takeaways / harness:** Keep framework RCE checks current from the CVE layer and run them per fingerprinted stack.
+

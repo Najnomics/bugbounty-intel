@@ -1,10 +1,10 @@
 # @osec_io — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 217
-- Conversations/threads: 176
-- Oldest post captured: 2022-03-23
+- Posts in this file: 384
+- Conversations/threads: 343
+- Oldest post captured: 2022-02-09
 - Newest post captured: 2026-11-05
 
 
@@ -2578,7 +2578,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     #### Quoted post — @trailofbits — 2024-01-29 23:21 UTC (2024-01-30 00:21 WAT)
     
     - URL: https://x.com/trailofbits/status/1752109824282910869
-    - Metrics (at fetch): bookmark 13, impression 87160, like 170, quote 14, reply 8, retweet 37
+    - Metrics (at fetch): bookmark 13, impression 87162, like 170, quote 14, reply 8, retweet 37
     
     > Warning: @lfgexchange  is falsely claiming to have worked with us on an audit. The report on their page is fake. If you want to verify the authenticity of a @trailofbits report, find it on our publications repo, the authoritative source straight from us. https://github.com/trailofbits/publications?tab=readme-ov-file#security-reviews [pic.x.com/c2sT5xM1T1]
     
@@ -3278,6 +3278,99 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2023-10-21 · Post · The challenges are now live! Good luck everyone! https://t.co/uFIDLk5dON
+
+
+### Post — @osec_io — 2023-10-21 11:27 UTC (2023-10-21 12:27 WAT)
+
+- URL: https://x.com/osec_io/status/1715691265612755364
+- Metrics (at fetch): bookmark 0, impression 2436, like 8, quote 0, reply 0, retweet 2
+
+> The challenges are now live! Good luck everyone! https://t.co/uFIDLk5dON
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1627678640036249600 — 2023-10-20 18:03 UTC (2023-10-20 19:03 WAT)
+    
+    - URL: https://x.com/1627678640036249600/status/1715428663611867295
+    - Metrics (at fetch): bookmark 1, impression 7874, like 23, quote 2, reply 4, retweet 8
+    
+    > 🕥 Less than 12hours to go for the QuillCTF Dubai at 10AM IST.
+    >
+    > 📕 This will comprise of 7 challenges in 24 hours that you can solve in teams or solo!
+    >
+    > See you at the games.👋
+    >
+    > 🖊️Link to challenges: https://t.co/BZnYXQOTld https://t.co/9rkjJx3fiu
+    
+    **Media:**
+    - media `3_1715428652685414400` (details not returned by the API)
+    
+
+
+---
+
+## 2023-10-18 · Post · OtterSec is proud to support the Cypher team as they embark on the next chapter of their journey! ht
+
+
+### Post — @osec_io — 2023-10-18 19:06 UTC (2023-10-18 20:06 WAT)
+
+- URL: https://x.com/osec_io/status/1714719544814559317
+- Metrics (at fetch): bookmark 0, impression 4792, like 27, quote 1, reply 2, retweet 9
+
+> OtterSec is proud to support the Cypher team as they embark on the next chapter of their journey! https://t.co/iWm2JRoWeg
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1298453554500255745 — 2023-10-18 18:38 UTC (2023-10-18 19:38 WAT)
+    
+    - URL: https://x.com/1298453554500255745/status/1714712633952358548
+    - Metrics (at fetch): bookmark 2, impression 16969, like 75, quote 3, reply 7, retweet 24
+    
+    > The time is here
+    >
+    > The IDO is around the corner
+    >
+    > Lets dive in to how the IDO will be conducted
+    >
+    > cypher will use a liquidity bootstrapping curve (LBC) from @ArmadaFi
+    >
+    > Why?
+    >
+    > Dynamic Price Discovery: The LBC ensures a gradual &amp; organic valuation. The market will find its rightful https://t.co/0Up2hmElxX https://t.co/UQObX4qqfZ
+    
+    **Media:**
+    - media `3_1714712611051499520` (details not returned by the API)
+    - media `3_1714712611038916609` (details not returned by the API)
+    
+    **Quoted post** 1714375673639313413: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-10-13 · Post · Time well spent at the @encodeclub job fair!
+
+
+### Post — @osec_io — 2023-10-13 18:33 UTC (2023-10-13 19:33 WAT)
+
+- URL: https://x.com/osec_io/status/1712899398802256364
+- Metrics (at fetch): bookmark 0, impression 2055, like 18, quote 0, reply 1, retweet 7
+
+> Time well spent at the @encodeclub job fair!
+>
+> Thanks to everyone who stopped by and expressed their interest in working for us.
+>
+> We will be reviewing applications over the next few weeks! 🫡🦦 https://t.co/ep3RCtoCXG
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F8Vv10CX0AAPLY0.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F8VwNHqXwAANdd7.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F8VwxPwWoAAs0Jj.jpg — no alt text provided by author
+
+
+---
+
 ## 2023-10-06 · Post · ICYMI: On Wednesday's spaces, we talked about how our CEO @notdeghost, in partnership with @rimeissn
 
 
@@ -3287,12 +3380,76 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2023-10-06 16:00 UTC (2023-10-06 17:00 WAT)
 
 - URL: https://x.com/osec_io/status/1710324145911984284
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 3879, like 28, quote 0, reply 1, retweet 8
 
 > ICYMI: On Wednesday's spaces, we talked about how our CEO @notdeghost, in partnership with @rimeissner, @AckeeBlockchain, @HatsFinance, @chain_security, and @OpenZeppelin introduced ERC-7512 in response to the critical need for onchain access and verification of audits. [pic.x.com/2V03PNVzOR]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F7xKvsCbEAAvbBm.png — no alt text provided by author
+
+
+---
+
+## 2023-09-27 · Post · Join us in a couple hours to discuss the use and security of MetaMask snaps!
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-09-27 13:56 UTC (2023-09-27 14:56 WAT)
+
+- URL: https://x.com/osec_io/status/1707031396349329471
+- Metrics (at fetch): bookmark 0, impression 2073, like 10, quote 0, reply 1, retweet 5
+
+> Join us in a couple hours to discuss the use and security of MetaMask snaps!
+>
+> Speakers include @MetaMask @DriftProtocol, @agoric, @DeanTribble, @CosmosAVAX, @sunnya97,  @Levana_protocol, @GoGoPool_, and more!
+>
+> https://t.co/ac9ijEoidc https://t.co/UNvNYTdk4i
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1478967783207677952 — 2023-09-26 18:58 UTC (2023-09-26 19:58 WAT)
+    
+    - URL: https://x.com/1478967783207677952/status/1706745170580918578
+    - Metrics (at fetch): bookmark 2, impression 18769, like 20, quote 4, reply 2, retweet 6
+    
+    > 💥MEGA SPACE LOADING💥
+    >
+    > TOMORROW (9/27) at 12PM EDT/4PM UTC
+    >
+    > Tune in to hear some of the industry leaders speak about how the future of blockchain is unified, and how innovations like MetaMask Snaps and IBC are accomplishing this vision🌐
+    >
+    > https://t.co/kutdUU29Jq https://t.co/HtLaJbtCIg
+    
+    **Media:**
+    - media `3_1706745166583808000` (details not returned by the API)
+    
+
+
+---
+
+## 2023-09-26 · Post · Head of Accounts, @cuffyCapital, presenting on the importance of Formal Verification for @StellarOrg
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2023-09-26 11:56 UTC (2023-09-26 12:56 WAT)
+
+- URL: https://x.com/osec_io/status/1706638855481245722
+- Metrics (at fetch): bookmark 2, impression 12715, like 72, quote 4, reply 2, retweet 16
+
+> Head of Accounts, @cuffyCapital, presenting on the importance of Formal Verification for @StellarOrg. 
+>
+> We are excited to make @SorobanOfficial a more secure place to develop smart contracts!
+>
+> #Meridian2023 #StellarSocialClub https://t.co/VQ7yj5bD8s
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F68y-9wWYAAVXxE.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F68y-9hWoAAtkDX.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/F68y-9jWQAAeVZa.jpg — no alt text provided by author
 
 
 ---
@@ -3303,7 +3460,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2023-08-23 20:09 UTC (2023-08-23 21:09 WAT)
 
 - URL: https://x.com/osec_io/status/1694441788465877455
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 11787, like 79, quote 1, reply 6, retweet 20
 
 > 🚨Announcement🚨
 >
@@ -3317,6 +3474,26 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2023-08-17 · Post · PSA: Web3 is plagued by the same bugs that threatened the internet over 2 decades ago.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-08-17 17:00 UTC (2023-08-17 18:00 WAT)
+
+- URL: https://x.com/osec_io/status/1692219783989879034
+- Metrics (at fetch): bookmark 7, impression 5196, like 38, quote 0, reply 0, retweet 9
+
+> PSA: Web3 is plagued by the same bugs that threatened the internet over 2 decades ago.
+>
+> We compiled 3 case studies on how "old" bugs continue to reappear in the new era of decentralization and blockchain.
+>
+> Check out the deep dive here 👉🏼 https://t.co/EGF5EFu9Rw
+
+
+---
+
 ## 2023-08-03 · Post · We find individuals like this highly intelligent for understanding where the real importance of bloc
 
 
@@ -3326,7 +3503,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2023-08-03 20:22 UTC (2023-08-03 21:22 WAT)
 
 - URL: https://x.com/osec_io/status/1687197389575311361
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 3446, like 22, quote 0, reply 1, retweet 4
 
 > We find individuals like this highly intelligent for understanding where the real importance of blockchain security resides.
 >
@@ -3339,7 +3516,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     #### Quoted post — @1105891150995562496 — 2023-07-31 18:08 UTC (2023-07-31 19:08 WAT)
     
     - URL: https://x.com/1105891150995562496/status/1686076266946969617
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 2, impression 4802, like 5, quote 2, reply 0, retweet 0
     
     > Smart contract auditing receives a majority of the attention on crypto Twitter, but the top Security researchers are focused on securing the entire Blockchain ecosystem.
     >
@@ -3355,6 +3532,120 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 ---
 
+## 2023-07-28 · Post · What does "memory-safe" actually do?  
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2023-07-28 16:35 UTC (2023-07-28 17:35 WAT)
+
+- URL: https://x.com/osec_io/status/1684965702686449676
+- Metrics (at fetch): bookmark 15, impression 6494, like 49, quote 1, reply 0, retweet 12
+
+> What does "memory-safe" actually do?  
+>
+> Join us on an exploration into the Solidity compilation pipeline, optimization assumptions, and how it all relates to "memory-safe" assembly 🦦 
+>
+>  https://t.co/uyAHOrH30B
+
+
+---
+
+## 2023-07-20 · Post · Excited to be an active participant in @UniswapFND governance. We look forward to pushing for Uniswa
+
+
+### Post — @osec_io — 2023-07-20 23:00 UTC (2023-07-21 00:00 WAT)
+
+- URL: https://x.com/osec_io/status/1682163537676845057
+- Metrics (at fetch): bookmark 0, impression 2862, like 7, quote 0, reply 1, retweet 2
+
+> Excited to be an active participant in @UniswapFND governance. We look forward to pushing for Uniswap's continued long-term security and resilience. https://t.co/eVFILcGY7t
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1507518811523584000 — 2023-07-20 15:31 UTC (2023-07-20 16:31 WAT)
+    
+    - URL: https://x.com/1507518811523584000/status/1682050661700042752
+    - Metrics (at fetch): bookmark 1, impression 7157, like 21, quote 2, reply 1, retweet 2
+    
+    > Below are the individual delegates and their respective UNI allocations from @a16zcrypto:
+    >
+    > 1. @PGovTeam - 250,000 UNI
+    > 2. @404DAO - 250,000 UNI
+    > 3. @blockworks - 250,000 UNI
+    > 4. @guil_lambert - 500,000 UNI
+    > 5. @NathanVDH0x - 250,000 UNI
+    > 6. @osec_io - 250,000 UNI
+    > 7. @l2beat - 250,000
+    
+
+
+---
+
+## 2023-07-18 · Post · Thank you to everyone who attended last night! 
+
+
+### Post — @osec_io — 2023-07-18 08:11 UTC (2023-07-18 09:11 WAT)
+
+- URL: https://x.com/osec_io/status/1681215023778021377
+- Metrics (at fetch): bookmark 0, impression 3439, like 16, quote 0, reply 0, retweet 5
+
+> Thank you to everyone who attended last night! 
+>
+> It’s always great to cosponsor with hard working teams like @MinaProtocol and @elusivprivacy. https://t.co/XoMpE0wmJy
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1479048649661464581 — 2023-07-17 13:00 UTC (2023-07-17 14:00 WAT)
+    
+    - URL: https://x.com/1479048649661464581/status/1680925449331916801
+    - Metrics (at fetch): bookmark 1, impression 7722, like 29, quote 3, reply 0, retweet 5
+    
+    > Trying to figure out evening plans after Day 1 of @EthCC? 😎
+    >
+    > Join us in a few hours for food, drinks, and chats about ZK alongside @osec_io,@MinaProtocol, and @o1_labs.
+    >
+    > Make sure to register asap as space is limited. See you there! ☂️🍻👇
+    >
+    > https://t.co/E1AL9QT4ky
+    
+
+
+---
+
+## 2023-07-17 · Post · We’re joining forces with @encodeclub to find our next OtterSec team member!
+
+
+### Post — @osec_io — 2023-07-17 20:18 UTC (2023-07-17 21:18 WAT)
+
+- URL: https://x.com/osec_io/status/1681035576663764993
+- Metrics (at fetch): bookmark 0, impression 3108, like 27, quote 0, reply 0, retweet 2
+
+> We’re joining forces with @encodeclub to find our next OtterSec team member!
+>
+> Check out our four open roles below and get ready to embark on an exciting journey with us 🦦🙏 https://t.co/wHUzWK51R2
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1052564653929353218 — 2023-07-17 16:00 UTC (2023-07-17 17:00 WAT)
+    
+    - URL: https://x.com/1052564653929353218/status/1680970687786151939
+    - Metrics (at fetch): bookmark 2, impression 4197, like 6, quote 1, reply 2, retweet 2
+    
+    > Exciting news! 🎉 We’re partnering with @osec_io to connect our community to one of the best in security.
+    >
+    > We’re thrilled to support them in building their world-class team!
+    >
+    > Click, explore, and apply 👉 https://t.co/PGNO8bHSml https://t.co/KIUPg2XGzT
+    
+    **Media:**
+    - media `3_1680960305839390721` (details not returned by the API)
+    
+
+
+---
+
 ## 2023-07-16 · Post · Yes, we audit Solidity 🦦 https://twitter.com/cuffyCapital/status/1680529680410071044
 
 
@@ -3364,7 +3655,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @osec_io — 2023-07-16 11:27 UTC (2023-07-16 12:27 WAT)
 
 - URL: https://x.com/osec_io/status/1680539647217135616
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 2829, like 11, quote 0, reply 0, retweet 0
 
 > Yes, we audit Solidity 🦦 https://twitter.com/cuffyCapital/status/1680529680410071044
 
@@ -3375,19 +3666,234 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2023-07-12 · Post · https://t.co/b71Tel4ho5
+
+
+### Post — @osec_io — 2023-07-12 19:00 UTC (2023-07-12 20:00 WAT)
+
+- URL: https://x.com/osec_io/status/1679204031040745478
+- Metrics (at fetch): bookmark 3, impression 3387, like 10, quote 0, reply 3, retweet 3
+
+> https://t.co/b71Tel4ho5
+
+
+---
+
+## 2023-07-12 · Post · Excited to have @MeteoraAG and @heliuslabs join us as well. Join us in 45 minutes while Solana DeFi 
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-07-12 18:14 UTC (2023-07-12 19:14 WAT)
+
+- URL: https://x.com/osec_io/status/1679192408704024595
+- Metrics (at fetch): bookmark 0, impression 3317, like 9, quote 0, reply 0, retweet 3
+
+> Excited to have @MeteoraAG and @heliuslabs join us as well. Join us in 45 minutes while Solana DeFi makes it return with record TVL in 2023 🦦💰 https://t.co/I3fTvRhDZl
+
+**Quoted post (full text):**
+
+    #### Quoted post — @osec_io — 2023-07-11 02:13 UTC (2023-07-11 03:13 WAT)
+    
+    - URL: https://x.com/osec_io/status/1678588166616371200
+    - Metrics (at fetch): bookmark 2, impression 16038, like 50, quote 3, reply 4, retweet 14
+    
+    > 🚨Otters On-Chain: Episode 07🚨
+    >
+    > 💰Solana DeFi Edition: @DriftProtocol, @marginfi, @cypher_protocol, @jito_labs, and more💰
+    >
+    > Drop everything you’re doing and start providing liquidity💦
+    >
+    > July 12th at 3PM EST [pic.x.com/5EORtoWT9F]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/F0uK_i8XsAImgPD.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2023-07-11 · Post · 🚨Otters On-Chain: Episode 07🚨
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-07-11 02:13 UTC (2023-07-11 03:13 WAT)
+
+- URL: https://x.com/osec_io/status/1678588166616371200
+- Metrics (at fetch): bookmark 2, impression 16038, like 50, quote 3, reply 4, retweet 14
+
+> 🚨Otters On-Chain: Episode 07🚨
+>
+> 💰Solana DeFi Edition: @DriftProtocol, @marginfi, @cypher_protocol, @jito_labs, and more💰
+>
+> Drop everything you’re doing and start providing liquidity💦
+>
+> July 12th at 3PM EST [pic.x.com/5EORtoWT9F]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0uK_i8XsAImgPD.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-10 · Post · probably nothing https://twitter.com/marginfi/status/1677417307117633539
+
+
+### Post — @osec_io — 2023-07-10 00:35 UTC (2023-07-10 01:35 WAT)
+
+- URL: https://x.com/osec_io/status/1678201324419047425
+- Metrics (at fetch): bookmark 1, impression 4270, like 13, quote 0, reply 1, retweet 1
+
+> probably nothing https://twitter.com/marginfi/status/1677417307117633539
+
+**Links in post:** https://twitter.com/marginfi/status/1677417307117633539
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1432814058831429635 — 2023-07-07 20:40 UTC (2023-07-07 21:40 WAT)
+    
+    - URL: https://x.com/1432814058831429635/status/1677417307117633539
+    - Metrics (at fetch): bookmark 2, impression 10684, like 48, quote 2, reply 2, retweet 5
+    
+    > probably nothing https://twitter.com/buffalu__/status/1677413619477118976
+    
+    **Links in post:** https://twitter.com/buffalu__/status/1677413619477118976
+    
+    **Quoted post** 1677413619477118976: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-07-07 · Post · Hackers switched it up in June.
+
+
+### Post — @osec_io — 2023-07-07 18:19 UTC (2023-07-07 19:19 WAT)
+
+- URL: https://x.com/osec_io/status/1677381717349527553
+- Metrics (at fetch): bookmark 15, impression 13326, like 47, quote 0, reply 1, retweet 9
+
+> Hackers switched it up in June.
+>
+> It's important to remember that not all attacks stem from bad code.
+>
+> Here are the top 4 most unique hacks from last month.
+
+
+---
+
+## 2023-07-07 · Post · ◼️VM TO ALL DEFI POWER USERS◼️
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-07-07 00:29 UTC (2023-07-07 01:29 WAT)
+
+- URL: https://x.com/osec_io/status/1677112556622675970
+- Metrics (at fetch): bookmark 0, impression 2157, like 13, quote 0, reply 2, retweet 3
+
+> ◼️VM TO ALL DEFI POWER USERS◼️
+> Solana DeFi is back. 
+> Get started with our partners at @marginfi by using the link below.◼️
+> https://mfi.gg/r/e62c753f-0890-482b-a794-3de162c457e3
+>
+> Join the Telegram too: https://t.me/mrgncommunity
+
+**Links in post:** https://mfi.gg/r/e62c753f-0890-482b-a794-3de162c457e3, https://t.me/mrgncommunity
+
+
+---
+
+## 2023-07-06 · Post · The @Aptos_Network twitter account has been breached and has made 3 tweets with the attempt to drain
+
+
+### Post — @osec_io — 2023-07-06 20:59 UTC (2023-07-06 21:59 WAT)
+
+- URL: https://x.com/osec_io/status/1677059735420379136
+- Metrics (at fetch): bookmark 0, impression 4093, like 30, quote 0, reply 1, retweet 2
+
+> The @Aptos_Network twitter account has been breached and has made 3 tweets with the attempt to drain user wallets
+>
+> Please report all malicious tweets and leave a comment to twitter support mentioning "this account has been hacked"
+>
+> All help is appreciated. @TwitterSupport
+
+
+---
+
+## 2023-07-02 · Post · @PolyNetwork2 was just compromised and hackers are stealing billions of tokens. Let's dive into what
+
+
+### Post — @osec_io — 2023-07-02 03:58 UTC (2023-07-02 04:58 WAT)
+
+- URL: https://x.com/osec_io/status/1675353175489126405
+- Metrics (at fetch): bookmark 1, impression 8950, like 26, quote 1, reply 1, retweet 10
+
+> @PolyNetwork2 was just compromised and hackers are stealing billions of tokens. Let's dive into what we know. [pic.x.com/oPYs3Qne95]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0AM1QMagAEy9r1.jpg — no alt text provided by author
+
+
+---
+
 ## 2023-06-28 · Post · . @Aptos_Network just launched a novel approach to storage: Move Objects.
 
 
 ### Post — @osec_io — 2023-06-28 17:11 UTC (2023-06-28 18:11 WAT)
 
 - URL: https://x.com/osec_io/status/1674103113576513537
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 5, impression 4951, like 40, quote 1, reply 1, retweet 5
 
 > . @Aptos_Network just launched a novel approach to storage: Move Objects.
 >
 > Working closely with both Aptos projects and the Foundation, our auditors have caught dozens of bugs before they hit mainnet.
 >
 > Here are 3 key security tips to help you launch safely 🧵
+
+
+---
+
+## 2023-06-03 · Post · Fan of FPS? Check out Haven’s Compass built on Sui. 
+
+
+### Post — @osec_io — 2023-06-03 18:57 UTC (2023-06-03 19:57 WAT)
+
+- URL: https://x.com/osec_io/status/1665070213593722880
+- Metrics (at fetch): bookmark 0, impression 2426, like 10, quote 0, reply 0, retweet 2
+
+> Fan of FPS? Check out Haven’s Compass built on Sui. 
+>
+> Mint live at http://havenscompass.com https://twitter.com/HavensCompass/status/1664716676846190597
+
+**Links in post:** http://havenscompass.com, https://twitter.com/HavensCompass/status/1664716676846190597
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1506999813635809287 — 2023-06-02 19:32 UTC (2023-06-02 20:32 WAT)
+    
+    - URL: https://x.com/1506999813635809287/status/1664716676846190597
+    - Metrics (at fetch): bookmark 25, impression 214900, like 789, quote 23, reply 35, retweet 135
+    
+    > We are officially live on @SuiNetwork !
+    >
+    > Create your account on our website and get your gamekey #NFT for the Closed Beta access!
+    >
+    > Be ready for thrilling and fast paced gameplay!
+    >
+    > https://www.havenscompass.com/
+    >
+    > #BuildOnSui [pic.x.com/MYuaoh6Muv]
+    
+    **Media:**
+    - media `7_1664687569689247754` (details not returned by the API)
+    
+    **Links in post:** https://www.havenscompass.com/
+    
 
 
 ---
@@ -3401,7 +3907,7 @@ Tags (automatic): ZK
 ### Post — @osec_io — 2023-06-02 21:31 UTC (2023-06-02 22:31 WAT)
 
 - URL: https://x.com/osec_io/status/1664746524360978433
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 3362, like 21, quote 0, reply 0, retweet 3
 
 > A huge congratulations to our partners at @elusivprivacy! We look forward to their ongoing journey of providing ZK-privacy tooling across ecosystems  🤫 https://twitter.com/Arcium/status/1664632553318359040
 
@@ -3412,7 +3918,7 @@ Tags (automatic): ZK
     #### Quoted post — @1479048649661464581 — 2023-06-02 13:58 UTC (2023-06-02 14:58 WAT)
     
     - URL: https://x.com/1479048649661464581/status/1664632553318359040
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 22, impression 64735, like 321, quote 46, reply 30, retweet 107
     
     > We are excited to announce the launch of the Elusiv SDK on @solana  Mainnet! ☂️🔥
     >
@@ -3427,6 +3933,215 @@ Tags (automatic): ZK
 
 ---
 
+## 2023-06-02 · Post · Hackers were busy in May. These 3 exploits stood out  🦦🔎
+
+
+### Post — @osec_io — 2023-06-02 18:09 UTC (2023-06-02 19:09 WAT)
+
+- URL: https://x.com/osec_io/status/1664695679007203330
+- Metrics (at fetch): bookmark 8, impression 5239, like 30, quote 1, reply 3, retweet 7
+
+> Hackers were busy in May. These 3 exploits stood out  🦦🔎
+>
+> 1. Breaking a governance protocol
+> 2. Draining $7.5M from a 3-week-old liquidity pool
+> 3. Depegging a stablecoin
+>
+> We compiled a few threads explaining what went wrong 🪡
+
+
+---
+
+## 2023-06-01 · Post · Congrats on the launch to our partners at Blue Jay. Be careful though, the game is extremely addicti
+
+
+### Post — @osec_io — 2023-06-01 20:22 UTC (2023-06-01 21:22 WAT)
+
+- URL: https://x.com/osec_io/status/1664366874677886977
+- Metrics (at fetch): bookmark 0, impression 2137, like 10, quote 1, reply 0, retweet 2
+
+> Congrats on the launch to our partners at Blue Jay. Be careful though, the game is extremely addictive 🫡 https://twitter.com/BlueJayGamesInc/status/1664256007466364930
+
+**Links in post:** https://twitter.com/BlueJayGamesInc/status/1664256007466364930
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1634313859732320258 — 2023-06-01 13:02 UTC (2023-06-01 14:02 WAT)
+    
+    - URL: https://x.com/1634313859732320258/status/1664256007466364930
+    - Metrics (at fetch): bookmark 6, impression 95007, like 270, quote 11, reply 17, retweet 47
+    
+    > 🎮🌍 Arcade Champion is now live globally and free to play! ⚔️ Join the Sui blockchain network and experience thrilling gameplay with minted Heroes. 🔥💎
+    >
+    > 🔗 Download the game and connect with the discord community. Let's play and dominate together! 🕹️💪 https://discord.gg/f9wUxgWSZJ [pic.x.com/MpojbYKeCT]
+    
+    **Media:**
+    - media `7_1664252841928556545` (details not returned by the API)
+    
+    **Links in post:** https://discord.gg/f9wUxgWSZJ
+    
+
+
+---
+
+## 2023-05-30 · Post · Exciting news! OtterSec proudly sponsors the upcoming justCTF event.
+
+
+### Post — @osec_io — 2023-05-30 19:13 UTC (2023-05-30 20:13 WAT)
+
+- URL: https://x.com/osec_io/status/1663624673127694336
+- Metrics (at fetch): bookmark 1, impression 2987, like 33, quote 0, reply 1, retweet 5
+
+> Exciting news! OtterSec proudly sponsors the upcoming justCTF event.
+>
+> Start: June 3rd, 2023, 08:00 CEST End: June 4th, 2023, 23:00 CEST.
+>
+> Prizes:
+> 1st: $3200
+> 2nd: $1500
+> 3rd: $1000
+>
+> Discover more: https://ctftime.org/event/1930
+>
+> Follow @justCatTheFish team on Twitter for updates.
+
+**Links in post:** https://ctftime.org/event/1930
+
+
+---
+
+## 2023-05-27 · Post · Ottersec.sui is coming... @SuiNSdapp https://twitter.com/SuiNSdapp/status/1661788927072825344
+
+
+### Post — @osec_io — 2023-05-27 02:22 UTC (2023-05-27 03:22 WAT)
+
+- URL: https://x.com/osec_io/status/1662283186150469635
+- Metrics (at fetch): bookmark 0, impression 2845, like 6, quote 0, reply 2, retweet 0
+
+> Ottersec.sui is coming... @SuiNSdapp https://twitter.com/SuiNSdapp/status/1661788927072825344
+
+**Links in post:** https://twitter.com/SuiNSdapp/status/1661788927072825344
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1563543930016112641 — 2023-05-25 17:38 UTC (2023-05-25 18:38 WAT)
+    
+    - URL: https://x.com/1563543930016112641/status/1661788927072825344
+    - Metrics (at fetch): bookmark 35, impression 520786, like 1061, quote 68, reply 1051, retweet 774
+    
+    > sui names are coming... ⚡️
+    >
+    > .sui auctions begin on:   ⚖️
+    > Tuesday, May 30th 2023 - 7:00PM PST (UTC -7)
+    >
+    > 🖊️ sign-up at: http://www.suins.io 🖊️
+    >
+    > #Sui #SuiNameService #FindYourSuiName
+    
+    **Media:**
+    - media `3_1661788603884908544` (details not returned by the API)
+    
+    **Links in post:** http://www.suins.io
+    
+
+
+---
+
+## 2023-05-23 · Post · Proud to announce our rise to the top of @election2033 after just joining! Excited to be sharing the
+
+
+### Post — @osec_io — 2023-05-23 03:15 UTC (2023-05-23 04:15 WAT)
+
+- URL: https://x.com/osec_io/status/1660846903775436800
+- Metrics (at fetch): bookmark 1, impression 2425, like 11, quote 0, reply 1, retweet 0
+
+> Proud to announce our rise to the top of @election2033 after just joining! Excited to be sharing the podium with @0xEdgar🗳️ [pic.x.com/ver4xbeYOW]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwyC_oBWIAIO6t9.png — no alt text provided by author
+
+
+---
+
+## 2023-05-18 · Post · We’re excited to help secure the Cross-Chain Ecosystem Fund! Learn more at http://wormhole.com/progr
+
+
+### Post — @osec_io — 2023-05-18 17:29 UTC (2023-05-18 18:29 WAT)
+
+- URL: https://x.com/osec_io/status/1659249830789513237
+- Metrics (at fetch): bookmark 1, impression 2910, like 12, quote 0, reply 0, retweet 3
+
+> We’re excited to help secure the Cross-Chain Ecosystem Fund! Learn more at http://wormhole.com/programs https://twitter.com/wormhole/status/1659216479714447360
+
+**Links in post:** http://wormhole.com/programs, https://twitter.com/wormhole/status/1659216479714447360
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1417845872436547587 — 2023-05-18 15:16 UTC (2023-05-18 16:16 WAT)
+    
+    - URL: https://x.com/1417845872436547587/status/1659216479714447360
+    - Metrics (at fetch): bookmark 31, impression 526922, like 562, quote 86, reply 82, retweet 189
+    
+    > It's time to make building in crypto more accessible than ever before.
+    >
+    > Introducing the $50m Cross-Chain Ecosystem Fund, powered by Wormhole! 💎 [pic.x.com/y3VeCsUrSa]
+    
+    **Media:**
+    - media `3_1659215327962755072` (details not returned by the API)
+    
+
+
+---
+
+## 2023-05-17 · Post · 30 minutes folks 🦦🥚 https://twitter.com/cega_fi/status/1658162864215957504
+
+
+### Post — @osec_io — 2023-05-17 17:06 UTC (2023-05-17 18:06 WAT)
+
+- URL: https://x.com/osec_io/status/1658881662564876288
+- Metrics (at fetch): bookmark 0, impression 1216, like 5, quote 0, reply 0, retweet 1
+
+> 30 minutes folks 🦦🥚 https://twitter.com/cega_fi/status/1658162864215957504
+
+**Links in post:** https://twitter.com/cega_fi/status/1658162864215957504
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1474053478557356039 — 2023-05-15 17:30 UTC (2023-05-15 18:30 WAT)
+    
+    - URL: https://x.com/1474053478557356039/status/1658162864215957504
+    - Metrics (at fetch): bookmark 0, impression 7124, like 11, quote 2, reply 1, retweet 7
+    
+    > 🎙 Join us in 2 days (May 17) at 1:30pm EST for a special chat w/ hacking gigabrain @notdeghost and @cuffycapital from @osec_io 
+    >
+    > We'll be talking about:
+    > - 💎How to avoid blockchain hacks
+    > - 🍵Tea on the latest breaches
+    > - 📈Comparison of coding on Eth vs Solana [pic.x.com/pT4NmrKk7o]
+    
+    **Media:**
+    - media `3_1658162691515592709` (details not returned by the API)
+    
+
+
+---
+
+## 2023-05-17 · Post · 👀 [pic.x.com/GnsOpXGCoe]
+
+
+### Post — @osec_io — 2023-05-17 12:00 UTC (2023-05-17 13:00 WAT)
+
+- URL: https://x.com/osec_io/status/1658804565356191744
+- Metrics (at fetch): bookmark 1, impression 2133, like 17, quote 0, reply 2, retweet 1
+
+> 👀 [pic.x.com/GnsOpXGCoe]
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1658715561587773441/pu/img/NfcJarBNbipGdL4t.jpg — no alt text provided by author
+
+
+---
+
 ## 2023-05-17 · Post · 🗣️ZK-Security panel moderated by @claudijd of @jump_. 
 
 
@@ -3436,7 +4151,7 @@ Tags (automatic): ZK
 ### Post — @osec_io — 2023-05-17 01:55 UTC (2023-05-17 02:55 WAT)
 
 - URL: https://x.com/osec_io/status/1658652433529151489
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 3588, like 34, quote 0, reply 1, retweet 5
 
 > 🗣️ZK-Security panel moderated by @claudijd of @jump_. 
 >
@@ -3457,7 +4172,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @osec_io — 2023-05-16 16:00 UTC (2023-05-16 17:00 WAT)
 
 - URL: https://x.com/osec_io/status/1658502687602937856
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 5331, like 45, quote 1, reply 0, retweet 6
 
 > Ω 🤝 🦦
 >
@@ -3471,13 +4186,132 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2023-05-12 · Post · We're joining the @Uniswap delegate race!🦄
+
+
+Tags (automatic): Race condition, Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-05-12 21:32 UTC (2023-05-12 22:32 WAT)
+
+- URL: https://x.com/osec_io/status/1657136586268504064
+- Metrics (at fetch): bookmark 0, impression 6185, like 21, quote 1, reply 2, retweet 4
+
+> We're joining the @Uniswap delegate race!🦄
+>
+> As active members of the @UniswapFND bridge committee, we aim to ensure Uniswap's continued long-term security and resilience. 
+>
+> https://vote.uniswapfoundation.org/delegate/osec.eth
+
+**Links in post:** https://vote.uniswapfoundation.org/delegate/osec.eth
+
+
+---
+
+## 2023-05-12 · Post · https://x.com/i/spaces/1yNxaNOYqkqKj
+
+
+### Post — @osec_io — 2023-05-12 20:00 UTC (2023-05-12 21:00 WAT)
+
+- URL: https://x.com/osec_io/status/1657113439540772864
+- Metrics (at fetch): bookmark 0, impression 7395, like 17, quote 1, reply 22, retweet 7
+
+> https://x.com/i/spaces/1yNxaNOYqkqKj
+
+**Links in post:** https://x.com/i/spaces/1yNxaNOYqkqKj
+
+
+---
+
+## 2023-05-12 · Post · Join us in 30 minutes for our chat with @leapxyz 🦦
+
+
+### Post — @osec_io — 2023-05-12 19:34 UTC (2023-05-12 20:34 WAT)
+
+- URL: https://x.com/osec_io/status/1657107114383511553
+- Metrics (at fetch): bookmark 0, impression 778, like 9, quote 0, reply 0, retweet 1
+
+> Join us in 30 minutes for our chat with @leapxyz 🦦
+>
+> https://x.com/i/spaces/1yNxaNOYqkqKj
+
+**Links in post:** https://x.com/i/spaces/1yNxaNOYqkqKj
+
+
+---
+
+## 2023-05-10 · Post · Chatting (chadding) with some awesome projects and founders 🦦 https://twitter.com/jump_pit/status/16
+
+
+### Post — @osec_io — 2023-05-10 21:21 UTC (2023-05-10 22:21 WAT)
+
+- URL: https://x.com/osec_io/status/1656409227458670594
+- Metrics (at fetch): bookmark 0, impression 2655, like 13, quote 0, reply 0, retweet 1
+
+> Chatting (chadding) with some awesome projects and founders 🦦 https://twitter.com/jump_pit/status/1656404700185477127
+
+**Links in post:** https://twitter.com/jump_pit/status/1656404700185477127
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1524055496386301953 — 2023-05-10 21:03 UTC (2023-05-10 22:03 WAT)
+    
+    - URL: https://x.com/1524055496386301953/status/1656404700185477127
+    - Metrics (at fetch): bookmark 2, impression 9317, like 16, quote 2, reply 2, retweet 4
+    
+    > https://x.com/i/spaces/1YqKDoBreMBxV
+    
+    **Links in post:** https://x.com/i/spaces/1YqKDoBreMBxV
+    
+
+
+---
+
+## 2023-05-09 · Post · Great team. Looking forward to working with them in the future ✨👀
+
+
+### Post — @osec_io — 2023-05-09 11:11 UTC (2023-05-09 12:11 WAT)
+
+- URL: https://x.com/osec_io/status/1655893124751974406
+- Metrics (at fetch): bookmark 1, impression 1731, like 14, quote 0, reply 0, retweet 0
+
+> Great team. Looking forward to working with them in the future ✨👀
+> $STARS https://twitter.com/StargazeZone/status/1655696494966583297
+
+**Links in post:** https://twitter.com/StargazeZone/status/1655696494966583297
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1253090729137561600 — 2023-05-08 22:09 UTC (2023-05-08 23:09 WAT)
+    
+    - URL: https://x.com/1253090729137561600/status/1655696494966583297
+    - Metrics (at fetch): bookmark 1, impression 8907, like 77, quote 4, reply 3, retweet 21
+    
+    > Infinity Swap: Incubated &amp; built at Stargaze
+    >
+    > Audit completed:
+    > https://github.com/public-awesome/audits/blob/main/infinity-swap/2023-04-12%20Otter%20Sec%20Audit.pdf
+    >
+    > @osec_io
+    >
+    > $STARS [pic.x.com/XiODUyl152]
+    
+    **Media:**
+    - media `3_1655696255735955458` (details not returned by the API)
+    
+    **Links in post:** https://github.com/public-awesome/audits/blob/main/infinity-swap/2023-04-12%20Otter%20Sec%20Audit.pdf
+    
+
+
+---
+
 ## 2023-05-08 · Post · Security is always evolving.
 
 
 ### Post — @osec_io — 2023-05-08 01:29 UTC (2023-05-08 02:29 WAT)
 
 - URL: https://x.com/osec_io/status/1655384315868622849
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 16, impression 11229, like 38, quote 0, reply 1, retweet 4
 
 > Security is always evolving.
 >
@@ -3485,6 +4319,113 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FvkbQo2aEAA0qJB.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-07 · Post · Night secured 🦦 🤝
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-05-07 18:15 UTC (2023-05-07 19:15 WAT)
+
+- URL: https://x.com/osec_io/status/1655275126840246272
+- Metrics (at fetch): bookmark 0, impression 2156, like 14, quote 1, reply 1, retweet 2
+
+> Night secured 🦦 🤝
+>
+> We'd like to thank everyone who joined OtterSec at Consensus Austin and our amazing co-sponsors for hosting!
+>
+> - @MagnaTokens 
+> - @BigBrainVC
+> - @elusivprivacy
+> - @VRRBLabs
+>
+> S/o to @creativination_ for the awesome footage! [pic.x.com/dBTXOHnxF2]
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/1655270093419585537/img/Ut9j_sRBwbV-SA4A.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-07 · Post · Night secured 🦦 🤝
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-05-07 17:56 UTC (2023-05-07 18:56 WAT)
+
+- URL: https://x.com/osec_io/status/1655270337104457728
+- Metrics (at fetch): bookmark 0, impression 1085, like 6, quote 0, reply 0, retweet 1
+
+> Night secured 🦦 🤝
+>
+> We'd like to thank everyone who joined OtterSec at Consensus Austin and our amazing co-sponsors for hosting!
+>
+> - @MangaTokens
+> - @BigBrainVC
+> - @elusivprivacy
+> - @VRRBLabs
+>
+> S/o to @creativination_ for the awesome footage! [pic.x.com/H16sxxHVcQ]
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/1655270093419585537/img/Ut9j_sRBwbV-SA4A.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-05 · Post · Postponed to next week! Everyone enjoy your Cinco De Mayo 🦦🥂
+
+
+### Post — @osec_io — 2023-05-05 19:37 UTC (2023-05-05 20:37 WAT)
+
+- URL: https://x.com/osec_io/status/1654570939450032129
+- Metrics (at fetch): bookmark 0, impression 1389, like 3, quote 0, reply 0, retweet 0
+
+> Postponed to next week! Everyone enjoy your Cinco De Mayo 🦦🥂
+>
+> https://x.com/i/spaces/1yNxaNOYqkqKj https://twitter.com/osec_io/status/1654565393619640320
+
+**Links in post:** https://x.com/i/spaces/1yNxaNOYqkqKj, https://twitter.com/osec_io/status/1654565393619640320
+
+**Quoted post (full text):**
+
+    #### Quoted post — @osec_io — 2023-05-05 19:15 UTC (2023-05-05 20:15 WAT)
+    
+    - URL: https://x.com/osec_io/status/1654565393619640320
+    - Metrics (at fetch): bookmark 0, impression 2982, like 11, quote 1, reply 1, retweet 2
+    
+    > 📲💬
+    > Join us in 15 minutes for Episode [06] of Otters On-Chain with our friends @leapxyz, where we talk all things NFT and Smart Messaging. [pic.x.com/7CL2o9wimH]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FvYydJOagAAVvdW.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2023-05-05 · Post · 📲💬
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-05-05 19:15 UTC (2023-05-05 20:15 WAT)
+
+- URL: https://x.com/osec_io/status/1654565393619640320
+- Metrics (at fetch): bookmark 0, impression 2982, like 11, quote 1, reply 1, retweet 2
+
+> 📲💬
+> Join us in 15 minutes for Episode [06] of Otters On-Chain with our friends @leapxyz, where we talk all things NFT and Smart Messaging. [pic.x.com/7CL2o9wimH]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvYydJOagAAVvdW.jpg — no alt text provided by author
 
 
 ---
@@ -3498,7 +4439,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @osec_io — 2023-05-04 02:33 UTC (2023-05-04 03:33 WAT)
 
 - URL: https://x.com/osec_io/status/1653950963584229376
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 5, impression 5323, like 42, quote 1, reply 1, retweet 5
 
 > Oracle attacks are responsible for over $590M in smart contract exploits.
 >
@@ -3514,18 +4455,217 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2023-05-03 · Post · We’ve been busy helping protocols get in shape for DeFi summer 🏖️ 🦦
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2023-05-03 07:07 UTC (2023-05-03 08:07 WAT)
+
+- URL: https://x.com/osec_io/status/1653657634812342274
+- Metrics (at fetch): bookmark 0, impression 2709, like 34, quote 0, reply 0, retweet 0
+
+> We’ve been busy helping protocols get in shape for DeFi summer 🏖️ 🦦
+>
+> - Audits
+> - Pentesting
+> - Mitigation techniques [pic.x.com/m1eXtQWwKf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvL42hsaIAAMyMG.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-28 · Post · https://x.com/i/spaces/1rmGPkQwYgyKN
+
+
+### Post — @osec_io — 2023-04-28 18:00 UTC (2023-04-28 19:00 WAT)
+
+- URL: https://x.com/osec_io/status/1652009901474951170
+- Metrics (at fetch): bookmark 0, impression 1109, like 1, quote 0, reply 0, retweet 0
+
+> https://x.com/i/spaces/1rmGPkQwYgyKN
+
+**Links in post:** https://x.com/i/spaces/1rmGPkQwYgyKN
+
+
+---
+
+## 2023-04-28 · Post · Bookmarked as “VIC” -
+
+
+### Post — @osec_io — 2023-04-28 17:24 UTC (2023-04-28 18:24 WAT)
+
+- URL: https://x.com/osec_io/status/1652000921025491072
+- Metrics (at fetch): bookmark 0, impression 1702, like 5, quote 0, reply 0, retweet 0
+
+> Bookmarked as “VIC” -
+>
+> Very Important Content https://twitter.com/vrrbfounder/status/1651999816363257876
+
+**Links in post:** https://twitter.com/vrrbfounder/status/1651999816363257876
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1398550952 — 2023-04-28 17:20 UTC (2023-04-28 18:20 WAT)
+    
+    - URL: https://x.com/1398550952/status/1651999816363257876
+    - Metrics (at fetch): bookmark 0, impression 1816, like 2, quote 1, reply 0, retweet 0
+    
+    > @osec_io https://twitter.com/_B___S/status/1651668573562241024
+    
+    **Links in post:** https://twitter.com/_B___S/status/1651668573562241024
+    
+    **Quoted post** 1651668573562241024: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-04-28 · Post · Yo 🦦🥽
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-04-28 16:19 UTC (2023-04-28 17:19 WAT)
+
+- URL: https://x.com/osec_io/status/1651984476078055424
+- Metrics (at fetch): bookmark 0, impression 2728, like 25, quote 1, reply 3, retweet 5
+
+> Yo 🦦🥽
+> Join us Poolside @ Consensus for Episode [05] of Otters On-Chain feat. @clockwork_xyz where we'll be discussing:
+>
+> The importance of sunbathing and smart contract automation. [pic.x.com/JoFZW3pwy4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fu0GfdOXsAA5VA2.jpg — no alt text provided by author
+
+
+---
+
 ## 2023-04-27 · Post · Hackers stole $44.6M this month.  The best threads to understand each exploit: [pic.x.com/G7utMRlaCd
 
 
 ### Post — @osec_io — 2023-04-27 16:19 UTC (2023-04-27 17:19 WAT)
 
 - URL: https://x.com/osec_io/status/1651622005588762625
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 74, impression 25526, like 184, quote 5, reply 3, retweet 36
 
 > Hackers stole $44.6M this month.  The best threads to understand each exploit: [pic.x.com/G7utMRlaCd]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Fuu9dTXWYAAeVWP.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-24 · Post · Always a great time supporting our friends, partners and family in the web3 ecosystem. 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-04-24 18:36 UTC (2023-04-24 19:36 WAT)
+
+- URL: https://x.com/osec_io/status/1650569376150478854
+- Metrics (at fetch): bookmark 0, impression 4058, like 20, quote 0, reply 0, retweet 4
+
+> Always a great time supporting our friends, partners and family in the web3 ecosystem. 
+>
+> Thanks to all who came, and thank you @clockwork_xyz for co-hosting. 
+>
+> #Consensus2023 [pic.x.com/W2k7oBwWji] https://twitter.com/clockwork_xyz/status/1650510081803288582
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FugAFhZWYBIgzZ-.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/clockwork_xyz/status/1650510081803288582
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1272950605515034624 — 2023-04-24 14:40 UTC (2023-04-24 15:40 WAT)
+    
+    - URL: https://x.com/1272950605515034624/status/1650510081803288582
+    - Metrics (at fetch): bookmark 0, impression 5296, like 5, quote 1, reply 0, retweet 1
+    
+    > Excited for brunch today with @osec_io!
+    >
+    > If you're going, hit us up for a new Clockwork shirt!
+    >
+    > Austin @solana @hackerhouses [pic.x.com/c98mS188gC]
+    
+    **Media:**
+    - media `3_1650510075444723712` (details not returned by the API)
+    
+
+
+---
+
+## 2023-04-22 · Post · Meet us here in 15 minutes to hear us discuss Mitigating Economic Risk 💰 https://t.co/6Z1KTam601
+
+
+### Post — @osec_io — 2023-04-22 17:45 UTC (2023-04-22 18:45 WAT)
+
+- URL: https://x.com/osec_io/status/1649831782244655106
+- Metrics (at fetch): bookmark 0, impression 2106, like 9, quote 0, reply 1, retweet 1
+
+> Meet us here in 15 minutes to hear us discuss Mitigating Economic Risk 💰 https://t.co/6Z1KTam601
+
+**Quoted post** 1649770038440919040: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-04-21 · Post · Sui mainnet launches in less than two weeks ⏱️ 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2023-04-21 22:43 UTC (2023-04-21 23:43 WAT)
+
+- URL: https://x.com/osec_io/status/1649544446881538050
+- Metrics (at fetch): bookmark 12, impression 5592, like 31, quote 0, reply 3, retweet 4
+
+> Sui mainnet launches in less than two weeks ⏱️ 
+>
+> Here’s everything you need to write secure smart contracts in Move. https://t.co/Hz7hNnyt0x
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FuRb7nsWYAE-yTp.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-21 · Post · BREAKING: One of few OtterSocks holders comes forward with insurmountable swagger https://t.co/LISSO
+
+
+### Post — @osec_io — 2023-04-21 08:29 UTC (2023-04-21 09:29 WAT)
+
+- URL: https://x.com/osec_io/status/1649329509345140736
+- Metrics (at fetch): bookmark 0, impression 3146, like 20, quote 0, reply 2, retweet 1
+
+> BREAKING: One of few OtterSocks holders comes forward with insurmountable swagger https://t.co/LISSOK3VvZ
+
+**Quoted post** 1649318003920494592: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-04-21 · Post · We will be here for Episode 4 of Otters OC! Looking forward to chatting with @VestExchange on risk 🤝
+
+
+### Post — @osec_io — 2023-04-21 05:18 UTC (2023-04-21 06:18 WAT)
+
+- URL: https://x.com/osec_io/status/1649281545495105536
+- Metrics (at fetch): bookmark 0, impression 1543, like 8, quote 0, reply 0, retweet 1
+
+> We will be here for Episode 4 of Otters OC! Looking forward to chatting with @VestExchange on risk 🤝🏼 https://t.co/VZDVDuYYE3
+
+**Quoted post** 1649139147830099970: not readable via the API (deleted, private, or withheld).
 
 
 ---
@@ -3539,7 +4679,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2023-04-18 21:10 UTC (2023-04-18 22:10 WAT)
 
 - URL: https://x.com/osec_io/status/1648433824009949185
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 66, impression 23786, like 152, quote 4, reply 7, retweet 29
 
 > We’ve spent hundreds of hours auditing Solana protocols.
 >
@@ -3553,18 +4693,149 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2023-04-17 · Post · Excited to partner with @getcode on their timelock program, a novel approach to Solana transaction U
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-04-17 23:53 UTC (2023-04-18 00:53 WAT)
+
+- URL: https://x.com/osec_io/status/1648112365722902528
+- Metrics (at fetch): bookmark 1, impression 6967, like 47, quote 0, reply 0, retweet 14
+
+> Excited to partner with @getcode on their timelock program, a novel approach to Solana transaction UX. https://t.co/cGn5Ld2Evz
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1217143232909533189 — 2023-04-17 23:37 UTC (2023-04-18 00:37 WAT)
+    
+    - URL: https://x.com/1217143232909533189/status/1648108467402551301
+    - Metrics (at fetch): bookmark 4, impression 16108, like 50, quote 4, reply 2, retweet 10
+    
+    > On Code, transactions are always instant. This is enabled through a novel on-chain program called the Timelock program. 
+    >
+    > @osec_io just completed their audit of the Timelock program, found here:  https://t.co/4inySaQ2k5
+    >
+    > Next up is the Splitter program.
+    
+
+
+---
+
+## 2023-04-15 · Post · Come grift with us, @OmniX_NFT, @nobody_clothing, and @GRIFTSH0P in NYC. 
+
+
+### Post — @osec_io — 2023-04-15 02:30 UTC (2023-04-15 03:30 WAT)
+
+- URL: https://x.com/osec_io/status/1647064716978651136
+- Metrics (at fetch): bookmark 0, impression 1838, like 14, quote 1, reply 1, retweet 3
+
+> Come grift with us, @OmniX_NFT, @nobody_clothing, and @GRIFTSH0P in NYC. 
+>
+> 🦦🥂 https://t.co/m7BwWvMNPf
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FtuMoAQWAAAKPa6.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FtuMoArX0AA5dE3.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-14 · Post · https://t.co/EudQqAUvdk
+
+
+### Post — @osec_io — 2023-04-14 18:00 UTC (2023-04-14 19:00 WAT)
+
+- URL: https://x.com/osec_io/status/1646936378473603073
+- Metrics (at fetch): bookmark 0, impression 4564, like 14, quote 2, reply 9, retweet 9
+
+> https://t.co/EudQqAUvdk
+
+
+---
+
+## 2023-04-13 · Post · Yo! 🚨 🦦 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-04-13 21:17 UTC (2023-04-13 22:17 WAT)
+
+- URL: https://x.com/osec_io/status/1646623702849667072
+- Metrics (at fetch): bookmark 0, impression 4512, like 27, quote 2, reply 1, retweet 7
+
+> Yo! 🚨 🦦 
+> Join us tomorrow at 2PM EST for Episode [03] of “Otters On-Chain” with our partners @OmniX_NFT . 
+>
+> We’ll be discussing Omni-chain NFTs, new innovations, and NFTNYC 🤫 https://t.co/F3OC5VU3f6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ftn7htCWwAA_2l0.jpg — no alt text provided by author
+
+
+---
+
 ## 2023-04-13 · Post · .@iearnfinance was just hacked for over $10M. Here's what we know. 🧵 [pic.x.com/VHset60Yi1]
 
 
 ### Post — @osec_io — 2023-04-13 07:15 UTC (2023-04-13 08:15 WAT)
 
 - URL: https://x.com/osec_io/status/1646411672175939585
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 56, impression 157003, like 275, quote 41, reply 6, retweet 86
 
 > .@iearnfinance was just hacked for over $10M. Here's what we know. 🧵 [pic.x.com/VHset60Yi1]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Ftk6ejoaQAE0u8Y.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-12 · Post · This guy gets it ⬇️ https://t.co/6lv5e3XBjq
+
+
+### Post — @osec_io — 2023-04-12 19:37 UTC (2023-04-12 20:37 WAT)
+
+- URL: https://x.com/osec_io/status/1646236040049627138
+- Metrics (at fetch): bookmark 0, impression 2000, like 13, quote 0, reply 0, retweet 0
+
+> This guy gets it ⬇️ https://t.co/6lv5e3XBjq
+
+**Quoted post (full text):**
+
+    #### Quoted post — @926168055742418946 — 2023-04-12 17:50 UTC (2023-04-12 18:50 WAT)
+    
+    - URL: https://x.com/926168055742418946/status/1646209225943662599
+    - Metrics (at fetch): bookmark 2, impression 12067, like 80, quote 1, reply 2, retweet 10
+    
+    > the best day of the week? Otter Wednesday https://t.co/8jAfdn2AFf
+    
+    **Media:**
+    - media `3_1646209221816467518` (details not returned by the API)
+    
+
+
+---
+
+## 2023-04-12 · Post · Safe contracts start with clean code.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2023-04-12 17:28 UTC (2023-04-12 18:28 WAT)
+
+- URL: https://x.com/osec_io/status/1646203639701159962
+- Metrics (at fetch): bookmark 88, impression 20928, like 108, quote 0, reply 4, retweet 17
+
+> Safe contracts start with clean code.
+>
+> Here are three cheat sheets to write better contracts in Solidity ⬇️ 🦦 https://t.co/3Rlllwu13r
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fth9fDPXwAkox6a.jpg — no alt text provided by author
 
 
 ---
@@ -3575,7 +4846,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2023-04-09 05:53 UTC (2023-04-09 06:53 WAT)
 
 - URL: https://x.com/osec_io/status/1644941553801076738
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 41, impression 101360, like 146, quote 12, reply 9, retweet 32
 
 > .@SushiSwap's RouteProcessor2 contract was recently hacked. Let's dive into what happened. 🧵
 >
@@ -3589,6 +4860,19 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2023-04-07 · Post · https://t.co/AxQThHU7eP
+
+
+### Post — @osec_io — 2023-04-07 17:54 UTC (2023-04-07 18:54 WAT)
+
+- URL: https://x.com/osec_io/status/1644398185664720898
+- Metrics (at fetch): bookmark 0, impression 3119, like 5, quote 1, reply 0, retweet 2
+
+> https://t.co/AxQThHU7eP
+
+
+---
+
 ## 2023-04-07 · Post · Going live in 50 minutes! 
 
 
@@ -3598,7 +4882,7 @@ Tags (automatic): ZK, AI-assisted hunting
 ### Post — @osec_io — 2023-04-07 17:10 UTC (2023-04-07 18:10 WAT)
 
 - URL: https://x.com/osec_io/status/1644387061992914945
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 2744, like 15, quote 0, reply 0, retweet 4
 
 > Going live in 50 minutes! 
 >
@@ -3615,7 +4899,7 @@ Tags (automatic): ZK, AI-assisted hunting
     #### Quoted post — @osec_io — 2023-04-06 19:35 UTC (2023-04-06 20:35 WAT)
     
     - URL: https://x.com/osec_io/status/1644061253013327872
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 0, impression 6932, like 17, quote 2, reply 0, retweet 5
     
     > 🚨Join us for Episode [02] of “Otters On-Chain” 🦦 w/ @switchboardxyz where we talk about oracles, liquidity, and the security that lies therein.🚨
     >
@@ -3630,6 +4914,24 @@ Tags (automatic): ZK, AI-assisted hunting
 
 ---
 
+## 2023-04-07 · Post · We’re sharing technical guides on blockchain internals &amp; writing safe contracts.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-04-07 14:27 UTC (2023-04-07 15:27 WAT)
+
+- URL: https://x.com/osec_io/status/1644346132695248896
+- Metrics (at fetch): bookmark 0, impression 2500, like 8, quote 0, reply 5, retweet 1
+
+> We’re sharing technical guides on blockchain internals &amp; writing safe contracts.
+>
+> Which language do you want first?
+
+
+---
+
 ## 2023-04-06 · Post · 🚨Join us for Episode [02] of “Otters On-Chain” 🦦 w/ @switchboardxyz where we talk about oracles, liq
 
 
@@ -3639,7 +4941,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2023-04-06 19:35 UTC (2023-04-06 20:35 WAT)
 
 - URL: https://x.com/osec_io/status/1644061253013327872
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 6932, like 17, quote 2, reply 0, retweet 5
 
 > 🚨Join us for Episode [02] of “Otters On-Chain” 🦦 w/ @switchboardxyz where we talk about oracles, liquidity, and the security that lies therein.🚨
 >
@@ -3653,13 +4955,34 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2023-04-06 · Post · 🚨Join us l for Episode [02] of “Otters On-Chain” 🦦 w/ @switchboardxyz where we talk about oracles, l
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-04-06 19:31 UTC (2023-04-06 20:31 WAT)
+
+- URL: https://x.com/osec_io/status/1644060162016137218
+- Metrics (at fetch): bookmark 0, impression 331, like 1, quote 0, reply 0, retweet 0
+
+> 🚨Join us l for Episode [02] of “Otters On-Chain” 🦦 w/ @switchboardxyz where we talk about oracles, liquidity, and the security that lies therein.🚨
+>
+> Excited to chat with @DoctorBlocks,  @colludingnode, @0xYankee, and @gallynaut. 
+>
+> See you there 🦦🕰️
+> https://t.co/AxQThHU7eP
+
+
+---
+
 ## 2023-04-04 · Post · Hackers stole $214M last month. 
 
 
 ### Post — @osec_io — 2023-04-04 17:40 UTC (2023-04-04 18:40 WAT)
 
 - URL: https://x.com/osec_io/status/1643307458578767894
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 9, impression 6370, like 36, quote 1, reply 1, retweet 3
 
 > Hackers stole $214M last month. 
 >
@@ -3671,13 +4994,29 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2023-04-03 · Post · An update on the flashbots hacker. What we know: https://t.co/c6DcdFzQZG
+
+
+### Post — @osec_io — 2023-04-03 17:49 UTC (2023-04-03 18:49 WAT)
+
+- URL: https://x.com/osec_io/status/1642947456471113729
+- Metrics (at fetch): bookmark 20, impression 28345, like 43, quote 3, reply 5, retweet 7
+
+> An update on the flashbots hacker. What we know: https://t.co/c6DcdFzQZG
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FszsAO7WcAAIgYS.jpg — no alt text provided by author
+
+
+---
+
 ## 2023-04-03 · Post · A large MEV bot was recently hacked for almost 20M. It all happened in one block. 
 
 
 ### Post — @osec_io — 2023-04-03 08:10 UTC (2023-04-03 09:10 WAT)
 
 - URL: https://x.com/osec_io/status/1642801619505913856
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 60, impression 63821, like 181, quote 14, reply 9, retweet 31
 
 > A large MEV bot was recently hacked for almost 20M. It all happened in one block. 
 >
@@ -3685,6 +5024,75 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FsxjzmOWcAE_toe.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-01 · Post · Excited to be partnering with @0xdirichlet on securing OnlyDevs. Mint your free NFT today! https://t
+
+
+### Post — @osec_io — 2023-04-01 22:04 UTC (2023-04-01 23:04 WAT)
+
+- URL: https://x.com/osec_io/status/1642286825485262852
+- Metrics (at fetch): bookmark 0, impression 4327, like 15, quote 0, reply 1, retweet 3
+
+> Excited to be partnering with @0xdirichlet on securing OnlyDevs. Mint your free NFT today! https://t.co/3YLd8eCjd5 https://t.co/YSg6wLh4WH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsqTHYOaYAArLgq.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1571195311611150337 — 2023-04-01 16:40 UTC (2023-04-01 17:40 WAT)
+    
+    - URL: https://x.com/1571195311611150337/status/1642205276915789826
+    - Metrics (at fetch): bookmark 1, impression 15629, like 44, quote 3, reply 7, retweet 3
+    
+    > We're pivoting.
+    >
+    > https://t.co/T0ZcE7G4ae https://t.co/r1WTkTW2Z3
+    
+    **Quoted post** 1642199308438233088: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-03-31 · Post · A thread of our recorded “Otters On-Chain” weekly Twitter Spaces!👇🏼
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-03-31 19:13 UTC (2023-03-31 20:13 WAT)
+
+- URL: https://x.com/osec_io/status/1641881386503258112
+- Metrics (at fetch): bookmark 0, impression 3135, like 12, quote 0, reply 1, retweet 0
+
+> A thread of our recorded “Otters On-Chain” weekly Twitter Spaces!👇🏼
+
+
+---
+
+## 2023-03-31 · Post · 15 mins 🗣️ https://t.co/SjWbzCxP1O
+
+
+### Post — @osec_io — 2023-03-31 17:45 UTC (2023-03-31 18:45 WAT)
+
+- URL: https://x.com/osec_io/status/1641859204687224833
+- Metrics (at fetch): bookmark 0, impression 1156, like 9, quote 0, reply 0, retweet 0
+
+> 15 mins 🗣️ https://t.co/SjWbzCxP1O
+
+**Quoted post (full text):**
+
+    #### Quoted post — @osec_io — 2023-03-30 17:43 UTC (2023-03-30 18:43 WAT)
+    
+    - URL: https://x.com/osec_io/status/1641496496536457217
+    - Metrics (at fetch): bookmark 3, impression 4671, like 24, quote 1, reply 0, retweet 2
+    
+    > https://t.co/m7OC4TBZea
+    
 
 
 ---
@@ -3698,7 +5106,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @osec_io — 2023-03-31 16:05 UTC (2023-03-31 17:05 WAT)
 
 - URL: https://x.com/osec_io/status/1641834128776601601
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 2942, like 25, quote 0, reply 0, retweet 5
 
 > Cega brings you safer yields in a volatile market, @osec_io brings you safety. 
 >
@@ -3718,7 +5126,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @osec_io — 2023-03-31 13:01 UTC (2023-03-31 14:01 WAT)
 
 - URL: https://x.com/osec_io/status/1641787836184788993
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 4302, like 17, quote 1, reply 4, retweet 5
 
 > 1/
 > @BloctoApp is #BUIDLing an ecosystems for billions.
@@ -3737,13 +5145,208 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2023-03-30 · Post · We’ve spent hundreds of hours auditing protocols on Aptos and Sui. 
+
+
+### Post — @osec_io — 2023-03-30 20:51 UTC (2023-03-30 21:51 WAT)
+
+- URL: https://x.com/osec_io/status/1641543816581726209
+- Metrics (at fetch): bookmark 30, impression 23968, like 114, quote 7, reply 7, retweet 27
+
+> We’ve spent hundreds of hours auditing protocols on Aptos and Sui. 
+>
+> There are several unique aspects of the Move language that developers should keep in mind to write secure contracts.
+>
+> An otter’s complete guide to writing safer contracts in Move: https://t.co/yiGd86wvb3
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsfvZr5XwAEQOwh.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-30 · Post · https://t.co/m7OC4TBZea
+
+
+### Post — @osec_io — 2023-03-30 17:43 UTC (2023-03-30 18:43 WAT)
+
+- URL: https://x.com/osec_io/status/1641496496536457217
+- Metrics (at fetch): bookmark 3, impression 4671, like 24, quote 1, reply 0, retweet 2
+
+> https://t.co/m7OC4TBZea
+
+
+---
+
+## 2023-03-30 · Post · Yo 🚨🦦
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-03-30 17:19 UTC (2023-03-30 18:19 WAT)
+
+- URL: https://x.com/osec_io/status/1641490416993443840
+- Metrics (at fetch): bookmark 3, impression 15675, like 53, quote 6, reply 7, retweet 17
+
+> Yo 🚨🦦
+> Join Episode [01] of “Otters On-Chain”, where we sit down with some of the biggest names in crypto to chat market conditions, protocol development, and security. 
+>
+> Our first guest is @VRRBFounder, he is the creator of @VRRBLabs and will be joining https://t.co/m7OC4TBZea https://t.co/yx1nbl6tjw
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fse-1YCaUAEr5Y9.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-30 · Post · According to @bankless, DeFi protocols lost over $2,700,000,000 in smart contract hacks last year. 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2023-03-30 13:49 UTC (2023-03-30 14:49 WAT)
+
+- URL: https://x.com/osec_io/status/1641437372838723587
+- Metrics (at fetch): bookmark 0, impression 1836, like 26, quote 0, reply 2, retweet 0
+
+> According to @bankless, DeFi protocols lost over $2,700,000,000 in smart contract hacks last year. 
+>
+> But that figure is short the $800,400,000 worth of exploits that we identified and patched first 🦦
+
+
+---
+
+## 2023-03-30 · Post · Excited to collaborate with @ThalaLabs on securing their latest product suite and looking forward to
+
+
+### Post — @osec_io — 2023-03-30 00:12 UTC (2023-03-30 01:12 WAT)
+
+- URL: https://x.com/osec_io/status/1641231798960021507
+- Metrics (at fetch): bookmark 0, impression 2432, like 19, quote 0, reply 0, retweet 0
+
+> Excited to collaborate with @ThalaLabs on securing their latest product suite and looking forward to a long-term security partnership! https://t.co/QcEk0v8VxX
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1537363442222309376 — 2023-03-30 00:04 UTC (2023-03-30 01:04 WAT)
+    
+    - URL: https://x.com/1537363442222309376/status/1641229849271443456
+    - Metrics (at fetch): bookmark 0, impression 20223, like 179, quote 1, reply 10, retweet 30
+    
+    > We’re excited to share that a comprehensive audit of the entire Thala codebase has been completed by Ottersec. Huge thanks to both @osec_io and @zellic_io for their hard work!
+    >
+    > All results and findings can be found in the Operations module on https://t.co/YOX8GQ7NWO. https://t.co/DCglZzt8Ma
+    
+    **Media:**
+    - media `3_1641229845324607488` (details not returned by the API)
+    
+
+
+---
+
+## 2023-03-29 · Post · Security is a team effort. 
+
+
+### Post — @osec_io — 2023-03-29 20:38 UTC (2023-03-29 21:38 WAT)
+
+- URL: https://x.com/osec_io/status/1641178057787490306
+- Metrics (at fetch): bookmark 2, impression 4597, like 32, quote 1, reply 1, retweet 5
+
+> Security is a team effort. 
+>
+> Here are 5 things your team can do to recognize and respond to threats early:
+
+
+---
+
+## 2023-03-24 · Post · If we held a weekly Twitter Space, what day would you prefer?
+
+
+### Post — @osec_io — 2023-03-24 19:54 UTC (2023-03-24 20:54 WAT)
+
+- URL: https://x.com/osec_io/status/1639355047208435712
+- Metrics (at fetch): bookmark 0, impression 2011, like 10, quote 0, reply 3, retweet 1
+
+> If we held a weekly Twitter Space, what day would you prefer?
+
+
+---
+
+## 2023-03-24 · Post · Serious answers only 🦦 https://t.co/TVbP0JqHkt
+
+
+### Post — @osec_io — 2023-03-24 18:07 UTC (2023-03-24 19:07 WAT)
+
+- URL: https://x.com/osec_io/status/1639328118232973319
+- Metrics (at fetch): bookmark 1, impression 28894, like 57, quote 1, reply 15, retweet 9
+
+> Serious answers only 🦦 https://t.co/TVbP0JqHkt
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FsAQO8zXgAAgqd3.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-24 · Post · 🦦 🤝 🎒
+
+
+### Post — @osec_io — 2023-03-24 15:20 UTC (2023-03-24 16:20 WAT)
+
+- URL: https://x.com/osec_io/status/1639286181341933569
+- Metrics (at fetch): bookmark 4, impression 47140, like 981, quote 11, reply 454, retweet 854
+
+> 🦦 🤝 🎒
+>
+> Bag Secured. We're proud to keep @xNFT_Backpack  safe with ongoing security audits.
+>
+> To celebrate our ongoing partnership, we’re giving away 5 @MadLadsNFT madlist. To participate simply:
+>
+> 🦦 Like &amp; RT
+> 🦦 Follow @osec_io and @xNFT_Backpack https://t.co/ucigMMULXj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fr_p8PJXoAA5Rjr.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-22 · Post · Excited to partner with @solendprotocol on the new v2! https://t.co/UozM6jNvxK
+
+
+### Post — @osec_io — 2023-03-22 17:58 UTC (2023-03-22 18:58 WAT)
+
+- URL: https://x.com/osec_io/status/1638600931154558976
+- Metrics (at fetch): bookmark 0, impression 4854, like 32, quote 0, reply 2, retweet 4
+
+> Excited to partner with @solendprotocol on the new v2! https://t.co/UozM6jNvxK
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1389662605149573122 — 2023-03-22 17:49 UTC (2023-03-22 18:49 WAT)
+    
+    - URL: https://x.com/1389662605149573122/status/1638598717673730049
+    - Metrics (at fetch): bookmark 0, impression 10216, like 32, quote 3, reply 2, retweet 3
+    
+    > Solend V2 is rolling out in 3 phases, the first of which has completed audit with @osec_io.
+    >
+    > Phase 1 features include borrow weights, TWAP oracles, and outflow rate limits. The rollout of Phase 1 will enable the Main pool to reopen.
+    >
+    > Stay tuned for more details!
+    
+
+
+---
+
 ## 2023-03-22 · Post · Gray-hat hackers are tricky to deal with and abundant in crypto. 
 
 
 ### Post — @osec_io — 2023-03-22 15:09 UTC (2023-03-22 16:09 WAT)
 
 - URL: https://x.com/osec_io/status/1638558436160946177
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 6, impression 4582, like 33, quote 0, reply 1, retweet 3
 
 > Gray-hat hackers are tricky to deal with and abundant in crypto. 
 >
@@ -3757,13 +5360,47 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2023-03-21 · Post · Stay safe, otters 🦦 
+
+
+### Post — @osec_io — 2023-03-21 18:41 UTC (2023-03-21 19:41 WAT)
+
+- URL: https://x.com/osec_io/status/1638249425318342667
+- Metrics (at fetch): bookmark 2, impression 2377, like 9, quote 0, reply 0, retweet 0
+
+> Stay safe, otters 🦦 
+>
+> Quality thread on how to spot and avoid scams: https://t.co/BlXRBfP9UY
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1577268654403878912 — 2023-03-11 21:22 UTC (2023-03-11 22:22 WAT)
+    
+    - URL: https://x.com/1577268654403878912/status/1634666219205951488
+    - Metrics (at fetch): bookmark 4, impression 21392, like 350, quote 4, reply 24, retweet 312
+    
+    > How to spot scams on @SuiNetwork 
+    >
+    > Scams can happen in any industry, and the crypto world is no exception.
+    >
+    > Here are ten tips to help you spot crypto scams on #SuiNetwork that you should know.
+    >
+    > 🧵 Let's go $SUI https://t.co/t81LsCZLdp
+    
+    **Media:**
+    - media `3_1634665682859352065` (details not returned by the API)
+    
+
+
+---
+
 ## 2023-03-21 · Post · We caught over $840M in critical exploits over the last 12 months. How? 
 
 
 ### Post — @osec_io — 2023-03-21 14:25 UTC (2023-03-21 15:25 WAT)
 
 - URL: https://x.com/osec_io/status/1638185018336989186
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 5520, like 71, quote 0, reply 3, retweet 4
 
 > We caught over $840M in critical exploits over the last 12 months. How? 
 >
@@ -3785,13 +5422,404 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2023-03-20 17:32 UTC (2023-03-20 18:32 WAT)
 
 - URL: https://x.com/osec_io/status/1637869832824578050
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 5, impression 8262, like 52, quote 1, reply 1, retweet 10
 
 > We’ve audited 60+ leading protocols. 
 >
 > Yet 66% of audits contain at least one critical vulnerability. 
 >
 > Why blockchain security is so difficult for world-class teams:
+
+
+---
+
+## 2023-03-08 · Post · Excited to partner with @MagnaTokens on securing https://t.co/BsKYl9sFQ5! https://t.co/4Uyhc3Vul6
+
+
+### Post — @osec_io — 2023-03-08 23:28 UTC (2023-03-09 00:28 WAT)
+
+- URL: https://x.com/osec_io/status/1633610634695933952
+- Metrics (at fetch): bookmark 0, impression 2187, like 18, quote 0, reply 1, retweet 3
+
+> Excited to partner with @MagnaTokens on securing https://t.co/BsKYl9sFQ5! https://t.co/4Uyhc3Vul6
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1499500166906146819 — 2023-03-08 22:37 UTC (2023-03-08 23:37 WAT)
+    
+    - URL: https://x.com/1499500166906146819/status/1633597807893581824
+    - Metrics (at fetch): bookmark 8, impression 7723, like 29, quote 4, reply 1, retweet 9
+    
+    > Introducing: ✨ https://t.co/qSGKUXwEXo ✨!
+    >
+    > ⛽️ 100% free and gas-optimized bulk transfers for ERC-20 &amp; native tokens. ⛽️
+    >
+    > Create airdrops on Ethereum (and testnets) while saving over 30% on transaction costs compared to the current products on the market. https://t.co/p4NfjOHbG2
+    
+    **Media:**
+    - media `3_1633597794203361280` (details not returned by the API)
+    
+
+
+---
+
+## 2023-03-08 · Post · Excited to partner with @magnatoken on securing https://t.co/BsKYl9sFQ5! https://t.co/4Uyhc3Vul6
+
+
+### Post — @osec_io — 2023-03-08 23:28 UTC (2023-03-09 00:28 WAT)
+
+- URL: https://x.com/osec_io/status/1633610554282766336
+- Metrics (at fetch): bookmark 0, impression 128, like 0, quote 0, reply 0, retweet 0
+
+> Excited to partner with @magnatoken on securing https://t.co/BsKYl9sFQ5! https://t.co/4Uyhc3Vul6
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1499500166906146819 — 2023-03-08 22:37 UTC (2023-03-08 23:37 WAT)
+    
+    - URL: https://x.com/1499500166906146819/status/1633597807893581824
+    - Metrics (at fetch): bookmark 8, impression 7723, like 29, quote 4, reply 1, retweet 9
+    
+    > Introducing: ✨ https://t.co/qSGKUXwEXo ✨!
+    >
+    > ⛽️ 100% free and gas-optimized bulk transfers for ERC-20 &amp; native tokens. ⛽️
+    >
+    > Create airdrops on Ethereum (and testnets) while saving over 30% on transaction costs compared to the current products on the market. https://t.co/p4NfjOHbG2
+    
+    **Media:**
+    - media `3_1633597794203361280` (details not returned by the API)
+    
+
+
+---
+
+## 2023-03-04 · Post · Join founder @NotDeGhost at MoveCon 2023, organized by our friends at
+
+
+### Post — @osec_io — 2023-03-04 08:54 UTC (2023-03-04 09:54 WAT)
+
+- URL: https://x.com/osec_io/status/1631941182287925249
+- Metrics (at fetch): bookmark 1, impression 9880, like 31, quote 1, reply 0, retweet 20
+
+> Join founder @NotDeGhost at MoveCon 2023, organized by our friends at
+> @PontemNetwork! 
+>
+> 🧠Topic: WHY MOVE
+> ⏰When: March 4th, 3pm MST 
+> 🎯Where: In-person at APTOS HOUSE (and online)
+>
+> In-person registration: https://t.co/UbjWECU3yT
+> Online registration: https://t.co/4QrZVd9dHl https://t.co/SvlNI5zrqL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FqXRpmQacAAVqLW.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-04 · Post · We’re excited to announce our new site! Shoutout to our friends at @withdeco_xyz for handling the de
+
+
+### Post — @osec_io — 2023-03-04 05:43 UTC (2023-03-04 06:43 WAT)
+
+- URL: https://x.com/osec_io/status/1631893108987412481
+- Metrics (at fetch): bookmark 0, impression 6276, like 37, quote 1, reply 1, retweet 4
+
+> We’re excited to announce our new site! Shoutout to our friends at @withdeco_xyz for handling the design and development. 
+>
+> https://t.co/FLl89JSy32
+
+
+---
+
+## 2023-02-28 · Post · OtterSec and Sui Foundation announce the SuiTF Challenge for Denver SuiBuilderHouse attendees! http
+
+
+### Post — @osec_io — 2023-02-28 20:51 UTC (2023-02-28 21:51 WAT)
+
+- URL: https://x.com/osec_io/status/1630672087504543746
+- Metrics (at fetch): bookmark 2, impression 94556, like 74, quote 5, reply 7, retweet 16
+
+> OtterSec and Sui Foundation announce the SuiTF Challenge for Denver #SuiBuilderHouse attendees! https://t.co/ONT4oXOWgx
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FqFPnZvaYAAFYtG.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FqFPnZxaUAADHcJ.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FqFPnZuaYAEQt0f.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FqFPnZxagAAiMgU.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-25 · Post · 🎉 https://t.co/4N73gh6RhV
+
+
+### Post — @osec_io — 2023-02-25 19:45 UTC (2023-02-25 20:45 WAT)
+
+- URL: https://x.com/osec_io/status/1629568205151715329
+- Metrics (at fetch): bookmark 0, impression 2770, like 9, quote 0, reply 0, retweet 0
+
+> 🎉 https://t.co/4N73gh6RhV
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1531113662538457088 — 2023-02-22 02:55 UTC (2023-02-22 03:55 WAT)
+    
+    - URL: https://x.com/1531113662538457088/status/1628226864648167425
+    - Metrics (at fetch): bookmark 1, impression 17926, like 723, quote 3, reply 73, retweet 667
+    
+    > 🎉 Congrats 20 winners of the Sui Builder Hero Award who developed some of the first tools and apps on @SuiNetwork.
+    >
+    > #SuiBuilderHero 
+    >
+    > 💯Like &amp; Retweet to support us! https://t.co/H6RFWUrgoM
+    
+    **Media:**
+    - media `3_1628224600848076801` (details not returned by the API)
+    
+
+
+---
+
+## 2023-02-24 · Post · OtterSec NFT Sticker Pack? 👀 wen https://t.co/CNpxCwcPvZ
+
+
+### Post — @osec_io — 2023-02-24 22:55 UTC (2023-02-24 23:55 WAT)
+
+- URL: https://x.com/osec_io/status/1629253701188612096
+- Metrics (at fetch): bookmark 0, impression 1754, like 4, quote 0, reply 0, retweet 1
+
+> OtterSec NFT Sticker Pack? 👀 #wen https://t.co/CNpxCwcPvZ
+
+**Quoted post** 1629199902898257920: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-02-24 · Post · Interested in Web3 security?
+
+
+### Post — @osec_io — 2023-02-24 19:36 UTC (2023-02-24 20:36 WAT)
+
+- URL: https://x.com/osec_io/status/1629203755265675264
+- Metrics (at fetch): bookmark 0, impression 1340, like 7, quote 0, reply 1, retweet 0
+
+> Interested in Web3 security?
+>
+> Then make sure to register for the Web3 Security Panel organized by the @jump_pit and @encodeclub - one of the panelists is our very own @NotDeGhost!
+>
+> Grab your ticket below 👇
+> https://t.co/jF7qncuTQ7 https://t.co/KjrUd3LmSJ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1052564653929353218 — 2023-02-24 18:53 UTC (2023-02-24 19:53 WAT)
+    
+    - URL: https://x.com/1052564653929353218/status/1629192703706537985
+    - Metrics (at fetch): bookmark 0, impression 2140, like 5, quote 1, reply 1, retweet 0
+    
+    > Let’s discuss Web3 Security with @NotDeGhost from @osec_io and @claudijd from @jump_!
+    >
+    > Register for Launch Web3 Day: https://t.co/n4kmeMH3yo https://t.co/iJ3PEgtErA
+    
+    **Media:**
+    - media `3_1629191951793770496` (details not returned by the API)
+    
+
+
+---
+
+## 2023-01-31 · Post · Excited to partner here 🤝🏼 
+
+
+### Post — @osec_io — 2023-01-31 17:14 UTC (2023-01-31 18:14 WAT)
+
+- URL: https://x.com/osec_io/status/1620470556360601601
+- Metrics (at fetch): bookmark 0, impression 4208, like 41, quote 1, reply 2, retweet 10
+
+> Excited to partner here 🤝🏼 
+> Give our friends some attention 🃏
+> ♠️♥️♣️♦️ https://twitter.com/duelcasino/status/1620467150648639488
+
+**Links in post:** https://twitter.com/duelcasino/status/1620467150648639488
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1478491774263828485 — 2023-01-31 17:00 UTC (2023-01-31 18:00 WAT)
+    
+    - URL: https://x.com/1478491774263828485/status/1620467150648639488
+    - Metrics (at fetch): bookmark 1, impression 15904, like 77, quote 10, reply 6, retweet 20
+    
+    > DUEL X OTTERSEC
+    >
+    > We are proud to announce our newest partnership with OSEC, one of the leading audit firms in web3!
+    >
+    > @osec_io will be auditing all new features and games produced by Duel. With their help, we look forward to bringing you more secure and provably fair games.🤝 [pic.x.com/C0wH6blX2G]
+    
+    **Media:**
+    - media `3_1620467060420788224` (details not returned by the API)
+    
+
+
+---
+
+## 2023-01-30 · Post · Excited to be sponsoring this year's @dicegangctf! Stay tuned for some fun challenges :) https://twi
+
+
+### Post — @osec_io — 2023-01-30 22:55 UTC (2023-01-30 23:55 WAT)
+
+- URL: https://x.com/osec_io/status/1620194039919431680
+- Metrics (at fetch): bookmark 0, impression 2045, like 10, quote 0, reply 1, retweet 1
+
+> Excited to be sponsoring this year's @dicegangctf! Stay tuned for some fun challenges :) https://twitter.com/dicegangctf/status/1620192062007308288
+
+**Links in post:** https://twitter.com/dicegangctf/status/1620192062007308288
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1302706447667597316 — 2023-01-30 22:47 UTC (2023-01-30 23:47 WAT)
+    
+    - URL: https://x.com/1302706447667597316/status/1620192062007308288
+    - Metrics (at fetch): bookmark 15, impression 15870, like 101, quote 2, reply 2, retweet 22
+    
+    > 🎲 DiceCTF 2023 starts in 3 days! Win $5,000 in prizes thanks to @osec_io. Register your team now! https://ctf.dicega.ng/
+    
+    **Links in post:** https://ctf.dicega.ng/
+    
+
+
+---
+
+## 2023-01-29 · Post · Excited to begin our professional racing career, thanks to @matchbox_dao — catch us live right now! 
+
+
+### Post — @osec_io — 2023-01-29 16:22 UTC (2023-01-29 17:22 WAT)
+
+- URL: https://x.com/osec_io/status/1619732790278520832
+- Metrics (at fetch): bookmark 0, impression 4620, like 18, quote 0, reply 1, retweet 0
+
+> Excited to begin our professional racing career, thanks to @matchbox_dao — catch us live right now! 🏎 https://twitter.com/matchbox_dao/status/1619697544204001280
+
+**Links in post:** https://twitter.com/matchbox_dao/status/1619697544204001280
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1488918141950431245 — 2023-01-29 14:02 UTC (2023-01-29 15:02 WAT)
+    
+    - URL: https://x.com/1488918141950431245/status/1619697544204001280
+    - Metrics (at fetch): bookmark 1, impression 198572, like 62, quote 14, reply 7, retweet 12
+    
+    > 0xMonaco: Battle of Titans FINALS KICK-OFF 🚨🚨🚨
+    >
+    > The best #web3 companies are on the starting grid competing on a F1/Mario Kart game/CTF in live streaming🏆
+    >
+    > Support &amp; vote for your team👇
+    > On Twitch: Today 14:00 UTC -&gt; https://twitch.tv/matchboxdao
+    >
+    > Drivers, start your engines 🏎💨🏁 [pic.x.com/nnNqtuU1jZ]
+    
+    **Media:**
+    - media `7_1619696944720347137` (details not returned by the API)
+    
+    **Links in post:** https://twitch.tv/matchboxdao
+    
+
+
+---
+
+## 2023-01-27 · Post · https://x.com/i/spaces/1OdKrzYjzRyKX
+
+
+### Post — @osec_io — 2023-01-27 16:04 UTC (2023-01-27 17:04 WAT)
+
+- URL: https://x.com/osec_io/status/1619003357733220353
+- Metrics (at fetch): bookmark 0, impression 3539, like 5, quote 3, reply 3, retweet 1
+
+> https://x.com/i/spaces/1OdKrzYjzRyKX
+
+**Links in post:** https://x.com/i/spaces/1OdKrzYjzRyKX
+
+
+---
+
+## 2023-01-26 · Post · We present a novel framework for formally verifying Solana smart contracts — and a case study applic
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-01-26 18:11 UTC (2023-01-26 19:11 WAT)
+
+- URL: https://x.com/osec_io/status/1618673038987513856
+- Metrics (at fetch): bookmark 13, impression 12422, like 112, quote 3, reply 3, retweet 31
+
+> We present a novel framework for formally verifying Solana smart contracts — and a case study application to @multisig. 
+>
+> A story about bounded model checking, practical specifications, and Anchor macro internals.
+>
+> https://osec.io/blog/tutorials/2023-01-26-formally-verifying-solana-programs/
+
+**Links in post:** https://osec.io/blog/tutorials/2023-01-26-formally-verifying-solana-programs/
+
+
+---
+
+## 2023-01-26 · Post · Excited to announce that we're rebranding as a professional racecar driver team -- look forward to r
+
+
+### Post — @osec_io — 2023-01-26 06:27 UTC (2023-01-26 07:27 WAT)
+
+- URL: https://x.com/osec_io/status/1618495827198251009
+- Metrics (at fetch): bookmark 0, impression 3732, like 21, quote 0, reply 2, retweet 1
+
+> Excited to announce that we're rebranding as a professional racecar driver team -- look forward to racing against everyone next Sunday 🏎️ [pic.x.com/PY5km0QJpo] https://twitter.com/matchbox_dao/status/1617628285902684160
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FnYM0HmWYAAPRMf.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/matchbox_dao/status/1617628285902684160
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1488918141950431245 — 2023-01-23 21:00 UTC (2023-01-23 22:00 WAT)
+    
+    - URL: https://x.com/1488918141950431245/status/1617628285902684160
+    - Metrics (at fetch): bookmark 1, impression 190358, like 112, quote 23, reply 9, retweet 28
+    
+    > QUALIFIED TEAMS ANNOUNCEMENT 🤩
+    >
+    > The play-in was very tight and we even came up with a tie!
+    >
+    > Congratulations to the qualified teams ✨
+    >                                                  👇👇👇 [pic.x.com/8JMZOPd7xH]
+    
+    **Media:**
+    - media `7_1617628257788235777` (details not returned by the API)
+    
+
+
+---
+
+## 2023-01-26 · Post · We're having a twitter spaces with @ferumxyz to discuss DeFi and DevEx on Aptos!
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2023-01-26 02:20 UTC (2023-01-26 03:20 WAT)
+
+- URL: https://x.com/osec_io/status/1618433770721533952
+- Metrics (at fetch): bookmark 1, impression 9135, like 28, quote 1, reply 0, retweet 3
+
+> We're having a twitter spaces with @ferumxyz to discuss DeFi and DevEx on Aptos!
+>
+> RSVP below and we'll see you there:
+> https://x.com/i/spaces/1OdKrzYjzRyKX [pic.x.com/ThOM6pCskV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FnXUrL1aEAAZsEj.jpg — no alt text provided by author
+
+**Links in post:** https://x.com/i/spaces/1OdKrzYjzRyKX
 
 
 ---
@@ -3811,24 +5839,85 @@ Tags (automatic): Smart contract / DeFi
 >
 > We’re extending writeup submissions to 25th January and posting the challenge author’s writeup shortly after! There’s $200 up for grabs and $200 more if you’re a @LamportDAO sandstorm participant!
 >
-> If you have a writeup, send us a DM! https://t.co/nRsaTDdyzF
+> If you have a writeup, send us a DM! https://twitter.com/osec_io/status/1613907285935521798
+
+**Links in post:** https://twitter.com/osec_io/status/1613907285935521798
 
 **Quoted post (full text):**
 
     #### Quoted post — @osec_io — 2023-01-13 14:34 UTC (2023-01-13 15:34 WAT)
     
     - URL: https://x.com/osec_io/status/1613907285935521798
-    - Metrics (at fetch): bookmark 14, impression 25895, like 53, quote 6, reply 3, retweet 13
+    - Metrics (at fetch): bookmark 14, impression 25896, like 53, quote 6, reply 3, retweet 13
     
     > Introducing our first CTF challenge of 2023: The ISTM List!
     >
-    > https://t.co/VJ45uwJ4Bi 
+    > https://istm.osec.io/ 
     >
-    > The challenge is now live till 20th January, more info below 👇 https://t.co/DHZweNNuTC
+    > The challenge is now live till 20th January, more info below 👇 [pic.x.com/DHZweNNuTC]
     
     **Media:**
-    - media `3_1613906236122202112` (details not returned by the API)
+    - photo: https://pbs.twimg.com/media/FmW_K8DaAAAHVkt.jpg — no alt text provided by author
     
+    **Links in post:** https://istm.osec.io/
+    
+
+
+---
+
+## 2023-01-15 · Post · A quick recap of our Space with our partners @stader__near 👇
+
+
+### Post — @osec_io — 2023-01-15 04:03 UTC (2023-01-15 05:03 WAT)
+
+- URL: https://x.com/osec_io/status/1614473258539024384
+- Metrics (at fetch): bookmark 0, impression 2974, like 9, quote 0, reply 1, retweet 3
+
+> A quick recap of our Space with our partners @stader__near 👇
+> https://x.com/stader__near/status/1613168341572812800?s=20
+
+**Links in post:** https://x.com/stader__near/status/1613168341572812800?s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1533733672310145024 — 2023-01-11 13:37 UTC (2023-01-11 14:37 WAT)
+    
+    - URL: https://x.com/1533733672310145024/status/1613168341572812800
+    - Metrics (at fetch): bookmark 0, impression 14016, like 88, quote 6, reply 92, retweet 55
+    
+    > 📢Get ready for AMA with @osec_io 
+    >
+    > 📆12 Jan
+    > ⏰1 PM UTC
+    > 📌https://x.com/i/spaces/1nAJErbzlvVxL
+    >
+    > Win from 25 NearX💰in 3 steps
+    > ➡️Attend AMA
+    > ➡️RT &amp; tag 3 friends
+    > ➡️Follow @osec_io @stader__near
+    >
+    > Ask your questions here: https://t.co/0qsqkLEOdG [pic.x.com/eOKjfJHSU1]
+    
+    **Media:**
+    - media `3_1613168331548430344` (details not returned by the API)
+    
+    **Links in post:** https://x.com/i/spaces/1nAJErbzlvVxL
+    
+
+
+---
+
+## 2023-01-15 · Post · We’re going to @JustinBarlow’s upcoming Space. Who else is joining? https://x.com/i/spaces/1BRJjZkeR
+
+
+### Post — @osec_io — 2023-01-15 03:10 UTC (2023-01-15 04:10 WAT)
+
+- URL: https://x.com/osec_io/status/1614459988256395264
+- Metrics (at fetch): bookmark 0, impression 6228, like 24, quote 0, reply 2, retweet 4
+
+> We’re going to @JustinBarlow’s upcoming Space. Who else is joining? https://x.com/i/spaces/1BRJjZkeRpQJw
+
+**Links in post:** https://x.com/i/spaces/1BRJjZkeRpQJw
 
 
 ---
@@ -3839,16 +5928,62 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @osec_io — 2023-01-13 14:34 UTC (2023-01-13 15:34 WAT)
 
 - URL: https://x.com/osec_io/status/1613907285935521798
-- Metrics (at fetch): bookmark 14, impression 25895, like 53, quote 6, reply 3, retweet 13
+- Metrics (at fetch): bookmark 14, impression 25896, like 53, quote 6, reply 3, retweet 13
 
 > Introducing our first CTF challenge of 2023: The ISTM List!
 >
-> https://t.co/VJ45uwJ4Bi 
+> https://istm.osec.io/ 
 >
-> The challenge is now live till 20th January, more info below 👇 https://t.co/DHZweNNuTC
+> The challenge is now live till 20th January, more info below 👇 [pic.x.com/DHZweNNuTC]
 
 **Media:**
-- media `3_1613906236122202112` (details not returned by the API)
+- photo: https://pbs.twimg.com/media/FmW_K8DaAAAHVkt.jpg — no alt text provided by author
+
+**Links in post:** https://istm.osec.io/
+
+
+---
+
+## 2023-01-13 · Post · We will be hosting a security workshop in the @LamportDAO discord server on 13th January, 9AM EST to
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2023-01-13 02:23 UTC (2023-01-13 03:23 WAT)
+
+- URL: https://x.com/osec_io/status/1613723349791936512
+- Metrics (at fetch): bookmark 0, impression 3732, like 23, quote 0, reply 0, retweet 5
+
+> We will be hosting a security workshop in the @LamportDAO discord server on 13th January, 9AM EST to share our approach to security on Solana, and a special announcement!
+>
+> Hop on the workshop to get first access, see you there! 🦦 [pic.x.com/lWHHXOohWW] https://twitter.com/LamportDAO/status/1611977041678860291
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FmUYicqaUAAHo3i.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/LamportDAO/status/1611977041678860291
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1585498332595720192 — 2023-01-08 06:44 UTC (2023-01-08 07:44 WAT)
+    
+    - URL: https://x.com/1585498332595720192/status/1611977041678860291
+    - Metrics (at fetch): bookmark 0, impression 8606, like 46, quote 1, reply 2, retweet 12
+    
+    > We're happy to have @osec_io as a workshop partner for Sandstorm!
+    >
+    > @osec_io is Solana's leading smart contract security firm, and will conduct a security workshop during Sandstorm with a CTF challenge at the end!
+    >
+    > More info here: https://osec.io/
+    >
+    > Stay tuned for Sandstorm. [pic.x.com/TVzpLLq7bS]
+    
+    **Media:**
+    - media `3_1611977020820574210` (details not returned by the API)
+    
+    **Links in post:** https://osec.io/
+    
 
 
 ---
@@ -3862,11 +5997,11 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @osec_io — 2023-01-12 08:51 UTC (2023-01-12 09:51 WAT)
 
 - URL: https://x.com/osec_io/status/1613458740346241024
-- Metrics (at fetch): bookmark 10, impression 14932, like 91, quote 3, reply 5, retweet 43
+- Metrics (at fetch): bookmark 10, impression 14934, like 91, quote 3, reply 5, retweet 43
 
 > While smart contract security is important, there are other simple attack vectors, like Discord, that have been used to socially engineer community members for their Discord credentials and private keys.
 >
-> Let's dive into the recent attacks on #Aptos Discords 👇 1/9 https://t.co/PS0QJsO35w
+> Let's dive into the recent attacks on #Aptos Discords 👇 1/9 [pic.x.com/PS0QJsO35w]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FmQhAlCXwAAG-cV.jpg — no alt text provided by author
@@ -3948,6 +6083,113 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2023-01-04 · Post · OtterSec got $BONK-ed [pic.x.com/urTbNLInuL] https://twitter.com/bonk_inu/status/1609307750261194754
+
+
+### Post — @osec_io — 2023-01-04 02:04 UTC (2023-01-04 03:04 WAT)
+
+- URL: https://x.com/osec_io/status/1610457061313384449
+- Metrics (at fetch): bookmark 1, impression 8659, like 38, quote 0, reply 1, retweet 2
+
+> OtterSec got $BONK-ed [pic.x.com/urTbNLInuL] https://twitter.com/bonk_inu/status/1609307750261194754
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fll-AhdaYAIjv2e.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/bonk_inu/status/1609307750261194754
+
+**Quoted post** 1609307750261194754: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-01-01 · Post · Congrats to our friends at Entertainmint on the launch! Excited to work with this team on their futu
+
+
+### Post — @osec_io — 2023-01-01 15:50 UTC (2023-01-01 16:50 WAT)
+
+- URL: https://x.com/osec_io/status/1609577696388055042
+- Metrics (at fetch): bookmark 0, impression 2540, like 10, quote 0, reply 0, retweet 1
+
+> Congrats to our friends at Entertainmint on the launch! Excited to work with this team on their future endeavors. https://t.co/n25ohXxwO5
+
+**Links in post:** https://t.co/n25ohXxwO5
+
+**Quoted post** 1606407574118711296: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-12-28 · Post · WAO 🎒👀 https://twitter.com/degenpoet/status/1607779407661535233
+
+
+### Post — @osec_io — 2022-12-28 22:18 UTC (2022-12-28 23:18 WAT)
+
+- URL: https://x.com/osec_io/status/1608225913992511489
+- Metrics (at fetch): bookmark 0, impression 2144, like 5, quote 0, reply 1, retweet 0
+
+> WAO 🎒👀 https://twitter.com/degenpoet/status/1607779407661535233
+
+**Links in post:** https://twitter.com/degenpoet/status/1607779407661535233
+
+**Quoted post** 1607779407661535233: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-12-16 · Post · @RaydiumProtocol  just got hacked. It doesn't seem like a smart contract vulnerability. 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2022-12-16 14:44 UTC (2022-12-16 15:44 WAT)
+
+- URL: https://x.com/osec_io/status/1603763023151509505
+- Metrics (at fetch): bookmark 9, impression 52613, like 113, quote 11, reply 3, retweet 39
+
+> @RaydiumProtocol  just got hacked. It doesn't seem like a smart contract vulnerability. 
+>
+> Here's our analysis. [pic.x.com/HKpxNayjNY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkG09I9WYAEdKDX.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-13 · Post · Proud to collaborate with @Aptos_Network on structural improvements to the Move VM! Excited to be wo
+
+
+### Post — @osec_io — 2022-12-13 06:14 UTC (2022-12-13 07:14 WAT)
+
+- URL: https://x.com/osec_io/status/1602547412249239558
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 0, retweet 2
+
+> Proud to collaborate with @Aptos_Network on structural improvements to the Move VM! Excited to be working toward a safer Move for everyone -- stay tuned for more https://twitter.com/Aptos/status/1602357660988440576
+
+**Links in post:** https://twitter.com/Aptos/status/1602357660988440576
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1491526425580474368 — 2022-12-12 17:40 UTC (2022-12-12 18:40 WAT)
+    
+    - URL: https://x.com/1491526425580474368/status/1602357660988440576
+    - Metrics (at fetch): bookmark 8, impression 0, like 216, quote 12, reply 9, retweet 146
+    
+    > 1/ All in on the #MoveLang?
+    >
+    > Aptos secures and battle-tests the Move language for the broader Move community, investing in resources that create and improve upon the standards of the language for everyone!
+    >
+    > This blog from @aptoslabs &amp; @osec_io explains ⤵️
+    > https://aptoslabs.medium.com/securing-move-f81099f5e08c
+    
+    **Links in post:** https://aptoslabs.medium.com/securing-move-f81099f5e08c
+    
+
+
+---
+
 ## 2022-12-10 · Post · As part of a routine audit, we found a critical memory corruption issue in Solana’s onchain SDK. If 
 
 
@@ -3962,7 +6204,82 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > As part of a routine audit, we found a critical memory corruption issue in Solana’s onchain SDK. If you’ve ever used account reallocation, pay close attention ⏰
 >
 > Here’s how it all happened.
-> https://t.co/FGM99NUd4J
+> https://osec.io/blog/reports/2022-12-09-rust-realloc-and-references/
+
+**Links in post:** https://osec.io/blog/reports/2022-12-09-rust-realloc-and-references/
+
+
+---
+
+## 2022-11-25 · Post · As part of our ongoing security partnership and collaboration with @ape16z, we are giving away 3 ape
+
+
+### Post — @osec_io — 2022-11-25 17:16 UTC (2022-11-25 18:16 WAT)
+
+- URL: https://x.com/osec_io/status/1596191090427559936
+- Metrics (at fetch): bookmark 0, impression 0, like 262, quote 0, reply 38, retweet 215
+
+> As part of our ongoing security partnership and collaboration with @ape16z, we are giving away 3 apelists for the big mint at the end of the month!
+>
+> To enter:
+> - Follow @ape16z and @osec_io
+> - Like and retweet this tweet
+>
+> 3 spots to be given away on November 27th 3PM PST! ⬇️ [pic.x.com/nq7i0cLQbS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FibOiBTUoAAWoVf.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-17 · Post · We are live! Ask us anything in light of our new partnership with @SuiNSdapp 💧🦦
+
+
+### Post — @osec_io — 2022-11-17 22:06 UTC (2022-11-17 23:06 WAT)
+
+- URL: https://x.com/osec_io/status/1593364870589689856
+- Metrics (at fetch): bookmark 1, impression 0, like 10, quote 1, reply 3, retweet 3
+
+> We are live! Ask us anything in light of our new partnership with @SuiNSdapp 💧🦦
+>
+> https://x.com/i/spaces/1ynKOaeMMNqJR
+
+**Links in post:** https://x.com/i/spaces/1ynKOaeMMNqJR
+
+
+---
+
+## 2022-11-17 · Post · https://x.com/i/spaces/1ynKOaeMMNqJR
+
+
+### Post — @osec_io — 2022-11-17 22:03 UTC (2022-11-17 23:03 WAT)
+
+- URL: https://x.com/osec_io/status/1593364324050882560
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 6, retweet 1
+
+> https://x.com/i/spaces/1ynKOaeMMNqJR
+
+**Links in post:** https://x.com/i/spaces/1ynKOaeMMNqJR
+
+
+---
+
+## 2022-11-17 · Post · Excited to announce our partnership with @SuiNSdapp!
+
+
+### Post — @osec_io — 2022-11-17 02:02 UTC (2022-11-17 03:02 WAT)
+
+- URL: https://x.com/osec_io/status/1593061948480184321
+- Metrics (at fetch): bookmark 0, impression 0, like 59, quote 2, reply 1, retweet 13
+
+> Excited to announce our partnership with @SuiNSdapp!
+>
+> We will be hosting a community AMA tomorrow to discuss the Sui Ecosystem and Security 💧🦦
+>
+>  https://x.com/i/spaces/1nAKErjpbPYGL
+
+**Links in post:** https://x.com/i/spaces/1nAKErjpbPYGL
 
 
 ---
@@ -3980,10 +6297,395 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 > 1/ Alameda has been a long-standing, loyal security audit client of ours. We also work closely with many projects on Solana, many of which are directly or indirectly affected by FTX’s insolvency. 
 >
-> Here’s our perspective. https://t.co/gD7WtF10EP
+> Here’s our perspective. [pic.x.com/gD7WtF10EP]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Fhf5d2AWAAcd3bl.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-14 · Post · To clarify, we do not believe that FTX hacked Mango. This quote was taken out of context. 
+
+
+### Post — @osec_io — 2022-11-14 04:11 UTC (2022-11-14 05:11 WAT)
+
+- URL: https://x.com/osec_io/status/1592007310276456448
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 1, reply 2, retweet 1
+
+> To clarify, we do not believe that FTX hacked Mango. This quote was taken out of context. 
+>
+> https://x.com/cuffyCapital/status/1592007081024180225 https://twitter.com/MarioNawfal/status/1591389209075814406
+
+**Links in post:** https://x.com/cuffyCapital/status/1592007081024180225, https://twitter.com/MarioNawfal/status/1591389209075814406
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1319287761048723458 — 2022-11-12 11:15 UTC (2022-11-12 12:15 WAT)
+    
+    - URL: https://x.com/1319287761048723458/status/1591389209075814406
+    - Metrics (at fetch): bookmark 88, impression 0, like 2343, quote 71, reply 113, retweet 557
+    
+    > 🚨MASSIVE REVELATION
+    > "The hack seems to be internal" - Alameda security auditor live on the space
+    >
+    > The 'mango hack' was funded by an FTX wallet. Auditor brought the issue up to FTX and were ghosted.
+    >
+    > 👇
+    
+
+
+---
+
+## 2022-11-04 · Post · Thanks to everyone who joined us tonight! Looking forward to the BOSS event on November 4th :) https
+
+
+### Post — @osec_io — 2022-11-04 02:37 UTC (2022-11-04 03:37 WAT)
+
+- URL: https://x.com/osec_io/status/1588359663954731009
+- Metrics (at fetch): bookmark 0, impression 0, like 15, quote 0, reply 0, retweet 1
+
+> Thanks to everyone who joined us tonight! Looking forward to the BOSS event on November 4th :) https://twitter.com/drip_haus/status/1588302463064739841
+
+**Links in post:** https://twitter.com/drip_haus/status/1588302463064739841
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1512518742051237893 — 2022-11-03 22:49 UTC (2022-11-03 23:49 WAT)
+    
+    - URL: https://x.com/1512518742051237893/status/1588302463064739841
+    - Metrics (at fetch): bookmark 3, impression 0, like 73, quote 2, reply 4, retweet 16
+    
+    > Based Layer with @leapxyz @multisig @marginfi @osec_io @clockwork_xyz @jito_labs 
+    >
+    > Music, poker, frens. Awesome night! [pic.x.com/7V2HT7Fla1]
+    
+    **Media:**
+    - media `7_1588302306637975552` (details not returned by the API)
+    
+
+
+---
+
+## 2022-11-02 · Post · Are you attending the Sui Builder House in Lisbon today? 💧
+
+
+### Post — @osec_io — 2022-11-02 12:11 UTC (2022-11-02 13:11 WAT)
+
+- URL: https://x.com/osec_io/status/1587779454616707072
+- Metrics (at fetch): bookmark 3, impression 0, like 22, quote 1, reply 3, retweet 2
+
+> Are you attending the Sui Builder House in Lisbon today? 💧
+>
+> Stick around from 2:00 - 2:30pm — founder @NotDeGhost will be talking about Move security, internals, and best practices from an auditor's perspective! [pic.x.com/psmqo6SGKZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fgjs8SJXwAAMsCq.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-02 · Post · Are you going to be at Based Layer on November 3rd in Lisbon?👀
+
+
+### Post — @osec_io — 2022-11-02 11:46 UTC (2022-11-02 12:46 WAT)
+
+- URL: https://x.com/osec_io/status/1587773096655740929
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 0, reply 2, retweet 2
+
+> Are you going to be at Based Layer on November 3rd in Lisbon?👀
+>
+> Rumor has it that @asiangirlintech with @clockwork_xyz will be dealing at the OtterSec blackjack table ❤️♣️♦️♠️
+
+
+---
+
+## 2022-11-01 · Post · We’re excited to co-organize MoveCTF, along with @MoveBit_ and @chainflag, sponsored by @SuiNetwork!
+
+
+### Post — @osec_io — 2022-11-01 16:04 UTC (2022-11-01 17:04 WAT)
+
+- URL: https://x.com/osec_io/status/1587475770338861058
+- Metrics (at fetch): bookmark 0, impression 0, like 31, quote 2, reply 2, retweet 7
+
+> We’re excited to co-organize MoveCTF, along with @MoveBit_ and @chainflag, sponsored by @SuiNetwork! 
+>
+> The CTF will run for 48 hours, with a prize pool of over 1800 USDT and NFTs! [pic.x.com/02p03DwQmV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FgfXAzvX0AM17PL.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-27 · Post · In light of our recent partnership with @xNFT_Backpack, we are giving away 20 invite codes to the Ba
+
+
+### Post — @osec_io — 2022-10-27 18:52 UTC (2022-10-27 19:52 WAT)
+
+- URL: https://x.com/osec_io/status/1585706079924588546
+- Metrics (at fetch): bookmark 2, impression 0, like 365, quote 4, reply 200, retweet 270
+
+> In light of our recent partnership with @xNFT_Backpack, we are giving away 20 invite codes to the Backpack Beta! 🎒
+>
+> To enter:
+> -Follow @xNFT_Backpack and @osec_io
+> -Like and retweet this tweet
+>
+> 20 people will be randomly selected on October 29th @ 3PM PST! #WAO [pic.x.com/yoGgRADPlp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FgGPRsgVIAE1nqM.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-27 · Post · Going to Lisbon for @SolanaConf?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-10-27 15:18 UTC (2022-10-27 16:18 WAT)
+
+- URL: https://x.com/osec_io/status/1585652159600656384
+- Metrics (at fetch): bookmark 1, impression 0, like 40, quote 0, reply 3, retweet 4
+
+> Going to Lisbon for @SolanaConf?
+>
+> We'd love to see you there along with some of our amazing partners :)
+> @leapxyz
+> @multisig
+> @marginfi
+> @clockwork_xyz
+> @jito_labs [pic.x.com/JwBqBpMMuA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FgFeBksVsAABdNd.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-25 · Post · Appreciated collaborating with the Argo Labs core team on the security of their decentralized stable
+
+
+### Post — @osec_io — 2022-10-25 00:42 UTC (2022-10-25 01:42 WAT)
+
+- URL: https://x.com/osec_io/status/1584706932731916288
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 1, retweet 2
+
+> Appreciated collaborating with the Argo Labs core team on the security of their decentralized stablecoin on #Aptos! https://twitter.com/ArgoUSD/status/1584629900937695232
+
+**Links in post:** https://twitter.com/ArgoUSD/status/1584629900937695232
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1431331457977442306 — 2022-10-24 19:36 UTC (2022-10-24 20:36 WAT)
+    
+    - URL: https://x.com/1431331457977442306/status/1584629900937695232
+    - Metrics (at fetch): bookmark 1, impression 0, like 54, quote 11, reply 4, retweet 14
+    
+    > Argo has completed a security audit through @osec_io. All issues have been resolved.
+    >
+    > The report is available at https://docs.argo.fi/safety/audits. [pic.x.com/ZyMyoUOaZb]
+    
+    **Media:**
+    - media `3_1584629802073354240` (details not returned by the API)
+    
+    **Links in post:** https://docs.argo.fi/safety/audits
+    
+
+
+---
+
+## 2022-10-21 · Post · Congratulations to @RatioFinance on winning the $10,000 prize! 
+
+
+### Post — @osec_io — 2022-10-21 23:04 UTC (2022-10-22 00:04 WAT)
+
+- URL: https://x.com/osec_io/status/1583595078395645957
+- Metrics (at fetch): bookmark 1, impression 0, like 19, quote 1, reply 5, retweet 5
+
+> Congratulations to @RatioFinance on winning the $10,000 prize! 
+>
+> Very excited to collaborate with them on the future iterations of their protocol.
+>
+> Great team, great product. 🤝🏼 https://t.co/6gvewmk1IT https://t.co/8YM6KFJSX6
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1583595022636679172/pu/img/HjDjUv_jz4E_394u.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @osec_io — 2022-10-21 19:55 UTC (2022-10-21 20:55 WAT)
+    
+    - URL: https://x.com/osec_io/status/1583547476124237824
+    - Metrics (at fetch): bookmark 0, impression 0, like 16, quote 1, reply 0, retweet 2
+    
+    > OtterSec founder, @NotDeGhost, is 1 of 5 judges for Week 4 Demo Day at @jump_pit, hosted by @jump_.
+    >
+    > We are on the lookout for the most novel and complex idea to give $10k in professional security consultancy 👀
+    >
+    > Stay tuned for the winner and GL to all the builders demoing today! https://t.co/rEGzMhCH5u
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FfnkCPSWIBINLZg.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2022-10-21 · Post · OtterSec founder, @NotDeGhost, is 1 of 5 judges for Week 4 Demo Day at @jump_pit, hosted by @jump_.
+
+
+### Post — @osec_io — 2022-10-21 19:55 UTC (2022-10-21 20:55 WAT)
+
+- URL: https://x.com/osec_io/status/1583547476124237824
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 1, reply 0, retweet 2
+
+> OtterSec founder, @NotDeGhost, is 1 of 5 judges for Week 4 Demo Day at @jump_pit, hosted by @jump_.
+>
+> We are on the lookout for the most novel and complex idea to give $10k in professional security consultancy 👀
+>
+> Stay tuned for the winner and GL to all the builders demoing today! https://t.co/rEGzMhCH5u
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FfnkCPSWIBINLZg.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-21 · Post · https://t.co/hGUJ4Vv7B9
+
+
+### Post — @osec_io — 2022-10-21 17:10 UTC (2022-10-21 18:10 WAT)
+
+- URL: https://x.com/osec_io/status/1583506026979991554
+- Metrics (at fetch): bookmark 1, impression 0, like 10, quote 0, reply 1, retweet 3
+
+> https://t.co/hGUJ4Vv7B9
+
+
+---
+
+## 2022-10-20 · Post · Josh Siegel, 17 year veteran at @jump_ , plays Mastermind against founder of OtterSec, Robert Chen, 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-10-20 20:28 UTC (2022-10-20 21:28 WAT)
+
+- URL: https://x.com/osec_io/status/1583193458105163776
+- Metrics (at fetch): bookmark 4, impression 0, like 87, quote 0, reply 4, retweet 8
+
+> Josh Siegel, 17 year veteran at @jump_ , plays Mastermind against founder of OtterSec, Robert Chen, while discussing @wormholecrypto, @SuiNetwork, @AptosFoundation, @Solana and @NEARProtocol. https://t.co/Lba0ENzOoX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FfiiAF6XgAM34f5.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FfiiAHwWIAgYEPl.jpg — no alt text provided by author
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1583193392007241729/pu/img/bkU6i960qO4lb63k.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-20 · Post · It’s been a joy to work closely with the @TortugaFinance team - excited to have a trusted liquid sta
+
+
+### Post — @osec_io — 2022-10-20 17:14 UTC (2022-10-20 18:14 WAT)
+
+- URL: https://x.com/osec_io/status/1583144529833533441
+- Metrics (at fetch): bookmark 1, impression 0, like 20, quote 0, reply 1, retweet 1
+
+> It’s been a joy to work closely with the @TortugaFinance team - excited to have a trusted liquid staking protocol deploying on Aptos!
+>
+> Tune in to our spaces on friday for a discussion on liquid staking security:
+> https://t.co/2hNUVNG0Fv https://t.co/cfuOpaPyQ3
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1550539853137416195 — 2022-10-20 16:58 UTC (2022-10-20 17:58 WAT)
+    
+    - URL: https://x.com/1550539853137416195/status/1583140677000404993
+    - Metrics (at fetch): bookmark 0, impression 0, like 83, quote 1, reply 5, retweet 15
+    
+    > 1/ Tortuga is the most trusted liquid staking protocol on Aptos.
+    >
+    > Tortuga is now fully audited by @osec_io! The report is now available in our docs. https://t.co/V2QFr3xdOn
+    
+    **Media:**
+    - media `3_1583130459961053184` (details not returned by the API)
+    
+
+
+---
+
+## 2022-10-18 · Post · Congrats to @AptosLabs on mainnet launch! 🎉
+
+
+### Post — @osec_io — 2022-10-18 00:59 UTC (2022-10-18 01:59 WAT)
+
+- URL: https://x.com/osec_io/status/1582174419379572736
+- Metrics (at fetch): bookmark 0, impression 0, like 70, quote 1, reply 4, retweet 9
+
+> Congrats to @AptosLabs on mainnet launch! 🎉
+>
+> Join @cuffyCapital, @EVNFT, and @cyber_porter in our AMA tomorrow for all community members and projects building in the space! 
+>
+> Looking forward to hearing from everyone about #Aptos and #Move👂🏼
+>
+> https://t.co/jGWC3mY1JR
+
+
+---
+
+## 2022-10-18 · Post · It’s been a pleasure working with the Ditto team! 
+
+
+### Post — @osec_io — 2022-10-18 00:19 UTC (2022-10-18 01:19 WAT)
+
+- URL: https://x.com/osec_io/status/1582164469500690433
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 2
+
+> It’s been a pleasure working with the Ditto team! 
+>
+> Excited to secure the future of liquid staking on Aptos with great teams like @Ditto_Finance 🤝🏼 https://t.co/j6ioVqnRim
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1557312730016907264 — 2022-10-17 14:58 UTC (2022-10-17 15:58 WAT)
+    
+    - URL: https://x.com/1557312730016907264/status/1582023243417808896
+    - Metrics (at fetch): bookmark 4, impression 0, like 147, quote 6, reply 19, retweet 59
+    
+    > We are incredibly proud to announce that Ditto will launch as a *fully audited* protocol! 🔥 🔒 💪
+    >
+    > OtterSec (@osec_io), the leading auditing firm for @AptosLabs and @solana protocols, has thoroughly reviewed our smart contracts, and we're ready to go!
+    >
+    > Safe. Secure. Ditto. 🤝 https://t.co/KOEn8hK5v1
+    
+    **Media:**
+    - media `3_1582023235742228483` (details not returned by the API)
+    
+
+
+---
+
+## 2022-10-17 · Post · 🗣️ OtterSec x Aries Markets 🗣️
+
+
+### Post — @osec_io — 2022-10-17 14:06 UTC (2022-10-17 15:06 WAT)
+
+- URL: https://x.com/osec_io/status/1582010251481448448
+- Metrics (at fetch): bookmark 0, impression 0, like 21, quote 0, reply 0, retweet 3
+
+> 🗣️ OtterSec x Aries Markets 🗣️
+>
+> We greatly appreciate their initiative and commitment towards security.  
+>
+> We’re looking forward to securing @AriesMarkets together! https://t.co/jaimB47ikZ
+
+**Quoted post** 1582008780924936192: not readable via the API (deleted, private, or withheld).
 
 
 ---
@@ -4012,7 +6714,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2022-10-11 22:59 UTC (2022-10-11 23:59 WAT)
 
 - URL: https://x.com/osec_io/status/1579969927020412929
-- Metrics (at fetch): bookmark 96, impression 0, like 1677, quote 547, reply 191, retweet 558
+- Metrics (at fetch): bookmark 96, impression 0, like 1676, quote 547, reply 191, retweet 558
 
 > @mangomarkets was just drained for over $100M. 
 >
@@ -4022,6 +6724,263 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Fe0tge4aYAAlhsS.png — no alt text provided by author
+
+
+---
+
+## 2022-10-11 · Post · https://t.co/lmKbHEP190
+
+
+### Post — @osec_io — 2022-10-11 16:00 UTC (2022-10-11 17:00 WAT)
+
+- URL: https://x.com/osec_io/status/1579864464257478658
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 2, reply 0, retweet 6
+
+> https://t.co/lmKbHEP190
+
+
+---
+
+## 2022-10-10 · Post · We’re excited to partner with @ArgoUSD in securing the development of their web3 journey 🤝
+
+
+### Post — @osec_io — 2022-10-10 18:05 UTC (2022-10-10 19:05 WAT)
+
+- URL: https://x.com/osec_io/status/1579533665184649216
+- Metrics (at fetch): bookmark 1, impression 0, like 18, quote 1, reply 1, retweet 3
+
+> We’re excited to partner with @ArgoUSD in securing the development of their web3 journey 🤝
+>
+> Tune in to our spaces on October 11 at 12PM EST as we discuss everything related to stablecoin security, reminder below! 👇 https://t.co/J7GjKRWzOu https://t.co/WRSP2hBgFo
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeuhTO_UoAAvUNO.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1431331457977442306 — 2022-10-10 17:09 UTC (2022-10-10 18:09 WAT)
+    
+    - URL: https://x.com/1431331457977442306/status/1579519455658651649
+    - Metrics (at fetch): bookmark 0, impression 0, like 29, quote 6, reply 3, retweet 4
+    
+    > 🚨Partnership Announcement🚨
+    >
+    > We're working with @osec_io to bolster Argo's safety and security. 
+    >
+    > Ottersec has provided audits to many other DeFi teams across Aptos - we're excited to bring them on board! https://t.co/EaqalYaGtB
+    
+    **Media:**
+    - media `3_1579516417723899915` (details not returned by the API)
+    
+
+
+---
+
+## 2022-10-09 · Post · Join founder @NotDeGhost this Monday to catch up with the latest on Move Security! https://t.co/fG6h
+
+
+### Post — @osec_io — 2022-10-09 17:57 UTC (2022-10-09 18:57 WAT)
+
+- URL: https://x.com/osec_io/status/1579169242775433216
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 0, retweet 3
+
+> Join founder @NotDeGhost this Monday to catch up with the latest on Move Security! https://t.co/fG6hP5kL6X
+
+**Quoted post (full text):**
+
+    #### Quoted post — @807501835 — 2022-10-09 17:53 UTC (2022-10-09 18:53 WAT)
+    
+    - URL: https://x.com/807501835/status/1579168101278814208
+    - Metrics (at fetch): bookmark 2, impression 0, like 103, quote 3, reply 5, retweet 14
+    
+    > Tomorrow's @AptosLabs' Move Monday is jam packed with @NotDeGhost from @osec_io on to discuss securing Move as well as @EconiaLabs to discuss recent gas changes.
+    >
+    > Come tomorrow 10/10
+    > 10 AM PST / 5 PM GMT
+    > Twitch https://t.co/sKg4bAv2cz
+    > Discord https://t.co/aJatMLi8NV
+    
+
+
+---
+
+## 2022-10-08 · Post · We like the AUP 🤝🏼 https://t.co/dcZVtFcRRQ
+
+
+### Post — @osec_io — 2022-10-08 18:23 UTC (2022-10-08 19:23 WAT)
+
+- URL: https://x.com/osec_io/status/1578813263437266944
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 1, reply 0, retweet 2
+
+> We like the AUP 🤝🏼 https://t.co/dcZVtFcRRQ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1578514686710108160 — 2022-10-08 17:17 UTC (2022-10-08 18:17 WAT)
+    
+    - URL: https://x.com/1578514686710108160/status/1578796741562093568
+    - Metrics (at fetch): bookmark 1, impression 0, like 16, quote 2, reply 2, retweet 5
+    
+    > web3 search results verified by decentralized consensus
+    >
+    > stored immutably forever on the blockchain ✅ https://t.co/MWsbym4qHN
+    
+    **Media:**
+    - media `3_1578796731369660417` (details not returned by the API)
+    - media `3_1578796731365564420` (details not returned by the API)
+    
+
+
+---
+
+## 2022-10-07 · Post · https://t.co/HW1eeFdjTL
+
+
+### Post — @osec_io — 2022-10-07 16:59 UTC (2022-10-07 17:59 WAT)
+
+- URL: https://x.com/osec_io/status/1578429822056816641
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 3
+
+> https://t.co/HW1eeFdjTL
+
+
+---
+
+## 2022-10-06 · Post · We're excited to announce our security partnership with @switchboardxyz! 🗣️
+
+
+### Post — @osec_io — 2022-10-06 19:08 UTC (2022-10-06 20:08 WAT)
+
+- URL: https://x.com/osec_io/status/1578099989871353856
+- Metrics (at fetch): bookmark 0, impression 0, like 23, quote 2, reply 2, retweet 5
+
+> We're excited to announce our security partnership with @switchboardxyz! 🗣️
+>
+> Tune in to our spaces on Oct 7 1PM EST as we host @DoctorBlocks and @0xYankee from @switchboardxyz to talk about security and oracle on Aptos! 👇 https://t.co/nisUDr72ac https://t.co/ICuyqm8t9u
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeaJD3AVUAATdeo.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1384968566743740418 — 2022-10-06 19:05 UTC (2022-10-06 20:05 WAT)
+    
+    - URL: https://x.com/1384968566743740418/status/1578099158468022273
+    - Metrics (at fetch): bookmark 0, impression 0, like 20, quote 3, reply 2, retweet 8
+    
+    > Switchboard Labs is excited to announce our security partnership with @osec_io!
+    >
+    > We've been working closely with OtterSec to bring a safe and secure oracle infrastructure to the protocols and builders on @AptosLabs. https://t.co/jSVOTYif6r
+    
+    **Media:**
+    - media `3_1578099144236752896` (details not returned by the API)
+    
+
+
+---
+
+## 2022-10-05 · Post · https://t.co/oQewBuNGrW
+
+
+### Post — @osec_io — 2022-10-05 15:59 UTC (2022-10-05 16:59 WAT)
+
+- URL: https://x.com/osec_io/status/1577689991177715714
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 4, retweet 5
+
+> https://t.co/oQewBuNGrW
+
+
+---
+
+## 2022-10-04 · Post · Hate rugs?
+
+
+### Post — @osec_io — 2022-10-04 16:02 UTC (2022-10-04 17:02 WAT)
+
+- URL: https://x.com/osec_io/status/1577328361457664001
+- Metrics (at fetch): bookmark 0, impression 0, like 22, quote 1, reply 4, retweet 6
+
+> Hate rugs?
+>
+> Join us for a Twitter Spaces as we host @martian_wallet and their team: @Abhibinav, @utksn15, and @sid_who_  to discuss asset security on Aptos!
+>
+> Spaces reminder 👇: https://t.co/KWBi2xaPYn https://t.co/jdzWoYrA1E
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FePLZriUAAEgu73.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1496231813202731013 — 2022-09-27 22:37 UTC (2022-09-27 23:37 WAT)
+    
+    - URL: https://x.com/1496231813202731013/status/1574891043094396929
+    - Metrics (at fetch): bookmark 1, impression 0, like 99, quote 4, reply 6, retweet 16
+    
+    > Very thrilled to announce our long term partnership with @osec_io to make @martian_wallet the most secure and safe wallet in the @AptosLabs ecosystem.
+    >
+    > OtterSec has immense experience having worked with web3 giants like Phantom, Solana, Alameda, Layerzero, Serum and more! https://t.co/cOZY0hLzbZ
+    
+    **Media:**
+    - media `3_1574890534392430595` (details not returned by the API)
+    
+
+
+---
+
+## 2022-10-03 · Post · 🗣Hey🗣
+
+
+### Post — @osec_io — 2022-10-03 23:48 UTC (2022-10-04 00:48 WAT)
+
+- URL: https://x.com/osec_io/status/1577083168640802816
+- Metrics (at fetch): bookmark 1, impression 0, like 33, quote 3, reply 1, retweet 5
+
+> 🗣Hey🗣
+>
+> We are hosting an event for xHack Chicago participants on Thursday, October 6th @ 6:30PM. 🎉😎
+>
+> We are cosponsoring with the lovely teams of @NotifiNetwork, @leapxyz, @VRRBLabs, and @Zebec_HQ. 🤝
+
+
+---
+
+## 2022-09-28 · Post · Thrilled to have an opportunity to partner with the passionate and security-minded @martian_wallet t
+
+
+### Post — @osec_io — 2022-09-28 02:43 UTC (2022-09-28 03:43 WAT)
+
+- URL: https://x.com/osec_io/status/1574952877449048064
+- Metrics (at fetch): bookmark 1, impression 0, like 17, quote 0, reply 1, retweet 2
+
+> Thrilled to have an opportunity to partner with the passionate and security-minded @martian_wallet team! Looking forward to building great things together. https://t.co/jdzWoYrA1E
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1496231813202731013 — 2022-09-27 22:37 UTC (2022-09-27 23:37 WAT)
+    
+    - URL: https://x.com/1496231813202731013/status/1574891043094396929
+    - Metrics (at fetch): bookmark 1, impression 0, like 99, quote 4, reply 6, retweet 16
+    
+    > Very thrilled to announce our long term partnership with @osec_io to make @martian_wallet the most secure and safe wallet in the @AptosLabs ecosystem.
+    >
+    > OtterSec has immense experience having worked with web3 giants like Phantom, Solana, Alameda, Layerzero, Serum and more! https://t.co/cOZY0hLzbZ
+    
+    **Media:**
+    - media `3_1574890534392430595` (details not returned by the API)
+    
+
+
+---
+
+## 2022-09-27 · Post · https://t.co/6rzIicT48L
+
+
+### Post — @osec_io — 2022-09-27 17:01 UTC (2022-09-27 18:01 WAT)
+
+- URL: https://x.com/osec_io/status/1574806327297069062
+- Metrics (at fetch): bookmark 1, impression 0, like 3, quote 0, reply 3, retweet 1
+
+> https://t.co/6rzIicT48L
 
 
 ---
@@ -4059,6 +7018,24 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2022-09-26 · Post · Calling all Move devs and security engineers 🗣️
+
+
+### Post — @osec_io — 2022-09-26 05:07 UTC (2022-09-26 06:07 WAT)
+
+- URL: https://x.com/osec_io/status/1574264291653341185
+- Metrics (at fetch): bookmark 3, impression 0, like 85, quote 2, reply 7, retweet 21
+
+> Calling all Move devs and security engineers 🗣️
+>
+> We are holding a space with @TsunamiFinance_ and @STARSPACEio to discuss the current state of cybersecurity on Aptos and Sui!
+>
+> If you are developing in Move or have interest in how we operate, tune in:
+> https://t.co/6rzIicT48L
+
+
+---
+
 ## 2022-09-20 · Post · We want to thank @stader__near for trusting us to audit their liquid staking program! Great team and
 
 
@@ -4067,7 +7044,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/osec_io/status/1572314789061206017
 - Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
 
-> We want to thank @stader__near for trusting us to audit their liquid staking program! Great team and great product across all ecosystems. @staderlabs https://t.co/4Sna8iIuhY
+> We want to thank @stader__near for trusting us to audit their liquid staking program! Great team and great product across all ecosystems. @staderlabs https://twitter.com/stader__near/status/1572296202036842497
+
+**Links in post:** https://twitter.com/stader__near/status/1572296202036842497
 
 **Quoted post (full text):**
 
@@ -4083,10 +7062,326 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     > 2⃣@HalbornSecurity: https://t.co/rN60NfMfOr
     > 3⃣@osec_io: https://t.co/Aa5WTt1gC0
     >
-    > Stake #NEAR under top-notch security &amp; get ~29% APY @ https://t.co/64ywZ431Sd https://t.co/1oAipS4Tx8
+    > Stake #NEAR under top-notch security &amp; get ~29% APY @ http://near.staderlabs.com [pic.x.com/1oAipS4Tx8]
     
     **Media:**
     - media `16_1572295889175322624` (details not returned by the API)
+    
+    **Links in post:** http://near.staderlabs.com
+    
+
+
+---
+
+## 2022-09-16 · Post · Proud to be working with @PontemNetwork to secure their smart contracts! https://twitter.com/PontemN
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2022-09-16 19:57 UTC (2022-09-16 20:57 WAT)
+
+- URL: https://x.com/osec_io/status/1570864584017453058
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 2
+
+> Proud to be working with @PontemNetwork to secure their smart contracts! https://twitter.com/PontemNetwork/status/1570863942515445761
+
+**Links in post:** https://twitter.com/PontemNetwork/status/1570863942515445761
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1338852157337071623 — 2022-09-16 19:55 UTC (2022-09-16 20:55 WAT)
+    
+    - URL: https://x.com/1338852157337071623/status/1570863942515445761
+    - Metrics (at fetch): bookmark 2, impression 0, like 25, quote 1, reply 2, retweet 9
+    
+    > Our latest article is a deep dive into blockchain audits – how they work, the key smart contract audit firms, &amp; how hackers can exploit unaudited code.
+    > https://pontem.network/posts/what-is-a-blockchain-code-audit
+    
+    **Links in post:** https://pontem.network/posts/what-is-a-blockchain-code-audit
+    
+
+
+---
+
+## 2022-09-16 · Post · Building on Move? Let’s talk about the Move Prover. 
+
+
+Tags (automatic): Smart contract / DeFi, ZK
+
+
+### Post — @osec_io — 2022-09-16 17:11 UTC (2022-09-16 18:11 WAT)
+
+- URL: https://x.com/osec_io/status/1570822634916704257
+- Metrics (at fetch): bookmark 20, impression 0, like 192, quote 13, reply 2, retweet 48
+
+> Building on Move? Let’s talk about the Move Prover. 
+>
+> The complete guide for formally verifying your smart contracts 👇
+>
+> https://osec.io/blog/tutorials/2022-09-16-move-prover/
+
+**Links in post:** https://osec.io/blog/tutorials/2022-09-16-move-prover/
+
+
+---
+
+## 2022-09-16 · Post · We’re proud to announce that the @mrgntrade blackbox vault is now live! Always a pleasure to work wi
+
+
+### Post — @osec_io — 2022-09-16 03:29 UTC (2022-09-16 04:29 WAT)
+
+- URL: https://x.com/osec_io/status/1570615900872798208
+- Metrics (at fetch): bookmark 1, impression 0, like 40, quote 4, reply 5, retweet 2
+
+> We’re proud to announce that the @mrgntrade blackbox vault is now live! Always a pleasure to work with teams that put an emphasis on security!
+>
+> https://www.mrgnresearch.com/ [pic.x.com/eKfNHpxrIO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FcvyibBagAIbMwy.jpg — no alt text provided by author
+
+**Links in post:** https://www.mrgnresearch.com/
+
+
+---
+
+## 2022-09-15 · Post · Excited to be working with the @GooseFX1 team on securing their innovative and exciting SSL pools! h
+
+
+### Post — @osec_io — 2022-09-15 04:31 UTC (2022-09-15 05:31 WAT)
+
+- URL: https://x.com/osec_io/status/1570269147120152576
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 2, retweet 2
+
+> Excited to be working with the @GooseFX1 team on securing their innovative and exciting SSL pools! https://twitter.com/GooseFX1/status/1569234891426140161
+
+**Links in post:** https://twitter.com/GooseFX1/status/1569234891426140161
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1385335914344427522 — 2022-09-12 08:02 UTC (2022-09-12 09:02 WAT)
+    
+    - URL: https://x.com/1385335914344427522/status/1569234891426140161
+    - Metrics (at fetch): bookmark 0, impression 0, like 27, quote 2, reply 7, retweet 5
+    
+    > GooseGang Chewing Glass every Season 💪
+    >
+    > 🦆 NestQuest
+    > 👨‍💻 Audit by @osec_io 
+    > 🤝 New Collaborations
+    > 🏌️‍♂️ Ambassador Program 
+    >
+    > Find out more! 👇
+    > https://medium.com/goosefx/goosefx-september-update-9ff568194bb4
+    
+    **Links in post:** https://medium.com/goosefx/goosefx-september-update-9ff568194bb4
+    
+
+
+---
+
+## 2022-09-15 · Post · Calling all Solana Vancouver @hackerhouses attendees!
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-09-15 03:13 UTC (2022-09-15 04:13 WAT)
+
+- URL: https://x.com/osec_io/status/1570249371803062274
+- Metrics (at fetch): bookmark 1, impression 0, like 8, quote 0, reply 0, retweet 2
+
+> Calling all Solana Vancouver @hackerhouses attendees!
+>
+> @Jun_osec will be presenting on how to develop a holistic approach to security on September 15, 5:15-5:45pm! Don’t miss out! [pic.x.com/5gZvioOR6l]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FcqlDExaAAE8PVB.jpg — no alt text provided by author
+
+
+---
+
+## 2022-09-15 · Post · Congratulations to all the winners! We're excited to see what's next, and would love to be a part of
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-09-15 03:00 UTC (2022-09-15 04:00 WAT)
+
+- URL: https://x.com/osec_io/status/1570246168487292930
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> Congratulations to all the winners! We're excited to see what's next, and would love to be a part of that journey! https://twitter.com/solana/status/1570081422857101312
+
+**Links in post:** https://twitter.com/solana/status/1570081422857101312
+
+**Quoted post (full text):**
+
+    #### Quoted post — @951329744804392960 — 2022-09-14 16:05 UTC (2022-09-14 17:05 WAT)
+    
+    - URL: https://x.com/951329744804392960/status/1570081422857101312
+    - Metrics (at fetch): bookmark 111, impression 0, like 860, quote 127, reply 145, retweet 277
+    
+    > 1/ gm, campers! The #SolanaSummerCamp Hackathon saw nearly 18,000 participants submit 750 final projects to the judges. 
+    >
+    > Now, it's time to meet the winners  🏕
+    > https://solana.com/news/solana-summer-camp-winners
+    
+    **Links in post:** https://solana.com/news/solana-summer-camp-winners
+    
+
+
+---
+
+## 2022-09-14 · Post · https://x.com/i/spaces/1zqJVPmRVpPKB
+
+
+### Post — @osec_io — 2022-09-14 14:59 UTC (2022-09-14 15:59 WAT)
+
+- URL: https://x.com/osec_io/status/1570064664482152450
+- Metrics (at fetch): bookmark 2, impression 0, like 8, quote 1, reply 3, retweet 3
+
+> https://x.com/i/spaces/1zqJVPmRVpPKB
+
+**Links in post:** https://x.com/i/spaces/1zqJVPmRVpPKB
+
+
+---
+
+## 2022-09-13 · Post · Let’s talk about building on Aptos - what should we look out for? 
+
+
+### Post — @osec_io — 2022-09-13 15:06 UTC (2022-09-13 16:06 WAT)
+
+- URL: https://x.com/osec_io/status/1569704120768151552
+- Metrics (at fetch): bookmark 1, impression 0, like 29, quote 3, reply 2, retweet 8
+
+> Let’s talk about building on Aptos - what should we look out for? 
+>
+> We will be hosting a spaces and joining us are the teams from @AriesMarkets, @EconiaLabs, and @switchboardxyz!
+>
+> Spaces reminder below! [pic.x.com/yv7SOIqPlZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fci1SiZagAE5nTK.jpg — no alt text provided by author
+
+
+---
+
+## 2022-09-11 · Post · Are you attending NearCon in Lisbon?
+
+
+### Post — @osec_io — 2022-09-11 14:40 UTC (2022-09-11 15:40 WAT)
+
+- URL: https://x.com/osec_io/status/1568972752148889602
+- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 0, reply 2, retweet 2
+
+> Are you attending NearCon in Lisbon?
+>
+> Founder @NotDeGhost will be on a panel (September 12, 3:15-3:45pm) to discuss Near security pitfalls, common vulnerability patterns, and more!
+>
+> https://nearcon.org/ [pic.x.com/ESo14IXAwR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FcYb6AsaUAEsNMx.jpg — no alt text provided by author
+
+**Links in post:** https://nearcon.org/
+
+
+---
+
+## 2022-09-07 · Post · We're live now! https://twitter.com/SuiNetwork/status/1567633856857088000
+
+
+### Post — @osec_io — 2022-09-07 22:15 UTC (2022-09-07 23:15 WAT)
+
+- URL: https://x.com/osec_io/status/1567637714006319105
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 0, retweet 0
+
+> We're live now! https://twitter.com/SuiNetwork/status/1567633856857088000
+
+**Links in post:** https://twitter.com/SuiNetwork/status/1567633856857088000
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1428872926363754497 — 2022-09-07 22:00 UTC (2022-09-07 23:00 WAT)
+    
+    - URL: https://x.com/1428872926363754497/status/1567633856857088000
+    - Metrics (at fetch): bookmark 3, impression 0, like 51, quote 3, reply 8, retweet 12
+    
+    > https://x.com/i/spaces/1BRJjZzRElVJw
+    
+    **Links in post:** https://x.com/i/spaces/1BRJjZzRElVJw
+    
+
+
+---
+
+## 2022-09-06 · Post · Looking to write safer Move contracts? 
+
+
+### Post — @osec_io — 2022-09-06 18:06 UTC (2022-09-06 19:06 WAT)
+
+- URL: https://x.com/osec_io/status/1567212721497677827
+- Metrics (at fetch): bookmark 1, impression 0, like 32, quote 1, reply 1, retweet 7
+
+> Looking to write safer Move contracts? 
+>
+> Let's talk about Move from an auditor's perspective. A discussion into type safety, potential pitfalls, and formal verification.  
+>
+> 👇 https://twitter.com/NotDeGhost/status/1567211967361736704
+
+**Links in post:** https://twitter.com/NotDeGhost/status/1567211967361736704
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1038484278810570752 — 2022-09-06 18:03 UTC (2022-09-06 19:03 WAT)
+    
+    - URL: https://x.com/1038484278810570752/status/1567211967361736704
+    - Metrics (at fetch): bookmark 24, impression 0, like 118, quote 3, reply 7, retweet 36
+    
+    > How do we make smart contracts structurally safer? 
+    >
+    > An exploration into some of Move's key features: Type safety and formal verification. 
+    >
+    > https://osec.io/blog/tutorials/2022-09-06-move-introduction/
+    
+    **Links in post:** https://osec.io/blog/tutorials/2022-09-06-move-introduction/
+    
+
+
+---
+
+## 2022-08-29 · Post · OptiFi accidentally closed their mainnet program, but all user funds will be returned. 
+
+
+### Post — @osec_io — 2022-08-29 22:24 UTC (2022-08-29 23:24 WAT)
+
+- URL: https://x.com/osec_io/status/1564378514928766976
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 1, retweet 3
+
+> OptiFi accidentally closed their mainnet program, but all user funds will be returned. 
+>
+> Please retweet for awareness 👇 https://twitter.com/OptifiLabs/status/1564367455220219904
+
+**Links in post:** https://twitter.com/OptifiLabs/status/1564367455220219904
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1478437120561717248 — 2022-08-29 21:40 UTC (2022-08-29 22:40 WAT)
+    
+    - URL: https://x.com/1478437120561717248/status/1564367455220219904
+    - Metrics (at fetch): bookmark 73, impression 0, like 421, quote 256, reply 76, retweet 125
+    
+    > OptiFi's program has been closed by mistakes we made.
+    >
+    > TL;DR
+    >
+    > 1. We accidentally closed the OptiFi mainnet program and it's not recoverable
+    > 2. 661k USDC is locked in the PDAs, luckily 95% of the fund is from our team member
+    > 3. We will compensate for all users’ funds
     
 
 
@@ -4101,16 +7396,93 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2022-08-28 00:42 UTC (2022-08-28 01:42 WAT)
 
 - URL: https://x.com/osec_io/status/1563688394437169152
-- Metrics (at fetch): bookmark 235, impression 0, like 717, quote 23, reply 21, retweet 161
+- Metrics (at fetch): bookmark 235, impression 0, like 716, quote 23, reply 21, retweet 161
 
 > Closed source @Solana programs used to be safe. We’ve changed that. 
 >
 > Learn how to hack Solana programs with our open-source #BinaryNinja plugin 👇
 >
-> https://t.co/Ru3LyGOVvU https://t.co/Un4OG8dRcu
+> https://osec.io/blog/tutorials/2022-08-27-reverse-engineering-solana/ [pic.x.com/Un4OG8dRcu]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FbNTVrAVQAUS7ki.jpg — no alt text provided by author
+
+**Links in post:** https://osec.io/blog/tutorials/2022-08-27-reverse-engineering-solana/
+
+
+---
+
+## 2022-08-25 · Post · Join us at the Aptos Builders Club spaces where we talk about everything Aptos
+
+
+### Post — @osec_io — 2022-08-25 01:54 UTC (2022-08-25 02:54 WAT)
+
+- URL: https://x.com/osec_io/status/1562619375995146240
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 0, retweet 0
+
+> Join us at the Aptos Builders Club spaces where we talk about everything Aptos
+>
+> Come find out who else is a part of the builders club too! https://twitter.com/AptosBuilders/status/1562523219676233736
+
+**Links in post:** https://twitter.com/AptosBuilders/status/1562523219676233736
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1562450708787384323 — 2022-08-24 19:32 UTC (2022-08-24 20:32 WAT)
+    
+    - URL: https://x.com/1562450708787384323/status/1562523219676233736
+    - Metrics (at fetch): bookmark 0, impression 0, like 36, quote 12, reply 8, retweet 8
+    
+    > Mark your calendars &amp; set a reminder!
+    >
+    > We’ll be launching the Builders Club next week. 
+    >
+    > https://x.com/i/spaces/1eaKbNjpbwYKX
+    
+    **Links in post:** https://x.com/i/spaces/1eaKbNjpbwYKX
+    
+
+
+---
+
+## 2022-08-24 · Post · Are you attending the Solana Hacker house in Stockholm?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-08-24 04:42 UTC (2022-08-24 05:42 WAT)
+
+- URL: https://x.com/osec_io/status/1562299320895827969
+- Metrics (at fetch): bookmark 1, impression 0, like 48, quote 0, reply 0, retweet 5
+
+> Are you attending the Solana Hacker house in Stockholm?
+>
+> Look out for our panel on August 25 (4:30 to 5:00pm) where we are joined by @goFYEO, @HalbornSecurity, and @QuickNode to discuss security and digital trust in web3!
+>
+> https://solana.com/events/stockholm-hacker-house [pic.x.com/wuMRD9VZxg]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fa5mbo2VUAAg9yv.jpg — no alt text provided by author
+
+**Links in post:** https://solana.com/events/stockholm-hacker-house
+
+
+---
+
+## 2022-08-24 · Post · Excited to be working with @MarcoPolo_so! https://twitter.com/cryptocity_show/status/156224129684401
+
+
+### Post — @osec_io — 2022-08-24 04:20 UTC (2022-08-24 05:20 WAT)
+
+- URL: https://x.com/osec_io/status/1562293714634121216
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 0, retweet 0
+
+> Excited to be working with @MarcoPolo_so! https://twitter.com/cryptocity_show/status/1562241296844017671
+
+**Links in post:** https://twitter.com/cryptocity_show/status/1562241296844017671
+
+**Quoted post** 1562241296844017671: not readable via the API (deleted, private, or withheld).
 
 
 ---
@@ -4121,7 +7493,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2022-08-19 05:34 UTC (2022-08-19 06:34 WAT)
 
 - URL: https://x.com/osec_io/status/1560500356043325443
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 49, impression 0, like 207, quote 7, reply 3, retweet 32
 
 > Rent Thief:
 >
@@ -4132,13 +7504,28 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2022-08-18 · Post · Excited to be supporting @JuicedProtocol on their journey! https://t.co/EggYMuwPqd
+
+
+### Post — @osec_io — 2022-08-18 16:26 UTC (2022-08-18 17:26 WAT)
+
+- URL: https://x.com/osec_io/status/1560302062583283713
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 0, retweet 0
+
+> Excited to be supporting @JuicedProtocol on their journey! https://t.co/EggYMuwPqd
+
+**Quoted post** 1560282428345929728: not readable via the API (deleted, private, or withheld).
+
+
+---
+
 ## 2022-08-16 · Post · We are excited to announce the completion of our audit on the @multisig v3 program as it goes live t
 
 
 ### Post — @osec_io — 2022-08-16 17:09 UTC (2022-08-16 18:09 WAT)
 
 - URL: https://x.com/osec_io/status/1559588119522947072
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 19, quote 0, reply 2, retweet 2
 
 > We are excited to announce the completion of our audit on the @multisig v3 program as it goes live today!
 >
@@ -4151,7 +7538,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     #### Quoted post — @1392527288734998536 — 2022-08-16 16:57 UTC (2022-08-16 17:57 WAT)
     
     - URL: https://x.com/1392527288734998536/status/1559585084272889856
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 0, impression 0, like 42, quote 3, reply 1, retweet 3
     
     > 9/ To ensure the security of the V3 standard we did the following:
     >
@@ -4167,13 +7554,68 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2022-08-16 · Post · Over the past two weeks, we’ve worked closely with @slope_finance, @phantom, and @solana to investig
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-08-16 16:15 UTC (2022-08-16 17:15 WAT)
+
+- URL: https://x.com/osec_io/status/1559574494821306369
+- Metrics (at fetch): bookmark 32, impression 0, like 221, quote 8, reply 15, retweet 58
+
+> Over the past two weeks, we’ve worked closely with @slope_finance, @phantom, and @solana to investigate the root cause of the drained wallets. 
+>
+> Here’s what we found. [pic.x.com/23P0c4kZtb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FaS1SncVUAEbBuZ.png — no alt text provided by author
+
+
+---
+
+## 2022-08-10 · Post · Join us and many more at @AtlasCafe_SF  for a @solana, @AptosLabs, and @Mysten_Labs networking event
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-08-10 05:49 UTC (2022-08-10 06:49 WAT)
+
+- URL: https://x.com/osec_io/status/1557242789192409088
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 0, retweet 1
+
+> Join us and many more at @AtlasCafe_SF  for a @solana, @AptosLabs, and @Mysten_Labs networking event! 
+>
+> Event info and link to get your tickets available here: https://twitter.com/DavidTiczon/status/1557204398983376896
+
+**Links in post:** https://twitter.com/DavidTiczon/status/1557204398983376896
+
+**Quoted post (full text):**
+
+    #### Quoted post — @837884551984730113 — 2022-08-10 03:17 UTC (2022-08-10 04:17 WAT)
+    
+    - URL: https://x.com/837884551984730113/status/1557204398983376896
+    - Metrics (at fetch): bookmark 13, impression 0, like 146, quote 10, reply 16, retweet 24
+    
+    > Trilemma: A @solana, @AptosLabs, and @Mysten_Labs Sui event. This seems fun. Hosted @AtlasCafe_SF on August 30th at 7:00pm Pacific. Get your tickets now!
+    >
+    > https://www.eventbrite.com/e/trilemma-solana-aptos-and-sui-3-super-fast-chains-one-giant-web3-event-tickets-398044089587
+    
+    **Links in post:** https://www.eventbrite.com/e/trilemma-solana-aptos-and-sui-3-super-fast-chains-one-giant-web3-event-tickets-398044089587
+    
+
+
+---
+
 ## 2022-08-08 · Post · As Jet v2 goes live on mainnet today, we are proud to announce the completion of our audit! 
 
 
 ### Post — @osec_io — 2022-08-08 14:51 UTC (2022-08-08 15:51 WAT)
 
 - URL: https://x.com/osec_io/status/1556654282765611010
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 27, quote 0, reply 0, retweet 2
 
 > As Jet v2 goes live on mainnet today, we are proud to announce the completion of our audit! 
 >
@@ -4188,11 +7630,90 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     #### Quoted post — @1384245094295822336 — 2022-08-08 14:40 UTC (2022-08-08 15:40 WAT)
     
     - URL: https://x.com/1384245094295822336/status/1556651590324453376
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 0, impression 0, like 18, quote 1, reply 1, retweet 0
     
     > 6/14 As always - security is at the forefront of everything that gets released from @JetProtocol - the full audit report from @osec_io can be found here: https://github.com/jet-lab/jet-v2/blob/master/audit_reports/jet-v2-otter-sec-audit-report.pdf
     
     **Links in post:** https://github.com/jet-lab/jet-v2/blob/master/audit_reports/jet-v2-otter-sec-audit-report.pdf
+    
+
+
+---
+
+## 2022-08-04 · Post · Over $4M was drained from Solana wallets over the past 2 days. We’ve been working directly with @sol
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-08-04 07:05 UTC (2022-08-04 08:05 WAT)
+
+- URL: https://x.com/osec_io/status/1555087555351420928
+- Metrics (at fetch): bookmark 40, impression 0, like 402, quote 54, reply 55, retweet 169
+
+> Over $4M was drained from Solana wallets over the past 2 days. We’ve been working directly with @solana  and @slope_finance to investigate. 
+>
+> Here’s what we found. [pic.x.com/Ny1gwuJfIb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZTHFuAaIAAO89s.jpg — no alt text provided by author
+
+
+---
+
+## 2022-08-04 · Post · We're working actively with @slope_finance to investigate this issue, stay tuned for more updates. h
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-08-04 01:05 UTC (2022-08-04 02:05 WAT)
+
+- URL: https://x.com/osec_io/status/1554996988802117632
+- Metrics (at fetch): bookmark 1, impression 0, like 12, quote 0, reply 0, retweet 1
+
+> We're working actively with @slope_finance to investigate this issue, stay tuned for more updates. https://twitter.com/SolanaStatus/status/1554921396408647680
+
+**Links in post:** https://twitter.com/SolanaStatus/status/1554921396408647680
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1291496013551661056 — 2022-08-03 20:05 UTC (2022-08-03 21:05 WAT)
+    
+    - URL: https://x.com/1291496013551661056/status/1554921396408647680
+    - Metrics (at fetch): bookmark 98, impression 0, like 3302, quote 327, reply 312, retweet 1292
+    
+    > After an investigation by developers, ecosystem teams, and security auditors, it appears affected addresses were at one point created, imported, or used in Slope mobile wallet applications. 1/2
+    
+
+
+---
+
+## 2022-08-03 · Post · If you've been affected, please fill this out to help with our investigation! https://twitter.com/So
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-08-03 07:07 UTC (2022-08-03 08:07 WAT)
+
+- URL: https://x.com/osec_io/status/1554725718688276480
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 0, reply 0, retweet 4
+
+> If you've been affected, please fill this out to help with our investigation! https://twitter.com/SolanaStatus/status/1554721709357498368
+
+**Links in post:** https://twitter.com/SolanaStatus/status/1554721709357498368
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1291496013551661056 — 2022-08-03 06:51 UTC (2022-08-03 07:51 WAT)
+    
+    - URL: https://x.com/1291496013551661056/status/1554721709357498368
+    - Metrics (at fetch): bookmark 33, impression 0, like 1107, quote 156, reply 182, retweet 666
+    
+    > If your wallet was one of the 7,767 impacted please complete this survey – engineers are investigating the root cause https://solanafoundation.typeform.com/to/Rxm8STIT?typeform-source=admin.typeform.com
+    
+    **Links in post:** https://solanafoundation.typeform.com/to/Rxm8STIT?typeform-source=admin.typeform.com
     
 
 
@@ -4207,7 +7728,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2022-08-03 02:34 UTC (2022-08-03 03:34 WAT)
 
 - URL: https://x.com/osec_io/status/1554656988499709952
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 12, impression 0, like 128, quote 9, reply 5, retweet 63
 
 > We’ve been following the recent Solana wallet draining. 
 >
@@ -4219,13 +7740,53 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2022-08-03 · Post · Over 5000 Solana wallets have been drained in the past few hours. 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-08-03 00:50 UTC (2022-08-03 01:50 WAT)
+
+- URL: https://x.com/osec_io/status/1554630842097766401
+- Metrics (at fetch): bookmark 26, impression 0, like 431, quote 74, reply 29, retweet 148
+
+> Over 5000 Solana wallets have been drained in the past few hours. 
+>
+> https://solscan.io/account/CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu [pic.x.com/oNWgtZm2oS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FZMoAGcakAAnvxL.png — no alt text provided by author
+
+**Links in post:** https://solscan.io/account/CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu
+
+
+---
+
+## 2022-08-02 · Post · Look forward to sharing more about this first of its kind partnership with @thedogecapital and @ape1
+
+
+### Post — @osec_io — 2022-08-02 00:55 UTC (2022-08-02 01:55 WAT)
+
+- URL: https://x.com/osec_io/status/1554269529756549120
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 0, retweet 3
+
+> Look forward to sharing more about this first of its kind partnership with @thedogecapital and @ape16z ! https://twitter.com/Lynx_Web3/status/1554229592717594624
+
+**Links in post:** https://twitter.com/Lynx_Web3/status/1554229592717594624
+
+**Quoted post** 1554229592717594624: not readable via the API (deleted, private, or withheld).
+
+
+---
+
 ## 2022-08-01 · Post · We have recently completed our audit on @snowflake_sol multisig wallet program, and we were impresse
 
 
 ### Post — @osec_io — 2022-08-01 01:33 UTC (2022-08-01 02:33 WAT)
 
 - URL: https://x.com/osec_io/status/1553916735463784449
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 0, like 21, quote 1, reply 1, retweet 4
 
 > We have recently completed our audit on @snowflake_sol multisig wallet program, and we were impressed by the team’s attention to detail and their strong commitment to building one of the most secured products in the space!
 >
@@ -4237,13 +7798,46 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2022-07-28 · Post · We're excited to partner with our friends at @thedogecapital to offer audits to their clients and jo
+
+
+### Post — @osec_io — 2022-07-28 21:58 UTC (2022-07-28 22:58 WAT)
+
+- URL: https://x.com/osec_io/status/1552775613705965568
+- Metrics (at fetch): bookmark 1, impression 0, like 18, quote 0, reply 0, retweet 3
+
+> We're excited to partner with our friends at @thedogecapital to offer audits to their clients and join their mentorship program, bringing on the next batch of talent into the space
+>
+> More info coming soon, stay tuned! https://twitter.com/dogecapitalhq/status/1552767189253513221
+
+**Links in post:** https://twitter.com/dogecapitalhq/status/1552767189253513221
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1442001971846680577 — 2022-07-28 21:25 UTC (2022-07-28 22:25 WAT)
+    
+    - URL: https://x.com/1442001971846680577/status/1552767189253513221
+    - Metrics (at fetch): bookmark 0, impression 0, like 146, quote 6, reply 29, retweet 48
+    
+    > Been hearing about too many wallets getting drained and homies getting rekt, 
+    > So we've teamed up with @osec_io to provide TOP level security audits for the entire space.
+    >
+    > Safety is our Priority⚠️ [pic.x.com/AtV4wY7IOJ]
+    
+    **Media:**
+    - media `3_1552761428712587266` (details not returned by the API)
+    
+
+
+---
+
 ## 2022-07-28 · Post · 1/ @nirvana_fi was hacked for $3.49 M a few hours ago. 
 
 
 ### Post — @osec_io — 2022-07-28 09:38 UTC (2022-07-28 10:38 WAT)
 
 - URL: https://x.com/osec_io/status/1552589378719207424
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 33, impression 0, like 186, quote 13, reply 6, retweet 43
 
 > 1/ @nirvana_fi was hacked for $3.49 M a few hours ago. 
 >
@@ -4255,13 +7849,112 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2022-07-22 · Post · Excited to be supporting the Juiced team on their journey! https://t.co/Iupuh6xqmE
+
+
+### Post — @osec_io — 2022-07-22 19:41 UTC (2022-07-22 20:41 WAT)
+
+- URL: https://x.com/osec_io/status/1550566830720266240
+- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 0, reply 0, retweet 0
+
+> Excited to be supporting the Juiced team on their journey! https://t.co/Iupuh6xqmE
+
+**Links in post:** https://t.co/Iupuh6xqmE
+
+**Quoted post** 1550525315365347330: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-07-13 · Post · Join us at EmpireDAO for a conversation hosted by @chainlink on how we should take the next step in 
+
+
+### Post — @osec_io — 2022-07-13 03:38 UTC (2022-07-13 04:38 WAT)
+
+- URL: https://x.com/osec_io/status/1547063005476622336
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 0
+
+> Join us at EmpireDAO for a conversation hosted by @chainlink on how we should take the next step in Web3! 
+>
+> Founder @NotDeGhost will be joining a panel of experts from @avalabsofficial and more
+>
+> More info available here: https://twitter.com/chainlink/status/1546136630704193537
+
+**Links in post:** https://twitter.com/chainlink/status/1546136630704193537
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1530530365 — 2022-07-10 14:17 UTC (2022-07-10 15:17 WAT)
+    
+    - URL: https://x.com/1530530365/status/1546136630704193537
+    - Metrics (at fetch): bookmark 0, impression 0, like 122, quote 2, reply 8, retweet 17
+    
+    > @nardotrealtor @RopesGray @CrustNetwork @CryptoMondaysSF @CryptoBabesClub @NEARFoundation On 7/14 in New York City, a panel discussion with @avalabsofficial, @CertiK, and @truflation covering pioneering Web3 technology and the need for practical and secure #DeFi tools.
+    > https://www.meetup.com/chainlink-new-york/events/286903574/
+    
+    **Links in post:** https://www.meetup.com/chainlink-new-york/events/286903574/
+    
+
+
+---
+
+## 2022-07-06 · Post · We are proud to work with the @CashmereWallet team to ensure the safety of their multisig program! I
+
+
+### Post — @osec_io — 2022-07-06 18:19 UTC (2022-07-06 19:19 WAT)
+
+- URL: https://x.com/osec_io/status/1544747900797825024
+- Metrics (at fetch): bookmark 4, impression 0, like 19, quote 1, reply 0, retweet 3
+
+> We are proud to work with the @CashmereWallet team to ensure the safety of their multisig program! It was a pleasure working closely with the team because of our shared commitment to security. 
+>
+> Full report available here:
+> https://github.com/cashmere-inc/audit-report
+
+**Links in post:** https://github.com/cashmere-inc/audit-report
+
+
+---
+
+## 2022-07-04 · Post · Thanks to the Solana team for the speedy patch turnaround! Stay tuned for a blog post on Solana memo
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-07-04 17:11 UTC (2022-07-04 18:11 WAT)
+
+- URL: https://x.com/osec_io/status/1544005955507179524
+- Metrics (at fetch): bookmark 1, impression 0, like 30, quote 0, reply 0, retweet 3
+
+> Thanks to the Solana team for the speedy patch turnaround! Stay tuned for a blog post on Solana memory layouts, how we found this issue, and more 👀 https://twitter.com/jacobvcreech/status/1543968742606077952
+
+**Links in post:** https://twitter.com/jacobvcreech/status/1543968742606077952
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1096489773697515526 — 2022-07-04 14:43 UTC (2022-07-04 15:43 WAT)
+    
+    - URL: https://x.com/1096489773697515526/status/1543968742606077952
+    - Metrics (at fetch): bookmark 7, impression 0, like 89, quote 6, reply 7, retweet 28
+    
+    > 🚨Solana Developers🚨
+    >
+    > If you use the “account reallocation” feature are urged to update their program’s solana-program dependency to 1.10.29 or later and deploy an upgrade on-chain
+    >
+    > 1.10.29 includes additional sanity checks that may otherwise cause programs to malfunction
+    
+
+
+---
+
 ## 2022-07-03 · Post · @Crema_Finance was recently hacked for over $6M. Unlike previous attacks, this hacker used Solend fl
 
 
 ### Post — @osec_io — 2022-07-03 05:40 UTC (2022-07-03 06:40 WAT)
 
 - URL: https://x.com/osec_io/status/1543469811287465984
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 17, impression 0, like 112, quote 19, reply 8, retweet 54
 
 > @Crema_Finance was recently hacked for over $6M. Unlike previous attacks, this hacker used Solend flashloans to drain the pool. We’re working closely with the Crema team to help resolve this issue.
 >  
@@ -4283,11 +7976,198 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @osec_io — 2022-06-23 15:33 UTC (2022-06-23 16:33 WAT)
 
 - URL: https://x.com/osec_io/status/1539994952498925568
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 11, impression 0, like 48, quote 3, reply 2, retweet 7
 
 > We were engaged by the @cega_fi team to perform a security audit of their smart contract code and we’re proud to announce its successful conclusion! Code quality was high, and all vulnerabilities were patched and confirmed.
 >
 > Deep dive below into interesting technical findings: 🧵
+
+
+---
+
+## 2022-06-08 · Post · Hey Austin @hackerhouses attendees, we have something lined up for you! 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-06-08 02:22 UTC (2022-06-08 03:22 WAT)
+
+- URL: https://x.com/osec_io/status/1534360126051651584
+- Metrics (at fetch): bookmark 0, impression 0, like 32, quote 1, reply 1, retweet 3
+
+> Hey Austin @hackerhouses attendees, we have something lined up for you! 
+>
+> Founder @NotDeGhost will be hosting a panel discussion, and we will be joined by @CharlieYouAI from @CastleFinance and @marygooneratne from @bridgesplit! [pic.x.com/7HwZVy8YMc]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FUsjyjqVUAA1kO3.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-29 · Post · As NFTs become one of the key catalysts to kick off Solana summer, it is now more important than eve
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @osec_io — 2022-05-29 13:43 UTC (2022-05-29 14:43 WAT)
+
+- URL: https://x.com/osec_io/status/1530907675155869697
+- Metrics (at fetch): bookmark 1, impression 0, like 20, quote 0, reply 2, retweet 4
+
+> As NFTs become one of the key catalysts to kick off Solana summer, it is now more important than ever for NFTs to have better financial and operations security
+>
+> Join us and @bridgesplit in a discussion on how we should go about doing this:
+>
+> (Spaces reminder below) [pic.x.com/BlDrwcAaP4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FT7epmqUUAAFqhU.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-22 · Post · Role of security in NFTs - and how important is it?
+
+
+### Post — @osec_io — 2022-05-22 14:54 UTC (2022-05-22 15:54 WAT)
+
+- URL: https://x.com/osec_io/status/1528388910857920512
+- Metrics (at fetch): bookmark 3, impression 0, like 25, quote 1, reply 1, retweet 5
+
+> Role of security in NFTs - and how important is it?
+>
+> Spaces reminder below! [pic.x.com/1YCmDpbHSS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FTXrzVMUcAA3H3o.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-14 · Post · If you're interested to learn more about user safety and security, this spaces is definitely for you
+
+
+### Post — @osec_io — 2022-05-14 12:52 UTC (2022-05-14 13:52 WAT)
+
+- URL: https://x.com/osec_io/status/1525459067015024642
+- Metrics (at fetch): bookmark 2, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> If you're interested to learn more about user safety and security, this spaces is definitely for you
+>
+> Thanks @meanfinance for hosting this spaces!
+>
+>  https://x.com/i/spaces/1yoJMWjOkzWKQ
+
+**Links in post:** https://x.com/i/spaces/1yoJMWjOkzWKQ
+
+
+---
+
+## 2022-05-07 · Post · Thanks @CastleFinance for joining us and sharing insights and alpha! https://twitter.com/Otter_Inter
+
+
+### Post — @osec_io — 2022-05-07 02:56 UTC (2022-05-07 03:56 WAT)
+
+- URL: https://x.com/osec_io/status/1522772218584854528
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 0
+
+> Thanks @CastleFinance for joining us and sharing insights and alpha! https://twitter.com/Otter_Intern/status/1522758209043197952
+
+**Links in post:** https://twitter.com/Otter_Intern/status/1522758209043197952
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1514077700608065539 — 2022-05-07 02:00 UTC (2022-05-07 03:00 WAT)
+    
+    - URL: https://x.com/1514077700608065539/status/1522758209043197952
+    - Metrics (at fetch): bookmark 1, impression 0, like 0, quote 2, reply 0, retweet 0
+    
+    > We're live!
+    >
+    >  https://x.com/i/spaces/1YqxopgBmjXKv
+    
+    **Links in post:** https://x.com/i/spaces/1YqxopgBmjXKv
+    
+
+
+---
+
+## 2022-05-03 · Post · OtterSec x @CastleFinance [pic.x.com/t6dTNlk93x]
+
+
+### Post — @osec_io — 2022-05-03 14:17 UTC (2022-05-03 15:17 WAT)
+
+- URL: https://x.com/osec_io/status/1521494078692675586
+- Metrics (at fetch): bookmark 2, impression 0, like 35, quote 3, reply 2, retweet 5
+
+> OtterSec x @CastleFinance [pic.x.com/t6dTNlk93x]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FR1uQR6WYAAI9eT.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-30 · Post · We're live! Come join us! https://twitter.com/Otter_Intern/status/1520400700349374465
+
+
+### Post — @osec_io — 2022-04-30 14:02 UTC (2022-04-30 15:02 WAT)
+
+- URL: https://x.com/osec_io/status/1520403106919378944
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> We're live! Come join us! https://twitter.com/Otter_Intern/status/1520400700349374465
+
+**Links in post:** https://twitter.com/Otter_Intern/status/1520400700349374465
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1514077700608065539 — 2022-04-30 13:52 UTC (2022-04-30 14:52 WAT)
+    
+    - URL: https://x.com/1514077700608065539/status/1520400700349374465
+    - Metrics (at fetch): bookmark 1, impression 0, like 3, quote 1, reply 0, retweet 0
+    
+    > Starting in a bit!
+    >
+    >  https://x.com/i/spaces/1vOxwyArXrMGB
+    
+    **Links in post:** https://x.com/i/spaces/1vOxwyArXrMGB
+    
+
+
+---
+
+## 2022-04-30 · Post · If you're interested to learn more about @Lifinity_io, this is the spaces for you!
+
+
+### Post — @osec_io — 2022-04-30 02:19 UTC (2022-04-30 03:19 WAT)
+
+- URL: https://x.com/osec_io/status/1520226292775354369
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 0, retweet 3
+
+> If you're interested to learn more about @Lifinity_io, this is the spaces for you!
+>
+> We will be hosting this space from our intern account (@Otter_Intern)!
+>
+> https://x.com/osec_io/status/1518591196053925889?s=20&t=l5DZ0wfclQlsDqPVvnodqg
+
+**Links in post:** https://x.com/osec_io/status/1518591196053925889?s=20&t=l5DZ0wfclQlsDqPVvnodqg
+
+
+---
+
+## 2022-04-29 · Post · Thread of interesting audits we have done, blog posts for a quick read, and more!
+
+
+### Post — @osec_io — 2022-04-29 15:15 UTC (2022-04-29 16:15 WAT)
+
+- URL: https://x.com/osec_io/status/1520059259114860546
+- Metrics (at fetch): bookmark 86, impression 0, like 242, quote 3, reply 26, retweet 85
+
+> Thread of interesting audits we have done, blog posts for a quick read, and more!
 
 
 ---
@@ -4301,7 +8181,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2022-04-26 14:59 UTC (2022-04-26 15:59 WAT)
 
 - URL: https://x.com/osec_io/status/1518967950610362368
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 89, impression 0, like 377, quote 8, reply 11, retweet 80
 
 > SPL-token-swap:
 >
@@ -4311,6 +8191,22 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FRRzB_pUYAImOF4.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-25 · Post · https://t.co/b33wYdRmPe
+
+
+### Post — @osec_io — 2022-04-25 14:02 UTC (2022-04-25 15:02 WAT)
+
+- URL: https://x.com/osec_io/status/1518591196053925889
+- Metrics (at fetch): bookmark 0, impression 0, like 34, quote 4, reply 0, retweet 2
+
+> https://t.co/b33wYdRmPe
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FRMemGmVgAEP88X.jpg — no alt text provided by author
 
 
 ---
@@ -4351,6 +8247,40 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > Over the next few days, we will be publishing our analysis of two critical vulnerabilities in spl-lending and spl-token-swap.
 >
 > Turn notifications on to get them first
+
+
+---
+
+## 2022-04-21 · Post · See you there! https://t.co/SwKe3o4bal
+
+
+### Post — @osec_io — 2022-04-21 12:46 UTC (2022-04-21 13:46 WAT)
+
+- URL: https://x.com/osec_io/status/1517122728481886208
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 1
+
+> See you there! https://t.co/SwKe3o4bal
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1389662605149573122 — 2022-04-21 11:27 UTC (2022-04-21 12:27 WAT)
+    
+    - URL: https://x.com/1389662605149573122/status/1517102633235800064
+    - Metrics (at fetch): bookmark 1, impression 0, like 25, quote 1, reply 1, retweet 2
+    
+    > If you want to stop losing money to rugs &amp; exploits, you should:
+    >
+    > A. Use Solend
+    > B. Join this spaces
+    > C. All of the above
+    >
+    > Cya tomorrow! 
+    >
+    > (NFA) https://t.co/Bl93GCrk26
+    
+    **Media:**
+    - media `3_1517102320034598912` (details not returned by the API)
+    
 
 
 ---
@@ -4729,6 +8659,31 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 ---
 
+## 2022-03-29 · Post · Join us and @switchboardxyz for a discussion about liquidity pool tokens, the math, and a deceivingl
+
+
+### Post — @osec_io — 2022-03-29 18:26 UTC (2022-03-29 19:26 WAT)
+
+- URL: https://x.com/osec_io/status/1508873273139937287
+- Metrics (at fetch): bookmark 1, impression 0, like 8, quote 0, reply 0, retweet 3
+
+> Join us and @switchboardxyz for a discussion about liquidity pool tokens, the math, and a deceivingly simple question: how do you price an asset? We'll be taking a deep dive into this vulnerability -- from a hacker's perspective. https://t.co/VhIwJQUxnO
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1384968566743740418 — 2022-03-29 18:15 UTC (2022-03-29 19:15 WAT)
+    
+    - URL: https://x.com/1384968566743740418/status/1508870557223342086
+    - Metrics (at fetch): bookmark 1, impression 0, like 11, quote 1, reply 0, retweet 2
+    
+    > In this episode, we will dig deep into an LP token pricing anti-pattern brought to our attention by @osec_io , and how it led to the development of our Fair LP Token Price datafeeds! https://t.co/d7ZMtNzHh1
+    
+    **Quoted post** 1508574877896384513: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
 ## 2022-03-23 · Post · Want to learn how to hack smart contracts? We're excited to release our introduction to Solana (from
 
 
@@ -4738,7 +8693,50 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2022-03-23 22:20 UTC (2022-03-23 23:20 WAT)
 
 - URL: https://x.com/osec_io/status/1506757818329751560
-- Metrics (at fetch): bookmark 96, impression 0, like 223, quote 2, reply 3, retweet 61
+- Metrics (at fetch): bookmark 95, impression 0, like 223, quote 2, reply 3, retweet 60
 
 > Want to learn how to hack smart contracts? We're excited to release our introduction to Solana (from an auditor's perspective)!
 > https://t.co/wZYGuGMbCU
+
+
+---
+
+## 2022-03-18 · Post · We're recruiting security researchers! Competitive salary at up to 250/hr (500k annualized). Please 
+
+
+### Post — @osec_io — 2022-03-18 05:00 UTC (2022-03-18 06:00 WAT)
+
+- URL: https://x.com/osec_io/status/1504684120059875328
+- Metrics (at fetch): bookmark 36, impression 0, like 231, quote 0, reply 14, retweet 45
+
+> We're recruiting security researchers! Competitive salary at up to 250/hr (500k annualized). Please send an email to contact@osec.io or DM us!
+
+
+---
+
+## 2022-02-17 · Post · Excited to share our analysis of a @switchboardxyz oracle vulnerability we reported a while back wit
+
+
+### Post — @osec_io — 2022-02-17 02:36 UTC (2022-02-17 03:36 WAT)
+
+- URL: https://x.com/osec_io/status/1494138701626097665
+- Metrics (at fetch): bookmark 4, impression 0, like 21, quote 1, reply 1, retweet 2
+
+> Excited to share our analysis of a @switchboardxyz oracle vulnerability we reported a while back with @nojob_capital! 
+> https://t.co/izP4FKQfdL
+
+
+---
+
+## 2022-02-09 · Post · Excited to share our @DriftProtocol liquidator https://t.co/6oyBhDtU8l, stay tuned for more!
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @osec_io — 2022-02-09 01:22 UTC (2022-02-09 02:22 WAT)
+
+- URL: https://x.com/osec_io/status/1491220851639058436
+- Metrics (at fetch): bookmark 4, impression 0, like 22, quote 0, reply 1, retweet 3
+
+> Excited to share our @DriftProtocol liquidator https://t.co/6oyBhDtU8l, stay tuned for more!

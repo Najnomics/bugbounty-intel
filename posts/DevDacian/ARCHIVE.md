@@ -1,11 +1,99 @@
 # @DevDacian — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 408
-- Conversations/threads: 360
+- Posts in this file: 412
+- Conversations/threads: 363
 - Oldest post captured: 2023-02-23
-- Newest post captured: 2026-11-15
+- Newest post captured: 2026-11-17
+
+
+---
+
+## 2026-11-16 · Thread · This week running 6 private audits in parallel (7 total) engaging 21 top auditors!
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2026-11-16 14:14 UTC (2026-11-16 15:14 WAT)
+
+- URL: https://x.com/DevDacian/status/2122332362025660697
+- Metrics (at fetch): bookmark 3, impression 1315, like 46, quote 0, reply 3, retweet 1
+
+> This week running 6 private audits in parallel (7 total) engaging 21 top auditors!
+>
+> Great mix of EVM, Solana, Stellar &amp; 2 engagements include Formal Verification!
+>
+> Really 🔥 protocols being audited, our elite auditors pushing as always giving their all securing our clients 🚀
+
+
+### Thread part 2 — @DevDacian — 2026-11-17 03:41 UTC (2026-11-17 04:41 WAT)
+
+- URL: https://x.com/DevDacian/status/2122535566059421726
+- Metrics (at fetch): bookmark 0, impression 24, like 1, quote 0, reply 1, retweet 0
+
+> @0xpeternguyen thanks for reaching out! for auditors who aren't already working with cyfrin, there is no opportunity for them with us.
+>
+> we're already working with a stacked team that is more than sufficient of handling all our needs so we simply don't need additional auditors.
+
+
+---
+
+## 2026-11-17 · Post · the dark forest is everywhere now. we are heading into a world where any non-trivial app (let alone 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @DevDacian — 2026-11-17 00:57 UTC (2026-11-17 01:57 WAT)
+
+- URL: https://x.com/DevDacian/status/2122494387464855738
+- Metrics (at fetch): bookmark 6, impression 787, like 18, quote 0, reply 1, repost 0
+
+> the dark forest is everywhere now. we are heading into a world where any non-trivial app (let alone complex smart contract protocols) will effectively require a monthly security spend or be pwned https://twitter.com/GalloDaSballo/status/2122493458665619936
+
+**Links in post:** https://twitter.com/GalloDaSballo/status/2122493458665619936
+
+**Quoted post (full text):**
+
+    #### Quoted post — @GalloDaSballo — 2026-11-17 00:54 UTC (2026-11-17 01:54 WAT)
+    
+    - URL: https://x.com/GalloDaSballo/status/2122493458665619936
+    - Metrics (at fetch): bookmark 1, impression 1195, like 12, quote 1, reply 1, repost 0
+    
+    > The main takeaway from these exploits is that as we have always argued, the only reason most stuff wasn’t hacked was the cost of finding the attack (the EV for an hacker was negative).
+    >
+    > AI changed this.
+    >
+    > Huge vindication for crypto.
+    
+
+
+---
+
+## 2026-11-16 · Post · @windhustler Precious 🙏
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1471962504087625733 — 2026-11-16 17:50 UTC (2026-11-16 18:50 WAT)
+
+- URL: https://x.com/1471962504087625733/status/2122386904771432757
+- Metrics (at fetch): bookmark 4, impression 2970, like 272, quote 0, reply 77, retweet 0
+
+> The weekend was super busy. My daughter was born on Saturday, one day before my 35th birthday! [pic.x.com/PiyfzpZdX6]
+
+**Media:**
+- media `3_2122386206713323521` (details not returned by the API)
+
+
+### Post — @DevDacian — 2026-11-16 21:08 UTC (2026-11-16 22:08 WAT)
+
+- URL: https://x.com/DevDacian/status/2122436613070524864
+- Metrics (at fetch): bookmark 0, impression 41, like 0, quote 0, reply 0, retweet 0
+
+> @windhustler Precious 🙏
 
 
 ---
@@ -6941,7 +7029,7 @@ Tags (automatic): Smart contract / DeFi
     #### Quoted post — @867373132495159296 — 2024-02-01 12:50 UTC (2024-02-01 13:50 WAT)
     
     - URL: https://x.com/867373132495159296/status/1753037999150113139
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 303, impression 131501, like 482, quote 16, reply 26, retweet 84
     
     > I uncovered the root cause around the Kyber exploit.
     >
@@ -7305,7 +7393,7 @@ Tags (automatic): Smart contract / DeFi
     #### Quoted post — @trailofbits — 2023-11-14 08:30 UTC (2023-11-14 09:30 WAT)
     
     - URL: https://x.com/trailofbits/status/1724344137065886183
-    - Metrics (at fetch): bookmark 74, impression 51130, like 153, quote 6, reply 2, retweet 22
+    - Metrics (at fetch): bookmark 74, impression 51131, like 153, quote 6, reply 2, retweet 22
     
     > The @raft_fi issue is complex and we're actively investigating it. We've offered to help their team however we can. Here's some of what we know so far:
     

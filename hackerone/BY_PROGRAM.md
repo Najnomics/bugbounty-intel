@@ -1720,7 +1720,7 @@
 - [3078856](reports/2025/3078856.md) Apache Airflow Sql injection by authenticated user — ibb — low — $505 — SQL Injection
 - [3073507](reports/2025/3073507.md) Apache Airflow Fab Provider: Application does not invalidate session after password change via Airflow cli — ibb — low —  — Insufficient Session Expiration
 
-## curl (687)
+## curl (688)
 
 - [545052](reports/2019/545052.md) Github wikis are editable by anyone #Githubwikistakeover — curl — low —  — Improper Access Control - Generic
 - [550696](reports/2019/550696.md) CVE-2019-5436: Heap Buffer Overflow at lib/tftp.c — curl — low —  — Heap Overflow
@@ -2409,6 +2409,7 @@
 - [4147581](reports/2026/4147581.md) Incomplete IDN hostname check on the transfer path can lead to credential disclosure to an unintended host — curl — low —  — 
 - [4166602](reports/2026/4166602.md) Re-entrant curl_easy_pause UAF in cw-pause — curl — low —  — Use After Free
 - [4177724](reports/2026/4177724.md) curl 8.23.0 keeps sending requests to an HTTP/3 backend after Alt-Svc: clear — curl — high —  — Improper Access Control - Generic
+- [4199917](reports/2026/4199917.md) SFTP connection reuse skips the host-key pin of a later transfer — curl — low —  — Missing Critical Step in Authentication
 
 ## nextcloud (623)
 

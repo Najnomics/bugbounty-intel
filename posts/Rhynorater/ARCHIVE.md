@@ -1,11 +1,145 @@
 # @Rhynorater — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 423
-- Conversations/threads: 325
+- Posts in this file: 429
+- Conversations/threads: 330
 - Oldest post captured: 2017-06-13
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-17
+
+
+---
+
+## 2026-11-17 · Post · 😭😂 I was legit crying laughing https://t.co/pS3PikRwBE
+
+
+### Post — @Rhynorater — 2026-11-17 02:31 UTC (2026-11-17 03:31 WAT)
+
+- URL: https://x.com/Rhynorater/status/2122517925563101533
+- Metrics (at fetch): bookmark 1, impression 1255, like 8, quote 0, reply 0, retweet 0
+
+> 😭😂 I was legit crying laughing https://t.co/pS3PikRwBE
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1600519214519013377 — 2026-11-16 16:31 UTC (2026-11-16 17:31 WAT)
+    
+    - URL: https://x.com/1600519214519013377/status/2122366966329483565
+    - Metrics (at fetch): bookmark 9, impression 4874, like 56, quote 2, reply 2, retweet 1
+    
+    > We just hired the most chaotic host we could find xD https://t.co/cJ7LP9TGDV
+    
+    **Media:**
+    - media `7_2122366883621896192` (details not returned by the API)
+    
+
+
+---
+
+## 2026-11-16 · Post · Hmm, somehow haven't used these before. android-app:// is an interesting one. https://twitter.com/rg
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @Rhynorater — 2026-11-16 14:41 UTC (2026-11-16 15:41 WAT)
+
+- URL: https://x.com/Rhynorater/status/2122339336163090519
+- Metrics (at fetch): bookmark 171, impression 9231, like 251, quote 0, reply 2, repost 12
+
+> Hmm, somehow haven't used these before. android-app:// is an interesting one. https://twitter.com/rgjny_/status/2122305695882043894
+
+**Links in post:** https://twitter.com/rgjny_/status/2122305695882043894
+
+**Quoted post (full text):**
+
+    #### Quoted post — @rgjny_ — 2026-11-16 12:28 UTC (2026-11-16 13:28 WAT)
+    
+    - URL: https://x.com/rgjny_/status/2122305695882043894
+    - Metrics (at fetch): bookmark 150, impression 15785, like 258, quote 4, reply 4, repost 18
+    
+    > account takeover via redirect_uri=android-app://
+    >
+    > #HackerOne #BugBounty #TogetherWeHitHarder [pic.x.com/ZViwza8YQU]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXPxr10WAAExz3-.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-16 · Post · What are y'all using to build PRDs nowadays? I've had a good experience with Gemini + Canvas. 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @Rhynorater — 2026-11-16 14:14 UTC (2026-11-16 15:14 WAT)
+
+- URL: https://x.com/Rhynorater/status/2122332549737279544
+- Metrics (at fetch): bookmark 3, impression 2417, like 19, quote 0, reply 1, retweet 1
+
+> What are y'all using to build PRDs nowadays? I've had a good experience with Gemini + Canvas. 
+>
+> But it's been a while since I started something from scratch that I care about how it's implemented, so I imagine things have changed.
+
+
+---
+
+## 2026-11-16 · Thread · @1_am_nek0 Museのライブイベントですか？どうだった？結構固いって聞かれたMuseは
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1206974272016506882 — 2026-11-16 11:24 UTC (2026-11-16 12:24 WAT)
+
+- URL: https://x.com/1206974272016506882/status/2122289602803499078
+- Metrics (at fetch): bookmark 0, impression 1882, like 31, quote 0, reply 2, retweet 0
+
+> 最近Metaのお世話になりすぎてる、感謝 [pic.x.com/CwsVTYFE92]
+
+**Media:**
+- media `3_2122289595018805248` (details not returned by the API)
+
+
+### Post — @Rhynorater — 2026-11-16 13:45 UTC (2026-11-16 14:45 WAT)
+
+- URL: https://x.com/Rhynorater/status/2122325270048678353
+- Metrics (at fetch): bookmark 0, impression 1177, like 0, quote 0, reply 1, retweet 0
+
+> @1_am_nek0 Museのライブイベントですか？どうだった？結構固いって聞かれたMuseは
+
+
+### Thread part 2 — @Rhynorater — 2026-11-16 13:57 UTC (2026-11-16 14:57 WAT)
+
+- URL: https://x.com/Rhynorater/status/2122328250571444348
+- Metrics (at fetch): bookmark 0, impression 214, like 1, quote 0, reply 1, retweet 0
+
+> @1_am_nek0 prompt2pwnにもMeta対象なので見てみる。最近Meta DisplayをハッキングしてるけどDefense in Depthがありすぎて死んでる。SELinuxはガチ最低だ
+
+
+---
+
+## 2026-11-16 · Post · @JUCK_28 Happens to everyone! Hang in there, and keep hacking
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1631812582192615424 — 2026-11-16 10:01 UTC (2026-11-16 11:01 WAT)
+
+- URL: https://x.com/1631812582192615424/status/2122268924335308995
+- Metrics (at fetch): bookmark 4, impression 4703, like 79, quote 0, reply 6, retweet 0
+
+> I was in Meta Bug Bounty Live Hacking Event but I didn't do nothing🥲
+
+
+### Post — @Rhynorater — 2026-11-16 13:46 UTC (2026-11-16 14:46 WAT)
+
+- URL: https://x.com/Rhynorater/status/2122325494469103925
+- Metrics (at fetch): bookmark 0, impression 580, like 13, quote 0, reply 1, retweet 0
+
+> @JUCK_28 Happens to everyone! Hang in there, and keep hacking
 
 
 ---

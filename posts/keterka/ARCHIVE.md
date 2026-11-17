@@ -1,11 +1,37 @@
 # @keterka — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 61
-- Conversations/threads: 53
+- Posts in this file: 62
+- Conversations/threads: 54
 - Oldest post captured: 2025-10-25
-- Newest post captured: 2026-11-15
+- Newest post captured: 2026-11-16
+
+
+---
+
+## 2026-11-16 · Post · @windhustler Congratulations! 🎉
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1471962504087625733 — 2026-11-16 17:50 UTC (2026-11-16 18:50 WAT)
+
+- URL: https://x.com/1471962504087625733/status/2122386904771432757
+- Metrics (at fetch): bookmark 4, impression 2970, like 272, quote 0, reply 77, retweet 0
+
+> The weekend was super busy. My daughter was born on Saturday, one day before my 35th birthday! [pic.x.com/PiyfzpZdX6]
+
+**Media:**
+- media `3_2122386206713323521` (details not returned by the API)
+
+
+### Post — @keterka — 2026-11-16 19:03 UTC (2026-11-16 20:03 WAT)
+
+- URL: https://x.com/keterka/status/2122405327274389564
+- Metrics (at fetch): bookmark 0, impression 24, like 0, quote 0, reply 0, retweet 0
+
+> @windhustler Congratulations! 🎉
 
 
 ---

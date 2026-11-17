@@ -12,6 +12,8 @@ Compiled 11 Nov 2026 (WAT). This is the most fully-documented researcher in the 
 | Platforms | HackerOne (`mdpsec`), Bugcrowd (`marius_dp`), HackenProof (`MDPSEC`) |
 | Also builds | BB Arena (blackboxarena.ai, AI-vs-black-box-lab benchmark), HuntDeck; GitHub `mdpsec/bug-bounty-hunting-prompts` and `mdpsec/should-i-submit` |
 
+**2026-11-17 refresh:** mdpsec.com unchanged (591 reports / 150 critical / 267 high / 6 platforms). HackerOne `mdpsec`: resolved 27 (was 26), reputation 889, rank 2659, hacktivity entries 18 (was 17; new entries are undisclosed — 0 public reports). HuntDeck "will be open sourced today" ([post](../posts/mdp_sec/2026-11-17-2122496514677444685.md)).
+
 ## Report counts — full vs metadata-only vs missing (exact)
 
 His site claims **582 reports submitted, 148 critical, 263 high, across 5 platforms** (self-reported aggregate, last updated Oct 2026). The site has no per-report listing, no reports page, and no data API — only a `/security-test/` lead form (`/api/apply`). So almost all 582 are **undisclosed private-program reports** with no public detail anywhere. Breakdown of what is actually retrievable:
@@ -34,6 +36,46 @@ His own earliest retrievable post (2026-07-22) states: "$83,088 from bug bountie
 His full retrievable original-post timeline was captured verbatim: **430+ post files** spanning **2026-07-22 → 2026-11-11**. The X timeline API returns no posts older than 2026-07-22 (its reach limit), so his 2026-03-24 → 2026-07-21 posts are not retrievable ("as far as search allows"). Each file includes the full long-form/note text, media, quoted posts and his own self-reply thread.
 
 ## Key findings and analysis
+
+### Horizontal IDOR in an AI support bot's tools — pair-consistency check without ownership → $1,500 (Bugcrowd) (2026-11-16)
+
+- Post: https://x.com/mdp_sec/status/2122270955019919655 — verbatim: [`posts/mdp_sec/2026-11-16-2122270955019919655.md`](../posts/mdp_sec/2026-11-16-2122270955019919655.md)
+- **Bug class:** Horizontal IDOR / BOLA in LLM-agent tool endpoints (read victim profile, modify victim support chat)
+- **Root cause:** The tool API checked that `user id` and `chat id` matched each other but never that either belonged to the session ("never checked either one was mine").
+- **How it was found:** Treating each bot tool call as its own API endpoint and replaying another user's (user_id, chat_id) pair (his stated method: "treat every tool like its own api endpoint and test auth on each").
+- **Takeaways / harness:** Two-account replay of every chat/assistant tool request with swapped composite keys; flag 200s returning the other user's data. See [harness/bug-classes/2026-11-17-ai-tool-idor-oauth-scheme-roles-module.md](../harness/bug-classes/2026-11-17-ai-tool-idor-oauth-scheme-roles-module.md).
+
+### DeepSeek V4.1 Flash across 13 inference providers: 0%–45% solve rate on the same labs (BB Arena) (2026-11-16)
+
+- Post: https://x.com/mdp_sec/status/2122214974617710783 — verbatim: [`posts/mdp_sec/2026-11-16-2122214974617710783.md`](../posts/mdp_sec/2026-11-16-2122214974617710783.md)
+- **Bug class:** AI hunting-harness engineering (model/provider selection)
+- **Root cause:** Same open weights served by different providers produced 45% (direct) down to 12.5% and 0% (rate-limited) on 10 black-box labs × 40 attempts; resellers do not declare precision.
+- **How it was found:** Own benchmark (BB Arena) with a fixed private lab set; full page saved at [writeups/mdp_sec/blackboxarena-deepseek-v4-1-flash-providers-2026-11-16.md](../writeups/mdp_sec/blackboxarena-deepseek-v4-1-flash-providers-2026-11-16.md).
+- **Takeaways / harness:** Pin provider + model in harness config, regression-test providers on private labs, measure refusals (his data: mythos 5.2 refused 58/100, opus 5.5 32/100; stock DeepSeek direct 0). Speed follow-up: [posts/mdp_sec/2026-11-17-2122542745721974817.md](../posts/mdp_sec/2026-11-17-2122542745721974817.md) (Morph 198 tok/s but 17.5% solved vs direct 144 tok/s / 45%).
+
+### Exposed llama.cpp server with tools/MCP on LAN = "free shell for anyone on the wifi" (2026-11-17)
+
+- Post: https://x.com/mdp_sec/status/2122550959608131942 — verbatim: [`posts/mdp_sec/2026-11-17-2122550959608131942.md`](../posts/mdp_sec/2026-11-17-2122550959608131942.md)
+- **Bug class:** Unauthenticated self-hosted LLM server with tool execution → RCE
+- **Root cause:** llama-server before 1.0 would start with tools/MCP bound to a LAN address without an API key.
+- **How it was found:** Comment on the llama.cpp 1.0 change (quoted context in the file).
+- **Takeaways / harness:** Recon for 8080/11434/1234/8000 OpenAI-compatible endpoints on in-scope hosts; check unauthenticated chat + tool calling; prove with a benign tool call.
+
+### Optimizely-served malware (178 orgs): SRI cannot protect dynamically built vendor scripts (2026-11-17)
+
+- Post: https://x.com/mdp_sec/status/2122488006879932755 — verbatim: [`posts/mdp_sec/2026-11-17-2122488006879932755.md`](../posts/mdp_sec/2026-11-17-2122488006879932755.md)
+- **Bug class:** Third-party script supply chain / client-side injection
+- **Root cause:** Malicious JS injected into a vendor snippet that is generated on the fly, so Subresource Integrity hashes cannot pin it.
+- **How it was found:** Reply to Scott Helme; full Report URI writeup: [writeups/mdp_sec/report-uri-optimizely-malware-178-orgs.md](../writeups/mdp_sec/report-uri-optimizely-malware-178-orgs.md).
+- **Takeaways / harness:** Inventory dynamic vendor scripts per target; check whether their config is tenant-writable (pairs with his 2026-11-14 widget-config stored XSS).
+
+### MCP servers: "clean on review, nasty on call three" (2026-11-16)
+
+- Post: https://x.com/mdp_sec/status/2122459494433317371 — verbatim: [`posts/mdp_sec/2026-11-16-2122459494433317371.md`](../posts/mdp_sec/2026-11-16-2122459494433317371.md)
+- **Bug class:** MCP / agent-tool security methodology
+- **Root cause:** MCP behaviour and auth can change across a session; one-time review misses it.
+- **How it was found:** Methodology comment.
+- **Takeaways / harness:** Run ≥3 calls per tool, diff `tools/list` between calls, re-test auth on each call.
 
 ### Guest upload magic-byte bypass → unauthenticated RCE (2026-11-14)
 

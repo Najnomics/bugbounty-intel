@@ -41,3 +41,14 @@ _Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim post
 - Quote post: https://x.com/Rhynorater/status/2120539019427889278 — [`posts/Rhynorater/2026-11-11-2120539019427889278.md`](../posts/Rhynorater/2026-11-11-2120539019427889278.md)
 - Full writeup: [`writeups/Rhynorater/depi-backdooring-codex.md`](../writeups/Rhynorater/depi-backdooring-codex.md)
 - **Bug class:** Prompt injection → Codex sandbox escape (CoreCLR debug pipes) → Actions secret theft → cache poison → `@openai/codex` npm control. Initial Bugcrowd bounty $1,000 (under further review).
+
+## Daily update 2026-11-17
+
+### Quoted: OAuth ATO via redirect_uri=android-app:// (High 8.1, H1) (2026-11-16)
+
+- Post: https://x.com/Rhynorater/status/2122339336163090519 — verbatim: [`posts/Rhynorater/2026-11-16-2122339336163090519.md`](../posts/Rhynorater/2026-11-16-2122339336163090519.md)
+- **Bug class:** OAuth redirect_uri validation bypass with non-HTTP scheme (`android-app://`) → code/token theft → ATO
+- **Root cause:** Authorization server accepted an `android-app://` redirect; per the triage note in @rgjny_'s screenshot it "works without any app installed and the attack only takes a link". Full report not public.
+- **How it was found:** Original finder @rgjny_ (quoted); Rhynorater flagged the scheme as new to him.
+- **Takeaways / harness:** Add `android-app://`, `intent://`, `ios-app://` and target custom schemes to every redirect_uri fuzz list; signal = 302 carrying code/token to the alternate scheme.
+

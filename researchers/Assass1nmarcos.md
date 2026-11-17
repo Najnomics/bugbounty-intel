@@ -89,3 +89,14 @@ _Auto-maintained from `harness/findings.jsonl`. 5 finding(s). Full verbatim post
 - **Don’t underestimates the Errors They can provide good $$$ Bounty!** (`web`)
   - post: https://assassin-marcos.medium.com/dont-underestimates-the-errors-they-can-provide-good-bounty-d437ecca6596
   - local: `writeups/Assass1nmarcos/dont-underestimates-the-errors-they-can-provide-good-bounty.md`
+
+## Daily update 2026-11-17
+
+### $5,789 HackerOne payouts: missing-auth employee PII ($2,789) + unauthenticated SSRF → file read & credential theft via Social/GetFeed ($3,000) (2026-11-16)
+
+- Post: https://x.com/Assass1nmarcos/status/2122441997600559376 — verbatim: [`posts/Assass1nmarcos/2026-11-16-2122441997600559376.md`](../posts/Assass1nmarcos/2026-11-16-2122441997600559376.md)
+- **Bug class:** Missing authentication (PII exposure); unauthenticated SSRF → arbitrary file read → credential theft
+- **Root cause:** Undisclosed; only report titles visible in the screenshots.
+- **How it was found:** Undisclosed.
+- **Takeaways / harness:** Feed/preview endpoints (`GetFeed`, `?url=`) → SSRF with `file://` and cloud metadata; replay employee-directory APIs unauthenticated. Bounty-only evidence.
+

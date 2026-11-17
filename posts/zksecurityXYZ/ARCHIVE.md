@@ -1,10 +1,10 @@
 # @zksecurityXYZ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 333
-- Conversations/threads: 254
-- Oldest post captured: 2023-07-02
+- Posts in this file: 456
+- Conversations/threads: 377
+- Oldest post captured: 2023-05-16
 - Newest post captured: 2026-11-16
 
 
@@ -3319,9 +3319,9 @@ Tags (automatic): ZK, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @295218901 — 2026-05-18 12:40 UTC (2026-05-18 13:40 WAT)
+    #### Quoted post — @VitalikButerin — 2026-05-18 12:40 UTC (2026-05-18 13:40 WAT)
     
-    - URL: https://x.com/295218901/status/2056354141832626487
+    - URL: https://x.com/VitalikButerin/status/2056354141832626487
     - Metrics (at fetch): bookmark 833, impression 477982, like 2522, quote 147, reply 446, retweet 386
     
     > Many people have claimed that with AI-assisted bug finding, secure code (and hence trustless anything) will be impossible.
@@ -5967,7 +5967,90 @@ Tags (automatic): ZK
 
 ---
 
+## 2025-05-22 · Post · Check out Mina Attestations -- our take on anonymous credentials 😎
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @zksecurityXYZ — 2025-05-22 15:26 UTC (2025-05-22 16:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1925573895932764365
+- Metrics (at fetch): bookmark 5, impression 3772, like 42, quote 1, reply 2, retweet 9
+
+> Check out Mina Attestations -- our take on anonymous credentials 😎
+>
+> Implemented with o1js and integrated in Mina wallets!
+>
+> Video: https://www.youtube.com/watch?v=vBj9LB247RQ with @mitschabaude https://twitter.com/MinaProtocol/status/1925568348408225939
+
+**Links in post:** https://www.youtube.com/watch?v=vBj9LB247RQ, https://twitter.com/MinaProtocol/status/1925568348408225939
+
+**Quoted post (full text):**
+
+    #### Quoted post — @991439317053591552 — 2025-05-22 15:04 UTC (2025-05-22 16:04 WAT)
+    
+    - URL: https://x.com/991439317053591552/status/1925568348408225939
+    - Metrics (at fetch): bookmark 9, impression 32979, like 314, quote 11, reply 38, retweet 52
+    
+    > Private attestations on Mina are here! 
+    >
+    > @zksecurityXYZ recently completed Mina Attestations, a standard and library to create proofs of personal credentials in a secure and private manner. Currently supporting native and imported credentials, Mina Attestations has been audited by @hackenclub.
+    >
+    > More details → https://minaprotocol.com/blog/mina-attestations
+    >
+    > Check out the Github to get started → https://github.com/zksecurity/mina-attestations/blob/main/README.md
+    
+    **Media:**
+    - media `3_1925567606901415936` (details not returned by the API)
+    
+    **Links in post:** https://minaprotocol.com/blog/mina-attestations, https://github.com/zksecurity/mina-attestations/blob/main/README.md
+    
+
+
+---
+
+## 2025-05-06 · Post · HAVE YOU READ OUR BLOGPOSTS?!?!?? https://blog.zksecurity.xyz/
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-05-06 15:19 UTC (2025-05-06 16:19 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1919773960624878055
+- Metrics (at fetch): bookmark 5, impression 1338, like 19, quote 0, reply 1, retweet 2
+
+> HAVE YOU READ OUR BLOGPOSTS?!?!?? https://blog.zksecurity.xyz/
+
+**Links in post:** https://blog.zksecurity.xyz/
+
+
+---
+
+## 2025-05-01 · Post · why are you getting your crypto/zk news from twitter? [pic.x.com/Nqpibp0JXG]
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-05-01 19:40 UTC (2025-05-01 20:40 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1918027860398256165
+- Metrics (at fetch): bookmark 2, impression 618, like 13, quote 0, reply 2, retweet 1
+
+> why are you getting your crypto/zk news from twitter? [pic.x.com/Nqpibp0JXG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gp40Jf2XUAAKNYV.jpg — no alt text provided by author
+
+
+---
+
 ## 2025-05-01 · Post · Optimizing Barrett Reduction: Tighter Bounds Eliminate Redundant Subtractions.
+
+
+Tags (automatic): ZK
 
 
 ### Post — @zksecurityXYZ — 2025-05-01 18:14 UTC (2025-05-01 19:14 WAT)
@@ -5977,10 +6060,447 @@ Tags (automatic): ZK
 
 > Optimizing Barrett Reduction: Tighter Bounds Eliminate Redundant Subtractions.
 >
-> Read more on how we helped optimize P-256 as a side effect of our latest audit. https://t.co/8UV7Fj872n https://t.co/GoJafLt1hs
+> Read more on how we helped optimize P-256 as a side effect of our latest audit. https://blog.zksecurity.xyz/posts/barrett-tighter-bound/ [pic.x.com/GoJafLt1hs]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Gp4fBUYXYAAUGsv.jpg — no alt text provided by author
+
+**Links in post:** https://blog.zksecurity.xyz/posts/barrett-tighter-bound/
+
+
+---
+
+## 2025-04-29 · Post · only many logos do we have?
+
+
+### Post — @zksecurityXYZ — 2025-04-29 20:50 UTC (2025-04-29 21:50 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1917320589066297584
+- Metrics (at fetch): bookmark 1, impression 513, like 0, quote 0, reply 1, retweet 0
+
+> only many logos do we have?
+
+
+---
+
+## 2025-04-29 · Post · Variants of KZG: Part I, Univariate. Wanna learn more how people batch verify these KZG proofs? Foll
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-04-29 19:34 UTC (2025-04-29 20:34 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1917301444861939915
+- Metrics (at fetch): bookmark 12, impression 2841, like 26, quote 1, reply 2, retweet 6
+
+> Variants of KZG: Part I, Univariate. Wanna learn more how people batch verify these KZG proofs? Follow our multi-part series! https://blog.zksecurity.xyz/posts/kzg-1/ [pic.x.com/8RpcHEsYbD]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpufTCHWoAA7CvY.jpg — no alt text provided by author
+
+**Links in post:** https://blog.zksecurity.xyz/posts/kzg-1/
+
+
+---
+
+## 2025-04-28 · Post · mum, we're on reddit! auditing the p256 rust crate!
+
+
+### Post — @zksecurityXYZ — 2025-04-28 18:42 UTC (2025-04-28 19:42 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1916925992725319948
+- Metrics (at fetch): bookmark 4, impression 1469, like 29, quote 1, reply 1, retweet 2
+
+> mum, we're on reddit! auditing the p256 rust crate!
+> https://www.reddit.com/r/rust/comments/1k9xqiz/audit_of_the_rust_p256_crate/ [pic.x.com/9wE1GKpwrz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GppKAamWUAE4bdb.jpg — no alt text provided by author
+
+**Links in post:** https://www.reddit.com/r/rust/comments/1k9xqiz/audit_of_the_rust_p256_crate/
+
+
+---
+
+## 2025-04-25 · Post · 🚀 Client-side ZK proving is the key to unlocking real privacy in apps — but time and memory are stil
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-04-25 21:25 UTC (2025-04-25 22:25 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1915879797437182297
+- Metrics (at fetch): bookmark 17, impression 2531, like 35, quote 1, reply 2, retweet 9
+
+> 🚀 Client-side ZK proving is the key to unlocking real privacy in apps — but time and memory are still the biggest roadblocks to user-facing ZK. In our new post, we dive into the cutting-edge breakthroughs pushing the limits of what’s possible. 👇 [pic.x.com/m6zR2Mt4T3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GpaSMi7WkAALFBD.jpg — no alt text provided by author
+
+
+---
+
+## 2025-04-23 · Post · gm
+
+
+### Post — @zksecurityXYZ — 2025-04-23 17:14 UTC (2025-04-23 18:14 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1915092025529045214
+- Metrics (at fetch): bookmark 0, impression 438, like 4, quote 0, reply 1, retweet 0
+
+> gm
+
+
+---
+
+## 2025-04-07 · Post · ge
+
+
+### Post — @zksecurityXYZ — 2025-04-07 22:30 UTC (2025-04-07 23:30 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1909373134676828665
+- Metrics (at fetch): bookmark 0, impression 567, like 2, quote 0, reply 1, retweet 0
+
+> ge
+
+
+---
+
+## 2025-03-31 · Post · Anyone wanna collab' for a ZK meetup in Cannes for EthCC?
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-03-31 17:45 UTC (2025-03-31 18:45 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1906764856214102397
+- Metrics (at fetch): bookmark 1, impression 1956, like 16, quote 0, reply 6, retweet 1
+
+> Anyone wanna collab' for a ZK meetup in Cannes for EthCC?
+
+
+---
+
+## 2025-03-27 · Post · [pic.x.com/iaAEDDJmRI] https://twitter.com/zksecurityXYZ/status/1905282241476911139
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-03-27 19:04 UTC (2025-03-27 20:04 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1905335241696293074
+- Metrics (at fetch): bookmark 0, impression 597, like 3, quote 0, reply 0, retweet 0
+
+> [pic.x.com/iaAEDDJmRI] https://twitter.com/zksecurityXYZ/status/1905282241476911139
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GnEcTGcWMAA-uub.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/zksecurityXYZ/status/1905282241476911139
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zksecurityXYZ — 2025-03-27 15:34 UTC (2025-03-27 16:34 WAT)
+    
+    - URL: https://x.com/zksecurityXYZ/status/1905282241476911139
+    - Metrics (at fetch): bookmark 82, impression 19563, like 199, quote 11, reply 8, retweet 29
+    
+    > Introducing 𝐜𝐥𝐞𝐚𝐧
+    >
+    > We've been quietly working on a framework to write formally verified circuits, directly in Lean4
+    >
+    > Blog post &amp; video: https://blog.zksecurity.xyz/posts/clean
+    >
+    > Here's what it looks like 👀 [pic.x.com/F7SaCpVRBs]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GnDqQgqWMAAR8gK.jpg — no alt text provided by author
+    
+    **Links in post:** https://blog.zksecurity.xyz/posts/clean
+    
+
+
+---
+
+## 2025-03-27 · Post · Introducing 𝐜𝐥𝐞𝐚𝐧
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-03-27 15:34 UTC (2025-03-27 16:34 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1905282241476911139
+- Metrics (at fetch): bookmark 82, impression 19563, like 199, quote 11, reply 8, retweet 29
+
+> Introducing 𝐜𝐥𝐞𝐚𝐧
+>
+> We've been quietly working on a framework to write formally verified circuits, directly in Lean4
+>
+> Blog post &amp; video: https://blog.zksecurity.xyz/posts/clean
+>
+> Here's what it looks like 👀 [pic.x.com/F7SaCpVRBs]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GnDqQgqWMAAR8gK.jpg — no alt text provided by author
+
+**Links in post:** https://blog.zksecurity.xyz/posts/clean
+
+
+---
+
+## 2025-03-27 · Post · Someone special visited the office this morning [pic.x.com/9dxrqJRCL7]
+
+
+### Post — @zksecurityXYZ — 2025-03-27 15:22 UTC (2025-03-27 16:22 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1905279265253265698
+- Metrics (at fetch): bookmark 1, impression 1117, like 6, quote 1, reply 0, retweet 0
+
+> Someone special visited the office this morning [pic.x.com/9dxrqJRCL7]
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1905279218151313408/pu/img/4zY5VStzdAJHNiPb.jpg — no alt text provided by author
+
+
+---
+
+## 2025-03-25 · Post · Auditing Self: Collaborating with Celo on Privacy and Identity Infrastructure
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-03-25 19:52 UTC (2025-03-25 20:52 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1904622531098607781
+- Metrics (at fetch): bookmark 0, impression 991, like 7, quote 0, reply 0, retweet 3
+
+> Auditing Self: Collaborating with Celo on Privacy and Identity Infrastructure
+>
+> https://blog.zksecurity.xyz/posts/self-audit/ [pic.x.com/RdipJJuSzf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gm6UF40XQAATTZp.jpg — no alt text provided by author
+
+**Links in post:** https://blog.zksecurity.xyz/posts/self-audit/
+
+
+---
+
+## 2025-03-25 · Post · See you in a bit! https://twitter.com/zksecurityXYZ/status/1904196698651443369
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-03-25 13:26 UTC (2025-03-25 14:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1904525414640271784
+- Metrics (at fetch): bookmark 0, impression 439, like 2, quote 0, reply 0, retweet 0
+
+> See you in a bit! https://twitter.com/zksecurityXYZ/status/1904196698651443369
+
+**Links in post:** https://twitter.com/zksecurityXYZ/status/1904196698651443369
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zksecurityXYZ — 2025-03-24 15:40 UTC (2025-03-24 16:40 WAT)
+    
+    - URL: https://x.com/zksecurityXYZ/status/1904196698651443369
+    - Metrics (at fetch): bookmark 0, impression 2861, like 12, quote 2, reply 1, retweet 5
+    
+    > In Sofia right now for ZKProof or RWMPC or RWC? Come hang with us at our meetup tomorrow night! https://lu.ma/4mzw67jn
+    
+    **Links in post:** https://lu.ma/4mzw67jn
+    
+
+
+---
+
+## 2025-03-24 · Post · In Sofia right now for ZKProof or RWMPC or RWC? Come hang with us at our meetup tomorrow night! http
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-03-24 15:40 UTC (2025-03-24 16:40 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1904196698651443369
+- Metrics (at fetch): bookmark 0, impression 2861, like 12, quote 2, reply 1, retweet 5
+
+> In Sofia right now for ZKProof or RWMPC or RWC? Come hang with us at our meetup tomorrow night! https://lu.ma/4mzw67jn
+
+**Links in post:** https://lu.ma/4mzw67jn
+
+
+---
+
+## 2025-03-07 · Post · if you didn't follow, we not only wrote about the bitVM but we also wrote about a bunch of other coo
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-03-07 20:47 UTC (2025-03-07 21:47 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1898113311792636028
+- Metrics (at fetch): bookmark 2, impression 916, like 14, quote 0, reply 2, retweet 0
+
+> if you didn't follow, we not only wrote about the bitVM but we also wrote about a bunch of other cool things from Circle STARKs to zkVMs. See our blog! https://blog.zksecurity.xyz/ [pic.x.com/Oaafs7cVwe] https://twitter.com/__zkhack__/status/1898023434644341201
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gldz3YRWwAAwZzP.jpg — no alt text provided by author
+
+**Links in post:** https://blog.zksecurity.xyz/, https://twitter.com/__zkhack__/status/1898023434644341201
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1435911698624434180 — 2025-03-07 14:50 UTC (2025-03-07 15:50 WAT)
+    
+    - URL: https://x.com/1435911698624434180/status/1898023434644341201
+    - Metrics (at fetch): bookmark 0, impression 1424, like 4, quote 1, reply 1, retweet 1
+    
+    > @Ingo_zk @yuval_domb @xxiang_xie @wangxiao1254 @primus_labs @rel_zeta_tech @liameagen @xyz_pierre @PrivacyScaling @intmaxIO @zksecurityXYZ released an article exploring how BitVM enables arbitrary computation on Bitcoin without changing its core protocol by using circuit abstractions that simulate covenants and statefulness via one-time signatures.
+    > https://x.com/zksecurityXYZ/status/1896668240421757405
+    
+    **Links in post:** https://x.com/zksecurityXYZ/status/1896668240421757405
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @zksecurityXYZ — 2025-03-03 21:05 UTC (2025-03-03 22:05 WAT)
+        
+        - URL: https://x.com/zksecurityXYZ/status/1896668240421757405
+        - Metrics (at fetch): bookmark 13, impression 2767, like 27, quote 3, reply 1, retweet 9
+        
+        > BitVM: Unlocking Arbitrary Computation on Bitcoin Through Circuit Abstractions. In this post we talk about how the BitVM line of work creates this circuit abstraction on top of Bitcoin, using intra and extra-script branching, as well as immutable variables in the style of SSA 👇🏼 [pic.x.com/lMjR6bKAiZ]
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/GlJRgN5WEAABTXT.jpg — no alt text provided by author
+        
+    
+
+
+---
+
+## 2025-03-07 · Post · anyone? https://twitter.com/cryptodavidw/status/1896959844432982449
+
+
+### Post — @zksecurityXYZ — 2025-03-07 20:44 UTC (2025-03-07 21:44 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1898112495132590507
+- Metrics (at fetch): bookmark 1, impression 1668, like 11, quote 0, reply 1, retweet 1
+
+> anyone? https://twitter.com/cryptodavidw/status/1896959844432982449
+
+**Links in post:** https://twitter.com/cryptodavidw/status/1896959844432982449
+
+**Quoted post (full text):**
+
+    #### Quoted post — @cryptodavidw — 2025-03-04 16:24 UTC (2025-03-04 17:24 WAT)
+    
+    - URL: https://x.com/cryptodavidw/status/1896959844432982449
+    - Metrics (at fetch): bookmark 17, impression 4065, like 33, quote 2, reply 3, retweet 1
+    
+    > would someone be interested in an internship to extend blockbreakers to linear and differential cryptanalysis on AES? https://davidwong.fr/blockbreakers/
+    
+    **Links in post:** https://davidwong.fr/blockbreakers/
+    
+
+
+---
+
+## 2025-03-04 · Post · looking for technical content on ZK! It's here bro -&gt; https://blog.zksecurity.xyz/
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-03-04 18:22 UTC (2025-03-04 19:22 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1896989590386532854
+- Metrics (at fetch): bookmark 24, impression 3301, like 60, quote 0, reply 3, retweet 7
+
+> looking for technical content on ZK! It's here bro -&gt; https://blog.zksecurity.xyz/
+
+**Links in post:** https://blog.zksecurity.xyz/
+
+
+---
+
+## 2025-03-03 · Post · BitVM: Unlocking Arbitrary Computation on Bitcoin Through Circuit Abstractions. In this post we talk
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-03-03 21:05 UTC (2025-03-03 22:05 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1896668240421757405
+- Metrics (at fetch): bookmark 13, impression 2767, like 27, quote 3, reply 1, retweet 9
+
+> BitVM: Unlocking Arbitrary Computation on Bitcoin Through Circuit Abstractions. In this post we talk about how the BitVM line of work creates this circuit abstraction on top of Bitcoin, using intra and extra-script branching, as well as immutable variables in the style of SSA 👇🏼 [pic.x.com/lMjR6bKAiZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GlJRgN5WEAABTXT.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-28 · Post · What should we talk about in our "influential designs in zkVMs" part 2? https://twitter.com/tcoratge
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-02-28 18:54 UTC (2025-02-28 19:54 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1895548101584400641
+- Metrics (at fetch): bookmark 1, impression 1506, like 4, quote 1, reply 3, retweet 0
+
+> What should we talk about in our "influential designs in zkVMs" part 2? https://twitter.com/tcoratger/status/1895061523351158933
+
+**Links in post:** https://twitter.com/tcoratger/status/1895061523351158933
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2706521143 — 2025-02-27 10:40 UTC (2025-02-27 11:40 WAT)
+    
+    - URL: https://x.com/2706521143/status/1895061523351158933
+    - Metrics (at fetch): bookmark 11, impression 1671, like 13, quote 1, reply 1, retweet 4
+    
+    > 1/ How did we get modern zkVMs?
+    >
+    > Zero-knowledge virtual machines (zkVMs) are transforming blockchain computation, but they didn't appear overnight. 
+    >
+    > This thread explores the key projects that shaped zkVMs into what they are today. 🧵👇
+    
+
+
+---
+
+## 2025-02-26 · Post · Projects That Shaped Modern zkVMs — Part 1
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-02-26 15:47 UTC (2025-02-26 16:47 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1894776431504146710
+- Metrics (at fetch): bookmark 12, impression 3886, like 41, quote 2, reply 0, retweet 10
+
+> Projects That Shaped Modern zkVMs — Part 1
+> https://blog.zksecurity.xyz/posts/zkvm-projects-1/ [pic.x.com/tSEvBqXs9m]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkuZGW4WcAAUgYd.jpg — no alt text provided by author
+
+**Links in post:** https://blog.zksecurity.xyz/posts/zkvm-projects-1/
 
 
 ---
@@ -5993,7 +6513,9 @@ Tags (automatic): ZK
 - URL: https://x.com/zksecurityXYZ/status/1894462928083960209
 - Metrics (at fetch): bookmark 4, impression 1082, like 9, quote 0, reply 0, retweet 6
 
-> check our collab' with archetype on the latest theoretical (or practical?) attack on Fiat-Shamir and GKR https://t.co/CQOQfTol4Q
+> check our collab' with archetype on the latest theoretical (or practical?) attack on Fiat-Shamir and GKR https://twitter.com/archetypevc/status/1894422368908357783
+
+**Links in post:** https://twitter.com/archetypevc/status/1894422368908357783
 
 **Quoted post (full text):**
 
@@ -6011,11 +6533,113 @@ Tags (automatic): ZK
     > 8:40 Sumcheck
     > 20:57 GKR
     > 35:53 The Attack
-    > 49:29 Conclusion https://t.co/b6yZFcNtMY
+    > 49:29 Conclusion [pic.x.com/b6yZFcNtMY]
     
     **Media:**
     - media `13_1894412702576975872` (details not returned by the API)
     
+
+
+---
+
+## 2025-02-25 · Post · Looking for an internship? https://blog.zksecurity.xyz/posts/internship-2025/ [pic.x.com/gpoIvz1bF9]
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-02-25 16:55 UTC (2025-02-25 17:55 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1894430971581067526
+- Metrics (at fetch): bookmark 5, impression 537, like 2, quote 0, reply 0, retweet 4
+
+> Looking for an internship? https://blog.zksecurity.xyz/posts/internship-2025/ [pic.x.com/gpoIvz1bF9]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gkpe64BXgAEy_ad.jpg — no alt text provided by author
+
+**Links in post:** https://blog.zksecurity.xyz/posts/internship-2025/
+
+
+---
+
+## 2025-02-21 · Post · if you missed the first part, you can read it here https://www.zksecurity.xyz/blog/posts/circle-star
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-02-21 20:56 UTC (2025-02-21 21:56 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1893042139879113025
+- Metrics (at fetch): bookmark 3, impression 1455, like 10, quote 1, reply 0, retweet 2
+
+> if you missed the first part, you can read it here https://www.zksecurity.xyz/blog/posts/circle-starks-1/
+>
+> you're only two blogpost away from understanding the technology behind starknet's new STWO prover :) https://twitter.com/zksecurityXYZ/status/1893018997513154973
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/circle-starks-1/, https://twitter.com/zksecurityXYZ/status/1893018997513154973
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zksecurityXYZ — 2025-02-21 19:24 UTC (2025-02-21 20:24 WAT)
+    
+    - URL: https://x.com/zksecurityXYZ/status/1893018997513154973
+    - Metrics (at fetch): bookmark 10, impression 7743, like 27, quote 3, reply 1, retweet 4
+    
+    > It's time for... Circle STARKs: Part II, Circles. Link below [pic.x.com/zJR7QYBWnC]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GkVaongXAAAgf15.png — no alt text provided by author
+    
+
+
+---
+
+## 2025-02-21 · Post · tidibit: we initially were supposed to be called zero-security, but for some reasons we decided to g
+
+
+### Post — @zksecurityXYZ — 2025-02-21 20:15 UTC (2025-02-21 21:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1893031835707257307
+- Metrics (at fetch): bookmark 0, impression 402, like 0, quote 0, reply 0, retweet 0
+
+> tidibit: we initially were supposed to be called zero-security, but for some reasons we decided to go with a different name. Would have been cool to share more than just skillset with project zero though!
+
+
+---
+
+## 2025-02-21 · Post · It's time for... Circle STARKs: Part II, Circles. Link below [pic.x.com/zJR7QYBWnC]
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-02-21 19:24 UTC (2025-02-21 20:24 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1893018997513154973
+- Metrics (at fetch): bookmark 10, impression 7743, like 27, quote 3, reply 1, retweet 4
+
+> It's time for... Circle STARKs: Part II, Circles. Link below [pic.x.com/zJR7QYBWnC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkVaongXAAAgf15.png — no alt text provided by author
+
+
+---
+
+## 2025-02-20 · Post · A gentle introduction to the MPC-in-the-Head transformation. Check below to learn about one of the m
+
+
+### Post — @zksecurityXYZ — 2025-02-20 16:25 UTC (2025-02-20 17:25 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1892611455356178886
+- Metrics (at fetch): bookmark 6, impression 737, like 11, quote 0, reply 1, retweet 2
+
+> A gentle introduction to the MPC-in-the-Head transformation. Check below to learn about one of the most interesting ways to construct zero-knowledge proofs: the MPC-in-the-Head transformation [pic.x.com/rOqeJK2psw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkPn_-tXkAAjA3t.jpg — no alt text provided by author
 
 
 ---
@@ -6028,7 +6652,7 @@ Tags (automatic): ZK
 - URL: https://x.com/zksecurityXYZ/status/1892224903174070290
 - Metrics (at fetch): bookmark 14, impression 6259, like 46, quote 3, reply 4, retweet 10
 
-> Another great step in our collaboration with Aleo! We found a 0day in November last year and worked hand in hand to ensure it was fixed before any exploit could happen. Link 👇 https://t.co/TM4fo2ZNtt
+> Another great step in our collaboration with Aleo! We found a 0day in November last year and worked hand in hand to ensure it was fixed before any exploit could happen. Link 👇 [pic.x.com/TM4fo2ZNtt]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GkKH7DUWQAAmS4u.jpg — no alt text provided by author
@@ -6040,6 +6664,196 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 2, impression 361, like 4, quote 0, reply 0, retweet 0
 
 > Read the story here https://t.co/7nMDEQXQHB
+
+
+---
+
+## 2025-02-18 · Post · In 2024, we partnered with Matter Labs to publish “Beyond L2s Maturity: A Formal Approach to Buildin
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @zksecurityXYZ — 2025-02-18 17:06 UTC (2025-02-18 18:06 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1891897163245850835
+- Metrics (at fetch): bookmark 16, impression 5853, like 51, quote 2, reply 3, retweet 10
+
+> In 2024, we partnered with Matter Labs to publish “Beyond L2s Maturity: A Formal Approach to Building Secure Blockchain Rollups.” Our paper proposes a formal security model to examine rollups’ vulnerabilities and offer practical insights for a sturdier decentralized future. [pic.x.com/ZBybbbS1ZH]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkFcahSWsAAamV-.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-18 · Post · We've been asked how to contribute, easy: submit a PR! https://github.com/zksecurity/zkbugs https://
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-02-18 04:38 UTC (2025-02-18 05:38 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1891708874941489243
+- Metrics (at fetch): bookmark 4, impression 1541, like 21, quote 1, reply 0, retweet 3
+
+> We've been asked how to contribute, easy: submit a PR! https://github.com/zksecurity/zkbugs https://twitter.com/zksecurityXYZ/status/1891555156086382885
+
+**Links in post:** https://github.com/zksecurity/zkbugs, https://twitter.com/zksecurityXYZ/status/1891555156086382885
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zksecurityXYZ — 2025-02-17 18:27 UTC (2025-02-17 19:27 WAT)
+    
+    - URL: https://x.com/zksecurityXYZ/status/1891555156086382885
+    - Metrics (at fetch): bookmark 117, impression 22726, like 245, quote 12, reply 11, retweet 44
+    
+    > Introducing http://bugs.zksecurity.xyz a knowledge base for ZK bugs [pic.x.com/8GnJxBO7QV]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GkAnYGzWAAA42hC.jpg — no alt text provided by author
+    
+    **Links in post:** http://bugs.zksecurity.xyz
+    
+
+
+---
+
+## 2025-02-17 · Post · We moved our reports to a new platform, take a look! Link in response [pic.x.com/8r1JPSrvPP]
+
+
+### Post — @zksecurityXYZ — 2025-02-17 20:39 UTC (2025-02-17 21:39 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1891588280598110616
+- Metrics (at fetch): bookmark 1, impression 598, like 7, quote 0, reply 1, retweet 0
+
+> We moved our reports to a new platform, take a look! Link in response [pic.x.com/8r1JPSrvPP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkBFbvfWkAAHyEr.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-17 · Post · Introducing http://bugs.zksecurity.xyz a knowledge base for ZK bugs [pic.x.com/8GnJxBO7QV]
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-02-17 18:27 UTC (2025-02-17 19:27 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1891555156086382885
+- Metrics (at fetch): bookmark 117, impression 22726, like 245, quote 12, reply 11, retweet 44
+
+> Introducing http://bugs.zksecurity.xyz a knowledge base for ZK bugs [pic.x.com/8GnJxBO7QV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkAnYGzWAAA42hC.jpg — no alt text provided by author
+
+**Links in post:** http://bugs.zksecurity.xyz
+
+
+---
+
+## 2025-02-13 · Post · The secret to getting good audits in ZK is to hire a reputable company with people who have a good t
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-02-13 23:40 UTC (2025-02-14 00:40 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1890184179192893519
+- Metrics (at fetch): bookmark 3, impression 917, like 22, quote 0, reply 0, retweet 3
+
+> The secret to getting good audits in ZK is to hire a reputable company with people who have a good track record finding legitimate bugs. Our reports speak for themselves https://zksecurity.xyz/reports/
+
+**Links in post:** https://zksecurity.xyz/reports/
+
+
+---
+
+## 2025-02-12 · Post · internal reaction to the latest attempt to classify projects per arithmetization (credit to Mathias)
+
+
+### Post — @zksecurityXYZ — 2025-02-12 17:11 UTC (2025-02-12 18:11 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1889724074009440323
+- Metrics (at fetch): bookmark 0, impression 751, like 11, quote 0, reply 0, retweet 2
+
+> internal reaction to the latest attempt to classify projects per arithmetization (credit to Mathias) [pic.x.com/9skisF7c2J]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gjml0dVXoAABYPZ.png — no alt text provided by author
+
+
+---
+
+## 2025-02-11 · Post · Ever wondered what we look like? This is what we look like [pic.x.com/V0zKoKxdye]
+
+
+### Post — @zksecurityXYZ — 2025-02-11 23:48 UTC (2025-02-12 00:48 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1889461529067614426
+- Metrics (at fetch): bookmark 1, impression 824, like 3, quote 0, reply 0, retweet 1
+
+> Ever wondered what we look like? This is what we look like [pic.x.com/V0zKoKxdye]
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1889461424696467456/pu/img/PUBUGB6-XFRHUujU.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-05 · Post · An Introduction to Interactive Theorem Provers
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-02-05 16:55 UTC (2025-02-05 17:55 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1887183350068101388
+- Metrics (at fetch): bookmark 15, impression 1971, like 31, quote 0, reply 0, retweet 6
+
+> An Introduction to Interactive Theorem Provers
+>
+> https://www.zksecurity.xyz/blog/posts/introduction-to-interactive-theorem-provers/ [pic.x.com/ncN71hF6YW]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GjCfQVvXcAA7H_g.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/introduction-to-interactive-theorem-provers/
+
+
+---
+
+## 2025-02-03 · Post · We're cooking https://twitter.com/jerh17/status/1886207931366113300
+
+
+### Post — @zksecurityXYZ — 2025-02-03 18:09 UTC (2025-02-03 19:09 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1886477077844541660
+- Metrics (at fetch): bookmark 4, impression 3763, like 42, quote 0, reply 2, retweet 3
+
+> We're cooking https://twitter.com/jerh17/status/1886207931366113300
+
+**Links in post:** https://twitter.com/jerh17/status/1886207931366113300
+
+**Quoted post (full text):**
+
+    #### Quoted post — @168124789 — 2025-02-03 00:19 UTC (2025-02-03 01:19 WAT)
+    
+    - URL: https://x.com/168124789/status/1886207931366113300
+    - Metrics (at fetch): bookmark 3, impression 5867, like 31, quote 2, reply 3, retweet 2
+    
+    > Hot topic by @cryptodavidw at ZKDive meetup [pic.x.com/I3PzNTBx7C]
+    
+    **Media:**
+    - media `3_1886207926559281152` (details not returned by the API)
+    
 
 
 ---
@@ -6060,7 +6874,184 @@ Tags (automatic): ZK
 
 ---
 
+## 2025-01-21 · Post · happy Merkle tree [pic.x.com/8fLRH1vicr]
+
+
+### Post — @zksecurityXYZ — 2025-01-21 21:06 UTC (2025-01-21 22:06 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1881810735791214989
+- Metrics (at fetch): bookmark 1, impression 490, like 5, quote 0, reply 0, retweet 0
+
+> happy Merkle tree [pic.x.com/8fLRH1vicr]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gh2I3TPXAAAI_RE.jpg — no alt text provided by author
+
+
+---
+
+## 2025-01-15 · Post · do you like our new logo? https://zksecurity.xyz/ [pic.x.com/c4E3aEnatB]
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-01-15 20:44 UTC (2025-01-15 21:44 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1879630864147235243
+- Metrics (at fetch): bookmark 1, impression 916, like 7, quote 0, reply 0, retweet 3
+
+> do you like our new logo? https://zksecurity.xyz/ [pic.x.com/c4E3aEnatB]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GhXKTHGWEAA19vj.jpg — no alt text provided by author
+
+**Links in post:** https://zksecurity.xyz/
+
+
+---
+
+## 2025-01-13 · Post · We like the term "programmable crypto", as we like to look at anything that has circuits
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2025-01-13 17:42 UTC (2025-01-13 18:42 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1878860273106485291
+- Metrics (at fetch): bookmark 0, impression 1721, like 26, quote 0, reply 2, retweet 2
+
+> We like the term "programmable crypto", as we like to look at anything that has circuits
+
+
+---
+
+## 2025-01-07 · Post · Happy new year everyone! We're looking forward to a year of ZK, MPC, FHE, post-quantum cryptography,
+
+
+Tags (automatic): ZK, AI-assisted hunting
+
+
+### Post — @zksecurityXYZ — 2025-01-07 19:22 UTC (2025-01-07 20:22 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1876710963254075850
+- Metrics (at fetch): bookmark 8, impression 2187, like 54, quote 0, reply 4, retweet 1
+
+> Happy new year everyone! We're looking forward to a year of ZK, MPC, FHE, post-quantum cryptography, and AI security
+
+
+---
+
+## 2024-12-10 · Post · A Technical Dive into Jolt: The RISC-V zkVM 
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-12-10 21:56 UTC (2024-12-10 22:56 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1866602947666231468
+- Metrics (at fetch): bookmark 55, impression 6323, like 81, quote 2, reply 1, retweet 14
+
+> A Technical Dive into Jolt: The RISC-V zkVM 
+> https://www.zksecurity.xyz/blog/posts/how-jolt-works/ [pic.x.com/9bsX74rWD4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GeeBdn7X0AAMzrt.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/how-jolt-works/
+
+
+---
+
+## 2024-11-24 · Post · This is not all folks! Read more about the other stuff we released this last week!👇🏼 https://twitter
+
+
+### Post — @zksecurityXYZ — 2024-11-24 09:39 UTC (2024-11-24 10:39 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1860619130006843661
+- Metrics (at fetch): bookmark 7, impression 3756, like 17, quote 0, reply 2, retweet 2
+
+> This is not all folks! Read more about the other stuff we released this last week!👇🏼 https://twitter.com/__zkhack__/status/1859960171935473848
+
+**Links in post:** https://twitter.com/__zkhack__/status/1859960171935473848
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1435911698624434180 — 2024-11-22 14:00 UTC (2024-11-22 15:00 WAT)
+    
+    - URL: https://x.com/1435911698624434180/status/1859960171935473848
+    - Metrics (at fetch): bookmark 3, impression 6816, like 15, quote 1, reply 2, retweet 4
+    
+    > @TACEO_IO @cursive_team @PrivacyScaling @SuccinctJT @zksecurityXYZ @Ingo_zk @TomerSolberg @bedlamresearch @0xkrane @Lamby0x @asulanet @sylvechv @wraitii @hyle_org @a16zcrypto Together with @zircuit, @zkSecurityXYZ released Halo Hero, a course on #Halo2 development and PlonKish arithmetization in general, targeted at Rust developers who have only some understanding of succinct proofs.
+    > Tweet: https://x.com/zksecurityXYZ/status/1858430860975829455
+    > Book: https://halo2.zksecurity.xyz/
+    
+    **Links in post:** https://x.com/zksecurityXYZ/status/1858430860975829455, https://halo2.zksecurity.xyz/
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @zksecurityXYZ — 2024-11-18 08:43 UTC (2024-11-18 09:43 WAT)
+        
+        - URL: https://x.com/zksecurityXYZ/status/1858430860975829455
+        - Metrics (at fetch): bookmark 26, impression 7633, like 63, quote 2, reply 1, retweet 6
+        
+        > we got tired of people asking us if we could audit halo2, now we wrote the damn book on writing halo2! https://www.zksecurity.xyz/blog/posts/halo2-course/
+        
+        **Links in post:** https://www.zksecurity.xyz/blog/posts/halo2-course/
+        
+    
+
+
+---
+
+## 2024-11-21 · Post · zkVM Security: What Could Go Wrong? https://www.zksecurity.xyz/blog/posts/zkvm-security/ [pic.x.com/
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-11-21 05:29 UTC (2024-11-21 06:29 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1859469047206904191
+- Metrics (at fetch): bookmark 50, impression 7678, like 96, quote 1, reply 0, retweet 14
+
+> zkVM Security: What Could Go Wrong? https://www.zksecurity.xyz/blog/posts/zkvm-security/ [pic.x.com/AoLXJ8mNJI]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Gc4pOFiaAAUvXSm.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/zkvm-security/
+
+
+---
+
+## 2024-11-19 · Post · Improving the Security of the Jolt zkVM https://www.zksecurity.xyz/blog/posts/jolt-findings/ [pic.x.
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-11-19 04:19 UTC (2024-11-19 05:19 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1858726705793560932
+- Metrics (at fetch): bookmark 21, impression 7334, like 60, quote 2, reply 0, retweet 16
+
+> Improving the Security of the Jolt zkVM https://www.zksecurity.xyz/blog/posts/jolt-findings/ [pic.x.com/trKTIkR90W]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GcuGCxcbMAA--SJ.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/jolt-findings/
+
+
+---
+
 ## 2024-11-18 · Post · we got tired of people asking us if we could audit halo2, now we wrote the damn book on writing halo
+
+
+Tags (automatic): ZK
 
 
 ### Post — @zksecurityXYZ — 2024-11-18 08:43 UTC (2024-11-18 09:43 WAT)
@@ -6068,12 +7059,301 @@ Tags (automatic): ZK
 - URL: https://x.com/zksecurityXYZ/status/1858430860975829455
 - Metrics (at fetch): bookmark 26, impression 7633, like 63, quote 2, reply 1, retweet 6
 
-> we got tired of people asking us if we could audit halo2, now we wrote the damn book on writing halo2! https://t.co/7FI1jwlnRY
+> we got tired of people asking us if we could audit halo2, now we wrote the damn book on writing halo2! https://www.zksecurity.xyz/blog/posts/halo2-course/
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/halo2-course/
 
 
 ---
 
-## 2024-10-07 · Post · What? You can read some of our audit reports on https://t.co/2Y6pT8Bm6d ? Wow! I did not know that! 
+## 2024-11-15 · Post · Unveiling the Magic Behind Starknet: A Deep Dive into New Specifications
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-11-15 05:00 UTC (2024-11-15 06:00 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1857287495094067424
+- Metrics (at fetch): bookmark 8, impression 2892, like 30, quote 1, reply 0, retweet 3
+
+> Unveiling the Magic Behind Starknet: A Deep Dive into New Specifications
+> https://www.zksecurity.xyz/blog/posts/starknet-specs/ [pic.x.com/CojynM9skw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GcZpHu4agAAj3y9.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/starknet-specs/
+
+
+---
+
+## 2024-11-15 · Post · Thanks everyone for coming last night! We hope to see you again at devcon for the last day of the co
+
+
+### Post — @zksecurityXYZ — 2024-11-15 04:34 UTC (2024-11-15 05:34 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1857281087439024245
+- Metrics (at fetch): bookmark 0, impression 515, like 8, quote 0, reply 0, retweet 0
+
+> Thanks everyone for coming last night! We hope to see you again at devcon for the last day of the conference!
+
+
+---
+
+## 2024-11-14 · Post · https://www.zksecurity.xyz/blog/posts/halo2-course/ Become a Halo2 Hero: Master Zero-Knowledge Proof
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-11-14 04:03 UTC (2024-11-14 05:03 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1856910883068547251
+- Metrics (at fetch): bookmark 112, impression 31204, like 136, quote 6, reply 9, retweet 23
+
+> https://www.zksecurity.xyz/blog/posts/halo2-course/ Become a Halo2 Hero: Master Zero-Knowledge Proofs with Our New Course [pic.x.com/0FhU3hFhv9]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GcUSl7bbkAAgOox.png — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/halo2-course/
+
+
+---
+
+## 2024-11-13 · Post · If you're at devcon in Bangkok, come say hi to the team at our zk security meetup tomorrow on Thursd
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-11-13 07:21 UTC (2024-11-13 08:21 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1856598364109856781
+- Metrics (at fetch): bookmark 0, impression 1661, like 16, quote 1, reply 0, retweet 2
+
+> If you're at devcon in Bangkok, come say hi to the team at our zk security meetup tomorrow on Thursday! https://lu.ma/xw3ceayi
+
+**Links in post:** https://lu.ma/xw3ceayi
+
+
+---
+
+## 2024-11-13 · Post · noname 3.0: Native Hints, Standard Library, Compiler Visualizer, And More! https://www.zksecurity.xy
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-11-13 03:54 UTC (2024-11-13 04:54 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1856546154378604835
+- Metrics (at fetch): bookmark 7, impression 2453, like 19, quote 3, reply 0, retweet 5
+
+> noname 3.0: Native Hints, Standard Library, Compiler Visualizer, And More! https://www.zksecurity.xyz/blog/posts/noname-stdlib/ [pic.x.com/GGSoAwSn4t]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GcPG4Y4asAALZt8.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/noname-stdlib/
+
+
+---
+
+## 2024-11-12 · Post · 10 Must-Read Papers That Shaped Modern Zero-Knowledge Proofs 
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-11-12 11:14 UTC (2024-11-12 12:14 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1856294593551315098
+- Metrics (at fetch): bookmark 108, impression 9570, like 105, quote 4, reply 0, retweet 27
+
+> 10 Must-Read Papers That Shaped Modern Zero-Knowledge Proofs 
+> https://www.zksecurity.xyz/blog/posts/ten-zk-papers/
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/ten-zk-papers/
+
+
+---
+
+## 2024-11-11 · Post · ZNARKs: SNARKs for The Integers https://www.zksecurity.xyz/blog/posts/znarks/
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-11-11 08:32 UTC (2024-11-11 09:32 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1855891310470947248
+- Metrics (at fetch): bookmark 9, impression 1787, like 29, quote 0, reply 2, retweet 8
+
+> ZNARKs: SNARKs for The Integers https://www.zksecurity.xyz/blog/posts/znarks/
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/znarks/
+
+
+---
+
+## 2024-11-11 · Post · ZNARKS - read the paper abstract
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-11-11 03:50 UTC (2024-11-11 04:50 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1855820300958736743
+- Metrics (at fetch): bookmark 24, impression 5017, like 29, quote 2, reply 2, retweet 6
+
+> ZNARKS - read the paper abstract
+> https://www.zksecurity.xyz/blog/posts/znarks/
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/znarks/
+
+
+---
+
+## 2024-11-10 · Post · Cairo devs, tired of juggling multiple tools? We just released the Stone CLI, a one-stop shop Cairo 
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-11-10 10:02 UTC (2024-11-10 11:02 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1855551673839792509
+- Metrics (at fetch): bookmark 18, impression 9314, like 59, quote 4, reply 2, retweet 13
+
+> Cairo devs, tired of juggling multiple tools? We just released the Stone CLI, a one-stop shop Cairo development tool that seamlessly integrates with Ethereum and Starknet
+> https://www.zksecurity.xyz/blog/posts/stone-cli/
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/stone-cli/
+
+
+---
+
+## 2024-10-31 · Post · Attending the next Devcon? Meet us in Bangkok at the ZK security meetup on the 14th in partnership w
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-10-31 17:20 UTC (2024-10-31 18:20 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1852037819742486614
+- Metrics (at fetch): bookmark 3, impression 2289, like 19, quote 1, reply 2, retweet 2
+
+> Attending the next Devcon? Meet us in Bangkok at the ZK security meetup on the 14th in partnership with @lita_xyz ! https://lu.ma/xw3ceayi
+
+**Links in post:** https://lu.ma/xw3ceayi
+
+
+---
+
+## 2024-10-16 · Post · watch our survey of zkTLS / zkOracles / httpz / webproofs / MPC-TLS / SneakyPeek protocols
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-10-16 20:37 UTC (2024-10-16 21:37 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1846651806983573972
+- Metrics (at fetch): bookmark 4, impression 991, like 6, quote 0, reply 1, retweet 3
+
+> watch our survey of zkTLS / zkOracles / httpz / webproofs / MPC-TLS / SneakyPeek protocols
+>
+> https://x.com/archetypevc/status/1846582649357251036
+
+**Links in post:** https://x.com/archetypevc/status/1846582649357251036
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1457801460666744835 — 2024-10-16 16:03 UTC (2024-10-16 17:03 WAT)
+    
+    - URL: https://x.com/1457801460666744835/status/1846582649357251036
+    - Metrics (at fetch): bookmark 28, impression 8576, like 45, quote 8, reply 3, retweet 13
+    
+    > For Session 02 of Proof is in the Pudding, @cryptodavidw pulls back the curtain on zkTLS
+    >
+    > In this talk, David covers:
+    > + the different technical approaches to zkTLS
+    > + how it works with other PETs like TEEs & MPC
+    > + how it enables verifiable offchain data for blockchains
+    
+    **Media:**
+    - media `13_1846580325331210240` (details not returned by the API)
+    
+
+
+---
+
+## 2024-10-14 · Post · We'll be on two panels tomorrow, one on intents with @schaliasosvons which will stream as a twitter 
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-10-14 17:26 UTC (2024-10-14 18:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1845878760366870645
+- Metrics (at fetch): bookmark 2, impression 2051, like 8, quote 0, reply 1, retweet 4
+
+> We'll be on two panels tomorrow, one on intents with @schaliasosvons which will stream as a twitter space and one on zkVM vs zkCircuits with @cryptodavidw (https://x.com/HouseofZK/status/1838677500882305395) https://twitter.com/alignedlayer/status/1844785697104003326
+
+**Links in post:** https://x.com/HouseofZK/status/1838677500882305395, https://twitter.com/alignedlayer/status/1844785697104003326
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1752189672770469888 — 2024-10-11 17:02 UTC (2024-10-11 18:02 WAT)
+    
+    - URL: https://x.com/1752189672770469888/status/1844785697104003326
+    - Metrics (at fetch): bookmark 1, impression 11675, like 24, quote 6, reply 1, retweet 3
+    
+    > An intent is an expression of an individual’s desired end state(s). So, what do intents mean for blockchain?
+    >
+    > We’re meeting at the link below to discuss ZK intents with @Anoma on Tuesday, October 15, at 3PM UTC.
+    >
+    > @reka_eth and @schaliasosvons will also be joining the conversation to share their insights.
+    >
+    > Don't miss it👇🏻
+    
+    **Media:**
+    - media `3_1844785685829705728` (details not returned by the API)
+    
+
+
+---
+
+## 2024-10-08 · Post · WE-KZG: Encrypt to KZG. Can you create a ciphertext that can be decrypted if the polynomial inside a
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-10-08 21:16 UTC (2024-10-08 22:16 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1843762430712947068
+- Metrics (at fetch): bookmark 32, impression 2610, like 52, quote 0, reply 3, retweet 8
+
+> WE-KZG: Encrypt to KZG. Can you create a ciphertext that can be decrypted if the polynomial inside a polynomial commitment has a particular evaluation?https://www.zksecurity.xyz/blog/posts/kzg-we/ [pic.x.com/QJ30mOHCi9]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GZZcFinWcAApkgW.png — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/kzg-we/
+
+
+---
+
+## 2024-10-07 · Post · What? You can read some of our audit reports on https://zksecurity.xyz/reports/ ? Wow! I did not kno
+
+
+Tags (automatic): ZK
 
 
 ### Post — @zksecurityXYZ — 2024-10-07 12:47 UTC (2024-10-07 13:47 WAT)
@@ -6081,7 +7361,922 @@ Tags (automatic): ZK
 - URL: https://x.com/zksecurityXYZ/status/1843271898597315015
 - Metrics (at fetch): bookmark 4, impression 614, like 4, quote 0, reply 0, retweet 0
 
-> What? You can read some of our audit reports on https://t.co/2Y6pT8Bm6d ? Wow! I did not know that! (or did I?)
+> What? You can read some of our audit reports on https://zksecurity.xyz/reports/ ? Wow! I did not know that! (or did I?)
+
+**Links in post:** https://zksecurity.xyz/reports/
+
+
+---
+
+## 2024-10-03 · Post · Archetype x zkSecurity (Whiteboard Session) - Proof is in the Pudding: Arithmetization https://www.z
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-10-03 20:30 UTC (2024-10-03 21:30 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1841938951424078027
+- Metrics (at fetch): bookmark 3, impression 607, like 12, quote 0, reply 0, retweet 0
+
+> Archetype x zkSecurity (Whiteboard Session) - Proof is in the Pudding: Arithmetization https://www.zksecurity.xyz/blog/posts/arithmetization/ [pic.x.com/faT8tAUBx1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GY_hqt_W4AA6Ik2.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/arithmetization/
+
+
+---
+
+## 2024-09-25 · Post · We've been writing more about Cairo and the Cairo VM! Check out https://zksecurity.github.io/stark-b
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-09-25 16:43 UTC (2024-09-25 17:43 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1838982701262528545
+- Metrics (at fetch): bookmark 63, impression 7917, like 113, quote 1, reply 0, retweet 22
+
+> We've been writing more about Cairo and the Cairo VM! Check out https://zksecurity.github.io/stark-book/cairo/cairo_vm.html and how the bootloader works here https://zksecurity.github.io/stark-book/cairo/bootloader.html [pic.x.com/I9TEGLdCyT]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYVg-BcXYAkGnJN.png — no alt text provided by author
+
+**Links in post:** https://zksecurity.github.io/stark-book/cairo/cairo_vm.html, https://zksecurity.github.io/stark-book/cairo/bootloader.html
+
+
+---
+
+## 2024-09-24 · Post · Can You Prove 2+2=5? A Jolt zkVM Challenge
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-09-24 15:34 UTC (2024-09-24 16:34 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1838602963289284658
+- Metrics (at fetch): bookmark 21, impression 9045, like 49, quote 3, reply 0, retweet 16
+
+> Can You Prove 2+2=5? A Jolt zkVM Challenge
+> https://www.zksecurity.xyz/blog/posts/jolt-challenge/ [pic.x.com/Ky7beJqTx2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GYQHpneXEAEMLjC.png — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/jolt-challenge/
+
+
+---
+
+## 2024-09-19 · Post · Now that Aleo is live and that people are building on it using Leo, you should make sure to read on 
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-09-19 22:49 UTC (2024-09-19 23:49 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1836900477801287692
+- Metrics (at fetch): bookmark 11, impression 2171, like 28, quote 1, reply 1, retweet 3
+
+> Now that Aleo is live and that people are building on it using Leo, you should make sure to read on how to write secure Leo programs! https://www.zksecurity.xyz/blog/posts/aleo-program-security/ [pic.x.com/S4GH9Kbfy3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GX37P8KXsAEev3-.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/aleo-program-security/
+
+
+---
+
+## 2024-09-03 · Post · zkSecurity took part in judging the latest zkHack Montreal https://www.zksecurity.xyz/blog/posts/zkh
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-09-03 03:30 UTC (2024-09-03 04:30 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1830810602152804824
+- Metrics (at fetch): bookmark 1, impression 1300, like 13, quote 0, reply 1, retweet 2
+
+> zkSecurity took part in judging the latest zkHack Montreal https://www.zksecurity.xyz/blog/posts/zkhack/ [pic.x.com/mhVopQy5G4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GWhYihjXUAATWH-.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/zkhack/
+
+
+---
+
+## 2024-08-22 · Post · [pic.x.com/fmKua345Er]
+
+
+### Post — @zksecurityXYZ — 2024-08-22 02:10 UTC (2024-08-22 03:10 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1826441864012239112
+- Metrics (at fetch): bookmark 1, impression 1388, like 10, quote 0, reply 0, retweet 1
+
+> [pic.x.com/fmKua345Er]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GVjTMYMWoAAtsAC.jpg — no alt text provided by author
+
+
+---
+
+## 2024-08-11 · Post · Woop woop. We’re happy to have taken part in judging and choosing the winners of this year’s @__zkha
+
+
+### Post — @zksecurityXYZ — 2024-08-11 20:09 UTC (2024-08-11 21:09 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1822726978685870242
+- Metrics (at fetch): bookmark 1, impression 1452, like 17, quote 0, reply 1, retweet 1
+
+> Woop woop. We’re happy to have taken part in judging and choosing the winners of this year’s @__zkhack__ [pic.x.com/Y3tu078zNn]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GUuga1HWkAAbJZF.jpg — no alt text provided by author
+
+
+---
+
+## 2024-08-10 · Post · Reproducing and Exploiting ZK Circuit Vulnerabilities https://www.zksecurity.xyz/blog/posts/zkbugs/ 
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-08-10 03:13 UTC (2024-08-10 04:13 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1822109025854488747
+- Metrics (at fetch): bookmark 24, impression 8485, like 35, quote 2, reply 3, retweet 7
+
+> Reproducing and Exploiting ZK Circuit Vulnerabilities https://www.zksecurity.xyz/blog/posts/zkbugs/ [pic.x.com/D7IYDq1tXs]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GUlufm5WMAAEjOl.png — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/zkbugs/
+
+
+---
+
+## 2024-08-09 · Post · catch up our talk about noname 2.0 tomorrow or read our latest announcement here https://www.zksecur
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-08-09 17:04 UTC (2024-08-09 18:04 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1821955750006288689
+- Metrics (at fetch): bookmark 1, impression 1018, like 4, quote 0, reply 0, retweet 1
+
+> catch up our talk about noname 2.0 tomorrow or read our latest announcement here https://www.zksecurity.xyz/blog/posts/noname-v2/ https://twitter.com/cryptodavidw/status/1821955167186784488
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/noname-v2/, https://twitter.com/cryptodavidw/status/1821955167186784488
+
+**Quoted post (full text):**
+
+    #### Quoted post — @cryptodavidw — 2024-08-09 17:02 UTC (2024-08-09 18:02 WAT)
+    
+    - URL: https://x.com/cryptodavidw/status/1821955167186784488
+    - Metrics (at fetch): bookmark 1, impression 1658, like 6, quote 1, reply 0, retweet 0
+    
+    > we'll be talking about noname 2.0 at ZKCon tomorrow, but in the mean time check our latest announcement here https://www.zksecurity.xyz/blog/posts/noname-v2/ [pic.x.com/6JldmK1YtK]
+    
+    **Media:**
+    - media `3_1821955158852468736` (details not returned by the API)
+    
+    **Links in post:** https://www.zksecurity.xyz/blog/posts/noname-v2/
+    
+
+
+---
+
+## 2024-08-09 · Post · noname 2.0: Unlocking Numeric Generics, Folding Schemes, and a Playground https://www.zksecurity.xyz
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-08-09 03:43 UTC (2024-08-09 04:43 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1821754077857935648
+- Metrics (at fetch): bookmark 3, impression 2390, like 14, quote 2, reply 0, retweet 3
+
+> noname 2.0: Unlocking Numeric Generics, Folding Schemes, and a Playground https://www.zksecurity.xyz/blog/posts/noname-v2/ [pic.x.com/aA6MnocMoA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GUgrqmMWMAMg3tg.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/noname-v2/
+
+
+---
+
+## 2024-08-08 · Post · Exploring Leo: A Primer on Aleo Program Security 
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-08-08 15:27 UTC (2024-08-08 16:27 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1821568866071564776
+- Metrics (at fetch): bookmark 7, impression 2891, like 28, quote 1, reply 0, retweet 5
+
+> Exploring Leo: A Primer on Aleo Program Security 
+> https://www.zksecurity.xyz/blog/posts/aleo-program-security/ [pic.x.com/5STZFh5yJD]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GUeDObhXEAAz3YM.png — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/aleo-program-security/
+
+
+---
+
+## 2024-08-08 · Post · We stand corrected 😅 looks like @andrewmilson and Aditya were ahead of us! Thanks everyone for point
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-08-08 15:26 UTC (2024-08-08 16:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1821568743610138830
+- Metrics (at fetch): bookmark 1, impression 1161, like 10, quote 0, reply 2, retweet 0
+
+> We stand corrected 😅 looks like @andrewmilson and Aditya were ahead of us! Thanks everyone for pointing their work out. That being said, our aim is not to stop at proving a single Cairo proof but go further and motivate builders to take full advantage of the StarkWare.. 
+> 📷📷📷 https://twitter.com/cryptodavidw/status/1821171149054550306
+
+**Links in post:** https://twitter.com/cryptodavidw/status/1821171149054550306
+
+**Quoted post (full text):**
+
+    #### Quoted post — @cryptodavidw — 2024-08-07 13:06 UTC (2024-08-07 14:06 WAT)
+    
+    - URL: https://x.com/cryptodavidw/status/1821171149054550306
+    - Metrics (at fetch): bookmark 8, impression 8289, like 66, quote 1, reply 5, retweet 8
+    
+    > We did it folks, first team besides starkware verifying a Cairo proof on Ethereum [pic.x.com/SWMvRA1oi4] https://twitter.com/zksecurityXYZ/status/1821030233492910128
+    
+    **Media:**
+    - media `3_1821171035984510976` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/zksecurityXYZ/status/1821030233492910128
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @zksecurityXYZ — 2024-08-07 03:46 UTC (2024-08-07 04:46 WAT)
+        
+        - URL: https://x.com/zksecurityXYZ/status/1821030233492910128
+        - Metrics (at fetch): bookmark 10, impression 14477, like 45, quote 5, reply 1, retweet 12
+        
+        > Read more on how we were the first non-StarkWare team to submit a  Cairo proof to the Ethereum network! https://t.co/yRC56bBgYM
+        
+    
+
+
+---
+
+## 2024-08-07 · Post · "Beyond the Whitepaper: Where BFT Consensus Protocols Meet Reality" is on eprint https://t.co/Zh3sGx
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @zksecurityXYZ — 2024-08-07 14:24 UTC (2024-08-07 15:24 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1821190785108152406
+- Metrics (at fetch): bookmark 8, impression 2811, like 9, quote 1, reply 0, retweet 2
+
+> "Beyond the Whitepaper: Where BFT Consensus Protocols Meet Reality" is on eprint https://t.co/Zh3sGxiPcK
+
+
+---
+
+## 2024-08-07 · Post · "We are the first non-Starkware team to achieve this goal" 
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-08-07 13:10 UTC (2024-08-07 14:10 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1821171964087582923
+- Metrics (at fetch): bookmark 10, impression 2798, like 23, quote 1, reply 0, retweet 1
+
+> "We are the first non-Starkware team to achieve this goal" 
+> https://t.co/yRC56bBgYM https://t.co/tb6DHL4Cra
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GUYaIZVXsAAmQmU.jpg — no alt text provided by author
+
+
+---
+
+## 2024-08-07 · Post · Read more on how we were the first non-StarkWare team to submit a  Cairo proof to the Ethereum netwo
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-08-07 03:46 UTC (2024-08-07 04:46 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1821030233492910128
+- Metrics (at fetch): bookmark 10, impression 14477, like 45, quote 5, reply 1, retweet 12
+
+> Read more on how we were the first non-StarkWare team to submit a  Cairo proof to the Ethereum network! https://t.co/yRC56bBgYM
+
+
+---
+
+## 2024-08-06 · Post · should we? https://t.co/KRuZdTNy2b
+
+
+### Post — @zksecurityXYZ — 2024-08-06 14:44 UTC (2024-08-06 15:44 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1820833394776826254
+- Metrics (at fetch): bookmark 1, impression 573, like 2, quote 0, reply 0, retweet 0
+
+> should we? https://t.co/KRuZdTNy2b
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1449147710796349446 — 2024-08-06 10:02 UTC (2024-08-06 11:02 WAT)
+    
+    - URL: https://x.com/1449147710796349446/status/1820762331967525189
+    - Metrics (at fetch): bookmark 0, impression 647, like 0, quote 1, reply 0, retweet 0
+    
+    > @mellowcroc @zksecurityXYZ Do you guys have a discord or TG?
+    
+
+
+---
+
+## 2024-08-06 · Post · read our new paper "Beyond the Whitepaper: Where BFT Consensus Protocols Meet Reality" to learn more
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @zksecurityXYZ — 2024-08-06 01:59 UTC (2024-08-06 02:59 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1820640756920430951
+- Metrics (at fetch): bookmark 29, impression 7182, like 39, quote 1, reply 1, retweet 5
+
+> read our new paper "Beyond the Whitepaper: Where BFT Consensus Protocols Meet Reality" to learn more about real-world challenges in BFT consensus protocol implementations  https://t.co/jshOs0pBDg https://t.co/YDFxYlYy4w
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GUQ2-ZhWsAA5mt8.png — no alt text provided by author
+
+
+---
+
+## 2024-08-05 · Post · zkSecurity got Cairo proofs to verify on Ethereum!
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-08-05 08:21 UTC (2024-08-05 09:21 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1820374467790385367
+- Metrics (at fetch): bookmark 15, impression 28729, like 120, quote 15, reply 5, retweet 18
+
+> zkSecurity got Cairo proofs to verify on Ethereum!
+>
+> First time this was done by a team outside Starknet, using the open source Stone prover ⚡️
+>
+> Our CLI (released soon) will allow anyone to use Cairo on Ethereum directly!
+>
+> https://t.co/xx8YEYL7zL https://t.co/bpwV14XM69
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GUNEwjbWMAATYH6.png — no alt text provided by author
+
+
+---
+
+## 2024-07-22 · Post · We audited Renegade, one of the most interesting merge between MPC and ZK we've seen out there. Grea
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-07-22 20:15 UTC (2024-07-22 21:15 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1815480812369793268
+- Metrics (at fetch): bookmark 9, impression 6079, like 34, quote 1, reply 1, retweet 5
+
+> We audited Renegade, one of the most interesting merge between MPC and ZK we've seen out there. Great team and great code! https://t.co/XEU8p8jNTs https://t.co/RYkZuehJie
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GTHh9v2WIAEi_kj.png — no alt text provided by author
+
+
+---
+
+## 2024-07-18 · Post · - July 31st: X/twitter space on building ZK communities 
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-07-18 17:48 UTC (2024-07-18 18:48 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1813994357701398933
+- Metrics (at fetch): bookmark 4, impression 1548, like 14, quote 1, reply 0, retweet 1
+
+> - July 31st: X/twitter space on building ZK communities 
+> - August 5th: ZK Security meetup in NYC (https://t.co/Uo14dqNPhZ) 
+> - 7th: We'll present on ZK bugs at SBC 
+> - 10th: We'll present noname at ZKCon 
+> - 11th: We'll be judging at ZKHack
+> - 15th: We'll present on Zk bugs at Usenix
+
+
+---
+
+## 2024-07-17 · Post · In town (New York) for SBC next month? Come join us for a pre-SBC ZK Security event, in collaboratio
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-07-17 15:34 UTC (2024-07-17 16:34 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1813598188919779516
+- Metrics (at fetch): bookmark 4, impression 7103, like 18, quote 3, reply 0, retweet 4
+
+> In town (New York) for SBC next month? Come join us for a pre-SBC ZK Security event, in collaboration with @archetypevc (https://t.co/Uo14dqNPhZ)
+
+
+---
+
+## 2024-07-16 · Post · Come see @cryptodavidw talk about noname and zero-knowledge proof compilers at zkcon! https://t.co/p
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-07-16 00:40 UTC (2024-07-16 01:40 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1813010870760579171
+- Metrics (at fetch): bookmark 1, impression 1514, like 11, quote 0, reply 0, retweet 3
+
+> Come see @cryptodavidw talk about noname and zero-knowledge proof compilers at zkcon! https://t.co/p354ZT3Asw
+
+**Quoted post (full text):**
+
+    #### Quoted post — @75773685 — 2024-07-15 22:55 UTC (2024-07-15 23:55 WAT)
+    
+    - URL: https://x.com/75773685/status/1812984339346694245
+    - Metrics (at fetch): bookmark 1, impression 2295, like 6, quote 1, reply 1, retweet 1
+    
+    > Infra Presentation at https://t.co/VSY6zbOVsR
+    >
+    > @cryptodavidw from @zksecurityXYZ (noname library) https://t.co/BiO1QlMWOz
+    
+    **Media:**
+    - media `3_1812980929255645184` (details not returned by the API)
+    
+
+
+---
+
+## 2024-06-25 · Post · releasing FRIDA: Data-Availability Sampling from FRI, joint work with the Ethereum Foundation, read 
+
+
+### Post — @zksecurityXYZ — 2024-06-25 22:10 UTC (2024-06-25 23:10 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1805725224559951900
+- Metrics (at fetch): bookmark 15, impression 3025, like 52, quote 1, reply 0, retweet 6
+
+> releasing FRIDA: Data-Availability Sampling from FRI, joint work with the Ethereum Foundation, read more:
+> https://t.co/XGY0KEMOEr https://t.co/NcyQihW4Os
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GQ85XEsWUAAq3UW.png — no alt text provided by author
+
+
+---
+
+## 2024-06-04 · Post · We’re excited to announce our participation in Bain Capital Crypto’s Whiteboards series! In this epi
+
+
+### Post — @zksecurityXYZ — 2024-06-04 16:26 UTC (2024-06-04 17:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1798028569391906823
+- Metrics (at fetch): bookmark 22, impression 7264, like 31, quote 1, reply 0, retweet 2
+
+> We’re excited to announce our participation in Bain Capital Crypto’s Whiteboards series! In this episode we jump into the fascinating world of Multi-Party Computation (MPC).
+>
+> https://t.co/8fa3RX09pU https://t.co/14tjHCCvXz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GPPhbZsWYAAedt7.jpg — no alt text provided by author
+
+
+---
+
+## 2024-06-03 · Post · Circle STARKs: Part I, Mersenne
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-06-03 14:51 UTC (2024-06-03 15:51 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1797642170725515766
+- Metrics (at fetch): bookmark 57, impression 6380, like 76, quote 1, reply 1, retweet 12
+
+> Circle STARKs: Part I, Mersenne
+>
+> https://t.co/iVlGwATJwF https://t.co/g3q0hCFldD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GPKCBqJWoAA2_vV.jpg — no alt text provided by author
+
+
+---
+
+## 2024-06-02 · Post · The State of Security Tools for ZKPs
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-06-02 18:33 UTC (2024-06-02 19:33 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1797335683335385316
+- Metrics (at fetch): bookmark 23, impression 11757, like 12, quote 3, reply 0, retweet 6
+
+> The State of Security Tools for ZKPs
+>
+> https://t.co/Skx32xKhPr
+
+
+---
+
+## 2024-06-01 · Post · noname meets Ethereum: Integration with SnarkJS https://t.co/Wyh1eIFOXq https://t.co/DJnpNEO3LC
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-06-01 14:41 UTC (2024-06-01 15:41 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1796915060872298545
+- Metrics (at fetch): bookmark 6, impression 6336, like 20, quote 1, reply 0, retweet 3
+
+> noname meets Ethereum: Integration with SnarkJS https://t.co/Wyh1eIFOXq https://t.co/DJnpNEO3LC
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GO_ss3tXYAAOEL-.jpg — no alt text provided by author
+
+
+---
+
+## 2024-05-31 · Post · Ditch the Pump &amp; Dump Drama: Your ZK Tech Hub Awaits 
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-05-31 13:51 UTC (2024-05-31 14:51 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1796540121480843534
+- Metrics (at fetch): bookmark 13, impression 10750, like 23, quote 2, reply 2, retweet 4
+
+> Ditch the Pump &amp; Dump Drama: Your ZK Tech Hub Awaits 
+> https://t.co/wWDUV63jE1 https://t.co/gfgulVLUHv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GO6XtZDWoAAKUuj.jpg — no alt text provided by author
+
+
+---
+
+## 2024-05-30 · Post · Read about a year of ZK security on our blog https://t.co/vVppD48xLD
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-05-30 14:13 UTC (2024-05-30 15:13 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1796183054211285226
+- Metrics (at fetch): bookmark 23, impression 2391, like 24, quote 0, reply 0, retweet 6
+
+> Read about a year of ZK security on our blog https://t.co/vVppD48xLD
+
+
+---
+
+## 2024-05-25 · Post · We'll have a cool new product to show in the coming weeks, stay tuned! And reach out to @cryptodavid
+
+
+### Post — @zksecurityXYZ — 2024-05-25 23:54 UTC (2024-05-26 00:54 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1794517476308635735
+- Metrics (at fetch): bookmark 3, impression 2007, like 11, quote 0, reply 0, retweet 1
+
+> We'll have a cool new product to show in the coming weeks, stay tuned! And reach out to @cryptodavidw for an invite https://t.co/hHLKJ07RTL
+
+**Quoted post (full text):**
+
+    #### Quoted post — @cryptodavidw — 2024-05-25 23:53 UTC (2024-05-26 00:53 WAT)
+    
+    - URL: https://x.com/cryptodavidw/status/1794517224524595515
+    - Metrics (at fetch): bookmark 83, impression 44638, like 367, quote 8, reply 37, retweet 21
+    
+    > Tired of not being able to find good technical discussions in crypto communities spammed by pump &amp; dump threads? Looking for a page you can refresh constantly to check on the latest ZK stuff? We're looking for beta testers, DM me for an invite https://t.co/RGyo4HpbgO
+    
+    **Media:**
+    - media `3_1794517191179538432` (details not returned by the API)
+    
+
+
+---
+
+## 2024-05-13 · Post · Zk meetup in Paris was a success! See you at the next event https://t.co/g0av74gYEJ
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-05-13 21:22 UTC (2024-05-13 22:22 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1790130487660367965
+- Metrics (at fetch): bookmark 1, impression 5748, like 23, quote 2, reply 0, retweet 2
+
+> Zk meetup in Paris was a success! See you at the next event https://t.co/g0av74gYEJ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GNfSLzjWsAE08RI.jpg — no alt text provided by author
+
+
+---
+
+## 2024-05-07 · Post · See you next Monday (13th) in Paris! https://t.co/6ILwNvku41 https://t.co/UTuBGy0vr9
+
+
+### Post — @zksecurityXYZ — 2024-05-07 06:45 UTC (2024-05-07 07:45 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1787735529754153026
+- Metrics (at fetch): bookmark 1, impression 4392, like 12, quote 2, reply 0, retweet 2
+
+> See you next Monday (13th) in Paris! https://t.co/6ILwNvku41 https://t.co/UTuBGy0vr9
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GM9P_SAXMAA2jTy.jpg — no alt text provided by author
+
+
+---
+
+## 2024-05-06 · Post · ZPrize Came To An End! Who And How Did They Win $500,000? https://t.co/ha0Y9Zi8NG https://t.co/Y6t9C
+
+
+### Post — @zksecurityXYZ — 2024-05-06 10:26 UTC (2024-05-06 11:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1787428816282894547
+- Metrics (at fetch): bookmark 2, impression 4288, like 9, quote 1, reply 1, retweet 4
+
+> ZPrize Came To An End! Who And How Did They Win $500,000? https://t.co/ha0Y9Zi8NG https://t.co/Y6t9CxyIMy
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GM45Bz8WUAATVlu.jpg — no alt text provided by author
+
+
+---
+
+## 2024-04-30 · Post · In Paris? We are as well, let's meet up at Station F on May 13th to hang out and talk zero-knowledge
+
+
+### Post — @zksecurityXYZ — 2024-04-30 13:26 UTC (2024-04-30 14:26 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1785299591664964014
+- Metrics (at fetch): bookmark 0, impression 3085, like 6, quote 3, reply 0, retweet 0
+
+> In Paris? We are as well, let's meet up at Station F on May 13th to hang out and talk zero-knowledge proofs! https://t.co/6ILwNvku41
+>
+> Anyone also interested in giving a talk? https://t.co/VM9Z04pDEk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GMaog3XXAAAJs1H.jpg — no alt text provided by author
+
+
+---
+
+## 2024-04-30 · Post · In Paris? We are as well, let's meet up at Station F on May 12th to hang out and talk zero-knowledge
+
+
+### Post — @zksecurityXYZ — 2024-04-30 12:56 UTC (2024-04-30 13:56 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1785292181537726529
+- Metrics (at fetch): bookmark 0, impression 996, like 3, quote 1, reply 1, retweet 1
+
+> In Paris? We are as well, let's meet up at Station F on May 12th to hang out and talk zero-knowledge proofs! https://t.co/6ILwNvku41 https://t.co/B7zg0uDdpk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GMahvL8XQAABrnY.jpg — no alt text provided by author
+
+
+---
+
+## 2024-04-24 · Post · We collaborated with @Lighter_xyz to review their custom ZK circuits for verifiable orderbook matchi
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-04-24 15:02 UTC (2024-04-24 16:02 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1783149566969119019
+- Metrics (at fetch): bookmark 9, impression 15716, like 32, quote 3, reply 17, retweet 4
+
+> We collaborated with @Lighter_xyz to review their custom ZK circuits for verifiable orderbook matching. The code was found to be solid and well-organized. It was a pleasure working with Lighter's engineers who were highly cooperative. https://t.co/joFpOPN5we
+
+
+---
+
+## 2024-03-18 · Post · The ZPrize competition has come to an end! Competitors have submitted their solutions and we are now
+
+
+### Post — @zksecurityXYZ — 2024-03-18 01:43 UTC (2024-03-18 02:43 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1769540144237806021
+- Metrics (at fetch): bookmark 0, impression 2529, like 4, quote 1, reply 2, retweet 0
+
+> The ZPrize competition has come to an end! Competitors have submitted their solutions and we are now judging... more soon!
+
+
+---
+
+## 2024-03-07 · Post · The collaboration we’ve had with StarkWare has been great so far! Check out the work we’ve been doin
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-03-07 19:00 UTC (2024-03-07 20:00 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1765814774091460934
+- Metrics (at fetch): bookmark 0, impression 1024, like 2, quote 0, reply 0, retweet 0
+
+> The collaboration we’ve had with StarkWare has been great so far! Check out the work we’ve been doing in their latest update https://t.co/E5JfVtU4ta
+
+**Quoted post (full text):**
+
+    #### Quoted post — @953893947822280704 — 2024-03-07 12:35 UTC (2024-03-07 13:35 WAT)
+    
+    - URL: https://x.com/953893947822280704/status/1765717878077059334
+    - Metrics (at fetch): bookmark 7, impression 16624, like 75, quote 3, reply 10, retweet 12
+    
+    > You’ve heard about Stwo, the new prover that’s too good to be true.
+    >
+    > But did you know Stone still stands on its own?
+    >
+    > While Stwo may be new, shiny, and bold,
+    >
+    > Stone packs a punch that will never get old.
+    >
+    > Okay, we’ll stop. We’re not Dr. Seuss.
+    >
+    > But srsly, check out the cool https://t.co/bp9PYdjKjb
+    
+    **Media:**
+    - media `3_1765717411871817728` (details not returned by the API)
+    
+
+
+---
+
+## 2024-03-04 · Post · we were offline for a bit today, if you emailed us we likely did not receive it!
+
+
+### Post — @zksecurityXYZ — 2024-03-04 03:40 UTC (2024-03-04 04:40 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1764496140085682243
+- Metrics (at fetch): bookmark 0, impression 723, like 2, quote 0, reply 0, retweet 0
+
+> we were offline for a bit today, if you emailed us we likely did not receive it!
+
+
+---
+
+## 2024-02-26 · Post · Are you interested in working at zkSecurity? Do you have what it takes to find bugs in ZK systems? T
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-02-26 19:02 UTC (2024-02-26 20:02 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1762191513164124421
+- Metrics (at fetch): bookmark 112, impression 43923, like 136, quote 1, reply 10, retweet 16
+
+> Are you interested in working at zkSecurity? Do you have what it takes to find bugs in ZK systems? Take our first challenge: https://t.co/C5gGTGlyBr https://t.co/LqHHtpTU7z
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GHSN5VTbEAAVtOv.jpg — no alt text provided by author
+
+
+---
+
+## 2024-02-26 · Post · We just released a systemization of knowledge (SoK) whitepaper in collaboration with the Imperial Co
+
+
+### Post — @zksecurityXYZ — 2024-02-26 18:27 UTC (2024-02-26 19:27 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1762182569444184094
+- Metrics (at fetch): bookmark 8, impression 1801, like 24, quote 0, reply 0, retweet 3
+
+> We just released a systemization of knowledge (SoK) whitepaper in collaboration with the Imperial College London, the Technical University of Munich, the Ethereum Foundation, the Scroll Foundation, and Matter Labs. https://t.co/fZLDtYJ3MU
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1455262825820135431 — 2024-02-26 15:34 UTC (2024-02-26 16:34 WAT)
+    
+    - URL: https://x.com/1455262825820135431/status/1762139034720129185
+    - Metrics (at fetch): bookmark 76, impression 53470, like 280, quote 9, reply 16, retweet 44
+    
+    > Excited to share our latest work on ZKPs security: "SoK: What don’t we know? Understanding Security Vulnerabilities in SNARKs" (w/ @0xSerious, @infosecual, @cryptodavidw, @MMJahanara, @convoluted_code).
+    > URL: https://t.co/r01e68rwy3 https://t.co/NofzZ4Hn6d
+    
+    **Media:**
+    - media `3_1762137862735040512` (details not returned by the API)
+    
+
+
+---
+
+## 2024-01-25 · Post · There are ZK projects that are secure, and then there are projects that were not audited by us
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2024-01-25 03:12 UTC (2024-01-25 04:12 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1750355833760981327
+- Metrics (at fetch): bookmark 4, impression 3097, like 23, quote 1, reply 1, retweet 2
+
+> There are ZK projects that are secure, and then there are projects that were not audited by us
+
+
+---
+
+## 2024-01-06 · Post · who's next? https://t.co/0cz6tzNhFA
+
+
+### Post — @zksecurityXYZ — 2024-01-06 05:17 UTC (2024-01-06 06:17 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1743502041018929237
+- Metrics (at fetch): bookmark 0, impression 2242, like 13, quote 0, reply 3, retweet 1
+
+> who's next? https://t.co/0cz6tzNhFA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GDIp3I9agAAc2CA.jpg — no alt text provided by author
+
+
+---
+
+## 2024-01-02 · Post · Our work with Aleo is out! They were some of the most cooperative folks we've had the pleasure to wo
+
+
+### Post — @zksecurityXYZ — 2024-01-02 17:16 UTC (2024-01-02 18:16 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1742233502580645970
+- Metrics (at fetch): bookmark 0, impression 13068, like 42, quote 0, reply 3, retweet 3
+
+> Our work with Aleo is out! They were some of the most cooperative folks we've had the pleasure to work with. We're looking forward to the mainnet! https://t.co/xvNgiactQl
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1208081236616515585 — 2023-12-29 18:22 UTC (2023-12-29 19:22 WAT)
+    
+    - URL: https://x.com/1208081236616515585/status/1740800381259547050
+    - Metrics (at fetch): bookmark 18, impression 83620, like 399, quote 16, reply 44, retweet 79
+    
+    > As Aleo nears mainnet, ensuring security is vital.
+    >
+    > We engaged @trailofbits, @NCCGroupplc, and @zksecurityXYZ to audit the the Aleo Network. 
+    >
+    > As open-source software, we fundamentally that more eyes = more safety. 🔒
+    >
+    > See the full reports ↓https://t.co/dBObJWGK7d
+    
 
 
 ---
@@ -6115,6 +8310,226 @@ Tags (automatic): Smart contract / DeFi, ZK
 
 ---
 
+## 2023-10-02 · Post · Today we release our public report of @protocolreclaim   Reclaim protocol's ChaCha20 circuit https:/
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-10-02 15:37 UTC (2023-10-02 16:37 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1708868726194651610
+- Metrics (at fetch): bookmark 2, impression 2350, like 26, quote 0, reply 0, retweet 5
+
+> Today we release our public report of @protocolreclaim   Reclaim protocol's ChaCha20 circuit https://t.co/ARgX9IakTv https://t.co/v3ke2pJlvk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F7ce2pbbMAA49jA.jpg — no alt text provided by author
+
+
+---
+
+## 2023-09-30 · Post · Our next event is on October 24th in San Francisco with the @SuccinctLabs folks! https://t.co/Baim5Y
+
+
+### Post — @zksecurityXYZ — 2023-09-30 09:10 UTC (2023-09-30 10:10 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1708046558661583113
+- Metrics (at fetch): bookmark 0, impression 2851, like 20, quote 0, reply 1, retweet 1
+
+> Our next event is on October 24th in San Francisco with the @SuccinctLabs folks! https://t.co/Baim5YmbZH https://t.co/JN3tDKbATk
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zksecurityXYZ — 2023-09-30 09:08 UTC (2023-09-30 10:08 WAT)
+    
+    - URL: https://x.com/zksecurityXYZ/status/1708046156935422249
+    - Metrics (at fetch): bookmark 0, impression 4167, like 11, quote 2, reply 1, retweet 1
+    
+    > Our Taipei zkBBQ meetup for 中秋节 with @AleoHQ went great! Thanks everyone for coming! https://t.co/SfXhXFX0wI https://t.co/dglsBqM7v5
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/F7Qy0k7awAA79DC.jpg — no alt text provided by author
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1689373036724813824 — 2023-09-29 02:39 UTC (2023-09-29 03:39 WAT)
+        
+        - URL: https://x.com/1689373036724813824/status/1707585924350320848
+        - Metrics (at fetch): bookmark 0, impression 5070, like 8, quote 3, reply 0, retweet 0
+        
+        > 中秋節快樂! Happy Mid-Autumn Festival!
+        >
+        > Join @zksecurityXYZ + Aleo for zk中秋節 BBQ #zk #meetup #taipei for 烤肉 + 聊ZK + 練習中文🤭
+        >
+        > Lunch will be sponsored by Aleo, and @cryptodavidw will be signing copies of Real World Cryptography
+        >
+        > https://t.co/N2aGB3Hr20 來認識一下吧 👋
+        
+    
+
+
+---
+
+## 2023-09-30 · Post · Our Taipei zkBBQ meetup for 中秋节 with @AleoHQ went great! Thanks everyone for coming! https://t.co/Sf
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-09-30 09:08 UTC (2023-09-30 10:08 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1708046156935422249
+- Metrics (at fetch): bookmark 0, impression 4167, like 11, quote 2, reply 1, retweet 1
+
+> Our Taipei zkBBQ meetup for 中秋节 with @AleoHQ went great! Thanks everyone for coming! https://t.co/SfXhXFX0wI https://t.co/dglsBqM7v5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F7Qy0k7awAA79DC.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1689373036724813824 — 2023-09-29 02:39 UTC (2023-09-29 03:39 WAT)
+    
+    - URL: https://x.com/1689373036724813824/status/1707585924350320848
+    - Metrics (at fetch): bookmark 0, impression 5070, like 8, quote 3, reply 0, retweet 0
+    
+    > 中秋節快樂! Happy Mid-Autumn Festival!
+    >
+    > Join @zksecurityXYZ + Aleo for zk中秋節 BBQ #zk #meetup #taipei for 烤肉 + 聊ZK + 練習中文🤭
+    >
+    > Lunch will be sponsored by Aleo, and @cryptodavidw will be signing copies of Real World Cryptography
+    >
+    > https://t.co/N2aGB3Hr20 來認識一下吧 👋
+    
+
+
+---
+
+## 2023-09-16 · Post · Join us for our next meetup at the @SuccinctLabs offices! https://t.co/JkBJIyuJjc
+
+
+### Post — @zksecurityXYZ — 2023-09-16 04:13 UTC (2023-09-16 05:13 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1702898403150266510
+- Metrics (at fetch): bookmark 2, impression 3550, like 12, quote 1, reply 0, retweet 1
+
+> Join us for our next meetup at the @SuccinctLabs offices! https://t.co/JkBJIyuJjc
+
+
+---
+
+## 2023-09-14 · Post · We participated to Sui's zkLogin ceremony! 
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-09-14 18:14 UTC (2023-09-14 19:14 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1702385403372904613
+- Metrics (at fetch): bookmark 2, impression 2184, like 19, quote 0, reply 0, retweet 3
+
+> We participated to Sui's zkLogin ceremony! 
+> https://t.co/c5DZxyGzhD https://t.co/LqrfwH2yL4
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F6AWUu1aIAIeFMf.png — no alt text provided by author
+
+
+---
+
+## 2023-09-01 · Post · Watch what we have to say about ZK security in the Node Guardians season 2 episode 1 https://t.co/HY
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-09-01 00:22 UTC (2023-09-01 01:22 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1697404468697186709
+- Metrics (at fetch): bookmark 1, impression 1414, like 8, quote 0, reply 1, retweet 2
+
+> Watch what we have to say about ZK security in the Node Guardians season 2 episode 1 https://t.co/HYSCFAXsa6 https://t.co/hupSPm29sA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F45kXboboAAV-Jh.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-30 · Post · Listen to @cryptodavidw  on the latest episode of https://t.co/OMJBcdjUhF
+
+
+### Post — @zksecurityXYZ — 2023-08-30 17:22 UTC (2023-08-30 18:22 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1696936352561217675
+- Metrics (at fetch): bookmark 2, impression 1907, like 13, quote 0, reply 1, retweet 3
+
+> Listen to @cryptodavidw  on the latest episode of https://t.co/OMJBcdjUhF
+> https://t.co/n59lYaDmEm https://t.co/bg6SW1NgBm
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F4y6nR7aMAAWPZe.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-27 · Post · zkSecurity partners with ZPrize to make you win hundreds of thousands of dollars! https://t.co/IjDQQ
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-08-27 16:36 UTC (2023-08-27 17:36 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1695837635108069885
+- Metrics (at fetch): bookmark 5, impression 4017, like 21, quote 1, reply 2, retweet 2
+
+> zkSecurity partners with ZPrize to make you win hundreds of thousands of dollars! https://t.co/IjDQQk6Bj5 https://t.co/aNE2eydsOL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F4jTU-Qb0AA7Wdw.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-26 · Post · You like Circom but you find it confusing? Introducing Circomscribe https://t.co/aYMljChXFR https://
+
+
+### Post — @zksecurityXYZ — 2023-08-26 14:39 UTC (2023-08-26 15:39 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1695445763604783558
+- Metrics (at fetch): bookmark 44, impression 17350, like 84, quote 4, reply 1, retweet 19
+
+> You like Circom but you find it confusing? Introducing Circomscribe https://t.co/aYMljChXFR https://t.co/0tqs3ktnyy
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F4du7OjaoAAJjms.jpg — no alt text provided by author
+
+
+---
+
+## 2023-08-25 · Post · Detecting boomerang values in zero-knowledge circuits using tag analysis
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-08-25 15:34 UTC (2023-08-25 16:34 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1695097303718375738
+- Metrics (at fetch): bookmark 8, impression 8108, like 35, quote 4, reply 0, retweet 7
+
+> Detecting boomerang values in zero-knowledge circuits using tag analysis
+> https://t.co/G6EtNXt1pC https://t.co/BCF86utJii
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F4YyAn0a0AA17n3.jpg — no alt text provided by author
+
+
+---
+
 ## 2023-08-24 · Post · Public report of Penumbra circuits audit https://t.co/vV0NGNsdQg
 
 
@@ -6124,14 +8539,115 @@ Tags (automatic): ZK
 ### Post — @zksecurityXYZ — 2023-08-24 18:50 UTC (2023-08-24 19:50 WAT)
 
 - URL: https://x.com/zksecurityXYZ/status/1694784202968027170
-- Metrics (at fetch): bookmark 18, impression 19798, like 75, quote 4, reply 3, retweet 10
+- Metrics (at fetch): bookmark 18, impression 19799, like 75, quote 4, reply 3, retweet 10
 
 > Public report of Penumbra circuits audit https://t.co/vV0NGNsdQg
 
 
 ---
 
+## 2023-08-15 · Post · Imagine going to SBC and not attending the coolest ZK event in the bay! https://t.co/yYVxu4TsUr
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-08-15 20:31 UTC (2023-08-15 21:31 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1691548067730690048
+- Metrics (at fetch): bookmark 0, impression 3445, like 5, quote 1, reply 0, retweet 1
+
+> Imagine going to SBC and not attending the coolest ZK event in the bay! https://t.co/yYVxu4TsUr
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zksecurityXYZ — 2023-07-20 18:55 UTC (2023-07-20 19:55 WAT)
+    
+    - URL: https://x.com/zksecurityXYZ/status/1682101928652865536
+    - Metrics (at fetch): bookmark 1, impression 2342, like 12, quote 1, reply 0, retweet 3
+    
+    > Come join us on the last day of SBC (august 30th). We'll be hanging out with the @DelendumV folks at the House of Web 3 in SF! There'll be drinks and food! Register now! https://lu.ma/wfyp6xx1
+    
+    **Links in post:** https://lu.ma/wfyp6xx1
+    
+
+
+---
+
+## 2023-07-21 · Post · we now have an animated landing page. It's the little things :) https://www.zksecurity.xyz/ [pic.x.c
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-07-21 17:28 UTC (2023-07-21 18:28 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1682442432812838912
+- Metrics (at fetch): bookmark 0, impression 1433, like 14, quote 0, reply 0, retweet 1
+
+> we now have an animated landing page. It's the little things :) https://www.zksecurity.xyz/ [pic.x.com/IeDvduLhvp]
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1682442381042540544/pu/img/k0uFWpKbk1HStOk7.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/
+
+
+---
+
+## 2023-07-20 · Post · Come join us on the last day of SBC (august 30th). We'll be hanging out with the @DelendumV folks at
+
+
+### Post — @zksecurityXYZ — 2023-07-20 18:55 UTC (2023-07-20 19:55 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1682101928652865536
+- Metrics (at fetch): bookmark 1, impression 2342, like 12, quote 1, reply 0, retweet 3
+
+> Come join us on the last day of SBC (august 30th). We'll be hanging out with the @DelendumV folks at the House of Web 3 in SF! There'll be drinks and food! Register now! https://lu.ma/wfyp6xx1
+
+**Links in post:** https://lu.ma/wfyp6xx1
+
+
+---
+
+## 2023-07-15 · Post · We're organizing a ZK meetup on August 8th in SF with
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-07-15 00:30 UTC (2023-07-15 01:30 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1680011920840232960
+- Metrics (at fetch): bookmark 1, impression 8644, like 23, quote 2, reply 1, retweet 3
+
+> We're organizing a ZK meetup on August 8th in SF with
+> @lightspeedvp, hope you'll show up! https://lu.ma/516depkk
+
+**Links in post:** https://lu.ma/516depkk
+
+
+---
+
+## 2023-07-08 · Post · We just contributed to Ethereum's KZG Ceremony! https://ceremony.ethereum.org/
+
+
+### Post — @zksecurityXYZ — 2023-07-08 21:56 UTC (2023-07-08 22:56 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1677798781130276865
+- Metrics (at fetch): bookmark 1, impression 3986, like 35, quote 0, reply 1, retweet 5
+
+> We just contributed to Ethereum's KZG Ceremony! https://ceremony.ethereum.org/
+
+**Links in post:** https://ceremony.ethereum.org/
+
+
+---
+
 ## 2023-07-02 · Post · The zero-knowledge attack of the year might just have happened, or how Nova got broken 
+
+
+Tags (automatic): ZK
 
 
 ### Post — @zksecurityXYZ — 2023-07-02 19:28 UTC (2023-07-02 20:28 WAT)
@@ -6140,7 +8656,143 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 194, impression 135182, like 422, quote 24, reply 7, retweet 88
 
 > The zero-knowledge attack of the year might just have happened, or how Nova got broken 
-> https://t.co/9i2HX9z0Or https://t.co/Xp6DzfrLPg
+> https://www.zksecurity.xyz/blog/posts/nova-attack/ [pic.x.com/Xp6DzfrLPg]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/F0Dh0BFakAEeQBa.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/nova-attack/
+
+
+---
+
+## 2023-06-08 · Post · zk this, zk that
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-06-08 01:19 UTC (2023-06-08 02:19 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1666615786881040384
+- Metrics (at fetch): bookmark 3, impression 5400, like 45, quote 0, reply 4, retweet 5
+
+> zk this, zk that
+
+
+---
+
+## 2023-06-03 · Post · ZK app developers should be able to see down to the constraints https://www.zksecurity.xyz/blog/post
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-06-03 20:35 UTC (2023-06-03 21:35 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1665094926646820864
+- Metrics (at fetch): bookmark 13, impression 7440, like 37, quote 1, reply 3, retweet 11
+
+> ZK app developers should be able to see down to the constraints https://www.zksecurity.xyz/blog/posts/noname/ [pic.x.com/LE5AvFkeTP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FxubAYnaMAAL5LQ.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/noname/
+
+
+---
+
+## 2023-06-02 · Post · wasmati: You should write your WebAssembly in TypeScript https://www.zksecurity.xyz/blog/posts/wasma
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-06-02 17:16 UTC (2023-06-02 18:16 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1664682476772392994
+- Metrics (at fetch): bookmark 9, impression 8486, like 28, quote 3, reply 2, retweet 8
+
+> wasmati: You should write your WebAssembly in TypeScript https://www.zksecurity.xyz/blog/posts/wasmati/ [pic.x.com/9HkatY3qEz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fxoj4XZagAE_Vco.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/wasmati/
+
+
+---
+
+## 2023-06-01 · Post · Do in secret. Assert in public. Don't under-constrain your prover's witness computation in ZK progra
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-06-01 22:02 UTC (2023-06-01 23:02 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1664392022957133824
+- Metrics (at fetch): bookmark 7, impression 5139, like 28, quote 2, reply 1, retweet 6
+
+> Do in secret. Assert in public. Don't under-constrain your prover's witness computation in ZK programs https://www.zksecurity.xyz/blog/posts/underconstrain-bugs/ [pic.x.com/fp04uTdvX2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FxkbrskaMAAC1SO.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/underconstrain-bugs/
+
+
+---
+
+## 2023-05-31 · Post · ZK programmability adds a whole new layer to worry about https://www.zksecurity.xyz/blog/posts/zksec
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-05-31 16:50 UTC (2023-05-31 17:50 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1663951194145067008
+- Metrics (at fetch): bookmark 5, impression 3155, like 30, quote 0, reply 1, retweet 15
+
+> ZK programmability adds a whole new layer to worry about https://www.zksecurity.xyz/blog/posts/zksecurity/ [pic.x.com/DnnJ6UmEjl]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FxeKxiqaEAAygLL.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/zksecurity/
+
+
+---
+
+## 2023-05-30 · Post · Private delegated computation is here, and there will be bugs! https://www.zksecurity.xyz/blog/posts
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2023-05-30 23:41 UTC (2023-05-31 00:41 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1663692174826037249
+- Metrics (at fetch): bookmark 6, impression 2614, like 21, quote 0, reply 1, retweet 6
+
+> Private delegated computation is here, and there will be bugs! https://www.zksecurity.xyz/blog/posts/helloworld/ [pic.x.com/P9ArxHiU6t]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FxafNd3aIAEKFVc.jpg — no alt text provided by author
+
+**Links in post:** https://www.zksecurity.xyz/blog/posts/helloworld/
+
+
+---
+
+## 2023-05-16 · Post · hello world
+
+
+### Post — @zksecurityXYZ — 2023-05-16 16:51 UTC (2023-05-16 17:51 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/1658515564309118978
+- Metrics (at fetch): bookmark 0, impression 308, like 10, quote 0, reply 1, retweet 0
+
+> hello world

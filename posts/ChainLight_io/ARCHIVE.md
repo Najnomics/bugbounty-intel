@@ -1,6 +1,6 @@
 # @ChainLight_io — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 1081
 - Conversations/threads: 322
@@ -546,7 +546,15 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Links in post:** https://twitter.com/safe/status/1894768522720350673
 
-**Quoted post** 1894768522720350673: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @8467082 — 2025-02-26 15:16 UTC (2025-02-26 16:16 WAT)
+    
+    - URL: https://x.com/8467082/status/1894768522720350673
+    - Metrics (at fetch): bookmark 582, impression 4653148, like 1973, quote 648, reply 485, retweet 441
+    
+    > https://t.co/9zhPMCmGbB
+    
 
 
 ### Thread part 4 — @ChainLight_io — 2025-03-03 14:28 UTC (2025-03-03 15:28 WAT)
@@ -2078,7 +2086,17 @@ Tags (automatic): Smart contract / DeFi
 
 **Links in post:** https://twitter.com/1756434947202748416/status/1868805837311074576
 
-**Quoted post** 1868805837311074576: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1756434947202748416 — 2024-12-16 23:50 UTC (2024-12-17 00:50 WAT)
+    
+    - URL: https://x.com/1756434947202748416/status/1868805837311074576
+    - Metrics (at fetch): bookmark 83, impression 123493, like 347, quote 42, reply 13, retweet 154
+    
+    > ⚠️ Reminder that if you ever stored your private keys or seed phrases in LastPass prior to 2023, your funds might be at risk. We've seen 15+ cases of potential LastPass-related hacks TODAY
+    >
+    > Move your assets before hackers move them for you. For more information, keep reading🧵
+    
 
 
 ### Thread part 8 — @ChainLight_io — 2024-12-23 14:36 UTC (2024-12-23 15:36 WAT)
@@ -2095,7 +2113,22 @@ Tags (automatic): Smart contract / DeFi
 
 **Links in post:** https://twitter.com/19748227/status/1870960207842701358
 
-**Quoted post** 1870960207842701358: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @19748227 — 2024-12-22 22:30 UTC (2024-12-22 23:30 WAT)
+    
+    - URL: https://x.com/19748227/status/1870960207842701358
+    - Metrics (at fetch): bookmark 629, impression 2151449, like 2090, quote 304, reply 167, retweet 171
+    
+    > DPRK's trading career is...uh....going.....🙈
+    >
+    > tbh if i was the dude managing Hyperliquid's 4 validators (or those fucking ghetto ass binaries on gh) I would be shitting my pants right now.
+    >
+    > Hyperliquid dudes dont seem worried at all though so im sure its fine. 🫠 [pic.x.com/JrrU7t1sJe]
+    
+    **Media:**
+    - media `3_1870955480836943872` (details not returned by the API)
+    
 
 
 ### Thread part 9 — @ChainLight_io — 2024-12-23 14:36 UTC (2024-12-23 15:36 WAT)
@@ -10119,7 +10152,7 @@ Tags (automatic): ZK
     #### Quoted post — @trailofbits — 2024-01-29 23:21 UTC (2024-01-30 00:21 WAT)
     
     - URL: https://x.com/trailofbits/status/1752109824282910869
-    - Metrics (at fetch): bookmark 13, impression 87160, like 170, quote 14, reply 8, retweet 37
+    - Metrics (at fetch): bookmark 13, impression 87162, like 170, quote 14, reply 8, retweet 37
     
     > Warning: @lfgexchange  is falsely claiming to have worked with us on an audit. The report on their page is fake. If you want to verify the authenticity of a @trailofbits report, find it on our publications repo, the authoritative source straight from us. https://github.com/trailofbits/publications?tab=readme-ov-file#security-reviews [pic.x.com/c2sT5xM1T1]
     
@@ -17020,9 +17053,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: 
 
 **Quoted post (full text):**
 
-    #### Quoted post — @295218901 — 2023-09-30 12:24 UTC (2023-09-30 13:24 WAT)
+    #### Quoted post — @VitalikButerin — 2023-09-30 12:24 UTC (2023-09-30 13:24 WAT)
     
-    - URL: https://x.com/295218901/status/1708095471292764297
+    - URL: https://x.com/VitalikButerin/status/1708095471292764297
     - Metrics (at fetch): not returned
     
     > Should Ethereum be okay with enshrining more things in the protocol?
@@ -19028,7 +19061,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     #### Quoted post — @samczsun — 2023-08-07 18:09 UTC (2023-08-07 19:09 WAT)
     
     - URL: https://x.com/samczsun/status/1688613385565528064
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 240, impression 333019, like 1014, quote 56, reply 49, retweet 217
     
     > Over the past few days I've been working with a group of whitehats, auditors, and other security leaders to try and solve the hardest part of responsible disclosure: finding the right person to talk to. [pic.x.com/pPjt7D51ZE]
     
@@ -19198,9 +19231,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 
 **Quoted post (full text):**
 
-    #### Quoted post — @295218901 — 2023-07-24 09:11 UTC (2023-07-24 10:11 WAT)
+    #### Quoted post — @VitalikButerin — 2023-07-24 09:11 UTC (2023-07-24 10:11 WAT)
     
-    - URL: https://x.com/295218901/status/1683404462314999814
+    - URL: https://x.com/VitalikButerin/status/1683404462314999814
     - Metrics (at fetch): not returned
     
     > What do I think about biometric proof of personhood?

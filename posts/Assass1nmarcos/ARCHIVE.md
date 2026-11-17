@@ -1,11 +1,53 @@
 # @Assass1nmarcos — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 138
-- Conversations/threads: 104
+- Posts in this file: 140
+- Conversations/threads: 106
 - Oldest post captured: 2018-11-24
-- Newest post captured: 2026-11-03
+- Newest post captured: 2026-11-16
+
+
+---
+
+## 2026-11-16 · Post · Yay, I was awarded a $5,789 bounty on @Hacker0x01!
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @Assass1nmarcos — 2026-11-16 21:29 UTC (2026-11-16 22:29 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2122441997600559376
+- Metrics (at fetch): bookmark 15, impression 2710, like 128, quote 0, reply 7, repost 3
+
+> Yay, I was awarded a $5,789 bounty on @Hacker0x01!
+>
+>  https://hackerone.com/assassin_marcos #TogetherWeHitHarder
+>
+> CC: @ThisIsDK999 [pic.x.com/PIM8RYztX9]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXRtuxEbIAAnjv1.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXRtvYEaUAAZAd5.jpg — no alt text provided by author
+
+**Links in post:** https://hackerone.com/assassin_marcos
+
+
+---
+
+## 2026-11-16 · Post · I saw many recent tweets and I think Researchers are slowly losing faith in @Bugcrowd. At this point
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Assass1nmarcos — 2026-11-16 20:07 UTC (2026-11-16 21:07 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2122421308634042645
+- Metrics (at fetch): bookmark 3, impression 1373, like 15, quote 0, reply 2, retweet 0
+
+> I saw many recent tweets and I think Researchers are slowly losing faith in @Bugcrowd. At this point, we're witnessing Doomsday (Real) before GTA VI. 💀
 
 
 ---

@@ -49,3 +49,5 @@ for cid in enumerate_client_ids():
 for flow: reuse(state); reuse(code); check postMessage targetOrigin
 for siwe: replay(signature); reuse(nonce); swap(chain_id)
 ```
+
+- 2026-11-17: see [2026-11-17 check-specs](2026-11-17-ai-tool-idor-oauth-scheme-roles-module.md)

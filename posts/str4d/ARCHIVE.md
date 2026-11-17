@@ -1,6 +1,6 @@
 # @str4d — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 71
 - Conversations/threads: 64
@@ -933,9 +933,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @295218901 — 2017-02-03 06:09 UTC (2017-02-03 07:09 WAT)
+    #### Quoted post — @VitalikButerin — 2017-02-03 06:09 UTC (2017-02-03 07:09 WAT)
     
-    - URL: https://x.com/295218901/status/827398472529698817
+    - URL: https://x.com/VitalikButerin/status/827398472529698817
     - Metrics (at fetch): bookmark 1, impression 0, like 192, quote 8, reply 9, retweet 96
     
     > I just published “Zk-SNARKs: Under the Hood” https://t.co/oDKTnzBrsR

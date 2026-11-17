@@ -1,11 +1,69 @@
 # @0xriptide — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 218
-- Conversations/threads: 211
+- Posts in this file: 220
+- Conversations/threads: 213
 - Oldest post captured: 2014-07-21
-- Newest post captured: 2026-11-15
+- Newest post captured: 2026-11-16
+
+
+---
+
+## 2026-11-16 · Post · @windhustler congrats!!
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1471962504087625733 — 2026-11-16 17:50 UTC (2026-11-16 18:50 WAT)
+
+- URL: https://x.com/1471962504087625733/status/2122386904771432757
+- Metrics (at fetch): bookmark 4, impression 2970, like 272, quote 0, reply 77, retweet 0
+
+> The weekend was super busy. My daughter was born on Saturday, one day before my 35th birthday! [pic.x.com/PiyfzpZdX6]
+
+**Media:**
+- media `3_2122386206713323521` (details not returned by the API)
+
+
+### Post — @0xriptide — 2026-11-16 18:35 UTC (2026-11-16 19:35 WAT)
+
+- URL: https://x.com/0xriptide/status/2122398273906323693
+- Metrics (at fetch): bookmark 0, impression 112, like 0, quote 0, reply 0, retweet 0
+
+> @windhustler congrats!!
+
+
+---
+
+## 2026-11-16 · Post · another reminder that Safe modules have root level access to your coins https://twitter.com/DefiantN
+
+
+### Post — @0xriptide — 2026-11-16 16:49 UTC (2026-11-16 17:49 WAT)
+
+- URL: https://x.com/0xriptide/status/2122371409594749120
+- Metrics (at fetch): bookmark 19, impression 6601, like 62, quote 0, reply 2, repost 3
+
+> another reminder that Safe modules have root level access to your coins https://twitter.com/DefiantNews/status/2122352241541825001
+
+**Links in post:** https://twitter.com/DefiantNews/status/2122352241541825001
+
+**Quoted post (full text):**
+
+    #### Quoted post — @DefiantNews — 2026-11-16 15:33 UTC (2026-11-16 16:33 WAT)
+    
+    - URL: https://x.com/DefiantNews/status/2122352241541825001
+    - Metrics (at fetch): bookmark 16, impression 12907, like 111, quote 1, reply 6, repost 6
+    
+    > SAFE WALLET DRAINED OF $6.4M; ANALYST BLAMES TRADING PERMISSIONS, NOT A CONTRACT BUG.
+    >
+    > disco_trooper says its Zodiac Roles setup failed to restrict who received tokens to execute trades, letting an attacker keep the assets.
+    >
+    > Read more here:
+    > https://thedefiant.io/news/hacks/safe-wallet-drained-of-6-4-million-via-roles-module
+    
+    **Links in post:** https://thedefiant.io/news/hacks/safe-wallet-drained-of-6-4-million-via-roles-module
+    
 
 
 ---

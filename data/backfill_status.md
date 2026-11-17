@@ -1,6 +1,6 @@
 # Backfill status (X full-archive search)
 
-Updated 2026-11-16 07:04 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
+Updated 2026-11-17 07:45 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
 
 | Handle | Before (d427256) | Now | Oldest captured |
 |---|---|---|---|
@@ -126,11 +126,11 @@ Each cursor pages backwards with `until_id` = oldest post id already fetched by 
 | mdp5 | 0 | 2026-07-22 | 2079869121513378138 | DONE (timeline floor; no earlier original posts returned) | `from:mdp_sec -is:retweet (-is:reply OR to:mdp_sec)` |
 | sax5 | 50 | 2024-08-21 | 1826316681574318390 | DONE (superseded by sax5k at 2024-08-21; closed) | `from:saxenism -is:retweet (-is:reply OR to:saxenism)` |
 | sax5k | 373 | 2020-03-15 | 1239266311294701568 | DONE (reached account start (2020-03-15)) | `from:saxenism -is:retweet (-is:reply OR to:saxenism) (bug OR vuln OR exploit OR bounty OR CVE OR poc OR audit OR security OR attack OR hack OR zk OR circuit OR tee OR sgx OR solidity OR evm OR 🧵 OR thread OR critical OR immunefi OR code4rena OR finding)` |
-| n6a | 215 | 2023-10-27 | 1717948822180302899 | OPEN | `(from:Neodyme OR from:osec_io) -is:retweet -is:reply` |
-| n6b | 223 | 2025-06-03 | 1929948750169944500 | OPEN | `from:zksecurityXYZ -is:retweet -is:reply` |
-| n6c | 216 | 2025-07-21 | 1947275960459362392 | OPEN | `from:trailofbits -is:retweet -is:reply` |
+| n6a | 404 | 2021-08-21 | 1429086758172565511 | DONE (reached account start) | `(from:Neodyme OR from:osec_io) -is:retweet -is:reply` |
+| n6b | 345 | 2023-05-16 | 1658515564309118978 | DONE (reached account start) | `from:zksecurityXYZ -is:retweet -is:reply` |
+| n6c | 506 | 2023-05-02 | 1653517471599525889 | OPEN | `from:trailofbits -is:retweet -is:reply` |
 | n6d | 23 | 2025-06-19 | 1935760517177675877 | DONE (closed after 1 page: 22/23 already archived (low yield)) | `(from:asymmetric_re OR from:zellic_io OR from:ChainLight_io) -is:retweet -is:reply (vulnerability OR bug OR exploit OR audit OR critical OR disclosure OR postmortem OR writeup OR blog)` |
-| n6e | 192 | 2025-10-03 | 1974197215422767526 | OPEN | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` |
+| n6e | 496 | 2024-07-29 | 1817926793636000166 | OPEN | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` |
 
 ## Older cursors (passes 1–4, next_token paging) — superseded by pass-5 cursors above
 
@@ -187,3 +187,15 @@ Pass-5 keyword cursors were all DONE, so pass 6 opens **unfiltered** cursors (`-
 | n6e | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` | 192 | 144 | 2025-10-03 | 1974197215422767526 | OPEN |
 
 Resume each OPEN cursor with the same query, `until_id` as shown, `max_results` 25, same fields/expansions as pass 5. Ingest helper: `/workspace/raw/daily/bf16.py <label> <result-file>` (writes store.json + advances x2state.json), then `gen_archive.py` + `stat.py`.
+
+## 2026-11-17 note — pass 6 continued
+Advanced the four OPEN pass-6 cursors. **~36 search calls, +905 newly archived posts.**
+
+| Cursor | Query | New today | Oldest reached | until_id (resume) | State |
+|---|---|---|---|---|---|
+| n6a | `(from:Neodyme OR from:osec_io) -is:retweet -is:reply` | 189 | 2021-08-21 | 1429086758172565511 | DONE (reached account start) |
+| n6b | `from:zksecurityXYZ -is:retweet -is:reply` | 122 | 2023-05-16 | 1658515564309118978 | DONE (reached account start) |
+| n6c | `from:trailofbits -is:retweet -is:reply` | 290 | 2023-05-02 | 1653517471599525889 | OPEN |
+| n6e | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` | 304 | 2024-07-29 | 1817926793636000166 | OPEN |
+
+Resume n6c and n6e with the same query, `until_id` as shown, `max_results` 25, same fields/expansions. Ingest with `/workspace/raw/daily/bf17.py`, then `gen_archive.py` + `write_state.py`.

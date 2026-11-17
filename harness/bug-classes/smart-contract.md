@@ -87,3 +87,5 @@ for oracle: compute min sources to move median given actual spread (not n/2+1)
 for governance: check who can modify another account's vote/record
 check share math for rounding-to-attacker; privileged fns for missing authz; sigs for nonce reuse
 ```
+
+- 2026-11-17: see [2026-11-17 check-specs](2026-11-17-ai-tool-idor-oauth-scheme-roles-module.md)

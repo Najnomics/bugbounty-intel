@@ -1,6 +1,6 @@
 # @kobigurk — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 129
 - Conversations/threads: 111
@@ -686,7 +686,21 @@ Tags (automatic): ZK
 >
 > I would interested in seeing (or writing) write ups about what can be safely omitted from transcripts, as this is important when using FS in circuits https://t.co/oLQNBps3aE
 
-**Quoted post** 1805227128180363773: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @trailofbits — 2024-06-24 13:11 UTC (2024-06-24 14:11 WAT)
+    
+    - URL: https://x.com/trailofbits/status/1805227128180363773
+    - Metrics (at fetch): bookmark 22, impression 11998, like 49, quote 3, reply 3, retweet 15
+    
+    > Introducing Decree by @TrailofBits: A new tool that helps devs define, enforce, and understand their Fiat-Shamir transcripts. Check it out! 
+    > https://buff.ly/3KUnALC [pic.x.com/oamFXuVJ2Y]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/GQ10gYxWQAAJM5L.jpg — no alt text provided by author
+    
+    **Links in post:** https://buff.ly/3KUnALC
+    
 
 
 ---

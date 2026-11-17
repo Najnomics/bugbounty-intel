@@ -1,11 +1,24 @@
 # @usmannk — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 60
-- Conversations/threads: 57
+- Posts in this file: 61
+- Conversations/threads: 58
 - Oldest post captured: 2023-08-16
-- Newest post captured: 2026-11-15
+- Newest post captured: 2026-11-16
+
+
+---
+
+## 2026-11-16 · Post · @DunateIIo @Zorvh87 quite a few missing there actually :)
+
+
+### Post — @usmannk — 2026-11-16 20:49 UTC (2026-11-16 21:49 WAT)
+
+- URL: https://x.com/usmannk/status/2122431831954088211
+- Metrics (at fetch): bookmark 0, impression 29, like 1, quote 0, reply 1, retweet 0
+
+> @DunateIIo @Zorvh87 quite a few missing there actually :)
 
 
 ---

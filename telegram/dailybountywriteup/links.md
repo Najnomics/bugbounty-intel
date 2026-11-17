@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **12909**
+Total distinct URLs: **12919**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -12915,3 +12915,13 @@ Total distinct URLs: **12909**
 | [14985](https://t.me/dailybountywriteup/14985) | 2026-11-15 09:16:04 | Information Disclosure — Intercom Identity Verification secret (HMAC key) is hard-coded in… | https://medium.com/@jokodfir/information-disclosure-intercom-identity-verification-secret-hmac-key-is-hard-coded-in-59a6413bfd0d |
 | [14985](https://t.me/dailybountywriteup/14985) | 2026-11-15 09:16:04 | From P4 to P1 | https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-17-advanced-ssrf-testing-url-validation-bypasses-redirects-and-dns-rebinding-5f6d92dca0fa |
 | [14985](https://t.me/dailybountywriteup/14985) | 2026-11-15 09:16:04 | P4 Anonymous S3 Bucket Object Listing Leading to Cloud Storage Information Disclosure | https://medium.com/@akashmotkar001/p4anonymous-s3-bucket-object-listing-leading-to-cloud-storage-information-disclosure-555ee8a3e796 |
+| [14986](https://t.me/dailybountywriteup/14986) | 2026-11-16 09:24:57 | VERDICT AI Explained | https://medium.com/@pentesterclubpvtltd/verdict-ai-explained-the-autonomous-pentester-that-finds-proves-real-vulnerabilities-1ddc7043c9f1 |
+| [14986](https://t.me/dailybountywriteup/14986) | 2026-11-16 09:24:57 | The “Out of Scope” Bugs | https://ratnadeepdeyroy.medium.com/the-out-of-scope-bugs-how-to-find-escalate-and-fix-31-commonly-rejected-bug-bounty-findings-91748175e47e |
+| [14986](https://t.me/dailybountywriteup/14986) | 2026-11-16 09:24:57 | The Internal Tool T-Mobile Forgot Was Facing the Public Internet | https://medium.com/@l4zz3rj0d/the-internal-tool-t-mobile-forgot-was-facing-the-public-internet-010ce4ee0894 |
+| [14986](https://t.me/dailybountywriteup/14986) | 2026-11-16 09:24:57 | Dynamic Analysis of njRAT malware (Bladabindi) | https://medium.com/@yatanim/dynamic-analysis-of-njrat-bladabindi-tracing-its-network-trafific-process-activity-and-8950ddc972c4 |
+| [14986](https://t.me/dailybountywriteup/14986) | 2026-11-16 09:24:57 | DVWA Vulnerability | https://medium.com/@Kamal_S/dvwa-vulnerability-stored-cross-site-scripting-xss-6aaac4dc5385 |
+| [14986](https://t.me/dailybountywriteup/14986) | 2026-11-16 09:24:57 | Fewer Than 1 in 20 Reports Was Real | https://medium.com/@tl77/fewer-than-1-in-20-reports-was-real-the-arithmetic-that-closed-curls-bug-bounty-b4f10c01c036 |
+| [14986](https://t.me/dailybountywriteup/14986) | 2026-11-16 09:24:57 | Sign in with Apple JWT Bug | https://masimshahzad.medium.com/sign-in-with-apple-jwt-bug-account-takeover-case-ae9fd2061bf6 |
+| [14986](https://t.me/dailybountywriteup/14986) | 2026-11-16 09:24:57 | How I Escalated from Operator to Admin on a Leading Travel Platform on Hackerone Via GraphQL… | https://medium.com/@sebasvargas2/cross-supplier-privilege-escalation-how-i-escalated-from-operator-to-admin-on-a-leading-travel-614a67f459ab |
+| [14986](https://t.me/dailybountywriteup/14986) | 2026-11-16 09:24:57 | Nineteen of Twenty-One Were Patched. The Exploit Needed a Switch. | https://meetcyber.net/nineteen-of-twenty-one-were-patched-the-exploit-needed-a-switch-1fc0dfc88b73 |
+| [14986](https://t.me/dailybountywriteup/14986) | 2026-11-16 09:24:57 | I Steal Your Login With One Query Parameter | https://thexssrat.medium.com/i-steal-your-login-with-one-query-parameter-my-oauth-account-takeover-playbook-462b1da5179f |

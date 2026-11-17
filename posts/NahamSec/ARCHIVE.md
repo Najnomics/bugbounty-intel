@@ -1,11 +1,55 @@
 # @NahamSec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1170
-- Conversations/threads: 994
+- Posts in this file: 1172
+- Conversations/threads: 996
 - Oldest post captured: 2016-09-01
-- Newest post captured: 2026-11-15
+- Newest post captured: 2026-11-16
+
+
+---
+
+## 2026-11-16 · Post · 4 days until Day 1 of NahamCon2026 at Prompt2Pwn. 🔥
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2026-11-16 19:04 UTC (2026-11-16 20:04 WAT)
+
+- URL: https://x.com/NahamSec/status/2122405340721389716
+- Metrics (at fetch): bookmark 9, impression 3967, like 45, quote 0, reply 3, retweet 5
+
+> 4 days until Day 1 of #NahamCon2026 at #Prompt2Pwn. 🔥
+>
+> Johann Rehberger opens the stage, Casey Ellis takes the afternoon keynote, and we’ve got talks on AI agents, device hacking, model distillation, and more.
+>
+> 👀 Watch worldwide: https://t.co/u6oGdulyI3 https://t.co/YYk6R81yKt
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXOZ5ENawAAEuCr.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXOZ-X5bsAE-Hth.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-16 · Post · The last few months have been very 'fun' for cybersecurity. PHP2Shell. Node2Shell. KindaRails2Shell.
+
+
+### Post — @NahamSec — 2026-11-16 13:50 UTC (2026-11-16 14:50 WAT)
+
+- URL: https://x.com/NahamSec/status/2122326320243769795
+- Metrics (at fetch): bookmark 8, impression 5120, like 72, quote 1, reply 7, repost 8
+
+> The last few months have been very 'fun' for cybersecurity. PHP2Shell. Node2Shell. KindaRails2Shell. HEIF Heist. XBOW’s  Chrome chain. Bugs that sat there for years are finally getting found.The internet is getting safer, fast.
+>
+> Am I the only one excited? https://youtu.be/cbJs1GPIU50 [pic.x.com/6wClBvvYhR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXOZd2dbUAA7FGR.jpg — no alt text provided by author
+
+**Links in post:** https://youtu.be/cbJs1GPIU50
 
 
 ---

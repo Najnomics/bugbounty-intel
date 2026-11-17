@@ -1,19 +1,18 @@
 {
- "generated": "2026-11-16 (Africa/Lagos)",
+ "generated": "2026-11-17 (Africa/Lagos)",
  "status": "complete",
- "enumerated": 12758,
- "captured": 12758,
+ "enumerated": 12759,
+ "captured": 12759,
  "content": {
-  "body": 10012,
+  "body": 10013,
   "summary": 2746
  },
  "also_in_telegram_writeups": 747,
  "failed_ids": [],
- "last_disclosed_at": "2026-11-15T14:35:24.509Z",
- "last_disclosed_id": "3966160",
- "max_report_id": 4177724,
+ "last_disclosed_at": "2026-11-16T12:44:03.637Z",
+ "last_disclosed_id": "4199917",
+ "max_report_id": 4199917,
  "enumeration": "POST https://hackerone.com/graphql search(index: CompleteHacktivityReportIndex, query_string: \"disclosed:true AND disclosed_at:[A TO B]\", sort disclosed_at ASC, size 100) \u2014 one window per month (<10k results/window)",
  "fetch": "GET https://hackerone.com/reports/<id>.json (6 threads, 0.25s gap, 60s pause on 429)",
- "incremental": "enumerate disclosed_at:[<last_disclosed_at date> TO <today>], fetch ids not already in data/h1/*.jsonl, re-run tools/intel-pipeline/h1_build.py then h1_harness.py (h1_harness appends only findings whose post_url is new)",
- "note": "2026-11-16: disclosed_at:[2026-11-14 TO 2026-11-16] \u2192 +3 (4117330, 4059744 Weblate; 3966160 arc-bbp $10,000)"
+ "incremental": "enumerate disclosed_at:[<last_disclosed_at date> TO <today>], fetch ids not already in data/h1/*.jsonl, re-run tools/intel-pipeline/h1_build.py then h1_harness.py (h1_harness appends only findings whose post_url is new)"
 }

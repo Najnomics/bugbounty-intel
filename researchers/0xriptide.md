@@ -54,3 +54,14 @@ _Auto-maintained from `harness/findings.jsonl`. 5 finding(s). Full verbatim post
 - **Hackers in Arbitrum’s Inbox** (`cross-chain-bridge`)
   - post: https://medium.com/@0xriptide/hackers-in-arbitrums-inbox-ca23272641a2
   - local: `writeups/0xriptide/hackers-in-arbitrums-inbox.md`
+
+## Daily update 2026-11-17
+
+### Safe wallet drained $6.4M via Zodiac Roles module permissions (quoted, 2026-11-16) (2026-11-16)
+
+- Post: https://x.com/0xriptide/status/2122371409594749120 — verbatim: [`posts/0xriptide/2026-11-16-2122371409594749120.md`](../posts/0xriptide/2026-11-16-2122371409594749120.md)
+- **Bug class:** Smart-account permission misconfiguration (Safe module / Zodiac Roles — unconstrained recipient)
+- **Root cause:** Delegated trading role did not restrict who receives tokens, so a role holder could route swap output to an attacker; "not a contract bug" per the analyst quoted by The Defiant.
+- **How it was found:** Incident analysis by disco_trooper (reported by The Defiant; article body blocked — partial save at [writeups/0xriptide/thedefiant-safe-wallet-drained-6-4m-roles-module.md](../writeups/0xriptide/thedefiant-safe-wallet-drained-6-4m-roles-module.md)).
+- **Takeaways / harness:** Enumerate Safe modules and Roles scopes; every value-moving allowed function must pin recipient = avatar; fork-simulate as role member.
+

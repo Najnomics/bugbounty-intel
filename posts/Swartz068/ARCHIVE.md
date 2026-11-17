@@ -1,11 +1,61 @@
 # @Swartz068 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 54
-- Conversations/threads: 36
+- Posts in this file: 56
+- Conversations/threads: 38
 - Oldest post captured: 2024-12-30
-- Newest post captured: 2026-11-15
+- Newest post captured: 2026-11-16
+
+
+---
+
+## 2026-11-16 · Reply · @poonam_twtt 33/100
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1479456723664445440 — 2026-11-16 14:09 UTC (2026-11-16 15:09 WAT)
+
+- URL: https://x.com/1479456723664445440/status/2122331144469504452
+- Metrics (at fetch): bookmark 0, impression 4089, like 32, quote 12, reply 10, retweet 0
+
+> My 10th standard marks : 
+>
+> Maths - 93/100    
+>
+> What's yours? Be honest.. https://t.co/CefVVW9fSN
+
+**Quoted post** 2122225077572022654: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @Swartz068 — 2026-11-16 19:19 UTC (2026-11-16 20:19 WAT)
+
+- URL: https://x.com/Swartz068/status/2122409342569980215
+- Metrics (at fetch): bookmark 0, impression 13, like 0, quote 0, reply 0, retweet 0
+
+> @poonam_twtt 33/100
+
+
+---
+
+## 2026-11-16 · Post · Happy to Secured Mercedes-Benz. 
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-11-16 12:31 UTC (2026-11-16 13:31 WAT)
+
+- URL: https://x.com/Swartz068/status/2122306655132270666
+- Metrics (at fetch): bookmark 0, impression 847, like 57, quote 0, reply 1, repost 0
+
+> Happy to Secured Mercedes-Benz. 
+>
+> #bugbountytip #bugcrowd #hackers #hackerone #bounty #vulnerability [pic.x.com/raF21dHVN2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXPyphnbkAAVbgz.jpg — no alt text provided by author
 
 
 ---

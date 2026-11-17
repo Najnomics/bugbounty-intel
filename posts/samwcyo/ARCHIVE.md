@@ -1,6 +1,6 @@
 # @samwcyo — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 204
 - Conversations/threads: 188
@@ -681,7 +681,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     #### Quoted post — @trailofbits — 2024-01-29 23:21 UTC (2024-01-30 00:21 WAT)
     
     - URL: https://x.com/trailofbits/status/1752109824282910869
-    - Metrics (at fetch): bookmark 13, impression 87160, like 170, quote 14, reply 8, retweet 37
+    - Metrics (at fetch): bookmark 13, impression 87162, like 170, quote 14, reply 8, retweet 37
     
     > Warning: @lfgexchange  is falsely claiming to have worked with us on an audit. The report on their page is fake. If you want to verify the authenticity of a @trailofbits report, find it on our publications repo, the authoritative source straight from us. https://github.com/trailofbits/publications?tab=readme-ov-file#security-reviews [pic.x.com/c2sT5xM1T1]
     

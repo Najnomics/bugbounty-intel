@@ -1,11 +1,117 @@
 # @S1r1u5_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 494
-- Conversations/threads: 377
+- Posts in this file: 497
+- Conversations/threads: 380
 - Oldest post captured: 2017-02-26
-- Newest post captured: 2026-11-14
+- Newest post captured: 2026-11-17
+
+
+---
+
+## 2026-11-17 · Post · hate to break it to you, but these attacks aren't happening because of artex or some fancy orchestra
+
+
+### Post — @S1r1u5_ — 2026-11-17 03:29 UTC (2026-11-17 04:29 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122532549151088841
+- Metrics (at fetch): bookmark 7, impression 1885, like 27, quote 0, reply 1, repost 1
+
+> hate to break it to you, but these attacks aren't happening because of artex or some fancy orchestrator. https://twitter.com/FBICyberBranch/status/2121317398305186287
+
+**Links in post:** https://twitter.com/FBICyberBranch/status/2121317398305186287
+
+**Quoted post (full text):**
+
+    #### Quoted post — @FBICyberBranch — 2026-11-13 19:00 UTC (2026-11-13 20:00 WAT)
+    
+    - URL: https://x.com/FBICyberBranch/status/2121317398305186287
+    - Metrics (at fetch): bookmark 3220, impression 536022, like 3857, quote 221, reply 146, repost 891
+    
+    > Threat actors are weaponizing ARTEX, an open-source, large language model (LLM)-driven agentic platform to automate multiple phases of cyber intrusions at machine speed. Since at least August 2026, a variety of malicious cyber actors have used ARTEX to conduct campaigns targeting organizations globally across multiple sectors, including financial services, government, and technology.
+    >
+    > ARTEX significantly reduces the time required to chain attack techniques and enables threat actors with minimal technical expertise to conduct complex, multi-target operations simultaneously.
+    >
+    > Today, the FBI released a FLASH highlighting the tactics, techniques, and procedures and indicators of compromise associated with the ARTEX framework. Organizations should follow the mitigation steps outlined in the FLASH to improve their security posture in response to ARTEX and similar agentic SI frameworks: https://www.ic3.gov/CSA/2026/261113.pdf
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXBu7o9WYAIp48S.jpg — alt text: "FBI Flash report dated November 13, 2026, detailing threat overview of ARTEX Autonomous Penetration Testing Framework."
+    
+    **Links in post:** https://www.ic3.gov/CSA/2026/261113.pdf
+    
+
+
+---
+
+## 2026-11-16 · Post · @chrisrohlf i also think it would be good for anthropic to better incentivize security researchers, 
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @22195205 — 2026-11-16 14:35 UTC (2026-11-16 15:35 WAT)
+
+- URL: https://x.com/22195205/status/2122337788410614228
+- Metrics (at fetch): bookmark 43, impression 11455, like 103, quote 8, reply 7, retweet 24
+
+> Anthropic is making some important changes to our Coordinated Vulnerability Disclosure policy in order to keep pace with the rapid improvement of AI driven vulnerability discovery capabilities.
+>
+> Starting in January we are moving to a 30-day timeline for Critical and High vulnerabilities, and 45 days for everything else. See the post linked below for more details.
+>
+> We know that this change may put more pressure on OSS maintainers and vendors. Given this change some important aspects of our policy are worth calling out here:
+>
+> * We will continue to agree to a sustainable pace with maintainers and vendors before sending a large volume of findings.
+> * We will always include a patch or mitigation with each finding where possible.
+> * We will work with vendors and OSS maintainers on a timeline for issues that can’t be fixed quickly.
+> * A reminder that issues reported with no human triage, such as those from OSS-Scanner are not subject to this policy. See our FAQ for more details.
+>
+> We know that we cannot just patch our way to better security. Securing all of the code in the world requires a combination of language modernization, redesign, rewriting, hardening, reducing attack surface, and yes, finding and fixing vulnerabilities. But we must move at a faster pace together in order to make progress.
+>
+> https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines
+
+**Links in post:** https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines
+
+
+### Post — @S1r1u5_ — 2026-11-16 14:39 UTC (2026-11-16 15:39 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122338774063743035
+- Metrics (at fetch): bookmark 2, impression 1528, like 19, quote 0, reply 1, repost 0
+
+> @chrisrohlf i also think it would be good for anthropic to better incentivize security researchers, especially for critical findings. the current payouts seem quite low, something like openai did will be interesting.
+>
+> https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties/ [pic.x.com/aqn85nSAHZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXQPim0asAAiv6s.jpg — no alt text provided by author
+
+**Links in post:** https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties/
+
+
+---
+
+## 2026-11-16 · Post · true https://twitter.com/ilyasut/status/2094881278621253755
+
+
+### Post — @S1r1u5_ — 2026-11-16 12:34 UTC (2026-11-16 13:34 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122307241810518184
+- Metrics (at fetch): bookmark 7, impression 3183, like 11, quote 0, reply 1, retweet 0
+
+> true https://twitter.com/ilyasut/status/2094881278621253755
+
+**Links in post:** https://twitter.com/ilyasut/status/2094881278621253755
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1720046887 — 2026-09-01 20:13 UTC (2026-09-01 21:13 WAT)
+    
+    - URL: https://x.com/1720046887/status/2094881278621253755
+    - Metrics (at fetch): bookmark 2521, impression 2391128, like 12751, quote 489, reply 674, retweet 1009
+    
+    > Neoclouds have limited cybersecurity.   Next time agents successfully go rouge, they'll try taking over a neocloud to run more copies.  This is bad.
+    >
+    > Thus:  neoclouds should greatly strengthen their cybersecurity and every company with strong cyber models should help with that.
+    
 
 
 ---

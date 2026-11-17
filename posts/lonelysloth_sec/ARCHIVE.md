@@ -1,11 +1,106 @@
 # @lonelysloth_sec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 182
-- Conversations/threads: 139
+- Posts in this file: 185
+- Conversations/threads: 142
 - Oldest post captured: 2023-12-17
-- Newest post captured: 2026-11-14
+- Newest post captured: 2026-11-17
+
+
+---
+
+## 2026-11-17 · Post · @DevDacian Was always going to happen.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @DevDacian — 2026-11-17 00:57 UTC (2026-11-17 01:57 WAT)
+
+- URL: https://x.com/DevDacian/status/2122494387464855738
+- Metrics (at fetch): bookmark 6, impression 787, like 18, quote 0, reply 1, repost 0
+
+> the dark forest is everywhere now. we are heading into a world where any non-trivial app (let alone complex smart contract protocols) will effectively require a monthly security spend or be pwned https://twitter.com/GalloDaSballo/status/2122493458665619936
+
+**Links in post:** https://twitter.com/GalloDaSballo/status/2122493458665619936
+
+**Quoted post (full text):**
+
+    #### Quoted post — @GalloDaSballo — 2026-11-17 00:54 UTC (2026-11-17 01:54 WAT)
+    
+    - URL: https://x.com/GalloDaSballo/status/2122493458665619936
+    - Metrics (at fetch): bookmark 1, impression 1195, like 12, quote 1, reply 1, repost 0
+    
+    > The main takeaway from these exploits is that as we have always argued, the only reason most stuff wasn’t hacked was the cost of finding the attack (the EV for an hacker was negative).
+    >
+    > AI changed this.
+    >
+    > Huge vindication for crypto.
+    
+
+
+### Post — @lonelysloth_sec — 2026-11-17 01:15 UTC (2026-11-17 02:15 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2122498834073072080
+- Metrics (at fetch): bookmark 0, impression 74, like 3, quote 0, reply 0, retweet 0
+
+> @DevDacian Was always going to happen.
+
+
+---
+
+## 2026-11-16 · Post · @windhustler Congrats man!
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1471962504087625733 — 2026-11-16 17:50 UTC (2026-11-16 18:50 WAT)
+
+- URL: https://x.com/1471962504087625733/status/2122386904771432757
+- Metrics (at fetch): bookmark 4, impression 2970, like 272, quote 0, reply 77, retweet 0
+
+> The weekend was super busy. My daughter was born on Saturday, one day before my 35th birthday! [pic.x.com/PiyfzpZdX6]
+
+**Media:**
+- media `3_2122386206713323521` (details not returned by the API)
+
+
+### Post — @lonelysloth_sec — 2026-11-16 19:43 UTC (2026-11-16 20:43 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2122415233264402773
+- Metrics (at fetch): bookmark 0, impression 48, like 0, quote 0, reply 0, retweet 0
+
+> @windhustler Congrats man!
+
+
+---
+
+## 2026-11-16 · Post · The x axis is wrong. Time isnt an input. Capital expenditure is. As long as you are accelerating how
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @11518572 — 2026-11-15 21:36 UTC (2026-11-15 22:36 WAT)
+
+- URL: https://x.com/11518572/status/2122081442549391738
+- Metrics (at fetch): bookmark 2335, impression 575705, like 8039, quote 171, reply 245, retweet 460
+
+> Everyone has drawn this chart in their head and is making a generational bet on which line is true. [pic.x.com/l4hsFdWI7u]
+
+**Media:**
+- media `3_2122080903614894080` (details not returned by the API)
+
+
+### Post — @lonelysloth_sec — 2026-11-16 17:00 UTC (2026-11-16 18:00 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2122374157233193443
+- Metrics (at fetch): bookmark 0, impression 361, like 4, quote 0, reply 1, retweet 0
+
+> The x axis is wrong. Time isnt an input. Capital expenditure is. As long as you are accelerating how much money you burn you can show superlinear gains as a function of time. But you can’t keep 10x-ing losses for too long.
+>
+> The bet is on how long other people will keep buying equity for more money than you did— and whether when the crazw stops there would be anything that can actually turn a profit left.
+>
+> People who actually believe “capability” will just keep automatically growing with time  are fools.
 
 
 ---

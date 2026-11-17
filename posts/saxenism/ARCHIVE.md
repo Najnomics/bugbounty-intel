@@ -1,6 +1,6 @@
 # @saxenism — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 1156
 - Conversations/threads: 888
@@ -26113,9 +26113,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @295218901 — 2022-01-07 17:13 UTC (2022-01-07 18:13 WAT)
+    #### Quoted post — @VitalikButerin — 2022-01-07 17:13 UTC (2022-01-07 18:13 WAT)
     
-    - URL: https://x.com/295218901/status/1479501366192132099
+    - URL: https://x.com/VitalikButerin/status/1479501366192132099
     - Metrics (at fetch): bookmark 2445, impression 0, like 15329, quote 1510, reply 1546, retweet 3548
     
     > My argument for why the future will be *multi-chain*, but it will not be *cross-chain*: there are fundamental limits to the security of bridges that hop across multiple "zones of sovereignty". From https://old.reddit.com/r/ethereum/comments/rwojtk/ama_we_are_the_efs_research_team_pt_7_07_january/hrngyk8/: [pic.x.com/tEYz8vb59b]

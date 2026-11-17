@@ -49,3 +49,13 @@ He posts fewer payout screenshots than some seed hunters, but he posts **reusabl
 - **How it was found:** Wayback URLs → urls.txt → `grep -E '/user|/order|/id'`.
 - **Takeaways / harness:** waybackurls/gau → regex for object-ID paths → replay with second account (Autorize-style).
 
+## Daily update 2026-11-17
+
+### Mercedes-Benz valid Bugcrowd submission (2026-11-16) (2026-11-16)
+
+- Post: https://x.com/Swartz068/status/2122306655132270666 — verbatim: [`posts/Swartz068/2026-11-16-2122306655132270666.md`](../posts/Swartz068/2026-11-16-2122306655132270666.md)
+- **Bug class:** Undisclosed (asset path under `/Account/`)
+- **Root cause:** Undisclosed.
+- **How it was found:** Undisclosed.
+- **Takeaways / harness:** Bounty-only evidence: "accepted as a valid issue" on a mercedes-benz.com account path.
+

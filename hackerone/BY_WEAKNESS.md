@@ -1,4 +1,4 @@
-# HackerOne disclosed reports by weakness (12758 reports)
+# HackerOne disclosed reports by weakness (12759 reports)
 
 
 ## Unspecified (1279)
@@ -12968,6 +12968,13 @@
 - [3598444](reports/2026/3598444.md) Curl_compareheader() fails to match multi-value HTTP headers — curl — medium —  — Expected Behavior Violation
 - [4137523](reports/2026/4137523.md) CURL_NETRC_REQUIRED sends the URL password when the .netrc file has no matching entry — curl — low —  — Expected Behavior Violation
 
+## Missing Critical Step in Authentication (4)
+
+- [1889161](reports/2023/1889161.md) JWT audience claim is not verified — ibb — critical —  — Missing Critical Step in Authentication
+- [2676025](reports/2024/2676025.md) Login email verification bypass via `/oauth/token`. — gitlab — none —  — Missing Critical Step in Authentication
+- [3972338](reports/2026/3972338.md) 12: SASL DIGEST-MD5 does not validate the server's `rspauth` proof — curl — - —  — Missing Critical Step in Authentication
+- [4199917](reports/2026/4199917.md) SFTP connection reuse skips the host-key pin of a later transfer — curl — low —  — Missing Critical Step in Authentication
+
 ## Use of Incorrectly-Resolved Name or Reference (4)
 
 - [1697281](reports/2023/1697281.md) Name collision of shared folders — nextcloud — medium —  — Use of Incorrectly-Resolved Name or Reference
@@ -13053,12 +13060,6 @@
 - [2585376](reports/2024/2585376.md) important: Apache HTTP Server may use exploitable/malicious backend application output to run local handlers via internal redirect (CVE-2024-38476) — ibb — high — $4,920 — Inclusion of Functionality from Untrusted Control Sphere
 - [1198203](reports/2021/1198203.md) Bootstrap library is vulnerable — sifchain — low —  — Inclusion of Functionality from Untrusted Control Sphere
 - [3478646](reports/2026/3478646.md) GitHub Retired UsernameTakeover From  [aws/████████] — aws_vdp — low —  — Inclusion of Functionality from Untrusted Control Sphere
-
-## Missing Critical Step in Authentication (3)
-
-- [1889161](reports/2023/1889161.md) JWT audience claim is not verified — ibb — critical —  — Missing Critical Step in Authentication
-- [2676025](reports/2024/2676025.md) Login email verification bypass via `/oauth/token`. — gitlab — none —  — Missing Critical Step in Authentication
-- [3972338](reports/2026/3972338.md) 12: SASL DIGEST-MD5 does not validate the server's `rspauth` proof — curl — - —  — Missing Critical Step in Authentication
 
 ## LLM01: Prompt Injection (3)
 

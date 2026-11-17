@@ -34,3 +34,14 @@ _Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim post
 - **Rounding-down precision loss → repeated 1-wei mint leaching free tokens** (`smart-contract`)
   - post: https://x.com/DevDacian/status/1724351803846975607
   - local: `posts/DevDacian/ARCHIVE.md`, `data/x_posts.jsonl`
+
+## Daily update 2026-11-17
+
+### "The dark forest is everywhere now" — continuous security spend (quoting GalloDaSballo) (2026-11-17)
+
+- Post: https://x.com/DevDacian/status/2122494387464855738 — verbatim: [`posts/DevDacian/2026-11-17-2122494387464855738.md`](../posts/DevDacian/2026-11-17-2122494387464855738.md)
+- **Bug class:** Market/methodology signal (AI lowers attack-finding cost)
+- **Root cause:** Most systems were safe only because finding the attack was expensive; AI removed that.
+- **How it was found:** Commentary.
+- **Takeaways / harness:** Re-scan deployed, previously audited protocols after every upgrade.
+

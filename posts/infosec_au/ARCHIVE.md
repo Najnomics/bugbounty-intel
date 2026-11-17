@@ -1,11 +1,48 @@
 # @infosec_au — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 250
-- Conversations/threads: 224
+- Posts in this file: 251
+- Conversations/threads: 225
 - Oldest post captured: 2015-07-16
-- Newest post captured: 2026-11-07
+- Newest post captured: 2026-11-16
+
+
+---
+
+## 2026-11-16 · Post · @7urb01 Thanks for the review! Really enjoyed watching that!
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1768306876897169408 — 2026-11-16 19:40 UTC (2026-11-16 20:40 WAT)
+
+- URL: https://x.com/1768306876897169408/status/2122414644300316853
+- Metrics (at fetch): bookmark 8, impression 998, like 8, quote 0, reply 1, retweet 0
+
+> Achieving hacker-in-an-action-movie levels of exploitation is insane. Research Review. https://youtu.be/M7hGvuQbZ1s https://twitter.com/infosec_au/status/2119025620969828598
+
+**Links in post:** https://youtu.be/M7hGvuQbZ1s, https://twitter.com/infosec_au/status/2119025620969828598
+
+**Quoted post (full text):**
+
+    #### Quoted post — @infosec_au — 2026-11-07 11:14 UTC (2026-11-07 12:14 WAT)
+    
+    - URL: https://x.com/infosec_au/status/2119025620969828598
+    - Metrics (at fetch): bookmark 311, impression 35838, like 619, quote 8, reply 17, retweet 111
+    
+    > Earlier this year, I hacked a major automotive company with @samwcyo. We were able to remotely unlock cars in the AU and US. My writeup for AU is here: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ and our writeup for the US here: https://samcurry.net/forgerock
+    
+    **Links in post:** https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/, https://samcurry.net/forgerock
+    
+
+
+### Post — @infosec_au — 2026-11-16 23:38 UTC (2026-11-17 00:38 WAT)
+
+- URL: https://x.com/infosec_au/status/2122474466513166739
+- Metrics (at fetch): bookmark 0, impression 330, like 2, quote 0, reply 0, retweet 0
+
+> @7urb01 Thanks for the review! Really enjoyed watching that!
 
 
 ---

@@ -1,8 +1,8 @@
 # @naresh_1337 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 73
+- Posts in this file: 76
 - Conversations/threads: 42
 - Oldest post captured: 2026-05-22
 - Newest post captured: 2026-11-16
@@ -10,7 +10,7 @@ _Generated 2026-11-16 from the X API (full-archive search + timeline). Every pos
 
 ---
 
-## 2026-11-16 · Post · I just found a confirmed bug on @immunefi immunefitribe https://immunefi.com/s/ss/?severity=high&st
+## 2026-11-16 · Thread · I just found a confirmed bug on @immunefi immunefitribe https://immunefi.com/s/ss/?severity=high&st
 
 
 Tags (automatic): Platform: Immunefi
@@ -24,6 +24,30 @@ Tags (automatic): Platform: Immunefi
 > I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=high&status=confirmed&gifId=0&programType=bug-bounty
 
 **Links in post:** https://immunefi.com/s/ss/?severity=high&status=confirmed&gifId=0&programType=bug-bounty
+
+
+### Thread part 2 — @naresh_1337 — 2026-11-16 21:24 UTC (2026-11-16 22:24 WAT)
+
+- URL: https://x.com/naresh_1337/status/2122440776013529585
+- Metrics (at fetch): bookmark 0, impression 7, like 0, quote 0, reply 0, retweet 0
+
+> @zeronamel @immunefi Thanks 😊
+
+
+### Thread part 3 — @naresh_1337 — 2026-11-16 21:24 UTC (2026-11-16 22:24 WAT)
+
+- URL: https://x.com/naresh_1337/status/2122440810830475568
+- Metrics (at fetch): bookmark 0, impression 14, like 0, quote 0, reply 0, retweet 0
+
+> @xdeltabear @immunefi Thanks 👾
+
+
+### Thread part 4 — @naresh_1337 — 2026-11-16 21:25 UTC (2026-11-16 22:25 WAT)
+
+- URL: https://x.com/naresh_1337/status/2122440839737537009
+- Metrics (at fetch): bookmark 0, impression 16, like 1, quote 0, reply 0, retweet 0
+
+> @W3B_AI_SR @immunefi 🎉
 
 
 ---

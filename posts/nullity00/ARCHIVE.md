@@ -1,11 +1,85 @@
 # @nullity00 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-16 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 8
-- Conversations/threads: 8
+- Posts in this file: 10
+- Conversations/threads: 10
 - Oldest post captured: 2023-05-23
-- Newest post captured: 2026-11-12
+- Newest post captured: 2026-11-16
+
+
+---
+
+## 2026-11-16 · Reply · @RangaSquared Robbert Pattinson
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1331530948651876353 — 2026-11-16 17:16 UTC (2026-11-16 18:16 WAT)
+
+- URL: https://x.com/1331530948651876353/status/2122378394633728162
+- Metrics (at fetch): bookmark 1, impression 612, like 15, quote 0, reply 3, retweet 1
+
+> Cedric Diggory
+> Edward Cullen
+> Salvador Dalí
+> Tyler Hawkins
+> Jacob Jankowski
+> Georges Duroy
+> Eric Packer
+> T. E. Lawrence
+> Henry Costin
+> Connie Nikas
+> Samuel Alabaster
+> Monte
+> Ephraim Winslow
+> The Dauphin
+> Neil
+> Bruce Wayne
+> Mickey Barnes
+> Charlie Thompson
+> Antinous
+> Scytale
+> James Bond
+>
+> that's the
+
+
+### Post — @nullity00 — 2026-11-16 18:38 UTC (2026-11-16 19:38 WAT)
+
+- URL: https://x.com/nullity00/status/2122399033566392800
+- Metrics (at fetch): bookmark 0, impression 40, like 0, quote 0, reply 0, retweet 0
+
+> @RangaSquared Robbert Pattinson
+
+
+---
+
+## 2026-11-16 · Post · @0xTimofey @0xT1MOH @0xT1MOH were you not in your yellow T shirt ?
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1628039684189200385 — 2026-11-16 00:21 UTC (2026-11-16 01:21 WAT)
+
+- URL: https://x.com/1628039684189200385/status/2122122871434858841
+- Metrics (at fetch): bookmark 1, impression 1448, like 33, quote 1, reply 3, retweet 0
+
+> Yooo this is the place where myself and @0xT1MOH almost died eating spicy food
+>
+> What a blast that was, I wish we can do it again next year! https://twitter.com/Parth0x108/status/2122117909803946114
+
+**Links in post:** https://twitter.com/Parth0x108/status/2122117909803946114
+
+**Quoted post** 2122117909803946114: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @nullity00 — 2026-11-16 09:40 UTC (2026-11-16 10:40 WAT)
+
+- URL: https://x.com/nullity00/status/2122263504854167981
+- Metrics (at fetch): bookmark 0, impression 56, like 1, quote 0, reply 1, retweet 0
+
+> @0xTimofey @0xT1MOH @0xT1MOH were you not in your yellow T shirt ?
 
 
 ---
