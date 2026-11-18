@@ -1,11 +1,37 @@
 # @Piki_eth — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 93
-- Conversations/threads: 67
+- Posts in this file: 94
+- Conversations/threads: 68
 - Oldest post captured: 2024-09-21
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-17
+
+
+---
+
+## 2026-11-17 · Post · Waking up to these notifications hits different. 🔥
+
+
+Tags (automatic): Platform: HackenProof
+
+
+### Post — @Piki_eth — 2026-11-17 06:01 UTC (2026-11-17 07:01 WAT)
+
+- URL: https://x.com/Piki_eth/status/2122570832006586557
+- Metrics (at fetch): bookmark 12, impression 1822, like 51, quote 0, reply 5, retweet 0
+
+> Waking up to these notifications hits different. 🔥
+>
+> 2 bug bounty reports PAID by @HackenProof !
+>
+> Best way to start the day. 💰
+>
+> #bugbounty #hackenproof #web3 https://t.co/BvJSuQKka7
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXTirgzaAAEsXLm.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXTiwSObcAEaB2o.jpg — no alt text provided by author
 
 
 ---

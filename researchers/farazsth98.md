@@ -34,3 +34,7 @@ _Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim post
 - **Cronos Gravity Bridge — two bugs that halt all or parts of the bridge** (`cross-chain-bridge`)
   - post: https://x.com/farazsth98/status/1734373138027409840
   - local: `posts/farazsth98/ARCHIVE.md`, `data/x_posts.jsonl`
+
+### Update 2026-11-18
+
+- gVisor / ZeroDay Cloud thread replies (2026-11-17): 'strong sandbox implementation'; ZDC attack surface small — [`posts/farazsth98/2026-11-17-2122738468493443193.md`](../posts/farazsth98/2026-11-17-2122738468493443193.md).

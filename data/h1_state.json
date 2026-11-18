@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-17 (Africa/Lagos)",
+ "generated": "2026-11-18 (Africa/Lagos)",
  "status": "complete",
- "enumerated": 12759,
- "captured": 12759,
+ "enumerated": 12761,
+ "captured": 12761,
  "content": {
-  "body": 10013,
-  "summary": 2746
+  "body": 10014,
+  "summary": 2747
  },
  "also_in_telegram_writeups": 747,
  "failed_ids": [],
- "last_disclosed_at": "2026-11-16T12:44:03.637Z",
- "last_disclosed_id": "4199917",
+ "last_disclosed_at": "2026-11-17T20:17:15.329Z",
+ "last_disclosed_id": "4105212",
  "max_report_id": 4199917,
  "enumeration": "POST https://hackerone.com/graphql search(index: CompleteHacktivityReportIndex, query_string: \"disclosed:true AND disclosed_at:[A TO B]\", sort disclosed_at ASC, size 100) \u2014 one window per month (<10k results/window)",
  "fetch": "GET https://hackerone.com/reports/<id>.json (6 threads, 0.25s gap, 60s pause on 429)",

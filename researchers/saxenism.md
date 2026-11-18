@@ -87,3 +87,7 @@ _Auto-maintained from `harness/findings.jsonl`. 5 finding(s). Full verbatim post
 - **How it was found:** Reading Flare FCC docs (image hashes pinned on-chain + machine registration via attestation).
 - **Takeaways / harness:** Attestation checklist: accepted measurements, TCB floor, debug flag, policy-update authority, verifiability.
 
+
+### Update 2026-11-18
+
+- **Lighter nonce-reuse thread** — https://x.com/saxenism/status/2122673176752619797 — [`posts/saxenism/2026-11-17-2122673176752619797.md`](../posts/saxenism/2026-11-17-2122673176752619797.md); supply-chain-is-not-P3 post https://x.com/saxenism/status/2122632691346800678.

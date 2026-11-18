@@ -1,16 +1,257 @@
 # @S1r1u5_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 497
-- Conversations/threads: 380
+- Posts in this file: 508
+- Conversations/threads: 390
 - Oldest post captured: 2017-02-26
-- Newest post captured: 2026-11-17
+- Newest post captured: 2026-11-18
 
 
 ---
 
-## 2026-11-17 · Post · hate to break it to you, but these attacks aren't happening because of artex or some fancy orchestra
+## 2026-11-18 · Post · it's kinda crazy how, with a frontier model, just knowing there's a bug somewhere in a system with f
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @S1r1u5_ — 2026-11-18 05:23 UTC (2026-11-18 06:23 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122923674965881337
+- Metrics (at fetch): bookmark 2, impression 614, like 9, quote 0, reply 1, retweet 0
+
+> it's kinda crazy how, with a frontier model, just knowing there's a bug somewhere in a system with few hints can be enough to get you all the way to a full exploit chain. https://twitter.com/S1r1u5_/status/2122915736989638781
+
+**Links in post:** https://twitter.com/S1r1u5_/status/2122915736989638781
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-11-18 04:52 UTC (2026-11-18 05:52 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2122915736989638781
+    - Metrics (at fetch): bookmark 1, impression 1283, like 14, quote 1, reply 0, retweet 0
+    
+    > indeed based64 https://twitter.com/S1r1u5_/status/2122709280172515483
+    
+    **Links in post:** https://twitter.com/S1r1u5_/status/2122709280172515483
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @S1r1u5_ — 2026-11-17 15:11 UTC (2026-11-17 16:11 WAT)
+        
+        - URL: https://x.com/S1r1u5_/status/2122709280172515483
+        - Metrics (at fetch): bookmark 2, impression 5886, like 64, quote 0, reply 3, retweet 0
+        
+        > ok, patch your java!!!!! its based
+        
+    
+
+
+---
+
+## 2026-11-18 · Post · indeed based64 https://twitter.com/S1r1u5_/status/2122709280172515483
+
+
+### Post — @S1r1u5_ — 2026-11-18 04:52 UTC (2026-11-18 05:52 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122915736989638781
+- Metrics (at fetch): bookmark 1, impression 1283, like 14, quote 1, reply 0, retweet 0
+
+> indeed based64 https://twitter.com/S1r1u5_/status/2122709280172515483
+
+**Links in post:** https://twitter.com/S1r1u5_/status/2122709280172515483
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-11-17 15:11 UTC (2026-11-17 16:11 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2122709280172515483
+    - Metrics (at fetch): bookmark 2, impression 5886, like 64, quote 0, reply 3, retweet 0
+    
+    > ok, patch your java!!!!! its based
+    
+
+
+---
+
+## 2026-11-18 · Post · @satoki00 wow
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @4834986853 — 2026-11-17 23:35 UTC (2026-11-18 00:35 WAT)
+
+- URL: https://x.com/4834986853/status/2122835934655971740
+- Metrics (at fetch): bookmark 144, impression 58629, like 523, quote 26, reply 3, retweet 123
+
+> Javaで騒いでいるところ申し訳ないけど、たぶん今日の夜もっとヤバいの出します(調整が遅れなければ)🙇‍♂️
+
+
+### Post — @S1r1u5_ — 2026-11-18 04:40 UTC (2026-11-18 05:40 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122912744626409975
+- Metrics (at fetch): bookmark 0, impression 1544, like 2, quote 0, reply 0, retweet 0
+
+> @satoki00 wow
+
+
+---
+
+## 2026-11-17 · Post · https://fldubai.com https://twitter.com/S1r1u5_/status/2122588457830863164
+
+
+### Post — @S1r1u5_ — 2026-11-17 16:35 UTC (2026-11-17 17:35 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122730231723413841
+- Metrics (at fetch): bookmark 9, impression 5321, like 9, quote 0, reply 2, retweet 0
+
+> https://fldubai.com https://twitter.com/S1r1u5_/status/2122588457830863164
+
+**Links in post:** https://fldubai.com, https://twitter.com/S1r1u5_/status/2122588457830863164
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-11-17 07:11 UTC (2026-11-17 08:11 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2122588457830863164
+    - Metrics (at fetch): bookmark 0, impression 8245, like 24, quote 1, reply 1, retweet 0
+    
+    > IoC: zz_, zz-
+    
+
+
+---
+
+## 2026-11-17 · Post · ok, patch your java!!!!! its based
+
+
+### Post — @S1r1u5_ — 2026-11-17 15:11 UTC (2026-11-17 16:11 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122709280172515483
+- Metrics (at fetch): bookmark 2, impression 5886, like 64, quote 0, reply 3, retweet 0
+
+> ok, patch your java!!!!! its based
+
+
+---
+
+## 2026-11-17 · Post · if i had a dollar for every zz_ or zz- marker i’ve seen… [pic.x.com/xccdAqR8Zv] https://twitter.com/
+
+
+### Post — @S1r1u5_ — 2026-11-17 12:49 UTC (2026-11-17 13:49 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122673561697767878
+- Metrics (at fetch): bookmark 7, impression 3707, like 28, quote 0, reply 1, retweet 2
+
+> if i had a dollar for every zz_ or zz- marker i’ve seen… [pic.x.com/xccdAqR8Zv] https://twitter.com/blackorbird/status/2122587109697728709
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXVAWd0bMAAi_BE.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/blackorbird/status/2122587109697728709
+
+**Quoted post (full text):**
+
+    #### Quoted post — @704115137116942336 — 2026-11-17 07:06 UTC (2026-11-17 08:06 WAT)
+    
+    - URL: https://x.com/704115137116942336/status/2122587109697728709
+    - Metrics (at fetch): bookmark 77, impression 72610, like 182, quote 18, reply 6, retweet 16
+    
+    > Around 14:20 on November 17, 2026, the McDonald's app experienced a large number of abnormal push notifications, similar in form to the ARTEX push notifications from the government service app last week. 
+    > Many users reported receiving the push notifications. 
+    > This incident mainly affected iOS users and may be another vulnerability attack.
+    
+    **Media:**
+    - media `3_2122586975387648000` (details not returned by the API)
+    
+
+
+---
+
+## 2026-11-17 · Post · @pwnlambda @i0n1c 😂
+
+
+### Post — @S1r1u5_ — 2026-11-17 12:41 UTC (2026-11-17 13:41 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122671547064459391
+- Metrics (at fetch): bookmark 0, impression 348, like 0, quote 0, reply 0, retweet 0
+
+> @pwnlambda @i0n1c 😂
+
+
+---
+
+## 2026-11-17 · Post · java? https://twitter.com/jinmo123/status/2122579077035122777
+
+
+### Post — @S1r1u5_ — 2026-11-17 10:59 UTC (2026-11-17 11:59 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122645913323893146
+- Metrics (at fetch): bookmark 12, impression 7565, like 34, quote 0, reply 2, retweet 0
+
+> java? https://twitter.com/jinmo123/status/2122579077035122777
+
+**Links in post:** https://twitter.com/jinmo123/status/2122579077035122777
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1285964146568093696 — 2026-11-17 06:34 UTC (2026-11-17 07:34 WAT)
+    
+    - URL: https://x.com/1285964146568093696/status/2122579077035122777
+    - Metrics (at fetch): bookmark 12, impression 12135, like 36, quote 1, reply 4, retweet 0
+    
+    > If you're the one who reported the big vulnerability being disclosed today, I just want to say that's an epic achievement asf😨 https://twitter.com/jinmo123/status/2122564396048134448
+    
+    **Links in post:** https://twitter.com/jinmo123/status/2122564396048134448
+    
+    **Quoted post** 2122564396048134448: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-11-17 · Post · @jinmo123 i thought we saw the worst
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1285964146568093696 — 2026-11-17 06:34 UTC (2026-11-17 07:34 WAT)
+
+- URL: https://x.com/1285964146568093696/status/2122579077035122777
+- Metrics (at fetch): bookmark 12, impression 12135, like 36, quote 1, reply 4, retweet 0
+
+> If you're the one who reported the big vulnerability being disclosed today, I just want to say that's an epic achievement asf😨 https://twitter.com/jinmo123/status/2122564396048134448
+
+**Links in post:** https://twitter.com/jinmo123/status/2122564396048134448
+
+**Quoted post** 2122564396048134448: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @S1r1u5_ — 2026-11-17 09:54 UTC (2026-11-17 10:54 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122629529055408166
+- Metrics (at fetch): bookmark 1, impression 1780, like 2, quote 0, reply 0, retweet 0
+
+> @jinmo123 i thought we saw the worst
+
+
+---
+
+## 2026-11-17 · Post · IoC: zz_, zz-
+
+
+### Post — @S1r1u5_ — 2026-11-17 07:11 UTC (2026-11-17 08:11 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122588457830863164
+- Metrics (at fetch): bookmark 0, impression 8245, like 24, quote 1, reply 1, retweet 0
+
+> IoC: zz_, zz-
+
+
+---
+
+## 2026-11-17 · Thread · hate to break it to you, but these attacks aren't happening because of artex or some fancy orchestra
 
 
 ### Post — @S1r1u5_ — 2026-11-17 03:29 UTC (2026-11-17 04:29 WAT)
@@ -40,6 +281,14 @@ _Generated 2026-11-17 from the X API (full-archive search + timeline). Every pos
     
     **Links in post:** https://www.ic3.gov/CSA/2026/261113.pdf
     
+
+
+### Thread part 2 — @S1r1u5_ — 2026-11-17 07:05 UTC (2026-11-17 08:05 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122586819992965469
+- Metrics (at fetch): bookmark 0, impression 312, like 8, quote 0, reply 0, retweet 0
+
+> @agoldm models
 
 
 ---

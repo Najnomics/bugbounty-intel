@@ -50,3 +50,7 @@ He posts triage and payout updates more often than full writeups. When he does n
 - **1 Sep 2026 15:12 WAT:** "The best notification: has been paid" (@HackenProof). [post](https://x.com/Piki_eth/status/2094790419410567631)
 
 On 25 Sep 2026 he alleged that a "well known dex" used his critical fund report to fix an issue and then ghosted him. That is an unverified dispute, not a documented finding. [post](https://x.com/Piki_eth/status/2103571947573686427)
+
+### Update 2026-11-18
+
+- **Two HackenProof reports paid (details undisclosed, titles visible in screenshots)** — https://x.com/Piki_eth/status/2122570832006586557 — [`posts/Piki_eth/2026-11-17-2122570832006586557.md`](../posts/Piki_eth/2026-11-17-2122570832006586557.md): 'Unbound wallet-ownership proof → … executed destruction of bridged funds (add_wallet / action_costing_*)' and 'Ed25519 signature does not bind the executed query — last occurrence verified, first occurrence executed'.

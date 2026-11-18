@@ -1,0 +1,32 @@
+# Bug classes from the 18 Nov 2026 run (Java4Shell, ImageMagick SVG file-read, signature binding, nonce reuse, Jira BASM)
+
+Sources are verbatim in the repo; this file is the harness-oriented digest. Items marked *(inference)* are inferred from titles/short posts, not from a public report.
+
+## 1. JIT-intrinsic memory corruption — Java4Shell (CVE-2026-114938)
+- Source: [`writeups/irsdl/java4shell-calif-write-once-rce-everywhere.md`](../../writeups/irsdl/java4shell-calif-write-once-rce-everywhere.md), [`java4shell-openjdk-pr-32781.md`](../../writeups/irsdl/java4shell-openjdk-pr-32781.md), [`java4shell-vulncheck.md`](../../writeups/irsdl/java4shell-vulncheck.md), [`java4shell-redhat-rhsb-2026-018.md`](../../writeups/irsdl/java4shell-redhat-rhsb-2026-018.md), [`java4shell-tenable-faq.md`](../../writeups/irsdl/java4shell-tenable-faq.md); post: [`posts/irsdl/2026-11-17-2122815224939982932.md`](../../posts/irsdl/2026-11-17-2122815224939982932.md).
+- Root cause: HotSpot x86-64 AVX-512 VBMI Base64 decode stub; on a short padded tail the output-size counter underflows (0 → −1) so the store mask becomes all ones → 64-byte write into a 50-byte array (62 bytes OOB). Trigger `"A"*64+"="` (JDK 17: `"A"*128+"="`), requires JIT warm-up of the decoder; CPU must report avx512f/bw/vbmi + bmi2 (Ice Lake+/Zen 4+). Affects OpenJDK 17.0.6+ (8/11 not per Red Hat). Fixed 17.0.21.1, 21.0.13.1, 25.0.5.1, 27.0.1.1.
+- Pre-auth Base64 sinks to inventory: HTTP Basic auth header, JWT parsing (java-jwt), SAML artifacts/assertions, CSRF tokens, MIME encoded-words. Calif: Keycloak + Jira pre-login; Kafka broker, Solr, Gerrit post-login. Tomcat Basic auth is a pre-auth entry point.
+- Harness: fingerprint Java servers (Server/Set-Cookie JSESSIONID, actuator, product banners) → mark as Java4Shell candidates; check JVM flags if leaked (`/actuator/env`, `jcmd`, process listings from SSRF/LFI loot) for `-XX:-UseBASE64Intrinsics` or `-XX:UseAVX=2`; never fire the crash trigger against a target without explicit DoS-safe permission (DoS is the easy outcome per Datadog).
+
+## 2. ImageMagick SVG-disguised-as-JPG → file read → public CDN (mdp_sec)
+- Post: [`posts/mdp_sec/2026-11-17-2122784337888506335.md`](../../posts/mdp_sec/2026-11-17-2122784337888506335.md).
+- Test every image upload / import-by-URL: send `Content-Type: image/jpeg` body that is SVG/MVG (`<image xlink:href="text:/etc/passwd">`, `label:@/etc/passwd`, `url(file:///…)`), check rendered/resized output (OCR it). WAF blocking `/etc/passwd`? Double the slash (`//etc/passwd`, `/etc//passwd`) per the post. Fetch the stored output unauthenticated on the CDN; grep for `root:x:`, `DB_PASSWORD`, `AKIA`.
+- See also H1 [#3938691](../../hackerone/reports/2026/3938691.md) (Basecamp, disclosed 2026-11-17, critical 9.1, bounty paid): **libvips heap buffer overflow** — a TIFF whose container says 1 byte/pixel but embeds a JPEG (JPEG-in-TIFF) producing 2 bytes/pixel causes a deterministic heap overwrite on image upload; team summary notes RCE potential via control-flow hijack. Test: upload crafted TIFF/JPEG-in-TIFF to every avatar/attachment/preview endpoint (libvips/sharp backends — fingerprint via error strings, `X-Powered-By`, resized output formats); also H1 [#4105212](../../hackerone/reports/2026/4105212.md) (Weblate translation-finder CPU exhaustion via crafted TOML, medium 5.3). Report file: [`hackerone/reports/2026/3938691.md`](../../hackerone/reports/2026/3938691.md).
+
+## 3. Signature/ownership proof not bound to the action (Piki_eth, HackenProof) *(inference from titles)*
+- Post: [`posts/Piki_eth/2026-11-17-2122570832006586557.md`](../../posts/Piki_eth/2026-11-17-2122570832006586557.md).
+- "Ed25519 signature does not bind the executed query — last occurrence verified, first occurrence executed": verifier and executor parse a repeated key differently (parser differential). Test duplicate keys / order / unicode / trailing data between verify and execute paths.
+- "Unbound wallet-ownership proof → … executed destruction of bridged funds (`add_wallet` / `action_costing_*`)": ownership proofs must include domain tag, chain id, account, action and nonce; test wallet-link flows with a proof signed for another address/session.
+
+## 4. Nonce reuse in client signers (Lighter incident; saxenism)
+- Post/thread: [`posts/saxenism/2026-11-17-2122673176752619797.md`](../../posts/saxenism/2026-11-17-2122673176752619797.md); Telegram [`telegram/defendor_eng`](../../telegram/defendor_eng/) msg 2355 (Lighter post-mortem: API keys recovered from reused signature nonces; ~5M USDC returned).
+- Detection: collect many signatures per key; identical `r` ⇒ nonce reuse ⇒ recover key `k=(z1−z2)/(s1−s2)`, `d=(s·k−z)/r`. Review custom signer ports in bots/SDK forks; prefer official SDKs; limit blast radius (withdrawal-address allowlists, queued withdrawals, API-key IP allowlists).
+
+## 5. Unauthenticated session/auth flaw in Jira Service Management DC — CVE-2026-21601 (Nagli / Wiz Scan for Good)
+- Post: [`posts/galnagli/2026-11-17-2122787201176019399.md`](../../posts/galnagli/2026-11-17-2122787201176019399.md); advisory [`writeups/galnagli/atlassian-JSDSERVER-16892-CVE-2026-21601.md`](../../writeups/galnagli/atlassian-JSDSERVER-16892-CVE-2026-21601.md). BASM, CVSS 4.0 8.7, 10.0.0–11.2.0 affected, fixed 10.3.27/11.3.13; exact request undisclosed. Fingerprint Jira via `/rest/api/2/serverInfo`.
+
+## 6. Supply chain via third-party JS (Optimizely / OPTIMJACK)
+- 188 Optimizely scripts across 178 orgs injected JS (wallet-address swapper, card skimmer, cookie theft, iOS exploit kits); SRI doesn't help with dynamically generated scripts ([`writeups/mdp_sec/report-uri-optimizely-malware-178-orgs.md`](../../writeups/mdp_sec/report-uri-optimizely-malware-178-orgs.md); Telegram msg 2354). Harness: inventory third-party script hosts per in-scope domain; test whether vendor config is tenant-writable.
+
+## 7. Zcash node/wallet-server advisories (GHSA, 17–18 Nov 2026)
+- 10 Zebra + 14 lightwalletd advisories (checkpoint/orphan-queue retention, FindBlocks abort, forged-child-block checkpoint halt, protobuf cardinality OOM, metrics listener leaking RPC password via `/debug/vars`, Slowloris). Index: [`projects/zcash/advisories-index.md`](../../projects/zcash/advisories-index.md). Bug-class: peer-triggerable DoS in network-facing parsers/queues; credential disclosure via debug endpoints; Besu IBFT/QBFT/Clique NPEs on crafted signatures ([`projects/ethereum/advisories-index.md`](../../projects/ethereum/advisories-index.md)).

@@ -487,3 +487,10 @@ HackerOne: GraphQL CompleteHacktivityReportIndex disclosed_at:[2026-11-12 TO 202
 10.0.0.1 - campaign feed: apex-hunter/okta-bugcrowd-2026-11 (okta S1, 3 technique records)
 session-feed: apex-hunter/thegraph 2026-11-16 — 3 technique rows appended
 - 2026-11-16 apex-hunter/aera-2026-11-16 campaign feed: +4 records (vault pricing class, dead-code invariants, unaudited-rewrite gap, merkle value leaf)
+
+## 2026-11-18 daily run (Africa/Lagos)
+- X (Grok Bot connector `x`, search_posts_all, 8 grouped handle queries since 2026-11-17T05:30Z + pagination, backfill n6c/n6e): ~30 reads used of 1000; 971 remaining at last check.
+- Writeups fetched: calif.io/java4shell, openjdk/jdk PR 32781, datadog securitylabs, vulncheck, access.redhat.com RHSB-2026-018, sysdig, tenable FAQ, security.berkeley.edu, bleepingcomputer (all Java4Shell); jira.atlassian.com/browse/JSDSERVER-16892 (+rapid7 fallback), wiz.io scan-for-good; github.com/mdpsec/huntdeck README; blackboxarena.ai board (2026-11-18 snapshot). Failed/skipped: github.com/PortSwigger/frag (404; README already in repo), x.com article by saxenism (not retrievable by curl), thedefiant (n/a today), Medium mirrors (scribe.rip 404, freedium unreachable, r.jina.ai 401).
+- Telegram previews: https://t.me/s/defendor_eng (+5: 2354-2358), https://t.me/s/dailybountywriteup (+2: 14987-14988); x.com links of new defendor messages fetched through the X API (Lighter article, SlowMist alert, Blockaid, ZachXBT partial).
+- GitHub Security Advisories: ZcashFoundation/zebra (+10), zcash/lightwalletd (+14), hyperledger/besu (+4); `solana-program/solana-program-library` returns 404 for advisories.
+- CVE: cvelistV5 28 delta zips since 2026-11-17T03:00Z; NVD API lastModStartDate=2026-11-17..; CISA KEV 2026.11.17; OSV/GHSA re-pull; HackerOne GraphQL hacktivity [2026-11-16..2026-11-18]; ZDI index unchanged.

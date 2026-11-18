@@ -1,11 +1,176 @@
 # @irsdl — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 604
-- Conversations/threads: 527
+- Posts in this file: 613
+- Conversations/threads: 532
 - Oldest post captured: 2010-05-25
-- Newest post captured: 2026-11-15
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-17 · Thread · @wdormann @S0ufi4n3 @Burp_Suite collaborator servers can potentially be affected if they do some bas
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @353549736 — 2026-11-16 23:26 UTC (2026-11-17 00:26 WAT)
+
+- URL: https://x.com/353549736/status/2122471353852821658
+- Metrics (at fetch): bookmark 0, impression 1077, like 6, quote 0, reply 3, retweet 0
+
+> Can't remember the last time I opened Burp...
+
+
+### Post — @irsdl — 2026-11-17 22:03 UTC (2026-11-17 23:03 WAT)
+
+- URL: https://x.com/irsdl/status/2122812971155943884
+- Metrics (at fetch): bookmark 0, impression 49, like 0, quote 0, reply 0, retweet 0
+
+> @wdormann @S0ufi4n3 @Burp_Suite collaborator servers can potentially be affected if they do some base64 decoding somewhere?
+
+
+### Thread part 2 — @irsdl — 2026-11-18 00:25 UTC (2026-11-18 01:25 WAT)
+
+- URL: https://x.com/irsdl/status/2122848682592641117
+- Metrics (at fetch): bookmark 0, impression 18, like 0, quote 0, reply 0, retweet 0
+
+> @wdormann @S0ufi4n3 @Burp_Suite I think collab server works without a license but can it be triggered? That's something I don't know. Also we have base64 in basic auth so if the web server uses it then that will be one entry point
+
+
+---
+
+## 2026-11-17 · Thread · If, like me, you run @Burp_Suite Collaborator or other Java apps in Docker, here's an AI-suggested w
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @irsdl — 2026-11-17 22:12 UTC (2026-11-17 23:12 WAT)
+
+- URL: https://x.com/irsdl/status/2122815224939982932
+- Metrics (at fetch): bookmark 8, impression 1811, like 14, quote 0, reply 1, retweet 1
+
+> If, like me, you run @Burp_Suite Collaborator or other Java apps in Docker, here's an AI-suggested workaround for #Java4Shell without relying on whether the app uses Base64 decoding:
+>
+> Add -XX:-UseBASE64Intrinsics to the Java flags in compose.yml, then run docker compose up -d.
+>
+> ⚠️ This restarts Collaborator and may lose in-flight interactions.
+
+
+### Thread part 2 — @irsdl — 2026-11-17 22:25 UTC (2026-11-17 23:25 WAT)
+
+- URL: https://x.com/irsdl/status/2122818443598578080
+- Metrics (at fetch): bookmark 1, impression 300, like 1, quote 0, reply 0, retweet 0
+
+> Use this to see if you are still affected:
+>
+> java -XX:+PrintFlagsFinal -version 2&gt;&amp;1 | grep UseBASE64Intrinsics
+>
+> This is a temporary workaround
+
+
+---
+
+## 2026-11-17 · Post · Most banks use Java 🙃🥲
+
+
+### Post — @irsdl — 2026-11-17 21:55 UTC (2026-11-17 22:55 WAT)
+
+- URL: https://x.com/irsdl/status/2122810820354626037
+- Metrics (at fetch): bookmark 0, impression 863, like 14, quote 0, reply 0, retweet 0
+
+> Most banks use Java 🙃🥲
+> #Java4Shell
+
+
+---
+
+## 2026-11-17 · Thread · @markpash به نظرم ج.ا تونسته با دامن زدن به تفکرات چپ و ضدشاه، جنبش ز.ز.آ رو به نفع خودش منحرف و مصا
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @839487450 — 2026-11-17 08:16 UTC (2026-11-17 09:16 WAT)
+
+- URL: https://x.com/839487450/status/2122604659734978833
+- Metrics (at fetch): bookmark 20, impression 7675, like 555, quote 2, reply 24, retweet 29
+
+> زن زندگی آزادی... جمهوری اسلامی؟
+>
+> کسانی که هنوز میگن زن زندگی آزادی، اینو برام توضیح می‌دین؟ چجوری با این موضوع کنار میای و یا مبارزه میکنید؟ [pic.x.com/chdOHDlaFD]
+
+**Media:**
+- media `3_2122604648854851584` (details not returned by the API)
+- media `3_2122604654643064832` (details not returned by the API)
+
+
+### Post — @irsdl — 2026-11-17 11:18 UTC (2026-11-17 12:18 WAT)
+
+- URL: https://x.com/irsdl/status/2122650520665940067
+- Metrics (at fetch): bookmark 0, impression 290, like 4, quote 1, reply 0, retweet 0
+
+> @markpash به نظرم ج.ا تونسته با دامن زدن به تفکرات چپ و ضدشاه، جنبش ز.ز.آ رو به نفع خودش منحرف و مصادره کنه. شاید اگه این اختلافات نبود، مردم مثل دی‌ماه 404 پشت یه رهبر متحد می‌شدن. یکی از ترفندهای ج.ا هم اینه که دموکراسی رو به غلط ضد حمایت از شاهزاده نشون بده.
+> بلاکشون میکنم فقط😕
+
+
+### Thread part 2 — @irsdl — 2026-11-17 21:05 UTC (2026-11-17 22:05 WAT)
+
+- URL: https://x.com/irsdl/status/2122798294485152115
+- Metrics (at fetch): bookmark 0, impression 35, like 2, quote 0, reply 1, retweet 0
+
+> @souzangar @markpash ممکنه حرفم رو قبول نداشته باشی ولی با نظرت موافق نیستم. https://twitter.com/irsdl/status/2122650520665940067
+
+**Links in post:** https://twitter.com/irsdl/status/2122650520665940067
+
+**Quoted post (full text):**
+
+    #### Quoted post — @irsdl — 2026-11-17 11:18 UTC (2026-11-17 12:18 WAT)
+    
+    - URL: https://x.com/irsdl/status/2122650520665940067
+    - Metrics (at fetch): bookmark 0, impression 290, like 4, quote 1, reply 0, retweet 0
+    
+    > @markpash به نظرم ج.ا تونسته با دامن زدن به تفکرات چپ و ضدشاه، جنبش ز.ز.آ رو به نفع خودش منحرف و مصادره کنه. شاید اگه این اختلافات نبود، مردم مثل دی‌ماه 404 پشت یه رهبر متحد می‌شدن. یکی از ترفندهای ج.ا هم اینه که دموکراسی رو به غلط ضد حمایت از شاهزاده نشون بده.
+    > بلاکشون میکنم فقط😕
+    
+
+
+### Thread part 3 — @irsdl — 2026-11-17 21:28 UTC (2026-11-17 22:28 WAT)
+
+- URL: https://x.com/irsdl/status/2122804163730108546
+- Metrics (at fetch): bookmark 0, impression 18, like 1, quote 0, reply 0, retweet 0
+
+> @souzangar @markpash [pic.x.com/sBu3HTRl60]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/HXW3IqYWgAAPvM0.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-17 · Post · @0xTib3rius Do not bring it down to 69, it will be blocked in the UK!
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1149823779431997442 — 2026-11-16 23:42 UTC (2026-11-17 00:42 WAT)
+
+- URL: https://x.com/1149823779431997442/status/2122475527185244225
+- Metrics (at fetch): bookmark 1, impression 2859, like 84, quote 1, reply 9, retweet 7
+
+> Give it a few more days maybe we'll see this rebranding by the end of the year. [pic.x.com/2eC6RXGquw]
+
+**Media:**
+- media `3_2122475523779506176` (details not returned by the API)
+
+
+### Post — @irsdl — 2026-11-17 14:29 UTC (2026-11-17 15:29 WAT)
+
+- URL: https://x.com/irsdl/status/2122698595812229160
+- Metrics (at fetch): bookmark 0, impression 109, like 0, quote 0, reply 0, retweet 0
+
+> @0xTib3rius Do not bring it down to 69, it will be blocked in the UK!
 
 
 ---

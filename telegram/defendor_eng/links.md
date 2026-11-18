@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **513**
+Total distinct URLs: **514**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -519,3 +519,4 @@ Total distinct URLs: **513**
 | [2338](https://t.me/defendor_eng/2338) | 2026-11-13 12:10:40 | 🔬 CertiK: Arcus Records Show Integer Overflow Signature | https://www.certik.com/blog/arcus-incident-analysis |
 | [2340](https://t.me/defendor_eng/2340) | 2026-11-13 20:30:16 | 📋 Certora Guide: What to Check Before a Sui Audit | https://www.certora.com/blog/auditing-smart-contracts-sui |
 | [2346](https://t.me/defendor_eng/2346) | 2026-11-15 14:05:53 | 🚨 US Seizes $1.2B Frozen After North Korean Binance Hack | https://protos.com/us-seizes-1-2b-in-funds-frozen-after-north-korean-binance-hack |
+| [2357](https://t.me/defendor_eng/2357) | 2026-11-17 20:26:46 | 🚨 Kava Confirms 53.9M KAVA Taken From HARD Lend | https://medium.com/@Kava_Chain/hard-lend-security-incident-579888f8dd73 |

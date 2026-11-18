@@ -1,11 +1,37 @@
 # @NahamSec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1172
-- Conversations/threads: 996
+- Posts in this file: 1173
+- Conversations/threads: 997
 - Oldest post captured: 2016-09-01
-- Newest post captured: 2026-11-16
+- Newest post captured: 2026-11-17
+
+
+---
+
+## 2026-11-17 · Post · 3 days until NahamCon2026. 🔥
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2026-11-17 14:57 UTC (2026-11-17 15:57 WAT)
+
+- URL: https://x.com/NahamSec/status/2122705569006203348
+- Metrics (at fetch): bookmark 3, impression 4635, like 32, quote 0, reply 3, retweet 5
+
+> 3 days until #NahamCon2026. 🔥
+>
+> The talks start Friday in Oakland and stream worldwide through Saturday. Keynotes, AI security research, bug bounty, and a live podcast recording are on the schedule.
+>
+> See every talk and time: https://p2p.nahamcon.com/#agenda [pic.x.com/D4jAKVVSMZ]
+
+**Media:**
+- media `3_2122554577140756480` (details not returned by the API)
+- media `3_2122554688373723136` (details not returned by the API)
+
+**Links in post:** https://p2p.nahamcon.com/#agenda
 
 
 ---

@@ -1,11 +1,42 @@
 # @garethheyes — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 558
-- Conversations/threads: 500
+- Posts in this file: 559
+- Conversations/threads: 501
 - Oldest post captured: 2008-10-22
-- Newest post captured: 2026-11-14
+- Newest post captured: 2026-11-17
+
+
+---
+
+## 2026-11-17 · Post · Frag update 🧩
+
+
+### Post — @garethheyes — 2026-11-17 10:32 UTC (2026-11-17 11:32 WAT)
+
+- URL: https://x.com/garethheyes/status/2122639054638301455
+- Metrics (at fetch): bookmark 3, impression 1084, like 10, quote 0, reply 0, retweet 0
+
+> Frag update 🧩
+> - One shot blind exfiltration
+> - Base64 &amp; alphanum tokens are now supported
+> - Smaller generated CSS https://twitter.com/garethheyes/status/2118691773333782693
+
+**Links in post:** https://twitter.com/garethheyes/status/2118691773333782693
+
+**Quoted post (full text):**
+
+    #### Quoted post — @garethheyes — 2026-11-06 13:07 UTC (2026-11-06 14:07 WAT)
+    
+    - URL: https://x.com/garethheyes/status/2118691773333782693
+    - Metrics (at fetch): bookmark 44, impression 3370, like 100, quote 0, reply 4, retweet 20
+    
+    > I built a new tool called Frag. A CSS-only token exfiltration tool. No JavaScript needed. Inject a stylesheet, steal the token. Uses De Bruijn graphs to reconstruct secrets from overlapping CSS attribute selector fragments. Built on research by me and @Alex_______C Source: 👇 [pic.x.com/yuGFp0EZsE]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HWcZt2eWQAEMaIK.png — no alt text provided by author
+    
 
 
 ---

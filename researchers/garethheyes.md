@@ -75,3 +75,7 @@ _Auto-maintained from `harness/findings.jsonl`. 6 finding(s). Full verbatim post
 - **Root cause:** `form-action` does not fall back to `default-src`. With `default-src 'none'; form-action 'self'` and a reflected HTML sink, a two-stage self-posting form collects credentials, then re-injects `<meta name=referrer content=unsafe-url>` + `<meta http-equiv=refresh>` so Collaborator receives credentials in the Referer.
 - **How found:** PortSwigger Burp AT skill — allow-list gadget lookup (350+ from cspbypass.com) + form-action self-post check.
 - **Takeaways for harness:** Always evaluate `form-action` independently of `default-src`; emit the two-stage form PoC when form-action is missing/`'self'` and there is a reflected HTML sink. Lab: https://portswigger-labs.net/csp-form-action-test/?x=123
+
+### Update 2026-11-18
+
+- **Frag update** — https://x.com/garethheyes/status/2122639054638301455 — [`posts/garethheyes/2026-11-17-2122639054638301455.md`](../posts/garethheyes/2026-11-17-2122639054638301455.md): one-shot blind exfiltration, Base64/alphanumeric tokens, smaller CSS. README: [`writeups/garethheyes/frag-readme.md`](../writeups/garethheyes/frag-readme.md).

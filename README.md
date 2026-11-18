@@ -2,7 +2,7 @@
 
 A personal knowledge base of **publicly claimed, valid (or triaged) bug-bounty findings** by consistent security researchers, compiled for Dorothy's hunting workflow.
 
-Last updated: **17 November 2026** (Africa/Lagos).
+Last updated: **18 November 2026** (Africa/Lagos).
 
 > **For the harness agent:** start at [harness/README.md](harness/README.md); for real-world CVE / HackerOne examples per bug class start at [harness/cve-index.md](harness/cve-index.md). It has a merged recon workflow, one check-spec file per bug class under [harness/bug-classes/](harness/bug-classes/), and [harness/findings.jsonl](harness/findings.jsonl). The single richest methodology source is Marius du Preez's full verbatim prompt pack at [writeups/mdp_sec/prompts/](writeups/mdp_sec/prompts/).
 
@@ -134,6 +134,13 @@ X search cannot cover "the whole of X" in one pass. Many elite hunters never pos
 ## Harness
 
 See [`harness/`](harness/) — **2,374** findings (incl. 600 top HackerOne reports and 727 CISA-KEV CVEs 2023–2026, `source` field), [cve-index.md](harness/cve-index.md) (bug class → strongest CVE/H1/Exploit-DB/P0 examples), 29 `payloads/h1-*.md` files with 1,909 verbatim PoC snippets, 36 bug-class specs, payloads/, tools.md. Telegram-sourced records are tagged `researcher: telegram:<channel>`.
+
+### 18 Nov 2026 daily highlights
+
+- X: 176 new watched-account posts. **Java4Shell (CVE-2026-114938)** OpenJDK AVX-512 Base64 heap overflow (full writeups: [`writeups/irsdl/`](writeups/irsdl/)); mdp_sec **ImageMagick SVG-as-JPG file read → public CDN**; Nagli **CVE-2026-21601** Jira SM DC; Piki_eth HackenProof signature/ownership-binding bugs; Lighter nonce-reuse analysis (saxenism).
+- Telegram: @defendor_eng +5, @dailybountywriteup +2; +29 writeups fetched; 10,842 dailybounty writeups still pending (Medium-family 403).
+- HackerOne +2 (Basecamp libvips TIFF/JPEG heap overflow #3938691; Weblate TOML CPU DoS #4105212). CVE: 1,245 new / 973 updated (cvelistV5), NVD +1,220; KEV +CVE-2026-115731. Zcash +24 / Besu +4 GHSA advisories.
+- Backfill: trailofbits and samczsun/pcaversaccio cursors advanced (+91 posts). Full details: [INDEX.md](INDEX.md).
 
 ### 17 Nov 2026 daily highlights
 

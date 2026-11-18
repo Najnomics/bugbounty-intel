@@ -41,3 +41,7 @@ _Auto-maintained from `harness/findings.jsonl`. 3 finding(s). Full verbatim post
 - **SharePoint Workflow protection bypass → RCE (2018)** (`deserialization`)
   - post: https://x.com/irsdl/status/1685783702440173568
   - local: `posts/irsdl/ARCHIVE.md`, `data/x_posts.jsonl`
+
+### Update 2026-11-18
+
+- **Java4Shell (CVE-2026-114938) workaround + check commands** — https://x.com/irsdl/status/2122815224939982932 — [`posts/irsdl/2026-11-17-2122815224939982932.md`](../posts/irsdl/2026-11-17-2122815224939982932.md). Bug class: JIT-intrinsic memory corruption (AVX-512 Base64). Root cause/how found: Calif disclosure; see full writeups in [`writeups/irsdl/`](../writeups/irsdl/) (Calif, OpenJDK PR 32781, Datadog, VulnCheck, Red Hat, Sysdig, Tenable, Berkeley ISO, BleepingComputer). Takeaway: Base64 in Basic auth is a pre-auth entry point for Java servers (his reply 2122848682592641117).

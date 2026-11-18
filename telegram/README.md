@@ -6,12 +6,12 @@ Captured from the public web preview `https://t.me/s/<channel>`, paging older me
 
 | Channel | Local archive | Messages | ID range | Backfill complete | Dates (WAT, Africa/Lagos) |
 | --- | --- | ---: | --- | --- | --- |
-| [@defendor_eng](https://t.me/defendor_eng) — Defendor — DeFi Security | [defendor_eng/](defendor_eng/) | 2,114 | 1–2353 | yes (reached message 1) | 2025-04-22 → 2026-11-17 |
-| [@dailybountywriteup](https://t.me/dailybountywriteup) — Daily Bounty Writeups | [dailybountywriteup/](dailybountywriteup/) | 14,974 | 1–14986 | yes (reached message 1) | 2022-08-22 → 2026-11-17 |
+| [@defendor_eng](https://t.me/defendor_eng) — Defendor — DeFi Security | [defendor_eng/](defendor_eng/) | 2,119 | 1–2358 | yes (reached message 1) | 2025-04-22 → 2026-11-17 |
+| [@dailybountywriteup](https://t.me/dailybountywriteup) — Daily Bounty Writeups | [dailybountywriteup/](dailybountywriteup/) | 14,976 | 1–14988 | yes (reached message 1) | 2022-08-22 → 2026-11-17 |
 
 Machine-readable copies: [`data/telegram_defendor_eng.jsonl`](../data/telegram_defendor_eng.jsonl) and [`data/telegram_dailybountywriteup.jsonl`](../data/telegram_dailybountywriteup.jsonl). Cursor / increment state for the daily routine: [`data/telegram_state.json`](../data/telegram_state.json).
 
-@dailybountywriteup is mostly writeup links (12,890 distinct URLs in [dailybountywriteup/links.md](dailybountywriteup/links.md)). As of the 17 Nov 2026 run, **976** of the highest-priority technical writeups (mainly public HackerOne reports) are fetched into [`writeups/telegram-dailybountywriteup/`](../writeups/telegram-dailybountywriteup/); **1,100** failed and **10,842** remain pending (Medium, infosecwriteups and osintteam return HTTP 403 to this crawler and stay pending for a later retry). @defendor_eng: **301** fetched, **219** failed, **0** pending, under [`writeups/telegram-defendor_eng/`](../writeups/telegram-defendor_eng/). Progress lives in [`data/telegram_state.json`](../data/telegram_state.json) and the sibling `data/telegram_*_writeups_{fetched,failed,pending}.jsonl` files. The daily run should continue from the pending file and must not invent content.
+@dailybountywriteup is mostly writeup links (12,890 distinct URLs in [dailybountywriteup/links.md](dailybountywriteup/links.md)). As of the 18 Nov 2026 run, **1,000** of the highest-priority technical writeups (mainly public HackerOne reports) are fetched into [`writeups/telegram-dailybountywriteup/`](../writeups/telegram-dailybountywriteup/); **1,087** failed and **10,842** remain pending (Medium, infosecwriteups and osintteam return HTTP 403 to this crawler and stay pending for a later retry). @defendor_eng: **306** fetched, **219** failed, **0** pending, under [`writeups/telegram-defendor_eng/`](../writeups/telegram-defendor_eng/). Progress lives in [`data/telegram_state.json`](../data/telegram_state.json) and the sibling `data/telegram_*_writeups_{fetched,failed,pending}.jsonl` files. The daily run should continue from the pending file and must not invent content.
 
 ## Daily update procedure
 

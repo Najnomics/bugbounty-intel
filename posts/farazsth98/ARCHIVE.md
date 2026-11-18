@@ -1,11 +1,54 @@
 # @farazsth98 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 152
-- Conversations/threads: 123
+- Posts in this file: 154
+- Conversations/threads: 124
 - Oldest post captured: 2019-09-30
-- Newest post captured: 2026-11-03
+- Newest post captured: 2026-11-17
+
+
+---
+
+## 2026-11-17 · Thread · @brokenpacifist Don't worry I checked gVisor and it's safe 👍
+
+
+Tags (automatic): Memory corruption / native
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @brokenpacifist — 2026-11-17 17:07 UTC (2026-11-17 18:07 WAT)
+
+- URL: https://x.com/brokenpacifist/status/2122738468493443193
+- Metrics (at fetch): bookmark 44, impression 5056, like 62, quote 0, reply 4, retweet 3
+
+> I am so paranoid these days, I ended up putting all my internet-facing daemons wrapped with gvisor and added seccheck to alert for any execv attempts... 
+>
+> But oh well, I just realized https://t.co/Cl0ngZ9DW1 is coming up soon and they have gVisor. I'm even more paranoid now https://t.co/XHRWVVmotM
+
+**Media:**
+- media `3_2122738453913952256` (details not returned by the API)
+
+
+### Post — @farazsth98 — 2026-11-17 17:39 UTC (2026-11-17 18:39 WAT)
+
+- URL: https://x.com/farazsth98/status/2122746469358956614
+- Metrics (at fetch): like 2
+
+> @brokenpacifist Don't worry I checked gVisor and it's safe 👍
+>
+> In all seriousness it's a pretty strong sandbox implementation and I'll be pleasantly surprised if there is an entry for it at zeroday cloud 😅
+
+
+### Thread part 2 — @farazsth98 — 2026-11-17 17:57 UTC (2026-11-17 18:57 WAT)
+
+- URL: https://x.com/farazsth98/status/2122750910371856548
+- Metrics (at fetch): like 0
+
+> @brokenpacifist This list is more like "see we weren't affected by this bug from the Linux kernel", which kind of makes sense since its Golang code and the architecture is completely different.
+>
+> I have hopes for some novel sandbox escape still 😅 but the ZDC attack surface is very small..
 
 
 ---

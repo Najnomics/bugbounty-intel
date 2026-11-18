@@ -1,6 +1,6 @@
 # Researcher index
 
-Compiled 12 November 2026 (Africa/Lagos). Daily update applied. Handles link to X. "Evidence of consistency" is only what was found in public posts or official profiles during this pass. Follower counts and ranks change; treat them as a snapshot. Daily update 2026-11-17: added @pcaversaccio.
+Compiled 12 November 2026 (Africa/Lagos); last daily update applied 18 November 2026 (no new researchers added today). Handles link to X. "Evidence of consistency" is only what was found in public posts or official profiles during this pass. Follower counts and ranks change; treat them as a snapshot. Daily update 2026-11-17: added @pcaversaccio.
 
 | Handle | Name (from profile) | Platforms | Focus | Evidence of consistency | Writeups / blogs |
 | --- | --- | --- | --- | --- | --- |

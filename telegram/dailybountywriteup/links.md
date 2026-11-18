@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **12919**
+Total distinct URLs: **12930**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -12925,3 +12925,14 @@ Total distinct URLs: **12919**
 | [14986](https://t.me/dailybountywriteup/14986) | 2026-11-16 09:24:57 | How I Escalated from Operator to Admin on a Leading Travel Platform on Hackerone Via GraphQL… | https://medium.com/@sebasvargas2/cross-supplier-privilege-escalation-how-i-escalated-from-operator-to-admin-on-a-leading-travel-614a67f459ab |
 | [14986](https://t.me/dailybountywriteup/14986) | 2026-11-16 09:24:57 | Nineteen of Twenty-One Were Patched. The Exploit Needed a Switch. | https://meetcyber.net/nineteen-of-twenty-one-were-patched-the-exploit-needed-a-switch-1fc0dfc88b73 |
 | [14986](https://t.me/dailybountywriteup/14986) | 2026-11-16 09:24:57 | I Steal Your Login With One Query Parameter | https://thexssrat.medium.com/i-steal-your-login-with-one-query-parameter-my-oauth-account-takeover-playbook-462b1da5179f |
+| [14987](https://t.me/dailybountywriteup/14987) | 2026-11-17 10:37:48 | Why CTF Matters | https://medium.com/@vigneshkumaroffsec/why-ctf-matters-what-capture-the-flag-actually-trains-and-where-it-stops-1a8d81f8769a |
+| [14987](https://t.me/dailybountywriteup/14987) | 2026-11-17 10:37:48 | Facebook IDOR | https://masimshahzad.medium.com/facebook-idor-deleting-any-photo-album-case-study-40dbb2661c22 |
+| [14987](https://t.me/dailybountywriteup/14987) | 2026-11-17 10:37:48 | Stripe Auth Bypass | https://masimshahzad.medium.com/stripe-auth-bypass-lockout-screen-case-study-09a82a954377 |
+| [14987](https://t.me/dailybountywriteup/14987) | 2026-11-17 10:37:48 | Microsoft Account Takeover | https://masimshahzad.medium.com/microsoft-account-takeover-reset-code-race-case-631a5e206641 |
+| [14987](https://t.me/dailybountywriteup/14987) | 2026-11-17 10:37:48 | I Ignored a NEXT_PUBLIC_ Token for a Week. Then It Unlocked Blind SQLi and the Whole Database | https://medium.com/@akash.sundaramoorthi1/i-ignored-a-next-public-token-for-a-week-then-it-unlocked-blind-sqli-and-the-whole-database-6b61f3c1e07d |
+| [14987](https://t.me/dailybountywriteup/14987) | 2026-11-17 10:37:48 | Node2Shell (CVE-2026-111497) | https://medium.com/@asadmohsin760/node2shell-cve-2026-111497-inside-the-critical-brotli-decoder-vulnerability-every-security-b58eb4c6e8ce |
+| [14987](https://t.me/dailybountywriteup/14987) | 2026-11-17 10:37:48 | P2 Broken Access Control Allowing Unauthorized Account Email Modification and Account Takeover | https://medium.com/@akashmotkar001/p2-broken-access-control-allowing-unauthorized-account-email-modification-and-account-takeover-dea75b86edf1 |
+| [14987](https://t.me/dailybountywriteup/14987) | 2026-11-17 10:37:48 | I Started the Login. You Finished It. I Got Your Account. | https://medium.com/@ali.zamini/i-started-the-login-you-finished-it-i-got-your-account-2c51f98f6ccb |
+| [14987](https://t.me/dailybountywriteup/14987) | 2026-11-17 10:37:48 | How Indirect Prompt Injection in RAG Pipelines Enables Data Exfiltration | https://medium.com/@t4nv1/how-indirect-prompt-injection-in-rag-pipelines-enables-data-exfiltration-40dcfb45f6f0 |
+| [14987](https://t.me/dailybountywriteup/14987) | 2026-11-17 10:37:48 | Google Paid $250,000 for One Chrome Bug Chain. It Took Six Days. | https://medium.com/@zxve/google-paid-250-000-for-one-chrome-bug-chain-it-took-six-days-29afccbee52a |
+| [14988](https://t.me/dailybountywriteup/14988) | 2026-11-17 10:38:07 | Securing the AI Supply Chain: A Hands-On AI-BOM Playbook for Pickle RCE, Poisoned Datasets, and CI Gates - SecurityCipher | https://securitycipher.com/2026/11/17/ai-bom-generation-security-policy-gates |

@@ -5709,7 +5709,7 @@
 - [3198980](reports/2025/3198980.md) Woocommerce SQL Injection in WC_Report_Coupon_Usage — automattic — medium —  — SQL Injection
 - [3447021](reports/2026/3447021.md) XSS Vulnerability on Pressable/Atomic Hosting Platform via unescaped admin notices leads to code execution — automattic — - —  — 
 
-## weblate (163)
+## weblate (164)
 
 - [223350](reports/2017/223350.md) Web server is vulnerable to Beast Attack — weblate — low —  — Cryptographic Issues - Generic
 - [225100](reports/2017/225100.md) CSRF to Connect third party Account — weblate — medium —  — Cross-Site Request Forgery (CSRF)
@@ -5874,6 +5874,7 @@
 - [4081135](reports/2026/4081135.md) Privilege escalation via unfiltered role restoration in project backup import — weblate — critical —  — Privilege Escalation
 - [4117330](reports/2026/4117330.md) Anonymous Translation Suggestion IP Address Exposure Through Change API — weblate — low —  — Information Disclosure
 - [4059744](reports/2026/4059744.md) Anonymous API Rate Limit Bypass via X-Forwarded-For — weblate — medium —  — Uncontrolled Resource Consumption
+- [4105212](reports/2026/4105212.md) CPU Exhaustion via Crafted TOML Files in translation-finder — weblate — medium —  — Uncontrolled Resource Consumption
 
 ## shopify-scripts (161)
 
@@ -9709,7 +9710,7 @@
 - [3896617](reports/2026/3896617.md) Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification failure — mariadb — - —  — Improper Certificate Validation
 - [3849007](reports/2026/3849007.md) MariaDB CLI Utility Issues — mariadb — - —  — SQL Injection
 
-## basecamp (59)
+## basecamp (60)
 
 - [982291](reports/2020/982291.md) HEY.com email stored XSS — basecamp — critical — $5,000 — Cross-site Scripting (XSS) - Stored
 - [1010132](reports/2020/1010132.md) Possible DOM XSS on app.hey.com — basecamp — high —  — Cross-site Scripting (XSS) - DOM
@@ -9770,6 +9771,7 @@
 - [3955956](reports/2026/3955956.md) launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker redirect → full CIA triad on Basecamp API  — basecamp — high —  — Improper Authentication - Generic
 - [4151790](reports/2026/4151790.md) Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in visitor's response is cached at the edge and returned to ev — basecamp — low —  — Information Disclosure
 - [4175245](reports/2026/4175245.md) Cross-account stored XSS on app.basecamp.com leads to persistent administrator takeover — basecamp — high —  — Cross-site Scripting (XSS) - Stored
+- [3938691](reports/2026/3938691.md) Image upload reaches TIFF/JPEG heap overwrite (potential RCE) — basecamp — critical —  — Heap Overflow
 
 ## semrush (56)
 

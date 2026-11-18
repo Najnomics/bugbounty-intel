@@ -1,11 +1,92 @@
 # @galnagli — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-17 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 304
-- Conversations/threads: 210
+- Posts in this file: 307
+- Conversations/threads: 212
 - Oldest post captured: 2020-07-24
-- Newest post captured: 2026-11-10
+- Newest post captured: 2026-11-17
+
+
+---
+
+## 2026-11-17 · Thread · Always happy to assist and use our Gemini Cyber models for good - in this case with our AI-Powered r
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @galnagli — 2026-11-17 20:51 UTC (2026-11-17 21:51 WAT)
+
+- URL: https://x.com/galnagli/status/2122794755457175766
+- Metrics (at fetch): bookmark 2, impression 2714, like 22, quote 0, reply 3, retweet 0
+
+> Always happy to assist and use our Gemini Cyber models for good - in this case with our AI-Powered red-teaming capabilities 🤝 [pic.x.com/e23zmMe0sF] https://twitter.com/NorthflankWill/status/2122748977758056852
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXWubouWsAAPoaQ.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/NorthflankWill/status/2122748977758056852
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1118505543700832256 — 2026-11-17 17:49 UTC (2026-11-17 18:49 WAT)
+    
+    - URL: https://x.com/1118505543700832256/status/2122748977758056852
+    - Metrics (at fetch): bookmark 6, impression 6894, like 40, quote 5, reply 6, retweet 9
+    
+    > An update on Northflank's October 30 security incident.
+    >
+    > We’ve been working with independent forensic firm FTI Consulting to investigate. We’ve now published our full report, covering what happened and the changes we’re making.
+    >
+    > The key findings:
+    >
+    > 1/ On October 30, an attacker exploited a Northflank API vulnerability and exfiltrated secrets affecting 1.5% of customer teams, representing 1.8% of stored secret values.
+    >
+    > 2/ The investigation has found no evidence of access to customer workloads or workload data.
+    >
+    > 3/ We fixed the vulnerability within 82 minutes of receiving the first alert. By the time we posted the status update on October 30, the attacker was no longer in the environment and it was safe to rotate credentials.
+    >
+    > 4/ We’ve strengthened detection and automated blocking, and are continuing platform hardening and AI-assisted red-teaming.
+    >
+    > I’m deeply sorry for the worry, disruption and extra work this has caused. Thank you for the patience and kindness you’ve shown our team. We know rebuilding your trust takes sustained work, and we’ll keep sharing our progress.
+    >
+    > A huge thank you to the Wiz incident response team and Ami Luttwak for their support and expertise throughout this period.
+    >
+    > https://northflank.com/blog/incident-report-october-30-security-incident
+    
+    **Links in post:** https://northflank.com/blog/incident-report-october-30-security-incident
+    
+
+
+### Thread part 2 — @galnagli — 2026-11-17 20:55 UTC (2026-11-17 21:55 WAT)
+
+- URL: https://x.com/galnagli/status/2122795816259608678
+- Metrics (at fetch): bookmark 2, impression 224, like 3, quote 0, reply 3, retweet 0
+
+> @ArmanSameer95 We are always looking into expanding our models for defensive use-cases to more security researchers and enterprises through @GoogleDeepMind  Fairwind https://deepmind.google/fairwind-program/ -
+
+**Links in post:** https://deepmind.google/fairwind-program/
+
+
+---
+
+## 2026-11-17 · Post · We found a cool and pretty severe unauthenticated information disclosure from every publicly facing 
+
+
+### Post — @galnagli — 2026-11-17 20:21 UTC (2026-11-17 21:21 WAT)
+
+- URL: https://x.com/galnagli/status/2122787201176019399
+- Metrics (at fetch): bookmark 54, impression 9003, like 117, quote 1, reply 3, retweet 10
+
+> We found a cool and pretty severe unauthenticated information disclosure from every publicly facing Jira instance, credited as CVE-2026-21601 - many more to come protecting the critical services we all rely on 💪
+>
+> https://jira.atlassian.com/browse/JSDSERVER-16892 [pic.x.com/cZGzgyt8mo]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXWnWcZXQAEAogX.jpg — no alt text provided by author
+
+**Links in post:** https://jira.atlassian.com/browse/JSDSERVER-16892
 
 
 ---

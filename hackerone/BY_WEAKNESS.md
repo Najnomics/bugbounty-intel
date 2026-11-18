@@ -1,4 +1,4 @@
-# HackerOne disclosed reports by weakness (12759 reports)
+# HackerOne disclosed reports by weakness (12761 reports)
 
 
 ## Unspecified (1279)
@@ -5855,7 +5855,7 @@
 - [3878649](reports/2026/3878649.md) Reflected XSS via wrong permission check in conversion statistics — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
 - [3942028](reports/2026/3942028.md) Reflected XSS via invocation banner ID field in admin-generate.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
 
-## Uncontrolled Resource Consumption (510)
+## Uncontrolled Resource Consumption (511)
 
 - [183356](reports/2016/183356.md) Segfault and/or potential unwanted (byte)code execution with "break" and "||=" inside a loop — shopify-scripts — high — $10,000 — Uncontrolled Resource Consumption
 - [181828](reports/2016/181828.md) Segfault in mruby, mruby_engine and the parent MRI Ruby due to null pointer dereference — shopify-scripts — high — $10,000 — Uncontrolled Resource Consumption
@@ -6367,6 +6367,7 @@
 - [3890352](reports/2026/3890352.md) Connector/C++ aborts client process on server session-tracking packet via std::stoi — mariadb — medium —  — Uncontrolled Resource Consumption
 - [4088592](reports/2026/4088592.md) CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask matching — weblate — medium —  — Uncontrolled Resource Consumption
 - [4059744](reports/2026/4059744.md) Anonymous API Rate Limit Bypass via X-Forwarded-For — weblate — medium —  — Uncontrolled Resource Consumption
+- [4105212](reports/2026/4105212.md) CPU Exhaustion via Crafted TOML Files in translation-finder — weblate — medium —  — Uncontrolled Resource Consumption
 
 ## Cross-site Scripting (XSS) - Stored (475)
 
@@ -11393,7 +11394,7 @@
 - [3575245](reports/2026/3575245.md) Integer Overflow in curl_multi_get_handles() Leading to Heap Buffer Overflow — curl — medium —  — Classic Buffer Overflow
 - [3771147](reports/2026/3771147.md) Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyISAM) — mariadb — - —  — Classic Buffer Overflow
 
-## Heap Overflow (54)
+## Heap Overflow (55)
 
 - [630462](reports/2019/630462.md) Heap overflow happen when receiving short length key from ssh server using ssh protocol 1 — putty_h1c — high — $3,645.90 — Heap Overflow
 - [237915](reports/2019/237915.md) PHP mbstring / Oniguruma multiple remote heap/stack corruptions — ibb — critical — $1,500 — Heap Overflow
@@ -11449,6 +11450,7 @@
 - [3444904](reports/2025/3444904.md) Heap Buffer Overflow in TFTP — curl — critical —  — Heap Overflow
 - [3466896](reports/2025/3466896.md) Heap Overflow in cURL AmigaOS Socket Implementation — curl — medium —  — Heap Overflow
 - [3909248](reports/2026/3909248.md) MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash the server via CSV row deletion — mariadb — medium —  — Heap Overflow
+- [3938691](reports/2026/3938691.md) Image upload reaches TIFF/JPEG heap overwrite (potential RCE) — basecamp — critical —  — Heap Overflow
 
 ## Deserialization of Untrusted Data (49)
 

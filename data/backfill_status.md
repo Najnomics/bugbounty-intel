@@ -1,6 +1,6 @@
 # Backfill status (X full-archive search)
 
-Updated 2026-11-17 07:45 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
+Updated 2026-11-18 07:10 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
 
 | Handle | Before (d427256) | Now | Oldest captured |
 |---|---|---|---|
@@ -197,5 +197,15 @@ Advanced the four OPEN pass-6 cursors. **~36 search calls, +905 newly archived p
 | n6b | `from:zksecurityXYZ -is:retweet -is:reply` | 122 | 2023-05-16 | 1658515564309118978 | DONE (reached account start) |
 | n6c | `from:trailofbits -is:retweet -is:reply` | 290 | 2023-05-02 | 1653517471599525889 | OPEN |
 | n6e | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` | 304 | 2024-07-29 | 1817926793636000166 | OPEN |
+
+Resume n6c and n6e with the same query, `until_id` as shown, `max_results` 25, same fields/expansions. Ingest with `/workspace/raw/daily/bf17.py`, then `gen_archive.py` + `write_state.py`.
+
+## 2026-11-18 note — pass 6 continued (limited)
+Daily budget was spent mainly on the new-post sweep (8 grouped queries + ~9 pagination calls); backfill advanced the two OPEN pass-6 cursors by **4 search calls (2 pages each), +91 newly archived posts** (46 trailofbits, 45 samczsun/pcaversaccio). Other open pass-1–5 cursors (saxenism `sax*`, `g2`…`g12`, `nah`, `rhy`, `cmi`, `chl`, `ryo`, `xss`, `t1`–`t3`, `u1` in `/workspace/raw/x2state.json`) were NOT advanced today.
+
+| Cursor | Query | New today | Oldest reached | until_id (resume) | State |
+|---|---|---|---|---|---|
+| n6c | `from:trailofbits -is:retweet -is:reply` | 46 | 2022-12-05 | 1599763572233572354 | OPEN |
+| n6e | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` | 45 | 2024-06-10 | 1800270216267768041 | OPEN |
 
 Resume n6c and n6e with the same query, `until_id` as shown, `max_results` 25, same fields/expansions. Ingest with `/workspace/raw/daily/bf17.py`, then `gen_archive.py` + `write_state.py`.
