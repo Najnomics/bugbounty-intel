@@ -504,3 +504,4 @@ session-feed: apex-hunter/thegraph 2026-11-16 — 3 technique rows appended
 - mdpsec.com checked (unchanged).
 - 2026-11-17 apex-hunter/0x-immunefi S2+S3 campaigns: +4 findings rows (deployment-skew gates, ERC-7739 marker trap, AH probe-bound, strict-entry-decoder shield).
 - 2026-11-19 apex-hunter/hibachi-immunefi S1+S2 campaigns: +3 findings rows (unsigned trigger fields, withdraw replay, two-plane identity fixture).
+2026-11-19: apex-hunter/base-everest-s1 campaign feed — 5 technique records (comp re-run protocol, clone-gating, arithmetic elimination, parity mirror fuzz, live-config probes)
