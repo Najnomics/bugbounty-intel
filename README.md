@@ -133,7 +133,7 @@ X search cannot cover "the whole of X" in one pass. Many elite hunters never pos
 
 ## Harness
 
-See [`harness/`](harness/) — **2,374** findings (incl. 600 top HackerOne reports and 727 CISA-KEV CVEs 2023–2026, `source` field), [cve-index.md](harness/cve-index.md) (bug class → strongest CVE/H1/Exploit-DB/P0 examples), 29 `payloads/h1-*.md` files with 1,909 verbatim PoC snippets, 36 bug-class specs, payloads/, tools.md. Telegram-sourced records are tagged `researcher: telegram:<channel>`.
+See [`harness/`](harness/) — **6,603** findings (incl. 4,801 HackerOne hacktivity reports and 734 CISA-KEV / cvelistV5 CVEs, `source` field), [cve-index.md](harness/cve-index.md) (bug class → strongest CVE/H1/Exploit-DB/P0 examples), 29 `payloads/h1-*.md` files with 1,909 verbatim PoC snippets, 36 bug-class specs, payloads/, tools.md. Telegram-sourced records are tagged `researcher: telegram:<channel>`.
 
 ### 19 Nov 2026 daily highlights
 
