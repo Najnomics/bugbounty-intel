@@ -1,16 +1,605 @@
 # @saxenism — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1167
-- Conversations/threads: 895
+- Posts in this file: 1182
+- Conversations/threads: 899
 - Oldest post captured: 2020-03-15
 - Newest post captured: 2026-11-18
 
 
 ---
 
-## 2026-11-18 · Post · @GalloDaSballo True.
+## 2026-11-18 · Reply · @fiveoutofnine wait till they find your Strava
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1269561030272643076 — 2026-11-18 18:19 UTC (2026-11-18 19:19 WAT)
+
+- URL: https://x.com/1269561030272643076/status/2123118797209149588
+- Metrics (at fetch): bookmark 0, impression 1562, like 35, quote 0, reply 3, retweet 0
+
+> internet stranger went through my typeracer profile and called me "GOAT among Korean typists" [pic.x.com/VZMte0RgHy]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXbVIB0aQAAlcgL.png — no alt text provided by author
+
+
+### Post — @saxenism — 2026-11-18 18:48 UTC (2026-11-18 19:48 WAT)
+
+- URL: https://x.com/saxenism/status/2123126175119909262
+- Metrics (at fetch): bookmark 0, impression 60, like 3, quote 0, reply 0, repost 0
+
+> @fiveoutofnine wait till they find your Strava
+
+
+---
+
+## 2026-11-18 · Thread · Woke up to this 🫡
+
+
+### Post — @saxenism — 2026-11-18 10:39 UTC (2026-11-18 11:39 WAT)
+
+- URL: https://x.com/saxenism/status/2123003101548556624
+- Metrics (at fetch): bookmark 14, impression 2548, like 63, quote 0, reply 9, repost 1
+
+> Woke up to this 🫡
+>
+> 4 High & 1 Medium Severity GHSA reports by our team have just been published.
+>
+> The @Zcash ecosystem is one of the fairest that I have come across in its treatment of whitehats, so far.
+>
+> At @bluethroat_labs, we have many more gifts like this coming for the @Zcash community, and we have NO intention of stopping.
+>
+> ----
+>
+> PS: I am super proud of the comment that we received on our report quality (2nd image)
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXZlv9racAAv1Eg.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXZm49WaYAAq1I_.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXZsCrcbMAEzNer.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/saxenism/status/2120829077829582959
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2026-11-12 10:40 UTC (2026-11-12 11:40 WAT)
+    
+    - URL: https://x.com/saxenism/status/2120829077829582959
+    - Metrics (at fetch): bookmark 12, impression 5145, like 52, quote 1, reply 7, repost 1
+    
+    > Accepted finding #8 (High) from the @Zcash campaign.
+    >
+    > This one wasn't a new bug.
+    >
+    > It came out of reviewing the REMEDIATION of an already-disclosed one.
+    >
+    > The patch closed the exact path in the original report.
+    > The impact was still reachable through a path it didn't account for.
+    >
+    > A fix tells you what the maintainers think the bug is, not whether the attacker agrees XD
+    >
+    > Big thanks to the maintainers for engaging deeply and owning it 🫡
+    >
+    > At @bluethroat_labs, we review the patch as hard as the bug.
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HW6ywaCakAAkfw0.png — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/saxenism/status/2119670604177834285
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @saxenism — 2026-11-09 05:57 UTC (2026-11-09 06:57 WAT)
+        
+        - URL: https://x.com/saxenism/status/2119670604177834285
+        - Metrics (at fetch): bookmark 9, impression 4324, like 43, quote 1, reply 4, repost 0
+        
+        > Accepted finding #7 (Moderate) from the @ZCash campaign.
+        >
+        > The root cause was inaccurate threat modelling of the actors involved and relying on what those actors should do instead of what they COULD do.
+        >
+        > At @bluethroat_labs, "Assumptions Break Systems" is an internalised doctrine. [pic.x.com/oAgLNOXF4r] https://twitter.com/saxenism/status/2118554252570427494
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/HWqUlTxaAAAdBQC.jpg — no alt text provided by author
+        
+        **Links in post:** https://twitter.com/saxenism/status/2118554252570427494
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @saxenism — 2026-11-06 04:01 UTC (2026-11-06 05:01 WAT)
+            
+            - URL: https://x.com/saxenism/status/2118554252570427494
+            - Metrics (at fetch): bookmark 13, impression 3562, like 46, quote 1, reply 1, repost 1
+            
+            > Accepted finding #6 (High) from the @Zcash campaign.
+            >
+            > Clear thinking and digging deep for reachability is the secret sauce, in my humblest of opinions :)
+            >
+            > Hopefully, I will be sharing many more such wins in the Zcash ecosystem soon 🚀
+            >
+            > In the meantime, grab @bluethroat_labs merch from me at @EFDevcon!!
+            
+            **Media:**
+            - photo: https://pbs.twimg.com/media/HWacIb9bYAAueQr.jpg — no alt text provided by author
+            
+            **Links in post:** https://twitter.com/saxenism/status/2112713764999250220
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @saxenism — 2026-10-21 01:13 UTC (2026-10-21 02:13 WAT)
+                
+                - URL: https://x.com/saxenism/status/2112713764999250220
+                - Metrics (at fetch): bookmark 15, impression 7209, like 68, quote 1, reply 5, retweet 2
+                
+                > Accepted finding #5 from the @Zcash campaign :)
+                >
+                > This was a bug where two of my most aspirational sub-agents... the "finding-escalator" &amp; "hostile-triager" had an epic back &amp; forth.
+                >
+                > Their battle was one for the books. Hope to release it soon.
+                >
+                > But it's been a helluva fun run. [pic.x.com/BnKO6vKB2a] https://twitter.com/saxenism/status/2112209735986577759
+                
+                **Media:**
+                - photo: https://pbs.twimg.com/media/HVHY3vMaAAAxb0k.jpg — no alt text provided by author
+                
+                **Links in post:** https://twitter.com/saxenism/status/2112209735986577759
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @saxenism — 2026-10-19 15:50 UTC (2026-10-19 16:50 WAT)
+                    
+                    - URL: https://x.com/saxenism/status/2112209735986577759
+                    - Metrics (at fetch): bookmark 9, impression 6227, like 56, quote 1, reply 3, retweet 1
+                    
+                    > Accepted finding #4 (High).
+                    >
+                    > This was an OOM-kill of a critical infra piece for the @Zcash ecosystem.
+                    >
+                    > Love to see maintainers find validating our report a breeze. Easy verifiability of any report is a strict standard we follow at @bluethroat_labs :)
+                    >
+                    > Onwards and upwards 🚀🍻 https://t.co/IATOfjGKAN https://t.co/lIsACG6gMQ
+                    
+                    **Media:**
+                    - photo: https://pbs.twimg.com/media/HVATiHVaQAAj6Z4.jpg — no alt text provided by author
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @saxenism — 2026-10-18 20:23 UTC (2026-10-18 21:23 WAT)
+                        
+                        - URL: https://x.com/saxenism/status/2111915973330808856
+                        - Metrics (at fetch): bookmark 8, impression 6085, like 82, quote 1, reply 7, retweet 4
+                        
+                        > Accepted finding #3. 
+                        >
+                        > Another High-severity issue somewhere in the @Zcash ecosystem is on the way to get patched.
+                        >
+                        > Can't wait to unleash all the write-ups for all these crazy findings from our research over at @bluethroat_labs 🦅 https://t.co/fD8vJrijfD https://t.co/llpO5JgWAM
+                        
+                        **Media:**
+                        - photo: https://pbs.twimg.com/media/HU3L9lqbkAAIwHE.jpg — no alt text provided by author
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @saxenism — 2026-10-17 20:40 UTC (2026-10-17 21:40 WAT)
+                            
+                            - URL: https://x.com/saxenism/status/2111558018311880938
+                            - Metrics (at fetch): bookmark 4, impression 6059, like 44, quote 1, reply 2, retweet 1
+                            
+                            > Somewhere in the @Zcash ecosystem, something just got more secure. https://t.co/cRb3pcX5i9 https://t.co/Ilz84K3GCp
+                            
+                            **Media:**
+                            - photo: https://pbs.twimg.com/media/HU3CQyKbcAAfmIz.jpg — no alt text provided by author
+                            
+                            **Quoted post (full text):**
+                            
+                                #### Quoted post — @saxenism — 2026-10-16 16:37 UTC (2026-10-16 17:37 WAT)
+                                
+                                - URL: https://x.com/saxenism/status/2111134534549086330
+                                - Metrics (at fetch): bookmark 13, impression 5709, like 61, quote 1, reply 3, retweet 3
+                                
+                                > I have been hearing @Zcash is THE thing in web3 now.
+                                >
+                                > Decided to dedicate a week to it.
+                                >
+                                > One of the security advisories that I opened was downgraded from a security vulnerability to a hardening issue.
+                                >
+                                > Still a W.
+                                >
+                                > Many more (accepted ones) coming soon :)
+                                >
+                                > https://t.co/kYEcZPvITo https://t.co/RkNitCNzhb
+                                
+                                **Media:**
+                                - photo: https://pbs.twimg.com/media/HUxBhCmaEAAKIfg.jpg — no alt text provided by author
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+### Thread part 2 — @saxenism — 2026-11-18 10:39 UTC (2026-11-18 11:39 WAT)
+
+- URL: https://x.com/saxenism/status/2123003104950210638
+- Metrics (at fetch): bookmark 4, impression 185, like 6, quote 0, reply 0, repost 0
+
+> Published advisories can be found here:
+>
+> 1. https://github.com/zcash/lightwalletd/security/advisories/GHSA-p4pq-3cf7-45rv
+> 2. https://github.com/zcash/lightwalletd/security/advisories/GHSA-5xg7-x58j-m5vr
+> 3. https://github.com/zcash/lightwalletd/security/advisories/GHSA-xrx5-jc6q-9h8r
+> 4. https://github.com/zcash/lightwalletd/security/advisories/GHSA-8vh8-6jg3-8f5v
+> 5. https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-hj54-2mfv-4xg8
+
+**Links in post:** https://github.com/zcash/lightwalletd/security/advisories/GHSA-p4pq-3cf7-45rv, https://github.com/zcash/lightwalletd/security/advisories/GHSA-5xg7-x58j-m5vr, https://github.com/zcash/lightwalletd/security/advisories/GHSA-xrx5-jc6q-9h8r, https://github.com/zcash/lightwalletd/security/advisories/GHSA-8vh8-6jg3-8f5v, https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-hj54-2mfv-4xg8
+
+
+### Thread part 3 — @saxenism — 2026-11-18 18:37 UTC (2026-11-18 19:37 WAT)
+
+- URL: https://x.com/saxenism/status/2123123374788686258
+- Metrics (at fetch): bookmark 0, impression 21, like 0, quote 0, reply 0, repost 0
+
+> @0xAbix @Zcash @bluethroat_labs Thank you ser 🫡
+
+
+### Thread part 4 — @saxenism — 2026-11-18 18:37 UTC (2026-11-18 19:37 WAT)
+
+- URL: https://x.com/saxenism/status/2123123436151284187
+- Metrics (at fetch): bookmark 0, impression 25, like 1, quote 0, reply 0, repost 0
+
+> @bajpaiharsh244 @Zcash @bluethroat_labs The 🐐 himself!!
+
+
+### Thread part 5 — @saxenism — 2026-11-18 18:37 UTC (2026-11-18 19:37 WAT)
+
+- URL: https://x.com/saxenism/status/2123123497425908169
+- Metrics (at fetch): bookmark 0, impression 13, like 1, quote 0, reply 0, repost 0
+
+> @hugoderby230593 @Zcash @bluethroat_labs Thank you, king!
+
+
+### Thread part 6 — @saxenism — 2026-11-18 18:38 UTC (2026-11-18 19:38 WAT)
+
+- URL: https://x.com/saxenism/status/2123123761876754513
+- Metrics (at fetch): bookmark 0, impression 35, like 1, quote 0, reply 0, repost 0
+
+> @0xaudron @Zcash @bluethroat_labs Thank you ser!! It's a lot of work, but this is the most fun I have had in a long long time XD
+
+
+### Thread part 7 — @saxenism — 2026-11-18 18:39 UTC (2026-11-18 19:39 WAT)
+
+- URL: https://x.com/saxenism/status/2123123955976622445
+- Metrics (at fetch): bookmark 0, impression 16, like 1, quote 0, reply 0, repost 0
+
+> @iamwehi @Zcash @bluethroat_labs Indeed!!
+>
+> Let's start pushing the limits on the product side for Bluethroat as well now!!
+
+
+### Thread part 8 — @saxenism — 2026-11-18 18:40 UTC (2026-11-18 19:40 WAT)
+
+- URL: https://x.com/saxenism/status/2123124081675710756
+- Metrics (at fetch): bookmark 0, impression 18, like 1, quote 0, reply 0, repost 0
+
+> @NancyDahiy_5 @Zcash @bluethroat_labs Thank you for the guidance 🫡
+
+
+### Thread part 9 — @saxenism — 2026-11-18 18:40 UTC (2026-11-18 19:40 WAT)
+
+- URL: https://x.com/saxenism/status/2123124268884283869
+- Metrics (at fetch): bookmark 0, impression 20, like 1, quote 0, reply 0, repost 0
+
+> @yoayush @Zcash @bluethroat_labs 🫡🫡
+
+
+### Thread part 10 — @saxenism — 2026-11-18 18:44 UTC (2026-11-18 19:44 WAT)
+
+- URL: https://x.com/saxenism/status/2123125154528350509
+- Metrics (at fetch): bookmark 0, impression 21, like 1, quote 0, reply 0, repost 0
+
+> @FiroIntern @Zcash @bluethroat_labs 3 in lightwalletd and 1 in Zebra.
+>
+> We have 1 previously published High Severity GHSA from Zebra. You can find it here:
+>
+> https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-9hq5-pfgc-cx5h
+
+**Links in post:** https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-9hq5-pfgc-cx5h
+
+
+---
+
+## 2026-11-18 · Reply · @0xmaues @immunefi @bluethroat_labs Why would I hit you ?
+
+
+Tags (automatic): Platform: Immunefi
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1426596818800967683 — 2026-11-18 01:58 UTC (2026-11-18 02:58 WAT)
+
+- URL: https://x.com/1426596818800967683/status/2122871919355777430
+- Metrics (at fetch): bookmark 0, impression 65, like 1, quote 0, reply 1, retweet 0
+
+> @immunefi @bluethroat_labs @saxenism hite me gng
+
+
+### Post — @saxenism — 2026-11-18 10:27 UTC (2026-11-18 11:27 WAT)
+
+- URL: https://x.com/saxenism/status/2123000176759677069
+- Metrics (at fetch): bookmark 0, impression 15, like 1, quote 0, reply 1, repost 0
+
+> @0xmaues @immunefi @bluethroat_labs Why would I hit you ?
+
+
+---
+
+## 2026-11-12 · Thread · Accepted finding 8 (High) from the @Zcash campaign.
+
+
+### Post — @saxenism — 2026-11-12 10:40 UTC (2026-11-12 11:40 WAT)
+
+- URL: https://x.com/saxenism/status/2120829077829582959
+- Metrics (at fetch): bookmark 12, impression 5145, like 52, quote 1, reply 7, repost 1
+
+> Accepted finding #8 (High) from the @Zcash campaign.
+>
+> This one wasn't a new bug.
+>
+> It came out of reviewing the REMEDIATION of an already-disclosed one.
+>
+> The patch closed the exact path in the original report.
+> The impact was still reachable through a path it didn't account for.
+>
+> A fix tells you what the maintainers think the bug is, not whether the attacker agrees XD
+>
+> Big thanks to the maintainers for engaging deeply and owning it 🫡
+>
+> At @bluethroat_labs, we review the patch as hard as the bug.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HW6ywaCakAAkfw0.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/saxenism/status/2119670604177834285
+
+**Quoted post (full text):**
+
+    #### Quoted post — @saxenism — 2026-11-09 05:57 UTC (2026-11-09 06:57 WAT)
+    
+    - URL: https://x.com/saxenism/status/2119670604177834285
+    - Metrics (at fetch): bookmark 9, impression 4324, like 43, quote 1, reply 4, repost 0
+    
+    > Accepted finding #7 (Moderate) from the @ZCash campaign.
+    >
+    > The root cause was inaccurate threat modelling of the actors involved and relying on what those actors should do instead of what they COULD do.
+    >
+    > At @bluethroat_labs, "Assumptions Break Systems" is an internalised doctrine. [pic.x.com/oAgLNOXF4r] https://twitter.com/saxenism/status/2118554252570427494
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HWqUlTxaAAAdBQC.jpg — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/saxenism/status/2118554252570427494
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @saxenism — 2026-11-06 04:01 UTC (2026-11-06 05:01 WAT)
+        
+        - URL: https://x.com/saxenism/status/2118554252570427494
+        - Metrics (at fetch): bookmark 13, impression 3562, like 46, quote 1, reply 1, repost 1
+        
+        > Accepted finding #6 (High) from the @Zcash campaign.
+        >
+        > Clear thinking and digging deep for reachability is the secret sauce, in my humblest of opinions :)
+        >
+        > Hopefully, I will be sharing many more such wins in the Zcash ecosystem soon 🚀
+        >
+        > In the meantime, grab @bluethroat_labs merch from me at @EFDevcon!!
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/HWacIb9bYAAueQr.jpg — no alt text provided by author
+        
+        **Links in post:** https://twitter.com/saxenism/status/2112713764999250220
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @saxenism — 2026-10-21 01:13 UTC (2026-10-21 02:13 WAT)
+            
+            - URL: https://x.com/saxenism/status/2112713764999250220
+            - Metrics (at fetch): bookmark 15, impression 7209, like 68, quote 1, reply 5, retweet 2
+            
+            > Accepted finding #5 from the @Zcash campaign :)
+            >
+            > This was a bug where two of my most aspirational sub-agents... the "finding-escalator" &amp; "hostile-triager" had an epic back &amp; forth.
+            >
+            > Their battle was one for the books. Hope to release it soon.
+            >
+            > But it's been a helluva fun run. [pic.x.com/BnKO6vKB2a] https://twitter.com/saxenism/status/2112209735986577759
+            
+            **Media:**
+            - photo: https://pbs.twimg.com/media/HVHY3vMaAAAxb0k.jpg — no alt text provided by author
+            
+            **Links in post:** https://twitter.com/saxenism/status/2112209735986577759
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @saxenism — 2026-10-19 15:50 UTC (2026-10-19 16:50 WAT)
+                
+                - URL: https://x.com/saxenism/status/2112209735986577759
+                - Metrics (at fetch): bookmark 9, impression 6227, like 56, quote 1, reply 3, retweet 1
+                
+                > Accepted finding #4 (High).
+                >
+                > This was an OOM-kill of a critical infra piece for the @Zcash ecosystem.
+                >
+                > Love to see maintainers find validating our report a breeze. Easy verifiability of any report is a strict standard we follow at @bluethroat_labs :)
+                >
+                > Onwards and upwards 🚀🍻 https://t.co/IATOfjGKAN https://t.co/lIsACG6gMQ
+                
+                **Media:**
+                - photo: https://pbs.twimg.com/media/HVATiHVaQAAj6Z4.jpg — no alt text provided by author
+                
+                **Quoted post (full text):**
+                
+                    #### Quoted post — @saxenism — 2026-10-18 20:23 UTC (2026-10-18 21:23 WAT)
+                    
+                    - URL: https://x.com/saxenism/status/2111915973330808856
+                    - Metrics (at fetch): bookmark 8, impression 6085, like 82, quote 1, reply 7, retweet 4
+                    
+                    > Accepted finding #3. 
+                    >
+                    > Another High-severity issue somewhere in the @Zcash ecosystem is on the way to get patched.
+                    >
+                    > Can't wait to unleash all the write-ups for all these crazy findings from our research over at @bluethroat_labs 🦅 https://t.co/fD8vJrijfD https://t.co/llpO5JgWAM
+                    
+                    **Media:**
+                    - photo: https://pbs.twimg.com/media/HU3L9lqbkAAIwHE.jpg — no alt text provided by author
+                    
+                    **Quoted post (full text):**
+                    
+                        #### Quoted post — @saxenism — 2026-10-17 20:40 UTC (2026-10-17 21:40 WAT)
+                        
+                        - URL: https://x.com/saxenism/status/2111558018311880938
+                        - Metrics (at fetch): bookmark 4, impression 6059, like 44, quote 1, reply 2, retweet 1
+                        
+                        > Somewhere in the @Zcash ecosystem, something just got more secure. https://t.co/cRb3pcX5i9 https://t.co/Ilz84K3GCp
+                        
+                        **Media:**
+                        - photo: https://pbs.twimg.com/media/HU3CQyKbcAAfmIz.jpg — no alt text provided by author
+                        
+                        **Quoted post (full text):**
+                        
+                            #### Quoted post — @saxenism — 2026-10-16 16:37 UTC (2026-10-16 17:37 WAT)
+                            
+                            - URL: https://x.com/saxenism/status/2111134534549086330
+                            - Metrics (at fetch): bookmark 13, impression 5709, like 61, quote 1, reply 3, retweet 3
+                            
+                            > I have been hearing @Zcash is THE thing in web3 now.
+                            >
+                            > Decided to dedicate a week to it.
+                            >
+                            > One of the security advisories that I opened was downgraded from a security vulnerability to a hardening issue.
+                            >
+                            > Still a W.
+                            >
+                            > Many more (accepted ones) coming soon :)
+                            >
+                            > https://t.co/kYEcZPvITo https://t.co/RkNitCNzhb
+                            
+                            **Media:**
+                            - photo: https://pbs.twimg.com/media/HUxBhCmaEAAKIfg.jpg — no alt text provided by author
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+### Thread part 2 — @saxenism — 2026-11-12 10:58 UTC (2026-11-12 11:58 WAT)
+
+- URL: https://x.com/saxenism/status/2120833489063100854
+- Metrics (at fetch): bookmark 0, impression 42, like 0, quote 0, reply 0, retweet 0
+
+> @0XanderVance @Zcash yep
+
+
+### Thread part 3 — @saxenism — 2026-11-12 12:14 UTC (2026-11-12 13:14 WAT)
+
+- URL: https://x.com/saxenism/status/2120852682835689757
+- Metrics (at fetch): bookmark 0, impression 35, like 1, quote 0, reply 0, retweet 0
+
+> @moulderofweb3 @Zcash Thank you ser. Appreciate the recognition :)
+
+
+### Thread part 4 — @saxenism — 2026-11-12 12:19 UTC (2026-11-12 13:19 WAT)
+
+- URL: https://x.com/saxenism/status/2120853922743283909
+- Metrics (at fetch): bookmark 0, impression 98, like 2, quote 0, reply 0, retweet 0
+
+> @0xrudrapratap @Zcash 👉🏻👈🏻 [pic.x.com/3msyvCoNUM]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HW7JW7IbMAAI14o.jpg — no alt text provided by author
+
+
+### Thread part 5 — @saxenism — 2026-11-13 04:59 UTC (2026-11-13 05:59 WAT)
+
+- URL: https://x.com/saxenism/status/2121105580618363351
+- Metrics (at fetch): bookmark 0, impression 11, like 0, quote 0, reply 0, retweet 0
+
+> @craftsoldier @Zcash 🫡🫡
+
+
+### Thread part 6 — @saxenism — 2026-11-18 10:10 UTC (2026-11-18 11:10 WAT)
+
+- URL: https://x.com/saxenism/status/2122995795146551722
+- Metrics (at fetch): bookmark 0, impression 13, like 0, quote 0, reply 1, repost 0
+
+> @0xdEb0x1 @Zcash For sure. @Zcash maintainers are one of the fairest in web3 in their treatment of white hats :)
+
+
+### Thread part 7 — @saxenism — 2026-11-18 10:11 UTC (2026-11-18 11:11 WAT)
+
+- URL: https://x.com/saxenism/status/2122996063590334928
+- Metrics (at fetch): bookmark 0, impression 13, like 0, quote 0, reply 0, repost 0
+
+> > On the receiving end, a retest written around the impact (can anyone still reach this state?) would have caught it, where replaying the original PoC passes.
+>
+> Much much easier said than done ser.
+>
+> And what you are stating is NOT a test, it's a property that you'll perhaps need to formally verify to ensure safety.
+
+
+---
+
+## 2026-11-18 · Reply · Congrats ser, a Distinguished Paper at CCS is HUGE.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1483511030617497601 — 2026-11-17 20:23 UTC (2026-11-17 21:23 WAT)
+
+- URL: https://x.com/1483511030617497601/status/2122787659345191161
+- Metrics (at fetch): bookmark 7, impression 5639, like 118, quote 3, reply 14, retweet 16
+
+> So proud of our Research team. I think this is definitely one of the best works we've ever published - a fundamental contribution to the understanding of BFT consensus.
+>
+> Happy and thankful to the CCS committee for recognizing the potential impact of this work. [pic.x.com/z7FLeaAyBK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXWoIDfbIAAcV_5.jpg — no alt text provided by author
+
+
+### Post — @saxenism — 2026-11-18 10:02 UTC (2026-11-18 11:02 WAT)
+
+- URL: https://x.com/saxenism/status/2122993967406960667
+- Metrics (at fetch): bookmark 0, impression 108, like 1, quote 0, reply 0, repost 0
+
+> Congrats ser, a Distinguished Paper at CCS is HUGE.
+>
+> Censorship resistance with actual inclusion guarantees is exactly what trading chains need.
+>
+> We do offensive consensus security at @bluethroat_labs, so I always read papers like this asking where the implementation breaks.
+>
+> My guess is the pre-GST window and the accountability layer.
+>
+> What part of this protocol do YOU see as a potential security landmine?
+
+
+---
+
+## 2026-11-18 · Reply · @GalloDaSballo True.
 
 
 **Context — conversation root by another account:**
@@ -29,13 +618,13 @@ _Generated 2026-11-18 from the X API (full-archive search + timeline). Every pos
 > It really is they easy and if you can’t manifest it’s over. [pic.x.com/Og2EbBoup8]
 
 **Media:**
-- media `3_2122379036701892608` (details not returned by the API)
+- photo: https://pbs.twimg.com/media/HXQ0fTFaIAAeu5p.jpg — no alt text provided by author
 
 
 ### Post — @saxenism — 2026-11-18 05:49 UTC (2026-11-18 06:49 WAT)
 
 - URL: https://x.com/saxenism/status/2122930278759059736
-- Metrics (at fetch): bookmark 0, impression 2, like 0, quote 0, reply 0, retweet 0
+- Metrics (at fetch): bookmark 0, impression 23, like 0, quote 0, reply 0, repost 0
 
 > @GalloDaSballo True.
 
@@ -872,203 +1461,6 @@ Tags (automatic): TEE / enclave
 
 ---
 
-## 2026-11-12 · Thread · Accepted finding 8 (High) from the @Zcash campaign.
-
-
-### Post — @saxenism — 2026-11-12 10:40 UTC (2026-11-12 11:40 WAT)
-
-- URL: https://x.com/saxenism/status/2120829077829582959
-- Metrics (at fetch): bookmark 8, impression 2343, like 42, quote 0, reply 5, retweet 1
-
-> Accepted finding #8 (High) from the @Zcash campaign.
->
-> This one wasn't a new bug.
->
-> It came out of reviewing the REMEDIATION of an already-disclosed one.
->
-> The patch closed the exact path in the original report.
-> The impact was still reachable through a path it didn't account for.
->
-> A fix tells you what the maintainers think the bug is, not whether the attacker agrees XD
->
-> Big thanks to the maintainers for engaging deeply and owning it 🫡
->
-> At @bluethroat_labs, we review the patch as hard as the bug.
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HW6ywaCakAAkfw0.png — no alt text provided by author
-
-**Links in post:** https://twitter.com/saxenism/status/2119670604177834285
-
-**Quoted post (full text):**
-
-    #### Quoted post — @saxenism — 2026-11-09 05:57 UTC (2026-11-09 06:57 WAT)
-    
-    - URL: https://x.com/saxenism/status/2119670604177834285
-    - Metrics (at fetch): bookmark 8, impression 1493, like 39, quote 0, reply 4, retweet 0
-    
-    > Accepted finding #7 (Moderate) from the @ZCash campaign.
-    >
-    > The root cause was inaccurate threat modelling of the actors involved and relying on what those actors should do instead of what they COULD do.
-    >
-    > At @bluethroat_labs, "Assumptions Break Systems" is an internalised doctrine. [pic.x.com/oAgLNOXF4r] https://twitter.com/saxenism/status/2118554252570427494
-    
-    **Media:**
-    - photo: https://pbs.twimg.com/media/HWqUlTxaAAAdBQC.jpg — no alt text provided by author
-    
-    **Links in post:** https://twitter.com/saxenism/status/2118554252570427494
-    
-    **Quoted post (full text):**
-    
-        #### Quoted post — @saxenism — 2026-11-06 04:01 UTC (2026-11-06 05:01 WAT)
-        
-        - URL: https://x.com/saxenism/status/2118554252570427494
-        - Metrics (at fetch): bookmark 13, impression 3394, like 46, quote 1, reply 1, retweet 1
-        
-        > Accepted finding #6 (High) from the @Zcash campaign.
-        >
-        > Clear thinking and digging deep for reachability is the secret sauce, in my humblest of opinions :)
-        >
-        > Hopefully, I will be sharing many more such wins in the Zcash ecosystem soon 🚀
-        >
-        > In the meantime, grab @bluethroat_labs merch [pic.x.com/HXgRVKuhyT] https://twitter.com/saxenism/status/2112713764999250220
-        
-        **Media:**
-        - photo: https://pbs.twimg.com/media/HWacIb9bYAAueQr.jpg — no alt text provided by author
-        
-        **Links in post:** https://twitter.com/saxenism/status/2112713764999250220
-        
-        **Quoted post (full text):**
-        
-            #### Quoted post — @saxenism — 2026-10-21 01:13 UTC (2026-10-21 02:13 WAT)
-            
-            - URL: https://x.com/saxenism/status/2112713764999250220
-            - Metrics (at fetch): bookmark 15, impression 7209, like 68, quote 1, reply 5, retweet 2
-            
-            > Accepted finding #5 from the @Zcash campaign :)
-            >
-            > This was a bug where two of my most aspirational sub-agents... the "finding-escalator" &amp; "hostile-triager" had an epic back &amp; forth.
-            >
-            > Their battle was one for the books. Hope to release it soon.
-            >
-            > But it's been a helluva fun run. https://t.co/BnKO6vKB2a https://t.co/6kt9cg3yBN
-            
-            **Media:**
-            - photo: https://pbs.twimg.com/media/HVHY3vMaAAAxb0k.jpg — no alt text provided by author
-            
-            **Quoted post (full text):**
-            
-                #### Quoted post — @saxenism — 2026-10-19 15:50 UTC (2026-10-19 16:50 WAT)
-                
-                - URL: https://x.com/saxenism/status/2112209735986577759
-                - Metrics (at fetch): bookmark 9, impression 6227, like 56, quote 1, reply 3, retweet 1
-                
-                > Accepted finding #4 (High).
-                >
-                > This was an OOM-kill of a critical infra piece for the @Zcash ecosystem.
-                >
-                > Love to see maintainers find validating our report a breeze. Easy verifiability of any report is a strict standard we follow at @bluethroat_labs :)
-                >
-                > Onwards and upwards 🚀🍻 https://t.co/IATOfjGKAN https://t.co/lIsACG6gMQ
-                
-                **Media:**
-                - photo: https://pbs.twimg.com/media/HVATiHVaQAAj6Z4.jpg — no alt text provided by author
-                
-                **Quoted post (full text):**
-                
-                    #### Quoted post — @saxenism — 2026-10-18 20:23 UTC (2026-10-18 21:23 WAT)
-                    
-                    - URL: https://x.com/saxenism/status/2111915973330808856
-                    - Metrics (at fetch): bookmark 8, impression 6085, like 82, quote 1, reply 7, retweet 4
-                    
-                    > Accepted finding #3. 
-                    >
-                    > Another High-severity issue somewhere in the @Zcash ecosystem is on the way to get patched.
-                    >
-                    > Can't wait to unleash all the write-ups for all these crazy findings from our research over at @bluethroat_labs 🦅 https://t.co/fD8vJrijfD https://t.co/llpO5JgWAM
-                    
-                    **Media:**
-                    - photo: https://pbs.twimg.com/media/HU3L9lqbkAAIwHE.jpg — no alt text provided by author
-                    
-                    **Quoted post (full text):**
-                    
-                        #### Quoted post — @saxenism — 2026-10-17 20:40 UTC (2026-10-17 21:40 WAT)
-                        
-                        - URL: https://x.com/saxenism/status/2111558018311880938
-                        - Metrics (at fetch): bookmark 4, impression 6059, like 44, quote 1, reply 2, retweet 1
-                        
-                        > Somewhere in the @Zcash ecosystem, something just got more secure. https://t.co/cRb3pcX5i9 https://t.co/Ilz84K3GCp
-                        
-                        **Media:**
-                        - photo: https://pbs.twimg.com/media/HU3CQyKbcAAfmIz.jpg — no alt text provided by author
-                        
-                        **Quoted post (full text):**
-                        
-                            #### Quoted post — @saxenism — 2026-10-16 16:37 UTC (2026-10-16 17:37 WAT)
-                            
-                            - URL: https://x.com/saxenism/status/2111134534549086330
-                            - Metrics (at fetch): bookmark 13, impression 5709, like 61, quote 1, reply 3, retweet 3
-                            
-                            > I have been hearing @Zcash is THE thing in web3 now.
-                            >
-                            > Decided to dedicate a week to it.
-                            >
-                            > One of the security advisories that I opened was downgraded from a security vulnerability to a hardening issue.
-                            >
-                            > Still a W.
-                            >
-                            > Many more (accepted ones) coming soon :)
-                            >
-                            > https://t.co/kYEcZPvITo https://t.co/RkNitCNzhb
-                            
-                            **Media:**
-                            - photo: https://pbs.twimg.com/media/HUxBhCmaEAAKIfg.jpg — no alt text provided by author
-                            
-                        
-                    
-                
-            
-        
-    
-
-
-### Thread part 2 — @saxenism — 2026-11-12 10:58 UTC (2026-11-12 11:58 WAT)
-
-- URL: https://x.com/saxenism/status/2120833489063100854
-- Metrics (at fetch): bookmark 0, impression 42, like 0, quote 0, reply 0, retweet 0
-
-> @0XanderVance @Zcash yep
-
-
-### Thread part 3 — @saxenism — 2026-11-12 12:14 UTC (2026-11-12 13:14 WAT)
-
-- URL: https://x.com/saxenism/status/2120852682835689757
-- Metrics (at fetch): bookmark 0, impression 35, like 1, quote 0, reply 0, retweet 0
-
-> @moulderofweb3 @Zcash Thank you ser. Appreciate the recognition :)
-
-
-### Thread part 4 — @saxenism — 2026-11-12 12:19 UTC (2026-11-12 13:19 WAT)
-
-- URL: https://x.com/saxenism/status/2120853922743283909
-- Metrics (at fetch): bookmark 0, impression 98, like 2, quote 0, reply 0, retweet 0
-
-> @0xrudrapratap @Zcash 👉🏻👈🏻 [pic.x.com/3msyvCoNUM]
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HW7JW7IbMAAI14o.jpg — no alt text provided by author
-
-
-### Thread part 5 — @saxenism — 2026-11-13 04:59 UTC (2026-11-13 05:59 WAT)
-
-- URL: https://x.com/saxenism/status/2121105580618363351
-- Metrics (at fetch): bookmark 0, impression 11, like 0, quote 0, reply 0, retweet 0
-
-> @craftsoldier @Zcash 🫡🫡
-
-
----
-
 ## 2026-11-12 · Reply · @mert This man's shitposting game needs to be studied
 
 
@@ -1468,7 +1860,7 @@ Tags (automatic): TEE / enclave, AI-assisted hunting
 ### Post — @saxenism — 2026-11-09 05:57 UTC (2026-11-09 06:57 WAT)
 
 - URL: https://x.com/saxenism/status/2119670604177834285
-- Metrics (at fetch): bookmark 8, impression 1493, like 39, quote 0, reply 4, retweet 0
+- Metrics (at fetch): bookmark 9, impression 4324, like 43, quote 1, reply 4, repost 0
 
 > Accepted finding #7 (Moderate) from the @ZCash campaign.
 >
@@ -1486,7 +1878,7 @@ Tags (automatic): TEE / enclave, AI-assisted hunting
     #### Quoted post — @saxenism — 2026-11-06 04:01 UTC (2026-11-06 05:01 WAT)
     
     - URL: https://x.com/saxenism/status/2118554252570427494
-    - Metrics (at fetch): bookmark 13, impression 3394, like 46, quote 1, reply 1, retweet 1
+    - Metrics (at fetch): bookmark 13, impression 3562, like 46, quote 1, reply 1, repost 1
     
     > Accepted finding #6 (High) from the @Zcash campaign.
     >
@@ -1494,7 +1886,7 @@ Tags (automatic): TEE / enclave, AI-assisted hunting
     >
     > Hopefully, I will be sharing many more such wins in the Zcash ecosystem soon 🚀
     >
-    > In the meantime, grab @bluethroat_labs merch [pic.x.com/HXgRVKuhyT] https://twitter.com/saxenism/status/2112713764999250220
+    > In the meantime, grab @bluethroat_labs merch from me at @EFDevcon!!
     
     **Media:**
     - photo: https://pbs.twimg.com/media/HWacIb9bYAAueQr.jpg — no alt text provided by author
@@ -1514,10 +1906,12 @@ Tags (automatic): TEE / enclave, AI-assisted hunting
         >
         > Their battle was one for the books. Hope to release it soon.
         >
-        > But it's been a helluva fun run. https://t.co/BnKO6vKB2a https://t.co/6kt9cg3yBN
+        > But it's been a helluva fun run. [pic.x.com/BnKO6vKB2a] https://twitter.com/saxenism/status/2112209735986577759
         
         **Media:**
         - photo: https://pbs.twimg.com/media/HVHY3vMaAAAxb0k.jpg — no alt text provided by author
+        
+        **Links in post:** https://twitter.com/saxenism/status/2112209735986577759
         
         **Quoted post (full text):**
         
@@ -1841,7 +2235,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @saxenism — 2026-11-06 04:01 UTC (2026-11-06 05:01 WAT)
 
 - URL: https://x.com/saxenism/status/2118554252570427494
-- Metrics (at fetch): bookmark 13, impression 3394, like 46, quote 1, reply 1, retweet 1
+- Metrics (at fetch): bookmark 13, impression 3562, like 46, quote 1, reply 1, repost 1
 
 > Accepted finding #6 (High) from the @Zcash campaign.
 >
@@ -1849,7 +2243,7 @@ Tags (automatic): Platform: Immunefi
 >
 > Hopefully, I will be sharing many more such wins in the Zcash ecosystem soon 🚀
 >
-> In the meantime, grab @bluethroat_labs merch [pic.x.com/HXgRVKuhyT] https://twitter.com/saxenism/status/2112713764999250220
+> In the meantime, grab @bluethroat_labs merch from me at @EFDevcon!!
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HWacIb9bYAAueQr.jpg — no alt text provided by author
@@ -1869,10 +2263,12 @@ Tags (automatic): Platform: Immunefi
     >
     > Their battle was one for the books. Hope to release it soon.
     >
-    > But it's been a helluva fun run. https://t.co/BnKO6vKB2a https://t.co/6kt9cg3yBN
+    > But it's been a helluva fun run. [pic.x.com/BnKO6vKB2a] https://twitter.com/saxenism/status/2112209735986577759
     
     **Media:**
     - photo: https://pbs.twimg.com/media/HVHY3vMaAAAxb0k.jpg — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/saxenism/status/2112209735986577759
     
     **Quoted post (full text):**
     
@@ -2736,12 +3132,14 @@ Tags (automatic): TEE / enclave
 
 > One of our @Zcash advisories has just been published.
 >
-> You can find the report: https://t.co/mez2K3D3v3
+> You can find the report: https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-9hq5-pfgc-cx5h
 >
 > A writeup for this report coming soon at @bluethroat_labs reveries section 🫡🫡 https://t.co/kX20Sq7tLN
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HVP1iLdasAAIP8k.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-9hq5-pfgc-cx5h
 
 
 ---
@@ -2799,10 +3197,12 @@ Tags (automatic): Platform: Immunefi
     >
     > Their battle was one for the books. Hope to release it soon.
     >
-    > But it's been a helluva fun run. https://t.co/BnKO6vKB2a https://t.co/6kt9cg3yBN
+    > But it's been a helluva fun run. [pic.x.com/BnKO6vKB2a] https://twitter.com/saxenism/status/2112209735986577759
     
     **Media:**
     - photo: https://pbs.twimg.com/media/HVHY3vMaAAAxb0k.jpg — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/saxenism/status/2112209735986577759
     
     **Quoted post (full text):**
     
@@ -2897,10 +3297,12 @@ Tags (automatic): AI-assisted hunting
 >
 > Their battle was one for the books. Hope to release it soon.
 >
-> But it's been a helluva fun run. https://t.co/BnKO6vKB2a https://t.co/6kt9cg3yBN
+> But it's been a helluva fun run. [pic.x.com/BnKO6vKB2a] https://twitter.com/saxenism/status/2112209735986577759
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HVHY3vMaAAAxb0k.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/saxenism/status/2112209735986577759
 
 **Quoted post (full text):**
 

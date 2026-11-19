@@ -44,3 +44,9 @@ _Auto-maintained from `harness/findings.jsonl`. 2 finding(s). Full verbatim post
   - post: https://x.com/kankodu/status/1893206310105080058
   - local: `posts/kankodu/ARCHIVE.md`, `data/x_posts.jsonl`
   - bounty: $250,000
+
+
+### Update 2026-11-19
+
+- **Lending-protocol rounding CTF (live until 25 Nov 2026)** — https://x.com/kankodu/status/2123077748591849882 — [`posts/kankodu/2026-11-18-2123077748591849882.md`](../posts/kankodu/2026-11-18-2123077748591849882.md); README [`writeups/kankodu/lending-protocol-ctf-README.md`](../writeups/kankodu/lending-protocol-ctf-README.md).
+  - Bug class: 1-wei rounding in favour of the user in a long-lived pool; lesson: dust-level rounding is dismissed as a known issue unless weaponised (single tx, flash loan, amplification loop) into real profit.

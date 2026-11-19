@@ -1,11 +1,55 @@
 # @0xacb — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 218
-- Conversations/threads: 181
+- Posts in this file: 219
+- Conversations/threads: 182
 - Oldest post captured: 2014-01-05
-- Newest post captured: 2026-11-13
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Post · Nginx2shell 👀 Let's see if it's really 2shell or 2hype https://twitter.com/satoki00/status/212307130
+
+
+### Post — @0xacb — 2026-11-18 15:20 UTC (2026-11-18 16:20 WAT)
+
+- URL: https://x.com/0xacb/status/2123073966890008693
+- Metrics (at fetch): bookmark 3, impression 3279, like 20, quote 0, reply 1, repost 1
+
+> Nginx2shell 👀 Let's see if it's really 2shell or 2hype https://twitter.com/satoki00/status/2123071303657910632
+
+**Links in post:** https://twitter.com/satoki00/status/2123071303657910632
+
+**Quoted post (full text):**
+
+    #### Quoted post — @satoki00 — 2026-11-18 15:10 UTC (2026-11-18 16:10 WAT)
+    
+    - URL: https://x.com/satoki00/status/2123071303657910632
+    - Metrics (at fetch): bookmark 827, impression 550930, like 2230, quote 214, reply 15, repost 1061
+    
+    > 弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸
+    > #NGINX2Shell https://twitter.com/ikotas00/status/2123071157083754677
+    
+    **Links in post:** https://twitter.com/ikotas00/status/2123071157083754677
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @ikotas00 — 2026-11-18 15:09 UTC (2026-11-18 16:09 WAT)
+        
+        - URL: https://x.com/ikotas00/status/2123071157083754677
+        - Metrics (at fetch): bookmark 401, impression 361655, like 1077, quote 161, reply 27, repost 429
+        
+        > We have discovered NGINX2Shell, a pre-auth RCE in NGINX 1.31.8, the current mainline release💥
+        > This one came together in close work with @OpenAI, from discovery all the way through disclosure. Huge thanks to their team. More to come.
+        > #NGINX2Shell [pic.x.com/hK9h7kBL6k]
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/HXap74ubMAEOoym.jpg — no alt text provided by author
+        - photo: https://pbs.twimg.com/media/HXap8_OaMAAlcu3.jpg — no alt text provided by author
+        
+    
 
 
 ---

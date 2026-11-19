@@ -50,3 +50,8 @@ _Auto-maintained from `harness/findings.jsonl`. 4 finding(s). Full verbatim post
 - **tedivm-ai-rcession** (`auth-bypass`)
   - post: https://blog.tedivm.com/rants/2026/10/the-ai-rcession-has-begun/
   - local: `writeups/0xacb/tedivm-ai-rcession.md`
+
+
+### Update 2026-11-19
+
+- **'Nginx2shell — 2shell or 2hype?'** — https://x.com/0xacb/status/2123073966890008693 — [`posts/0xacb/2026-11-18-2123073966890008693.md`](../posts/0xacb/2026-11-18-2123073966890008693.md); quotes https://twitter.com/satoki00/status/2123071303657910632. Writeups saved under `writeups/albinowax/` and `writeups/farazsth98/`.

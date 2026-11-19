@@ -42,3 +42,9 @@ _Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim post
 - **$300k for a trusted internal header** (`Header trust / auth bypass`)
   - post: https://x.com/albinowax/status/2117935178278371560
   - local: `posts/albinowax/2026-11-04-2117935178278371560.md`
+
+
+### Update 2026-11-19
+
+- **NGINX HTTP/2 RCE disclosure → request-smuggling window** — https://x.com/albinowax/status/2123100309065199643 — [`posts/albinowax/2026-11-18-2123100309065199643.md`](../posts/albinowax/2026-11-18-2123100309065199643.md); quoted Wiz thread (nirohfeld) on CVE-2026-123633/123007, full Wiz writeup [`writeups/albinowax/wiz-nginx-http2-rce-cve-2026-123633-123007.md`](../writeups/albinowax/wiz-nginx-http2-rce-cve-2026-123633-123007.md).
+  - Methodology: the mitigation (disable HTTP/2) pushes front-ends back to HTTP/1.1 → re-scan for CL.TE/TE.CL/H2-downgrade desync on hosts whose ALPN dropped `h2`. Takeaway: diff ALPN per host between recon snapshots and queue smuggling scans on changes.

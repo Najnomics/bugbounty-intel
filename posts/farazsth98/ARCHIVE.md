@@ -1,11 +1,96 @@
 # @farazsth98 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 154
-- Conversations/threads: 124
+- Posts in this file: 158
+- Conversations/threads: 126
 - Oldest post captured: 2019-09-30
-- Newest post captured: 2026-11-17
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Thread · @roddux 2root version just uses some unrelated kernel bug lol, kinda a bait but the nginx bugs are n
+
+
+Tags (automatic): Memory corruption / native
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1635620960152829952 — 2026-11-18 15:30 UTC (2026-11-18 16:30 WAT)
+
+- URL: https://x.com/1635620960152829952/status/2123076402509402463
+- Metrics (at fetch): bookmark 3, impression 2052, like 6, quote 0, reply 3, retweet 0
+
+> are we really getting nginx2shell and nginx2root on the same day? lol https://twitter.com/ikotas00/status/2123071157083754677
+
+**Links in post:** https://twitter.com/ikotas00/status/2123071157083754677
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ikotas00 — 2026-11-18 15:09 UTC (2026-11-18 16:09 WAT)
+    
+    - URL: https://x.com/ikotas00/status/2123071157083754677
+    - Metrics (at fetch): bookmark 401, impression 361655, like 1077, quote 161, reply 27, repost 429
+    
+    > We have discovered NGINX2Shell, a pre-auth RCE in NGINX 1.31.8, the current mainline release💥
+    > This one came together in close work with @OpenAI, from discovery all the way through disclosure. Huge thanks to their team. More to come.
+    > #NGINX2Shell [pic.x.com/hK9h7kBL6k]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXap74ubMAEOoym.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HXap8_OaMAAlcu3.jpg — no alt text provided by author
+    
+
+
+### Post — @farazsth98 — 2026-11-18 15:32 UTC (2026-11-18 16:32 WAT)
+
+- URL: https://x.com/farazsth98/status/2123076848880144410
+- Metrics (at fetch): bookmark 0, impression 669, like 2, quote 0, reply 1, repost 0
+
+> @roddux 2root version just uses some unrelated kernel bug lol, kinda a bait but the nginx bugs are neat
+
+
+### Thread part 2 — @farazsth98 — 2026-11-18 15:40 UTC (2026-11-18 16:40 WAT)
+
+- URL: https://x.com/farazsth98/status/2123079017175937283
+- Metrics (at fetch): bookmark 1, impression 184, like 1, quote 0, reply 0, repost 0
+
+> @roddux https://nginx2root.com/ just mentions "a separate SCTP bug" for the root path, not sure if attributed to Xint or not but either way not nginx related afaict
+
+**Links in post:** https://nginx2root.com/
+
+
+---
+
+## 2026-11-18 · Post · What a time to be alive https://twitter.com/ikotas00/status/2123071157083754677
+
+
+### Post — @farazsth98 — 2026-11-18 15:19 UTC (2026-11-18 16:19 WAT)
+
+- URL: https://x.com/farazsth98/status/2123073555340615910
+- Metrics (at fetch): bookmark 1, impression 1034, like 5, quote 0, reply 0, repost 2
+
+> What a time to be alive https://twitter.com/ikotas00/status/2123071157083754677
+
+**Links in post:** https://twitter.com/ikotas00/status/2123071157083754677
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ikotas00 — 2026-11-18 15:09 UTC (2026-11-18 16:09 WAT)
+    
+    - URL: https://x.com/ikotas00/status/2123071157083754677
+    - Metrics (at fetch): bookmark 401, impression 361655, like 1077, quote 161, reply 27, repost 429
+    
+    > We have discovered NGINX2Shell, a pre-auth RCE in NGINX 1.31.8, the current mainline release💥
+    > This one came together in close work with @OpenAI, from discovery all the way through disclosure. Huge thanks to their team. More to come.
+    > #NGINX2Shell [pic.x.com/hK9h7kBL6k]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXap74ubMAEOoym.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HXap8_OaMAAlcu3.jpg — no alt text provided by author
+    
 
 
 ---
@@ -49,6 +134,14 @@ Tags (automatic): Memory corruption / native
 > @brokenpacifist This list is more like "see we weren't affected by this bug from the Linux kernel", which kind of makes sense since its Golang code and the architecture is completely different.
 >
 > I have hopes for some novel sandbox escape still 😅 but the ZDC attack surface is very small..
+
+
+### Thread part 3 — @farazsth98 — 2026-11-18 05:40 UTC (2026-11-18 06:40 WAT)
+
+- URL: https://x.com/farazsth98/status/2122927845878198417
+- Metrics (at fetch): bookmark 0, impression 16, like 0, quote 0, reply 0, repost 0
+
+> @brokenpacifist 🤣now im curious ☠️
 
 
 ---

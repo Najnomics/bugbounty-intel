@@ -1,0 +1,82 @@
+# Account Takeover Guide
+
+- **Source URL:** https://infosecwriteups.com/account-takeover-guide-eaff94d4ffe8?source=rss------bug_bounty-5
+- **Fetched from:** https://web.archive.org/web/20230201161647/https://infosecwriteups.com/account-takeover-guide-eaff94d4ffe8
+- **Fetched:** 2026-11-19
+- **Channel:** @dailybountywriteup
+- **Telegram message:** https://t.me/dailybountywriteup/1586 (id 1586)
+- **Method:** wayback-machine-snapshot readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
+
+---
+# Account Takeover Guide
+
+Hey guys, in this tutorial, I will be sharing my learning about account takeover which I have learned after reading some blogs only on account takeover.
+
+What is Account Takeover vulnerability?
+
+Account takeover is a type of attack that allows an unauthorized user to gain access to someone else account by exploiting any kind of vulnerabilities that exist on that website, and these vulnerabilities are called account takeover vulnerabilities.
+
+Account takeover is also written as ATO in short.
+
+1. Account takeover via IDOR in password reset -
+
+When to Hunt: When user\_id is visible in the POST request.
+
+How to: Just simply change the user\_id from yours to someone else in POST request, if there exists this vulnerability, the password of the victim (the person whose user\_id you have entered) account will get changed.
+
+How can I increase the impact: If this vulnerability exists, try to take over the admin’s account.
+
+Read a detailed blog on this at [https://medium.com/@swapmaurya20/a-simple-idor-to-account-takeover-88b8a1d2ec24](https://medium.com/@swapmaurya20/a-simple-idor-to-account-takeover-88b8a1d2ec24)
+
+2\. Account Takeover via password reset poisoning -
+
+When to hunt: No specific symptoms as per my knowledge
+
+How to: Intercept the password reset request in burp suite, try adding the following headers one by one, and observe the link you got in the email you would have received.
+
+Host: [attacker.com](http://attacker.com/)
+
+Host: [target.com](http://target.com/)
+
+X-Forwarded-Host: [attacker.com](http://attacker.com/)
+
+Host: [target.com](http://target.com/)
+
+Host: [attacker.co](http://attacker.com/)m
+
+
+Note — In many bug bounty programs, this bug is kept out of scope as it requires user interaction, so read the program policy carefully.
+
+Read a detailed blog on this at [https://vbharad.medium.com/account-takeover-through-password-reset-poisoning-72989a8bb8ea](https://vbharad.medium.com/account-takeover-through-password-reset-poisoning-72989a8bb8ea)
+
+3\. Account Takeover via CSRF-
+
+Cross-Site Request Forgery (CSRF) is a type of attack that allows an attacker to execute unwanted actions on a web application on behalf of a user. In the context of an account takeover, a CSRF attack would involve tricking a user into clicking on a link or visiting a website that is controlled by the attacker. The link or website would then make a request to the web application on the user’s behalf, such as changing the user’s password or transferring money from the user’s account.
+
+When to Hunt: Missing anti csrf tokens(sometimes website uses other ways to protect too apart from the csrf tokens)
+
+How to Hunt: Inter the password change request which you should do via your account and then go to the burp suite and create a csrf poc for it, and change the details like username and email to the victim’s account. If this works successfully, you will be able to reset the password using forgot password.
+
+Read a detailed blog on this at [https://infosecwriteups.com/account-takeover-via-csrf-78add8c99526](/account-takeover-via-csrf-78add8c99526)
+
+4\. Account Takeover by broken cryptography -
+
+When to hunt: when you get an instinct that the URL you are getting in your mail for forgot password can be decoded and altered easily.
+
+How to Hunt: Create two account on the website, request a password for account 1 and capture the request in burpsuite and then send it to the intruder and also send it to the server. For now, you would have received an email with a password reset link, try to decode the string. Now, try to make the token for account 2, if you are able to do this, you will be able to reset the password for account 2.
+
+Read a detailed blog on this at [https://vasuyadav0786.medium.com/weak-cryptography-to-account-takeovers-87782224ed0d](https://vasuyadav0786.medium.com/weak-cryptography-to-account-takeovers-87782224ed0d)
+
+5\. Account Takeover by 0auth Misconfiguration -
+
+When to hunt: When having multiple types of authorization
+
+How to Hunt: Go to [https://target.com/signup/](https://badoo.com/en/signup/) and signup using the unregistered victim’s account. After the sometime victim is going to signup using the OAuth method. What happens here is, now the attacker can easily log in using the victim’s account which bypasses the verification methods.
+
+There are some other ways too for account takeover but I have just covered the most common ones, you can read about others on google.
+
+Account Takeover Mindmap: [https://xmind.app/m/M3WEqG/](https://xmind.app/m/M3WEqG/)
+
+Follow me on Twitter -
+
+[https://twitter.com/Dheerajydv19](https://twitter.com/Dheerajydv19)

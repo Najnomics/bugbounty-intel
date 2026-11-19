@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **12930**
+Total distinct URLs: **12942**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -12936,3 +12936,15 @@ Total distinct URLs: **12930**
 | [14987](https://t.me/dailybountywriteup/14987) | 2026-11-17 10:37:48 | How Indirect Prompt Injection in RAG Pipelines Enables Data Exfiltration | https://medium.com/@t4nv1/how-indirect-prompt-injection-in-rag-pipelines-enables-data-exfiltration-40dcfb45f6f0 |
 | [14987](https://t.me/dailybountywriteup/14987) | 2026-11-17 10:37:48 | Google Paid $250,000 for One Chrome Bug Chain. It Took Six Days. | https://medium.com/@zxve/google-paid-250-000-for-one-chrome-bug-chain-it-took-six-days-29afccbee52a |
 | [14988](https://t.me/dailybountywriteup/14988) | 2026-11-17 10:38:07 | Securing the AI Supply Chain: A Hands-On AI-BOM Playbook for Pickle RCE, Poisoned Datasets, and CI Gates - SecurityCipher | https://securitycipher.com/2026/11/17/ai-bom-generation-security-policy-gates |
+| [14989](https://t.me/dailybountywriteup/14989) | 2026-11-18 09:57:07 | One API Request Exposed 14,000+ Email Addresses | https://medium.com/@hackwithabraham/one-api-request-exposed-14-000-email-addresses-182d3a560715 |
+| [14989](https://t.me/dailybountywriteup/14989) | 2026-11-18 09:57:07 | Starbucks Path Traversal | https://masimshahzad.medium.com/starbucks-path-traversal-nearly-100m-customer-records-d64e803acab8 |
+| [14989](https://t.me/dailybountywriteup/14989) | 2026-11-18 09:57:07 | Twitter Privacy Bypass | https://masimshahzad.medium.com/twitter-privacy-bypass-hidden-accounts-found-by-email-3d822e6961aa |
+| [14989](https://t.me/dailybountywriteup/14989) | 2026-11-18 09:57:07 | Facebook OAuth Account Takeover | https://masimshahzad.medium.com/facebook-oauth-account-takeover-the-44-250-redirect-9c6fa5b235ed |
+| [14989](https://t.me/dailybountywriteup/14989) | 2026-11-18 09:57:07 | A04 | https://medium.com/@shrutishinde1319/a04-cryptographic-failures-owasp-top-10-2025-22f8091303d1 |
+| [14989](https://t.me/dailybountywriteup/14989) | 2026-11-18 09:57:07 | Java4Shell (CVE-2026–114938) | https://infosecwriteups.com/java4shell-cve-2026-114938-when-javas-base64-decoder-forgot-how-memory-works-27ce32dd6421 |
+| [14989](https://t.me/dailybountywriteup/14989) | 2026-11-18 09:57:07 | From “Just a User” to Admin | https://medium.com/@impyhacker/from-just-a-user-to-admin-exploiting-a-mass-assignment-flaw-to-take-over-a-production-ai-df18653ddabd |
+| [14989](https://t.me/dailybountywriteup/14989) | 2026-11-18 09:57:07 | The Updater Ran Five Times Before Lunch. Three of Twelve Feeds Sign Anything. | https://meetcyber.net/the-updater-ran-five-times-before-lunch-three-of-twelve-feeds-sign-anything-6959e3e851d1 |
+| [14989](https://t.me/dailybountywriteup/14989) | 2026-11-18 09:57:07 | Java4Shell (CVE-2026‑114938) | https://mhmmuneef.medium.com/java4shell-cve-2026-114938-critical-pre-authentication-rce-in-java-17-21-25-and-27-d1d9e47c4674 |
+| [14989](https://t.me/dailybountywriteup/14989) | 2026-11-18 09:57:07 | When Math.random() Guards the Door | https://medium.com/@t4nv1/when-math-random-guards-the-door-a-66-000-meta-bug-built-on-a-predictable-secret-baa1a329c431 |
+| [14990](https://t.me/dailybountywriteup/14990) | 2026-11-18 09:57:23 | Why GTA 5 Was a Hacker’s Playground — And The Exact Security Architecture GTA 6 Needs - SecurityCipher | https://securitycipher.com/2026/11/18/gta-6-cybersecurity-architecture-p2p-rce-anticheat |
+| [14991](https://t.me/dailybountywriteup/14991) | 2026-11-18 11:21:37 | #cybersecurity #appsec #java #vulnerability #devsecops #penetrationtesting #openjdk #infosec \| Piyush Kumawat | https://lnkd.in/p/gkHHupKr |

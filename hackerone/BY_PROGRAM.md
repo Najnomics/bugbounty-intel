@@ -10209,6 +10209,57 @@
 - [642675](reports/2020/642675.md) Bypass for blind SSRF #281950 and #287496 — infogram — low —  — Server-Side Request Forgery (SSRF)
 - [282518](reports/2024/282518.md) Memory Corruption via Large Pixels — infogram — medium —  — Classic Buffer Overflow
 
+## github (48)
+
+- [1497169](reports/2022/1497169.md) CSRF protection bypass in GitHub Enterprise management console — github — high — $10,000 — Cross-Site Request Forgery (CSRF)
+- [1625652](reports/2022/1625652.md) Delimiter injection in GitHub Actions core.exportVariable — github — medium — $4,617 — Misconfiguration
+- [1637621](reports/2022/1637621.md) Command injection in GitHub Actions ContainerStepHost — github — none — $4,000 — Resource Injection
+- [1593913](reports/2022/1593913.md) [Git Gud] GitHub.com Svnbridge memcached deserialization vulnerability chain leading to Remote Code Execution — github — medium —  — Deserialization of Untrusted Data
+- [1619604](reports/2022/1619604.md) DoS via markdown API from unauthenticated user — github — medium — $4,000 — Uncontrolled Resource Consumption
+- [1690427](reports/2022/1690427.md) Managing Pages  — github — medium —  — Improper Access Control - Generic
+- [1732595](reports/2023/1732595.md) Github app Privilege Escalation to Administrator/Owner of the Organization  — github — high —  — Improper Access Control - Generic
+- [1711938](reports/2023/1711938.md) Github Apps can use Scoped-User-To-Server Tokens to Obtain Full Access to User's Projects in Project V2 GraphQL api — github — high —  — Improper Access Control - Generic
+- [1762025](reports/2023/1762025.md) Improper handling of null bytes in GitHub Actions Runner allows an attacker to set arbitrary environment variables — github — medium —  — Resource Injection
+- [1901040](reports/2023/1901040.md) Authentication bypass on gist.github.com through SSH Certificates — github — high — $10,000 — Improper Access Control - Generic
+- [1938106](reports/2023/1938106.md) Smuggling content in PR with refs/replace in GitHub — github — medium —  — Resource Injection
+- [2017600](reports/2023/2017600.md) Git Reference Ambiguity in GitHub - Commit Smuggling, Account Takeover, and Remote Code Execution — github — medium —  — Resource Injection
+- [1831528](reports/2023/1831528.md) Rogue collaborators and ambiguous branch names in GitHub — github — - —  — Business Logic Errors
+- [2209433](reports/2024/2209433.md) [PATs] Token with Read-Only permissions on Issues able to modify issue comments using content write permission — github — medium —  — Improper Access Control - Generic
+- [2184950](reports/2024/2184950.md) [PATs] Ability to leak comments from issues without ANY "Issues" repo permissions by utilizing "Pull Request" permissions — github — medium —  — Improper Access Control - Generic
+- [2197796](reports/2024/2197796.md) GHES Management console EoP (editor to site admin) — github — high —  — Improper Access Control - Generic
+- [2210179](reports/2024/2210179.md) View Repo and Title of Any Private Check Run — github — medium —  — Insecure Direct Object Reference (IDOR)
+- [2216036](reports/2024/2216036.md) RC Between GitHub's Repo Transfer REST API and updateTeamsRepository GraphQL Mutation Results in Covert and Persistent Admin Access Retention — github — medium —  — Misconfiguration
+- [2197801](reports/2024/2197801.md) Invite tokens have Insufficient entropy in GHES Management Console  — github — medium —  — Use of Insufficiently Random Values
+- [2185545](reports/2024/2185545.md) Persistent Unauthorized Administrative Access on All Organization Repositories via RC in User Conversion to Organization — github — medium —  — Improper Authentication - Generic
+- [2190827](reports/2024/2190827.md) Bypassing Collaborator Restrictions: Retaining Admin Access Post-Repository Transfer — github — medium —  — Improper Access Control - Generic
+- [2246576](reports/2024/2246576.md) Self XSS in  Tag name pattern field /<username>/<reponame>/settings/tag_protection/new  — github — medium —  — Cross-site Scripting (XSS) - Generic
+- [2469713](reports/2024/2469713.md) View private repository NWO of deploy key via internal LFS API — github — medium —  — Improper Access Control - Generic
+- [2484635](reports/2024/2484635.md) GitHub Apps can access suspended installations via scoped user-to-server tokens — github — medium —  — Improper Access Control - Generic
+- [2501036](reports/2024/2501036.md) Access body and title of Internal Repo Issues in Projects — github — medium —  — Information Disclosure
+- [2383092](reports/2024/2383092.md) Source Code and data exfiltration via Github Copilot — github — low —  — Code Injection
+- [2329466](reports/2024/2329466.md) Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in syslog-ng — github — high —  — Command Injection - Generic
+- [2332551](reports/2024/2332551.md) Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via nomad template injection — github — high —  — Command Injection - Generic
+- [2336236](reports/2024/2336236.md) Privilege Escalation to Root SSH Access via Pre-Receive Hook Environment in GitHub Enterprise Server — github — high —  — 
+- [2332623](reports/2024/2332623.md) Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via nomad template injection and audit-forward — github — high —  — Command Injection - Generic
+- [2323292](reports/2024/2323292.md) Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in actions-console — github — high —  — Command Injection - Generic
+- [2329547](reports/2024/2329547.md) Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in collectd — github — high —  — Command Injection - Generic
+- [2357443](reports/2024/2357443.md) RC Between GitHub's Repo Update REST API and updateTeamsRepository GraphQL Mutation Results in Covert and Persistent Admin Access Retention — github — medium —  — Misconfiguration
+- [2325023](reports/2024/2325023.md) Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in ghe-update-check — github — high —  — Command Injection - Generic
+- [2579939](reports/2024/2579939.md) SAML Signature verification bypass allows logging into any user (with specific conditions) — github — critical —  — Improper Access Control - Generic
+- [2505761](reports/2024/2505761.md) Information Leakage via Clicked Link in GitHub Repository (Fingerprinting) — github — medium — $4,000 — Information Disclosure
+- [3290630](reports/2025/3290630.md) Sample report: Denial of service  — github — none —  — LLM06: Sensitive Information Disclosure
+- [3124517](reports/2025/3124517.md) Arbitrary Read of Another Users private repository without Authorization — github — high — $10,000 — Insecure Direct Object Reference (IDOR)
+- [3506183](reports/2026/3506183.md) Missing Access Control in MigrationFile allows attacker to upload files to any Migration — github — high —  — Insecure Direct Object Reference (IDOR)
+- [3522254](reports/2026/3522254.md) PATs without the required scope can leak issues — github — medium —  — Improper Access Control - Generic
+- [3527771](reports/2026/3527771.md) Add labels to arbitrary issues/prs & compromise github actions label checks — github — medium —  — Insecure Direct Object Reference (IDOR)
+- [3560256](reports/2026/3560256.md) Cross-repository IDOR in `/settings/security_analysis/bypass_reviewers` allows unauthorized delegated bypass reviewer modification — github — medium —  — Insecure Direct Object Reference (IDOR)
+- [3713965](reports/2026/3713965.md) Able to bypass authorization logic and gain more access then intended — github — medium —  — 
+- [3588801](reports/2026/3588801.md) OAuth redirect uri validation bypass for :proxima_first_party_sync apps — github — high —  — Open Redirect
+- [3641229](reports/2026/3641229.md) GitHub user to server tokens can create issues in any public repository — github — medium —  — Improper Access Control - Generic
+- [3638909](reports/2026/3638909.md) GitHub scoped user to server tokens can escape their installation — github — high —  — Improper Access Control - Generic
+- [3527788](reports/2026/3527788.md) Add labels to arbitrary issues/prs via Memex Bulk Update to compromise github actions label gating  — github — medium —  — Insecure Direct Object Reference (IDOR)
+- [3882740](reports/2026/3882740.md)  All stored Slack and Teams credentials can be deleted via Management Console CSRF — github — medium —  — Cross-Site Request Forgery (CSRF)
+
 ## cloudflare (48)
 
 - [1478633](reports/2022/1478633.md) HTTP Request Smuggling in Transform Rules using hexadecimal escape sequences in the concat() function — cloudflare — critical — $6,000 — HTTP Request Smuggling
@@ -10259,56 +10310,6 @@
 - [3321406](reports/2026/3321406.md) [Variation of #1554049] 1-Click Chaining of Self-XSS, Cookie Tossing and AntiCSRF Token Prediction leads to auto approval in Access Temp Auth — cloudflare — high —  — 
 - [3423950](reports/2026/3423950.md) [Variation of #3321406] YetAnother 1-Click Chaining of Self-XSS, Cookie Tossing and AntiCSRF Token Prediction leads to auto approval in AccessTempAuth — cloudflare — high —  — Cross-site Scripting (XSS) - Stored
 - [3622877](reports/2026/3622877.md) HTTP Request Smuggling via Unsanitized Hop-by-Hop Headers — cloudflare — high — $1,500 — Improper Access Control - Generic
-
-## github (47)
-
-- [1497169](reports/2022/1497169.md) CSRF protection bypass in GitHub Enterprise management console — github — high — $10,000 — Cross-Site Request Forgery (CSRF)
-- [1625652](reports/2022/1625652.md) Delimiter injection in GitHub Actions core.exportVariable — github — medium — $4,617 — Misconfiguration
-- [1637621](reports/2022/1637621.md) Command injection in GitHub Actions ContainerStepHost — github — none — $4,000 — Resource Injection
-- [1593913](reports/2022/1593913.md) [Git Gud] GitHub.com Svnbridge memcached deserialization vulnerability chain leading to Remote Code Execution — github — medium —  — Deserialization of Untrusted Data
-- [1619604](reports/2022/1619604.md) DoS via markdown API from unauthenticated user — github — medium — $4,000 — Uncontrolled Resource Consumption
-- [1690427](reports/2022/1690427.md) Managing Pages  — github — medium —  — Improper Access Control - Generic
-- [1732595](reports/2023/1732595.md) Github app Privilege Escalation to Administrator/Owner of the Organization  — github — high —  — Improper Access Control - Generic
-- [1711938](reports/2023/1711938.md) Github Apps can use Scoped-User-To-Server Tokens to Obtain Full Access to User's Projects in Project V2 GraphQL api — github — high —  — Improper Access Control - Generic
-- [1762025](reports/2023/1762025.md) Improper handling of null bytes in GitHub Actions Runner allows an attacker to set arbitrary environment variables — github — medium —  — Resource Injection
-- [1901040](reports/2023/1901040.md) Authentication bypass on gist.github.com through SSH Certificates — github — high — $10,000 — Improper Access Control - Generic
-- [1938106](reports/2023/1938106.md) Smuggling content in PR with refs/replace in GitHub — github — medium —  — Resource Injection
-- [2017600](reports/2023/2017600.md) Git Reference Ambiguity in GitHub - Commit Smuggling, Account Takeover, and Remote Code Execution — github — medium —  — Resource Injection
-- [1831528](reports/2023/1831528.md) Rogue collaborators and ambiguous branch names in GitHub — github — - —  — Business Logic Errors
-- [2209433](reports/2024/2209433.md) [PATs] Token with Read-Only permissions on Issues able to modify issue comments using content write permission — github — medium —  — Improper Access Control - Generic
-- [2184950](reports/2024/2184950.md) [PATs] Ability to leak comments from issues without ANY "Issues" repo permissions by utilizing "Pull Request" permissions — github — medium —  — Improper Access Control - Generic
-- [2197796](reports/2024/2197796.md) GHES Management console EoP (editor to site admin) — github — high —  — Improper Access Control - Generic
-- [2210179](reports/2024/2210179.md) View Repo and Title of Any Private Check Run — github — medium —  — Insecure Direct Object Reference (IDOR)
-- [2216036](reports/2024/2216036.md) RC Between GitHub's Repo Transfer REST API and updateTeamsRepository GraphQL Mutation Results in Covert and Persistent Admin Access Retention — github — medium —  — Misconfiguration
-- [2197801](reports/2024/2197801.md) Invite tokens have Insufficient entropy in GHES Management Console  — github — medium —  — Use of Insufficiently Random Values
-- [2185545](reports/2024/2185545.md) Persistent Unauthorized Administrative Access on All Organization Repositories via RC in User Conversion to Organization — github — medium —  — Improper Authentication - Generic
-- [2190827](reports/2024/2190827.md) Bypassing Collaborator Restrictions: Retaining Admin Access Post-Repository Transfer — github — medium —  — Improper Access Control - Generic
-- [2246576](reports/2024/2246576.md) Self XSS in  Tag name pattern field /<username>/<reponame>/settings/tag_protection/new  — github — medium —  — Cross-site Scripting (XSS) - Generic
-- [2469713](reports/2024/2469713.md) View private repository NWO of deploy key via internal LFS API — github — medium —  — Improper Access Control - Generic
-- [2484635](reports/2024/2484635.md) GitHub Apps can access suspended installations via scoped user-to-server tokens — github — medium —  — Improper Access Control - Generic
-- [2501036](reports/2024/2501036.md) Access body and title of Internal Repo Issues in Projects — github — medium —  — Information Disclosure
-- [2383092](reports/2024/2383092.md) Source Code and data exfiltration via Github Copilot — github — low —  — Code Injection
-- [2329466](reports/2024/2329466.md) Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in syslog-ng — github — high —  — Command Injection - Generic
-- [2332551](reports/2024/2332551.md) Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via nomad template injection — github — high —  — Command Injection - Generic
-- [2336236](reports/2024/2336236.md) Privilege Escalation to Root SSH Access via Pre-Receive Hook Environment in GitHub Enterprise Server — github — high —  — 
-- [2332623](reports/2024/2332623.md) Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via nomad template injection and audit-forward — github — high —  — Command Injection - Generic
-- [2323292](reports/2024/2323292.md) Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in actions-console — github — high —  — Command Injection - Generic
-- [2329547](reports/2024/2329547.md) Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in collectd — github — high —  — Command Injection - Generic
-- [2357443](reports/2024/2357443.md) RC Between GitHub's Repo Update REST API and updateTeamsRepository GraphQL Mutation Results in Covert and Persistent Admin Access Retention — github — medium —  — Misconfiguration
-- [2325023](reports/2024/2325023.md) Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in ghe-update-check — github — high —  — Command Injection - Generic
-- [2579939](reports/2024/2579939.md) SAML Signature verification bypass allows logging into any user (with specific conditions) — github — critical —  — Improper Access Control - Generic
-- [2505761](reports/2024/2505761.md) Information Leakage via Clicked Link in GitHub Repository (Fingerprinting) — github — medium — $4,000 — Information Disclosure
-- [3290630](reports/2025/3290630.md) Sample report: Denial of service  — github — none —  — LLM06: Sensitive Information Disclosure
-- [3124517](reports/2025/3124517.md) Arbitrary Read of Another Users private repository without Authorization — github — high — $10,000 — Insecure Direct Object Reference (IDOR)
-- [3506183](reports/2026/3506183.md) Missing Access Control in MigrationFile allows attacker to upload files to any Migration — github — high —  — Insecure Direct Object Reference (IDOR)
-- [3522254](reports/2026/3522254.md) PATs without the required scope can leak issues — github — medium —  — Improper Access Control - Generic
-- [3527771](reports/2026/3527771.md) Add labels to arbitrary issues/prs & compromise github actions label checks — github — medium —  — Insecure Direct Object Reference (IDOR)
-- [3560256](reports/2026/3560256.md) Cross-repository IDOR in `/settings/security_analysis/bypass_reviewers` allows unauthorized delegated bypass reviewer modification — github — medium —  — Insecure Direct Object Reference (IDOR)
-- [3713965](reports/2026/3713965.md) Able to bypass authorization logic and gain more access then intended — github — medium —  — 
-- [3588801](reports/2026/3588801.md) OAuth redirect uri validation bypass for :proxima_first_party_sync apps — github — high —  — Open Redirect
-- [3641229](reports/2026/3641229.md) GitHub user to server tokens can create issues in any public repository — github — medium —  — Improper Access Control - Generic
-- [3638909](reports/2026/3638909.md) GitHub scoped user to server tokens can escape their installation — github — high —  — Improper Access Control - Generic
-- [3527788](reports/2026/3527788.md) Add labels to arbitrary issues/prs via Memex Bulk Update to compromise github actions label gating  — github — medium —  — Insecure Direct Object Reference (IDOR)
 
 ## veris (46)
 
@@ -11658,6 +11659,28 @@
 - [1086850](reports/2021/1086850.md) xmlrpc.php FILE IS enabled it will used for Bruteforce attack and Denial of Service(DoS) — makerdao_bbp — critical — $500 — Uncontrolled Resource Consumption
 - [1002641](reports/2021/1002641.md) SQL Injection leads to retrieve the contents of an entire database.  — makerdao_bbp — critical —  — SQL Injection
 
+## essity (19)
+
+- [3589269](reports/2026/3589269.md) HTTP Request Smuggling — essity — critical —  — HTTP Request Smuggling
+- [3726887](reports/2026/3726887.md) Privilege-relevant fields are clientModify in SAP CDC schema allowing role escalation to Admin — essity — critical —  — Improper Privilege Management
+- [3737516](reports/2026/3737516.md) Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Records) on ████████ — essity — medium —  — Authentication Bypass by Primary Weakness
+- [3584078](reports/2026/3584078.md) ████████ ████████ Server Full Exposure with Database Credentials — essity — critical —  — Information Exposure Through Directory Listing
+- [3793533](reports/2026/3793533.md)  Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ — essity — high —  — Cross-site Scripting (XSS) - Reflected
+- [3765476](reports/2026/3765476.md) Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ████████ — essity — high —  — Missing Authentication for Critical Function
+- [3830771](reports/2026/3830771.md) Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` parameter — essity — high —  — Cross-site Scripting (XSS) - Reflected
+- [3809973](reports/2026/3809973.md) Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) — essity — critical —  — SQL Injection
+- [3839889](reports/2026/3839889.md) 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory — essity — medium —  — Incorrect Permission Assignment for Critical Resource
+- [3839914](reports/2026/3839914.md) Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins — essity — medium —  — Missing Authorization
+- [3873072](reports/2026/3873072.md) Unauthenticated SQL Injection via REST Batch Route Confusion ████████ — essity — critical —  — SQL Injection
+- [3781785](reports/2026/3781785.md) Reflected HTML Injection in ████████ Login Page via infotext/signintext Parameters — essity — high —  — Improper Input Validation
+- [3778282](reports/2026/3778282.md) Critical SQL Injection WDM API (████████) — essity — critical —  — SQL Injection
+- [3729501](reports/2026/3729501.md) Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCHA bypass + no rate limit) — essity — critical —  — Cross-site Scripting (XSS) - Stored
+- [4020767](reports/2026/4020767.md) Unauthenticated API allows reading, writing to and deleting any user's private chat history on ████████ — essity — critical —  — Misconfiguration
+- [3802451](reports/2026/3802451.md) HTML Injection in Contact Form Email Enables Phishing via Legitimate ████████ Infrastructure — essity — medium —  — Improper Output Neutralization for Logs
+- [4071064](reports/2026/4071064.md) Unauthenticated self-registration on ████████ grants full access to internal supplier procurement portal and vendor data — essity — medium —  — Missing Authentication for Critical Function
+- [3840113](reports/2026/3840113.md) Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████████ — essity — critical —  — Information Disclosure
+- [4191812](reports/2026/4191812.md) Unauthenticated arbitrary local file read via ABCpdf on www.████████ — essity — high —  — Path Traversal
+
 ## urbandictionary (18)
 
 - [12964](reports/2014/12964.md) Open URL Redirection — urbandictionary — - —  — Open Redirect
@@ -11741,27 +11764,6 @@
 - [2503113](reports/2024/2503113.md) Reflected XSS of media.indrive.com — indrive — medium —  — Cross-site Scripting (XSS) - Reflected
 - [2125049](reports/2024/2125049.md) Unlimited fake rate to the passenger in city to city, Affected endpoint `/api/v1/reviews/ride/<ID>/driver` — indrive — medium —  — Business Logic Errors
 - [2588329](reports/2024/2588329.md) Change phone number OTP flaw leads to any phone number takeover — indrive — critical — $2,000 — Business Logic Errors
-
-## essity (18)
-
-- [3589269](reports/2026/3589269.md) HTTP Request Smuggling — essity — critical —  — HTTP Request Smuggling
-- [3726887](reports/2026/3726887.md) Privilege-relevant fields are clientModify in SAP CDC schema allowing role escalation to Admin — essity — critical —  — Improper Privilege Management
-- [3737516](reports/2026/3737516.md) Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Records) on ████████ — essity — medium —  — Authentication Bypass by Primary Weakness
-- [3584078](reports/2026/3584078.md) ████████ ████████ Server Full Exposure with Database Credentials — essity — critical —  — Information Exposure Through Directory Listing
-- [3793533](reports/2026/3793533.md)  Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ — essity — high —  — Cross-site Scripting (XSS) - Reflected
-- [3765476](reports/2026/3765476.md) Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ████████ — essity — high —  — Missing Authentication for Critical Function
-- [3830771](reports/2026/3830771.md) Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` parameter — essity — high —  — Cross-site Scripting (XSS) - Reflected
-- [3809973](reports/2026/3809973.md) Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) — essity — critical —  — SQL Injection
-- [3839889](reports/2026/3839889.md) 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory — essity — medium —  — Incorrect Permission Assignment for Critical Resource
-- [3839914](reports/2026/3839914.md) Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins — essity — medium —  — Missing Authorization
-- [3873072](reports/2026/3873072.md) Unauthenticated SQL Injection via REST Batch Route Confusion ████████ — essity — critical —  — SQL Injection
-- [3781785](reports/2026/3781785.md) Reflected HTML Injection in ████████ Login Page via infotext/signintext Parameters — essity — high —  — Improper Input Validation
-- [3778282](reports/2026/3778282.md) Critical SQL Injection WDM API (████████) — essity — critical —  — SQL Injection
-- [3729501](reports/2026/3729501.md) Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCHA bypass + no rate limit) — essity — critical —  — Cross-site Scripting (XSS) - Stored
-- [4020767](reports/2026/4020767.md) Unauthenticated API allows reading, writing to and deleting any user's private chat history on ████████ — essity — critical —  — Misconfiguration
-- [3802451](reports/2026/3802451.md) HTML Injection in Contact Form Email Enables Phishing via Legitimate ████████ Infrastructure — essity — medium —  — Improper Output Neutralization for Logs
-- [4071064](reports/2026/4071064.md) Unauthenticated self-registration on ████████ grants full access to internal supplier procurement portal and vendor data — essity — medium —  — Missing Authentication for Critical Function
-- [3840113](reports/2026/3840113.md) Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████████ — essity — critical —  — Information Disclosure
 
 ## respondly (17)
 

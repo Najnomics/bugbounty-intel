@@ -1,11 +1,59 @@
 # @irsdl — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 613
-- Conversations/threads: 532
+- Posts in this file: 614
+- Conversations/threads: 533
 - Oldest post captured: 2010-05-25
 - Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Reply · @albinowax [pic.x.com/pelJKmsLN7]
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @albinowax — 2026-11-18 17:05 UTC (2026-11-18 18:05 WAT)
+
+- URL: https://x.com/albinowax/status/2123100309065199643
+- Metrics (at fetch): bookmark 74, impression 15602, like 356, quote 2, reply 11, repost 38
+
+> Now everyone is busy turning off HTTP/2, it's a great time to look for HTTP request smuggling bugs! https://twitter.com/nirohfeld/status/2123070394227663006
+
+**Links in post:** https://twitter.com/nirohfeld/status/2123070394227663006
+
+**Quoted post (full text):**
+
+    #### Quoted post — @nirohfeld — 2026-11-18 15:06 UTC (2026-11-18 16:06 WAT)
+    
+    - URL: https://x.com/nirohfeld/status/2123070394227663006
+    - Metrics (at fetch): bookmark 905, impression 313407, like 1809, quote 110, reply 42, repost 362
+    
+    > Today we disclose CVE-2026-123633 and CVE-2026-123007 (CVSS 4.0: 9.2) - exploitable memory corruptions in NGINX 
+    >
+    > We achieved reliable remote code execution (ASLR defeated) on NGINX serving static files - no backend or third-party modules 🤯
+    >
+    > Both require HTTP/2
+    >
+    > Read more 🧵⬇️ [pic.x.com/jqjvFkeZtL]
+    
+    **Media:**
+    - video: https://pbs.twimg.com/amplify_video_thumb/2123057413188206593/img/HIJAiqNZyUGLs-Ye.jpg — no alt text provided by author
+    - video: https://pbs.twimg.com/amplify_video_thumb/2123057427062919169/img/jznPoGtyPPQQFvQI.jpg — no alt text provided by author
+    
+
+
+### Post — @irsdl — 2026-11-18 17:07 UTC (2026-11-18 18:07 WAT)
+
+- URL: https://x.com/irsdl/status/2123100804844556546
+- Metrics (at fetch): bookmark 0, impression 486, like 0, quote 0, reply 0, repost 0
+
+> @albinowax [pic.x.com/pelJKmsLN7]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/HXbE7NwW8AARoXy.jpg — no alt text provided by author
 
 
 ---

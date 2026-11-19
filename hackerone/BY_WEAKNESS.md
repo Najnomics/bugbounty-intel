@@ -1,4 +1,4 @@
-# HackerOne disclosed reports by weakness (12761 reports)
+# HackerOne disclosed reports by weakness (12763 reports)
 
 
 ## Unspecified (1279)
@@ -6847,7 +6847,7 @@
 - [4100259](reports/2026/4100259.md) Stored XSS in the Classic block element path — wordpress — none —  — Cross-site Scripting (XSS) - Stored
 - [4175245](reports/2026/4175245.md) Cross-account stored XSS on app.basecamp.com leads to persistent administrator takeover — basecamp — high —  — Cross-site Scripting (XSS) - Stored
 
-## Cross-Site Request Forgery (CSRF) (422)
+## Cross-Site Request Forgery (CSRF) (423)
 
 - [1497169](reports/2022/1497169.md) CSRF protection bypass in GitHub Enterprise management console — github — high — $10,000 — Cross-Site Request Forgery (CSRF)
 - [2326194](reports/2024/2326194.md) Argo CD CSRF leads to Kubernetes cluster compromise — ibb — high — $4,660 — Cross-Site Request Forgery (CSRF)
@@ -7271,6 +7271,7 @@
 - [3367292](reports/2025/3367292.md) CSRF allowing unauthorized modification of user Notes on ███████ — tucows_vdp — low —  — Cross-Site Request Forgery (CSRF)
 - [3781691](reports/2026/3781691.md) CSRF in zone‑include.php allows unauthorized banner and campaign linking — revive_adserver — medium —  — Cross-Site Request Forgery (CSRF)
 - [3981932](reports/2026/3981932.md) CSRF in tracker invocation page — revive_adserver — medium —  — Cross-Site Request Forgery (CSRF)
+- [3882740](reports/2026/3882740.md)  All stored Slack and Teams credentials can be deleted via Management Console CSRF — github — medium —  — Cross-Site Request Forgery (CSRF)
 
 ## Privilege Escalation (375)
 
@@ -9430,6 +9431,242 @@
 - [3623149](reports/2026/3623149.md) SSRF via User-Controlled Push proxyServer in Notifications Push Registration — nextcloud — medium —  — Server-Side Request Forgery (SSRF)
 - [4129950](reports/2026/4129950.md) IDN decoding inserts authority delimiters and can redirect proxy CONNECT to a different host — curl — high —  — Server-Side Request Forgery (SSRF)
 
+## Path Traversal (233)
+
+- [1439593](reports/2022/1439593.md) Arbitrary file read  via the bulk imports UploadsPipeline — gitlab — critical — $29,000 — Path Traversal
+- [827052](reports/2020/827052.md) Arbitrary file read via the UploadsRewriter when moving and issue — gitlab — critical — $20,000 — Path Traversal
+- [1132378](reports/2021/1132378.md) Arbitrary file read during project import — gitlab — critical — $16,000 — Path Traversal
+- [822262](reports/2022/822262.md) Path traversal in Nuget Package Registry — gitlab — high — $12,000 — Path Traversal
+- [3962925](reports/2026/3962925.md) Launchpad file read leaks production keys — basecamp — critical — $9,337 — Path Traversal
+- [2995025](reports/2025/2995025.md) Mozilla VPN Clients: RCE via file write and path traversal — mozilla — high — $6,000 — Path Traversal
+- [3712279](reports/2026/3712279.md) Burp Suite Professional: browser-powered crawl can write attacker-controlled files through file input handling — portswigger — high — $5,000 — Path Traversal
+- [1394916](reports/2021/1394916.md) Path traversal and file disclosure vulnerability in Apache HTTP Server 2.4.49 — ibb — critical — $4,000 — Path Traversal
+- [1378889](reports/2022/1378889.md) [Android] Directory traversal leading to disclosure of auth tokens — slack — high — $3,500 — Path Traversal
+- [2256167](reports/2024/2256167.md) Path traversal through path stored in Uint8Array in Node.js 20 — ibb — high — $3,495 — Path Traversal
+- [2434811](reports/2024/2434811.md) Path traversal by monkey-patching Buffer internals — ibb — high — $2,430 — Path Traversal
+- [2225660](reports/2023/2225660.md) Permission model improperly protects against path traversal in Node.js 20 — ibb — high — $2,330 — Path Traversal
+- [301432](reports/2018/301432.md) GitLab CI runner can read and poison cache of all other projects — gitlab — critical — $2,000 — Path Traversal
+- [307808](reports/2018/307808.md) Path Traversal on Default Installed Rails Application (Asset Pipeline) — rails — medium — $1,500 — Path Traversal
+- [682774](reports/2019/682774.md) Arbitrary file creation with semi-controlled content (leads to DoS, EoP and others) at Steam Windows Client — valve — medium — $1,250 — Path Traversal
+- [1302155](reports/2023/1302155.md) Arbitrary read of all SVG files on a Nextcloud server — nextcloud — high — $1,250 — Path Traversal
+- [1650273](reports/2022/1650273.md) Off-by-slash vulnerability in nodejs.org and iojs.org — ibb — medium — $1,200 — Path Traversal
+- [243156](reports/2017/243156.md) Installing a crafted gem package may create or overwrite files — rubygems — high — $1,000 — Path Traversal
+- [519220](reports/2020/519220.md) File writing by Directory traversal at actionpack-page_caching and RCE by it — rails — high — $1,000 — Path Traversal
+- [1400238](reports/2021/1400238.md) Path Traversal and Remote Code Execution in Apache HTTP Server 2.4.49 and 2.4.50 (incomplete fix of CVE-2021-41773) (CVE-2021-42013) — ibb — critical — $1,000 — Path Traversal
+- [1415820](reports/2021/1415820.md) Zero day path traversal vulnerability in Grafana 8.x allows unauthenticated arbitrary local file read — aiven_ltd — high — $1,000 — Path Traversal
+- [4000535](reports/2026/4000535.md) Burp Community OpenAPI site-map action reads a local schema example through $id rebasing — portswigger — medium — $1,000 — Path Traversal
+- [1050231](reports/2021/1050231.md) Path Traversal в iOS приложении — vkcom — high — $700 — Path Traversal
+- [2070212](reports/2023/2070212.md) Apache Airflow path traversal by authenticated user — ibb — low — $540 — Path Traversal
+- [411519](reports/2018/411519.md) DNS SRV lookup of file:// sources enables local hijacking of gems — rubygems — high — $500 — Path Traversal
+- [317321](reports/2019/317321.md) Delete directory using symlink when decompressing tar — rubygems — medium — $500 — Path Traversal
+- [492512](reports/2019/492512.md) [bower] Arbitrary File Write through improper validation of symlinks while package extraction — ibb — high — $500 — Path Traversal
+- [859469](reports/2020/859469.md) Path traversal in ZIP extract routine on LINE Android — line — medium — $475 — Path Traversal
+- [590319](reports/2020/590319.md) Linux client is vulnerable to directory traversal when downloading files — nextcloud — medium — $250 — Path Traversal
+- [1408692](reports/2022/1408692.md) Access to arbitrary file of the Nextcloud Android app from within the Nextcloud Android app — nextcloud — low — $250 — Path Traversal
+- [1635321](reports/2022/1635321.md) Fix : (Security) Mitigate Path Traversal Bug — hyperledger — low — $200 — Path Traversal
+- [3485343](reports/2026/3485343.md) jitsi-call-analytics: Unauthenticated arbitrary file write via path traversal in `/api/v1/uploads/analyze` — 8x8-bounty — low — $100 — Path Traversal
+- [1650270](reports/2023/1650270.md) GitHub Security Lab (GHSL) Vulnerability Report: Insufficient path validation in ReceiveExternalFilesActivity.java (GHSL-2022-060) — owncloud — low — $50 — Path Traversal
+- [73480](reports/2016/73480.md) Arbritrary file Upload on AirMax — ui — - —  — Path Traversal
+- [225495](reports/2017/225495.md) full path disclosure at hosted.weblate.org/admin/accounts/profile/  — weblate — medium —  — Path Traversal
+- [254200](reports/2017/254200.md) Escaping images directory in S3 bucket when saving new avatar, using Path Traversal in filename — unikrn — medium —  — Path Traversal
+- [260420](reports/2017/260420.md) [dev-nightly.ubnt.com] Local File Reading — ui — high —  — Path Traversal
+- [229622](reports/2017/229622.md) Directory traversal at https://nightly.ubnt.com — ui — high —  — Path Traversal
+- [296254](reports/2018/296254.md) [serve-here] Static Web Server Directory Traversal via Crafted GET Request — nodejs-ecosystem — medium —  — Path Traversal
+- [296305](reports/2018/296305.md) [featurebook] Specification Server Directory Traversal via Crafted Browser Request — nodejs-ecosystem — medium —  — Path Traversal
+- [296645](reports/2018/296645.md) [lactate] Static Web Server Directory Traversal via Crafted GET Request — nodejs-ecosystem — medium —  — Path Traversal
+- [296282](reports/2018/296282.md) [augustine] Static Web Server Directory Traversal via Crafted GET Request — nodejs-ecosystem — medium —  — Path Traversal
+- [307666](reports/2018/307666.md) [serve] Directory index of arbitrary folder available due to lack of sanitization of %2e and %2f characters in url — nodejs-ecosystem — critical —  — Path Traversal
+- [312918](reports/2018/312918.md) [public] Path Traversal allows to read content of arbitrary files — nodejs-ecosystem — high —  — Path Traversal
+- [315760](reports/2018/315760.md) Path Traversal on Resolve-Path — nodejs-ecosystem — high —  — Path Traversal
+- [312889](reports/2018/312889.md) [localhost-now] Path Traversal allows to read content of arbitrary file — nodejs-ecosystem — high —  — Path Traversal
+- [311216](reports/2018/311216.md) [626] Path Traversal allows to read arbitrary file from remote server — nodejs-ecosystem — high —  — Path Traversal
+- [311218](reports/2018/311218.md) [hekto] Path Traversal vulnerability allows to read content of arbitrary files — nodejs-ecosystem — high —  — Path Traversal
+- [309120](reports/2018/309120.md) [angular-http-server] Path Traversal in angular-http-server.js allows to read arbitrary file from the remote server — nodejs-ecosystem — high —  — Path Traversal
+- [310106](reports/2018/310106.md) [glance] Path Traversal in glance static file server allows to read content of arbitrary file — nodejs-ecosystem — high —  — Path Traversal
+- [319003](reports/2018/319003.md) [stattic] Inproper path validation leads to Path Traversal and allows to read arbitrary files with any extension(s) — nodejs-ecosystem — high —  — Path Traversal
+- [309124](reports/2018/309124.md) [node-srv] Path Traversal allows to read arbitrary files from remote server — nodejs-ecosystem — high —  — Path Traversal
+- [310943](reports/2018/310943.md) [general-file-server] Path Traversal vulnerability allows to read content on arbitrary file on the server — nodejs-ecosystem — high —  — Path Traversal
+- [270068](reports/2018/270068.md) Installer can modify other gems if gem name is specially crafted — rubygems — medium —  — Path Traversal
+- [310690](reports/2018/310690.md) [crud-file-server] Path Traversal allows to read arbitrary file from the server — nodejs-ecosystem — medium —  — Path Traversal
+- [312907](reports/2018/312907.md) [mcstatic] Path Traversal allows to read content of arbitrary files — nodejs-ecosystem — high —  — Path Traversal
+- [330349](reports/2018/330349.md) [angular-http-server] Server Directory Traversal — nodejs-ecosystem — high —  — Path Traversal
+- [319951](reports/2018/319951.md) `superstatic` is vulnerable to path traversal on Windows — nodejs-ecosystem — high —  — Path Traversal
+- [288298](reports/2018/288298.md) LFI in pChart php library — valve — high —  — Path Traversal
+- [329837](reports/2018/329837.md) Bypass to defective fix of Path Traversal  — nodejs-ecosystem — high —  — Path Traversal
+- [306607](reports/2018/306607.md) [html-pages] Path Traversal in html-pages module allows to read any file from the server with curl — nodejs-ecosystem — critical —  — Path Traversal
+- [334837](reports/2018/334837.md) [localhost-now] bypassing url filter which leads to read content of arbitrary file — nodejs-ecosystem — high —  — Path Traversal
+- [343726](reports/2018/343726.md) Unrestricted file upload (RCE) — nodejs-ecosystem — critical —  — Path Traversal
+- [333306](reports/2018/333306.md) Directory traversal at https://msg.algolia.com — algolia — medium —  — Path Traversal
+- [330285](reports/2018/330285.md) [mcstatic] Server Directory Traversal — nodejs-ecosystem — high —  — Path Traversal
+- [310671](reports/2018/310671.md) [file-static-server] Path Traversal allows to read content of arbitrary file on the server — nodejs-ecosystem — low —  — Path Traversal
+- [358112](reports/2018/358112.md) [buttle] Path traversal in mid-buttle module allows to read any file in the server. — nodejs-ecosystem — critical —  — Path Traversal
+- [358645](reports/2018/358645.md) [serve] Server Directory Traversal — nodejs-ecosystem — critical —  — Path Traversal
+- [329770](reports/2018/329770.md) UniFi Video Server web interface Configuration Restore path traversal leading to local system compromise — ui — critical —  — Path Traversal
+- [342066](reports/2018/342066.md) [bruteser] Path Traversal allows to read content of arbitrary file — nodejs-ecosystem — medium —  — Path Traversal
+- [319795](reports/2018/319795.md) [m-server] Path Traversal allows to display content of arbitrary file(s) from the server — nodejs-ecosystem — medium —  — Path Traversal
+- [383112](reports/2018/383112.md) [ponse] Path traversal in ponse module allows to read any file on server — nodejs-ecosystem — high —  — Path Traversal
+- [360727](reports/2018/360727.md) [markdown-pdf] Local file reading — nodejs-ecosystem — medium —  — Path Traversal
+- [362119](reports/2018/362119.md) Arbitrary File Write through archive extraction — nodejs-ecosystem — high —  — Path Traversal
+- [291878](reports/2018/291878.md) Arbitrary file deletion in wp-core - guides towards RCE and information disclosure — wordpress — critical —  — Path Traversal
+- [357109](reports/2018/357109.md) [simplehttpserver] List any file in the folder by using path traversal. — nodejs-ecosystem — high —  — Path Traversal
+- [384939](reports/2018/384939.md) http-live-simulator npm module is prone to path traversal attacks — nodejs-ecosystem — high —  — Path Traversal
+- [403707](reports/2018/403707.md) [knightjs] Path Traversal allows to read content of arbitrary files — nodejs-ecosystem — high —  — Path Traversal
+- [403736](reports/2018/403736.md) [takeapeek] Path traversal allow to expose directory and files — nodejs-ecosystem — high —  — Path Traversal
+- [129641](reports/2018/129641.md) UniFi Video Server - Arbitrary file upload as SYSTEM — ui — high —  — Path Traversal
+- [403703](reports/2018/403703.md) List any file in the folder by using path traversal — nodejs-ecosystem — medium —  — Path Traversal
+- [435457](reports/2018/435457.md) Ability to login to the Nexus Repo Manager from https://nexus.imgur.com/  — imgur — medium —  — Path Traversal
+- [411405](reports/2018/411405.md) [http-live-simulator] Path traversal vulnerability — nodejs-ecosystem — high —  — Path Traversal
+- [270072](reports/2018/270072.md) Unpacker improperly validates symlinks, allowing gems writes to arbitrary locations — rubygems — medium —  — Path Traversal
+- [473811](reports/2019/473811.md) [bower] Arbitrary File Write through improper validation of symlinks while package extraction — nodejs-ecosystem — high —  — Path Traversal
+- [355456](reports/2019/355456.md) [statics-server] Path Traversal due to lack of provided path sanitization — nodejs-ecosystem — medium —  — Path Traversal
+- [355501](reports/2019/355501.md) [servey] Path Traversal allows to retrieve content of any file with extension from remote server — nodejs-ecosystem — medium —  — Path Traversal
+- [530289](reports/2019/530289.md) [harp] Path traversal using symlink — nodejs-ecosystem — medium —  — Path Traversal
+- [569966](reports/2019/569966.md) [serve-here.js] List any file in the folder by using path traversal. — nodejs-ecosystem — high —  — Path Traversal
+- [538938](reports/2019/538938.md) [domokeeper] Unintended Require — nodejs-ecosystem — medium —  — Path Traversal
+- [570133](reports/2019/570133.md) [http-file-server] List any files and sub folders in the folder by using path traversal. — nodejs-ecosystem — high —  — Path Traversal
+- [570035](reports/2019/570035.md) [statichttpserver] List any file in the folder by using path traversal. — nodejs-ecosystem — high —  — Path Traversal
+- [593911](reports/2019/593911.md) [public] Path traversal using symlink — nodejs-ecosystem — medium —  — Path Traversal
+- [622864](reports/2019/622864.md) https://█████████ Vulnerable to CVE-2018-0296 Cisco ASA Path Traversal Authentication Bypass — deptofdefense — high —  — Path Traversal
+- [497771](reports/2019/497771.md) [Critical] Full local fylesystem access (LFI/LFD) as admin via Path Traversal in the misconfigured Java servlet on the https://███/ — deptofdefense — high —  — Path Traversal
+- [217344](reports/2019/217344.md) Path traversal on ████████ — deptofdefense — high —  — Path Traversal
+- [695416](reports/2019/695416.md) Path traversal using symlink — nodejs-ecosystem — high —  — Path Traversal
+- [671857](reports/2019/671857.md) [CVE-2019-11510 ] Path Traversal on ████████ leads to leaked passwords, RCE, etc — deptofdefense — critical —  — Path Traversal
+- [677955](reports/2019/677955.md) `indexFile` option passed as an argument to node-server can lead to arbitrary file read — nodejs-ecosystem — low —  — Path Traversal
+- [692262](reports/2019/692262.md) Path traversal in https://www.npmjs.com/package/http_server via symlink — nodejs-ecosystem — medium —  — Path Traversal
+- [402473](reports/2019/402473.md) Arbitrary File Download as Shopmanager — automattic — high —  — Path Traversal
+- [509697](reports/2020/509697.md) [md-fileserver] Path Traversal — nodejs-ecosystem — high —  — Path Traversal
+- [507310](reports/2020/507310.md) [deliver-or-else] Path Traversal — nodejs-ecosystem — high —  — Path Traversal
+- [730239](reports/2020/730239.md) Filesystem Writes via `yarn install` via symlinks and tar transforms inside a crafted malicious package — nodejs-ecosystem — medium —  — Path Traversal
+- [316713](reports/2020/316713.md) Ad Builder Display Ads Path Traversal — semrush — medium —  — Path Traversal
+- [765291](reports/2020/765291.md) Remote code execution via path traversal in Zip extraction in the Extract app — nextcloud — high —  — Path Traversal
+- [780021](reports/2020/780021.md) Korea - LFI via path traversal at https://msr.istarbucks.co.kr:6443/appif/ — starbucks — critical —  — Path Traversal
+- [330051](reports/2020/330051.md) UniFi Video Server web interface admin user Firmware Update path traversal leading to local system compromise — ui — high —  — Path Traversal
+- [748765](reports/2020/748765.md) [Total.js] Path traversal vulnerability allows to read files outside public directory — nodejs-ecosystem — medium —  — Path Traversal
+- [844067](reports/2020/844067.md) Korea - LFI Server directory traversal at starbucks.co.kr — starbucks — high —  — Path Traversal
+- [492767](reports/2020/492767.md) [https://███] Local File Inclusion via graph.php — deptofdefense — medium —  — Path Traversal
+- [686343](reports/2020/686343.md) [██████████] — Directory traversal via `/aerosol-bin/███████/display_directory_████_t.cgi` — deptofdefense — medium —  — Path Traversal
+- [637840](reports/2020/637840.md) Path traversal in command line client — mariadb — medium —  — Path Traversal
+- [436928](reports/2020/436928.md) RCE as Admin defeats WordPress hardening and file permissions — wordpress — critical —  — Path Traversal
+- [876295](reports/2020/876295.md) Misuse of an authentication cookie combined with a path traversal on app.starbucks.com permitted access to restricted data — starbucks — critical —  — Path Traversal
+- [820224](reports/2020/820224.md) [sapper] Path Traversal — nodejs-ecosystem — high —  — Path Traversal
+- [727727](reports/2020/727727.md) Path traversal in filename in LINE Mac client — line — high —  — Path Traversal
+- [940384](reports/2020/940384.md) https://█████ is vulnerable to CVE-2020-3452 Read-Only Path Traversal Vulnerability — deptofdefense — high —  — Path Traversal
+- [936399](reports/2020/936399.md) Path traversal on https://███ allows arbitrary file read (CVE-2020-3452) — deptofdefense — high —  — Path Traversal
+- [869888](reports/2020/869888.md) Path Traversal in App Proxy — shopify — medium —  — Path Traversal
+- [569891](reports/2020/569891.md) [min-http-server] List any file in the folder by using path traversal. — nodejs-ecosystem — high —  — Path Traversal
+- [790623](reports/2020/790623.md) [sirloin] Web Server Directory Traversal via Crafted GET Request — nodejs-ecosystem — high —  — Path Traversal
+- [790873](reports/2020/790873.md) [hangersteak] Web Server Directory Traversal via Crafted GET Request — nodejs-ecosystem — high —  — Path Traversal
+- [581939](reports/2020/581939.md) [static-server-gx] Path Traversal allowing to read any files on the server — nodejs-ecosystem — high —  — Path Traversal
+- [951508](reports/2020/951508.md) CVE-2020-3452, unauthenticated file read in Cisco ASA & Cisco Firepower. — deptofdefense — high —  — Path Traversal
+- [959187](reports/2020/959187.md) ███ is vulnerable to CVE-2020-3452 Read-Only Path Traversal Vulnerability — deptofdefense — high —  — Path Traversal
+- [960330](reports/2020/960330.md) CVE-2020-3187 - Unauthenticated Arbitrary File Deletion — deptofdefense — critical —  — Path Traversal
+- [579517](reports/2020/579517.md) [hnzserver] Path Traversal allowing to read any files on the server — nodejs-ecosystem — high —  — Path Traversal
+- [579523](reports/2020/579523.md) [http_server] Path Traversal allowing to read any files on the server — nodejs-ecosystem — high —  — Path Traversal
+- [978335](reports/2020/978335.md) Unauthenticated Arbitrary File Deletion ("CVE-2020-3187") in ████████ — deptofdefense — critical —  — Path Traversal
+- [850775](reports/2020/850775.md) Windows only: arbitrary file read vulnerability in openssl s_server — ibb — medium —  — Path Traversal
+- [943717](reports/2020/943717.md) [██████████.mil] Cisco VPN Service Path Traversal — deptofdefense — high —  — Path Traversal
+- [951530](reports/2020/951530.md) [CVE-2020-3452] Unauthenticated file read in Cisco ASA — deptofdefense — high —  — Path Traversal
+- [993975](reports/2020/993975.md) [zenn-cli] Path traversal on Windows allows the attacker to read arbitrary .md files — nodejs-ecosystem — low —  — Path Traversal
+- [797159](reports/2020/797159.md) PHP builded for Windows with TS support does not resolve relalative paths with drive letter correctly — ibb — medium —  — Path Traversal
+- [772509](reports/2020/772509.md) [node-downloader-helper] Path traversal via Content-Disposition header — nodejs-ecosystem — medium —  — Path Traversal
+- [1026265](reports/2020/1026265.md) Unauthenticated Arbitrary File Deletion "CVE-2020-3187" in █████ — deptofdefense — critical —  — Path Traversal
+- [1007799](reports/2020/1007799.md) Local File Inclusion In Registration Page — deptofdefense — high —  — Path Traversal
+- [962908](reports/2021/962908.md) Read-only path traversal (CVE-2020-3452)  at https://██████.mil — deptofdefense — high —  — Path Traversal
+- [960082](reports/2021/960082.md) Read-only path traversal (CVE-2020-3452)  at https://█████ — deptofdefense — high —  — Path Traversal
+- [959679](reports/2021/959679.md) Read-only path traversal (CVE-2020-3452)  at https://████████ — deptofdefense — high —  — Path Traversal
+- [1131465](reports/2021/1131465.md) Path traversal in Tempfile on windows OS due to unsanitized backslashes — ruby — medium —  — Path Traversal
+- [1137321](reports/2021/1137321.md) Path Traversal - [ CVE-2020-3452 ] — deptofdefense — high —  — Path Traversal
+- [998925](reports/2021/998925.md) https://████ is vulnerable to cve-2020-3452 — deptofdefense — critical —  — Path Traversal
+- [924407](reports/2021/924407.md) Local File Disclosure /Delete On [us-az-vpn.acronis.com] — acronis — medium —  — Path Traversal
+- [1070247](reports/2021/1070247.md) Git flag injection leads to arbitrary file write — phabricator — high —  — Path Traversal
+- [1257100](reports/2021/1257100.md) CVE-2020-3452 - unauthenticated file read on anyconnect.routematch.com — uber — medium —  — Path Traversal
+- [1280188](reports/2021/1280188.md) https://██████/ Vulnerable to CVE-2013-3827 (Directory-traversal vulnerability) — deptofdefense — medium —  — Path Traversal
+- [1056611](reports/2021/1056611.md) Unauthenticated Arbitrary File Deletion (CVE-2020-3187) — mtn_group — high —  — Path Traversal
+- [1313040](reports/2021/1313040.md) Path Traversal on meetcqpub1.gsa.gov allows attackers to see arbitrary file listings. — gsa_vdp — low —  — Path Traversal
+- [1212746](reports/2021/1212746.md) Path traversal on [███] — deptofdefense — high —  — Path Traversal
+- [1102067](reports/2021/1102067.md) Authenticated path traversal to RCE — concretecms — high —  — Path Traversal
+- [1369288](reports/2021/1369288.md) Path Traversal CVE-2021-26086 CVE-2021-26085 — mariadb — medium —  — Path Traversal
+- [1353603](reports/2021/1353603.md) Fix for CVE-2021-22151 (Kibana path traversal issue) can be bypassed on Windows — elastic — low —  — Path Traversal
+- [1415825](reports/2022/1415825.md) [CVE-2020-3452] Unauthenticated file read in Cisco ASA — deptofdefense — critical —  — Path Traversal
+- [1436223](reports/2022/1436223.md) Arbitrary File Read at ███ via filename parameter — deptofdefense — critical —  — Path Traversal
+- [938684](reports/2022/938684.md) CVE-2020-3452 Cisco ASA / Firepower Read-Only Path Traversal Vulnerability - https://esccvc.de.ibm.com — ibm — high —  — Path Traversal
+- [1455266](reports/2022/1455266.md) Arbitrary File Deletion (CVE-2020-3187) on ████████ — deptofdefense — high —  — Path Traversal
+- [1455257](reports/2022/1455257.md) CVE-2020-3452 on  https://█████/ — deptofdefense — high —  — Path Traversal
+- [1081878](reports/2022/1081878.md) Arbitrary File Deletion via Path Traversal in image-edit.php — impresscms — medium —  — Path Traversal
+- [1234925](reports/2022/1234925.md) [CVE-2020-3452] on ███████ — deptofdefense — high —  — Path Traversal
+- [1542734](reports/2022/1542734.md) lfi in filePathDownload parameter via ███████ — deptofdefense — high —  — Path Traversal
+- [1555025](reports/2022/1555025.md) CVE-2020-3187 - Unauthenticated Arbitrary File Deletion — deptofdefense — critical —  — Path Traversal
+- [1555027](reports/2022/1555027.md) CVE-2020-3187 - Unauthenticated Arbitrary File Deletion — deptofdefense — critical —  — Path Traversal
+- [1555021](reports/2022/1555021.md) [CVE-2020-3452] Unauthenticated file read in Cisco ASA — deptofdefense — high —  — Path Traversal
+- [1555015](reports/2022/1555015.md) [CVE-2020-3452] Unauthenticated file read in Cisco ASA — deptofdefense — high —  — Path Traversal
+- [232371](reports/2022/232371.md) [doc.rt.informaticacloud.com] Arbitrary File Reading via Double URL Encode — informatica — high —  — Path Traversal
+- [1664244](reports/2022/1664244.md) fix(security):Path Traversal Bug — hyperledger — high —  — Path Traversal
+- [1631350](reports/2022/1631350.md) Off-by-slash vulnerability in nodejs.org and iojs.org — nodejs — medium —  — Path Traversal
+- [1326352](reports/2022/1326352.md) Access to admininstrative resources/account via path traversal — deptofdefense — critical —  — Path Traversal
+- [1641148](reports/2022/1641148.md) Directory Traversal at █████ — deptofdefense — high —  — Path Traversal
+- [1320084](reports/2022/1320084.md) Path Traversal issue at https://████/blaze/ — sony — high —  — Path Traversal
+- [1690377](reports/2022/1690377.md) Relative Path Traversal vulnerability in fabric-private-chaincode — hyperledger — none —  — Path Traversal
+- [1892351](reports/2023/1892351.md) CVE-2023-27534: SFTP path ~ resolving discrepancy — curl — low —  — Path Traversal
+- [1888808](reports/2023/1888808.md) Path traversal leads to reading of local files on ███████ and ████ — deptofdefense — high —  — Path Traversal
+- [1710541](reports/2023/1710541.md) Arbitrary write in the application's data folder and arbitrary read of server's replies from 3rd party apps.  — basecamp — high —  — Path Traversal
+- [2032778](reports/2023/2032778.md) Internal machine learning API endpoint for CWE classification is vulnerable to path traversal — security — medium —  — Path Traversal
+- [1049367](reports/2023/1049367.md) Server-side RCE through directory traversal-based arbitrary file write — rocket_chat — critical —  — Path Traversal
+- [1952978](reports/2023/1952978.md) Filesystem experimental permissions policy does not handle path traversal cases. — nodejs — high —  — Path Traversal
+- [2061826](reports/2023/2061826.md) Nginx Alias Traversal -  babel.bluetab.net — ibm — high —  — Path Traversal
+- [2038134](reports/2023/2038134.md) Permission model bypass by specifying a path traversal sequence in a buffer,  — nodejs — high —  — Path Traversal
+- [2037887](reports/2023/2037887.md) fs.mkdtemp() and fs.mkdtempSync() are missing getValidatedPath() checks. — nodejs — low —  — Path Traversal
+- [1997029](reports/2023/1997029.md) Path traversal allows tricking the Talk Android app into writing files into it's root directory  — nextcloud — medium —  — Path Traversal
+- [2051257](reports/2023/2051257.md) process.binding() can bypass the permission model through path traversal — nodejs — high —  — Path Traversal
+- [2104564](reports/2023/2104564.md) (CVE-2023-32004) Permission model bypass by specifying a path traversal sequence in a Buffer — ibb — high —  — Path Traversal
+- [2092852](reports/2023/2092852.md) Permission model improperly protects against path traversal — nodejs — high —  — Path Traversal
+- [2199818](reports/2023/2199818.md) Path traversal through path stored in Uint8Array — nodejs — high —  — Path Traversal
+- [2233418](reports/2023/2233418.md) Unathenticated file read (CVE-2020-3452)  — deptofdefense — high —  — Path Traversal
+- [273377](reports/2023/273377.md) Multiple Path Transversal Vulnerabilites — torproject — medium —  — Path Traversal
+- [2259914](reports/2024/2259914.md) Multiple permission model bypasses due to improper path traversal sequence sanitization — nodejs — high —  — Path Traversal
+- [2218653](reports/2024/2218653.md) Path traversal by monkey-patching Buffer internals — nodejs — high —  — Path Traversal
+- [2424815](reports/2024/2424815.md) [portswigger.net] Path Traversal al /cms/audioitems — portswigger — high —  — Path Traversal
+- [1096043](reports/2024/1096043.md) Non-authenticated path traversal leading to arbitrary file read  — expressionengine — high —  — Path Traversal
+- [696400](reports/2024/696400.md) [CVE-2018-0296] Cisco VPN path traversal on the https://████████/ (█████████.mil) — deptofdefense — medium —  — Path Traversal
+- [694865](reports/2024/694865.md) [CVE-2018-0296] Cisco VPN path traversal on the https://██████████ — deptofdefense — medium —  — Path Traversal
+- [695429](reports/2024/695429.md) [CVE-2018-0296] Cisco VPN path traversal on the https://███████/ (████.███.mil) — deptofdefense — medium —  — Path Traversal
+- [696276](reports/2024/696276.md) Arbitrary File Reading leads to RCE in the Pulse Secure SSL VPN on the https://██████ (███) — deptofdefense — high —  — Path Traversal
+- [2553411](reports/2024/2553411.md) Path traversal in deeplink query parameter can expose any user's private info to a public directory (one click) — basecamp — medium —  — Path Traversal
+- [694861](reports/2024/694861.md) [CVE-2018-0296] Cisco VPN path traversal on the https://1████████ (https://████████.███.████████/) — deptofdefense — medium —  — Path Traversal
+- [695776](reports/2024/695776.md) [CVE-2018-0296] Cisco VPN path traversal on the https://███████/ (██████) — deptofdefense — medium —  — Path Traversal
+- [695780](reports/2024/695780.md) [CVE-2018-0296] Cisco VPN path traversal on the https://████████/ (no hostname) — deptofdefense — medium —  — Path Traversal
+- [695427](reports/2024/695427.md) [CVE-2018-0296] Cisco VPN path traversal on the https://███ (████████████████) — deptofdefense — medium —  — Path Traversal
+- [2334455](reports/2024/2334455.md) Path traversal in AcitveStorage, and lead RCE — rails — high —  — Path Traversal
+- [2778380](reports/2024/2778380.md) Unauthenticated LFI (Local File Inclusion) using the symbol `!` At the target `https://████/` — deptofdefense — high —  — Path Traversal
+- [2307225](reports/2025/2307225.md) Path traversal by drive name in Windows environment — nodejs — medium —  — Path Traversal
+- [3060373](reports/2025/3060373.md) Path Traversal Vulnerability found on IBM Cloud — ibm — critical —  — Path Traversal
+- [3100073](reports/2025/3100073.md) Path Traversal Vulnerability in curl via Unsanitized IPFS_PATH Environment Variable — curl — high —  — Path Traversal
+- [3120987](reports/2025/3120987.md) [High] Arbitrary File Write via Path Traversal in cURL CLI (`-o`, `--output`) (CWE-22: Improper Limitation of a Pathname to a Restricted Directory) — curl — high —  — Path Traversal
+- [3226502](reports/2025/3226502.md) arbitrary file read via `file://` path traversal with `--path-as-is` — curl — medium —  — Path Traversal
+- [3242087](reports/2025/3242087.md) Arbitrary File Read via file:// Protocol in cURL — curl — critical —  — Path Traversal
+- [3160912](reports/2025/3160912.md) Windows Device Names (CON, PRN, AUX) Bypass Path Traversal Protection in path.normalize() — nodejs — high —  — Path Traversal
+- [3255707](reports/2025/3255707.md) Windows Device Names Still Allow Path Traversal in UNC Paths After CVE-2025-27210 Fix — nodejs — high —  — Path Traversal
+- [3293884](reports/2025/3293884.md) Vulnerability Report: Local File Disclosure via file:// Protocol in cURL — curl — medium —  — Path Traversal
+- [3249624](reports/2025/3249624.md) Path Traversal Vulnerability in Nextcloud Tables Enables Arbitrary File Exfiltration of Any Files Supported by PhpSpreadsheet Library — nextcloud — medium —  — Path Traversal
+- [3384150](reports/2025/3384150.md) Arbitrary File Write — arkadiyt-projects — high —  — Path Traversal
+- [3408126](reports/2025/3408126.md) Directory Traversal Vulnerability in cURL via Content-Disposition Header Processing — curl — medium —  — Path Traversal
+- [3418861](reports/2025/3418861.md) libcurl FTP path normalization flaw allows decoded %2e%2e → CWD .. and directory escape (Path Traversal, CWE-22) — curl — high —  — Path Traversal
+- [3328367](reports/2025/3328367.md) Path traversal via archive.extract - CVE 2021-3281 incomplete patch — django — low —  — Path Traversal
+- [3445174](reports/2025/3445174.md) Path Traversal in file:// protocol allows Arbitrary File Read — curl — high —  — Path Traversal
+- [3465094](reports/2025/3465094.md) Path Traversal Bypass in file:// URLs Due to Incomplete URL-Encoded Path Normalization — curl — high —  — Path Traversal
+- [3485930](reports/2026/3485930.md) Path Traversal in curl file:// Protocol Handler Allows Unauthorized File Access — curl — high —  — Path Traversal
+- [3494098](reports/2026/3494098.md) inconsistently Rejection Logic in file:// URLs with Authority — curl — low —  — Path Traversal
+- [3634571](reports/2026/3634571.md) Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Writes — arkadiyt-projects — medium —  — Path Traversal
+- [3580511](reports/2026/3580511.md) ActiveStorage Disk Service Path Traversal via Custom Blob Key Injection — rails — medium —  — Path Traversal
+- [3553340](reports/2026/3553340.md) Active Storage Vips Transformer Missing validate_transformation — CVE-2025-24293 Incomplete Fix — rails — high —  — Path Traversal
+- [3514640](reports/2026/3514640.md) Unauthenticated Path Traversal (LFI) via /custom-sounds/ when CustomSounds uses FileSystem storage — rocket_chat — high —  — Path Traversal
+- [3696266](reports/2026/3696266.md) Path Traversal in Nextcloud Talk Android Exposes User Credentials and Private Data via FileProvider — nextcloud — medium —  — Path Traversal
+- [3931777](reports/2026/3931777.md) Author → arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/<id>/finalize` poisoning `_wp_attachment_metadata` — wordpress — critical —  — Path Traversal
+- [3973143](reports/2026/3973143.md) 22:  FTP wildcard matching decodes server-provided filenames, enabling directory traversal — curl — none —  — Path Traversal
+- [4057637](reports/2026/4057637.md) [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download via Unencoded `.` in Escaped Filenames — curl — high —  — Path Traversal
+- [3678395](reports/2026/3678395.md) Path Traversal in mbstream Extract — mariadb — high —  — Path Traversal
+- [4037976](reports/2026/4037976.md) Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `VCS_METADATA_DIRS` entries. — weblate — medium —  — Path Traversal
+- [4191812](reports/2026/4191812.md) Unauthenticated arbitrary local file read via ABCpdf on www.████████ — essity — high —  — Path Traversal
+
 ## SQL Injection (232)
 
 - [383127](reports/2018/383127.md) SQL Injection in report_xml.php through countryFilter[] parameter — valve — critical — $25,000 — SQL Injection
@@ -9664,241 +9901,6 @@
 - [3797662](reports/2026/3797662.md) SQL Injection via Unsanitized Identifiers and String Literals in `@aws-cdk/aws-redshift-alpha` Custom Resource Handlers — aws_vdp — high —  — SQL Injection
 - [4152726](reports/2026/4152726.md) Blind SQL Injection — IBM Training Course Search API — ibm — critical —  — SQL Injection
 - [3896779](reports/2026/3896779.md) Blind SQL injection due to request precedence issue in global input registration — revive_adserver — high —  — SQL Injection
-
-## Path Traversal (232)
-
-- [1439593](reports/2022/1439593.md) Arbitrary file read  via the bulk imports UploadsPipeline — gitlab — critical — $29,000 — Path Traversal
-- [827052](reports/2020/827052.md) Arbitrary file read via the UploadsRewriter when moving and issue — gitlab — critical — $20,000 — Path Traversal
-- [1132378](reports/2021/1132378.md) Arbitrary file read during project import — gitlab — critical — $16,000 — Path Traversal
-- [822262](reports/2022/822262.md) Path traversal in Nuget Package Registry — gitlab — high — $12,000 — Path Traversal
-- [3962925](reports/2026/3962925.md) Launchpad file read leaks production keys — basecamp — critical — $9,337 — Path Traversal
-- [2995025](reports/2025/2995025.md) Mozilla VPN Clients: RCE via file write and path traversal — mozilla — high — $6,000 — Path Traversal
-- [3712279](reports/2026/3712279.md) Burp Suite Professional: browser-powered crawl can write attacker-controlled files through file input handling — portswigger — high — $5,000 — Path Traversal
-- [1394916](reports/2021/1394916.md) Path traversal and file disclosure vulnerability in Apache HTTP Server 2.4.49 — ibb — critical — $4,000 — Path Traversal
-- [1378889](reports/2022/1378889.md) [Android] Directory traversal leading to disclosure of auth tokens — slack — high — $3,500 — Path Traversal
-- [2256167](reports/2024/2256167.md) Path traversal through path stored in Uint8Array in Node.js 20 — ibb — high — $3,495 — Path Traversal
-- [2434811](reports/2024/2434811.md) Path traversal by monkey-patching Buffer internals — ibb — high — $2,430 — Path Traversal
-- [2225660](reports/2023/2225660.md) Permission model improperly protects against path traversal in Node.js 20 — ibb — high — $2,330 — Path Traversal
-- [301432](reports/2018/301432.md) GitLab CI runner can read and poison cache of all other projects — gitlab — critical — $2,000 — Path Traversal
-- [307808](reports/2018/307808.md) Path Traversal on Default Installed Rails Application (Asset Pipeline) — rails — medium — $1,500 — Path Traversal
-- [682774](reports/2019/682774.md) Arbitrary file creation with semi-controlled content (leads to DoS, EoP and others) at Steam Windows Client — valve — medium — $1,250 — Path Traversal
-- [1302155](reports/2023/1302155.md) Arbitrary read of all SVG files on a Nextcloud server — nextcloud — high — $1,250 — Path Traversal
-- [1650273](reports/2022/1650273.md) Off-by-slash vulnerability in nodejs.org and iojs.org — ibb — medium — $1,200 — Path Traversal
-- [243156](reports/2017/243156.md) Installing a crafted gem package may create or overwrite files — rubygems — high — $1,000 — Path Traversal
-- [519220](reports/2020/519220.md) File writing by Directory traversal at actionpack-page_caching and RCE by it — rails — high — $1,000 — Path Traversal
-- [1400238](reports/2021/1400238.md) Path Traversal and Remote Code Execution in Apache HTTP Server 2.4.49 and 2.4.50 (incomplete fix of CVE-2021-41773) (CVE-2021-42013) — ibb — critical — $1,000 — Path Traversal
-- [1415820](reports/2021/1415820.md) Zero day path traversal vulnerability in Grafana 8.x allows unauthenticated arbitrary local file read — aiven_ltd — high — $1,000 — Path Traversal
-- [4000535](reports/2026/4000535.md) Burp Community OpenAPI site-map action reads a local schema example through $id rebasing — portswigger — medium — $1,000 — Path Traversal
-- [1050231](reports/2021/1050231.md) Path Traversal в iOS приложении — vkcom — high — $700 — Path Traversal
-- [2070212](reports/2023/2070212.md) Apache Airflow path traversal by authenticated user — ibb — low — $540 — Path Traversal
-- [411519](reports/2018/411519.md) DNS SRV lookup of file:// sources enables local hijacking of gems — rubygems — high — $500 — Path Traversal
-- [317321](reports/2019/317321.md) Delete directory using symlink when decompressing tar — rubygems — medium — $500 — Path Traversal
-- [492512](reports/2019/492512.md) [bower] Arbitrary File Write through improper validation of symlinks while package extraction — ibb — high — $500 — Path Traversal
-- [859469](reports/2020/859469.md) Path traversal in ZIP extract routine on LINE Android — line — medium — $475 — Path Traversal
-- [590319](reports/2020/590319.md) Linux client is vulnerable to directory traversal when downloading files — nextcloud — medium — $250 — Path Traversal
-- [1408692](reports/2022/1408692.md) Access to arbitrary file of the Nextcloud Android app from within the Nextcloud Android app — nextcloud — low — $250 — Path Traversal
-- [1635321](reports/2022/1635321.md) Fix : (Security) Mitigate Path Traversal Bug — hyperledger — low — $200 — Path Traversal
-- [3485343](reports/2026/3485343.md) jitsi-call-analytics: Unauthenticated arbitrary file write via path traversal in `/api/v1/uploads/analyze` — 8x8-bounty — low — $100 — Path Traversal
-- [1650270](reports/2023/1650270.md) GitHub Security Lab (GHSL) Vulnerability Report: Insufficient path validation in ReceiveExternalFilesActivity.java (GHSL-2022-060) — owncloud — low — $50 — Path Traversal
-- [73480](reports/2016/73480.md) Arbritrary file Upload on AirMax — ui — - —  — Path Traversal
-- [225495](reports/2017/225495.md) full path disclosure at hosted.weblate.org/admin/accounts/profile/  — weblate — medium —  — Path Traversal
-- [254200](reports/2017/254200.md) Escaping images directory in S3 bucket when saving new avatar, using Path Traversal in filename — unikrn — medium —  — Path Traversal
-- [260420](reports/2017/260420.md) [dev-nightly.ubnt.com] Local File Reading — ui — high —  — Path Traversal
-- [229622](reports/2017/229622.md) Directory traversal at https://nightly.ubnt.com — ui — high —  — Path Traversal
-- [296254](reports/2018/296254.md) [serve-here] Static Web Server Directory Traversal via Crafted GET Request — nodejs-ecosystem — medium —  — Path Traversal
-- [296305](reports/2018/296305.md) [featurebook] Specification Server Directory Traversal via Crafted Browser Request — nodejs-ecosystem — medium —  — Path Traversal
-- [296645](reports/2018/296645.md) [lactate] Static Web Server Directory Traversal via Crafted GET Request — nodejs-ecosystem — medium —  — Path Traversal
-- [296282](reports/2018/296282.md) [augustine] Static Web Server Directory Traversal via Crafted GET Request — nodejs-ecosystem — medium —  — Path Traversal
-- [307666](reports/2018/307666.md) [serve] Directory index of arbitrary folder available due to lack of sanitization of %2e and %2f characters in url — nodejs-ecosystem — critical —  — Path Traversal
-- [312918](reports/2018/312918.md) [public] Path Traversal allows to read content of arbitrary files — nodejs-ecosystem — high —  — Path Traversal
-- [315760](reports/2018/315760.md) Path Traversal on Resolve-Path — nodejs-ecosystem — high —  — Path Traversal
-- [312889](reports/2018/312889.md) [localhost-now] Path Traversal allows to read content of arbitrary file — nodejs-ecosystem — high —  — Path Traversal
-- [311216](reports/2018/311216.md) [626] Path Traversal allows to read arbitrary file from remote server — nodejs-ecosystem — high —  — Path Traversal
-- [311218](reports/2018/311218.md) [hekto] Path Traversal vulnerability allows to read content of arbitrary files — nodejs-ecosystem — high —  — Path Traversal
-- [309120](reports/2018/309120.md) [angular-http-server] Path Traversal in angular-http-server.js allows to read arbitrary file from the remote server — nodejs-ecosystem — high —  — Path Traversal
-- [310106](reports/2018/310106.md) [glance] Path Traversal in glance static file server allows to read content of arbitrary file — nodejs-ecosystem — high —  — Path Traversal
-- [319003](reports/2018/319003.md) [stattic] Inproper path validation leads to Path Traversal and allows to read arbitrary files with any extension(s) — nodejs-ecosystem — high —  — Path Traversal
-- [309124](reports/2018/309124.md) [node-srv] Path Traversal allows to read arbitrary files from remote server — nodejs-ecosystem — high —  — Path Traversal
-- [310943](reports/2018/310943.md) [general-file-server] Path Traversal vulnerability allows to read content on arbitrary file on the server — nodejs-ecosystem — high —  — Path Traversal
-- [270068](reports/2018/270068.md) Installer can modify other gems if gem name is specially crafted — rubygems — medium —  — Path Traversal
-- [310690](reports/2018/310690.md) [crud-file-server] Path Traversal allows to read arbitrary file from the server — nodejs-ecosystem — medium —  — Path Traversal
-- [312907](reports/2018/312907.md) [mcstatic] Path Traversal allows to read content of arbitrary files — nodejs-ecosystem — high —  — Path Traversal
-- [330349](reports/2018/330349.md) [angular-http-server] Server Directory Traversal — nodejs-ecosystem — high —  — Path Traversal
-- [319951](reports/2018/319951.md) `superstatic` is vulnerable to path traversal on Windows — nodejs-ecosystem — high —  — Path Traversal
-- [288298](reports/2018/288298.md) LFI in pChart php library — valve — high —  — Path Traversal
-- [329837](reports/2018/329837.md) Bypass to defective fix of Path Traversal  — nodejs-ecosystem — high —  — Path Traversal
-- [306607](reports/2018/306607.md) [html-pages] Path Traversal in html-pages module allows to read any file from the server with curl — nodejs-ecosystem — critical —  — Path Traversal
-- [334837](reports/2018/334837.md) [localhost-now] bypassing url filter which leads to read content of arbitrary file — nodejs-ecosystem — high —  — Path Traversal
-- [343726](reports/2018/343726.md) Unrestricted file upload (RCE) — nodejs-ecosystem — critical —  — Path Traversal
-- [333306](reports/2018/333306.md) Directory traversal at https://msg.algolia.com — algolia — medium —  — Path Traversal
-- [330285](reports/2018/330285.md) [mcstatic] Server Directory Traversal — nodejs-ecosystem — high —  — Path Traversal
-- [310671](reports/2018/310671.md) [file-static-server] Path Traversal allows to read content of arbitrary file on the server — nodejs-ecosystem — low —  — Path Traversal
-- [358112](reports/2018/358112.md) [buttle] Path traversal in mid-buttle module allows to read any file in the server. — nodejs-ecosystem — critical —  — Path Traversal
-- [358645](reports/2018/358645.md) [serve] Server Directory Traversal — nodejs-ecosystem — critical —  — Path Traversal
-- [329770](reports/2018/329770.md) UniFi Video Server web interface Configuration Restore path traversal leading to local system compromise — ui — critical —  — Path Traversal
-- [342066](reports/2018/342066.md) [bruteser] Path Traversal allows to read content of arbitrary file — nodejs-ecosystem — medium —  — Path Traversal
-- [319795](reports/2018/319795.md) [m-server] Path Traversal allows to display content of arbitrary file(s) from the server — nodejs-ecosystem — medium —  — Path Traversal
-- [383112](reports/2018/383112.md) [ponse] Path traversal in ponse module allows to read any file on server — nodejs-ecosystem — high —  — Path Traversal
-- [360727](reports/2018/360727.md) [markdown-pdf] Local file reading — nodejs-ecosystem — medium —  — Path Traversal
-- [362119](reports/2018/362119.md) Arbitrary File Write through archive extraction — nodejs-ecosystem — high —  — Path Traversal
-- [291878](reports/2018/291878.md) Arbitrary file deletion in wp-core - guides towards RCE and information disclosure — wordpress — critical —  — Path Traversal
-- [357109](reports/2018/357109.md) [simplehttpserver] List any file in the folder by using path traversal. — nodejs-ecosystem — high —  — Path Traversal
-- [384939](reports/2018/384939.md) http-live-simulator npm module is prone to path traversal attacks — nodejs-ecosystem — high —  — Path Traversal
-- [403707](reports/2018/403707.md) [knightjs] Path Traversal allows to read content of arbitrary files — nodejs-ecosystem — high —  — Path Traversal
-- [403736](reports/2018/403736.md) [takeapeek] Path traversal allow to expose directory and files — nodejs-ecosystem — high —  — Path Traversal
-- [129641](reports/2018/129641.md) UniFi Video Server - Arbitrary file upload as SYSTEM — ui — high —  — Path Traversal
-- [403703](reports/2018/403703.md) List any file in the folder by using path traversal — nodejs-ecosystem — medium —  — Path Traversal
-- [435457](reports/2018/435457.md) Ability to login to the Nexus Repo Manager from https://nexus.imgur.com/  — imgur — medium —  — Path Traversal
-- [411405](reports/2018/411405.md) [http-live-simulator] Path traversal vulnerability — nodejs-ecosystem — high —  — Path Traversal
-- [270072](reports/2018/270072.md) Unpacker improperly validates symlinks, allowing gems writes to arbitrary locations — rubygems — medium —  — Path Traversal
-- [473811](reports/2019/473811.md) [bower] Arbitrary File Write through improper validation of symlinks while package extraction — nodejs-ecosystem — high —  — Path Traversal
-- [355456](reports/2019/355456.md) [statics-server] Path Traversal due to lack of provided path sanitization — nodejs-ecosystem — medium —  — Path Traversal
-- [355501](reports/2019/355501.md) [servey] Path Traversal allows to retrieve content of any file with extension from remote server — nodejs-ecosystem — medium —  — Path Traversal
-- [530289](reports/2019/530289.md) [harp] Path traversal using symlink — nodejs-ecosystem — medium —  — Path Traversal
-- [569966](reports/2019/569966.md) [serve-here.js] List any file in the folder by using path traversal. — nodejs-ecosystem — high —  — Path Traversal
-- [538938](reports/2019/538938.md) [domokeeper] Unintended Require — nodejs-ecosystem — medium —  — Path Traversal
-- [570133](reports/2019/570133.md) [http-file-server] List any files and sub folders in the folder by using path traversal. — nodejs-ecosystem — high —  — Path Traversal
-- [570035](reports/2019/570035.md) [statichttpserver] List any file in the folder by using path traversal. — nodejs-ecosystem — high —  — Path Traversal
-- [593911](reports/2019/593911.md) [public] Path traversal using symlink — nodejs-ecosystem — medium —  — Path Traversal
-- [622864](reports/2019/622864.md) https://█████████ Vulnerable to CVE-2018-0296 Cisco ASA Path Traversal Authentication Bypass — deptofdefense — high —  — Path Traversal
-- [497771](reports/2019/497771.md) [Critical] Full local fylesystem access (LFI/LFD) as admin via Path Traversal in the misconfigured Java servlet on the https://███/ — deptofdefense — high —  — Path Traversal
-- [217344](reports/2019/217344.md) Path traversal on ████████ — deptofdefense — high —  — Path Traversal
-- [695416](reports/2019/695416.md) Path traversal using symlink — nodejs-ecosystem — high —  — Path Traversal
-- [671857](reports/2019/671857.md) [CVE-2019-11510 ] Path Traversal on ████████ leads to leaked passwords, RCE, etc — deptofdefense — critical —  — Path Traversal
-- [677955](reports/2019/677955.md) `indexFile` option passed as an argument to node-server can lead to arbitrary file read — nodejs-ecosystem — low —  — Path Traversal
-- [692262](reports/2019/692262.md) Path traversal in https://www.npmjs.com/package/http_server via symlink — nodejs-ecosystem — medium —  — Path Traversal
-- [402473](reports/2019/402473.md) Arbitrary File Download as Shopmanager — automattic — high —  — Path Traversal
-- [509697](reports/2020/509697.md) [md-fileserver] Path Traversal — nodejs-ecosystem — high —  — Path Traversal
-- [507310](reports/2020/507310.md) [deliver-or-else] Path Traversal — nodejs-ecosystem — high —  — Path Traversal
-- [730239](reports/2020/730239.md) Filesystem Writes via `yarn install` via symlinks and tar transforms inside a crafted malicious package — nodejs-ecosystem — medium —  — Path Traversal
-- [316713](reports/2020/316713.md) Ad Builder Display Ads Path Traversal — semrush — medium —  — Path Traversal
-- [765291](reports/2020/765291.md) Remote code execution via path traversal in Zip extraction in the Extract app — nextcloud — high —  — Path Traversal
-- [780021](reports/2020/780021.md) Korea - LFI via path traversal at https://msr.istarbucks.co.kr:6443/appif/ — starbucks — critical —  — Path Traversal
-- [330051](reports/2020/330051.md) UniFi Video Server web interface admin user Firmware Update path traversal leading to local system compromise — ui — high —  — Path Traversal
-- [748765](reports/2020/748765.md) [Total.js] Path traversal vulnerability allows to read files outside public directory — nodejs-ecosystem — medium —  — Path Traversal
-- [844067](reports/2020/844067.md) Korea - LFI Server directory traversal at starbucks.co.kr — starbucks — high —  — Path Traversal
-- [492767](reports/2020/492767.md) [https://███] Local File Inclusion via graph.php — deptofdefense — medium —  — Path Traversal
-- [686343](reports/2020/686343.md) [██████████] — Directory traversal via `/aerosol-bin/███████/display_directory_████_t.cgi` — deptofdefense — medium —  — Path Traversal
-- [637840](reports/2020/637840.md) Path traversal in command line client — mariadb — medium —  — Path Traversal
-- [436928](reports/2020/436928.md) RCE as Admin defeats WordPress hardening and file permissions — wordpress — critical —  — Path Traversal
-- [876295](reports/2020/876295.md) Misuse of an authentication cookie combined with a path traversal on app.starbucks.com permitted access to restricted data — starbucks — critical —  — Path Traversal
-- [820224](reports/2020/820224.md) [sapper] Path Traversal — nodejs-ecosystem — high —  — Path Traversal
-- [727727](reports/2020/727727.md) Path traversal in filename in LINE Mac client — line — high —  — Path Traversal
-- [940384](reports/2020/940384.md) https://█████ is vulnerable to CVE-2020-3452 Read-Only Path Traversal Vulnerability — deptofdefense — high —  — Path Traversal
-- [936399](reports/2020/936399.md) Path traversal on https://███ allows arbitrary file read (CVE-2020-3452) — deptofdefense — high —  — Path Traversal
-- [869888](reports/2020/869888.md) Path Traversal in App Proxy — shopify — medium —  — Path Traversal
-- [569891](reports/2020/569891.md) [min-http-server] List any file in the folder by using path traversal. — nodejs-ecosystem — high —  — Path Traversal
-- [790623](reports/2020/790623.md) [sirloin] Web Server Directory Traversal via Crafted GET Request — nodejs-ecosystem — high —  — Path Traversal
-- [790873](reports/2020/790873.md) [hangersteak] Web Server Directory Traversal via Crafted GET Request — nodejs-ecosystem — high —  — Path Traversal
-- [581939](reports/2020/581939.md) [static-server-gx] Path Traversal allowing to read any files on the server — nodejs-ecosystem — high —  — Path Traversal
-- [951508](reports/2020/951508.md) CVE-2020-3452, unauthenticated file read in Cisco ASA & Cisco Firepower. — deptofdefense — high —  — Path Traversal
-- [959187](reports/2020/959187.md) ███ is vulnerable to CVE-2020-3452 Read-Only Path Traversal Vulnerability — deptofdefense — high —  — Path Traversal
-- [960330](reports/2020/960330.md) CVE-2020-3187 - Unauthenticated Arbitrary File Deletion — deptofdefense — critical —  — Path Traversal
-- [579517](reports/2020/579517.md) [hnzserver] Path Traversal allowing to read any files on the server — nodejs-ecosystem — high —  — Path Traversal
-- [579523](reports/2020/579523.md) [http_server] Path Traversal allowing to read any files on the server — nodejs-ecosystem — high —  — Path Traversal
-- [978335](reports/2020/978335.md) Unauthenticated Arbitrary File Deletion ("CVE-2020-3187") in ████████ — deptofdefense — critical —  — Path Traversal
-- [850775](reports/2020/850775.md) Windows only: arbitrary file read vulnerability in openssl s_server — ibb — medium —  — Path Traversal
-- [943717](reports/2020/943717.md) [██████████.mil] Cisco VPN Service Path Traversal — deptofdefense — high —  — Path Traversal
-- [951530](reports/2020/951530.md) [CVE-2020-3452] Unauthenticated file read in Cisco ASA — deptofdefense — high —  — Path Traversal
-- [993975](reports/2020/993975.md) [zenn-cli] Path traversal on Windows allows the attacker to read arbitrary .md files — nodejs-ecosystem — low —  — Path Traversal
-- [797159](reports/2020/797159.md) PHP builded for Windows with TS support does not resolve relalative paths with drive letter correctly — ibb — medium —  — Path Traversal
-- [772509](reports/2020/772509.md) [node-downloader-helper] Path traversal via Content-Disposition header — nodejs-ecosystem — medium —  — Path Traversal
-- [1026265](reports/2020/1026265.md) Unauthenticated Arbitrary File Deletion "CVE-2020-3187" in █████ — deptofdefense — critical —  — Path Traversal
-- [1007799](reports/2020/1007799.md) Local File Inclusion In Registration Page — deptofdefense — high —  — Path Traversal
-- [962908](reports/2021/962908.md) Read-only path traversal (CVE-2020-3452)  at https://██████.mil — deptofdefense — high —  — Path Traversal
-- [960082](reports/2021/960082.md) Read-only path traversal (CVE-2020-3452)  at https://█████ — deptofdefense — high —  — Path Traversal
-- [959679](reports/2021/959679.md) Read-only path traversal (CVE-2020-3452)  at https://████████ — deptofdefense — high —  — Path Traversal
-- [1131465](reports/2021/1131465.md) Path traversal in Tempfile on windows OS due to unsanitized backslashes — ruby — medium —  — Path Traversal
-- [1137321](reports/2021/1137321.md) Path Traversal - [ CVE-2020-3452 ] — deptofdefense — high —  — Path Traversal
-- [998925](reports/2021/998925.md) https://████ is vulnerable to cve-2020-3452 — deptofdefense — critical —  — Path Traversal
-- [924407](reports/2021/924407.md) Local File Disclosure /Delete On [us-az-vpn.acronis.com] — acronis — medium —  — Path Traversal
-- [1070247](reports/2021/1070247.md) Git flag injection leads to arbitrary file write — phabricator — high —  — Path Traversal
-- [1257100](reports/2021/1257100.md) CVE-2020-3452 - unauthenticated file read on anyconnect.routematch.com — uber — medium —  — Path Traversal
-- [1280188](reports/2021/1280188.md) https://██████/ Vulnerable to CVE-2013-3827 (Directory-traversal vulnerability) — deptofdefense — medium —  — Path Traversal
-- [1056611](reports/2021/1056611.md) Unauthenticated Arbitrary File Deletion (CVE-2020-3187) — mtn_group — high —  — Path Traversal
-- [1313040](reports/2021/1313040.md) Path Traversal on meetcqpub1.gsa.gov allows attackers to see arbitrary file listings. — gsa_vdp — low —  — Path Traversal
-- [1212746](reports/2021/1212746.md) Path traversal on [███] — deptofdefense — high —  — Path Traversal
-- [1102067](reports/2021/1102067.md) Authenticated path traversal to RCE — concretecms — high —  — Path Traversal
-- [1369288](reports/2021/1369288.md) Path Traversal CVE-2021-26086 CVE-2021-26085 — mariadb — medium —  — Path Traversal
-- [1353603](reports/2021/1353603.md) Fix for CVE-2021-22151 (Kibana path traversal issue) can be bypassed on Windows — elastic — low —  — Path Traversal
-- [1415825](reports/2022/1415825.md) [CVE-2020-3452] Unauthenticated file read in Cisco ASA — deptofdefense — critical —  — Path Traversal
-- [1436223](reports/2022/1436223.md) Arbitrary File Read at ███ via filename parameter — deptofdefense — critical —  — Path Traversal
-- [938684](reports/2022/938684.md) CVE-2020-3452 Cisco ASA / Firepower Read-Only Path Traversal Vulnerability - https://esccvc.de.ibm.com — ibm — high —  — Path Traversal
-- [1455266](reports/2022/1455266.md) Arbitrary File Deletion (CVE-2020-3187) on ████████ — deptofdefense — high —  — Path Traversal
-- [1455257](reports/2022/1455257.md) CVE-2020-3452 on  https://█████/ — deptofdefense — high —  — Path Traversal
-- [1081878](reports/2022/1081878.md) Arbitrary File Deletion via Path Traversal in image-edit.php — impresscms — medium —  — Path Traversal
-- [1234925](reports/2022/1234925.md) [CVE-2020-3452] on ███████ — deptofdefense — high —  — Path Traversal
-- [1542734](reports/2022/1542734.md) lfi in filePathDownload parameter via ███████ — deptofdefense — high —  — Path Traversal
-- [1555025](reports/2022/1555025.md) CVE-2020-3187 - Unauthenticated Arbitrary File Deletion — deptofdefense — critical —  — Path Traversal
-- [1555027](reports/2022/1555027.md) CVE-2020-3187 - Unauthenticated Arbitrary File Deletion — deptofdefense — critical —  — Path Traversal
-- [1555021](reports/2022/1555021.md) [CVE-2020-3452] Unauthenticated file read in Cisco ASA — deptofdefense — high —  — Path Traversal
-- [1555015](reports/2022/1555015.md) [CVE-2020-3452] Unauthenticated file read in Cisco ASA — deptofdefense — high —  — Path Traversal
-- [232371](reports/2022/232371.md) [doc.rt.informaticacloud.com] Arbitrary File Reading via Double URL Encode — informatica — high —  — Path Traversal
-- [1664244](reports/2022/1664244.md) fix(security):Path Traversal Bug — hyperledger — high —  — Path Traversal
-- [1631350](reports/2022/1631350.md) Off-by-slash vulnerability in nodejs.org and iojs.org — nodejs — medium —  — Path Traversal
-- [1326352](reports/2022/1326352.md) Access to admininstrative resources/account via path traversal — deptofdefense — critical —  — Path Traversal
-- [1641148](reports/2022/1641148.md) Directory Traversal at █████ — deptofdefense — high —  — Path Traversal
-- [1320084](reports/2022/1320084.md) Path Traversal issue at https://████/blaze/ — sony — high —  — Path Traversal
-- [1690377](reports/2022/1690377.md) Relative Path Traversal vulnerability in fabric-private-chaincode — hyperledger — none —  — Path Traversal
-- [1892351](reports/2023/1892351.md) CVE-2023-27534: SFTP path ~ resolving discrepancy — curl — low —  — Path Traversal
-- [1888808](reports/2023/1888808.md) Path traversal leads to reading of local files on ███████ and ████ — deptofdefense — high —  — Path Traversal
-- [1710541](reports/2023/1710541.md) Arbitrary write in the application's data folder and arbitrary read of server's replies from 3rd party apps.  — basecamp — high —  — Path Traversal
-- [2032778](reports/2023/2032778.md) Internal machine learning API endpoint for CWE classification is vulnerable to path traversal — security — medium —  — Path Traversal
-- [1049367](reports/2023/1049367.md) Server-side RCE through directory traversal-based arbitrary file write — rocket_chat — critical —  — Path Traversal
-- [1952978](reports/2023/1952978.md) Filesystem experimental permissions policy does not handle path traversal cases. — nodejs — high —  — Path Traversal
-- [2061826](reports/2023/2061826.md) Nginx Alias Traversal -  babel.bluetab.net — ibm — high —  — Path Traversal
-- [2038134](reports/2023/2038134.md) Permission model bypass by specifying a path traversal sequence in a buffer,  — nodejs — high —  — Path Traversal
-- [2037887](reports/2023/2037887.md) fs.mkdtemp() and fs.mkdtempSync() are missing getValidatedPath() checks. — nodejs — low —  — Path Traversal
-- [1997029](reports/2023/1997029.md) Path traversal allows tricking the Talk Android app into writing files into it's root directory  — nextcloud — medium —  — Path Traversal
-- [2051257](reports/2023/2051257.md) process.binding() can bypass the permission model through path traversal — nodejs — high —  — Path Traversal
-- [2104564](reports/2023/2104564.md) (CVE-2023-32004) Permission model bypass by specifying a path traversal sequence in a Buffer — ibb — high —  — Path Traversal
-- [2092852](reports/2023/2092852.md) Permission model improperly protects against path traversal — nodejs — high —  — Path Traversal
-- [2199818](reports/2023/2199818.md) Path traversal through path stored in Uint8Array — nodejs — high —  — Path Traversal
-- [2233418](reports/2023/2233418.md) Unathenticated file read (CVE-2020-3452)  — deptofdefense — high —  — Path Traversal
-- [273377](reports/2023/273377.md) Multiple Path Transversal Vulnerabilites — torproject — medium —  — Path Traversal
-- [2259914](reports/2024/2259914.md) Multiple permission model bypasses due to improper path traversal sequence sanitization — nodejs — high —  — Path Traversal
-- [2218653](reports/2024/2218653.md) Path traversal by monkey-patching Buffer internals — nodejs — high —  — Path Traversal
-- [2424815](reports/2024/2424815.md) [portswigger.net] Path Traversal al /cms/audioitems — portswigger — high —  — Path Traversal
-- [1096043](reports/2024/1096043.md) Non-authenticated path traversal leading to arbitrary file read  — expressionengine — high —  — Path Traversal
-- [696400](reports/2024/696400.md) [CVE-2018-0296] Cisco VPN path traversal on the https://████████/ (█████████.mil) — deptofdefense — medium —  — Path Traversal
-- [694865](reports/2024/694865.md) [CVE-2018-0296] Cisco VPN path traversal on the https://██████████ — deptofdefense — medium —  — Path Traversal
-- [695429](reports/2024/695429.md) [CVE-2018-0296] Cisco VPN path traversal on the https://███████/ (████.███.mil) — deptofdefense — medium —  — Path Traversal
-- [696276](reports/2024/696276.md) Arbitrary File Reading leads to RCE in the Pulse Secure SSL VPN on the https://██████ (███) — deptofdefense — high —  — Path Traversal
-- [2553411](reports/2024/2553411.md) Path traversal in deeplink query parameter can expose any user's private info to a public directory (one click) — basecamp — medium —  — Path Traversal
-- [694861](reports/2024/694861.md) [CVE-2018-0296] Cisco VPN path traversal on the https://1████████ (https://████████.███.████████/) — deptofdefense — medium —  — Path Traversal
-- [695776](reports/2024/695776.md) [CVE-2018-0296] Cisco VPN path traversal on the https://███████/ (██████) — deptofdefense — medium —  — Path Traversal
-- [695780](reports/2024/695780.md) [CVE-2018-0296] Cisco VPN path traversal on the https://████████/ (no hostname) — deptofdefense — medium —  — Path Traversal
-- [695427](reports/2024/695427.md) [CVE-2018-0296] Cisco VPN path traversal on the https://███ (████████████████) — deptofdefense — medium —  — Path Traversal
-- [2334455](reports/2024/2334455.md) Path traversal in AcitveStorage, and lead RCE — rails — high —  — Path Traversal
-- [2778380](reports/2024/2778380.md) Unauthenticated LFI (Local File Inclusion) using the symbol `!` At the target `https://████/` — deptofdefense — high —  — Path Traversal
-- [2307225](reports/2025/2307225.md) Path traversal by drive name in Windows environment — nodejs — medium —  — Path Traversal
-- [3060373](reports/2025/3060373.md) Path Traversal Vulnerability found on IBM Cloud — ibm — critical —  — Path Traversal
-- [3100073](reports/2025/3100073.md) Path Traversal Vulnerability in curl via Unsanitized IPFS_PATH Environment Variable — curl — high —  — Path Traversal
-- [3120987](reports/2025/3120987.md) [High] Arbitrary File Write via Path Traversal in cURL CLI (`-o`, `--output`) (CWE-22: Improper Limitation of a Pathname to a Restricted Directory) — curl — high —  — Path Traversal
-- [3226502](reports/2025/3226502.md) arbitrary file read via `file://` path traversal with `--path-as-is` — curl — medium —  — Path Traversal
-- [3242087](reports/2025/3242087.md) Arbitrary File Read via file:// Protocol in cURL — curl — critical —  — Path Traversal
-- [3160912](reports/2025/3160912.md) Windows Device Names (CON, PRN, AUX) Bypass Path Traversal Protection in path.normalize() — nodejs — high —  — Path Traversal
-- [3255707](reports/2025/3255707.md) Windows Device Names Still Allow Path Traversal in UNC Paths After CVE-2025-27210 Fix — nodejs — high —  — Path Traversal
-- [3293884](reports/2025/3293884.md) Vulnerability Report: Local File Disclosure via file:// Protocol in cURL — curl — medium —  — Path Traversal
-- [3249624](reports/2025/3249624.md) Path Traversal Vulnerability in Nextcloud Tables Enables Arbitrary File Exfiltration of Any Files Supported by PhpSpreadsheet Library — nextcloud — medium —  — Path Traversal
-- [3384150](reports/2025/3384150.md) Arbitrary File Write — arkadiyt-projects — high —  — Path Traversal
-- [3408126](reports/2025/3408126.md) Directory Traversal Vulnerability in cURL via Content-Disposition Header Processing — curl — medium —  — Path Traversal
-- [3418861](reports/2025/3418861.md) libcurl FTP path normalization flaw allows decoded %2e%2e → CWD .. and directory escape (Path Traversal, CWE-22) — curl — high —  — Path Traversal
-- [3328367](reports/2025/3328367.md) Path traversal via archive.extract - CVE 2021-3281 incomplete patch — django — low —  — Path Traversal
-- [3445174](reports/2025/3445174.md) Path Traversal in file:// protocol allows Arbitrary File Read — curl — high —  — Path Traversal
-- [3465094](reports/2025/3465094.md) Path Traversal Bypass in file:// URLs Due to Incomplete URL-Encoded Path Normalization — curl — high —  — Path Traversal
-- [3485930](reports/2026/3485930.md) Path Traversal in curl file:// Protocol Handler Allows Unauthorized File Access — curl — high —  — Path Traversal
-- [3494098](reports/2026/3494098.md) inconsistently Rejection Logic in file:// URLs with Authority — curl — low —  — Path Traversal
-- [3634571](reports/2026/3634571.md) Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Writes — arkadiyt-projects — medium —  — Path Traversal
-- [3580511](reports/2026/3580511.md) ActiveStorage Disk Service Path Traversal via Custom Blob Key Injection — rails — medium —  — Path Traversal
-- [3553340](reports/2026/3553340.md) Active Storage Vips Transformer Missing validate_transformation — CVE-2025-24293 Incomplete Fix — rails — high —  — Path Traversal
-- [3514640](reports/2026/3514640.md) Unauthenticated Path Traversal (LFI) via /custom-sounds/ when CustomSounds uses FileSystem storage — rocket_chat — high —  — Path Traversal
-- [3696266](reports/2026/3696266.md) Path Traversal in Nextcloud Talk Android Exposes User Credentials and Private Data via FileProvider — nextcloud — medium —  — Path Traversal
-- [3931777](reports/2026/3931777.md) Author → arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/<id>/finalize` poisoning `_wp_attachment_metadata` — wordpress — critical —  — Path Traversal
-- [3973143](reports/2026/3973143.md) 22:  FTP wildcard matching decodes server-provided filenames, enabling directory traversal — curl — none —  — Path Traversal
-- [4057637](reports/2026/4057637.md) [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download via Unencoded `.` in Escaped Filenames — curl — high —  — Path Traversal
-- [3678395](reports/2026/3678395.md) Path Traversal in mbstream Extract — mariadb — high —  — Path Traversal
-- [4037976](reports/2026/4037976.md) Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `VCS_METADATA_DIRS` entries. — weblate — medium —  — Path Traversal
 
 ## Command Injection - Generic (210)
 

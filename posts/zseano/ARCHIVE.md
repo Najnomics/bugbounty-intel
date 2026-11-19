@@ -1,11 +1,40 @@
 # @zseano — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 421
-- Conversations/threads: 372
+- Posts in this file: 422
+- Conversations/threads: 373
 - Oldest post captured: 2015-08-11
-- Newest post captured: 2026-11-13
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Reply · @NahamSec it's your userid :) [pic.x.com/M9U6Z12Ew7]
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @NahamSec — 2026-11-18 19:39 UTC (2026-11-18 20:39 WAT)
+
+- URL: https://x.com/NahamSec/status/2123139141559021954
+- Metrics (at fetch): bookmark 7, impression 11765, like 146, quote 0, reply 8, repost 0
+
+> Did I put a payload somewhere and forgot about it or what? [pic.x.com/uQVITDHhMd]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXbnwONa8AAwYIu.jpg — no alt text provided by author
+
+
+### Post — @zseano — 2026-11-18 20:17 UTC (2026-11-18 21:17 WAT)
+
+- URL: https://x.com/zseano/status/2123148593016291726
+- Metrics (at fetch): bookmark 1, impression 2340, like 18, quote 0, reply 1, repost 0
+
+> @NahamSec it's your userid :) [pic.x.com/M9U6Z12Ew7]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXbwXgdWsAAMs8q.png — no alt text provided by author
 
 
 ---

@@ -79,3 +79,9 @@ _Auto-maintained from `harness/findings.jsonl`. 6 finding(s). Full verbatim post
 ### Update 2026-11-18
 
 - **Frag update** — https://x.com/garethheyes/status/2122639054638301455 — [`posts/garethheyes/2026-11-17-2122639054638301455.md`](../posts/garethheyes/2026-11-17-2122639054638301455.md): one-shot blind exfiltration, Base64/alphanumeric tokens, smaller CSS. README: [`writeups/garethheyes/frag-readme.md`](../writeups/garethheyes/frag-readme.md).
+
+
+### Update 2026-11-19
+
+- **XSS in `innerHTML` without `=` via `<selectedcontent>` (Masato Kinugawa guest post, PortSwigger, 18 Nov 2026)** — https://x.com/garethheyes/status/2123063796839125030 — [`posts/garethheyes/2026-11-18-2123063796839125030.md`](../posts/garethheyes/2026-11-18-2123063796839125030.md); full writeup [`writeups/garethheyes/portswigger-xss-innerhtml-without-equals.md`](../writeups/garethheyes/portswigger-xss-innerhtml-without-equals.md).
+  - Bug class: DOM XSS / filter & sanitizer bypass. Root cause: Chrome (<153) and Safari execute `<script>` children cloned by `<selectedcontent>` from the selected `<option>`; solves the 'innerHTML, no equals' impossible lab. Found by studying the new element after the DOMPurify `selectedcontent` bypass (GHSA-87xg-pxx2-7hvx). Takeaway: add `<select><selectedcontent></selectedcontent><option><svg><script>` payloads; verify in WebKit as well as Chromium.

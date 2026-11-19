@@ -1,11 +1,261 @@
 # @naresh_1337 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 76
-- Conversations/threads: 42
+- Posts in this file: 89
+- Conversations/threads: 50
 - Oldest post captured: 2026-05-22
-- Newest post captured: 2026-11-16
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Thread · Spent $790 on a PS5 and GTA 6 just 24 hours before a new Immunefi audit competition goes live. 💀
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting, Platform: Immunefi
+
+
+### Post — @naresh_1337 — 2026-11-18 22:51 UTC (2026-11-18 23:51 WAT)
+
+- URL: https://x.com/naresh_1337/status/2123187335915335795
+- Metrics (at fetch): bookmark 0, impression 501, like 10, quote 0, reply 2, repost 0
+
+> Spent $790 on a PS5 and GTA 6 just 24 hours before a new Immunefi audit competition goes live. 💀
+>
+> Asked @ChatGPT  how much I spent, and bro performed a full security audit on my life instead. 😭
+>
+> Apparently, the biggest Critical vulnerability wasn't in the smart contract.
+>
+> It was in my financial decision-making. 🤡🎮
+>
+> @immunefi, I promise I'll hunt bugs after one mission. 😂
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXcTE4eWQAA8UAw.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXcTGVFWsAANG9T.jpg — no alt text provided by author
+
+
+### Thread part 2 — @naresh_1337 — 2026-11-18 23:47 UTC (2026-11-19 00:47 WAT)
+
+- URL: https://x.com/naresh_1337/status/2123201481486594395
+- Metrics (at fetch): bookmark 0, impression 19, like 0, quote 0, reply 0, repost 0
+
+> @theBliz_ @ChatGPT 😂 Will do! If I go silent, assume Rockstar found a Critical vulnerability in my productivity. 💀🎮
+
+
+---
+
+## 2026-11-18 · Post · A friend just joined me on @immunefi Studio. I have 4 invites left. Reply if you want in. https://im
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @naresh_1337 — 2026-11-18 22:59 UTC (2026-11-18 23:59 WAT)
+
+- URL: https://x.com/naresh_1337/status/2123189427979862187
+- Metrics (at fetch): bookmark 0, impression 134, like 3, quote 0, reply 0, repost 2
+
+> A friend just joined me on @immunefi Studio. I have 4 invites left. Reply if you want in. https://immunefi.com/s/studio/?card=friend_joined&u=Naresh_Kandula&f=1&i=4&t=1795042561&sig=4434c58e15e1a90683bececf88e31a9857ace7c5dccdbe77f2e65f13d6555d26
+
+**Links in post:** https://immunefi.com/s/studio/?card=friend_joined&u=Naresh_Kandula&f=1&i=4&t=1795042561&sig=4434c58e15e1a90683bececf88e31a9857ace7c5dccdbe77f2e65f13d6555d26
+
+
+---
+
+## 2026-11-18 · Thread · I have 5 invites left for @immunefi Studio. Reply if you want in. https://immunefi.com/s/studio/?car
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @naresh_1337 — 2026-11-18 16:33 UTC (2026-11-18 17:33 WAT)
+
+- URL: https://x.com/naresh_1337/status/2123092329150173615
+- Metrics (at fetch): bookmark 0, impression 474, like 8, quote 0, reply 7, repost 4
+
+> I have 5 invites left for @immunefi Studio. Reply if you want in. https://immunefi.com/s/studio/?card=ambassador&u=Naresh_Kandula&i=5&t=1795019373&sig=9d479711933807f8bf457b6e17e2ece810d7ff1c494fbfe353afd50b3400ebaf
+
+**Links in post:** https://immunefi.com/s/studio/?card=ambassador&u=Naresh_Kandula&i=5&t=1795019373&sig=9d479711933807f8bf457b6e17e2ece810d7ff1c494fbfe353afd50b3400ebaf
+
+
+### Thread part 2 — @naresh_1337 — 2026-11-18 16:48 UTC (2026-11-18 17:48 WAT)
+
+- URL: https://x.com/naresh_1337/status/2123096006917005795
+- Metrics (at fetch): bookmark 0, impression 59, like 2, quote 0, reply 0, repost 0
+
+> @sekaisafer @immunefi Hey DM me in chat
+
+
+### Thread part 3 — @naresh_1337 — 2026-11-18 20:07 UTC (2026-11-18 21:07 WAT)
+
+- URL: https://x.com/naresh_1337/status/2123146109283422626
+- Metrics (at fetch): bookmark 0, impression 20, like 1, quote 0, reply 0, repost 0
+
+> @Ayuub421060 @immunefi Dm me please
+
+
+### Thread part 4 — @naresh_1337 — 2026-11-18 20:08 UTC (2026-11-18 21:08 WAT)
+
+- URL: https://x.com/naresh_1337/status/2123146432836460959
+- Metrics (at fetch): bookmark 0, impression 24, like 1, quote 0, reply 0, repost 0
+
+> @kalyan__tr @immunefi Same here I can’t text you
+
+
+### Thread part 5 — @naresh_1337 — 2026-11-18 22:58 UTC (2026-11-18 23:58 WAT)
+
+- URL: https://x.com/naresh_1337/status/2123189015658516881
+- Metrics (at fetch): bookmark 0, impression 12, like 1, quote 0, reply 0, repost 0
+
+> @mylifechangefa1 @immunefi Dm
+
+
+---
+
+## 2026-11-18 · Reply · @0xunineko @immunefi Dm me I have few
+
+
+Tags (automatic): Platform: Immunefi
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @2072881297475956736 — 2026-11-18 15:14 UTC (2026-11-18 16:14 WAT)
+
+- URL: https://x.com/2072881297475956736/status/2123072475764506767
+- Metrics (at fetch): bookmark 0, impression 130, like 3, quote 0, reply 3, retweet 4
+
+> Looking for an invite to @immunefi Studio. Got one to spare? #ImmunefiStudio https://studio.immunefi.com/r/unineko
+
+**Links in post:** https://studio.immunefi.com/r/unineko
+
+
+### Post — @naresh_1337 — 2026-11-18 20:11 UTC (2026-11-18 21:11 WAT)
+
+- URL: https://x.com/naresh_1337/status/2123146994403176725
+- Metrics (at fetch): bookmark 0, impression 14, like 0, quote 0, reply 0, repost 0
+
+> @0xunineko @immunefi Dm me I have few
+
+
+---
+
+## 2026-11-18 · Reply · @hybridthegeek @danielem33 @immunefi Dm
+
+
+Tags (automatic): Platform: Immunefi
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1553261128406499329 — 2026-11-18 14:32 UTC (2026-11-18 15:32 WAT)
+
+- URL: https://x.com/1553261128406499329/status/2123061887617102032
+- Metrics (at fetch): bookmark 0, impression 476, like 8, quote 0, reply 5, retweet 3
+
+> Looking for an invite to @immunefi Studio. 
+>
+> Got one to spare? 
+>
+> #ImmunefiStudio
+>
+> https://studio.immunefi.com/r/hybridthegeek
+
+**Links in post:** https://studio.immunefi.com/r/hybridthegeek
+
+
+### Post — @naresh_1337 — 2026-11-18 17:06 UTC (2026-11-18 18:06 WAT)
+
+- URL: https://x.com/naresh_1337/status/2123100601210769815
+- Metrics (at fetch): bookmark 0, impression 11, like 0, quote 0, reply 0, repost 0
+
+> @hybridthegeek @danielem33 @immunefi Dm
+
+
+---
+
+## 2026-11-18 · Reply · @maFa_686 @danielem33 Dm me
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1596497436763201543 — 2026-11-18 15:16 UTC (2026-11-18 16:16 WAT)
+
+- URL: https://x.com/1596497436763201543/status/2123072852790227139
+- Metrics (at fetch): bookmark 0, impression 225, like 5, quote 0, reply 3, retweet 2
+
+> Immunefi Studio: The All-in-One Research Suite for the AI era https://immunefi.com/blog/company-announcement/immunefi-studio-the-all-in-one-research-suite-for-the-ai-era/ 
+>
+> can somebody invite me 
+> #ImmunefiStudio
+
+**Links in post:** https://immunefi.com/blog/company-announcement/immunefi-studio-the-all-in-one-research-suite-for-the-ai-era/
+
+
+### Post — @naresh_1337 — 2026-11-18 17:06 UTC (2026-11-18 18:06 WAT)
+
+- URL: https://x.com/naresh_1337/status/2123100577572012125
+- Metrics (at fetch): bookmark 0, impression 12, like 0, quote 0, reply 0, repost 0
+
+> @maFa_686 @danielem33 Dm me
+
+
+---
+
+## 2026-11-18 · Reply · @thongtrungtran @danielem33 @immunefi Dm me
+
+
+Tags (automatic): Platform: Immunefi
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1434867532159094787 — 2026-11-18 15:01 UTC (2026-11-18 16:01 WAT)
+
+- URL: https://x.com/1434867532159094787/status/2123069004957007920
+- Metrics (at fetch): bookmark 0, impression 330, like 8, quote 0, reply 4, retweet 3
+
+> Looking for an invite to @immunefi Studio. Got one to spare? #ImmunefiStudio https://studio.immunefi.com/r/trtrth
+
+**Links in post:** https://studio.immunefi.com/r/trtrth
+
+
+### Post — @naresh_1337 — 2026-11-18 17:06 UTC (2026-11-18 18:06 WAT)
+
+- URL: https://x.com/naresh_1337/status/2123100547238797445
+- Metrics (at fetch): bookmark 0, impression 10, like 0, quote 0, reply 0, repost 0
+
+> @thongtrungtran @danielem33 @immunefi Dm me
+
+
+---
+
+## 2026-11-18 · Reply · @Bicktivism @danielem33 @immunefi Dm me
+
+
+Tags (automatic): Platform: Immunefi
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1919555011 — 2026-11-18 15:27 UTC (2026-11-18 16:27 WAT)
+
+- URL: https://x.com/1919555011/status/2123075588214931864
+- Metrics (at fetch): bookmark 0, impression 303, like 5, quote 0, reply 4, retweet 3
+
+> Looking for an invite to @immunefi Studio. Got one to spare? #ImmunefiStudio https://studio.immunefi.com/r/bicktivism
+
+**Links in post:** https://studio.immunefi.com/r/bicktivism
+
+
+### Post — @naresh_1337 — 2026-11-18 17:06 UTC (2026-11-18 18:06 WAT)
+
+- URL: https://x.com/naresh_1337/status/2123100524719259749
+- Metrics (at fetch): bookmark 0, impression 9, like 0, quote 0, reply 0, repost 0
+
+> @Bicktivism @danielem33 @immunefi Dm me
 
 
 ---

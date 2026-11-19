@@ -1,6 +1,6 @@
 # @ajxchapman — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 293
 - Conversations/threads: 198
@@ -2705,9 +2705,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3094698976 — 2021-09-26 01:35 UTC (2021-09-26 02:35 WAT)
+    #### Quoted post — @LiveOverflow — 2021-09-26 01:35 UTC (2021-09-26 02:35 WAT)
     
-    - URL: https://x.com/3094698976/status/1441939456987041809
+    - URL: https://x.com/LiveOverflow/status/1441939456987041809
     - Metrics (at fetch): bookmark 26, impression 0, like 274, quote 6, reply 21, retweet 18
     
     > Sorry for the drama tweet, but imo it's educational!
@@ -4803,9 +4803,11 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
     #### Quoted post — @trailofbits — 2019-01-14 12:36 UTC (2019-01-14 13:36 WAT)
     
     - URL: https://x.com/trailofbits/status/1084791374468259846
-    - Metrics (at fetch): bookmark 18, impression 0, like 124, quote 7, reply 5, retweet 80
+    - Metrics (at fetch): bookmark 18, impression 0, like 124, quote 7, reply 5, repost 80
     
-    > Data from @Hacker0x01 and @facebook proves that bug bounties only benefit a small elite group. Is this model meeting researchers' interests? Read our review of "New Solutions for Cybersecurity" by @mitpress. https://t.co/bt89Jj4MVn
+    > Data from @Hacker0x01 and @facebook proves that bug bounties only benefit a small elite group. Is this model meeting researchers' interests? Read our review of "New Solutions for Cybersecurity" by @mitpress. https://blog.trailofbits.com/2019/01/14/on-bounties-and-boffins/
+    
+    **Links in post:** https://blog.trailofbits.com/2019/01/14/on-bounties-and-boffins/
     
 
 

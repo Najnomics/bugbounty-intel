@@ -1,11 +1,37 @@
 # @Rhynorater — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 429
-- Conversations/threads: 330
+- Posts in this file: 430
+- Conversations/threads: 331
 - Oldest post captured: 2017-06-13
-- Newest post captured: 2026-11-17
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Reply · @NahamSec Hahahaha I also got one
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @NahamSec — 2026-11-18 19:39 UTC (2026-11-18 20:39 WAT)
+
+- URL: https://x.com/NahamSec/status/2123139141559021954
+- Metrics (at fetch): bookmark 7, impression 11765, like 146, quote 0, reply 8, repost 0
+
+> Did I put a payload somewhere and forgot about it or what? [pic.x.com/uQVITDHhMd]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXbnwONa8AAwYIu.jpg — no alt text provided by author
+
+
+### Post — @Rhynorater — 2026-11-18 22:08 UTC (2026-11-18 23:08 WAT)
+
+- URL: https://x.com/Rhynorater/status/2123176479064232388
+- Metrics (at fetch): bookmark 0, impression 536, like 0, quote 0, reply 0, repost 0
+
+> @NahamSec Hahahaha I also got one
 
 
 ---

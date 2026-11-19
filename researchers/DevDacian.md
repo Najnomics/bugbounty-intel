@@ -45,3 +45,8 @@ _Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim post
 - **How it was found:** Commentary.
 - **Takeaways / harness:** Re-scan deployed, previously audited protocols after every upgrade.
 
+
+
+### Update 2026-11-19
+
+- **Model refusal fallback in an audit pipeline** — https://x.com/DevDacian/status/2123023424301973719 — [`posts/DevDacian/2026-11-18-2123023424301973719.md`](../posts/DevDacian/2026-11-18-2123023424301973719.md): gpt-6.2-sol hits cyber-safety refusals on external-review work; automatic fallback to gpt-6-sol (Daybreak Blue) works; Opus 5.5 implemented the refusal-fallback mechanism. Takeaway for harness: detect refusals and re-route automatically.

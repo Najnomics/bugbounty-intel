@@ -91,3 +91,9 @@ _Auto-maintained from `harness/findings.jsonl`. 5 finding(s). Full verbatim post
 ### Update 2026-11-18
 
 - **Lighter nonce-reuse thread** — https://x.com/saxenism/status/2122673176752619797 — [`posts/saxenism/2026-11-17-2122673176752619797.md`](../posts/saxenism/2026-11-17-2122673176752619797.md); supply-chain-is-not-P3 post https://x.com/saxenism/status/2122632691346800678.
+
+
+### Update 2026-11-19
+
+- **Bluethroat Labs Zcash campaign: 4 High + 1 Medium GHSAs published (18 Nov 2026)** — https://x.com/saxenism/status/2123003101548556624 — [`posts/saxenism/2026-11-18-2123003101548556624.md`](../posts/saxenism/2026-11-18-2123003101548556624.md); advisories (verbatim) in [`projects/zcash/advisories/`](../projects/zcash/advisories/) (lightwalletd GHSA-p4pq-3cf7-45rv, GHSA-5xg7-x58j-m5vr, GHSA-xrx5-jc6q-9h8r, GHSA-8vh8-6jg3-8f5v; zebra GHSA-hj54-2mfv-4xg8; earlier zebra high GHSA-9hq5-pfgc-cx5h).
+  - Separately, accepted finding #8 (High) of the Zcash campaign came from reviewing the *remediation* of an already-disclosed bug: the patch closed the reported path but the impact stayed reachable via another path ([post](../posts/saxenism/2026-11-18-2122996063590334928.md)). Takeaway: retest the impact state, not the original PoC; he notes that is closer to a property to formally verify than a test.

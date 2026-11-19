@@ -1,11 +1,158 @@
 # @lonelysloth_sec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 185
-- Conversations/threads: 142
+- Posts in this file: 191
+- Conversations/threads: 146
 - Oldest post captured: 2023-12-17
-- Newest post captured: 2026-11-17
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Post · One interesting phenomenon in regards to “AI” is that bots on X love interacting with the posts of o
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-11-18 23:35 UTC (2026-11-19 00:35 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123198426636808602
+- Metrics (at fetch): bookmark 1, impression 321, like 6, quote 0, reply 0, repost 0
+
+> One interesting phenomenon in regards to “AI” is that bots on X love interacting with the posts of other bots.
+>
+> The thingy that generated the nonsense and thought it must be engaging also looks at it and evaluates it to be engaging and worth replying to.
+>
+> Sometimes its close enough to human text that you think the poster must have serious issues.
+>
+> A little later you realize no human on Earth would ever produce such string of text because it doesn’t make any sense in the real world. No matter how mentally ill.
+>
+> When the success modes and failure modes are so distinct from the product of a human mind, the only logical conclusion is that the underlying process is completely unrelated to how a human mind works.
+>
+> But sure. Let’s burn a few more trillions. We just need one more order of magnitude capex to create God.
+
+
+---
+
+## 2026-11-18 · Thread · @unusual_whales In other words AI caused the problem.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1200616796295847936 — 2026-11-18 15:57 UTC (2026-11-18 16:57 WAT)
+
+- URL: https://x.com/1200616796295847936/status/2123083056034820189
+- Metrics (at fetch): bookmark 130, impression 202931, like 1333, quote 28, reply 87, retweet 85
+
+> Wall Street execs and NSA have told Congress that outages were caused by patching vulnerabilities identified by AI models, per Washington Sun
+>
+> AI did not cause outages but found so many issues that the rush to fix them before an attack overwhelmed systems
+
+
+### Post — @lonelysloth_sec — 2026-11-18 16:21 UTC (2026-11-18 17:21 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123089338233979286
+- Metrics (at fetch): bookmark 0, impression 1821, like 25, quote 0, reply 3, repost 0
+
+> @unusual_whales In other words AI caused the problem.
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-11-18 19:59 UTC (2026-11-18 20:59 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123144168977686972
+- Metrics (at fetch): bookmark 0, impression 52, like 0, quote 0, reply 2, repost 0
+
+> AI made it impossible to prioritize which problems to fix because it produces so many reports.
+>
+> At the same time attackers have access to the same AI so you can’t simply ignore the reports and you must deploy fixes super fast, often using AI, which increases the likelihood of causing new problems.
+>
+> This is a situation that didn’t exist before AI.
+>
+> Therefore AI caused the problem
+
+
+### Thread part 3 — @lonelysloth_sec — 2026-11-18 20:58 UTC (2026-11-18 21:58 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123158954587152473
+- Metrics (at fetch): bookmark 0, impression 29, like 0, quote 1, reply 0, repost 0
+
+> @00AgentSquirrel @unusual_whales “Skill issue” sure. I explained to you why you are wrong.
+>
+> Im not sure if youre a bot or just dont actually want to understand.
+>
+> So im blocking you just in case
+
+
+---
+
+## 2026-11-18 · Reply · The open and free internet is dead. Everything will be paywalls and gatekeepers.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @397689316 — 2026-11-18 10:37 UTC (2026-11-18 11:37 WAT)
+
+- URL: https://x.com/397689316/status/2123002705300136105
+- Metrics (at fetch): bookmark 40, impression 10473, like 281, quote 5, reply 11, retweet 34
+
+> “If my work just get mixed into an AI-generated answer, I lose my voice and my audience. My carefully chosen words lose their meaning….This is the future of the internet. No websites, just a chat box with ads.” https://twitter.com/bibryam/status/2122988884883828897
+
+**Links in post:** https://twitter.com/bibryam/status/2122988884883828897
+
+**Quoted post** 2122988884883828897: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @lonelysloth_sec — 2026-11-18 20:18 UTC (2026-11-18 21:18 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123148766157177266
+- Metrics (at fetch): bookmark 0, impression 77, like 0, quote 0, reply 0, repost 0
+
+> The open and free internet is dead. Everything will be paywalls and gatekeepers.
+>
+> AI companies will still try to hack around the paywalls (as they already did).
+>
+> The default assumption should be that sites cant be used for training or even summarized by AI without explicit permission.
+>
+> Of course hacking around a paywall is just a federal crime and claiming it was a rogue model doesn’t excuse anyone of responsibility.
+
+
+---
+
+## 2026-11-18 · Reply · @jdnoc In fact i feel they are getting objectively less “smart”.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @3355146352 — 2026-11-18 14:50 UTC (2026-11-18 15:50 WAT)
+
+- URL: https://x.com/3355146352/status/2123066197193228730
+- Metrics (at fetch): bookmark 352, impression 290741, like 1779, quote 61, reply 447, retweet 47
+
+> My contrarian take is that LLMs will not get any "smarter" than they are today. 
+>
+> They will get more efficient, more capable (plugins / memory / context / skills), more specialized,
+>
+> but we're at the peak of artificial intelligence.
+>
+> And we can see that. The last several months of new releases are not that different from the last.
+>
+> It's like the iPhone - it came in and disrupted everything. But now that we're at the 10th+ iteration buying the brand new phone isn't that much of an upgrade to justify it.
+
+
+### Post — @lonelysloth_sec — 2026-11-18 20:10 UTC (2026-11-18 21:10 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123146925088313427
+- Metrics (at fetch): bookmark 0, impression 68, like 1, quote 0, reply 0, repost 0
+
+> @jdnoc In fact i feel they are getting objectively less “smart”.
 
 
 ---

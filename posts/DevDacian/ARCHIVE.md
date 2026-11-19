@@ -1,11 +1,174 @@
 # @DevDacian — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 412
-- Conversations/threads: 363
+- Posts in this file: 418
+- Conversations/threads: 367
 - Oldest post captured: 2023-02-23
-- Newest post captured: 2026-11-17
+- Newest post captured: 2026-11-19
+
+
+---
+
+## 2026-10-09 · Thread · 3yr speedrun auditor -&gt; executive, ask me anything https://twitter.com/DevDacian/status/171136030
+
+
+### Post — @DevDacian — 2026-10-09 12:26 UTC (2026-10-09 13:26 WAT)
+
+- URL: https://x.com/DevDacian/status/2108534559436628470
+- Metrics (at fetch): bookmark 17, impression 4124, like 69, quote 0, reply 16, retweet 2
+
+> 3yr speedrun auditor -&gt; executive, ask me anything https://twitter.com/DevDacian/status/1711360309011882321
+
+**Links in post:** https://twitter.com/DevDacian/status/1711360309011882321
+
+**Quoted post (full text):**
+
+    #### Quoted post — @DevDacian — 2023-10-09 12:37 UTC (2023-10-09 13:37 WAT)
+    
+    - URL: https://x.com/DevDacian/status/1711360309011882321
+    - Metrics (at fetch): not returned
+    
+    > October 2022 - started learning solidity as a hobby
+    >
+    > March 2023 - focusing on security &amp; began writing my "Deep Dive" series
+    >
+    > October 2023 - blessed to join @cyfrin as a full-time smart contract security researcher!
+    >
+    > 🚀A lot can change in a year if you put your mind to it🚀
+    
+
+
+### Thread part 2 — @DevDacian — 2026-11-19 02:24 UTC (2026-11-19 03:24 WAT)
+
+- URL: https://x.com/DevDacian/status/2123240887924949301
+- Metrics (at fetch): bookmark 0, impression 39, like 0, quote 0, reply 1, repost 0
+
+> @tarpert1 i warned last year that many SRs should pivot to plumbing but few heeded my warnings, this year many of them have had a very difficult year being mostly unemployed.
+>
+> if you aren't already strongly established in the industry, best to find something else to do.
+
+
+### Thread part 3 — @DevDacian — 2026-11-19 02:33 UTC (2026-11-19 03:33 WAT)
+
+- URL: https://x.com/DevDacian/status/2123243356482601107
+- Metrics (at fetch): bookmark 0, impression 40, like 1, quote 0, reply 2, repost 0
+
+> @tarpert1 just my personal view which I warned about last year and it came true. i'm sorry it isn't what you wanted to hear but it is the reality - it is harder than ever to enter this industry if you aren't already very well established.
+>
+> best of luck hoping you find somewhere to shine!
+
+
+---
+
+## 2026-11-19 · Reply · @0x158_ This is why larger well-funded and/or profitable protocols have:
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1390514234006540294 — 2026-11-18 07:14 UTC (2026-11-18 08:14 WAT)
+
+- URL: https://x.com/1390514234006540294/status/2122951594019090717
+- Metrics (at fetch): bookmark 1, impression 1179, like 43, quote 0, reply 5, retweet 0
+
+> Sometimes I think security researchers could add far more value by working closely with 1 protocol instead of constantly jumping between codebases.
+> Building deep knowledge + continuous reviews,catching bugs as the protocol evolves. It's a win-win. Wish more teams understood this.
+
+
+### Post — @DevDacian — 2026-11-19 02:22 UTC (2026-11-19 03:22 WAT)
+
+- URL: https://x.com/DevDacian/status/2123240377536872468
+- Metrics (at fetch): bookmark 0, impression 84, like 2, quote 0, reply 0, repost 0
+
+> @0x158_ This is why larger well-funded and/or profitable protocols have:
+>
+> 1) been hiring full-time internal SRs all year
+> 2) retainer agreements with tier 1 security firms
+>
+> So at the top-end of the industry, this is already happening &amp; is common practice.
+
+
+---
+
+## 2026-11-19 · Reply · @Jeyffre agreed &amp; I think Google has too many active models as well, anthropic gets it right her
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @192462804 — 2026-11-19 01:14 UTC (2026-11-19 02:14 WAT)
+
+- URL: https://x.com/192462804/status/2123223469790056780
+- Metrics (at fetch): bookmark 1, impression 959, like 14, quote 0, reply 2, retweet 1
+
+> Google - your models are amazing and I'm happy you are in the race.
+>
+> Been using Gemini more and more.
+>
+> That said, your naming is incredibly confusing.
+>
+> There's no obvious pattern in the elements you choose which indicate which model is bigger than the other.
+>
+> Hydrogen? One atom, I get it, it's small. Carbon is 6x as big? Because it's a solid it's more dense?
+>
+> What's the relationship between Neon and Argon besides being noble gases?
+>
+> On the periodic table, Neon is not between Hydrogen and Carbon.
+>
+> Please fix.
+
+**Links in post:** https://twitter.com/GoogleDeepMind/status/2123167884411077030
+
+**Quoted post** 2123167884411077030: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @DevDacian — 2026-11-19 01:34 UTC (2026-11-19 02:34 WAT)
+
+- URL: https://x.com/DevDacian/status/2123228284674879981
+- Metrics (at fetch): bookmark 0, impression 87, like 1, quote 0, reply 0, repost 0
+
+> @Jeyffre agreed &amp; I think Google has too many active models as well, anthropic gets it right here with Fable &amp; Opus being the main focus (2 great options, keep it simple).
+
+
+---
+
+## 2026-11-18 · Post · gpt-6.2-sol unusable as bad as opus 5 which was a horrible release.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-11-18 14:19 UTC (2026-11-18 15:19 WAT)
+
+- URL: https://x.com/DevDacian/status/2123058508333781262
+- Metrics (at fetch): bookmark 1, impression 1097, like 18, quote 0, reply 4, repost 0
+
+> gpt-6.2-sol unusable as bad as opus 5 which was a horrible release.
+>
+> very pedantic &amp; manic, makes a mountain out of a molehill.
+>
+> disappointing release, switching back to gpt-6.1-sol for external cross-model review.
+>
+> 👑 opus-5.5 still king, anthropic on the throne 👑
+
+
+---
+
+## 2026-11-18 · Post · Using gpt-6.2-sol high as external reviewer, hit multiple cyber safety refusals on same work which g
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-11-18 12:00 UTC (2026-11-18 13:00 WAT)
+
+- URL: https://x.com/DevDacian/status/2123023424301973719
+- Metrics (at fetch): bookmark 5, impression 4591, like 43, quote 0, reply 9, repost 0
+
+> Using gpt-6.2-sol high as external reviewer, hit multiple cyber safety refusals on same work which gpt-6.1-sol never refused.
+>
+> Automatic fallback to gpt-6-sol with daybreak blue enabled worked, but an unpleasant surprise that openai tightened default cyber restrictions.
+>
+> Also gpt astra/sol refused to implement my cyber safety refusal automatic fallback mechanism but opus-5.5 high implemented it with no complaints & it is working great, cheers anthropic :-)
 
 
 ---
@@ -626,37 +789,6 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HUWN0k1a0AAbx53.jpg — no alt text provided by author
-
-
----
-
-## 2026-10-09 · Post · 3yr speedrun auditor -&gt; executive, ask me anything https://twitter.com/DevDacian/status/171136030
-
-
-### Post — @DevDacian — 2026-10-09 12:26 UTC (2026-10-09 13:26 WAT)
-
-- URL: https://x.com/DevDacian/status/2108534559436628470
-- Metrics (at fetch): bookmark 17, impression 4124, like 69, quote 0, reply 16, retweet 2
-
-> 3yr speedrun auditor -&gt; executive, ask me anything https://twitter.com/DevDacian/status/1711360309011882321
-
-**Links in post:** https://twitter.com/DevDacian/status/1711360309011882321
-
-**Quoted post (full text):**
-
-    #### Quoted post — @DevDacian — 2023-10-09 12:37 UTC (2023-10-09 13:37 WAT)
-    
-    - URL: https://x.com/DevDacian/status/1711360309011882321
-    - Metrics (at fetch): not returned
-    
-    > October 2022 - started learning solidity as a hobby
-    >
-    > March 2023 - focusing on security &amp; began writing my "Deep Dive" series
-    >
-    > October 2023 - blessed to join @cyfrin as a full-time smart contract security researcher!
-    >
-    > 🚀A lot can change in a year if you put your mind to it🚀
-    
 
 
 ---

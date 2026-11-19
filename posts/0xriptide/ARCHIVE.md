@@ -1,11 +1,54 @@
 # @0xriptide — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 220
-- Conversations/threads: 213
+- Posts in this file: 221
+- Conversations/threads: 214
 - Oldest post captured: 2014-07-21
-- Newest post captured: 2026-11-16
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Reply · @XeEaton @BlackHatEvents wild stuff! looking forward to the briefing in london
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @116276827 — 2026-11-04 15:46 UTC (2026-11-04 16:46 WAT)
+
+- URL: https://x.com/116276827/status/2118006876528861205
+- Metrics (at fetch): bookmark 56, impression 22828, like 99, quote 0, reply 6, retweet 9
+
+> Today I am fully revealing my ultimate vulnerability disclosure project. If you thought October was bad for cyber, it is about to get worse.
+>
+> Introducing "God Mode at the Border: Compromising Global Passport, Visa, and Immigration Systems" - my upcoming @BlackHatEvents Europe 2026 briefing.
+>
+> The full abstract:
+>
+> Nigeria. Ethiopia. Fiji. Sri Lanka. Zambia. Ghana. These nations all have one thing in common now: they had systemic API flaws that threatened their national security.
+>
+> Governments all over the world in recent years have sought to improve the accessibility of their services by putting more of them online. This includes passport, visa, and immigration systems. Many of these online systems are actually developed by third-party contractors with varying levels of security acumen. It turns out, these new systems can be so insecure to the point where the vulnerabilities threaten the borders of entire countries.
+>
+> This briefing dives into the process of identifying and exploiting online immigration systems across 6 different governments. This is more than just gaining access to millions of passport and visa applications - this is about gaining active control over the border control systems of multiple countries to the point where I was able to decide who gets a passport and what visas would be valid at the airport.
+>
+> Critical API vulnerabilities, such as Broken Object Level Authorization (BOLA), Broken Function Level Authorization (BFLA), and missing authentication were uncovered in systems vital to national security and border control. Coupled with creative client-side Javascript patches to bypass Keycloak and other custom authentication systems, it was possible to gain a powerful foothold in many systems.
+>
+> Millions around the globe, from North Koreans to the world’s richest and most influential people, had their passports, fingerprints, travel plans, and other sensitive information exposed by these vulnerabilities.
+>
+> Through responsible disclosure, all vulnerabilities were resolved - neutralizing critical threats to worldwide border security.
+>
+> By the end of this briefing, you will have learned how systemic API vulnerabilities have become commonplace across borders, and be armed with the knowledge to hunt for them yourself or defend against them.
+>
+> #GMatB #BHEU
+
+
+### Post — @0xriptide — 2026-11-18 15:41 UTC (2026-11-18 16:41 WAT)
+
+- URL: https://x.com/0xriptide/status/2123079209841279039
+- Metrics (at fetch): bookmark 0, impression 12, like 0, quote 0, reply 0, repost 0
+
+> @XeEaton @BlackHatEvents wild stuff! looking forward to the briefing in london
 
 
 ---

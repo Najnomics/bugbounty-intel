@@ -38,3 +38,8 @@ _Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim post
 ### Update 2026-11-18
 
 - gVisor / ZeroDay Cloud thread replies (2026-11-17): 'strong sandbox implementation'; ZDC attack surface small — [`posts/farazsth98/2026-11-17-2122738468493443193.md`](../posts/farazsth98/2026-11-17-2122738468493443193.md).
+
+
+### Update 2026-11-19
+
+- **NGINX2Shell / NGINX2Root commentary** — https://x.com/farazsth98/status/2123073555340615910 (quotes @ikotas00) and replies [`posts/farazsth98/`](../posts/farazsth98/): the '2root' part uses an unrelated Linux kernel SCTP bug, the nginx bugs themselves are the interesting part. Full Xint writeup [`writeups/farazsth98/xint-nginx2root-remote-code-execution.md`](../writeups/farazsth98/xint-nginx2root-remote-code-execution.md) (5 nginx CVEs, affected-config table, exposure-check commands, container escape chain).

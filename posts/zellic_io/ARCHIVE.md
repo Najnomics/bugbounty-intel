@@ -1,11 +1,46 @@
 # @zellic_io — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 545
-- Conversations/threads: 126
+- Posts in this file: 546
+- Conversations/threads: 127
 - Oldest post captured: 2022-01-27
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Post · Another huge shoutout to Zellic Cryptographer @JiaxinGuan, who presented both of his accepted papers
+
+
+### Post — @zellic_io — 2026-11-18 22:27 UTC (2026-11-18 23:27 WAT)
+
+- URL: https://x.com/zellic_io/status/2123181334294380827
+- Metrics (at fetch): bookmark 6, impression 1351, like 31, quote 0, reply 1, repost 2
+
+> Another huge shoutout to Zellic Cryptographer @JiaxinGuan, who presented both of his accepted papers at TCC in New York!
+>
+> His paper "A Complexity-Theoretic Approach to Proofs of Space" received the Outstanding Paper Award: https://eprint.iacr.org/2026/1470 [pic.x.com/BM0VFP9iKS] https://twitter.com/zellic_io/status/2112637096976609682
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXcMDs0bkAAewTK.jpg — no alt text provided by author
+
+**Links in post:** https://eprint.iacr.org/2026/1470, https://twitter.com/zellic_io/status/2112637096976609682
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zellic_io — 2026-10-20 20:08 UTC (2026-10-20 21:08 WAT)
+    
+    - URL: https://x.com/zellic_io/status/2112637096976609682
+    - Metrics (at fetch): bookmark 7, impression 4940, like 73, quote 1, reply 2, retweet 4
+    
+    > Congrats to Zellic Cryptographer @JiaxinGuan for two accepted papers at TCC 2026, with one of them earning the Outstanding Paper Award!
+    >
+    > He will be presenting both results at the Theory of Cryptography Conference in New York this November. [pic.x.com/PSRzy7kOSj]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HVGT-BcaIAAeeXh.png — no alt text provided by author
+    
 
 
 ---

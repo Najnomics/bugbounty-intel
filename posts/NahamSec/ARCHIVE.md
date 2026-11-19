@@ -1,11 +1,175 @@
 # @NahamSec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1173
-- Conversations/threads: 997
+- Posts in this file: 1184
+- Conversations/threads: 1002
 - Oldest post captured: 2016-09-01
-- Newest post captured: 2026-11-17
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Thread · Did I put a payload somewhere and forgot about it or what? [pic.x.com/uQVITDHhMd]
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @NahamSec — 2026-11-18 19:39 UTC (2026-11-18 20:39 WAT)
+
+- URL: https://x.com/NahamSec/status/2123139141559021954
+- Metrics (at fetch): bookmark 7, impression 11765, like 146, quote 0, reply 8, repost 0
+
+> Did I put a payload somewhere and forgot about it or what? [pic.x.com/uQVITDHhMd]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXbnwONa8AAwYIu.jpg — no alt text provided by author
+
+
+### Thread part 2 — @NahamSec — 2026-11-18 19:59 UTC (2026-11-18 20:59 WAT)
+
+- URL: https://x.com/NahamSec/status/2123144050522124536
+- Metrics (at fetch): bookmark 0, impression 951, like 1, quote 0, reply 1, repost 0
+
+> @k_firsov That can also be my userid since I've been on h1 since 2014ish
+
+
+### Thread part 3 — @NahamSec — 2026-11-18 20:18 UTC (2026-11-18 21:18 WAT)
+
+- URL: https://x.com/NahamSec/status/2123148965332086873
+- Metrics (at fetch): bookmark 2, impression 2390, like 33, quote 0, reply 3, repost 1
+
+> @zseano Damn, we really are just numbers to these platforms 🤣
+
+
+### Thread part 4 — @NahamSec — 2026-11-18 22:57 UTC (2026-11-18 23:57 WAT)
+
+- URL: https://x.com/NahamSec/status/2123188803687129519
+- Metrics (at fetch): bookmark 0, impression 292, like 0, quote 0, reply 1, repost 0
+
+> @TimHaines @zseano I remember your program back in the day
+
+
+---
+
+## 2026-11-18 · Post · 2 days until Prompt2Pwn. Hackers will work on real partner-supplied AI scope in Oakland, with partn
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2026-11-18 21:15 UTC (2026-11-18 22:15 WAT)
+
+- URL: https://x.com/NahamSec/status/2123163083497677256
+- Metrics (at fetch): bookmark 0, impression 2461, like 15, quote 0, reply 3, repost 3
+
+> 2 days until #Prompt2Pwn. Hackers will work on real partner-supplied AI scope in Oakland, with partner teams on site to help.
+>
+> The NahamCon talks stream worldwide for everyone following along.
+>
+> Details: https://p2p.nahamcon.com/ [pic.x.com/yUDtFw04gv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXYiEOIawAAf22E.jpg — no alt text provided by author
+
+**Links in post:** https://p2p.nahamcon.com/
+
+
+---
+
+## 2026-11-18 · Thread · @busf4ctor @rafabyte_ 👀👀👀👀
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @4309561582 — 2026-11-18 12:13 UTC (2026-11-18 13:13 WAT)
+
+- URL: https://x.com/4309561582/status/2123026728188567695
+- Metrics (at fetch): bookmark 6, impression 1783, like 63, quote 0, reply 2, retweet 1
+
+> Our (@rafabyte_ and I) presentation for prompt2pwn + nahamsec on Friday has over 200 slides
+>
+> @NahamSec [pic.x.com/QqKNh3YpaD]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXaBgD6XwAAe3Qf.png — no alt text provided by author
+
+
+### Post — @NahamSec — 2026-11-18 17:39 UTC (2026-11-18 18:39 WAT)
+
+- URL: https://x.com/NahamSec/status/2123108793462751722
+- Metrics (at fetch): bookmark 0, impression 164, like 0, quote 0, reply 0, repost 0
+
+> @busf4ctor @rafabyte_ 👀👀👀👀
+
+
+### Thread part 2 — @NahamSec — 2026-11-18 19:37 UTC (2026-11-18 20:37 WAT)
+
+- URL: https://x.com/NahamSec/status/2123138551156297862
+- Metrics (at fetch): bookmark 0, impression 61, like 0, quote 0, reply 0, repost 0
+
+> @nmatt0 @busf4ctor @rafabyte_ No pressure guys 😥
+
+
+---
+
+## 2026-11-18 · Thread · Tomorrow at noon PT, the Prompt2Pwn CTF clock starts. ⏱️
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2026-11-18 12:14 UTC (2026-11-18 13:14 WAT)
+
+- URL: https://x.com/NahamSec/status/2123026936280854566
+- Metrics (at fetch): bookmark 5, impression 5331, like 26, quote 0, reply 3, repost 5
+
+> Tomorrow at noon PT, the #Prompt2Pwn CTF clock starts. ⏱️
+>
+> 48 hours. 30+ challenges. $5K+ in prizes. Bring your team and leave time for the bank heist thanks to @pdiscoveryio.
+>
+> Details: https://p2p.nahamcon.com/ [pic.x.com/dwjKfnZ25P]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXYh0BWb0AAAWr6.jpg — no alt text provided by author
+
+**Links in post:** https://p2p.nahamcon.com/
+
+
+### Thread part 2 — @NahamSec — 2026-11-18 19:36 UTC (2026-11-18 20:36 WAT)
+
+- URL: https://x.com/NahamSec/status/2123138363196875071
+- Metrics (at fetch): bookmark 0, impression 75, like 1, quote 0, reply 0, repost 0
+
+> @atomicbyte_ @pdiscoveryio little bit of everything!
+
+
+### Thread part 3 — @NahamSec — 2026-11-18 19:37 UTC (2026-11-18 20:37 WAT)
+
+- URL: https://x.com/NahamSec/status/2123138437129892091
+- Metrics (at fetch): bookmark 0, impression 63, like 0, quote 0, reply 0, repost 0
+
+> @moh5er @pdiscoveryio Nope, we have classic web, binary, ai, etc.
+
+
+---
+
+## 2026-11-18 · Post · 2 days until NahamCon2026. 🔥
+
+
+### Post — @NahamSec — 2026-11-18 17:15 UTC (2026-11-18 18:15 WAT)
+
+- URL: https://x.com/NahamSec/status/2123102685914116481
+- Metrics (at fetch): bookmark 1, impression 2873, like 11, quote 0, reply 1, repost 0
+
+> 2 days until #NahamCon2026. 🔥
+>
+> Michael Cartsonis is speaking Friday on “Saving open source one remediation at time.” Finding bugs is only half the job; getting fixes into open source matters too.
+>
+> Full schedule: https://p2p.nahamcon.com/#agenda
+
+**Links in post:** https://p2p.nahamcon.com/#agenda
 
 
 ---
@@ -254,10 +418,12 @@ Tags (automatic): AI-assisted hunting
 >
 > The CTF starts Nov 19 at noon PT: 48 hours, 30+ challenges, $5,000+ in prizes.
 >
-> Details: https://t.co/CTSdREmCiv https://t.co/sdutAmVX3I
+> Details: https://p2p.nahamcon.com/ https://t.co/sdutAmVX3I
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HWvMqlNboAAntuS.jpg — no alt text provided by author
+
+**Links in post:** https://p2p.nahamcon.com/
 
 
 ---
@@ -6112,9 +6278,9 @@ Tags (automatic): XSS, Account takeover
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3094698976 — 2023-09-23 14:48 UTC (2023-09-23 15:48 WAT)
+    #### Quoted post — @LiveOverflow — 2023-09-23 14:48 UTC (2023-09-23 15:48 WAT)
     
-    - URL: https://x.com/3094698976/status/1705595087315493236
+    - URL: https://x.com/LiveOverflow/status/1705595087315493236
     - Metrics (at fetch): bookmark 23, impression 58365, like 280, quote 7, reply 11, retweet 17
     
     > One of the most important lessons I have learned creating content:

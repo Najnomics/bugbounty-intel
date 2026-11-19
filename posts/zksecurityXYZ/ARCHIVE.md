@@ -1,11 +1,38 @@
 # @zksecurityXYZ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 456
-- Conversations/threads: 377
+- Posts in this file: 457
+- Conversations/threads: 378
 - Oldest post captured: 2023-05-16
-- Newest post captured: 2026-11-16
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Reply · @_patrickogrady 🫡
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @851971800 — 2026-11-18 15:56 UTC (2026-11-18 16:56 WAT)
+
+- URL: https://x.com/851971800/status/2123083044680867887
+- Metrics (at fetch): bookmark 4, impression 1674, like 33, quote 0, reply 2, retweet 1
+
+> Bajillion is now in ALPHA (and under audit at @zksecurityXYZ):
+>
+> https://github.com/commonwarexyz/monorepo/pull/5591
+
+**Links in post:** https://github.com/commonwarexyz/monorepo/pull/5591
+
+
+### Post — @zksecurityXYZ — 2026-11-18 17:30 UTC (2026-11-18 18:30 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2123106587220808187
+- Metrics (at fetch): bookmark 0, impression 116, like 1, quote 0, reply 0, repost 0
+
+> @_patrickogrady 🫡
 
 
 ---

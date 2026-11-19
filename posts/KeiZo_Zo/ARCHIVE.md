@@ -1,11 +1,91 @@
 # @KeiZo_Zo — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 25
-- Conversations/threads: 19
+- Posts in this file: 29
+- Conversations/threads: 21
 - Oldest post captured: 2022-09-26
-- Newest post captured: 2026-11-15
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Thread · @v4rvl @cantinasecurity @MezoNetwork @dYdX @arcus_xyz Have you got any response from @dYdX for these
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1301404276556812288 — 2026-06-24 19:31 UTC (2026-06-24 20:31 WAT)
+
+- URL: https://x.com/1301404276556812288/status/2069865939722543462
+- Metrics (at fetch): bookmark 11, impression 21060, like 53, quote 1, reply 10, retweet 3
+
+> Anyone bug hunting on @cantinasecurity and has an idea of what is going on with @MezoNetwork or @dYdX? 
+>
+> Both programs are unresponsive and have multiple submissions in review for longer than a month. 
+>
+> This is from me alone, while other SRs are experiencing the same issue.
+>
+> The current state of Cantina is that they are being pushed back by the projects on their own platform and literally refuse to communicate. 
+>
+> I believe they can do better.
+>
+> At the moment no project on Cantina has SLAs displayed, except @injective - who has quite a few open disputes on previous platforms they were active on, so that's a skip. 
+>
+> I do have to thank "Mar-admin" for triage on DYDX, super helpful input.  
+>
+> Aside from that, both projects are silent, Cantina is silent and actually @dYdX employee is passing the ball fully in Cantina's court. 
+>
+> If any Cantina employees, or projects with active programs can shed some light into what is the status of the platform - that would be much appreciated.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HLmiyFeW4AARE7V.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HLmi1bLWUAAGvr2.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HLmjmrKWUAAn2Ev.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HLmjp2CW0AE7S-I.png — no alt text provided by author
+
+
+### Post — @KeiZo_Zo — 2026-11-18 21:08 UTC (2026-11-18 22:08 WAT)
+
+- URL: https://x.com/KeiZo_Zo/status/2123161469193752969
+- Metrics (at fetch): bookmark 0, impression 17, like 0, quote 0, reply 1, repost 0
+
+> @v4rvl @cantinasecurity @MezoNetwork @dYdX @arcus_xyz Have you got any response from @dYdX for these reports? I have a few reports open for them from September
+
+
+### Thread part 2 — @KeiZo_Zo — 2026-11-18 21:24 UTC (2026-11-18 22:24 WAT)
+
+- URL: https://x.com/KeiZo_Zo/status/2123165586574229900
+- Metrics (at fetch): bookmark 0, impression 14, like 1, quote 0, reply 1, repost 0
+
+> @v4rvl @cantinasecurity @MezoNetwork @dYdX @arcus_xyz yikes.. I've got 3 dupes and 4 "in review" that passed the cantina triage. Most of them been open now for almost 3 months
+
+
+### Thread part 3 — @KeiZo_Zo — 2026-11-18 21:31 UTC (2026-11-18 22:31 WAT)
+
+- URL: https://x.com/KeiZo_Zo/status/2123167336664301597
+- Metrics (at fetch): bookmark 0, impression 11, like 1, quote 0, reply 0, repost 0
+
+> @v4rvl @cantinasecurity @MezoNetwork @dYdX @arcus_xyz I’ve been through all of them and actually started my journey from web2
+
+
+---
+
+## 2026-11-18 · Reply · @HolyDevoti0n @Yurikk28 @immunefi Are the dupe reviews included within the ”subscription” or do they
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @KeiZo_Zo — 2026-11-18 15:40 UTC (2026-11-18 16:40 WAT)
+
+- URL: https://x.com/KeiZo_Zo/status/2123078855217062341
+- Metrics (at fetch): bookmark 0, impression 17, like 0, quote 0, reply 0, repost 0
+
+> @HolyDevoti0n @Yurikk28 @immunefi Are the dupe reviews included within the ”subscription” or do they pay extra?
 
 
 ---

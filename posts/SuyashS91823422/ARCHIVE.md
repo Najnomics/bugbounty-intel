@@ -1,11 +1,67 @@
 # @SuyashS91823422 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 122
-- Conversations/threads: 104
+- Posts in this file: 124
+- Conversations/threads: 106
 - Oldest post captured: 2021-10-06
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Reply · @Bugcrowd By getting regular pvt invites
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Bugcrowd — 2026-11-18 15:45 UTC (2026-11-18 16:45 WAT)
+
+- URL: https://x.com/Bugcrowd/status/2123080050740183273
+- Metrics (at fetch): bookmark 11, impression 9766, like 116, quote 4, reply 47, retweet 3
+
+> As a hacker, how do you stay motivated? 💻🤓
+
+
+### Post — @SuyashS91823422 — 2026-11-18 15:59 UTC (2026-11-18 16:59 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2123083602401571303
+- Metrics (at fetch): bookmark 0, impression 265, like 0, quote 0, reply 0, repost 0
+
+> @Bugcrowd By getting regular pvt invites
+
+
+---
+
+## 2026-11-18 · Reply · @Tanishqshah2 That’s awesome
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Tanishqshah2 — 2026-11-18 13:14 UTC (2026-11-18 14:14 WAT)
+
+- URL: https://x.com/Tanishqshah2/status/2123042058487349359
+- Metrics (at fetch): bookmark 51, impression 5467, like 243, quote 0, reply 10, retweet 2
+
+> Well, that record didn't last long! [pic.x.com/l0eph69eMA] https://twitter.com/Tanishqshah2/status/2112235388299579611
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXaPLqzacAAb4fb.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/Tanishqshah2/status/2112235388299579611
+
+**Quoted post** 2112235388299579611: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @SuyashS91823422 — 2026-11-18 14:15 UTC (2026-11-18 15:15 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2123057618403160328
+- Metrics (at fetch): bookmark 0, impression 208, like 2, quote 0, reply 0, repost 0
+
+> @Tanishqshah2 That’s awesome
 
 
 ---

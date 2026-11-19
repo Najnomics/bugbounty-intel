@@ -1,11 +1,60 @@
 # @galnagli — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 307
-- Conversations/threads: 212
+- Posts in this file: 309
+- Conversations/threads: 214
 - Oldest post captured: 2020-07-24
-- Newest post captured: 2026-11-17
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Reply · @sundarpichai 🤙
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @14130366 — 2026-11-18 19:58 UTC (2026-11-18 20:58 WAT)
+
+- URL: https://x.com/14130366/status/2123143850210533408
+- Metrics (at fetch): bookmark 309, impression 544541, like 6470, quote 148, reply 362, retweet 262
+
+> Happy WedNEsday! [pic.x.com/yD0VKPOGEx]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/HXbsB_laQAAMO47.jpg — no alt text provided by author
+
+
+### Post — @galnagli — 2026-11-18 20:44 UTC (2026-11-18 21:44 WAT)
+
+- URL: https://x.com/galnagli/status/2123155384345203054
+- Metrics (at fetch): bookmark 0, impression 243, like 0, quote 0, reply 0, repost 0
+
+> @sundarpichai 🤙
+
+
+---
+
+## 2026-11-18 · Reply · @OfficialLoganK 🔥
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @284333988 — 2026-11-18 02:15 UTC (2026-11-18 03:15 WAT)
+
+- URL: https://x.com/284333988/status/2122876403091959982
+- Metrics (at fetch): bookmark 370, impression 1397113, like 9420, quote 723, reply 520, retweet 464
+
+> Gemini
+
+
+### Post — @galnagli — 2026-11-18 15:33 UTC (2026-11-18 16:33 WAT)
+
+- URL: https://x.com/galnagli/status/2123077061593977192
+- Metrics (at fetch): bookmark 0, impression 547, like 2, quote 0, reply 1, repost 0
+
+> @OfficialLoganK 🔥
 
 
 ---

@@ -1,11 +1,41 @@
 # @garethheyes — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 559
-- Conversations/threads: 501
+- Posts in this file: 561
+- Conversations/threads: 502
 - Oldest post captured: 2008-10-22
-- Newest post captured: 2026-11-17
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Thread · We didn't think it was possible to get XSS in innerHTML without equals, @kinugawamasato proved us wr
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2026-11-18 14:40 UTC (2026-11-18 15:40 WAT)
+
+- URL: https://x.com/garethheyes/status/2123063796839125030
+- Metrics (at fetch): bookmark 35, impression 3980, like 77, quote 0, reply 3, repost 16
+
+> We didn't think it was possible to get XSS in innerHTML without equals, @kinugawamasato proved us wrong. Link to blog post 👇 [pic.x.com/aZCSVpO4E5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXaeGOcWUAEoRSm.png — no alt text provided by author
+
+
+### Thread part 2 — @garethheyes — 2026-11-18 14:40 UTC (2026-11-18 15:40 WAT)
+
+- URL: https://x.com/garethheyes/status/2123063798848278690
+- Metrics (at fetch): bookmark 8, impression 1019, like 25, quote 0, reply 0, repost 8
+
+> Blog post:
+> https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals
+
+**Links in post:** https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals
 
 
 ---

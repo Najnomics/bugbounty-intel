@@ -1,11 +1,46 @@
 # @Piki_eth — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 94
-- Conversations/threads: 68
+- Posts in this file: 95
+- Conversations/threads: 69
 - Oldest post captured: 2024-09-21
-- Newest post captured: 2026-11-17
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Reply · @v4rvl can i ...?
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1301404276556812288 — 2026-11-18 15:04 UTC (2026-11-18 16:04 WAT)
+
+- URL: https://x.com/1301404276556812288/status/2123069964944814107
+- Metrics (at fetch): bookmark 1, impression 786, like 13, quote 0, reply 6, retweet 2
+
+> I have 5 invites for Immunefi studio. 
+>
+> Quarterly activation fee is $300 and you have 24h to activate - so keep this in mind. 
+>
+> You get access to a decent set of tools that you can use directly > or even better figure out how they have done it and upgrade your own harness. 
+>
+> Blueprint is especially helpful for direct hunting and singals for picking responsive projects. You can see the submission queue, their repsonse rate, payout %, mediation % and a lot of goodies so you pick what works for you. 
+>
+> Hmu if you want an invite or have any questions
+
+**Links in post:** https://twitter.com/immunefi/status/2121240673819251038
+
+**Quoted post** 2121240673819251038: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @Piki_eth — 2026-11-18 15:57 UTC (2026-11-18 16:57 WAT)
+
+- URL: https://x.com/Piki_eth/status/2123083298134180019
+- Metrics (at fetch): bookmark 0, impression 49, like 2, quote 0, reply 1, repost 0
+
+> @v4rvl can i ...?
 
 
 ---

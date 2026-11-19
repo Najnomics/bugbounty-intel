@@ -284,3 +284,8 @@ _Auto-maintained from `harness/findings.jsonl`. 8 finding(s). Full verbatim post
 ### Update 2026-11-18
 
 - **ImageMagick SVG-as-JPG file read → public CDN** — https://x.com/mdp_sec/status/2122784337888506335 — [`posts/mdp_sec/2026-11-17-2122784337888506335.md`](../posts/mdp_sec/2026-11-17-2122784337888506335.md). Also: payouts since 1 Sep (Bugcrowd 24 / $69,675 / median $1,000; H1 16 / $24,458 / median $750) https://x.com/mdp_sec/status/2122633342977769570; BB Arena model results 17–18 Nov (gpt-6.2 sol/astra 0/100 with 37 refusals; gemini 4 refused all 100; qwen4 max 9/100; kimi k3.1 12/100); HuntDeck open-sourced (repo README [`writeups/mdp_sec/huntdeck-readme.md`](../writeups/mdp_sec/huntdeck-readme.md)). His site mdpsec.com unchanged (no new reports); board snapshot [`writeups/mdp_sec/blackboxarena-home-2026-11-18.md`](../writeups/mdp_sec/blackboxarena-home-2026-11-18.md).
+
+
+### Update 2026-11-19
+
+- **BB Arena results (black-box labs)** — https://x.com/mdp_sec/status/2123176925208227875 and https://x.com/mdp_sec/status/2123279041721774524 — AI-agent-app labs solved by only 5 models (Opus 5 2/10); Gemini 4 Neon Max refuses all 100 URL-only labs; snapshots [`writeups/mdp_sec/blackboxarena-gemini-4-neon-max-2026-11-19.md`](../writeups/mdp_sec/blackboxarena-gemini-4-neon-max-2026-11-19.md), [`writeups/mdp_sec/blackboxarena-deepseek-v4-1-flash-providers-2026-11-19.md`](../writeups/mdp_sec/blackboxarena-deepseek-v4-1-flash-providers-2026-11-19.md). Methodology post: 'do it by hand once, automate once predictable' ([`posts/mdp_sec/2026-11-18-2122965531804504449.md`](../posts/mdp_sec/2026-11-18-2122965531804504449.md)). Site check 2026-11-19: mdpsec.com unchanged (591 reports / 150 critical); no new publicly disclosed reports found.

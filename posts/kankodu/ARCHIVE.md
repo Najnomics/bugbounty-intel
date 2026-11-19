@@ -1,11 +1,78 @@
 # @kankodu — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 166
-- Conversations/threads: 80
+- Posts in this file: 169
+- Conversations/threads: 82
 - Oldest post captured: 2022-07-26
-- Newest post captured: 2026-11-08
+- Newest post captured: 2026-11-18
+
+
+---
+
+## 2026-11-18 · Post · Hint: 
+
+
+### Post — @kankodu — 2026-11-18 15:35 UTC (2026-11-18 16:35 WAT)
+
+- URL: https://x.com/kankodu/status/2123077748591849882
+- Metrics (at fetch): bookmark 6, impression 452, like 6, quote 0, reply 0, repost 0
+
+> Hint: 
+>
+> On the surface, the rounding error is at most 1 wei of gain in favour of the attacker but they have to spend much more in gas. 
+>
+> A protocol that has been live for years already knows about it. Unless you can weaponise it and show real impact, you're going to get ignored! https://twitter.com/kankodu/status/2123010764399346023
+
+**Links in post:** https://twitter.com/kankodu/status/2123010764399346023
+
+**Quoted post (full text):**
+
+    #### Quoted post — @kankodu — 2026-11-18 11:09 UTC (2026-11-18 12:09 WAT)
+    
+    - URL: https://x.com/kankodu/status/2123010764399346023
+    - Metrics (at fetch): bookmark 68, impression 2578, like 68, quote 1, reply 4, repost 2
+    
+    > Here’s a fresh CTF you can use to improve your AI workflow: https://github.com/kankodu/lending-protocol-ctf
+    >
+    > I’m sure AI can find the bug trivially. But in practice when a contract like this have been live for years, a bug like this gets dismissed as a known issue unless you can show how to weaponise it.
+    >
+    > It’s live until Nov 25. DM me your solutions for considerations on the leaderboard.
+    
+    **Links in post:** https://github.com/kankodu/lending-protocol-ctf
+    
+
+
+---
+
+## 2026-11-18 · Thread · Here’s a fresh CTF you can use to improve your AI workflow: https://github.com/kankodu/lending-proto
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @kankodu — 2026-11-18 11:09 UTC (2026-11-18 12:09 WAT)
+
+- URL: https://x.com/kankodu/status/2123010764399346023
+- Metrics (at fetch): bookmark 68, impression 2578, like 68, quote 1, reply 4, repost 2
+
+> Here’s a fresh CTF you can use to improve your AI workflow: https://github.com/kankodu/lending-protocol-ctf
+>
+> I’m sure AI can find the bug trivially. But in practice when a contract like this have been live for years, a bug like this gets dismissed as a known issue unless you can show how to weaponise it.
+>
+> It’s live until Nov 25. DM me your solutions for considerations on the leaderboard.
+
+**Links in post:** https://github.com/kankodu/lending-protocol-ctf
+
+
+### Thread part 2 — @kankodu — 2026-11-18 15:19 UTC (2026-11-18 16:19 WAT)
+
+- URL: https://x.com/kankodu/status/2123073630670409756
+- Metrics (at fetch): bookmark 0, impression 121, like 2, quote 0, reply 1, repost 0
+
+> @xKeywordx https://github.com/kankodu/lending-protocol-ctf/blob/main/README.md#leaderboard
+
+**Links in post:** https://github.com/kankodu/lending-protocol-ctf/blob/main/README.md#leaderboard
 
 
 ---

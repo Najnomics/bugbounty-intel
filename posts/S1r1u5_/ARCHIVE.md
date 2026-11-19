@@ -1,11 +1,482 @@
 # @S1r1u5_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 508
-- Conversations/threads: 390
+- Posts in this file: 525
+- Conversations/threads: 402
 - Oldest post captured: 2017-02-26
-- Newest post captured: 2026-11-18
+- Newest post captured: 2026-11-19
+
+
+---
+
+## 2026-11-19 · Reply · you're maybe right, it's more nuanced. i think some bugs deserve the hype, like react2shell, wp2shel
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @IceSolst — 2026-11-19 05:29 UTC (2026-11-19 06:29 WAT)
+
+- URL: https://x.com/IceSolst/status/2123287410410651756
+- Metrics (at fetch): bookmark 9, impression 1506, like 51, quote 2, reply 8, repost 13
+
+> The vulnpocalypse is caused by security vendors.
+>
+> Their inability to convey risk accurately, due to either incompetence or ignorance, causes tremendous damage and stress on responding teams.
+>
+> There is a lot of weight associated with vulnerability announcements. We can no longer trust many security vendors’ blog posts, since their purpose is marketing & fanfare, not accuracy. 
+>
+> Exploitability needs to be demonstrated, in realistic environments, and its likelihood accurately conveyed. So that responders can make informed decisions on what to prioritize. But instead we are seeing fake PoC videos set in contrived & controlled lab environments, that give an illusion of exploitability when it’s unrealistic in any real-world scenario. 
+>
+> And vendors now try to show off who found it first, rush to send you marketing emails and call you without your consent; to sell you snake oil they pulled out of their ass two hours earlier, with no intention on actually making anyone safer, only to meet their quarterly sales quotas. 
+>
+> The core responsibility of a security professional is to accurately communicate risk, and let people make informed decisions. Too many vendors are failing at this, that I cannot consider them security vendors, only snake oil salesmen taking advantage of people in vulnerable positions due to their lies.
+
+
+### Post — @S1r1u5_ — 2026-11-19 05:48 UTC (2026-11-19 06:48 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123292227078098960
+- Metrics (at fetch): bookmark 0, impression 203, like 4, quote 0, reply 1, repost 1
+
+> you're maybe right, it's more nuanced. i think some bugs deserve the hype, like react2shell, wp2shell, and even php2shell (hard to port across targets, but we have data showing real-world exploitability with a frontier model spending a shit ton of tokens). maybe that distinction needs to be made clear in the disclaimers. 
+>
+> i think it'd be better if researchers demonstrated exploitability against real world targets, ideally popular applications with authorization, and reported the findings, like we did with heif heist. that would give us a much better picture of the actual impact. not saying we're perfect at this either, feedback taken.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXdzBNCa0AALlTd.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-18 · Thread · seems like multiple researchers using gpt-5.6 sol ended up discovering the same bugs, leading to col
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-11-18 15:26 UTC (2026-11-18 16:26 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123075341103357964
+- Metrics (at fetch): bookmark 20, impression 6535, like 103, quote 0, reply 7, repost 3
+
+> seems like multiple researchers using gpt-5.6 sol ended up discovering the same bugs, leading to collisions. can't wait for deepseek to open-source this level of capability. deepseek flash is already a menace, and we're seeing it everywhere. a lot of the artex stuff you're seeing is powered by flash and other open models.
+
+**Links in post:** https://twitter.com/LiveOverflow/status/2123074019784020058
+
+**Quoted post (full text):**
+
+    #### Quoted post — @LiveOverflow — 2026-11-18 15:21 UTC (2026-11-18 16:21 WAT)
+    
+    - URL: https://x.com/LiveOverflow/status/2123074019784020058
+    - Metrics (at fetch): bookmark 117, impression 40490, like 604, quote 3, reply 18, repost 23
+    
+    > what the fuck is going on https://twitter.com/ikotas00/status/2123071157083754677
+    
+    **Links in post:** https://twitter.com/ikotas00/status/2123071157083754677
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @ikotas00 — 2026-11-18 15:09 UTC (2026-11-18 16:09 WAT)
+        
+        - URL: https://x.com/ikotas00/status/2123071157083754677
+        - Metrics (at fetch): bookmark 401, impression 361655, like 1077, quote 161, reply 27, repost 429
+        
+        > We have discovered NGINX2Shell, a pre-auth RCE in NGINX 1.31.8, the current mainline release💥
+        > This one came together in close work with @OpenAI, from discovery all the way through disclosure. Huge thanks to their team. More to come.
+        > #NGINX2Shell [pic.x.com/hK9h7kBL6k]
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/HXap74ubMAEOoym.jpg — no alt text provided by author
+        - photo: https://pbs.twimg.com/media/HXap8_OaMAAlcu3.jpg — no alt text provided by author
+        
+    
+
+
+### Thread part 2 — @S1r1u5_ — 2026-11-18 16:46 UTC (2026-11-18 17:46 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123095493966495804
+- Metrics (at fetch): bookmark 0, impression 295, like 0, quote 0, reply 0, repost 0
+
+> @SergioOSINT oh thats unfortunate
+
+
+### Thread part 3 — @S1r1u5_ — 2026-11-19 05:05 UTC (2026-11-19 06:05 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123281362740527353
+- Metrics (at fetch): bookmark 0, impression 40, like 0, quote 0, reply 0, repost 0
+
+> @tjbecker thanks for sharing
+
+
+---
+
+## 2026-11-19 · Post · react2shell is truly react to shell. you take a payload, spray it across vulnerable next.js or other
+
+
+Tags (automatic): RCE, AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-11-19 04:20 UTC (2026-11-19 05:20 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123270208744001691
+- Metrics (at fetch): bookmark 14, impression 3316, like 113, quote 2, reply 6, repost 14
+
+> react2shell is truly react to shell. you take a payload, spray it across vulnerable next.js or other affected applications, and get shells.
+>
+> i think we need to tone down the hype around every new 2shell and 4shell. when every vulnerability is portrayed as impending doom but little actually happens in the wild, it dilutes the discussion around what ai is capable of.
+>
+> java4shell and nginx2shell are not react2shell. the bugs are cool, but what is the actual impact? do we seriously think a threat actor can spray a payload across thousands of servers and get shells? absolutely not.
+>
+> you need a frontier model, a shit ton of tokens, and significant target specific exploit development. even then, getting a working exploit can be extremely difficult, sometimes impossible. there's potential, but exploitation is far from guaranteed.
+>
+> we used php2shell to exploit cloudflare waf and get flags, but that took a solid amount of tokens and host specific grooming. the exploit wasn't trivially portable between targets. i'm even more skeptical about java4shell and nginx2shell, given their additional exploitation requirements.
+>
+> these bugs absolutely need to be patched, but there's a huge difference between a vulnerability that can theoretically lead to RCE and one that can be reliably exploited at scale.
+
+
+---
+
+## 2026-11-18 · Reply · i wonder if this explains some of the bug collisions, for complex problems, there might only be a fe
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @msuiche — 2026-11-18 16:24 UTC (2026-11-18 17:24 WAT)
+
+- URL: https://x.com/msuiche/status/2123089946194186492
+- Metrics (at fetch): bookmark 0, impression 2064, like 13, quote 0, reply 2, retweet 0
+
+> I almost want to say, if they found a way to make non deterministic automatons to be deterministic that’s a major AGI breakthrough 😂 cc @lcamtuf @S1r1u5_ [pic.x.com/bJb7BILGMx]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXa7DdfbAAQ9vRb.jpg — no alt text provided by author
+
+
+### Post — @S1r1u5_ — 2026-11-18 16:34 UTC (2026-11-18 17:34 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123092450197831818
+- Metrics (at fetch): bookmark 1, impression 560, like 5, quote 0, reply 1, repost 0
+
+> i wonder if this explains some of the bug collisions, for complex problems, there might only be a few solutions. if a model discovers one successful trajectory during training and that gets reinforced through weight updates, could models end up converging on the same bugs?
+>
+> cracking continual learning would be very big leap, but i am not sure if its that.
+
+
+---
+
+## 2026-11-18 · Reply · @lcamtuf it could be possible that the model is constantly getting updated from traces of users
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @44666078 — 2026-11-18 15:55 UTC (2026-11-18 16:55 WAT)
+
+- URL: https://x.com/44666078/status/2123082684167864684
+- Metrics (at fetch): bookmark 10, impression 6037, like 81, quote 0, reply 10, retweet 3
+
+> "Wiz, Ikotas, Metnir, Rapid7, and Xint uncovered..." - or, 5 people given access to the same frontier tool got the same result. Akin to LLM essays: ask ten times, get ten nearly-identical ones.
+>
+> As a corollary, some bugs may be out of reach unless you prompt creatively enough?
+
+
+### Post — @S1r1u5_ — 2026-11-18 15:59 UTC (2026-11-18 16:59 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123083737667977286
+- Metrics (at fetch): bookmark 0, impression 851, like 16, quote 0, reply 1, repost 0
+
+> @lcamtuf it could be possible that the model is constantly getting updated from traces of users
+
+
+---
+
+## 2026-11-18 · Thread · 🙃 [pic.x.com/SOGnBLOQ6j]
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-11-18 15:16 UTC (2026-11-18 16:16 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123072911041077376
+- Metrics (at fetch): bookmark 14, impression 8646, like 84, quote 3, reply 6, repost 2
+
+> 🙃 [pic.x.com/SOGnBLOQ6j]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXarhRdaUAA1aUB.jpg — no alt text provided by author
+
+
+### Thread part 2 — @S1r1u5_ — 2026-11-18 15:51 UTC (2026-11-18 16:51 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123081683004207204
+- Metrics (at fetch): bookmark 1, impression 1226, like 28, quote 2, reply 1, repost 2
+
+> @Zaddyzaddy gpt-5.6 sol 😂
+
+
+---
+
+## 2026-11-18 · Post · can you all just find some *2shells and *4shells that are as easy to exploit as react2shell?
+
+
+### Post — @S1r1u5_ — 2026-11-18 15:49 UTC (2026-11-18 16:49 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123081224289968546
+- Metrics (at fetch): bookmark 14, impression 8121, like 164, quote 1, reply 10, repost 8
+
+> can you all just find some *2shells and *4shells that are as easy to exploit as react2shell?
+
+
+---
+
+## 2026-11-18 · Post · i am a bit skeptical about how much java4shell exploitation we will actually see in the wild, given 
+
+
+### Post — @S1r1u5_ — 2026-11-18 15:40 UTC (2026-11-18 16:40 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123078968874271023
+- Metrics (at fetch): bookmark 3, impression 3080, like 50, quote 0, reply 0, repost 0
+
+> i am a bit skeptical about how much java4shell exploitation we will actually see in the wild, given difficulty of exploitation on remote. curious whether nginx2shell will turn out the same.
+
+
+---
+
+## 2026-11-18 · Thread · @brokenpacifist there was caddy2shell
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @brokenpacifist — 2026-11-18 15:17 UTC (2026-11-18 16:17 WAT)
+
+- URL: https://x.com/brokenpacifist/status/2123073035590852869
+- Metrics (at fetch): bookmark 1, impression 3306, like 27, quote 0, reply 2, retweet 0
+
+> I was talking about this one, I switched to caddy last week. Hopefully nobody triggers caddy2shell https://twitter.com/ikotas00/status/2123071157083754677
+
+**Links in post:** https://twitter.com/ikotas00/status/2123071157083754677
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ikotas00 — 2026-11-18 15:09 UTC (2026-11-18 16:09 WAT)
+    
+    - URL: https://x.com/ikotas00/status/2123071157083754677
+    - Metrics (at fetch): bookmark 401, impression 361655, like 1077, quote 161, reply 27, repost 429
+    
+    > We have discovered NGINX2Shell, a pre-auth RCE in NGINX 1.31.8, the current mainline release💥
+    > This one came together in close work with @OpenAI, from discovery all the way through disclosure. Huge thanks to their team. More to come.
+    > #NGINX2Shell [pic.x.com/hK9h7kBL6k]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXap74ubMAEOoym.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HXap8_OaMAAlcu3.jpg — no alt text provided by author
+    
+
+
+### Post — @S1r1u5_ — 2026-11-18 15:22 UTC (2026-11-18 16:22 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123074348563280062
+- Metrics (at fetch): bookmark 0, impression 860, like 3, quote 0, reply 1, repost 0
+
+> @brokenpacifist there was caddy2shell
+
+
+### Thread part 2 — @S1r1u5_ — 2026-11-18 15:22 UTC (2026-11-18 16:22 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123074424853434840
+- Metrics (at fetch): bookmark 0, impression 718, like 2, quote 0, reply 1, repost 0
+
+> @brokenpacifist https://x.com/S1r1u5_/status/2116440840310837251?a=RrF_kbQyFk-v15xmdi4&s=20 very hard to exploit tho
+
+**Links in post:** https://x.com/S1r1u5_/status/2116440840310837251?a=RrF_kbQyFk-v15xmdi4&s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-10-31 08:03 UTC (2026-10-31 09:03 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2116440840310837251
+    - Metrics (at fetch): bookmark 229, impression 72198, like 434, quote 9, reply 20, repost 43
+    
+    > regarding cve-2026-98432: it is a uaf in tcp, mptcp is needed to make the race win and to get the leak and write.
+    >
+    > the impact of the bug is bad, its essentially go2shell, caddy2shell etc. go 1.24+ servers are all vulnerable, because mptcp  is enabled by default.
+    >
+    > BUT:
+    >
+    > 1. It is extremely hard to win the race reliably, anthropic said it took 40 mins for them to get leak and defeat kaslr 
+    > 2. It is probably hard to exploit in practice. most routers, lbs and isps drop ip options, without that header you can't race at all, so realistically only a same network attacker can try, which is pretty common in sandbox infra
+    >
+    > my mythos worked on this for last 3 days burned ~$2k and couldn't build a reliable poc that can be sprayable. gpt-5.6 sol als exhausted my subscription and couldn't even get a leak. 
+    >
+    > either anthropic has a unreleased model which is better than their public one or they have a pro exploit dev internally.
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HV8bt1ibgAAGAAx.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-18 · Reply · @satoki00 @OpenAI wow! congrats
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @satoki00 — 2026-11-18 15:10 UTC (2026-11-18 16:10 WAT)
+
+- URL: https://x.com/satoki00/status/2123071303657910632
+- Metrics (at fetch): bookmark 827, impression 550930, like 2230, quote 214, reply 15, repost 1061
+
+> 弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸
+> #NGINX2Shell https://twitter.com/ikotas00/status/2123071157083754677
+
+**Links in post:** https://twitter.com/ikotas00/status/2123071157083754677
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ikotas00 — 2026-11-18 15:09 UTC (2026-11-18 16:09 WAT)
+    
+    - URL: https://x.com/ikotas00/status/2123071157083754677
+    - Metrics (at fetch): bookmark 401, impression 361655, like 1077, quote 161, reply 27, repost 429
+    
+    > We have discovered NGINX2Shell, a pre-auth RCE in NGINX 1.31.8, the current mainline release💥
+    > This one came together in close work with @OpenAI, from discovery all the way through disclosure. Huge thanks to their team. More to come.
+    > #NGINX2Shell [pic.x.com/hK9h7kBL6k]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXap74ubMAEOoym.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HXap8_OaMAAlcu3.jpg — no alt text provided by author
+    
+
+
+### Post — @S1r1u5_ — 2026-11-18 15:14 UTC (2026-11-18 16:14 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123072238098550954
+- Metrics (at fetch): bookmark 1, impression 11742, like 4, quote 0, reply 0, repost 0
+
+> @satoki00 @OpenAI wow! congrats
+
+
+---
+
+## 2026-11-18 · Reply · @halvarflake @haroonmeer @LiveOverflow you might like this 
+
+
+Tags (automatic): Memory corruption / native
+
+
+**Context — post being replied to:**
+
+#### Parent post — @15276283 — 2026-11-17 22:54 UTC (2026-11-17 23:54 WAT)
+
+- URL: https://x.com/15276283/status/2122825775422288352
+- Metrics (at fetch): bookmark 2, impression 3517, like 28, quote 1, reply 4, retweet 7
+
+> @haroonmeer Thinking you can defend without understanding how one would break in is an equivalently common and similarly original sin.
+
+
+### Post — @S1r1u5_ — 2026-11-18 15:05 UTC (2026-11-18 16:05 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123070040442560616
+- Metrics (at fetch): bookmark 0, impression 216, like 1, quote 0, reply 0, repost 0
+
+> @halvarflake @haroonmeer @LiveOverflow you might like this 
+>
+> https://x.com/LiveOverflow/status/2099510984360763475?a=fY4BJPL2xFcVVcXq1oY&s=20
+
+**Links in post:** https://x.com/LiveOverflow/status/2099510984360763475?a=fY4BJPL2xFcVVcXq1oY&s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @LiveOverflow — 2026-09-14 14:50 UTC (2026-09-14 15:50 WAT)
+    
+    - URL: https://x.com/LiveOverflow/status/2099510984360763475
+    - Metrics (at fetch): bookmark 60, impression 11678, like 136, quote 1, reply 16, repost 4
+    
+    > Am I alone in thinking that "assume all code has exploitable vulnerabilities and model your system" sounds like "never generate a SQL query by string concatenation"?
+    >
+    > Preventing "injections" is extremely simple, and we preached about it, but it remained in OWASP top 10 for over 20 years.
+    >
+    > Of course the advice to "design vulnerability resistant systems" correct. But I feel like it's an empty non-actionable advice. It's way more abstract than "how to prevent injections" and that didn't even work in practice...
+    >
+    > Security is a Swiss Cheese Model🧀
+    > - Vulnerabilities are the cheese holes
+    > - Defensive design adds cheese layers
+    >
+    > I agree that layers (mitigations, containment, crypto, ...) are extremely effective. But each layer can bring their own holes. And a new layer is only effective if the holes don't overlap with the layer before.
+    >
+    > Which means you need data from vulnerability reports where and what kind of holes are likely to appear. Or you have a security expert with vulnerability experience in other layers and they can transfer it over. Without this, you will get security theatre like "base64 encrypted data".
+    >
+    > I believe if you show a random engineer some dependency, and ask them in what way this might get exploited and how it could be mitigated, they don't know. Even less so how some solution can impact other things: adding X to fix Y makes Z exploitable.
+    >
+    > That's why this kind of advice feels so non-actionable to me. Almost arrogant, like in the 2010s when we joked about how stupid developers are for string concatenating SQL queries.
+    >
+    > Either you have security experience (then you will build safer architectures and not string concatenate SQL queries) or you don't.
+    >
+    > I would like to see more concrete advice with real examples how to build a safer architectures. Pick a larger open source project like GitLab, review the architecture and share advice so people can learn. Like we do with vulnerability writeups. And of course keep investing in educating engineers on security, because that seems to be a requirement.
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HSK0rXvXgAIJt_t.png — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-17 · Thread · https://fldubai.com https://twitter.com/S1r1u5_/status/2122588457830863164
+
+
+### Post — @S1r1u5_ — 2026-11-17 16:35 UTC (2026-11-17 17:35 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122730231723413841
+- Metrics (at fetch): bookmark 9, impression 5321, like 9, quote 0, reply 2, retweet 0
+
+> https://fldubai.com https://twitter.com/S1r1u5_/status/2122588457830863164
+
+**Links in post:** https://fldubai.com, https://twitter.com/S1r1u5_/status/2122588457830863164
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-11-17 07:11 UTC (2026-11-17 08:11 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2122588457830863164
+    - Metrics (at fetch): bookmark 0, impression 8245, like 24, quote 1, reply 1, retweet 0
+    
+    > IoC: zz_, zz-
+    
+
+
+### Thread part 2 — @S1r1u5_ — 2026-11-18 12:42 UTC (2026-11-18 13:42 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123034142044807274
+- Metrics (at fetch): bookmark 0, impression 222, like 1, quote 0, reply 1, repost 0
+
+> @evilsocket common temp mail deepseek flash uses
+
+
+---
+
+## 2026-11-18 · Reply · @XorNinja 😂
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @817728625 — 2026-11-18 07:19 UTC (2026-11-18 08:19 WAT)
+
+- URL: https://x.com/817728625/status/2122952867413983445
+- Metrics (at fetch): bookmark 13, impression 17132, like 212, quote 3, reply 5, retweet 15
+
+> Hair lost. Lesson learned. Never bet against Quang Luong. It took him less than two hours to pop Keycloak. [pic.x.com/pOHdgGsHEC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXY-WVbboAAQwjs.jpg — no alt text provided by author
+
+
+### Post — @S1r1u5_ — 2026-11-18 07:30 UTC (2026-11-18 08:30 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2122955703363231757
+- Metrics (at fetch): bookmark 0, impression 969, like 0, quote 0, reply 0, repost 0
+
+> @XorNinja 😂
 
 
 ---
@@ -19,7 +490,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @S1r1u5_ — 2026-11-18 05:23 UTC (2026-11-18 06:23 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2122923674965881337
-- Metrics (at fetch): bookmark 2, impression 614, like 9, quote 0, reply 1, retweet 0
+- Metrics (at fetch): bookmark 12, impression 5001, like 68, quote 0, reply 2, repost 0
 
 > it's kinda crazy how, with a frontier model, just knowing there's a bug somewhere in a system with few hints can be enough to get you all the way to a full exploit chain. https://twitter.com/S1r1u5_/status/2122915736989638781
 
@@ -80,9 +551,9 @@ Tags (automatic): Memory corruption / native
 
 **Context — conversation root by another account:**
 
-#### Root post — @4834986853 — 2026-11-17 23:35 UTC (2026-11-18 00:35 WAT)
+#### Root post — @satoki00 — 2026-11-17 23:35 UTC (2026-11-18 00:35 WAT)
 
-- URL: https://x.com/4834986853/status/2122835934655971740
+- URL: https://x.com/satoki00/status/2122835934655971740
 - Metrics (at fetch): bookmark 144, impression 58629, like 523, quote 26, reply 3, retweet 123
 
 > Javaで騒いでいるところ申し訳ないけど、たぶん今日の夜もっとヤバいの出します(調整が遅れなければ)🙇‍♂️
@@ -94,31 +565,6 @@ Tags (automatic): Memory corruption / native
 - Metrics (at fetch): bookmark 0, impression 1544, like 2, quote 0, reply 0, retweet 0
 
 > @satoki00 wow
-
-
----
-
-## 2026-11-17 · Post · https://fldubai.com https://twitter.com/S1r1u5_/status/2122588457830863164
-
-
-### Post — @S1r1u5_ — 2026-11-17 16:35 UTC (2026-11-17 17:35 WAT)
-
-- URL: https://x.com/S1r1u5_/status/2122730231723413841
-- Metrics (at fetch): bookmark 9, impression 5321, like 9, quote 0, reply 2, retweet 0
-
-> https://fldubai.com https://twitter.com/S1r1u5_/status/2122588457830863164
-
-**Links in post:** https://fldubai.com, https://twitter.com/S1r1u5_/status/2122588457830863164
-
-**Quoted post (full text):**
-
-    #### Quoted post — @S1r1u5_ — 2026-11-17 07:11 UTC (2026-11-17 08:11 WAT)
-    
-    - URL: https://x.com/S1r1u5_/status/2122588457830863164
-    - Metrics (at fetch): bookmark 0, impression 8245, like 24, quote 1, reply 1, retweet 0
-    
-    > IoC: zz_, zz-
-    
 
 
 ---
@@ -373,9 +819,9 @@ Tags (automatic): Memory corruption / native
 
 **Context — post being replied to:**
 
-#### Parent post — @3094698976 — 2026-11-13 22:58 UTC (2026-11-13 23:58 WAT)
+#### Parent post — @LiveOverflow — 2026-11-13 22:58 UTC (2026-11-13 23:58 WAT)
 
-- URL: https://x.com/3094698976/status/2121377209105412374
+- URL: https://x.com/LiveOverflow/status/2121377209105412374
 - Metrics (at fetch): bookmark 0, impression 2996, like 29, quote 0, reply 1, retweet 3
 
 > If you are a bug hunter and participated in the Cloudflare WAF, I would love to exchange our reports and methods. Maybe we can dig into them together and see how similar or different our methods actually were.
@@ -1204,9 +1650,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3094698976 — 2026-11-01 22:34 UTC (2026-11-01 23:34 WAT)
+    #### Quoted post — @LiveOverflow — 2026-11-01 22:34 UTC (2026-11-01 23:34 WAT)
     
-    - URL: https://x.com/3094698976/status/2117022386377617476
+    - URL: https://x.com/LiveOverflow/status/2117022386377617476
     - Metrics (at fetch): bookmark 47, impression 34890, like 470, quote 1, reply 46, repost 10
     
     > Social media bubbles are not working anymore… 
@@ -1245,7 +1691,7 @@ Tags (automatic): Memory corruption / native
     #### Quoted post — @S1r1u5_ — 2026-10-31 08:03 UTC (2026-10-31 09:03 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2116440840310837251
-    - Metrics (at fetch): bookmark 229, impression 71327, like 433, quote 9, reply 20, repost 41
+    - Metrics (at fetch): bookmark 229, impression 72198, like 434, quote 9, reply 20, repost 43
     
     > regarding cve-2026-98432: it is a uaf in tcp, mptcp is needed to make the race win and to get the leak and write.
     >
@@ -1336,7 +1782,7 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2026-10-31 08:03 UTC (2026-10-31 09:03 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2116440840310837251
-    - Metrics (at fetch): bookmark 229, impression 71327, like 433, quote 9, reply 20, repost 41
+    - Metrics (at fetch): bookmark 229, impression 72198, like 434, quote 9, reply 20, repost 43
     
     > regarding cve-2026-98432: it is a uaf in tcp, mptcp is needed to make the race win and to get the leak and write.
     >
@@ -1367,7 +1813,7 @@ Tags (automatic): Race condition, Path normalization, Memory corruption / native
 ### Post — @S1r1u5_ — 2026-10-31 08:03 UTC (2026-10-31 09:03 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2116440840310837251
-- Metrics (at fetch): bookmark 229, impression 71327, like 433, quote 9, reply 20, repost 41
+- Metrics (at fetch): bookmark 229, impression 72198, like 434, quote 9, reply 20, repost 43
 
 > regarding cve-2026-98432: it is a uaf in tcp, mptcp is needed to make the race win and to get the leak and write.
 >
@@ -3864,9 +4310,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3094698976 — 2026-08-18 09:16 UTC (2026-08-18 10:16 WAT)
+    #### Quoted post — @LiveOverflow — 2026-08-18 09:16 UTC (2026-08-18 10:16 WAT)
     
-    - URL: https://x.com/3094698976/status/2089642592921153553
+    - URL: https://x.com/LiveOverflow/status/2089642592921153553
     - Metrics (at fetch): bookmark 509, impression 382355, like 1497, quote 12, reply 46, retweet 61
     
     > "AI is overhyped and labs are lying about the capabilities" https://t.co/L9Rt6vztA7 https://t.co/zq1gBZBMTf
@@ -6258,9 +6704,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3094698976 — 2026-04-15 21:58 UTC (2026-04-15 22:58 WAT)
+    #### Quoted post — @LiveOverflow — 2026-04-15 21:58 UTC (2026-04-15 22:58 WAT)
     
-    - URL: https://x.com/3094698976/status/2044535809903153520
+    - URL: https://x.com/LiveOverflow/status/2044535809903153520
     - Metrics (at fetch): not returned
     
     > Meanwhile local model 🫠 [pic.x.com/OhUGHpkjap] https://twitter.com/S1r1u5_/status/2044532192421023844
@@ -10938,9 +11384,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3094698976 — 2020-10-05 16:40 UTC (2020-10-05 17:40 WAT)
+    #### Quoted post — @LiveOverflow — 2020-10-05 16:40 UTC (2020-10-05 17:40 WAT)
     
-    - URL: https://x.com/3094698976/status/1313157161007054854
+    - URL: https://x.com/LiveOverflow/status/1313157161007054854
     - Metrics (at fetch): bookmark 2, impression 0, like 394, quote 3, reply 15, retweet 36
     
     > I try put ' it gives bug

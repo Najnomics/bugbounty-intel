@@ -1,6 +1,6 @@
 # @ChainLight_io — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-18 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 1081
 - Conversations/threads: 322
@@ -5153,7 +5153,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     #### Quoted post — @1361909631187001350 — 2024-07-19 12:26 UTC (2024-07-19 13:26 WAT)
     
     - URL: https://x.com/1361909631187001350/status/1814275555681771784
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 92, impression 458562, like 1050, quote 106, reply 1081, retweet 192
     
     > Scroll was notified of a potential exploit within our ecosystem.
     >
@@ -5711,7 +5711,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     #### Quoted post — @585633925 — 2024-06-25 21:36 UTC (2024-06-25 22:36 WAT)
     
     - URL: https://x.com/585633925/status/1805716659338199145
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 43, impression 143135, like 198, quote 23, reply 21, retweet 28
     
     > Today I was contacted by OpenBounty (@ShentuChain) to add their platform to Web3 Bug Bounty alerts. Never heard about them before so I decided to investigate as it seemed a bit sus 1/6
     
@@ -6338,7 +6338,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
     > #Loopring #SecurityAlert #CryptoSecurity
     
     **Media:**
-    - media `3_1799791871666843649` (details not returned by the API)
+    - photo: https://pbs.twimg.com/media/GPolK-xWcAEWh9E.jpg — no alt text provided by author
     
 
 
@@ -9540,14 +9540,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     #### Quoted post — @samczsun — 2024-02-14 15:12 UTC (2024-02-14 16:12 WAT)
     
     - URL: https://x.com/samczsun/status/1757784864575910104
-    - Metrics (at fetch): bookmark 255, impression 505393, like 1804, quote 120, reply 91, retweet 327
+    - Metrics (at fetch): bookmark 255, impression 505409, like 1803, quote 120, reply 91, repost 327
     
     > I'm back, did you miss me? I have some huge news!
     >
     > Over the last year and a half, I've been working on something big in secret with the rest of the crypto security community. Today, we're finally ready to reveal ourselves to the world. We are @_SEAL_Org [pic.x.com/Jho9wQDxEr]
     
     **Media:**
-    - media `3_1757746782388490240` (details not returned by the API)
+    - photo: https://pbs.twimg.com/media/GGTFYrlaEAAHSL6.jpg — no alt text provided by author
     
 
 
@@ -10119,7 +10119,7 @@ Tags (automatic): ZK
     #### Quoted post — @3012852462 — 2024-01-31 14:05 UTC (2024-01-31 15:05 WAT)
     
     - URL: https://x.com/3012852462/status/1752694489905528943
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 390, impression 2661210, like 4823, quote 726, reply 675, retweet 1168
     
     > It appears @Ripple was hacked for ~213M XRP ($112.5M)
     >
@@ -10129,7 +10129,7 @@ Tags (automatic): ZK
     > So far the stolen funds have been laundered through MEXC, Gate, Binance, Kraken, OKX, HTX, HitBTC, etc [pic.x.com/HKGYsLQeMv]
     
     **Media:**
-    - media `3_1752694480367710208` (details not returned by the API)
+    - photo: https://pbs.twimg.com/media/GFLSV_4a8AAySev.jpg — no alt text provided by author
     
 
 
@@ -12711,6 +12711,40 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     > On November 20th, 2023 6pm PST, we became aware of a security vulnerability in a commonly used open-source library in the web3 industry.
     >
     > This impacts a variety of smart contracts across the web3 ecosystem, including some of thirdweb’s pre-built smart contracts.
+    >
+    > Based on our investigation so far, this vulnerability has not been exploited in any thirdweb smart contracts. However, smart contract owners must take mitigation steps on certain pre-built smart contracts that were created on thirdweb prior to November 22nd, 2023 at 7pm PT.
+    >
+    > The impacted pre-built contracts include but are not limited to DropERC20, ERC721, ERC1155 (all versions), and AirdropERC20. Please see a full list of impacted smart contracts and mitigation steps at this link → https://blog.thirdweb.com/security-vulnerability/
+    >
+    > Our immediate priority is to protect our customers impacted by this vulnerability. If you deployed one of these pre-built smart contracts using thirdweb’s dashboard or SDKs before November 22nd at 7pm PST, you need to perform some steps to mitigate the potential exploitation of the vulnerability.
+    >
+    > We and our security partners have been working at full capacity since being made aware of the vulnerability to build a tool to easily determine and perform the mitigation steps you need to take, which can be accessed here → https://mitigate.thirdweb.com/
+    >
+    > In most cases, the mitigation steps will involve locking the contract, taking a snapshot and migrating to a new contract without the known vulnerability. The exact steps you need to take will depend on the nature of your smart contract, and you can determine these using the tool.
+    >
+    > You can also find a step-by-step guide on how to use the mitigation tool here → https://blog.thirdweb.com/security/contract-mitigation/
+    >
+    > Please note: If your holders have tokens locked in any liquidity or staking pool, they should pull these tokens out before you begin these steps. Otherwise, you will not be able to distribute new tokens to these users. Additionally, you should request that your users revoke approvals on all thirdweb contracts using http://revoke.cash, which will protect your users if you choose not to mitigate the contract.
+    >
+    > Once we became aware of the vulnerability, we activated our security team and worked closely with our audit partners to investigate the issue. We successfully pushed a remediation for all of thirdweb’s impacted pre-built contracts created after November 22nd 7pm PST.
+    >
+    > Any thirdweb smart contract (as long as it is the latest version) deployed after November 22nd at 7 PM PST is therefore not impacted by this known vulnerability. All other thirdweb services, including our wallets, payments, and infrastructure services, are also unaffected and functioning as usual.
+    >
+    > We have also contacted the maintainers of the open-source library at the root of the vulnerability (which we are not specifying to mitigate the chance of exploitation) and contacted other teams we believe may be impacted by the same issue to share our findings and mitigation measures.
+    >
+    > Moving forward, we are increasing our investment in security measures. This includes doubling our bug bounty payouts from $25k to $50k per bounty, and implementing a more rigorous auditing process, with the goal of creating a robust environment for web3 developers.
+    >
+    > We understand that this will cause disruption, and we are treating the mitigation of the issue with the utmost seriousness. We will be offering a retroactive gas grant to cover fees for contract mitigations. Please fill in this form to be considered. → https://form.typeform.com/to/UOAk0W4C
+    >
+    > Please visit our blog for more information on this vulnerability → https://blog.thirdweb.com/security-vulnerability/
+    >
+    > To access our mitigation tool, please use the link here → https://mitigate.thirdweb.com/.
+    >
+    > For ALL SUPPORT questions related to the vulnerability and mitigation steps, please EMAIL us directly at support@thirdweb.com to protect yourself and other users in the community from sharing vulnerable contracts.
+    >
+    > This is the only tweet in this thread. Anything below may be spam or phishing. Do not click on any links unless you have determined they are safe and from an official http://thirdweb.com domain.
+    
+    **Links in post:** https://blog.thirdweb.com/security-vulnerability/, https://mitigate.thirdweb.com/, https://blog.thirdweb.com/security/contract-mitigation/, http://revoke.cash, https://form.typeform.com/to/UOAk0W4C, http://thirdweb.com
     
 
 
@@ -13378,7 +13412,38 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     
     > Today, I stepped down as CEO of Binance. Admittedly, it was not easy to let go emotionally. But I know it is the right thing to do. I made mistakes, and I must take responsibility. This is best for our community, for Binance, and for myself.
     >
-    > Binance is no longer a baby. It is
+    > Binance is no longer a baby. It is time for me to let it walk and run. I know Binance will continue to grow and excel with the deep bench it has.
+    >
+    > I’m pleased to announce that @_RichardTeng, our now former Global Head of Regional Markets, has been named the new CEO of Binance today.
+    >
+    > Richard is a highly qualified leader and, with over three decades of financial services and regulatory experience, he will navigate the company through its next period of growth. He will ensure Binance delivers on our next phase of security, transparency, compliance, and growth.
+    >
+    > Prior to joining Binance, Richard was CEO of the Financial Services Regulatory Authority at Abu Dhabi Global Market (ADGM); Chief Regulatory Officer of the Singapore Exchange (SGX); and Director of Corporate Finance in the Monetary Authority of Singapore.
+    >
+    > With Richard and the entire team, I’m confident that the best days for @Binance and the crypto industry lay ahead.
+    >
+    > As a shareholder and former CEO with historical knowledge of our company, I will remain available to the team to consult as needed, consistent with the framework set out in our U.S. agency resolutions.
+    >
+    > What’s next for me?
+    >
+    > I will take a break first. I have not had a single day of real (phone off) break for the last 6 and half years.
+    >
+    > After that, my current thinking is I will probably do some passive investing, being a minority token/shareholder in startups in areas of blockchain/Web3/DeFi, AI and biotech. I am happy that I will finally have more time to spend looking at DeFi.
+    >
+    > I can’t see myself being a CEO driving a startup again. I am content being an one-shot (lucky) entrepreneur. Should there be listeners, I may be open to being a coach/mentor to a small number of upcoming entrepreneurs, privately. If for nothing else, I can at least tell them what not to do.
+    >
+    > On that note, I am proud to point out that in our resolutions with the U.S. agencies they:
+    >
+    > - do not allege that Binance misappropriated any user funds, and
+    > - do not allege that Binance engaged in any market manipulation.
+    >
+    > Funds are SAFU!
+    >
+    > With that, I look forward to seeing the new leadership take the reins. Please join me in congratulating Richard on his well-deserved promotion.
+    >
+    > Onwards!
+    >
+    > CZ
     
 
 
@@ -15720,12 +15785,12 @@ Tags (automatic): Path normalization, Blockchain / L1-L2 / bridge
     #### Quoted post — @samczsun — 2023-10-25 18:15 UTC (2023-10-25 19:15 WAT)
     
     - URL: https://x.com/samczsun/status/1717243519243636755
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 245, impression 754981, like 1113, quote 79, reply 35, repost 308
     
     > In a war room, every second counts. But without having been in one, how could you know what to expect or how to respond? Blog posts and tweet threads can only take you so far. Today, I'm excited to announce a new option: SEAL Drills. [pic.x.com/eKJjoUZ1jG]
     
     **Media:**
-    - media `3_1717239840193105925` (details not returned by the API)
+    - photo: https://pbs.twimg.com/media/F9TciUzb0AUMgqm.jpg — no alt text provided by author
     
 
 
@@ -15908,12 +15973,12 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     #### Quoted post — @samczsun — 2023-10-25 18:15 UTC (2023-10-25 19:15 WAT)
     
     - URL: https://x.com/samczsun/status/1717243519243636755
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 245, impression 754981, like 1113, quote 79, reply 35, repost 308
     
     > In a war room, every second counts. But without having been in one, how could you know what to expect or how to respond? Blog posts and tweet threads can only take you so far. Today, I'm excited to announce a new option: SEAL Drills. [pic.x.com/eKJjoUZ1jG]
     
     **Media:**
-    - media `3_1717239840193105925` (details not returned by the API)
+    - photo: https://pbs.twimg.com/media/F9TciUzb0AUMgqm.jpg — no alt text provided by author
     
 
 

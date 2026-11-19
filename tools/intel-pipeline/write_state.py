@@ -20,7 +20,7 @@ st={'generated':TODAY,'note':'Markers for the daily incremental CVE run. See cve
  'sources':{
   'cvelistV5':{'status':'complete','records':cnt(O+'/data/cve/all/*/*.jsonl'),'years':'1999-2026','max_dateUpdated':maxf(O+'/data/cve/all/202[56]/*.jsonl','updated'),
      'source':'https://github.com/CVEProject/cvelistV5 (release zip)','incremental':'download https://github.com/CVEProject/cvelistV5/releases latest *_delta_CVEs_at_*.zip or the daily cumulative delta since max_dateUpdated; re-run tools/intel-pipeline/cve_build.py'},
-  'nvd':{'status':'complete' if nv.get('pages',0)*2000>=nv.get('records',1) and nv.get('records',0)>=424000 else 'pending','records':nv.get('records'),'max_lastModified':nv.get('max_lastModified'),'api_timestamp':nv.get('api_timestamp'),
+  'nvd':{'status':'complete' if nv.get('records',0)>=424000 and nv.get('api_timestamp') else 'pending','records':nv.get('records'),'max_lastModified':nv.get('max_lastModified'),'api_timestamp':nv.get('api_timestamp'),
      'incremental':'GET https://services.nvd.nist.gov/rest/json/cves/2.0?lastModStartDate=<max_lastModified>&lastModEndDate=<now> (max 120-day window, 2000/page, sleep 6s), then tools/intel-pipeline/nvd_build.py'},
   'cisa_kev':{'status':'complete','catalogVersion':kev.get('catalogVersion'),'dateReleased':kev.get('dateReleased'),'count':kev.get('count'),'source':'https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json'},
   'ghsa':{'status':'complete','records':cnt(O+'/data/ghsa/*/*.jsonl'),'max_modified':maxf(O+'/data/ghsa/*/*.jsonl','modified'),'source':'https://github.com/github/advisory-database (reviewed)','incremental':'GitHub REST GET /advisories?type=reviewed&sort=updated&direction=desc until modified <= max_modified'},
