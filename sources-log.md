@@ -503,3 +503,4 @@ session-feed: apex-hunter/thegraph 2026-11-16 — 3 technique rows appended
 - CVE: cvelistV5 27 delta zips since 2026-11-18T04:57:55Z; NVD API lastModStartDate=2026-11-18..; CISA KEV 2026.11.18 (+4); github/advisory-database pull (5a263e90); OSV all.zip re-pull; kernel vulns.git (f418c111); ZDI published/2026 (+28); Exploit-DB unchanged (70bbef3f); Project Zero unchanged (258); HackerOne GraphQL hacktivity [2026-11-18..2026-11-19] (+2).
 - mdpsec.com checked (unchanged).
 - 2026-11-17 apex-hunter/0x-immunefi S2+S3 campaigns: +4 findings rows (deployment-skew gates, ERC-7739 marker trap, AH probe-bound, strict-entry-decoder shield).
+- 2026-11-19 apex-hunter/hibachi-immunefi S1+S2 campaigns: +3 findings rows (unsigned trigger fields, withdraw replay, two-plane identity fixture).
