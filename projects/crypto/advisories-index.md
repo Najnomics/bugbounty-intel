@@ -102,6 +102,8 @@ _83 RustSec advisories (7 added 2026-11-12: Intel TDX guest/attestation, vodozem
 | [crates-xsalsa20poly1305-rustsec-2023-0037](advisories/crates-xsalsa20poly1305-rustsec-2023-0037.md) | `xsalsa20poly1305` | crate has been renamed to `crypto_secretbox` |
 | [crates-zeroize-derive-rustsec-2021-0115](advisories/crates-zeroize-derive-rustsec-2021-0115.md) | `zeroize_derive` | `#[zeroize(drop)]` doesn't implement `Drop` for `enum`s |
 
+| [snark-verifier-ghsa-x26x-7f4v-cqx7](advisories/snark-verifier-ghsa-x26x-7f4v-cqx7.md) | `snark-verifier` | Halo 2 aggregation circuit mishandles point-at-infinity proof elements (CVE-2026-62337, <0.2.6) |
+| [falcon-rust-ghsa-25rm-9wvm-m38v](advisories/falcon-rust-ghsa-25rm-9wvm-m38v.md) | `falcon-rust` | Discrete-Gaussian sampler runs at 2^-33 precision, weakening Falcon signatures |
 
 ## Also
 

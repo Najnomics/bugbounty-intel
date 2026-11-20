@@ -289,3 +289,12 @@ _Auto-maintained from `harness/findings.jsonl`. 8 finding(s). Full verbatim post
 ### Update 2026-11-19
 
 - **BB Arena results (black-box labs)** — https://x.com/mdp_sec/status/2123176925208227875 and https://x.com/mdp_sec/status/2123279041721774524 — AI-agent-app labs solved by only 5 models (Opus 5 2/10); Gemini 4 Neon Max refuses all 100 URL-only labs; snapshots [`writeups/mdp_sec/blackboxarena-gemini-4-neon-max-2026-11-19.md`](../writeups/mdp_sec/blackboxarena-gemini-4-neon-max-2026-11-19.md), [`writeups/mdp_sec/blackboxarena-deepseek-v4-1-flash-providers-2026-11-19.md`](../writeups/mdp_sec/blackboxarena-deepseek-v4-1-flash-providers-2026-11-19.md). Methodology post: 'do it by hand once, automate once predictable' ([`posts/mdp_sec/2026-11-18-2122965531804504449.md`](../posts/mdp_sec/2026-11-18-2122965531804504449.md)). Site check 2026-11-19: mdpsec.com unchanged (591 reports / 150 critical); no new publicly disclosed reports found.
+
+
+### Update 2026-11-20
+
+- **Unauthenticated PII CSV on public media URL (medium→High)** — https://x.com/mdp_sec/status/2123629909692039302 — [`posts/mdp_sec/2026-11-20-2123629909692039302.md`](../posts/mdp_sec/2026-11-20-2123629909692039302.md). ~15k signup emails, old "delete" cleanup export, no auth.
+- **$3,500 Bugcrowd LFI** (details undisclosed) — https://x.com/mdp_sec/status/2123327919783059471 — [`posts/mdp_sec/2026-11-19-2123327919783059471.md`](../posts/mdp_sec/2026-11-19-2123327919783059471.md).
+- **huntdeck open-sourced** (H1/Bugcrowd/Intigriti/YesWeHack scope+change monitor) — https://x.com/mdp_sec/status/2123358119392911553 — [`posts/mdp_sec/2026-11-19-2123358119392911553.md`](../posts/mdp_sec/2026-11-19-2123358119392911553.md); repo github.com/mdpsec/huntdeck, board huntdeck.io.
+- **AI-hunting precision gate** — https://x.com/mdp_sec/status/2123388317786128746 — GitHub+MS OSS pilot: thousands of alerts → 99 worth fixing; his 591 reports→120 paid/$205,696, all human-read. [`posts/mdp_sec/2026-11-19-2123388317786128746.md`](../posts/mdp_sec/2026-11-19-2123388317786128746.md).
+- **BB Arena black-box board** — https://x.com/mdp_sec/status/2123509113745498345 — best model 22/100, Claude Opus 5 High top. [`posts/mdp_sec/2026-11-19-2123509113745498345.md`](../posts/mdp_sec/2026-11-19-2123509113745498345.md). Site check 2026-11-20: mdpsec.com unchanged (591 reports / 150 critical); no new public disclosures.

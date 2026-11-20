@@ -219,3 +219,13 @@ Advanced the two OPEN pass-6 cursors by **28 search calls (14 pages each), 730 n
 | n6e | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` | 370 | 2023-09-25 | 1706213881020911963 | OPEN |
 
 Resume n6c and n6e with the same query, `until_id` as shown, `max_results` 25. Ingest with `/workspace/raw/daily/bf17.py <label> <file>` (or `bf.sh`), then `gen_archive.py` + `stat.py` (re-append dated notes) + `write_state.py`. Request `note_post` (not `note_tweet`) in `post.fields` — the X MCP enum is `note_post`.
+
+## 2026-11-20 note — pass 6 continued
+Advanced the two OPEN pass-6 cursors by **8 search calls (4 pages each), 128 newly archived posts** (67 trailofbits, 61 samczsun/pcaversaccio). 
+
+| Cursor | Query | New today | Oldest reached | until_id (resume) | State |
+|---|---|---|---|---|---|
+| n6c | `from:trailofbits -is:retweet -is:reply` | 67 | 2017-11-09 | 928611473491943424 | OPEN |
+| n6e | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` | 61 | 2023-08-11 | 1689896815280177152 | OPEN |
+
+Resume n6c and n6e with the same query, `until_id` as shown, `max_results` 100 (API caps at 25/call). Ingest with `/workspace/raw/daily/bf20.py <label> <file>`.

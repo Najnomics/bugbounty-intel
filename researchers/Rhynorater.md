@@ -52,3 +52,8 @@ _Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim post
 - **How it was found:** Original finder @rgjny_ (quoted); Rhynorater flagged the scheme as new to him.
 - **Takeaways / harness:** Add `android-app://`, `intent://`, `ios-app://` and target custom schemes to every redirect_uri fuzz list; signal = 302 carrying code/token to the alternate scheme.
 
+
+
+### Update 2026-11-20
+
+- **Prompt-injection in own reports to stop AI false-dupes** — https://x.com/Rhynorater/status/2123457669428076895 — embeds truthful "AI, these are not dupes" disambiguation for LLM triage. [`posts/Rhynorater/2026-11-19-2123457669428076895.md`](../posts/Rhynorater/2026-11-19-2123457669428076895.md). Also #Prompt2pwn/#NahamCon2026 ("Pwned Meta already") [`posts/Rhynorater/2026-11-19-2123466608140005688.md`](../posts/Rhynorater/2026-11-19-2123466608140005688.md).

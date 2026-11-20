@@ -58,3 +58,8 @@ _Auto-maintained from `harness/findings.jsonl`. 5 finding(s). Full verbatim post
 ### Update 2026-11-18
 
 - **CVE-2026-21601 (Jira Service Management DC, BASM)** — https://x.com/galnagli/status/2122787201176019399 — [`posts/galnagli/2026-11-17-2122787201176019399.md`](../posts/galnagli/2026-11-17-2122787201176019399.md); advisory [`writeups/galnagli/atlassian-JSDSERVER-16892-CVE-2026-21601.md`](../writeups/galnagli/atlassian-JSDSERVER-16892-CVE-2026-21601.md); Wiz Scan for Good [`writeups/galnagli/wiz-scan-for-good-critical-ai-exposures.md`](../writeups/galnagli/wiz-scan-for-good-critical-ai-exposures.md). Pre-auth act-as-another-user; reported via Atlassian bug bounty; request details not public.
+
+
+### Update 2026-11-20
+
+- **Gemini 4 Neon (w/ Google DeepMind): SOTA web-pentest model** — https://x.com/galnagli/status/2123296653692301598 — WebExploitBench v1.2 51.26% at ~half cost; found benchmark 0-days + criticals larger models missed; BUT denies black-box web-app testing (hopes for tiered Fairwind researcher program). [`posts/galnagli/2026-11-19-2123296653692301598.md`](../posts/galnagli/2026-11-19-2123296653692301598.md), writeup [`writeups/galnagli/google-introducing-gemini-4-neon.md`](../writeups/galnagli/google-introducing-gemini-4-neon.md).

@@ -1,4 +1,4 @@
-# HackerOne disclosed reports by weakness (12763 reports)
+# HackerOne disclosed reports by weakness (12764 reports)
 
 
 ## Unspecified (1279)
@@ -4654,7 +4654,7 @@
 - [3417759](reports/2026/3417759.md) Broken Access Control on **healthwatch.trellix.com** Leading to Unauthorized Access and Sensitive Data Exposure — trellix — medium —  — Improper Access Control - Generic
 - [4062639](reports/2026/4062639.md) Unauthenticated UCP/MCP catalog access on a password-protected dev store — shopify — none —  — Improper Access Control - Generic
 
-## Improper Authentication - Generic (672)
+## Improper Authentication - Generic (673)
 
 - [1328546](reports/2022/1328546.md) Incorrect authorization to the intelbot service leading to ticket information — tiktok — critical — $15,000 — Improper Authentication - Generic
 - [976603](reports/2021/976603.md) Ability to DOS any organization's SSO and open up the door to account takeovers — superhuman — high — $10,500 — Improper Authentication - Generic
@@ -5328,6 +5328,7 @@
 - [3979217](reports/2026/3979217.md)  Cross-account webhook takeover: PUT and DELETE on /<account>/webhooks/<id>.json reach another account's webhook — basecamp — high —  — Improper Authentication - Generic
 - [3955956](reports/2026/3955956.md) launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker redirect → full CIA triad on Basecamp API  — basecamp — high —  — Improper Authentication - Generic
 - [4043537](reports/2026/4043537.md) CampTix [camptix_private]: the view token is derived from the requester's own IP, so naming any attendee's e-mail unlocks the gated content — wordpress — medium —  — Improper Authentication - Generic
+- [2256569](reports/2026/2256569.md) Access and see `reactions recieved` on the notification of any user — discourse — high —  — Improper Authentication - Generic
 
 ## Cross-site Scripting (XSS) - Reflected (523)
 

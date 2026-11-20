@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-19 (Africa/Lagos)",
+ "generated": "2026-11-20 (Africa/Lagos)",
  "note": "Markers for the daily incremental CVE run. See cves/README.md \"Daily incremental procedure\".",
  "sources": {
   "cvelistV5": {
    "status": "complete",
-   "records": 428246,
+   "records": 429285,
    "years": "1999-2026",
-   "max_dateUpdated": "2026-11-19T04:59:33.977Z",
+   "max_dateUpdated": "2026-11-20T04:57:31.238Z",
    "source": "https://github.com/CVEProject/cvelistV5 (release zip)",
    "incremental": "download https://github.com/CVEProject/cvelistV5/releases latest *_delta_CVEs_at_*.zip or the daily cumulative delta since max_dateUpdated; re-run tools/intel-pipeline/cve_build.py"
   },
   "nvd": {
    "status": "complete",
-   "records": 428247,
-   "max_lastModified": "2026-11-19T05:18:43.210",
-   "api_timestamp": "2026-11-19T05:55:23.631",
+   "records": 429286,
+   "max_lastModified": "2026-11-20T05:18:57.930",
+   "api_timestamp": "2026-11-20T06:03:45.014",
    "incremental": "GET https://services.nvd.nist.gov/rest/json/cves/2.0?lastModStartDate=<max_lastModified>&lastModEndDate=<now> (max 120-day window, 2000/page, sleep 6s), then tools/intel-pipeline/nvd_build.py"
   },
   "cisa_kev": {
@@ -26,15 +26,15 @@
   },
   "ghsa": {
    "status": "complete",
-   "records": 37885,
-   "max_modified": "2026-11-19T01:15:54Z",
+   "records": 37984,
+   "max_modified": "2026-11-20T00:23:45Z",
    "source": "https://github.com/github/advisory-database (reviewed)",
    "incremental": "GitHub REST GET /advisories?type=reviewed&sort=updated&direction=desc until modified <= max_modified"
   },
   "osv_non_ghsa": {
    "status": "complete",
-   "records": 23899,
-   "max_modified": "2026-11-18T18:00:04.176875510Z",
+   "records": 23921,
+   "max_modified": "2026-11-20T05:00:03.118407672Z",
    "source": "https://osv-vulnerabilities.storage.googleapis.com/<eco>/all.zip; skipped: GHSA dups, MAL- malicious-package records, GIT and Linux ecosystems (covered by cvelist/kernel CNA)",
    "incremental": "per ecosystem modified_id.csv at https://osv-vulnerabilities.storage.googleapis.com/<eco>/modified_id.csv, entries newer than max_modified"
   },
@@ -48,9 +48,9 @@
   },
   "linux_kernel_cna": {
    "status": "complete",
-   "records": 18594,
-   "vulns_git_head": "f418c1116f2ec1940e27ae4a38dbf42a0be719a8",
-   "vulns_git_date": "2026-11-18T09:42:34+01:00",
+   "records": 19070,
+   "vulns_git_head": "73eb6a583c36884834ffb3c74a72620e961c8de1",
+   "vulns_git_date": "2026-11-20T06:53:03+01:00",
    "source": "https://git.kernel.org/pub/scm/linux/security/vulns.git",
    "incremental": "git -C /workspace/raw/kvulns pull; re-run tools/intel-pipeline/kernel_cna_build.py"
   },

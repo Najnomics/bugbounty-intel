@@ -11407,6 +11407,31 @@
 - [1194301](reports/2021/1194301.md) Reflected XSS in https://www.topcoder.com/blog/category/community-stories/ — lab45 — low —  — Cross-site Scripting (XSS) - Reflected
 - [978823](reports/2021/978823.md) SSRF to AWS file read — lab45 — critical —  — Server-Side Request Forgery (SSRF)
 
+## discourse (22)
+
+- [191890](reports/2017/191890.md) DOM Based XSS in Discourse Search — discourse — high —  — Cross-site Scripting (XSS) - Generic
+- [192223](reports/2017/192223.md) XSS vulnerability on Audio and Video parsers — discourse — high — $256 — Cross-site Scripting (XSS) - Generic
+- [191909](reports/2017/191909.md) XSS Vulnerability on Image link parser — discourse — high — $256 — Cross-site Scripting (XSS) - Generic
+- [192611](reports/2017/192611.md) Users can bookmark other user's messages — discourse — medium —  — Privilege Escalation
+- [197914](reports/2017/197914.md) Stored XSS in posts because of absence of oembed variables values escaping — discourse — high —  — Cross-site Scripting (XSS) - Generic
+- [197443](reports/2017/197443.md) XSS in topics because of bandcamp preview engine vulnerability — discourse — high —  — Cross-site Scripting (XSS) - Generic
+- [197902](reports/2017/197902.md) Stored XSS in topics because of whitelisted_generic engine vulnerability — discourse — high —  — Cross-site Scripting (XSS) - Generic
+- [214022](reports/2017/214022.md) Admin Command Injection via username in user_archive ExportCsvFile — discourse — high — $512 — Command Injection - Generic
+- [213558](reports/2017/213558.md) Arbitrary Local-File Read from Admin - Restore From Backup due to Symlinks — discourse — high — $512 — Information Disclosure
+- [228399](reports/2017/228399.md) Any authenticated user can download full list of users, including email — discourse — medium — $256 — Privacy Violation
+- [228377](reports/2017/228377.md) SSRF in upload IMG through URL — discourse — low — $64 — Information Disclosure
+- [242765](reports/2017/242765.md) Any user with invite capabilities can take-over any account on Discourse — discourse — critical — $1,024 — 
+- [312647](reports/2018/312647.md) Gaining access to private topics using quoting feature — discourse — high — $256 — Improper Access Control - Generic
+- [333507](reports/2018/333507.md) Stored XSS in "post last edited" option — discourse — high — $256 — Cross-site Scripting (XSS) - Stored
+- [260697](reports/2018/260697.md) CSRF-tokens on pages without no-cache headers, resulting in ATO when using CloudFlare proxy (Web Cache Deception) — discourse — low —  — Cross-Site Request Forgery (CSRF)
+- [394016](reports/2018/394016.md) Web Cache Deception Attack (XSS) — discourse — high — $256 — Cross-site Scripting (XSS) - Stored
+- [423022](reports/2018/423022.md) Account takeover at https://try.discourse.org due to no CSRF protection in connecting Yahoo account — discourse — high —  — Cross-Site Request Forgery (CSRF)
+- [3058919](reports/2025/3058919.md) Application Level DoS - Large Markdown Payload in Reply Section Leading to Resource Exhaustion — discourse — high —  — Uncontrolled Resource Consumption
+- [3400140](reports/2026/3400140.md) Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint — discourse — high — $1,024 — Uncontrolled Resource Consumption
+- [3689633](reports/2026/3689633.md) Hidden/restricted tags can be mutated through synonym ID paths without per-tag authorization — discourse — medium —  — Insecure Direct Object Reference (IDOR)
+- [3738834](reports/2026/3738834.md) Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4bf3bf6786) — discourse — medium —  — Information Disclosure
+- [2256569](reports/2026/2256569.md) Access and see `reactions recieved` on the notification of any user — discourse — high —  — Improper Authentication - Generic
+
 ## mixmax (22)
 
 - [233408](reports/2017/233408.md) Subdomain takeover (sales.mixmax.com) — mixmax — medium —  — Privilege Escalation
@@ -11431,30 +11456,6 @@
 - [236301](reports/2017/236301.md) Blind SSRF due to img tag injection in career form — mixmax — low —  — Server-Side Request Forgery (SSRF)
 - [246055](reports/2017/246055.md) Public calendar link can be invisible — mixmax — low —  — Information Disclosure
 - [262262](reports/2017/262262.md) app.mixmax.com Information Discloure on cal.mixmax.com and Not Signing out after Removing information grant access from Google — mixmax — medium —  — 
-
-## discourse (21)
-
-- [191890](reports/2017/191890.md) DOM Based XSS in Discourse Search — discourse — high —  — Cross-site Scripting (XSS) - Generic
-- [192223](reports/2017/192223.md) XSS vulnerability on Audio and Video parsers — discourse — high — $256 — Cross-site Scripting (XSS) - Generic
-- [191909](reports/2017/191909.md) XSS Vulnerability on Image link parser — discourse — high — $256 — Cross-site Scripting (XSS) - Generic
-- [192611](reports/2017/192611.md) Users can bookmark other user's messages — discourse — medium —  — Privilege Escalation
-- [197914](reports/2017/197914.md) Stored XSS in posts because of absence of oembed variables values escaping — discourse — high —  — Cross-site Scripting (XSS) - Generic
-- [197443](reports/2017/197443.md) XSS in topics because of bandcamp preview engine vulnerability — discourse — high —  — Cross-site Scripting (XSS) - Generic
-- [197902](reports/2017/197902.md) Stored XSS in topics because of whitelisted_generic engine vulnerability — discourse — high —  — Cross-site Scripting (XSS) - Generic
-- [214022](reports/2017/214022.md) Admin Command Injection via username in user_archive ExportCsvFile — discourse — high — $512 — Command Injection - Generic
-- [213558](reports/2017/213558.md) Arbitrary Local-File Read from Admin - Restore From Backup due to Symlinks — discourse — high — $512 — Information Disclosure
-- [228399](reports/2017/228399.md) Any authenticated user can download full list of users, including email — discourse — medium — $256 — Privacy Violation
-- [228377](reports/2017/228377.md) SSRF in upload IMG through URL — discourse — low — $64 — Information Disclosure
-- [242765](reports/2017/242765.md) Any user with invite capabilities can take-over any account on Discourse — discourse — critical — $1,024 — 
-- [312647](reports/2018/312647.md) Gaining access to private topics using quoting feature — discourse — high — $256 — Improper Access Control - Generic
-- [333507](reports/2018/333507.md) Stored XSS in "post last edited" option — discourse — high — $256 — Cross-site Scripting (XSS) - Stored
-- [260697](reports/2018/260697.md) CSRF-tokens on pages without no-cache headers, resulting in ATO when using CloudFlare proxy (Web Cache Deception) — discourse — low —  — Cross-Site Request Forgery (CSRF)
-- [394016](reports/2018/394016.md) Web Cache Deception Attack (XSS) — discourse — high — $256 — Cross-site Scripting (XSS) - Stored
-- [423022](reports/2018/423022.md) Account takeover at https://try.discourse.org due to no CSRF protection in connecting Yahoo account — discourse — high —  — Cross-Site Request Forgery (CSRF)
-- [3058919](reports/2025/3058919.md) Application Level DoS - Large Markdown Payload in Reply Section Leading to Resource Exhaustion — discourse — high —  — Uncontrolled Resource Consumption
-- [3400140](reports/2026/3400140.md) Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint — discourse — high — $1,024 — Uncontrolled Resource Consumption
-- [3689633](reports/2026/3689633.md) Hidden/restricted tags can be mutated through synonym ID paths without per-tag authorization — discourse — medium —  — Insecure Direct Object Reference (IDOR)
-- [3738834](reports/2026/3738834.md) Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4bf3bf6786) — discourse — medium —  — Information Disclosure
 
 ## factlink (20)
 

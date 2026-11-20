@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **12942**
+Total distinct URLs: **12953**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -12948,3 +12948,14 @@ Total distinct URLs: **12942**
 | [14989](https://t.me/dailybountywriteup/14989) | 2026-11-18 09:57:07 | When Math.random() Guards the Door | https://medium.com/@t4nv1/when-math-random-guards-the-door-a-66-000-meta-bug-built-on-a-predictable-secret-baa1a329c431 |
 | [14990](https://t.me/dailybountywriteup/14990) | 2026-11-18 09:57:23 | Why GTA 5 Was a Hacker’s Playground — And The Exact Security Architecture GTA 6 Needs - SecurityCipher | https://securitycipher.com/2026/11/18/gta-6-cybersecurity-architecture-p2p-rce-anticheat |
 | [14991](https://t.me/dailybountywriteup/14991) | 2026-11-18 11:21:37 | #cybersecurity #appsec #java #vulnerability #devsecops #penetrationtesting #openjdk #infosec \| Piyush Kumawat | https://lnkd.in/p/gkHHupKr |
+| [14992](https://t.me/dailybountywriteup/14992) | 2026-11-19 10:14:25 | CVE-2026-98432 | https://medium.com/@asadmohsin760/cve-2026-98432-a-critical-linux-kernel-vulnerability-that-could-allow-remote-root-access-9c2423a2eae3 |
+| [14992](https://t.me/dailybountywriteup/14992) | 2026-11-19 10:14:25 | WebSocket ReDoS via Subscription Path | https://medium.com/@vashuvats/websocket-redos-via-subscription-path-an-undocumented-attack-vector-nobody-is-hunting-b8b930755815 |
+| [14992](https://t.me/dailybountywriteup/14992) | 2026-11-19 10:14:25 | SSRF Filters Bypass Using Redirects | https://osintteam.blog/ssrf-filters-bypass-using-redirects-007fe0151bac |
+| [14992](https://t.me/dailybountywriteup/14992) | 2026-11-19 10:14:25 | Time-Based Blind SQL Injection | https://osintteam.blog/time-based-blind-sql-injection-when-the-database-talks-in-seconds-1fa3c19c899f |
+| [14992](https://t.me/dailybountywriteup/14992) | 2026-11-19 10:14:25 | GitLab Account Takeover | https://masimshahzad.medium.com/gitlab-account-takeover-one-reset-email-two-inboxes-e553d8cdac3b |
+| [14992](https://t.me/dailybountywriteup/14992) | 2026-11-19 10:14:25 | 🐛 Bug Bounty Writeup | https://masimshahzad.medium.com/slack-http-request-smuggling-stealing-session-cookies-c88efca5294c |
+| [14992](https://t.me/dailybountywriteup/14992) | 2026-11-19 10:14:25 | How an GraphQL IDOR leaked AI conversation History and Got me $500 bounty | https://medium.com/@shouvik328/how-an-graphql-idor-leaked-ai-conversation-history-and-got-me-500-bounty-df75b24a08f7 |
+| [14992](https://t.me/dailybountywriteup/14992) | 2026-11-19 10:14:25 | From a Simple Username Field to XSS | https://medium.com/@adarshnair135/from-a-simple-username-field-to-xss-how-one-input-exposed-a-security-flaw-in-a-government-portal-c7183939ad60 |
+| [14992](https://t.me/dailybountywriteup/14992) | 2026-11-19 10:14:25 | How GraphQL Batching and Field Duplication Enable Denial of Service | https://medium.com/@t4nv1/how-graphql-batching-and-field-duplication-enable-denial-of-service-c2737dfda988 |
+| [14992](https://t.me/dailybountywriteup/14992) | 2026-11-19 10:14:25 | One-Click Account Takeover via DOM XSS - How an Exposed Test Runner Opened the Door | https://medium.com/@forlaythegeneral/one-click-account-takeover-via-dom-xss-how-an-exposed-test-runner-opened-the-door-f0f826c4f74f |
+| [14993](https://t.me/dailybountywriteup/14993) | 2026-11-19 10:14:45 | Inside Java2Shell (CVE-2026-114938) - SecurityCipher | https://securitycipher.com/2026/11/18/java2shell-cve-2026-114938-lab |

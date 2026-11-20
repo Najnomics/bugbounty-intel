@@ -505,3 +505,17 @@ session-feed: apex-hunter/thegraph 2026-11-16 — 3 technique rows appended
 - 2026-11-17 apex-hunter/0x-immunefi S2+S3 campaigns: +4 findings rows (deployment-skew gates, ERC-7739 marker trap, AH probe-bound, strict-entry-decoder shield).
 - 2026-11-19 apex-hunter/hibachi-immunefi S1+S2 campaigns: +3 findings rows (unsigned trigger fields, withdraw replay, two-plane identity fixture).
 2026-11-19: apex-hunter/base-everest-s1 campaign feed — 5 technique records (comp re-run protocol, clone-gating, arithmetic elimination, parity mirror fuzz, live-config probes)
+
+## 2026-11-20 daily run (Africa/Lagos)
+- X (Grok Bot connector `x`, `search_posts_all`): 4 grouped handle queries since 2026-11-19T05:00Z (+ pagination to the window boundary), backfill n6c/n6e ×4 pages each, `get_posts_by_ids` ×1 batch (32 ids) to restore note_post/entities/conversation ids; t.co links resolved with curl. ~24 reads used of 1000. **177 new posts** archived into store.json; 15 verbatim post files + analysis written. Security-relevant captures:
+  - https://x.com/S1r1u5_/status/2123497267340710122 ("2shell" CVEs exploited vs live targets but non-portable) + /2123294703210946988 + /2123504275980750858 (breach apocalypse)
+  - https://x.com/galnagli/status/2123296653692301598 (Gemini 4 Neon SOTA web-pentest, denies black-box web testing)
+  - https://x.com/Rhynorater/status/2123457669428076895 (prompt-injection in reports vs AI false-dupes)
+  - https://x.com/mdp_sec/status/2123629909692039302 (unauth PII CSV 15k emails, medium→High) · /2123327919783059471 ($3,500 Bugcrowd LFI) · /2123358119392911553 (huntdeck open-sourced) · /2123388317786128746 (AI precision gate) · /2123509113745498345 (BB Arena board)
+  - https://x.com/zellic_io/status/2123492765581676620 (x86 formal verification of glibc memrchr)
+- Writeups fetched: https://www.zellic.io/blog/x86-formal-verification-memrchr ; https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ ; https://securitycipher.com/2026/11/18/java2shell-cve-2026-114938-lab/ ; 3 x.com posts linked from @defendor_eng (CertiK PolinRider, CD Security newsletter, 4hm8d Templar dispute). dailybounty backlog +12 via job.
+- Telegram previews: https://t.me/s/defendor_eng (+3: 2364-2366), https://t.me/s/dailybountywriteup (+2: 14992-14993).
+- HackerOne: GraphQL CompleteHacktivityReportIndex disclosed_at:[2026-11-18 TO 2026-11-20] → +1 report (2256569 notification-reactions IDOR). Inventory 12,764.
+- CVE/advisory: cvelistV5 28 delta zips since 2026-11-19T04:59Z (1,039 new / 5,683 updated; Microsoft ~4,908, linux-kernel 265, oracle-java 213, cisco 146, google-chrome 113, android 60, wordpress 22, apache 19, php 19). NVD lastModStartDate=2026-11-19T05:18.. (1,039 new / 966 updated → 429,286). CISA KEV refetched → unchanged (2026.11.18, 1,786). github/advisory-database git pull (72f482cd). OSV all.zip re-pull. Linux-kernel vulns.git pulled (73eb6a58, 2026-11-20) → kernel CNA 19,070. Exploit-DB unchanged (70bbef3f). ZDI index unchanged (17,445). Crypto/ZK advisories: snark-verifier GHSA-x26x-7f4v-cqx7 (Halo2 point-at-infinity, CVE-2026-62337), falcon-rust GHSA-25rm-9wvm-m38v (Gaussian sampler 2^-33). No new repo advisories on tracked Zcash/Ethereum/Solana repos (SPL endpoint 404).
+- Backfill: n6c (trailofbits) +67 → 2017-11-09; n6e (samczsun/pcaversaccio) +61 → 2023-08-11; both OPEN.
+- mdpsec.com checked (unchanged: 591 reports / 150 critical).

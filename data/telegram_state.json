@@ -1,22 +1,22 @@
 {
   "defendor_eng": {
-    "newest_id": 2363,
+    "newest_id": 2366,
     "oldest_id": 1,
     "backfill_complete": true,
     "cursor_before": 1,
-    "count": 2124,
+    "count": 2127,
     "url": "https://t.me/defendor_eng",
     "preview_url": "https://t.me/s/defendor_eng",
     "title": "Defendor — DeFi Security",
     "first_date_wat": "2025-04-22T08:42:27+01:00",
-    "last_date_wat": "2026-11-18T21:44:31+01:00",
+    "last_date_wat": "2026-11-20T06:20:42+01:00",
     "years": {
       "2025": 833,
-      "2026": 1291
+      "2026": 1294
     },
     "distinct_writeup_urls": 514,
     "writeup_queue_file": "data/telegram_defendor_eng_writeup_queue.jsonl",
-    "updated": "2026-11-19T06:53:36+01:00",
+    "updated": "2026-11-20T06:55:40+01:00",
     "writeups_fetched": 306,
     "writeups_failed": 219,
     "writeups_pending": 0,
@@ -29,45 +29,45 @@
       "failed_file": "data/telegram_defendor_eng_writeups_failed.jsonl",
       "pending_file": "data/telegram_defendor_eng_writeups_pending.jsonl",
       "queue_file": "data/telegram_defendor_eng_writeup_queue.jsonl",
-      "updated": "2026-11-19T06:58:11+01:00",
+      "updated": "2026-11-20T07:00:14+01:00",
       "note": "306 writeups stored under writeups/telegram-defendor_eng/; 219 fetch failures recorded; 0 scored URLs remain for a later run. Daily updates should continue from pending_file / queue, skipping URLs already in the fetched or failed files."
     }
   },
   "dailybountywriteup": {
-    "newest_id": 14991,
+    "newest_id": 14993,
     "oldest_id": 1,
     "backfill_complete": true,
     "cursor_before": 1,
-    "count": 14979,
+    "count": 14981,
     "url": "https://t.me/dailybountywriteup",
     "preview_url": "https://t.me/s/dailybountywriteup",
     "title": "Daily Bounty Writeups",
     "first_date_wat": "2022-08-22T20:46:34+01:00",
-    "last_date_wat": "2026-11-18T11:21:37+01:00",
+    "last_date_wat": "2026-11-19T10:14:45+01:00",
     "years": {
       "2022": 1225,
       "2023": 3627,
       "2024": 3476,
       "2025": 4011,
-      "2026": 2640
+      "2026": 2642
     },
-    "distinct_writeup_urls": 12942,
+    "distinct_writeup_urls": 12953,
     "writeup_queue_file": "data/telegram_dailybountywriteup_writeup_queue.jsonl",
-    "updated": "2026-11-19T06:53:36+01:00",
-    "writeups_fetched": 1321,
-    "writeups_failed": 1279,
+    "updated": "2026-11-20T06:55:40+01:00",
+    "writeups_fetched": 1333,
+    "writeups_failed": 1278,
     "writeups_pending": 10341,
     "writeups": {
-      "fetched": 1321,
-      "failed": 1279,
+      "fetched": 1333,
+      "failed": 1278,
       "pending": 10341,
-      "target_this_run": 150,
+      "target_this_run": null,
       "fetched_file": "data/telegram_dailybountywriteup_writeups_fetched.jsonl",
       "failed_file": "data/telegram_dailybountywriteup_writeups_failed.jsonl",
       "pending_file": "data/telegram_dailybountywriteup_writeups_pending.jsonl",
       "queue_file": "data/telegram_dailybountywriteup_writeup_queue.jsonl",
-      "updated": "2026-11-19T07:14:38+01:00",
-      "note": "1321 writeups stored under writeups/telegram-dailybountywriteup/; 1279 fetch failures recorded; 10341 scored URLs remain for a later run. Daily updates should continue from pending_file / queue, skipping URLs already in the fetched or failed files."
+      "updated": "2026-11-20T07:05:20+01:00",
+      "note": "1333 writeups stored under writeups/telegram-dailybountywriteup/; 1278 fetch failures recorded; 10341 scored URLs remain for a later run. Daily updates should continue from pending_file / queue, skipping URLs already in the fetched or failed files."
     }
   }
 }
