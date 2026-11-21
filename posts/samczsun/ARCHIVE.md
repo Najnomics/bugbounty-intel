@@ -1,9 +1,9 @@
 # @samczsun — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 259
-- Conversations/threads: 164
+- Posts in this file: 317
+- Conversations/threads: 222
 - Oldest post captured: 2020-03-13
 - Newest post captured: 2026-11-04
 
@@ -3372,6 +3372,129 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2023-09-06 · Post · today in things that absolutely did not age well [pic.x.com/jvQGZ4rC6x] https://twitter.com/bantg/st
+
+
+### Post — @samczsun — 2023-09-06 17:45 UTC (2023-09-06 18:45 WAT)
+
+- URL: https://x.com/samczsun/status/1699478897925185891
+- Metrics (at fetch): bookmark 3, impression 33640, like 84, quote 0, reply 8, retweet 29
+
+> today in things that absolutely did not age well [pic.x.com/jvQGZ4rC6x] https://twitter.com/bantg/status/1699373222481780994
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F5XDDTeaQAEYjb6.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/bantg/status/1699373222481780994
+
+**Quoted post (full text):**
+
+    #### Quoted post — @108172903 — 2023-09-06 10:45 UTC (2023-09-06 11:45 WAT)
+    
+    - URL: https://x.com/108172903/status/1699373222481780994
+    - Metrics (at fetch): bookmark 11, impression 47353, like 114, quote 5, reply 12, retweet 12
+    
+    > happy to share yearn has gotten its domains back.
+    >
+    > if you run a crypto project and use njalla, i suggest migrating away, it cannot be trusted after causing problems for @eth_limo and @yearnfi. it was also the worst support i've ever seen from a business.
+    
+
+
+---
+
+## 2023-08-29 · Post · what is a zkevm? a miserable little pile of [glass breaking]
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @samczsun — 2023-08-29 19:07 UTC (2023-08-29 20:07 WAT)
+
+- URL: https://x.com/samczsun/status/1696600452220195088
+- Metrics (at fetch): bookmark 4, impression 18827, like 70, quote 0, reply 9, retweet 10
+
+> what is a zkevm? a miserable little pile of [glass breaking]
+
+
+---
+
+## 2023-08-22 · Post · evm fun fact: zero-length memory access is always free no matter what the memory offset is because m
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2023-08-22 18:30 UTC (2023-08-22 19:30 WAT)
+
+- URL: https://x.com/samczsun/status/1694054510069719166
+- Metrics (at fetch): bookmark 25, impression 31200, like 152, quote 1, reply 1, retweet 43
+
+> evm fun fact: zero-length memory access is always free no matter what the memory offset is because memory expansion does not occur https://t.co/Iom2n2oXSu https://t.co/eAyIIyf3wB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F4J9masaQAE8h-b.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1496567813737091075 — 2023-08-22 15:50 UTC (2023-08-22 16:50 WAT)
+    
+    - URL: https://x.com/1496567813737091075/status/1694014266578460923
+    - Metrics (at fetch): bookmark 31, impression 62220, like 107, quote 2, reply 42, retweet 7
+    
+    > Is it safe to use `gas()` instead of `0x00`?
+    >
+    > Saves 2 gas.
+    >
+    > First person who can tell me why it's not safe gets 1ETH. https://t.co/VjxpPsZR9F
+    
+    **Media:**
+    - media `3_1694013890718556160` (details not returned by the API)
+    
+
+
+---
+
+## 2023-08-21 · Post · you know what? fuck you [unbonds your curve]
+
+
+### Post — @samczsun — 2023-08-21 23:49 UTC (2023-08-22 00:49 WAT)
+
+- URL: https://x.com/samczsun/status/1693772353061450176
+- Metrics (at fetch): bookmark 3, impression 17617, like 79, quote 0, reply 1, retweet 5
+
+> you know what? fuck you [unbonds your curve]
+
+
+---
+
+## 2023-08-15 · Post · Been seeing some concerns around centralization and speech-policing, so wanted to make it clear:
+
+
+### Post — @samczsun — 2023-08-15 23:39 UTC (2023-08-16 00:39 WAT)
+
+- URL: https://x.com/samczsun/status/1691595426053677231
+- Metrics (at fetch): bookmark 4, impression 20745, like 62, quote 1, reply 3, retweet 6
+
+> Been seeing some concerns around centralization and speech-policing, so wanted to make it clear:
+>
+> SEAL 911 is NOT meant to be the only "approved" method to report bugs. If you have contacts already, you should use them! The point is to be a resource to those who don't. https://t.co/oBGI0aXEyU
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2023-08-07 18:09 UTC (2023-08-07 19:09 WAT)
+    
+    - URL: https://x.com/samczsun/status/1688613385565528064
+    - Metrics (at fetch): bookmark 240, impression 333024, like 1014, quote 56, reply 49, retweet 217
+    
+    > Over the past few days I've been working with a group of whitehats, auditors, and other security leaders to try and solve the hardest part of responsible disclosure: finding the right person to talk to. [pic.x.com/pPjt7D51ZE]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/F28m8j8aMAEB3ls.png — no alt text provided by author
+    
+
+
+---
+
 ## 2023-08-12 · Thread · Had an amazing chat with BlockSec Team on the nuances around attack alerts. We both agreed that, gen
 
 
@@ -3393,6 +3516,9 @@ Tags (automatic): AI-assisted hunting
     
     > As a blockchain security firm, it’s our natural duty to protect users’ assets and safeguard the web3 world for its long-lasting prosperity. However, recent events have led to discussions about the attack alert rule and procedure. We feel called to stand up and openly share our https://t.co/85qB4vDxmQ
     
+    **Media:**
+    - media `3_1690377573925314560` (details not returned by the API)
+    
 
 
 ### Thread part 2 — @samczsun — 2023-08-12 17:05 UTC (2023-08-12 18:05 WAT)
@@ -3411,12 +3537,12 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2023-08-07 18:09 UTC (2023-08-07 19:09 WAT)
 
 - URL: https://x.com/samczsun/status/1688613385565528064
-- Metrics (at fetch): bookmark 240, impression 333019, like 1014, quote 56, reply 49, retweet 217
+- Metrics (at fetch): bookmark 240, impression 333024, like 1014, quote 56, reply 49, retweet 217
 
 > Over the past few days I've been working with a group of whitehats, auditors, and other security leaders to try and solve the hardest part of responsible disclosure: finding the right person to talk to. [pic.x.com/pPjt7D51ZE]
 
 **Media:**
-- media `3_1688611207169847297` (details not returned by the API)
+- photo: https://pbs.twimg.com/media/F28m8j8aMAEB3ls.png — no alt text provided by author
 
 
 ### Thread part 2 — @samczsun — 2023-08-07 18:09 UTC (2023-08-07 19:09 WAT)
@@ -3433,15 +3559,679 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2023-07-27 · Post · imagine a company tweeting "here's how we built our app using netlify ✨" and there's just 5000 repli
+
+
+### Post — @samczsun — 2023-07-27 17:24 UTC (2023-07-27 18:24 WAT)
+
+- URL: https://x.com/samczsun/status/1684615768439451648
+- Metrics (at fetch): not returned
+
+> imagine a company tweeting "here's how we built our app using netlify ✨" and there's just 5000 replies from people with pfps of triangles edited over their eyes going "vercel solves this"
+
+
+---
+
+## 2023-07-25 · Post · incredible levels of self-own happening here https://twitter.com/OurielOhayon/status/168387820302104
+
+
+### Post — @samczsun — 2023-07-25 20:58 UTC (2023-07-25 21:58 WAT)
+
+- URL: https://x.com/samczsun/status/1683944778281648129
+- Metrics (at fetch): not returned
+
+> incredible levels of self-own happening here https://twitter.com/OurielOhayon/status/1683878203021045785
+
+**Links in post:** https://twitter.com/OurielOhayon/status/1683878203021045785
+
+**Quoted post (full text):**
+
+    #### Quoted post — @918711 — 2023-07-25 16:33 UTC (2023-07-25 17:33 WAT)
+    
+    - URL: https://x.com/918711/status/1683878203021045785
+    - Metrics (at fetch): not returned
+    
+    > Live footage of a Laser eyes losing it and left with no other way out than throwing threats  when confronted to hard realities. 
+    >
+    > Shocker. 
+    >
+    > Get off. https://twitter.com/DegenSpartan/status/1683877272502300673
+    
+    **Links in post:** https://twitter.com/DegenSpartan/status/1683877272502300673
+    
+    **Quoted post** 1683877272502300673: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-07-21 · Post · im gonna organize the best conference. it'll be three days long and tickets will cost 10 bucks. ther
+
+
+### Post — @samczsun — 2023-07-21 12:19 UTC (2023-07-21 13:19 WAT)
+
+- URL: https://x.com/samczsun/status/1682364665740017665
+- Metrics (at fetch): not returned
+
+> im gonna organize the best conference. it'll be three days long and tickets will cost 10 bucks. there will be no scheduled talks
+
+
+---
+
+## 2023-07-19 · Post · when the walk signal abruptly turns red while im crossing an intersection where a dozen french drive
+
+
+### Post — @samczsun — 2023-07-19 19:55 UTC (2023-07-19 20:55 WAT)
+
+- URL: https://x.com/samczsun/status/1681754707537317888
+- Metrics (at fetch): not returned
+
+> when the walk signal abruptly turns red while im crossing an intersection where a dozen french drivers are staring me down [pic.x.com/2OYWUZH0UJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1bK_i6aQAAzN9J.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-19 · Post · &gt; require attendees mint ticket as nft
+
+
+### Post — @samczsun — 2023-07-19 18:45 UTC (2023-07-19 19:45 WAT)
+
+- URL: https://x.com/samczsun/status/1681737056505180160
+- Metrics (at fetch): not returned
+
+> &gt; require attendees mint ticket as nft
+> &gt; upload a video of attendees to the internet
+>
+> did arkham throw this party https://twitter.com/divinityglobal/status/1681610649032425472
+
+**Links in post:** https://twitter.com/divinityglobal/status/1681610649032425472
+
+**Quoted post** 1681610649032425472: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-07-19 · Post · if this is you and you are in paris dm me before i go insane from boredom [pic.x.com/MCSKVe38VI]
+
+
+### Post — @samczsun — 2023-07-19 07:08 UTC (2023-07-19 08:08 WAT)
+
+- URL: https://x.com/samczsun/status/1681561661029912577
+- Metrics (at fetch): not returned
+
+> if this is you and you are in paris dm me before i go insane from boredom [pic.x.com/MCSKVe38VI]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1YbZwtakAAK6hP.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-18 · Post · One weird trick to never get phished on Twitter again!
+
+
+### Post — @samczsun — 2023-07-18 21:09 UTC (2023-07-18 22:09 WAT)
+
+- URL: https://x.com/samczsun/status/1681410961780117504
+- Metrics (at fetch): not returned
+
+> One weird trick to never get phished on Twitter again!
+>
+> if replies are disabled then it's a scam [pic.x.com/3ZbM4hxo3u]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1WSW95aIAAaTZj.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-18 · Post · going to a crypto conference is like going to an anime convention because most of the attendees are 
+
+
+### Post — @samczsun — 2023-07-18 21:01 UTC (2023-07-18 22:01 WAT)
+
+- URL: https://x.com/samczsun/status/1681408792033099776
+- Metrics (at fetch): not returned
+
+> going to a crypto conference is like going to an anime convention because most of the attendees are autistic and everyone else thinks you're cringe
+
+
+---
+
+## 2023-07-18 · Post · you either die a hero or live long enough to become the villain [pic.x.com/Y6ZScOyTjz]
+
+
+### Post — @samczsun — 2023-07-18 01:31 UTC (2023-07-18 02:31 WAT)
+
+- URL: https://x.com/samczsun/status/1681114525293219840
+- Metrics (at fetch): not returned
+
+> you either die a hero or live long enough to become the villain [pic.x.com/Y6ZScOyTjz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1SEqCGagAE0kuS.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-17 · Post · ethcc down so bad they could only afford the rights to one (1) ninety second chiptune song which the
+
+
+### Post — @samczsun — 2023-07-17 12:41 UTC (2023-07-17 13:41 WAT)
+
+- URL: https://x.com/samczsun/status/1680920534991900672
+- Metrics (at fetch): not returned
+
+> ethcc down so bad they could only afford the rights to one (1) ninety second chiptune song which theyre blasting on repeat during every intermission. i feel physically sick [pic.x.com/nnKoaHygPo]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1PUUYzakAI2_1i.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-16 · Post · the bridge panel was too scared to name their most and least favorite auditors but im willing to spe
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2023-07-16 13:31 UTC (2023-07-16 14:31 WAT)
+
+- URL: https://x.com/samczsun/status/1680570957801439233
+- Metrics (at fetch): not returned
+
+> the bridge panel was too scared to name their most and least favorite auditors but im willing to speak truth to power which is why my favorite auditor is certik
+
+
+---
+
+## 2023-07-15 · Post · iykyk [pic.x.com/Os4u9gu5dt]
+
+
+### Post — @samczsun — 2023-07-15 19:14 UTC (2023-07-15 20:14 WAT)
+
+- URL: https://x.com/samczsun/status/1680294771770953728
+- Metrics (at fetch): not returned
+
+> iykyk [pic.x.com/Os4u9gu5dt]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1GbLa5aYAAg1Vd.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-15 · Post · which one of you did this [pic.x.com/L5WimnOUVC]
+
+
+### Post — @samczsun — 2023-07-15 14:10 UTC (2023-07-15 15:10 WAT)
+
+- URL: https://x.com/samczsun/status/1680218171951951872
+- Metrics (at fetch): not returned
+
+> which one of you did this [pic.x.com/L5WimnOUVC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F1FVhesaEAACnus.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-13 · Post · who told him [pic.x.com/9P3sAkisYA] https://twitter.com/samczsun/status/1605449958152294401
+
+
+### Post — @samczsun — 2023-07-13 22:15 UTC (2023-07-13 23:15 WAT)
+
+- URL: https://x.com/samczsun/status/1679615654259986432
+- Metrics (at fetch): not returned
+
+> who told him [pic.x.com/9P3sAkisYA] https://twitter.com/samczsun/status/1605449958152294401
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F08xiUFaMAI1gJQ.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/samczsun/status/1605449958152294401
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2022-12-21 06:27 UTC (2022-12-21 07:27 WAT)
+    
+    - URL: https://x.com/samczsun/status/1605449958152294401
+    - Metrics (at fetch): not returned
+    
+    > no one tell elon about tweet-to-earn
+    
+
+
+---
+
+## 2023-07-12 · Post · I'm not going to be at ethCC https://twitter.com/msolomon44/status/1679143430105210881
+
+
+### Post — @samczsun — 2023-07-12 20:43 UTC (2023-07-12 21:43 WAT)
+
+- URL: https://x.com/samczsun/status/1679229976183439361
+- Metrics (at fetch): not returned
+
+> I'm not going to be at ethCC https://twitter.com/msolomon44/status/1679143430105210881
+
+**Links in post:** https://twitter.com/msolomon44/status/1679143430105210881
+
+**Quoted post (full text):**
+
+    #### Quoted post — @921723523650945025 — 2023-07-12 14:59 UTC (2023-07-12 15:59 WAT)
+    
+    - URL: https://x.com/921723523650945025/status/1679143430105210881
+    - Metrics (at fetch): not returned
+    
+    > I’m not going to be at ethCC https://twitter.com/Noah_eth/status/1679130676723892224
+    
+    **Links in post:** https://twitter.com/Noah_eth/status/1679130676723892224
+    
+    **Quoted post** 1679130676723892224: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-07-11 · Post · "But instead of a monolithic blockchain, we're going with a modular architecture where-"
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2023-07-11 20:24 UTC (2023-07-11 21:24 WAT)
+
+- URL: https://x.com/samczsun/status/1678862741522771968
+- Metrics (at fetch): not returned
+
+> "But instead of a monolithic blockchain, we're going with a modular architecture where-"
+>
+> You bolt awake in the mountains of Carthage. You are not online. It is 217 BC. You are the general Hannibal, and you have changed your mind. The future cannot come to pass. Rome must burn.
+
+
+---
+
+## 2023-07-10 · Post · lmao no fucking way https://twitter.com/xolandar/status/1678462447005618176
+
+
+### Post — @samczsun — 2023-07-10 18:37 UTC (2023-07-10 19:37 WAT)
+
+- URL: https://x.com/samczsun/status/1678473437533339649
+- Metrics (at fetch): not returned
+
+> lmao no fucking way https://twitter.com/xolandar/status/1678462447005618176
+
+**Links in post:** https://twitter.com/xolandar/status/1678462447005618176
+
+**Quoted post** 1678462447005618176: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-07-10 · Post · flight delayed by an hour but still early. ill see you if i see you
+
+
+### Post — @samczsun — 2023-07-10 08:24 UTC (2023-07-10 09:24 WAT)
+
+- URL: https://x.com/samczsun/status/1678319312657088512
+- Metrics (at fetch): not returned
+
+> flight delayed by an hour but still early. ill see you if i see you
+>
+> (pic unrelated) [pic.x.com/paHBiJr1u6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0qWhV0aAAACbQK.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-06 · Post · since twitter is eating shit left and right you should join my paid group i mean alerts channel inst
+
+
+### Post — @samczsun — 2023-07-06 19:50 UTC (2023-07-06 20:50 WAT)
+
+- URL: https://x.com/samczsun/status/1677042446063247360
+- Metrics (at fetch): not returned
+
+> since twitter is eating shit left and right you should join my paid group i mean alerts channel instead where i do live updates on incidents like this multichain thing
+>
+> https://t.me/web3_security_alerts
+
+**Links in post:** https://t.me/web3_security_alerts
+
+
+---
+
+## 2023-07-05 · Post · arriving in paris for ethcc like [pic.x.com/x2ueiCtfuB]
+
+
+### Post — @samczsun — 2023-07-05 19:08 UTC (2023-07-05 20:08 WAT)
+
+- URL: https://x.com/samczsun/status/1676669366421839872
+- Metrics (at fetch): not returned
+
+> arriving in paris for ethcc like [pic.x.com/x2ueiCtfuB]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0S550JacAA86_I.jpg — no alt text provided by author
+
+
+---
+
+## 2023-07-04 · Post · wow im glad elon solved bots [pic.x.com/z5XfAHEXyC] https://twitter.com/samczsun/status/167502805677
+
+
+### Post — @samczsun — 2023-07-04 00:13 UTC (2023-07-04 01:13 WAT)
+
+- URL: https://x.com/samczsun/status/1676021451189817344
+- Metrics (at fetch): not returned
+
+> wow im glad elon solved bots [pic.x.com/z5XfAHEXyC] https://twitter.com/samczsun/status/1675028056778608640
+
+**Media:**
+- photo: https://pbs.twimg.com/media/F0JsoPeaQAAj8IZ.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/samczsun/status/1675028056778608640
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2023-07-01 06:26 UTC (2023-07-01 07:26 WAT)
+    
+    - URL: https://x.com/samczsun/status/1675028056778608640
+    - Metrics (at fetch): not returned
+    
+    > come say hi https://twitter.com/JandX_/status/1675023978312929280
+    
+    **Links in post:** https://twitter.com/JandX_/status/1675023978312929280
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @734418118861279232 — 2023-07-01 06:10 UTC (2023-07-01 07:10 WAT)
+        
+        - URL: https://x.com/734418118861279232/status/1675023978312929280
+        - Metrics (at fetch): not returned
+        
+        > AX bound [pic.x.com/I0X4D22E5n]
+        
+        **Media:**
+        - media `3_1675023972507979776` (details not returned by the API)
+        
+    
+
+
+---
+
+## 2023-07-01 · Post · come say hi https://twitter.com/JandX_/status/1675023978312929280
+
+
+### Post — @samczsun — 2023-07-01 06:26 UTC (2023-07-01 07:26 WAT)
+
+- URL: https://x.com/samczsun/status/1675028056778608640
+- Metrics (at fetch): not returned
+
+> come say hi https://twitter.com/JandX_/status/1675023978312929280
+
+**Links in post:** https://twitter.com/JandX_/status/1675023978312929280
+
+**Quoted post (full text):**
+
+    #### Quoted post — @734418118861279232 — 2023-07-01 06:10 UTC (2023-07-01 07:10 WAT)
+    
+    - URL: https://x.com/734418118861279232/status/1675023978312929280
+    - Metrics (at fetch): not returned
+    
+    > AX bound [pic.x.com/I0X4D22E5n]
+    
+    **Media:**
+    - media `3_1675023972507979776` (details not returned by the API)
+    
+
+
+---
+
+## 2023-06-28 · Post · [pic.x.com/duiKu2snae] https://twitter.com/sweatystartup/status/1673686944868364288
+
+
+### Post — @samczsun — 2023-06-28 20:46 UTC (2023-06-28 21:46 WAT)
+
+- URL: https://x.com/samczsun/status/1674157343301574662
+- Metrics (at fetch): not returned
+
+> [pic.x.com/duiKu2snae] https://twitter.com/sweatystartup/status/1673686944868364288
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FzvNOtuaIAgCdEv.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/sweatystartup/status/1673686944868364288
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1067927682023915521 — 2023-06-27 13:37 UTC (2023-06-27 14:37 WAT)
+    
+    - URL: https://x.com/1067927682023915521/status/1673686944868364288
+    - Metrics (at fetch): not returned
+    
+    > An NFT profile photo and anon name automatically disqualify you from being taken seriously on Twitter.
+    >
+    > This place is a networking machine greater than any country club on earth and you're out back smoking cigarettes with the cart boys.
+    
+
+
+---
+
+## 2023-06-28 · Post · optimization tip: if you name your variable `dp`, your algorithm runs faster
+
+
+### Post — @samczsun — 2023-06-28 06:06 UTC (2023-06-28 07:06 WAT)
+
+- URL: https://x.com/samczsun/status/1673935800608882689
+- Metrics (at fetch): not returned
+
+> optimization tip: if you name your variable `dp`, your algorithm runs faster
+
+
+---
+
+## 2023-06-24 · Post · the hacker had to go back to sleep so they wouldn't be late for homeroom https://twitter.com/PiotrSz
+
+
+### Post — @samczsun — 2023-06-24 00:58 UTC (2023-06-24 01:58 WAT)
+
+- URL: https://x.com/samczsun/status/1672408820151377920
+- Metrics (at fetch): not returned
+
+> the hacker had to go back to sleep so they wouldn't be late for homeroom https://twitter.com/PiotrSzlachciak/status/1672341524175024128
+
+**Links in post:** https://twitter.com/PiotrSzlachciak/status/1672341524175024128
+
+**Quoted post (full text):**
+
+    #### Quoted post — @833293647386968066 — 2023-06-23 20:31 UTC (2023-06-23 21:31 WAT)
+    
+    - URL: https://x.com/833293647386968066/status/1672341524175024128
+    - Metrics (at fetch): not returned
+    
+    > AND THEN IT HIT ME. I AM BEING EXPLOITED [pic.x.com/SI3C6fBAIz]
+    
+    **Media:**
+    - media `3_1672340026036723714` (details not returned by the API)
+    
+
+
+---
+
+## 2023-06-10 · Post · bro i work at a registered investment advisor it would literally be illegal for me to take trades li
+
+
+### Post — @samczsun — 2023-06-10 20:37 UTC (2023-06-10 21:37 WAT)
+
+- URL: https://x.com/samczsun/status/1667632030765699074
+- Metrics (at fetch): not returned
+
+> bro i work at a registered investment advisor it would literally be illegal for me to take trades like this https://twitter.com/dTrypt/status/1667631475129212928
+
+**Links in post:** https://twitter.com/dTrypt/status/1667631475129212928
+
+**Quoted post (full text):**
+
+    #### Quoted post — @767855359 — 2023-06-10 20:35 UTC (2023-06-10 21:35 WAT)
+    
+    - URL: https://x.com/767855359/status/1667631475129212928
+    - Metrics (at fetch): not returned
+    
+    > @samczsun @pendle_fi @nansen_intern @nansen_ai @ASvanevik i 've been following that wallet thinking it was you this whole time. You're telling me its just some unknown megawealthy degen? 🤯
+    
+
+
+---
+
+## 2023-06-10 · Post · *taps sign*
+
+
+### Post — @samczsun — 2023-06-10 20:32 UTC (2023-06-10 21:32 WAT)
+
+- URL: https://x.com/samczsun/status/1667630874056331264
+- Metrics (at fetch): not returned
+
+> *taps sign*
+>
+> man if im gonna get wrenched at least let it be for something i actually have https://twitter.com/samczsun/status/1615098606062641152
+
+**Links in post:** https://twitter.com/samczsun/status/1615098606062641152
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2023-01-16 21:28 UTC (2023-01-16 22:28 WAT)
+    
+    - URL: https://x.com/samczsun/status/1615098606062641152
+    - Metrics (at fetch): not returned
+    
+    > @pendle_fi @nansen_intern @nansen_ai @ASvanevik not me but would be nice if it were the case 🥲
+    
+
+
+---
+
+## 2023-06-07 · Post · lol fuck discord https://twitter.com/CL207/status/1666361005667135489
+
+
+### Post — @samczsun — 2023-06-07 08:34 UTC (2023-06-07 09:34 WAT)
+
+- URL: https://x.com/samczsun/status/1666363037736144896
+- Metrics (at fetch): bookmark 2, impression 24385, like 79, quote 0, reply 7, retweet 6
+
+> lol fuck discord https://twitter.com/CL207/status/1666361005667135489
+
+**Links in post:** https://twitter.com/CL207/status/1666361005667135489
+
+**Quoted post** 1666361005667135489: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-06-06 · Post · *pretends to act surprised* [pic.x.com/OVeXwb6NuN]
+
+
+### Post — @samczsun — 2023-06-06 18:29 UTC (2023-06-06 19:29 WAT)
+
+- URL: https://x.com/samczsun/status/1666150316608458753
+- Metrics (at fetch): bookmark 1, impression 32910, like 86, quote 0, reply 10, retweet 5
+
+> *pretends to act surprised* [pic.x.com/OVeXwb6NuN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fx9ap6xagAAs-3q.png — no alt text provided by author
+
+
+---
+
 ## 2023-05-25 · Post · sorry but if you're a whitehat and you choose to optimize for bounty amount at the expense of puttin
 
 
 ### Post — @samczsun — 2023-05-25 19:12 UTC (2023-05-25 20:12 WAT)
 
 - URL: https://x.com/samczsun/status/1661812570100219906
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 7, impression 52806, like 337, quote 3, reply 22, retweet 34
 
 > sorry but if you're a whitehat and you choose to optimize for bounty amount at the expense of putting users and their funds at risk then you're not a whitehat
+
+
+---
+
+## 2023-05-21 · Post · Locked votes have been drained [pic.x.com/DyJnDwc3SZ] https://twitter.com/samczsun/status/1660012958
+
+
+### Post — @samczsun — 2023-05-21 01:26 UTC (2023-05-21 02:26 WAT)
+
+- URL: https://x.com/samczsun/status/1660094606019825664
+- Metrics (at fetch): bookmark 14, impression 125831, like 135, quote 4, reply 18, retweet 28
+
+> Locked votes have been drained [pic.x.com/DyJnDwc3SZ] https://twitter.com/samczsun/status/1660012958787973121
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwnXGSJaAAIhAAw.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FwnXLPyacAEQws1.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/samczsun/status/1660012958787973121
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2023-05-20 20:01 UTC (2023-05-20 21:01 WAT)
+    
+    - URL: https://x.com/samczsun/status/1660012958787973121
+    - Metrics (at fetch): bookmark 9, impression 195088, like 243, quote 4, reply 11, retweet 18
+    
+    > First, what does this mean for Tornado Cash?
+    >
+    > Through governance control, the attacker can:
+    > - withdraw all of the locked votes
+    > - drain all of the tokens in the governance contract
+    > - brick the router
+    >
+    > However, the attacker still can't:
+    > - drain individual pools
+    
+
+
+---
+
+## 2023-05-20 · Post · Correction: @CellierLael correctly pointed out that Tornado Cash Nova, deployed to Gnosis Chain, is 
+
+
+### Post — @samczsun — 2023-05-20 22:00 UTC (2023-05-20 23:00 WAT)
+
+- URL: https://x.com/samczsun/status/1660042906500214784
+- Metrics (at fetch): bookmark 6, impression 71171, like 105, quote 11, reply 15, retweet 18
+
+> Correction: @CellierLael correctly pointed out that Tornado Cash Nova, deployed to Gnosis Chain, is a proxy that is administered by governance. Therefore, the attacker is also able to drain all of the ETH in that pool by upgrading the contract
+>
+> https://gnosisscan.io/address/0xd692fd2d0b2fbd2e52cfa5b5b9424bc981c30696 https://twitter.com/samczsun/status/1660012958787973121
+
+**Links in post:** https://gnosisscan.io/address/0xd692fd2d0b2fbd2e52cfa5b5b9424bc981c30696, https://twitter.com/samczsun/status/1660012958787973121
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2023-05-20 20:01 UTC (2023-05-20 21:01 WAT)
+    
+    - URL: https://x.com/samczsun/status/1660012958787973121
+    - Metrics (at fetch): bookmark 9, impression 195088, like 243, quote 4, reply 11, retweet 18
+    
+    > First, what does this mean for Tornado Cash?
+    >
+    > Through governance control, the attacker can:
+    > - withdraw all of the locked votes
+    > - drain all of the tokens in the governance contract
+    > - brick the router
+    >
+    > However, the attacker still can't:
+    > - drain individual pools
+    
 
 
 ---
@@ -3455,14 +4245,14 @@ Tags (automatic): Path normalization
 ### Post — @samczsun — 2023-05-20 20:01 UTC (2023-05-20 21:01 WAT)
 
 - URL: https://x.com/samczsun/status/1660012956632104960
-- Metrics (at fetch): bookmark 361, impression 1225856, like 1860, quote 296, reply 87, retweet 651
+- Metrics (at fetch): bookmark 360, impression 1225874, like 1860, quote 296, reply 87, retweet 650
 
 > On 2023/05/20 at 07:25:11 UTC, Tornado Cash governance effectively ceased to exist. Through a malicious proposal, an attacker granted themselves 1,200,000 votes. As this is more than the ~700,000 legitimate votes, they now have full control.
 >
 > https://t.co/nY87XmrYgT https://t.co/h9qjc3xRqz
 
 **Media:**
-- media `3_1659998536388448256` (details not returned by the API)
+- photo: https://pbs.twimg.com/media/Fwl_37EaEAA8rqJ.png — no alt text provided by author
 
 
 ### Thread part 2 — @samczsun — 2023-05-20 20:01 UTC (2023-05-20 21:01 WAT)
@@ -3490,11 +4280,13 @@ Tags (automatic): Path normalization
 >
 > Well, when the attacker created their malicious proposal, they claimed to have used the same logic as an earlier proposal which had passed. However, that wasn't exactly the truth, because they added an extra function
 >
-> https://t.co/IK6s0IBfVY https://t.co/1o76leezM1
+> https://etherscan.io/address/0xC503893b3e3c0C6b909222b45f2a3a259a52752D [pic.x.com/1o76leezM1]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FwmEFiBakAEHzZx.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/FwmEHLwaUAApiyg.png — no alt text provided by author
+
+**Links in post:** https://etherscan.io/address/0xC503893b3e3c0C6b909222b45f2a3a259a52752D
 
 
 ### Thread part 4 — @samczsun — 2023-05-20 20:01 UTC (2023-05-20 21:01 WAT)
@@ -3537,6 +4329,362 @@ Tags (automatic): Path normalization
 
 ---
 
+## 2023-05-16 · Post · all systems operating normally [pic.x.com/fVWBlI7riH]
+
+
+### Post — @samczsun — 2023-05-16 21:48 UTC (2023-05-16 22:48 WAT)
+
+- URL: https://x.com/samczsun/status/1658590292277358592
+- Metrics (at fetch): bookmark 0, impression 11323, like 79, quote 1, reply 1, retweet 5
+
+> all systems operating normally [pic.x.com/fVWBlI7riH]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FwR-9EkaIAA1JFj.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-16 · Post · me: i would like a way to show the entire world that i own cryptocurrency
+
+
+### Post — @samczsun — 2023-05-16 07:27 UTC (2023-05-16 08:27 WAT)
+
+- URL: https://x.com/samczsun/status/1658373571406888961
+- Metrics (at fetch): bookmark 16, impression 78132, like 565, quote 6, reply 19, retweet 62
+
+> me: i would like a way to show the entire world that i own cryptocurrency
+> ledger: ok
+> me: i'd also really like to share my seed phrase with some random people
+> ledger: ur not gonna believe this
+
+
+---
+
+## 2023-05-11 · Post · looking at the ingredients in a cold pressed juice like
+
+
+### Post — @samczsun — 2023-05-11 14:35 UTC (2023-05-11 15:35 WAT)
+
+- URL: https://x.com/samczsun/status/1656669301934534657
+- Metrics (at fetch): bookmark 1, impression 12911, like 45, quote 0, reply 8, retweet 7
+
+> looking at the ingredients in a cold pressed juice like
+> - apple
+> - orange
+> - worcestershire sauce
+> - asafoetida
+> - lemon
+
+
+---
+
+## 2023-05-08 · Post · well well well, if it isn't the consequences of my own actions [pic.x.com/kkI4vG3OzK] https://twitte
+
+
+### Post — @samczsun — 2023-05-08 16:37 UTC (2023-05-08 17:37 WAT)
+
+- URL: https://x.com/samczsun/status/1655612824163602432
+- Metrics (at fetch): bookmark 9, impression 155556, like 278, quote 8, reply 21, retweet 15
+
+> well well well, if it isn't the consequences of my own actions [pic.x.com/kkI4vG3OzK] https://twitter.com/LayerZero_Core/status/1628062799971897345
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvnrFyxacAAGoUn.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/LayerZero_Core/status/1628062799971897345
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1395504028910424065 — 2023-02-21 16:03 UTC (2023-02-21 17:03 WAT)
+    
+    - URL: https://x.com/1395504028910424065/status/1628062799971897345
+    - Metrics (at fetch): bookmark 300, impression 1092017, like 1548, quote 296, reply 176, retweet 475
+    
+    > Public Goods by LayerZero
+    >
+    > We're excited to introduce the Testnet Bridge as the first of several tools we launch for the Ethereum developer community.
+    >
+    > Cliffs: Get Goerli-ETH quickly, easily, and begin testing ASAP without camping faucets or feeling stranded [pic.x.com/CTxZFxwgvF]
+    
+    **Media:**
+    - video: https://pbs.twimg.com/ext_tw_video_thumb/1628061618243522560/pu/img/0RcqyswIYTnwESIR.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2023-05-07 · Post · average rust programmer getting ready to write some code https://twitter.com/coldjoi/status/16541508
+
+
+### Post — @samczsun — 2023-05-07 20:34 UTC (2023-05-07 21:34 WAT)
+
+- URL: https://x.com/samczsun/status/1655310179171467264
+- Metrics (at fetch): bookmark 2, impression 25063, like 67, quote 0, reply 3, retweet 4
+
+> average rust programmer getting ready to write some code https://twitter.com/coldjoi/status/1654150893497982981
+
+**Links in post:** https://twitter.com/coldjoi/status/1654150893497982981
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3090096287 — 2023-05-04 15:48 UTC (2023-05-04 16:48 WAT)
+    
+    - URL: https://x.com/3090096287/status/1654150893497982981
+    - Metrics (at fetch): bookmark 895, impression 4104562, like 4490, quote 1103, reply 140, retweet 313
+    
+    > they did not need to do that #totk [pic.x.com/qlDdtM2c3z]
+    
+    **Media:**
+    - video: https://pbs.twimg.com/ext_tw_video_thumb/1653984760325079041/pu/img/jEjLnVa4bsItQ8In.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2023-05-06 · Post · and is this "utility" in the room with us right now? [pic.x.com/b96G7TQCmi] https://twitter.com/Syna
+
+
+### Post — @samczsun — 2023-05-06 07:51 UTC (2023-05-06 08:51 WAT)
+
+- URL: https://x.com/samczsun/status/1654755717885366274
+- Metrics (at fetch): bookmark 6, impression 54012, like 392, quote 3, reply 11, retweet 23
+
+> and is this "utility" in the room with us right now? [pic.x.com/b96G7TQCmi] https://twitter.com/SynapseProtocol/status/1654733502548520960
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvbfjPvaMAEDGgO.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/SynapseProtocol/status/1654733502548520960
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1363885953929142278 — 2023-05-06 06:23 UTC (2023-05-06 07:23 WAT)
+    
+    - URL: https://x.com/1363885953929142278/status/1654733502548520960
+    - Metrics (at fetch): bookmark 46, impression 242353, like 995, quote 62, reply 83, retweet 364
+    
+    > $PEPE has so much utility already, but we thought it should have more.
+    >
+    > Synapse now supports instantly bridging $PEPE to @Arbitrum.
+    >
+    > Combined w/ @SushiSwap liquidity, PEPE will be tradeable for all, even in periods of high L1 gas.
+    >
+    > Bridge some fakkin frogs http://synapseprotocol.com [pic.x.com/zvPcvQSSfQ]
+    
+    **Media:**
+    - video: https://pbs.twimg.com/ext_tw_video_thumb/1654727937722073088/pu/img/LgJVtUttfoUgROKK.jpg — no alt text provided by author
+    
+    **Links in post:** http://synapseprotocol.com
+    
+
+
+---
+
+## 2023-05-05 · Post · instead of prioritizing centralization risks have you tried not auditing shit like "winnerz" and "cr
+
+
+### Post — @samczsun — 2023-05-05 08:58 UTC (2023-05-05 09:58 WAT)
+
+- URL: https://x.com/samczsun/status/1654410103842541570
+- Metrics (at fetch): bookmark 3, impression 40357, like 147, quote 0, reply 11, retweet 16
+
+> instead of prioritizing centralization risks have you tried not auditing shit like "winnerz" and "crypty prize game" and "default twitter profile picture" [pic.x.com/y3aV9RbT6h] https://twitter.com/CertiK/status/1654183110588747785
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvWlNoUaUAEnOJI.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/CertiK/status/1654183110588747785
+
+**Quoted post (full text):**
+
+    #### Quoted post — @993673575230996480 — 2023-05-04 17:56 UTC (2023-05-04 18:56 WAT)
+    
+    - URL: https://x.com/993673575230996480/status/1654183110588747785
+    - Metrics (at fetch): bookmark 1, impression 52270, like 20, quote 2, reply 13, retweet 3
+    
+    > Going forward, CertiK will prioritize centralization risks in audit summaries to ensure users have a complete picture of potential risks. 
+    >
+    > We recognize that audit reports can be highly technical documents, and it’s our job to communicate the risks clearly and transparently.
+    
+
+
+---
+
+## 2023-04-29 · Post · when will someone do a shooting star edit of grug's legs
+
+
+### Post — @samczsun — 2023-04-29 00:36 UTC (2023-04-29 01:36 WAT)
+
+- URL: https://x.com/samczsun/status/1652109575301246977
+- Metrics (at fetch): bookmark 0, impression 11683, like 30, quote 0, reply 1, retweet 4
+
+> when will someone do a shooting star edit of grug's legs
+
+
+---
+
+## 2023-04-25 · Post · elon musk alt truly one of the saddest things ive seen on this site
+
+
+### Post — @samczsun — 2023-04-25 01:12 UTC (2023-04-25 02:12 WAT)
+
+- URL: https://x.com/samczsun/status/1650669168600186880
+- Metrics (at fetch): bookmark 5, impression 77379, like 129, quote 2, reply 13, retweet 5
+
+> elon musk alt truly one of the saddest things ive seen on this site
+
+
+---
+
+## 2023-04-23 · Post · solidity optimizooors in shambles https://twitter.com/zozuar/status/1649769359554891776
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @samczsun — 2023-04-23 01:51 UTC (2023-04-23 02:51 WAT)
+
+- URL: https://x.com/samczsun/status/1649954088636010497
+- Metrics (at fetch): bookmark 10, impression 24843, like 65, quote 1, reply 5, retweet 5
+
+> solidity optimizooors in shambles https://twitter.com/zozuar/status/1649769359554891776
+
+**Links in post:** https://twitter.com/zozuar/status/1649769359554891776
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2435639028 — 2023-04-22 13:37 UTC (2023-04-22 14:37 WAT)
+    
+    - URL: https://x.com/2435639028/status/1649769359554891776
+    - Metrics (at fetch): bookmark 153, impression 151689, like 1267, quote 11, reply 9, retweet 134
+    
+    > float i,y,e,f,g,v,k=.01,j;for(vec3 p;i++&lt;80.;g+=min(f=max(y,(p.x+p.z)/v),e/j),o+=e&lt;f?k:k/exp(f*1e3),v=2.,p=vec3((FC.xy*v-r)/r.y*g,g-v),p.zy*=rotate2D(j),p.xz*=rotate2D(t),e=y=--p.y)for(j=k;j++&lt;12.;p=abs(p)/f-vec3(1,9,1)/3.)e-=abs(dot(sin(p)/v,p/p))-.2,v/=f=min(dot(p,p),.5)-y*.1; [pic.x.com/oTw4n0fO1s]
+    
+    **Media:**
+    - video: https://pbs.twimg.com/ext_tw_video_thumb/1649769229367771137/pu/img/JuiJkJWNKXceQK9V.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2023-04-23 · Post · if you have a verified organization can you just force gold checkmarks on people or what
+
+
+### Post — @samczsun — 2023-04-23 01:15 UTC (2023-04-23 02:15 WAT)
+
+- URL: https://x.com/samczsun/status/1649944936983461891
+- Metrics (at fetch): bookmark 0, impression 15759, like 25, quote 0, reply 7, retweet 1
+
+> if you have a verified organization can you just force gold checkmarks on people or what
+
+
+---
+
+## 2023-04-21 · Post · instead of paying 8 dollars for twitter blue have you considered simply touching grass instead
+
+
+### Post — @samczsun — 2023-04-21 00:44 UTC (2023-04-21 01:44 WAT)
+
+- URL: https://x.com/samczsun/status/1649212554831622146
+- Metrics (at fetch): bookmark 0, impression 20414, like 131, quote 2, reply 12, retweet 15
+
+> instead of paying 8 dollars for twitter blue have you considered simply touching grass instead
+
+
+---
+
+## 2023-04-17 · Post · when i pull all-nighters over a weekend to play a ctf [pic.x.com/ZA3b9w1nhc]
+
+
+### Post — @samczsun — 2023-04-17 21:43 UTC (2023-04-17 22:43 WAT)
+
+- URL: https://x.com/samczsun/status/1648079644959334400
+- Metrics (at fetch): bookmark 5, impression 16865, like 146, quote 0, reply 4, retweet 10
+
+> when i pull all-nighters over a weekend to play a ctf [pic.x.com/ZA3b9w1nhc]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ft8neFwaYAAWRjG.png — no alt text provided by author
+
+
+---
+
+## 2023-04-17 · Post · scrolling through the replies and seeing "promoted" after wasting time reading the entire tweet is t
+
+
+### Post — @samczsun — 2023-04-17 02:15 UTC (2023-04-17 03:15 WAT)
+
+- URL: https://x.com/samczsun/status/1647785894047547392
+- Metrics (at fetch): bookmark 1, impression 18757, like 164, quote 0, reply 6, retweet 4
+
+> scrolling through the replies and seeing "promoted" after wasting time reading the entire tweet is the worst feeling of betrayal ever
+
+
+---
+
+## 2023-04-16 · Post · uniswap fork tries not to fuck up changing the swap fee challenge impossible edition
+
+
+### Post — @samczsun — 2023-04-16 13:48 UTC (2023-04-16 14:48 WAT)
+
+- URL: https://x.com/samczsun/status/1647597767676796928
+- Metrics (at fetch): bookmark 9, impression 29341, like 162, quote 0, reply 7, retweet 7
+
+> uniswap fork tries not to fuck up changing the swap fee challenge impossible edition
+
+
+---
+
+## 2023-04-14 · Post · flight delayed but here we are [pic.x.com/q9WpAD5W2k]
+
+
+### Post — @samczsun — 2023-04-14 10:10 UTC (2023-04-14 11:10 WAT)
+
+- URL: https://x.com/samczsun/status/1646818279250599936
+- Metrics (at fetch): bookmark 0, impression 29657, like 126, quote 2, reply 14, retweet 3
+
+> flight delayed but here we are [pic.x.com/q9WpAD5W2k]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FtqsPZiacAEw7p5.jpg — no alt text provided by author
+
+
+---
+
+## 2023-04-13 · Post · man i went so long without getting rekt but somehow bzx comes back from the dead to fuck my shit up 
+
+
+### Post — @samczsun — 2023-04-13 07:31 UTC (2023-04-13 08:31 WAT)
+
+- URL: https://x.com/samczsun/status/1646415889150119937
+- Metrics (at fetch): bookmark 0, impression 39854, like 180, quote 5, reply 18, retweet 9
+
+> man i went so long without getting rekt but somehow bzx comes back from the dead to fuck my shit up one last time please send thoughts and prayers
+
+
+---
+
+## 2023-04-13 · Post · It seems like the iearn USDT token (yUSDT) has been broken since deploy, which was *checks notes* ov
+
+
+### Post — @samczsun — 2023-04-13 06:45 UTC (2023-04-13 07:45 WAT)
+
+- URL: https://x.com/samczsun/status/1646404331967778820
+- Metrics (at fetch): bookmark 35, impression 279913, like 474, quote 54, reply 31, retweet 82
+
+> It seems like the iearn USDT token (yUSDT) has been broken since deploy, which was *checks notes* over 1000 days ago. It was misconfigured to use the Fulcrum iUSDC token instead of the Fulcrum iUSDT token.
+>
+> https://etherscan.io/address/0x83f798e925BcD4017Eb265844FDDAbb448f1707D [pic.x.com/dxW9E0ndF1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ftkzc-TaMAERjiA.png — no alt text provided by author
+
+**Links in post:** https://etherscan.io/address/0x83f798e925BcD4017Eb265844FDDAbb448f1707D
+
+
+---
+
 ## 2023-04-10 · Post · thought experiment: how do you responsibly disclose a bug in a smart contract that was either
 
 
@@ -3546,11 +4694,24 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @samczsun — 2023-04-10 17:29 UTC (2023-04-10 18:29 WAT)
 
 - URL: https://x.com/samczsun/status/1645479181986467840
-- Metrics (at fetch): bookmark 17, impression 77135, like 178, quote 6, reply 44, retweet 19
+- Metrics (at fetch): bookmark 17, impression 77136, like 178, quote 6, reply 44, retweet 19
 
 > thought experiment: how do you responsibly disclose a bug in a smart contract that was either
 > a) deployed anonymously and has no known/reachable devs
 > b) deployed non-anonymously but is immutable and the devs have explicitly stepped back to maintain an arm's length relationship
+
+
+---
+
+## 2023-04-05 · Post · opera gx has a vtuber mascot now, where's yours?
+
+
+### Post — @samczsun — 2023-04-05 21:20 UTC (2023-04-05 22:20 WAT)
+
+- URL: https://x.com/samczsun/status/1643725359177953280
+- Metrics (at fetch): bookmark 1, impression 14080, like 28, quote 0, reply 2, retweet 7
+
+> opera gx has a vtuber mascot now, where's yours?
 
 
 ---
@@ -3564,7 +4725,7 @@ Tags (automatic): Race condition, Blockchain / L1-L2 / bridge
 ### Post — @samczsun — 2023-04-03 11:16 UTC (2023-04-03 12:16 WAT)
 
 - URL: https://x.com/samczsun/status/1642848556590723075
-- Metrics (at fetch): bookmark 578, impression 883881, like 1607, quote 190, reply 61, retweet 471
+- Metrics (at fetch): bookmark 578, impression 883909, like 1607, quote 190, reply 61, retweet 471
 
 > Block 16964664: A user managed to drain five MEV bots by exploiting a bug in mev-boost-relay.
 >
@@ -3706,6 +4867,22 @@ Tags (automatic): Race condition, Blockchain / L1-L2 / bridge
 
 ---
 
+## 2023-04-03 · Post · true story [pic.x.com/fVYLkjTvWC]
+
+
+### Post — @samczsun — 2023-04-03 22:35 UTC (2023-04-03 23:35 WAT)
+
+- URL: https://x.com/samczsun/status/1643019306358435841
+- Metrics (at fetch): bookmark 2, impression 21021, like 128, quote 3, reply 3, retweet 14
+
+> true story [pic.x.com/fVYLkjTvWC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fs0tViKaUAEtJnY.jpg — no alt text provided by author
+
+
+---
+
 ## 2023-03-18 · Post · &gt;ask gpt4 to audit contract
 
 
@@ -3793,6 +4970,19 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2023-01-16 · Reply · @pendle_fi @nansen_intern @nansen_ai @ASvanevik not me but would be nice if it were the case 🥲
+
+
+### Post — @samczsun — 2023-01-16 21:28 UTC (2023-01-16 22:28 WAT)
+
+- URL: https://x.com/samczsun/status/1615098606062641152
+- Metrics (at fetch): not returned
+
+> @pendle_fi @nansen_intern @nansen_ai @ASvanevik not me but would be nice if it were the case 🥲
+
+
+---
+
 ## 2023-01-09 · Post · when im trying to figure out which vpn server will bypass the geoblock https://t.co/0bJPeAycYu
 
 
@@ -3805,6 +4995,19 @@ Tags (automatic): AI-assisted hunting
 
 **Media:**
 - video:  — no alt text provided by author
+
+
+---
+
+## 2022-12-21 · Post · no one tell elon about tweet-to-earn
+
+
+### Post — @samczsun — 2022-12-21 06:27 UTC (2022-12-21 07:27 WAT)
+
+- URL: https://x.com/samczsun/status/1605449958152294401
+- Metrics (at fetch): not returned
+
+> no one tell elon about tweet-to-earn
 
 
 ---

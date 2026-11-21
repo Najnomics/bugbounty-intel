@@ -1,4 +1,4 @@
-# HackerOne disclosed reports by weakness (12764 reports)
+# HackerOne disclosed reports by weakness (12768 reports)
 
 
 ## Unspecified (1279)
@@ -1283,7 +1283,7 @@
 - [4062511](reports/2026/4062511.md) `Vary` cache-key conflation of absent and empty request fields — django — low —  — 
 - [3460138](reports/2026/3460138.md) Open Email Relay on WordPress Gutenberg Plugin via formAction parameter leads to phishing and spam campaigns — wordpress — - —  — 
 
-## Information Disclosure (1193)
+## Information Disclosure (1194)
 
 - [231460](reports/2017/231460.md) Open prod Jenkins instance — snapchat — high — $15,000 — Information Disclosure
 - [911606](reports/2021/911606.md) Leaked JFrog Artifactory  username and password exposed on GitHub - https://snapchat.jfrog.io — snapchat — high — $15,000 — Information Disclosure
@@ -2478,6 +2478,7 @@
 - [3840113](reports/2026/3840113.md) Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████████ — essity — critical —  — Information Disclosure
 - [4151790](reports/2026/4151790.md) Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in visitor's response is cached at the edge and returned to ev — basecamp — low —  — Information Disclosure
 - [4117330](reports/2026/4117330.md) Anonymous Translation Suggestion IP Address Exposure Through Change API — weblate — low —  — Information Disclosure
+- [4218369](reports/2026/4218369.md) Cross-IP Cookie Disclosure via Empty Custom Host Header Truncation — curl — medium —  — Information Disclosure
 
 ## Cross-site Scripting (XSS) - Generic (744)
 
@@ -3945,7 +3946,7 @@
 - [3665151](reports/2026/3665151.md) Brave Shields Domain Reordering Leads to Origin Confusion — brave — low —  — Violation of Secure Design Principles
 - [3829030](reports/2026/3829030.md) Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption — yelp — low —  — Violation of Secure Design Principles
 
-## Improper Access Control - Generic (706)
+## Improper Access Control - Generic (707)
 
 - [2293343](reports/2025/2293343.md) Account Takeover via Password Reset without user interactions — gitlab — critical — $35,000 — Improper Access Control - Generic
 - [1685822](reports/2022/1685822.md) RepositoryPipeline allows importing of local git repos — gitlab — medium — $22,300 — Improper Access Control - Generic
@@ -4653,6 +4654,7 @@
 - [4177724](reports/2026/4177724.md) curl 8.23.0 keeps sending requests to an HTTP/3 backend after Alt-Svc: clear — curl — high —  — Improper Access Control - Generic
 - [3417759](reports/2026/3417759.md) Broken Access Control on **healthwatch.trellix.com** Leading to Unauthorized Access and Sensitive Data Exposure — trellix — medium —  — Improper Access Control - Generic
 - [4062639](reports/2026/4062639.md) Unauthenticated UCP/MCP catalog access on a password-protected dev store — shopify — none —  — Improper Access Control - Generic
+- [4059370](reports/2026/4059370.md) Mass assignment in chat.sendMessage allows unprivileged users to forge message state: persistent room DoS, stored HTML injection, and cross-user write — rocket_chat — medium —  — Improper Access Control - Generic
 
 ## Improper Authentication - Generic (673)
 
@@ -7274,7 +7276,7 @@
 - [3981932](reports/2026/3981932.md) CSRF in tracker invocation page — revive_adserver — medium —  — Cross-Site Request Forgery (CSRF)
 - [3882740](reports/2026/3882740.md)  All stored Slack and Teams credentials can be deleted via Management Console CSRF — github — medium —  — Cross-Site Request Forgery (CSRF)
 
-## Privilege Escalation (375)
+## Privilege Escalation (376)
 
 - [1379975](reports/2022/1379975.md) bd-j exploit chain — playstation — high — $20,000 — Privilege Escalation
 - [689314](reports/2019/689314.md) Project Template functionality can be used to copy private project data, such as repository, confidential issues, snippets, and merge requests — gitlab — critical — $12,000 — Privilege Escalation
@@ -7651,6 +7653,7 @@
 - [3020021](reports/2026/3020021.md) [Vertical Privilege Escalation] User can Unapproved any Approved Translation at [/translations/unapprove/] — mozilla — medium —  — Privilege Escalation
 - [3353000](reports/2026/3353000.md) Privilege Escalation – Access to the Alert Subscribers page for users with low privileges — singlestore — low —  — Privilege Escalation
 - [4081135](reports/2026/4081135.md) Privilege escalation via unfiltered role restoration in project backup import — weblate — critical —  — Privilege Escalation
+- [4004074](reports/2026/4004074.md) Nextcloud subadmin → admin takeover when allowed_admin_ranges is set: SubAdmin::isUserAccessible() classifies the admin target via IP-gated isAdmin() — nextcloud — medium —  — Privilege Escalation
 
 ## Business Logic Errors (356)
 
@@ -11278,6 +11281,66 @@
 - [3633123](reports/2026/3633123.md)  Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection via pip Flags — aws_vdp — high —  — OS Command Injection
 - [4077800](reports/2026/4077800.md) Unescaped consent-prompt renderer (HTML()) enables concealed-approval OS command injection in strands-agents/tools use_computer — RCE — aws_vdp — medium —  — OS Command Injection
 
+## Classic Buffer Overflow (57)
+
+- [2177925](reports/2024/2177925.md) Remote vulnerabilities in spp — playstation — high — $12,500 — Classic Buffer Overflow
+- [542180](reports/2020/542180.md) Malformed NAV file leads to buffer overflow and code execution in Left4Dead2.exe — valve — critical — $10,000 — Classic Buffer Overflow
+- [463286](reports/2021/463286.md) Specially Crafted Closed Captions File can lead to Remote Code Execution in CS:GO and other Source Games — valve — critical — $7,500 — Classic Buffer Overflow
+- [1180252](reports/2021/1180252.md) Buffer overrun in Steam SILK voice decoder — valve — critical — $7,500 — Classic Buffer Overflow
+- [733267](reports/2021/733267.md) [Portal 2] Remote Code Execution via voice packets — valve — critical — $5,000 — Classic Buffer Overflow
+- [1546935](reports/2022/1546935.md) Stack Buffer Overflow via `gmp_sprintf`in `BLSSignature` and `BLSSigShare` — skale_network — medium — $2,500 — Classic Buffer Overflow
+- [1352429](reports/2021/1352429.md) CVE-2021-3711: SM2 decrypt  buffer overflow  — ibb — high — $2,000 — Classic Buffer Overflow
+- [402566](reports/2020/402566.md) [Half-Life 1] Malformed map name leads to memory corruption and code execution — valve — high — $1,500 — Classic Buffer Overflow
+- [504761](reports/2020/504761.md) phar_tar_writeheaders_int() buffer overflow — ibb — high — $1,500 — Classic Buffer Overflow
+- [1084342](reports/2021/1084342.md) Buffer overflow in PyCArg_repr in _ctypes/callproc.c for Python 3.x to 3.9.1 — ibb — high — $1,500 — Classic Buffer Overflow
+- [484398](reports/2019/484398.md) Buffer overflow in libavi_plugin memmove() call — vlc_h1c — medium — $1,126.91 — Classic Buffer Overflow
+- [535827](reports/2019/535827.md) Buffer overflow in yywarning_s — shopify-scripts — - — $1,000 — Classic Buffer Overflow
+- [248601](reports/2019/248601.md) PHP INI Parsing Stack Buffer Overflow Vulnerability — ibb — medium — $500 — Classic Buffer Overflow
+- [763403](reports/2020/763403.md) [GoldSrc] RCE via malformed BSP file — valve — high — $450 — Classic Buffer Overflow
+- [769014](reports/2020/769014.md) [GoldSrc] RCE via 'spk' Console Command — valve — high — $350 — Classic Buffer Overflow
+- [798301](reports/2020/798301.md) FileZilla 3.46.3 - 'Scale factor' Buffer Overflow — filezilla — low — $250 — Classic Buffer Overflow
+- [216330](reports/2017/216330.md) Big XSS vulnerability! — legalrobot — medium —  — Classic Buffer Overflow
+- [281682](reports/2017/281682.md) Crashes/Buffer at 0x2C0086,name=PBrowser::Msg_Destroy  — torproject — medium —  — Classic Buffer Overflow
+- [363658](reports/2018/363658.md) Buffer overflow — liberapay — none —  — Classic Buffer Overflow
+- [363850](reports/2018/363850.md) Improper Data Validation / Unvalidated Input — liberapay — none —  — Classic Buffer Overflow
+- [351014](reports/2018/351014.md) Malformed .BSP Access Violation in CS:GO can lead to Remote Code Execution — valve — critical —  — Classic Buffer Overflow
+- [351016](reports/2018/351016.md) Malformed Skybox .TGA in Half-Life (GoldSRC) leads to Access Violation — valve — high —  — Classic Buffer Overflow
+- [350119](reports/2018/350119.md) Buffer overflows in demo parsing — valve — medium —  — Classic Buffer Overflow
+- [470520](reports/2019/470520.md) RCE on Steam Client via buffer overflow in Server Info — valve — critical —  — Classic Buffer Overflow
+- [315037](reports/2019/315037.md) Media parsing in canvas is at least vulnerable to Denial of Service through multiple vulnerabilities — nodejs-ecosystem — medium —  — Classic Buffer Overflow
+- [674540](reports/2019/674540.md) mod_remoteip stack buffer overflow and NULL pointer dereference — ibb — medium —  — Classic Buffer Overflow
+- [287667](reports/2019/287667.md) CVE-2017-13090 wget heap smash — ibb — high —  — Classic Buffer Overflow
+- [287666](reports/2019/287666.md) CVE-2017-13089 wget stack smash — ibb — high —  — Classic Buffer Overflow
+- [440758](reports/2020/440758.md) Potential buffer overflow in demoplayer module of GoldSource Engine — valve — low —  — Classic Buffer Overflow
+- [397545](reports/2020/397545.md) Malformed .BMP file in Counter-Strike 1.6 may cause shellcode injection — valve — high —  — Classic Buffer Overflow
+- [458929](reports/2020/458929.md) Malformed BSP in GoldSrc Engine may cause shellcode injection — valve — high —  — Classic Buffer Overflow
+- [510336](reports/2020/510336.md) Uninitialized read in exif_process_IFD_in_TIFF — ibb — critical —  — Classic Buffer Overflow
+- [965914](reports/2020/965914.md) `fs.realpath.native` on darwin may cause buffer overflow — nodejs — medium —  — Classic Buffer Overflow
+- [694449](reports/2021/694449.md) Buffer write overflow when forming dns over http request — curl — low —  — Classic Buffer Overflow
+- [636013](reports/2021/636013.md) huge COLUMNS causes progress-bar to buffer overflow — curl — low —  — Classic Buffer Overflow
+- [832217](reports/2021/832217.md) Android App Crashes while sending message to users/ on channel  — rocket_chat — high —  — Classic Buffer Overflow
+- [789034](reports/2021/789034.md) Buffer Overflow in ext_lm_group_acl helper — ibb — high —  — Classic Buffer Overflow
+- [721333](reports/2021/721333.md) Buffer Overflow in smblib.c — ibb — medium —  — Classic Buffer Overflow
+- [800324](reports/2021/800324.md) Several protocol parsers in before 4.9.2 could cause a buffer overflow in util-print.c:bittok2str_internal() — ibb — critical —  — Classic Buffer Overflow
+- [778610](reports/2021/778610.md) Squid as reverse proxy RCE and data leak — ibb — critical —  — Classic Buffer Overflow
+- [824771](reports/2021/824771.md) UrnState Heap Overflow — ibb — critical —  — Classic Buffer Overflow
+- [1455248](reports/2022/1455248.md) Buffer Overflow in optimized_escape_html method — ibb — medium —  — Classic Buffer Overflow
+- [1468962](reports/2022/1468962.md) Binary output bypass — curl — low —  — Classic Buffer Overflow
+- [1485379](reports/2022/1485379.md) Use of Unsafe function || Strcpy — curl — high —  — Classic Buffer Overflow
+- [1541273](reports/2023/1541273.md) [WiiU/Switch] Remote code execution inside the ENL library — nintendo — high —  — Classic Buffer Overflow
+- [2252307](reports/2023/2252307.md) Buffer overflow and affected url:-https://github.com/curl/curl/blob/master/docs/examples/hsts-preload.c — curl — critical —  — Classic Buffer Overflow
+- [282518](reports/2024/282518.md) Memory Corruption via Large Pixels — infogram — medium —  — Classic Buffer Overflow
+- [2871792](reports/2024/2871792.md) Buffer Overflow Vulnerability in strcpy() Leading to Remote Code Execution — curl — critical —  — Classic Buffer Overflow
+- [2887487](reports/2024/2887487.md) Buffer Overflow Risk in Curl_inet_ntop and inet_ntop4 — curl — high —  — Classic Buffer Overflow
+- [3048061](reports/2025/3048061.md) [Xenoblade Chronicles X: Definitive Edition] Buffer overflow in string escape function, multiplayer DoS — nintendo — high —  — Classic Buffer Overflow
+- [3337561](reports/2025/3337561.md) Multiple Unsafe strcpy() Function Calls Leading to Potential Buffer Overflow Vulnerabilities in cURL 8.16.1-DEV — curl — high —  — Classic Buffer Overflow
+- [3392174](reports/2025/3392174.md) Buffer Overflow in WebSocket Handshake (lib/ws.c:1287) — curl — high —  — Classic Buffer Overflow
+- [3418528](reports/2025/3418528.md) Unsafe use of strcpy in Curl_ldap_err2string (packages/OS400/os400sys.c) — stack-buffer-overflow (PoC + ASan) — curl — medium —  — Classic Buffer Overflow
+- [3493602](reports/2026/3493602.md) Stack Buffer Overflow in mprintf.c formatting function (fallback path) — curl — high —  — Classic Buffer Overflow
+- [3575245](reports/2026/3575245.md) Integer Overflow in curl_multi_get_handles() Leading to Heap Buffer Overflow — curl — medium —  — Classic Buffer Overflow
+- [3771147](reports/2026/3771147.md) Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyISAM) — mariadb — - —  — Classic Buffer Overflow
+- [4107681](reports/2026/4107681.md) Node.js Brotli decoder out-of-bounds write permits remote code execution — nodejs — high —  — Classic Buffer Overflow
+
 ## Buffer Over-read (57)
 
 - [2658447](reports/2024/2658447.md) CVE-2024-7347: Buffer overread in the ngx_http_mp4_module — ibb — medium — $2,142 — Buffer Over-read
@@ -11337,65 +11400,6 @@
 - [3771139](reports/2026/3771139.md) Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in MariaDB Server — mariadb — - —  — Buffer Over-read
 - [4099194](reports/2026/4099194.md) CVE-2026-107928: info leak uploading over WebSockets with GnuTLS — curl — low —  — Buffer Over-read
 - [3913007](reports/2026/3913007.md) SMTP header injection via C-escape `\r` in the recipient display name — nextcloud — none —  — Buffer Over-read
-
-## Classic Buffer Overflow (56)
-
-- [2177925](reports/2024/2177925.md) Remote vulnerabilities in spp — playstation — high — $12,500 — Classic Buffer Overflow
-- [542180](reports/2020/542180.md) Malformed NAV file leads to buffer overflow and code execution in Left4Dead2.exe — valve — critical — $10,000 — Classic Buffer Overflow
-- [463286](reports/2021/463286.md) Specially Crafted Closed Captions File can lead to Remote Code Execution in CS:GO and other Source Games — valve — critical — $7,500 — Classic Buffer Overflow
-- [1180252](reports/2021/1180252.md) Buffer overrun in Steam SILK voice decoder — valve — critical — $7,500 — Classic Buffer Overflow
-- [733267](reports/2021/733267.md) [Portal 2] Remote Code Execution via voice packets — valve — critical — $5,000 — Classic Buffer Overflow
-- [1546935](reports/2022/1546935.md) Stack Buffer Overflow via `gmp_sprintf`in `BLSSignature` and `BLSSigShare` — skale_network — medium — $2,500 — Classic Buffer Overflow
-- [1352429](reports/2021/1352429.md) CVE-2021-3711: SM2 decrypt  buffer overflow  — ibb — high — $2,000 — Classic Buffer Overflow
-- [402566](reports/2020/402566.md) [Half-Life 1] Malformed map name leads to memory corruption and code execution — valve — high — $1,500 — Classic Buffer Overflow
-- [504761](reports/2020/504761.md) phar_tar_writeheaders_int() buffer overflow — ibb — high — $1,500 — Classic Buffer Overflow
-- [1084342](reports/2021/1084342.md) Buffer overflow in PyCArg_repr in _ctypes/callproc.c for Python 3.x to 3.9.1 — ibb — high — $1,500 — Classic Buffer Overflow
-- [484398](reports/2019/484398.md) Buffer overflow in libavi_plugin memmove() call — vlc_h1c — medium — $1,126.91 — Classic Buffer Overflow
-- [535827](reports/2019/535827.md) Buffer overflow in yywarning_s — shopify-scripts — - — $1,000 — Classic Buffer Overflow
-- [248601](reports/2019/248601.md) PHP INI Parsing Stack Buffer Overflow Vulnerability — ibb — medium — $500 — Classic Buffer Overflow
-- [763403](reports/2020/763403.md) [GoldSrc] RCE via malformed BSP file — valve — high — $450 — Classic Buffer Overflow
-- [769014](reports/2020/769014.md) [GoldSrc] RCE via 'spk' Console Command — valve — high — $350 — Classic Buffer Overflow
-- [798301](reports/2020/798301.md) FileZilla 3.46.3 - 'Scale factor' Buffer Overflow — filezilla — low — $250 — Classic Buffer Overflow
-- [216330](reports/2017/216330.md) Big XSS vulnerability! — legalrobot — medium —  — Classic Buffer Overflow
-- [281682](reports/2017/281682.md) Crashes/Buffer at 0x2C0086,name=PBrowser::Msg_Destroy  — torproject — medium —  — Classic Buffer Overflow
-- [363658](reports/2018/363658.md) Buffer overflow — liberapay — none —  — Classic Buffer Overflow
-- [363850](reports/2018/363850.md) Improper Data Validation / Unvalidated Input — liberapay — none —  — Classic Buffer Overflow
-- [351014](reports/2018/351014.md) Malformed .BSP Access Violation in CS:GO can lead to Remote Code Execution — valve — critical —  — Classic Buffer Overflow
-- [351016](reports/2018/351016.md) Malformed Skybox .TGA in Half-Life (GoldSRC) leads to Access Violation — valve — high —  — Classic Buffer Overflow
-- [350119](reports/2018/350119.md) Buffer overflows in demo parsing — valve — medium —  — Classic Buffer Overflow
-- [470520](reports/2019/470520.md) RCE on Steam Client via buffer overflow in Server Info — valve — critical —  — Classic Buffer Overflow
-- [315037](reports/2019/315037.md) Media parsing in canvas is at least vulnerable to Denial of Service through multiple vulnerabilities — nodejs-ecosystem — medium —  — Classic Buffer Overflow
-- [674540](reports/2019/674540.md) mod_remoteip stack buffer overflow and NULL pointer dereference — ibb — medium —  — Classic Buffer Overflow
-- [287667](reports/2019/287667.md) CVE-2017-13090 wget heap smash — ibb — high —  — Classic Buffer Overflow
-- [287666](reports/2019/287666.md) CVE-2017-13089 wget stack smash — ibb — high —  — Classic Buffer Overflow
-- [440758](reports/2020/440758.md) Potential buffer overflow in demoplayer module of GoldSource Engine — valve — low —  — Classic Buffer Overflow
-- [397545](reports/2020/397545.md) Malformed .BMP file in Counter-Strike 1.6 may cause shellcode injection — valve — high —  — Classic Buffer Overflow
-- [458929](reports/2020/458929.md) Malformed BSP in GoldSrc Engine may cause shellcode injection — valve — high —  — Classic Buffer Overflow
-- [510336](reports/2020/510336.md) Uninitialized read in exif_process_IFD_in_TIFF — ibb — critical —  — Classic Buffer Overflow
-- [965914](reports/2020/965914.md) `fs.realpath.native` on darwin may cause buffer overflow — nodejs — medium —  — Classic Buffer Overflow
-- [694449](reports/2021/694449.md) Buffer write overflow when forming dns over http request — curl — low —  — Classic Buffer Overflow
-- [636013](reports/2021/636013.md) huge COLUMNS causes progress-bar to buffer overflow — curl — low —  — Classic Buffer Overflow
-- [832217](reports/2021/832217.md) Android App Crashes while sending message to users/ on channel  — rocket_chat — high —  — Classic Buffer Overflow
-- [789034](reports/2021/789034.md) Buffer Overflow in ext_lm_group_acl helper — ibb — high —  — Classic Buffer Overflow
-- [721333](reports/2021/721333.md) Buffer Overflow in smblib.c — ibb — medium —  — Classic Buffer Overflow
-- [800324](reports/2021/800324.md) Several protocol parsers in before 4.9.2 could cause a buffer overflow in util-print.c:bittok2str_internal() — ibb — critical —  — Classic Buffer Overflow
-- [778610](reports/2021/778610.md) Squid as reverse proxy RCE and data leak — ibb — critical —  — Classic Buffer Overflow
-- [824771](reports/2021/824771.md) UrnState Heap Overflow — ibb — critical —  — Classic Buffer Overflow
-- [1455248](reports/2022/1455248.md) Buffer Overflow in optimized_escape_html method — ibb — medium —  — Classic Buffer Overflow
-- [1468962](reports/2022/1468962.md) Binary output bypass — curl — low —  — Classic Buffer Overflow
-- [1485379](reports/2022/1485379.md) Use of Unsafe function || Strcpy — curl — high —  — Classic Buffer Overflow
-- [1541273](reports/2023/1541273.md) [WiiU/Switch] Remote code execution inside the ENL library — nintendo — high —  — Classic Buffer Overflow
-- [2252307](reports/2023/2252307.md) Buffer overflow and affected url:-https://github.com/curl/curl/blob/master/docs/examples/hsts-preload.c — curl — critical —  — Classic Buffer Overflow
-- [282518](reports/2024/282518.md) Memory Corruption via Large Pixels — infogram — medium —  — Classic Buffer Overflow
-- [2871792](reports/2024/2871792.md) Buffer Overflow Vulnerability in strcpy() Leading to Remote Code Execution — curl — critical —  — Classic Buffer Overflow
-- [2887487](reports/2024/2887487.md) Buffer Overflow Risk in Curl_inet_ntop and inet_ntop4 — curl — high —  — Classic Buffer Overflow
-- [3048061](reports/2025/3048061.md) [Xenoblade Chronicles X: Definitive Edition] Buffer overflow in string escape function, multiplayer DoS — nintendo — high —  — Classic Buffer Overflow
-- [3337561](reports/2025/3337561.md) Multiple Unsafe strcpy() Function Calls Leading to Potential Buffer Overflow Vulnerabilities in cURL 8.16.1-DEV — curl — high —  — Classic Buffer Overflow
-- [3392174](reports/2025/3392174.md) Buffer Overflow in WebSocket Handshake (lib/ws.c:1287) — curl — high —  — Classic Buffer Overflow
-- [3418528](reports/2025/3418528.md) Unsafe use of strcpy in Curl_ldap_err2string (packages/OS400/os400sys.c) — stack-buffer-overflow (PoC + ASan) — curl — medium —  — Classic Buffer Overflow
-- [3493602](reports/2026/3493602.md) Stack Buffer Overflow in mprintf.c formatting function (fallback path) — curl — high —  — Classic Buffer Overflow
-- [3575245](reports/2026/3575245.md) Integer Overflow in curl_multi_get_handles() Leading to Heap Buffer Overflow — curl — medium —  — Classic Buffer Overflow
-- [3771147](reports/2026/3771147.md) Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyISAM) — mariadb — - —  — Classic Buffer Overflow
 
 ## Heap Overflow (55)
 

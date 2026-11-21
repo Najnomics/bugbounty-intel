@@ -1,73 +1,73 @@
 {
   "defendor_eng": {
-    "newest_id": 2366,
+    "newest_id": 2369,
     "oldest_id": 1,
     "backfill_complete": true,
     "cursor_before": 1,
-    "count": 2127,
+    "count": 2130,
     "url": "https://t.me/defendor_eng",
     "preview_url": "https://t.me/s/defendor_eng",
     "title": "Defendor — DeFi Security",
     "first_date_wat": "2025-04-22T08:42:27+01:00",
-    "last_date_wat": "2026-11-20T06:20:42+01:00",
+    "last_date_wat": "2026-11-20T20:13:31+01:00",
     "years": {
       "2025": 833,
-      "2026": 1294
+      "2026": 1297
     },
     "distinct_writeup_urls": 514,
     "writeup_queue_file": "data/telegram_defendor_eng_writeup_queue.jsonl",
-    "updated": "2026-11-20T06:55:40+01:00",
-    "writeups_fetched": 306,
-    "writeups_failed": 219,
+    "updated": "2026-11-21T06:51:56+01:00",
+    "writeups_fetched": 307,
+    "writeups_failed": 218,
     "writeups_pending": 0,
     "writeups": {
-      "fetched": 306,
-      "failed": 219,
+      "fetched": 307,
+      "failed": 218,
       "pending": 0,
       "target_this_run": null,
       "fetched_file": "data/telegram_defendor_eng_writeups_fetched.jsonl",
       "failed_file": "data/telegram_defendor_eng_writeups_failed.jsonl",
       "pending_file": "data/telegram_defendor_eng_writeups_pending.jsonl",
       "queue_file": "data/telegram_defendor_eng_writeup_queue.jsonl",
-      "updated": "2026-11-20T07:00:14+01:00",
-      "note": "306 writeups stored under writeups/telegram-defendor_eng/; 219 fetch failures recorded; 0 scored URLs remain for a later run. Daily updates should continue from pending_file / queue, skipping URLs already in the fetched or failed files."
+      "updated": "2026-11-21T06:56:27+01:00",
+      "note": "307 writeups stored under writeups/telegram-defendor_eng/; 218 fetch failures recorded; 0 scored URLs remain for a later run. Daily updates should continue from pending_file / queue, skipping URLs already in the fetched or failed files."
     }
   },
   "dailybountywriteup": {
-    "newest_id": 14993,
+    "newest_id": 14994,
     "oldest_id": 1,
     "backfill_complete": true,
     "cursor_before": 1,
-    "count": 14981,
+    "count": 14982,
     "url": "https://t.me/dailybountywriteup",
     "preview_url": "https://t.me/s/dailybountywriteup",
     "title": "Daily Bounty Writeups",
     "first_date_wat": "2022-08-22T20:46:34+01:00",
-    "last_date_wat": "2026-11-19T10:14:45+01:00",
+    "last_date_wat": "2026-11-20T09:57:23+01:00",
     "years": {
       "2022": 1225,
       "2023": 3627,
       "2024": 3476,
       "2025": 4011,
-      "2026": 2642
+      "2026": 2643
     },
-    "distinct_writeup_urls": 12953,
+    "distinct_writeup_urls": 12963,
     "writeup_queue_file": "data/telegram_dailybountywriteup_writeup_queue.jsonl",
-    "updated": "2026-11-20T06:55:40+01:00",
-    "writeups_fetched": 1333,
-    "writeups_failed": 1278,
-    "writeups_pending": 10341,
+    "updated": "2026-11-21T06:51:56+01:00",
+    "writeups_fetched": 1493,
+    "writeups_failed": 1311,
+    "writeups_pending": 10158,
     "writeups": {
-      "fetched": 1333,
-      "failed": 1278,
-      "pending": 10341,
-      "target_this_run": null,
+      "fetched": 1493,
+      "failed": 1311,
+      "pending": 10158,
+      "target_this_run": 150,
       "fetched_file": "data/telegram_dailybountywriteup_writeups_fetched.jsonl",
       "failed_file": "data/telegram_dailybountywriteup_writeups_failed.jsonl",
       "pending_file": "data/telegram_dailybountywriteup_writeups_pending.jsonl",
       "queue_file": "data/telegram_dailybountywriteup_writeup_queue.jsonl",
-      "updated": "2026-11-20T07:05:20+01:00",
-      "note": "1333 writeups stored under writeups/telegram-dailybountywriteup/; 1278 fetch failures recorded; 10341 scored URLs remain for a later run. Daily updates should continue from pending_file / queue, skipping URLs already in the fetched or failed files."
+      "updated": "2026-11-21T07:03:58+01:00",
+      "note": "1493 writeups stored under writeups/telegram-dailybountywriteup/; 1311 fetch failures recorded; 10158 scored URLs remain for a later run. Daily updates should continue from pending_file / queue, skipping URLs already in the fetched or failed files."
     }
   }
 }

@@ -2,7 +2,7 @@
 
 A personal knowledge base of **publicly claimed, valid (or triaged) bug-bounty findings** by consistent security researchers, compiled for Dorothy's hunting workflow.
 
-Last updated: **20 November 2026** (Africa/Lagos).
+Last updated: **21 November 2026** (Africa/Lagos).
 
 > **For the harness agent:** start at [harness/README.md](harness/README.md); for real-world CVE / HackerOne examples per bug class start at [harness/cve-index.md](harness/cve-index.md). It has a merged recon workflow, one check-spec file per bug class under [harness/bug-classes/](harness/bug-classes/), and [harness/findings.jsonl](harness/findings.jsonl). The single richest methodology source is Marius du Preez's full verbatim prompt pack at [writeups/mdp_sec/prompts/](writeups/mdp_sec/prompts/).
 

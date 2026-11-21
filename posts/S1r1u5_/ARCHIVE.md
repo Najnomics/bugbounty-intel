@@ -1,11 +1,503 @@
 # @S1r1u5_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 525
-- Conversations/threads: 402
+- Posts in this file: 545
+- Conversations/threads: 415
 - Oldest post captured: 2017-02-26
-- Newest post captured: 2026-11-19
+- Newest post captured: 2026-11-21
+
+
+---
+
+## 2026-11-21 · Thread · i still think there is an undersupply of bad actors out there, but i might change my mind. there see
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-11-21 04:46 UTC (2026-11-21 05:46 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2124001567204671588
+- Metrics (at fetch): not returned
+
+> i still think there is an undersupply of bad actors out there, but i might change my mind. there seem to be plenty of idiots willing to commit crimes once they get their hands on powerful tools. https://twitter.com/S1r1u5_/status/2113834941385687284
+
+**Links in post:** https://twitter.com/S1r1u5_/status/2113834941385687284
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-10-24 03:28 UTC (2026-10-24 04:28 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2113834941385687284
+    - Metrics (at fetch): not returned
+    
+    > i think we should just stop arguing whether a layman with no security experience can do damage. they absolutely can with llms, basic computer knowledge and knowing the language. there is no point arguing about this anymore, its obvious what a model like gpt-5.6 sol can do.
+    >
+    > also this is not some old script kiddie exploit spray and prays, the model adapts and improves per target.
+    >
+    > just assume it is like handing someone a gun that aims itself, point and shoot, like, just stop asking whether they have the skill to pull the trigger.
+    >
+    > the only constraints left are literally law and order, the fear of committing a crime, and maybe morals.
+    
+    **Links in post:** https://twitter.com/LiveOverflow/status/2113782216270708876
+    
+    **Quoted post** 2113782216270708876: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Thread part 2 — @S1r1u5_ — 2026-11-21 05:24 UTC (2026-11-21 06:24 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2124011101599994307
+- Metrics (at fetch): not returned
+
+> @MalwareTechBlog &gt;vulnerability researchers just keep way overestimating either the actor's capabilities, the capabilities of the LLMs they have access to
+>
+> hmm yeah, seems like it!
+
+
+---
+
+## 2026-11-21 · Post · i don't think dave is overhyping this. speed of lateral movement with no guardrail open models is pr
+
+
+### Post — @S1r1u5_ — 2026-11-21 04:41 UTC (2026-11-21 05:41 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2124000246531568088
+- Metrics (at fetch): not returned
+
+> i don't think dave is overhyping this. speed of lateral movement with no guardrail open models is pretty crazy, they wouldn't say no to anything, thankfully, frontier models are much harder to use post foothold.
+>
+> also, silly to think "mfa bypass" means breaking the underlying mfa mechanism, it usually refers to an application specific bypass.
+
+**Links in post:** https://twitter.com/HackingDave/status/2123798085683863632
+
+**Quoted post (full text):**
+
+    #### Quoted post — @HackingDave — 2026-11-20 15:18 UTC (2026-11-20 16:18 WAT)
+    
+    - URL: https://x.com/HackingDave/status/2123798085683863632
+    - Metrics (at fetch): not returned
+    
+    > These comments from @Paul__Walsh  are things I have never stated or are conflated. I never stated AI found a vulnerability in MFA thus rendering MFA vulnerable for everyone. This segments theme was based on the time and speed it took. Defenders are not capable today of responding in 14 minutes and it's deeply my largest concern as these attacks move so fast from what we're seeing.
+    >
+    > He seems to be highly confused that by me referencing attackers were able to circumvent MFA - that it immediately is a flaw in cryptography. Never stated that, never stated that MFA was insecure - just that this customer had an issue that allowed them to gain access without MFA. 
+    >
+    > I'm not a regular talking head, I've been in the cybersecurity industry for 25 years - I've written widely popular exploitation frameworks, wrote the book Metasploit: The Penetration Testers Guide, I'm extremely technical and have worked all spectrums of cybersecurity including heavy red teaming and incident response. 
+    >
+    > I can't provide the evidence (yet) because it is an active investigation. The customer would have to allow me to share this or I breach NDA and my companies reputation. The customer did give me approval to talk about the high level of this when I approached them as long as their names weren't used, as they are concerned also. 
+    >
+    > This wasn't meant to be a scare tactic on TV, and I probably could have been clearer that the issue was a configuration flaw - but the MFA that your honing in on wasn't even the main point of the discussion.
+    >
+    > This segment was 4 minutes, 33 seconds - and we covered three completely different topics in those four minutes. I don't have in-depth time to explain each component and trying to bring an overall theme that people can take with them from listening each time I'm on.
+    
+    **Links in post:** https://twitter.com/Paul__Walsh/status/2123734614292222031
+    
+    **Quoted post** 2123734614292222031: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-11-20 · Post · 👀 https://twitter.com/sama/status/1488952117377126401
+
+
+### Post — @S1r1u5_ — 2026-11-20 19:14 UTC (2026-11-20 20:14 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123857515565969917
+- Metrics (at fetch): not returned
+
+> 👀 https://twitter.com/sama/status/1488952117377126401
+
+**Links in post:** https://twitter.com/sama/status/1488952117377126401
+
+**Quoted post (full text):**
+
+    #### Quoted post — @sama — 2022-02-02 19:07 UTC (2022-02-02 20:07 WAT)
+    
+    - URL: https://x.com/sama/status/1488952117377126401
+    - Metrics (at fetch): not returned
+    
+    > riemann hypothesis wen
+    
+
+
+---
+
+## 2026-11-20 · Thread · i agree with this, when people say most *2shell bugs aren't exploitable in practice, it's either a s
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @S1r1u5_ — 2026-11-20 17:39 UTC (2026-11-20 18:39 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123833702484681095
+- Metrics (at fetch): not returned
+
+> i agree with this, when people say most *2shell bugs aren't exploitable in practice, it's either a skill issue or they don't have access to frontier models. 
+>
+> give it 2–3 days of work per vulnerable target, and most of these bugs are exploitable. https://twitter.com/i0n1c/status/2123829389557379505
+
+**Links in post:** https://twitter.com/i0n1c/status/2123829389557379505
+
+**Quoted post (full text):**
+
+    #### Quoted post — @16365707 — 2026-11-20 17:22 UTC (2026-11-20 18:22 WAT)
+    
+    - URL: https://x.com/16365707/status/2123829389557379505
+    - Metrics (at fetch): not returned
+    
+    > I think the problem is that most up to date cyber models are not accessible to everyone. I mean I don’t think giving everyone access is a good idea but the thing is the majority of people have an outdated idea of what AI models can exploit without much human input. https://twitter.com/chrisrohlf/status/2123828312900538704
+    
+    **Links in post:** https://twitter.com/chrisrohlf/status/2123828312900538704
+    
+    **Quoted post** 2123828312900538704: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Thread part 2 — @S1r1u5_ — 2026-11-20 18:58 UTC (2026-11-20 19:58 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123853405131346119
+- Metrics (at fetch): not returned
+
+> we have one researcher who uses only deepseek flash to write kernel exploits, and another who uses kimi to write browser exploits. neither model can autonomously produce those exploits on its own. meanwhile, i just prompt mythos or sol, go do something else, and come back to a working exploit. clearly skill matters when working with less capable model, it is just that more capable model substitute lot of the skill needed
+
+
+### Thread part 3 — @S1r1u5_ — 2026-11-20 19:04 UTC (2026-11-20 20:04 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123854987872919827
+- Metrics (at fetch): not returned
+
+> @HackingLZ yes, its the later 🙃(altho only if bounty or target is more valuable than token spend)
+
+
+---
+
+## 2026-11-19 · Thread · if you haven't noticed, the breach apocalypse is already here, btw. i'm not talking about the 2shell
+
+
+### Post — @S1r1u5_ — 2026-11-19 19:50 UTC (2026-11-19 20:50 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123504275980750858
+- Metrics (at fetch): bookmark 19, impression 6465, like 99, quote 0, reply 6, repost 4
+
+> if you haven't noticed, the breach apocalypse is already here, btw. i'm not talking about the 2shell bugs. there's a lot happening under the radar, and if you do enough IR, you probably know what i mean. i think it's only going to get worse as open models catch up to frontier models, potentially within the next 6 months.
+>
+> maybe security vendors finding and helping fix these latent vulnerabilities before attackers discover and weaponize them is actually a net positive?
+
+
+### Thread part 2 — @S1r1u5_ — 2026-11-20 04:30 UTC (2026-11-20 05:30 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123635070619849153
+- Metrics (at fetch): bookmark 0, impression 120, like 0, quote 0, reply 0, retweet 0
+
+> @HackingLZ yeah, lots of misconfig and vulnerability exploitation, altho not much 0-day and n-days used. the speed of lateral movement, exfil is pretty crazy.
+
+
+---
+
+## 2026-11-19 · Thread · 1. people who think these bugs aren't practically exploitable are outright wrong. to be clear, we've
+
+
+### Post — @S1r1u5_ — 2026-11-19 19:22 UTC (2026-11-19 20:22 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123497267340710122
+- Metrics (at fetch): bookmark 46, impression 8339, like 158, quote 0, reply 8, repost 12
+
+> 1. people who think these bugs aren't practically exploitable are outright wrong. to be clear, we've exploited php2shell, brotli2shell, java4shell, and ruby2shell against live remote targets, not just labs. haven't tried nginx2shell yet, but i suspect it's exploitable too (should have more to share soon).
+>
+> 2. the distinction is that exploitation isn't trivial or easily portable. unlike react2shell, you can't just spray a generic poc across vulnerable servers and expect shells. these bugs often require significant target-specific work, and success on one target doesn't guarantee success on another. (prove me wrong)
+>
+> 3. i don't think threat actors can easily exploit these at scale, but spending a day or two on a high-value target to get a shell or leak sensitive data is a realistic possibility.
+>
+> 4. should you patch? absolutely. will someone exploit you? idk, depends on who you are. if you're openai/anthropic/inference-provider/bank/crypto/other-critical software, and if i am threat actor i would come after you, because the economics of targeted exploitation are very different from mass exploitation.
+>
+> 5. are these bugs overhyped? i think so, if we're talking about react2shell level exploitability and mass exploitation potential. if 2shell is just a naming convention, that's fine.
+>
+> but if the name is meant to imply similar ease of exploitation or widespread impact, i think the criticism is fair, that is what happening here, people would draw that comparison, even though the exploitation characteristics are very different.
+
+**Links in post:** https://twitter.com/S1r1u5_/status/2123270208744001691
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-11-19 04:20 UTC (2026-11-19 05:20 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2123270208744001691
+    - Metrics (at fetch): bookmark 93, impression 63063, like 615, quote 8, reply 18, repost 77
+    
+    > react2shell is truly react to shell. you take a payload, spray it across vulnerable next.js or other affected applications, and get shells.
+    >
+    > i think we need to tone down the hype around every new 2shell and 4shell. when every vulnerability is portrayed as impending doom but little actually happens in the wild, it dilutes the discussion around what ai is capable of.
+    >
+    > java4shell and nginx2shell are not react2shell. the bugs are cool, but what is the actual impact? do we seriously think a threat actor can spray a payload across thousands of servers and get shells? absolutely not.
+    >
+    > you need a frontier model, a shit ton of tokens, and significant target specific exploit development. even then, getting a working exploit can be extremely difficult, sometimes impossible. there's potential, but exploitation is far from guaranteed.
+    >
+    > we used php2shell to exploit cloudflare waf and get flags, but that took a solid amount of tokens and host specific grooming. the exploit wasn't trivially portable between targets. i'm even more skeptical about java4shell and nginx2shell, given their additional exploitation requirements.
+    >
+    > these bugs absolutely need to be patched, but there's a huge difference between a vulnerability that can theoretically lead to RCE and one that can be reliably exploited at scale.
+    
+
+
+### Thread part 2 — @S1r1u5_ — 2026-11-20 01:53 UTC (2026-11-20 02:53 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123595471126213118
+- Metrics (at fetch): bookmark 0, impression 267, like 1, quote 0, reply 1, repost 0
+
+> @MosheTov you want the hosts :)? https://twitter.com/s1r1u5_/status/2115083512005234688
+
+**Links in post:** https://twitter.com/s1r1u5_/status/2115083512005234688
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-10-27 14:09 UTC (2026-10-27 15:09 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2115083512005234688
+    - Metrics (at fetch): bookmark 12, impression 10817, like 109, quote 1, reply 7, retweet 5
+    
+    > ok patch brotli, we just popped a shell in a client engagement, not sure if open models can write the exploit tho.
+    
+
+
+### Thread part 3 — @S1r1u5_ — 2026-11-20 01:53 UTC (2026-11-20 02:53 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123595597412511923
+- Metrics (at fetch): bookmark 0, impression 204, like 0, quote 0, reply 0, repost 0
+
+> @MosheTov https://x.com/rootxharsh/status/2123348006183522752 https://twitter.com/rootxharsh/status/2123348006183522752
+
+**Links in post:** https://x.com/rootxharsh/status/2123348006183522752, https://twitter.com/rootxharsh/status/2123348006183522752
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3177957894 — 2026-11-19 09:29 UTC (2026-11-19 10:29 WAT)
+    
+    - URL: https://x.com/3177957894/status/2123348006183522752
+    - Metrics (at fetch): bookmark 28, impression 15168, like 96, quote 1, reply 6, retweet 7
+    
+    > You all need to patch this vulnerability. During an unrelated research effort we identified this vulnerability mid oct and reported to vendor and left to vendor to deal with ruby on patching this bug 🙃 [pic.x.com/mSmXeeMbJn] https://twitter.com/stdoutput/status/2123330707372253474
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXek8XabQAAgrVa.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HXelCu9a8AAkLok.jpg — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/stdoutput/status/2123330707372253474
+    
+    **Quoted post** 2123330707372253474: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Thread part 4 — @S1r1u5_ — 2026-11-20 01:55 UTC (2026-11-20 02:55 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123596004373242084
+- Metrics (at fetch): bookmark 0, impression 150, like 1, quote 0, reply 0, retweet 0
+
+> @0xTib3rius thanks :)
+
+
+---
+
+## 2026-11-19 · Post · my 2c, i think you guys should safely exploit these bugs against real-world applications, report the
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1895953705 — 2026-11-19 18:11 UTC (2026-11-19 19:11 WAT)
+
+- URL: https://x.com/1895953705/status/2123479321016971551
+- Metrics (at fetch): bookmark 13, impression 9784, like 81, quote 1, reply 6, retweet 10
+
+> No. The vulnpocalypse is caused by insecure software.
+>
+> Several of our best researchers spent *weeks* finding these bugs, exploiting them, writing the technical blog, and coordinating the disclosure. Our company was paid exactly $0 for that work. Like it or not, marketing is the only incentive for this kind of work.
+>
+> For nginx2root, the technical blog was focused on explaining the risk: the preconditions, affected configurations, and detailed mechanism behind all 5 bugs. Yes, some exploit details were omitted to avoid trivial replication by AI, but we provided *more than enough* to accurately convey risk.
+>
+> It's fair to expect security vendors to keep their marketing grounded in reality. But it's not at all fair to blame them for the situation we're in.
+
+**Links in post:** https://twitter.com/IceSolst/status/2123287410410651756
+
+**Quoted post (full text):**
+
+    #### Quoted post — @IceSolst — 2026-11-19 05:29 UTC (2026-11-19 06:29 WAT)
+    
+    - URL: https://x.com/IceSolst/status/2123287410410651756
+    - Metrics (at fetch): bookmark 9, impression 1506, like 51, quote 2, reply 8, repost 13
+    
+    > The vulnpocalypse is caused by security vendors.
+    >
+    > Their inability to convey risk accurately, due to either incompetence or ignorance, causes tremendous damage and stress on responding teams.
+    >
+    > There is a lot of weight associated with vulnerability announcements. We can no longer trust many security vendors’ blog posts, since their purpose is marketing & fanfare, not accuracy. 
+    >
+    > Exploitability needs to be demonstrated, in realistic environments, and its likelihood accurately conveyed. So that responders can make informed decisions on what to prioritize. But instead we are seeing fake PoC videos set in contrived & controlled lab environments, that give an illusion of exploitability when it’s unrealistic in any real-world scenario. 
+    >
+    > And vendors now try to show off who found it first, rush to send you marketing emails and call you without your consent; to sell you snake oil they pulled out of their ass two hours earlier, with no intention on actually making anyone safer, only to meet their quarterly sales quotas. 
+    >
+    > The core responsibility of a security professional is to accurately communicate risk, and let people make informed decisions. Too many vendors are failing at this, that I cannot consider them security vendors, only snake oil salesmen taking advantage of people in vulnerable positions due to their lies.
+    
+
+
+### Post — @S1r1u5_ — 2026-11-19 19:48 UTC (2026-11-19 20:48 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123503755547267178
+- Metrics (at fetch): bookmark 1, impression 495, like 3, quote 0, reply 0, repost 0
+
+> my 2c, i think you guys should safely exploit these bugs against real-world applications, report the findings to both affected users of the software and its maintainers, and coordinate disclosure with them 🙃
+>
+> only downside is someone else might find and disclose the bug first, and you won't get to name it something2shell.
+>
+> https://x.com/rootxharsh/status/2123348006183522752?a=iS262r-zUtcGUOMWLl0&s=20
+
+**Links in post:** https://x.com/rootxharsh/status/2123348006183522752?a=iS262r-zUtcGUOMWLl0&s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3177957894 — 2026-11-19 09:29 UTC (2026-11-19 10:29 WAT)
+    
+    - URL: https://x.com/3177957894/status/2123348006183522752
+    - Metrics (at fetch): bookmark 28, impression 15168, like 96, quote 1, reply 6, retweet 7
+    
+    > You all need to patch this vulnerability. During an unrelated research effort we identified this vulnerability mid oct and reported to vendor and left to vendor to deal with ruby on patching this bug 🙃 [pic.x.com/mSmXeeMbJn] https://twitter.com/stdoutput/status/2123330707372253474
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXek8XabQAAgrVa.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HXelCu9a8AAkLok.jpg — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/stdoutput/status/2123330707372253474
+    
+    **Quoted post** 2123330707372253474: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-11-19 · Reply · @lcfr_hax @LiveOverflow ^^
+
+
+Tags (automatic): Memory corruption / native
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1455016279358775298 — 2026-11-19 15:16 UTC (2026-11-19 16:16 WAT)
+
+- URL: https://x.com/1455016279358775298/status/2123435208439398649
+- Metrics (at fetch): bookmark 52, impression 6991, like 90, quote 0, reply 4, retweet 16
+
+> Nice! we exploited this a different way in the original php2shell as mentioned in the writeup from quoted post. 
+>
+> almost every app uses session_start, session_decode, unserialize ..
+>
+> for the original vuln this exploitation only requires an app use such a function (doesn't need https://t.co/oV0sX6Iz8Q https://t.co/C1wFHEsx69
+
+**Media:**
+- media `3_2123429877638373376` (details not returned by the API)
+- media `3_2123430534890094592` (details not returned by the API)
+- media `3_2123431197044826112` (details not returned by the API)
+- media `3_2123434737482010624` (details not returned by the API)
+
+**Quoted post** 2123420236682768705: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @S1r1u5_ — 2026-11-19 15:45 UTC (2026-11-19 16:45 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123442617551933639
+- Metrics (at fetch): bookmark 0, impression 250, like 0, quote 0, reply 0, retweet 0
+
+> @lcfr_hax @LiveOverflow ^^
+
+
+---
+
+## 2026-11-19 · Reply · @Nadsec11 agree
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1457192437600821248 — 2026-11-19 06:24 UTC (2026-11-19 07:24 WAT)
+
+- URL: https://x.com/1457192437600821248/status/2123301323932344748
+- Metrics (at fetch): bookmark 0, impression 98, like 1, quote 0, reply 1, retweet 0
+
+> @S1r1u5_ I would be wrong for typing it and not doing my due diligence as well, but it’s not the same thing haha. TBH I don’t think I would be dumb enough to not state very clearly that it’s only exploitable under x y and z conditions. They probably need to do better just around making it
+
+
+### Post — @S1r1u5_ — 2026-11-19 06:26 UTC (2026-11-19 07:26 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123301866356478012
+- Metrics (at fetch): bookmark 0, impression 97, like 0, quote 0, reply 0, retweet 0
+
+> @Nadsec11 agree
+
+
+---
+
+## 2026-11-19 · Post · but there's also this, if we find a vulnerable host on one of our targets, whether it's java4shell, 
+
+
+### Post — @S1r1u5_ — 2026-11-19 05:58 UTC (2026-11-19 06:58 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123294703210946988
+- Metrics (at fetch): bookmark 10, impression 5274, like 51, quote 0, reply 5, repost 1
+
+> but there's also this, if we find a vulnerable host on one of our targets, whether it's java4shell, php2shell, or brotli2shell, there's a good chance we'll eventually get a shell after a few days of work with frontier models. so does that justify the hype? idk man, it's nuanced. https://twitter.com/S1r1u5_/status/2123270208744001691
+
+**Links in post:** https://twitter.com/S1r1u5_/status/2123270208744001691
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-11-19 04:20 UTC (2026-11-19 05:20 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2123270208744001691
+    - Metrics (at fetch): bookmark 93, impression 63063, like 615, quote 8, reply 18, repost 77
+    
+    > react2shell is truly react to shell. you take a payload, spray it across vulnerable next.js or other affected applications, and get shells.
+    >
+    > i think we need to tone down the hype around every new 2shell and 4shell. when every vulnerability is portrayed as impending doom but little actually happens in the wild, it dilutes the discussion around what ai is capable of.
+    >
+    > java4shell and nginx2shell are not react2shell. the bugs are cool, but what is the actual impact? do we seriously think a threat actor can spray a payload across thousands of servers and get shells? absolutely not.
+    >
+    > you need a frontier model, a shit ton of tokens, and significant target specific exploit development. even then, getting a working exploit can be extremely difficult, sometimes impossible. there's potential, but exploitation is far from guaranteed.
+    >
+    > we used php2shell to exploit cloudflare waf and get flags, but that took a solid amount of tokens and host specific grooming. the exploit wasn't trivially portable between targets. i'm even more skeptical about java4shell and nginx2shell, given their additional exploitation requirements.
+    >
+    > these bugs absolutely need to be patched, but there's a huge difference between a vulnerability that can theoretically lead to RCE and one that can be reliably exploited at scale.
+    
+
+
+---
+
+## 2026-11-19 · Post · @IceSolst more on this https://t.co/UeThQIEO13
+
+
+### Post — @S1r1u5_ — 2026-11-19 05:53 UTC (2026-11-19 06:53 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123293542131044636
+- Metrics (at fetch): bookmark 0, impression 568, like 1, quote 0, reply 0, retweet 0
+
+> @IceSolst more on this https://t.co/UeThQIEO13
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-11-19 04:20 UTC (2026-11-19 05:20 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2123270208744001691
+    - Metrics (at fetch): bookmark 93, impression 63063, like 615, quote 8, reply 18, repost 77
+    
+    > react2shell is truly react to shell. you take a payload, spray it across vulnerable next.js or other affected applications, and get shells.
+    >
+    > i think we need to tone down the hype around every new 2shell and 4shell. when every vulnerability is portrayed as impending doom but little actually happens in the wild, it dilutes the discussion around what ai is capable of.
+    >
+    > java4shell and nginx2shell are not react2shell. the bugs are cool, but what is the actual impact? do we seriously think a threat actor can spray a payload across thousands of servers and get shells? absolutely not.
+    >
+    > you need a frontier model, a shit ton of tokens, and significant target specific exploit development. even then, getting a working exploit can be extremely difficult, sometimes impossible. there's potential, but exploitation is far from guaranteed.
+    >
+    > we used php2shell to exploit cloudflare waf and get flags, but that took a solid amount of tokens and host specific grooming. the exploit wasn't trivially portable between targets. i'm even more skeptical about java4shell and nginx2shell, given their additional exploitation requirements.
+    >
+    > these bugs absolutely need to be patched, but there's a huge difference between a vulnerability that can theoretically lead to RCE and one that can be reliably exploited at scale.
+    
 
 
 ---
@@ -36,7 +528,7 @@ _Generated 2026-11-19 from the X API (full-archive search + timeline). Every pos
 ### Post — @S1r1u5_ — 2026-11-19 05:48 UTC (2026-11-19 06:48 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2123292227078098960
-- Metrics (at fetch): bookmark 0, impression 203, like 4, quote 0, reply 1, repost 1
+- Metrics (at fetch): bookmark 5, impression 1873, like 20, quote 0, reply 2, retweet 2
 
 > you're maybe right, it's more nuanced. i think some bugs deserve the hype, like react2shell, wp2shell, and even php2shell (hard to port across targets, but we have data showing real-world exploitability with a frontier model spending a shit ton of tokens). maybe that distinction needs to be made clear in the disclaimers. 
 >
@@ -103,7 +595,7 @@ Tags (automatic): AI-assisted hunting
 ### Thread part 3 — @S1r1u5_ — 2026-11-19 05:05 UTC (2026-11-19 06:05 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2123281362740527353
-- Metrics (at fetch): bookmark 0, impression 40, like 0, quote 0, reply 0, repost 0
+- Metrics (at fetch): bookmark 0, impression 140, like 0, quote 0, reply 0, retweet 0
 
 > @tjbecker thanks for sharing
 
@@ -119,7 +611,7 @@ Tags (automatic): RCE, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-11-19 04:20 UTC (2026-11-19 05:20 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2123270208744001691
-- Metrics (at fetch): bookmark 14, impression 3316, like 113, quote 2, reply 6, repost 14
+- Metrics (at fetch): bookmark 93, impression 63063, like 615, quote 8, reply 18, repost 77
 
 > react2shell is truly react to shell. you take a payload, spray it across vulnerable next.js or other affected applications, and get shells.
 >
@@ -1842,6 +2334,19 @@ Tags (automatic): Race condition, Path normalization, Memory corruption / native
 
 ---
 
+## 2026-10-27 · Post · ok patch brotli, we just popped a shell in a client engagement, not sure if open models can write th
+
+
+### Post — @S1r1u5_ — 2026-10-27 14:09 UTC (2026-10-27 15:09 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2115083512005234688
+- Metrics (at fetch): bookmark 12, impression 10817, like 109, quote 1, reply 7, retweet 5
+
+> ok patch brotli, we just popped a shell in a client engagement, not sure if open models can write the exploit tho.
+
+
+---
+
 ## 2026-10-26 · Thread · php2shell is one of the most impactful bugs in recent times, yet threat actors aren’t mass exploitin
 
 
@@ -1969,6 +2474,32 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 > https://www.hacktron.ai/blog/php2shell-which-models-can-exploit
 
 **Links in post:** https://www.hacktron.ai/blog/php2shell-which-models-can-exploit
+
+
+---
+
+## 2026-10-24 · Post · i think we should just stop arguing whether a layman with no security experience can do damage. they
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-10-24 03:28 UTC (2026-10-24 04:28 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2113834941385687284
+- Metrics (at fetch): not returned
+
+> i think we should just stop arguing whether a layman with no security experience can do damage. they absolutely can with llms, basic computer knowledge and knowing the language. there is no point arguing about this anymore, its obvious what a model like gpt-5.6 sol can do.
+>
+> also this is not some old script kiddie exploit spray and prays, the model adapts and improves per target.
+>
+> just assume it is like handing someone a gun that aims itself, point and shoot, like, just stop asking whether they have the skill to pull the trigger.
+>
+> the only constraints left are literally law and order, the fear of committing a crime, and maybe morals.
+
+**Links in post:** https://twitter.com/LiveOverflow/status/2113782216270708876
+
+**Quoted post** 2113782216270708876: not readable via the API (deleted, private, or withheld).
 
 
 ---
@@ -7276,9 +7807,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1605 — 2026-01-23 16:16 UTC (2026-01-23 17:16 WAT)
+    #### Quoted post — @sama — 2026-01-23 16:16 UTC (2026-01-23 17:16 WAT)
     
-    - URL: https://x.com/1605/status/2014733975755817267
+    - URL: https://x.com/sama/status/2014733975755817267
     - Metrics (at fetch): bookmark 1114, impression 2156433, like 8511, quote 391, reply 1320, retweet 649
     
     > We have a lot of exciting launches related to Codex coming over the next month, starting next week. We hope you will be delighted.

@@ -45,3 +45,8 @@ _Auto-maintained from `harness/findings.jsonl`. 3 finding(s). Full verbatim post
 ### Update 2026-11-18
 
 - **Java4Shell (CVE-2026-114938) workaround + check commands** — https://x.com/irsdl/status/2122815224939982932 — [`posts/irsdl/2026-11-17-2122815224939982932.md`](../posts/irsdl/2026-11-17-2122815224939982932.md). Bug class: JIT-intrinsic memory corruption (AVX-512 Base64). Root cause/how found: Calif disclosure; see full writeups in [`writeups/irsdl/`](../writeups/irsdl/) (Calif, OpenJDK PR 32781, Datadog, VulnCheck, Red Hat, Sysdig, Tenable, Berkeley ISO, BleepingComputer). Takeaway: Base64 in Basic auth is a pre-auth entry point for Java servers (his reply 2122848682592641117).
+
+
+### Update 2026-11-21
+
+- **Sharpener 4.94 (Burp compatibility fix)** — https://x.com/irsdl/status/2123881918378770753 — [`posts/irsdl/2026-11-20-2123881918378770753.md`](../posts/irsdl/2026-11-20-2123881918378770753.md), release notes [`writeups/irsdl/burpsuite-sharpenerex-release-4.94.md`](../writeups/irsdl/burpsuite-sharpenerex-release-4.94.md).

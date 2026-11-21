@@ -1,11 +1,27 @@
 # @samwcyo — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 204
-- Conversations/threads: 188
+- Posts in this file: 205
+- Conversations/threads: 189
 - Oldest post captured: 2017-02-12
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-20
+
+
+---
+
+## 2026-11-20 · Post · How everything feels recently [pic.x.com/vTir3FwsLD]
+
+
+### Post — @samwcyo — 2026-11-20 22:48 UTC (2026-11-20 23:48 WAT)
+
+- URL: https://x.com/samwcyo/status/2123911482148880826
+- Metrics (at fetch): not returned
+
+> How everything feels recently [pic.x.com/vTir3FwsLD]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXmmK8jWkAASL9v.png — no alt text provided by author
 
 
 ---
@@ -2648,9 +2664,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @21445961 — 2018-08-30 17:41 UTC (2018-08-30 18:41 WAT)
+    #### Quoted post — @Jhaddix — 2018-08-30 17:41 UTC (2018-08-30 18:41 WAT)
     
-    - URL: https://x.com/21445961/status/1035220865342824449
+    - URL: https://x.com/Jhaddix/status/1035220865342824449
     - Metrics (at fetch): not returned
     
     > @caseyjohnellis the inspiration: https://www.usatoday.com/story/tech/2015/05/16/chris-roberts-fbi-plane-hack-one-world-labs/27448335/

@@ -1,6 +1,6 @@
 # @PwningEth — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 53
 - Conversations/threads: 31
@@ -129,9 +129,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @765981595383857152 — 2024-03-08 14:32 UTC (2024-03-08 15:32 WAT)
+    #### Quoted post — @OpenZeppelin — 2024-03-08 14:32 UTC (2024-03-08 15:32 WAT)
     
-    - URL: https://x.com/765981595383857152/status/1766109683402592509
+    - URL: https://x.com/OpenZeppelin/status/1766109683402592509
     - Metrics (at fetch): bookmark 184, impression 54690, like 192, quote 9, reply 3, retweet 74
     
     > The Top 10 Blockchain Hacking Techniques 2nd Edition is out.

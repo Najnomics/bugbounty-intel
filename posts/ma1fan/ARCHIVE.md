@@ -1,11 +1,56 @@
 # @ma1fan — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 164
-- Conversations/threads: 150
+- Posts in this file: 166
+- Conversations/threads: 152
 - Oldest post captured: 2018-07-19
-- Newest post captured: 2026-11-13
+- Newest post captured: 2026-11-20
+
+
+---
+
+## 2026-11-20 · Post · Has been invited. Thx! https://twitter.com/ma1fan/status/2123601607111889039
+
+
+### Post — @ma1fan — 2026-11-20 03:18 UTC (2026-11-20 04:18 WAT)
+
+- URL: https://x.com/ma1fan/status/2123616935032308072
+- Metrics (at fetch): bookmark 0, impression 208, like 2, quote 0, reply 0, retweet 0
+
+> Has been invited. Thx! https://twitter.com/ma1fan/status/2123601607111889039
+
+**Links in post:** https://twitter.com/ma1fan/status/2123601607111889039
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ma1fan — 2026-11-20 02:17 UTC (2026-11-20 03:17 WAT)
+    
+    - URL: https://x.com/ma1fan/status/2123601607111889039
+    - Metrics (at fetch): bookmark 0, impression 607, like 5, quote 1, reply 4, repost 0
+    
+    > Looking for an invite to @immunefi Studio. Got one to spare? #ImmunefiStudio https://studio.immunefi.com/r/Catchme
+    
+    **Links in post:** https://studio.immunefi.com/r/Catchme
+    
+
+
+---
+
+## 2026-11-20 · Post · Looking for an invite to @immunefi Studio. Got one to spare? ImmunefiStudio https://studio.immunefi
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @ma1fan — 2026-11-20 02:17 UTC (2026-11-20 03:17 WAT)
+
+- URL: https://x.com/ma1fan/status/2123601607111889039
+- Metrics (at fetch): bookmark 0, impression 607, like 5, quote 1, reply 4, repost 0
+
+> Looking for an invite to @immunefi Studio. Got one to spare? #ImmunefiStudio https://studio.immunefi.com/r/Catchme
+
+**Links in post:** https://studio.immunefi.com/r/Catchme
 
 
 ---

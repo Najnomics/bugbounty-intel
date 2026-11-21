@@ -1720,7 +1720,7 @@
 - [3078856](reports/2025/3078856.md) Apache Airflow Sql injection by authenticated user — ibb — low — $505 — SQL Injection
 - [3073507](reports/2025/3073507.md) Apache Airflow Fab Provider: Application does not invalidate session after password change via Airflow cli — ibb — low —  — Insufficient Session Expiration
 
-## curl (688)
+## curl (689)
 
 - [545052](reports/2019/545052.md) Github wikis are editable by anyone #Githubwikistakeover — curl — low —  — Improper Access Control - Generic
 - [550696](reports/2019/550696.md) CVE-2019-5436: Heap Buffer Overflow at lib/tftp.c — curl — low —  — Heap Overflow
@@ -2410,8 +2410,9 @@
 - [4166602](reports/2026/4166602.md) Re-entrant curl_easy_pause UAF in cw-pause — curl — low —  — Use After Free
 - [4177724](reports/2026/4177724.md) curl 8.23.0 keeps sending requests to an HTTP/3 backend after Alt-Svc: clear — curl — high —  — Improper Access Control - Generic
 - [4199917](reports/2026/4199917.md) SFTP connection reuse skips the host-key pin of a later transfer — curl — low —  — Missing Critical Step in Authentication
+- [4218369](reports/2026/4218369.md) Cross-IP Cookie Disclosure via Empty Custom Host Header Truncation — curl — medium —  — Information Disclosure
 
-## nextcloud (623)
+## nextcloud (624)
 
 - [145344](reports/2016/145344.md) nextcloud.com: Content Injection  Custom 404 Error — nextcloud — - —  — Violation of Secure Design Principles
 - [145495](reports/2016/145495.md) nextcloud.com: Directory listening for 'wp-includes' forders — nextcloud — - —  — Information Disclosure
@@ -3036,6 +3037,7 @@
 - [3576823](reports/2026/3576823.md) SSRF on Nextcloud Whiteboard Application via Recordings to Unauthorised Access to Whiteboards — nextcloud — medium — $250 — Server-Side Request Forgery (SSRF)
 - [3568116](reports/2026/3568116.md) FederationController::remoteWopiToken() returns full Wopi entity without token type validation — nextcloud — low —  — Improper Access Control - Generic
 - [3943436](reports/2026/3943436.md) Unauthenticated attacker can book appointments at arbitrary times, including outside availability and in the past — nextcloud — low —  — Business Logic Errors
+- [4004074](reports/2026/4004074.md) Nextcloud subadmin → admin takeover when allowed_admin_ranges is set: SubAdmin::isUserAccessible() classifies the admin target via IP-gated isAdmin() — nextcloud — medium —  — Privilege Escalation
 
 ## security (614)
 
@@ -5367,7 +5369,7 @@
 - [1454359](reports/2022/1454359.md) Reflected Xss On https://vk.com/search — vkcom — medium — $500 — Cross-site Scripting (XSS) - Reflected
 - [1343528](reports/2022/1343528.md) Уязвимость в приложении для Android — vkcom — high — $3,000 — Improper Authentication - Generic
 
-## nodejs (170)
+## nodejs (171)
 
 - [340580](reports/2018/340580.md) registry.nodejs.org Subdomain Takeover — nodejs — - —  — Man-in-the-Middle
 - [365968](reports/2018/365968.md) Your page has 2 blocking CSS resources. This causes a delay in rendering your page. — nodejs — critical —  — Array Index Underflow
@@ -5539,6 +5541,7 @@
 - [3996423](reports/2026/3996423.md) Permission Model filesystem over-grant via wildcard radix lookup — nodejs — low —  — Improper Access Control - Generic
 - [3908163](reports/2026/3908163.md) HTTPS Agent reuses TLS authentication state across distinct secureContext policies — nodejs — medium —  — Improper Certificate Validation
 - [4110110](reports/2026/4110110.md) HTTP/2 stream teardown can send freed response memory to the peer — nodejs — high —  — Use After Free
+- [4107681](reports/2026/4107681.md) Node.js Brotli decoder out-of-bounds write permits remote code execution — nodejs — high —  — Classic Buffer Overflow
 
 ## automattic (166)
 
@@ -7665,7 +7668,7 @@
 - [331368](reports/2021/331368.md) 3x Reflected XSS vectors for services.cgi (XM.v6.1.6, build 32290) — ui — medium —  — Cross-site Scripting (XSS) - Reflected
 - [802498](reports/2021/802498.md) XW 6.2.0 firmware: 5 Reflected XSS issues in link.cgi — ui — medium —  — Cross-site Scripting (XSS) - Reflected
 
-## rocket_chat (97)
+## rocket_chat (98)
 
 - [399166](reports/2018/399166.md) Remote code execution by hijacking an unclaimed S3 bucket in Rocket.Chat's installation script. — rocket_chat — medium —  — Code Injection
 - [276031](reports/2018/276031.md) Remote Code Execution in Rocket.Chat Desktop — rocket_chat — high —  — Code Injection
@@ -7764,6 +7767,7 @@
 - [3514640](reports/2026/3514640.md) Unauthenticated Path Traversal (LFI) via /custom-sounds/ when CustomSounds uses FileSystem storage — rocket_chat — high —  — Path Traversal
 - [3872858](reports/2026/3872858.md) Stored HTML Injection (CWE-79) via Livechat Visitor Name — rocket_chat — low —  — Cross-site Scripting (XSS) - DOM
 - [3852135](reports/2026/3852135.md) DDP methods getThreadsList / getThreadMessages leaks private thread content to any authenticated low privilege user (unpatched sibling of #1446767) — rocket_chat — high —  — NoSQL Injection
+- [4059370](reports/2026/4059370.md) Mass assignment in chat.sendMessage allows unprivileged users to forge message state: persistent room DoS, stored HTML injection, and cross-user write — rocket_chat — medium —  — Improper Access Control - Generic
 
 ## 8x8-bounty (95)
 

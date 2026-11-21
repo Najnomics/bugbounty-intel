@@ -1,11 +1,57 @@
 # @zellic_io — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 546
-- Conversations/threads: 127
+- Posts in this file: 548
+- Conversations/threads: 128
 - Oldest post captured: 2022-01-27
-- Newest post captured: 2026-11-18
+- Newest post captured: 2026-11-19
+
+
+---
+
+## 2026-11-19 · Thread · In the second part of our x86 formal verification research project, we explain how we:
+
+
+### Post — @zellic_io — 2026-11-19 19:05 UTC (2026-11-19 20:05 WAT)
+
+- URL: https://x.com/zellic_io/status/2123492765581676620
+- Metrics (at fetch): bookmark 20, impression 2060, like 44, quote 0, reply 1, repost 4
+
+> In the second part of our x86 formal verification research project, we explain how we:
+>
+> - (tried to) formally verify the glibc memrchr variants, 
+> - the bugs that prevented proving the intended statement, 
+> - and how formal verification showed that those bugs are the only bugs. https://twitter.com/v12sec/status/2123488956356644920
+
+**Links in post:** https://twitter.com/v12sec/status/2123488956356644920
+
+**Quoted post (full text):**
+
+    #### Quoted post — @v12sec — 2026-11-19 18:49 UTC (2026-11-19 19:49 WAT)
+    
+    - URL: https://x.com/v12sec/status/2123488956356644920
+    - Metrics (at fetch): bookmark 92, impression 9425, like 173, quote 3, reply 4, retweet 24
+    
+    > Formal verification isn't finding bugs, it's proving there are none.
+    >
+    > But what if you attempt to formally verify code that has a bug?
+    >
+    > The second post on our x86 formal verification research project covers bugs we found in glibc, and how failing proofs can lead right to them. [pic.x.com/eqRAbR8xs4]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXgkUcdaEAA0tXT.jpg — no alt text provided by author
+    
+
+
+### Thread part 2 — @zellic_io — 2026-11-19 19:05 UTC (2026-11-19 20:05 WAT)
+
+- URL: https://x.com/zellic_io/status/2123492767221567771
+- Metrics (at fetch): bookmark 1, impression 181, like 2, quote 0, reply 0, repost 1
+
+> For the full details and proofs, check out our blog post: https://www.zellic.io/blog/x86-formal-verification-memrchr
+
+**Links in post:** https://www.zellic.io/blog/x86-formal-verification-memrchr
 
 
 ---

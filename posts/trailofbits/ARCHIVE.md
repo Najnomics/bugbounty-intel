@@ -1,10 +1,10 @@
 # @trailofbits — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1067
-- Conversations/threads: 996
-- Oldest post captured: 2012-04-03
+- Posts in this file: 1466
+- Conversations/threads: 1394
+- Oldest post captured: 2012-02-13
 - Newest post captured: 2026-11-12
 
 
@@ -10397,9 +10397,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1123977686215536649 — 2023-09-01 16:04 UTC (2023-09-01 17:04 WAT)
+    #### Quoted post — @semgrep — 2023-09-01 16:04 UTC (2023-09-01 17:04 WAT)
     
-    - URL: https://x.com/1123977686215536649/status/1697641626250682829
+    - URL: https://x.com/semgrep/status/1697641626250682829
     - Metrics (at fetch): bookmark 2, impression 6438, like 5, quote 1, reply 0, retweet 2
     
     > Excited to be featured in @trailofbits' blog by Vasco Franco! 🚀 Their publicly available Semgrep ruleset detects misconfigurations of v3 and v4 of the Apollo GraphQL server. Read more here: http://go.semgrep.dev/44wceou
@@ -10463,8 +10463,10 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 2, impression 29978, like 81, quote 5, reply 3, retweet 16
 
 > Thanks to a generous grant from @vyperlang, we are working to bring full support for #Vyper to Slither and Echidna. Follow along on the PRs here:
-> https://t.co/soFYfzQxg1
-> https://t.co/8yjSeXENxe https://t.co/Ow3Zco3HQ3
+> https://github.com/crytic/slither/pull/2099
+> https://github.com/crytic/echidna/pull/1108 https://twitter.com/Montyly/status/1696858365194826198
+
+**Links in post:** https://github.com/crytic/slither/pull/2099, https://github.com/crytic/echidna/pull/1108, https://twitter.com/Montyly/status/1696858365194826198
 
 **Quoted post (full text):**
 
@@ -18677,7 +18679,185 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2018-08-01 · Post · You could have invented that bluetooth attack https://t.co/8NCcTFGTpb https://t.co/BapdXU1A2o
+## 2018-09-10 · Post · Protecting Software Against Exploitation with DARPA’s CFAR http://blog.trailofbits.com/2018/09/10/pr
+
+
+### Post — @trailofbits — 2018-09-10 13:01 UTC (2018-09-10 14:01 WAT)
+
+- URL: https://x.com/trailofbits/status/1039136692807057413
+- Metrics (at fetch): bookmark 6, impression 0, like 148, quote 3, reply 1, retweet 76
+
+> Protecting Software Against Exploitation with DARPA’s CFAR http://blog.trailofbits.com/2018/09/10/protecting-software-against-exploitation-with-darpas-cfar/ [pic.x.com/GLArZ0BKEu]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DmvBUI6V4AE40f3.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2018/09/10/protecting-software-against-exploitation-with-darpas-cfar/
+
+
+---
+
+## 2018-09-06 · Post · Rattle – an Ethereum EVM binary analysis framework http://blog.trailofbits.com/2018/09/06/rattle-an-
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @trailofbits — 2018-09-06 06:30 UTC (2018-09-06 07:30 WAT)
+
+- URL: https://x.com/trailofbits/status/1037588936997171201
+- Metrics (at fetch): bookmark 1, impression 0, like 37, quote 1, reply 1, retweet 13
+
+> Rattle – an Ethereum EVM binary analysis framework http://blog.trailofbits.com/2018/09/06/rattle-an-ethereum-evm-binary-analysis-framework/ [pic.x.com/pvslOBLkqx]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DmZBo5MUwAAuJCN.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2018/09/06/rattle-an-ethereum-evm-binary-analysis-framework/
+
+
+---
+
+## 2018-09-05 · Post · Contract upgrade anti-patterns: Know the risks before building data separation or proxy contract-bas
+
+
+### Post — @trailofbits — 2018-09-05 10:00 UTC (2018-09-05 11:00 WAT)
+
+- URL: https://x.com/trailofbits/status/1037279332119408640
+- Metrics (at fetch): bookmark 2, impression 0, like 11, quote 1, reply 0, retweet 8
+
+> Contract upgrade anti-patterns: Know the risks before building data separation or proxy contract-based upgrades. http://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/ [pic.x.com/KbzPF3fB93]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DmUoDjFV4AEqI1l.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/
+
+
+---
+
+## 2018-08-24 · Post · T-Mobile's data breach is the latest in a string of security issues affecting cellular providers. Co
+
+
+### Post — @trailofbits — 2018-08-24 21:20 UTC (2018-08-24 22:20 WAT)
+
+- URL: https://x.com/trailofbits/status/1033101646530797569
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 1
+
+> T-Mobile's data breach is the latest in a string of security issues affecting cellular providers. Consumers should add "port validation" to help protect their online accounts. https://www.consumerreports.org/privacy/2-million-t-mobile-customers-hit-by-data-breach/
+
+**Links in post:** https://www.consumerreports.org/privacy/2-million-t-mobile-customers-hit-by-data-breach/
+
+
+---
+
+## 2018-08-24 · Post · Get an open source security multiplier with our engineering practice. Top firms are in-sourcing secu
+
+
+### Post — @trailofbits — 2018-08-24 13:08 UTC (2018-08-24 14:08 WAT)
+
+- URL: https://x.com/trailofbits/status/1032977831280734208
+- Metrics (at fetch): bookmark 0, impression 0, like 14, quote 0, reply 0, retweet 5
+
+> Get an open source security multiplier with our engineering practice. Top firms are in-sourcing security engineering, here’s how we can help: https://blog.trailofbits.com/2018/08/22/get-an-open-source-security-multiplier/
+
+**Links in post:** https://blog.trailofbits.com/2018/08/22/get-an-open-source-security-multiplier/
+
+
+---
+
+## 2018-08-23 · Post · Introducing windows-acl: working with ACLs in Rust http://blog.trailofbits.com/2018/08/23/introducin
+
+
+### Post — @trailofbits — 2018-08-23 11:53 UTC (2018-08-23 12:53 WAT)
+
+- URL: https://x.com/trailofbits/status/1032596627410714625
+- Metrics (at fetch): bookmark 2, impression 0, like 41, quote 0, reply 0, retweet 15
+
+> Introducing windows-acl: working with ACLs in Rust http://blog.trailofbits.com/2018/08/23/introducing-windows-acl-working-with-acls-in-rust/ [pic.x.com/bAGWiQ5bgy]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DlSFKQuU4AIO-d-.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2018/08/23/introducing-windows-acl-working-with-acls-in-rust/
+
+
+---
+
+## 2018-08-14 · Post · Aditi Gupta spent her summer automating fault injection attacks against RSA implementations. Hear he
+
+
+### Post — @trailofbits — 2018-08-14 17:00 UTC (2018-08-14 18:00 WAT)
+
+- URL: https://x.com/trailofbits/status/1029412555574464513
+- Metrics (at fetch): bookmark 7, impression 0, like 46, quote 2, reply 0, retweet 19
+
+> Aditi Gupta spent her summer automating fault injection attacks against RSA implementations. Hear her story on our blog and talk to her tonight at @EmpireHacking https://blog.trailofbits.com/2018/08/14/fault-analysis-on-rsa-signing/
+
+**Links in post:** https://blog.trailofbits.com/2018/08/14/fault-analysis-on-rsa-signing/
+
+
+---
+
+## 2018-08-10 · Post · We released a ton of new Ethereum security tools and guidance in the last two weeks. Here’s a brief 
+
+
+### Post — @trailofbits — 2018-08-10 21:05 UTC (2018-08-10 22:05 WAT)
+
+- URL: https://x.com/trailofbits/status/1028024659776872448
+- Metrics (at fetch): bookmark 0, impression 0, like 23, quote 3, reply 1, retweet 11
+
+> We released a ton of new Ethereum security tools and guidance in the last two weeks. Here’s a brief tour!
+
+
+---
+
+## 2018-08-08 · Post · We'll have two interns speak about fault injection attacks on real cryptographic libraries and conti
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @trailofbits — 2018-08-08 01:00 UTC (2018-08-08 02:00 WAT)
+
+- URL: https://x.com/trailofbits/status/1026996587812331520
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 1, reply 0, retweet 1
+
+> We'll have two interns speak about fault injection attacks on real cryptographic libraries and continuous assurance of Ethereum smart contracts at @EmpireHacking next week. Join us! https://x.com/EmpireHacking/status/1026996142733709312
+
+**Links in post:** https://x.com/EmpireHacking/status/1026996142733709312
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3129975465 — 2018-08-08 00:58 UTC (2018-08-08 01:58 WAT)
+    
+    - URL: https://x.com/3129975465/status/1026996142733709312
+    - Metrics (at fetch): bookmark 0, impression 0, like 2, quote 1, reply 1, retweet 1
+    
+    > 1 week remaining until our yearly end-of-summer intern event! Hear from interns with @trailofbits, @datadoghq, @nyutandon, @business, @facebook, and @codeascraft https://www.meetup.com/Empire-Hacking/events/251731371/
+    
+    **Links in post:** https://www.meetup.com/Empire-Hacking/events/251731371/
+    
+
+
+---
+
+## 2018-08-01 · Post · Listen to The Smartest Contract with @itsjefftong to hear more about how developers are using tools 
+
+
+### Post — @trailofbits — 2018-08-01 18:27 UTC (2018-08-01 19:27 WAT)
+
+- URL: https://x.com/trailofbits/status/1024723386113683457
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 1
+
+> Listen to The Smartest Contract with @itsjefftong to hear more about how developers are using tools from @trailofbits to secure their code. http://www.thesmartestcontract.com/13
+
+**Links in post:** http://www.thesmartestcontract.com/13
+
+
+---
+
+## 2018-08-01 · Post · You could have invented that bluetooth attack http://blog.trailofbits.com/2018/08/01/bluetooth-inval
 
 
 ### Post — @trailofbits — 2018-08-01 11:05 UTC (2018-08-01 12:05 WAT)
@@ -18685,10 +18865,42 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/1024612137296125952
 - Metrics (at fetch): bookmark 4, impression 0, like 59, quote 2, reply 1, retweet 37
 
-> You could have invented that bluetooth attack https://t.co/8NCcTFGTpb https://t.co/BapdXU1A2o
+> You could have invented that bluetooth attack http://blog.trailofbits.com/2018/08/01/bluetooth-invalid-curve-points/ [pic.x.com/BapdXU1A2o]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/DjgnTv6U8AAQa1C.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2018/08/01/bluetooth-invalid-curve-points/
+
+
+---
+
+## 2018-07-30 · Post · How I made my own WireGuard VPN server (with @AlgoVPN!) by @romaindillet https://techcrunch.com/2018
+
+
+### Post — @trailofbits — 2018-07-30 17:23 UTC (2018-07-30 18:23 WAT)
+
+- URL: https://x.com/trailofbits/status/1023982502225080320
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> How I made my own WireGuard VPN server (with @AlgoVPN!) by @romaindillet https://techcrunch.com/2018/07/28/how-i-made-my-own-wireguard-vpn-server/
+
+**Links in post:** https://techcrunch.com/2018/07/28/how-i-made-my-own-wireguard-vpn-server/
+
+
+---
+
+## 2018-07-30 · Post · Following our addition of Slack logs to StreamAlert, we have now added Aliyun ActionTrail too! What 
+
+
+### Post — @trailofbits — 2018-07-30 17:22 UTC (2018-07-30 18:22 WAT)
+
+- URL: https://x.com/trailofbits/status/1023982101002108929
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Following our addition of Slack logs to StreamAlert, we have now added Aliyun ActionTrail too! What features should we add next? https://github.com/airbnb/streamalert/pull/792
+
+**Links in post:** https://github.com/airbnb/streamalert/pull/792
 
 
 ---
@@ -18701,7 +18913,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/1022507538342916096
 - Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
 
-> Lack of curve point validation continues to trip people up, part 899372. Read @japesinator's commentary about the latest Bluetooth protocol bug in @arstechnica: https://t.co/ygCxkhnbeW
+> Lack of curve point validation continues to trip people up, part 899372. Read @japesinator's commentary about the latest Bluetooth protocol bug in @arstechnica: https://x.com/arstechnica/status/1022275564386873349
+
+**Links in post:** https://x.com/arstechnica/status/1022275564386873349
 
 **Quoted post (full text):**
 
@@ -18710,13 +18924,391 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     - URL: https://x.com/717313/status/1022275564386873349
     - Metrics (at fetch): bookmark 1, impression 0, like 24, quote 9, reply 3, retweet 45
     
-    > Decade-old Bluetooth flaw lets hackers steal data passing between devices https://t.co/MNJWEHzN30 by @dangoodin001
+    > Decade-old Bluetooth flaw lets hackers steal data passing between devices http://arstechnica.com/information-technology/2018/07/decade-old-bluetooth-flaw-lets-hackers-steal-data-passing-between-devices/ by @dangoodin001
+    
+    **Links in post:** http://arstechnica.com/information-technology/2018/07/decade-old-bluetooth-flaw-lets-hackers-steal-data-passing-between-devices/
     
 
 
 ---
 
-## 2018-04-06 · Post · You just approved an audit of your codebase. What now? How to prepare for a security audit: https://
+## 2018-07-24 · Post · Audits are not endorsements
+
+
+### Post — @trailofbits — 2018-07-24 13:21 UTC (2018-07-24 14:21 WAT)
+
+- URL: https://x.com/trailofbits/status/1021747099082342401
+- Metrics (at fetch): bookmark 0, impression 0, like 66, quote 1, reply 2, retweet 17
+
+> Audits are not endorsements
+
+
+---
+
+## 2018-07-17 · Post · pyevmasm is an Ethereum Virtual Machine (EVM) assembler and disassembler. We extracted this code fro
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @trailofbits — 2018-07-17 23:27 UTC (2018-07-18 00:27 WAT)
+
+- URL: https://x.com/trailofbits/status/1019362914782900225
+- Metrics (at fetch): bookmark 1, impression 0, like 16, quote 0, reply 1, retweet 9
+
+> pyevmasm is an Ethereum Virtual Machine (EVM) assembler and disassembler. We extracted this code from Manticore and polished it up so other projects could use it! https://github.com/trailofbits/pyevmasm
+
+**Links in post:** https://github.com/trailofbits/pyevmasm
+
+
+---
+
+## 2018-07-16 · Post · Thanks to hard work from our administrative team, we're now able to support a full suite of benefits
+
+
+### Post — @trailofbits — 2018-07-16 23:21 UTC (2018-07-17 00:21 WAT)
+
+- URL: https://x.com/trailofbits/status/1018999095267127297
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 1
+
+> Thanks to hard work from our administrative team, we're now able to support a full suite of benefits for Canadian employees! 🇨🇦🎉https://jobs.lever.co/trailofbits/4f459855-3299-462f-9e73-299a840d5baf
+
+**Links in post:** https://jobs.lever.co/trailofbits/4f459855-3299-462f-9e73-299a840d5baf
+
+
+---
+
+## 2018-07-12 · Post · See our founder and CEO @dguido discuss how Ethereum smart contracts get hacked and emerging methods
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @trailofbits — 2018-07-12 18:43 UTC (2018-07-12 19:43 WAT)
+
+- URL: https://x.com/trailofbits/status/1017479600388083713
+- Metrics (at fetch): bookmark 1, impression 0, like 23, quote 2, reply 1, retweet 9
+
+> See our founder and CEO @dguido discuss how Ethereum smart contracts get hacked and emerging methods for secure development. Thanks @ETH! https://www.video.ethz.ch/events/2017/eth-meets-ny/future/a81d500e-c5f3-4e09-ac75-c17733131356.html
+
+**Links in post:** https://www.video.ethz.ch/events/2017/eth-meets-ny/future/a81d500e-c5f3-4e09-ac75-c17733131356.html
+
+
+---
+
+## 2018-07-11 · Post · Thanks @SummerC0n attendees who cooled off by eating over $300 of @VLAIC Mint Chip ice cream! We are
+
+
+### Post — @trailofbits — 2018-07-11 21:13 UTC (2018-07-11 22:13 WAT)
+
+- URL: https://x.com/trailofbits/status/1017155027377573888
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 0, retweet 1
+
+> Thanks @SummerC0n attendees who cooled off by eating over $300 of @VLAIC Mint Chip ice cream! We are rounding up and donating $1000 to @GirlsWhoCode! https://x.com/trailofbits/status/1012754966744793088
+
+**Links in post:** https://x.com/trailofbits/status/1012754966744793088
+
+**Quoted post (full text):**
+
+    #### Quoted post — @trailofbits — 2018-06-29 17:49 UTC (2018-06-29 18:49 WAT)
+    
+    - URL: https://x.com/trailofbits/status/1012754966744793088
+    - Metrics (at fetch): bookmark 0, impression 0, like 7, quote 2, reply 0, retweet 4
+    
+    > Attention @SummerC0n: the ice cream has arrived! Come by Parklife and get yourself a scoop. [pic.x.com/nEsnWkyc41]
+    
+    **Media:**
+    - media `3_1012754956728713216` (details not returned by the API)
+    
+
+
+---
+
+## 2018-07-06 · Post · Optimizing Lifted Bitcode with Dead Store Elimination http://blog.trailofbits.com/2018/07/06/optimiz
+
+
+### Post — @trailofbits — 2018-07-06 11:50 UTC (2018-07-06 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/1015201415311118336
+- Metrics (at fetch): bookmark 0, impression 0, like 35, quote 2, reply 0, retweet 21
+
+> Optimizing Lifted Bitcode with Dead Store Elimination http://blog.trailofbits.com/2018/07/06/optimizing-lifted-bitcode-with-dead-store-elimination/ [pic.x.com/i4Wi50w1iF]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Dha4Tn1VAAAr5-k.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2018/07/06/optimizing-lifted-bitcode-with-dead-store-elimination/
+
+
+---
+
+## 2018-06-29 · Thread · Trail of Bits donates $100,000 to support young researchers through @SummerC0n http://blog.trailofbi
+
+
+### Post — @trailofbits — 2018-06-29 11:50 UTC (2018-06-29 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/1012664684170838016
+- Metrics (at fetch): bookmark 0, impression 0, like 106, quote 8, reply 3, retweet 29
+
+> Trail of Bits donates $100,000 to support young researchers through @SummerC0n http://blog.trailofbits.com/2018/06/29/trail-of-bits-donates-100000-to-support-young-researchers-through-summercon/ [pic.x.com/bx29oGA8tO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Dg21KcpUEAE3bRj.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2018/06/29/trail-of-bits-donates-100000-to-support-young-researchers-through-summercon/
+
+
+### Thread part 2 — @trailofbits — 2018-06-29 17:49 UTC (2018-06-29 18:49 WAT)
+
+- URL: https://x.com/trailofbits/status/1012754966744793088
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 2, reply 0, retweet 4
+
+> Attention @SummerC0n: the ice cream has arrived! Come by Parklife and get yourself a scoop. [pic.x.com/nEsnWkyc41]
+
+**Media:**
+- media `3_1012754956728713216` (details not returned by the API)
+
+
+---
+
+## 2018-06-27 · Post · Announcing the Trail of Bits osquery support group http://blog.trailofbits.com/2018/06/27/announcing
+
+
+### Post — @trailofbits — 2018-06-27 11:52 UTC (2018-06-27 12:52 WAT)
+
+- URL: https://x.com/trailofbits/status/1011940411315752960
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> Announcing the Trail of Bits osquery support group http://blog.trailofbits.com/2018/06/27/announcing-the-trail-of-bits-osquery-support-group/
+
+**Links in post:** http://blog.trailofbits.com/2018/06/27/announcing-the-trail-of-bits-osquery-support-group/
+
+
+---
+
+## 2018-06-11 · Post · StreamAlert is an excellent and underutilized open-source security tool, and that's why we're happy 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @trailofbits — 2018-06-11 16:04 UTC (2018-06-11 17:04 WAT)
+
+- URL: https://x.com/trailofbits/status/1006205608041832450
+- Metrics (at fetch): bookmark 1, impression 0, like 9, quote 0, reply 0, retweet 1
+
+> StreamAlert is an excellent and underutilized open-source security tool, and that's why we're happy to start offering custom development for it! Contact us if you have feature requests or bugs that need fixing. https://x.com/azollman/status/1006190819265646592
+
+**Links in post:** https://x.com/azollman/status/1006190819265646592
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14786940 — 2018-06-11 15:06 UTC (2018-06-11 16:06 WAT)
+    
+    - URL: https://x.com/14786940/status/1006190819265646592
+    - Metrics (at fetch): bookmark 0, impression 0, like 1, quote 1, reply 0, retweet 1
+    
+    > @Soulmech @daveaitel @HockeyInJune @Airbnb StreamAlert is source-agnostic - it runs a serverless processing pipeline - and doesn't require the backing store of Elastic. ElastAlert is great too (and obviously if you're already running Elastic...) but I like the flexibility of StreamAlert better.
+    
+
+
+---
+
+## 2018-06-08 · Post · QueryCon 2018: our talks and takeaways http://blog.trailofbits.com/2018/06/08/querycon-2018-our-talk
+
+
+### Post — @trailofbits — 2018-06-08 11:50 UTC (2018-06-08 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/1005054561374044160
+- Metrics (at fetch): bookmark 1, impression 0, like 17, quote 3, reply 0, retweet 8
+
+> QueryCon 2018: our talks and takeaways http://blog.trailofbits.com/2018/06/08/querycon-2018-our-talks-and-takeaways/ [pic.x.com/kr5NxotHLf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DfKry9_UcAE2baU.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2018/06/08/querycon-2018-our-talks-and-takeaways/
+
+
+---
+
+## 2018-05-30 · Post · Manage your fleet’s firewalls with osquery http://blog.trailofbits.com/2018/05/30/manage-your-fleets
+
+
+### Post — @trailofbits — 2018-05-30 15:06 UTC (2018-05-30 16:06 WAT)
+
+- URL: https://x.com/trailofbits/status/1001842382743187458
+- Metrics (at fetch): bookmark 1, impression 0, like 46, quote 3, reply 1, retweet 24
+
+> Manage your fleet’s firewalls with osquery http://blog.trailofbits.com/2018/05/30/manage-your-fleets-firewalls-with-osquery/ [pic.x.com/vhKRJYPN7B]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DedCVlsVQAAotXw.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2018/05/30/manage-your-fleets-firewalls-with-osquery/
+
+
+---
+
+## 2018-05-29 · Post · Manage Santa within osquery, without the need for a separate sync server https://blog.trailofbits.co
+
+
+### Post — @trailofbits — 2018-05-29 12:46 UTC (2018-05-29 13:46 WAT)
+
+- URL: https://x.com/trailofbits/status/1001444583463702528
+- Metrics (at fetch): bookmark 1, impression 0, like 16, quote 2, reply 0, retweet 11
+
+> Manage Santa within osquery, without the need for a separate sync server https://blog.trailofbits.com/2018/05/29/manage-santa-within-osquery/
+
+**Links in post:** https://blog.trailofbits.com/2018/05/29/manage-santa-within-osquery/
+
+
+---
+
+## 2018-05-28 · Post · Collect NTFS forensic information with osquery http://blog.trailofbits.com/2018/05/28/collect-ntfs-f
+
+
+### Post — @trailofbits — 2018-05-28 16:06 UTC (2018-05-28 17:06 WAT)
+
+- URL: https://x.com/trailofbits/status/1001132541565440000
+- Metrics (at fetch): bookmark 6, impression 0, like 68, quote 1, reply 1, retweet 41
+
+> Collect NTFS forensic information with osquery http://blog.trailofbits.com/2018/05/28/collect-ntfs-forensic-information-with-osquery/ [pic.x.com/06ZuTXQ5Bz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DeS8vYaUwAA9aON.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2018/05/28/collect-ntfs-forensic-information-with-osquery/
+
+
+---
+
+## 2018-05-25 · Post · We're hiring a Python engineer to work on our open-source Manticore project full time. Remote OK, ap
+
+
+### Post — @trailofbits — 2018-05-25 16:53 UTC (2018-05-25 17:53 WAT)
+
+- URL: https://x.com/trailofbits/status/1000057291922661376
+- Metrics (at fetch): bookmark 0, impression 0, like 27, quote 1, reply 0, retweet 16
+
+> We're hiring a Python engineer to work on our open-source Manticore project full time. Remote OK, apply here: https://jobs.lever.co/trailofbits/5bb2ae68-da03-4e02-a343-e3413682927f
+
+**Links in post:** https://jobs.lever.co/trailofbits/5bb2ae68-da03-4e02-a343-e3413682927f
+
+
+---
+
+## 2018-05-22 · Post · Not sure how or IF you want to get started in the security industry? Try a low-risk, remote Winter i
+
+
+### Post — @trailofbits — 2018-05-22 18:44 UTC (2018-05-22 19:44 WAT)
+
+- URL: https://x.com/trailofbits/status/998997950599659521
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 4
+
+> Not sure how or IF you want to get started in the security industry? Try a low-risk, remote Winter internship with our team: https://jobs.lever.co/trailofbits/5be378ad-f7cd-4730-8c01-7df8a3af21ab
+
+**Links in post:** https://jobs.lever.co/trailofbits/5be378ad-f7cd-4730-8c01-7df8a3af21ab
+
+
+---
+
+## 2018-05-22 · Post · Join our Engineering Services team! We're looking for experienced software engineers to help us deve
+
+
+### Post — @trailofbits — 2018-05-22 18:38 UTC (2018-05-22 19:38 WAT)
+
+- URL: https://x.com/trailofbits/status/998996505611599872
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 3
+
+> Join our Engineering Services team! We're looking for experienced software engineers to help us develop open-source software like osquery: https://jobs.lever.co/trailofbits?team=Engineering%20Services
+
+**Links in post:** https://jobs.lever.co/trailofbits?team=Engineering%20Services
+
+
+---
+
+## 2018-05-06 · Post · We're proud to announce that the lovable mascot for our Grr fuzzer has been made into a @DWAnimation
+
+
+### Post — @trailofbits — 2018-05-06 21:10 UTC (2018-05-06 22:10 WAT)
+
+- URL: https://x.com/trailofbits/status/993236644043075584
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 1, reply 0, retweet 2
+
+> We're proud to announce that the lovable mascot for our Grr fuzzer has been made into a @DWAnimation television show! 🎉 #dinotrux https://blog.trailofbits.com/2016/11/02/shin-grr-make-fuzzing-fast-again/ [pic.x.com/peq4K0Obzz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DcivHmpV0AADPr7.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/DcivIEUV4AAtwLL.jpg — no alt text provided by author
+
+**Links in post:** https://blog.trailofbits.com/2016/11/02/shin-grr-make-fuzzing-fast-again/
+
+
+---
+
+## 2018-05-06 · Post · Manticore 0.1.9 has been released! This new version brings many bugfixes for Ethereum and Linux emul
+
+
+### Post — @trailofbits — 2018-05-06 19:57 UTC (2018-05-06 20:57 WAT)
+
+- URL: https://x.com/trailofbits/status/993218157753008128
+- Metrics (at fetch): bookmark 0, impression 0, like 17, quote 1, reply 0, retweet 5
+
+> Manticore 0.1.9 has been released! This new version brings many bugfixes for Ethereum and Linux emulation, and resulted in $1k USD in bounties for contributors! https://github.com/trailofbits/manticore/releases/tag/0.1.9
+
+**Links in post:** https://github.com/trailofbits/manticore/releases/tag/0.1.9
+
+
+---
+
+## 2018-05-03 · Post · State Machine Testing with Echidna http://blog.trailofbits.com/2018/05/03/state-machine-testing-with
+
+
+### Post — @trailofbits — 2018-05-03 10:52 UTC (2018-05-03 11:52 WAT)
+
+- URL: https://x.com/trailofbits/status/991993920392482817
+- Metrics (at fetch): bookmark 1, impression 0, like 43, quote 1, reply 0, retweet 16
+
+> State Machine Testing with Echidna http://blog.trailofbits.com/2018/05/03/state-machine-testing-with-echidna/ [pic.x.com/L3vjkpC8Qi]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DcRFNmkVAAIrH9t.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2018/05/03/state-machine-testing-with-echidna/
+
+
+---
+
+## 2018-04-26 · Post · We're looking for security researchers and engineers focused on C++, low-level systems, cryptography
+
+
+### Post — @trailofbits — 2018-04-26 16:51 UTC (2018-04-26 17:51 WAT)
+
+- URL: https://x.com/trailofbits/status/989547464222040067
+- Metrics (at fetch): bookmark 0, impression 0, like 39, quote 0, reply 1, retweet 20
+
+> We're looking for security researchers and engineers focused on C++, low-level systems, cryptography and more to join our team. Speak to any of our 20 employees roaming @InfiltrateCon to hear more!
+
+
+---
+
+## 2018-04-10 · Post · What do you wish osquery could do? Read the 3rd post in our osquery product management series: http:
+
+
+### Post — @trailofbits — 2018-04-10 10:51 UTC (2018-04-10 11:51 WAT)
+
+- URL: https://x.com/trailofbits/status/983658617546174464
+- Metrics (at fetch): bookmark 1, impression 0, like 6, quote 0, reply 0, retweet 4
+
+> What do you wish osquery could do? Read the 3rd post in our osquery product management series: http://blog.trailofbits.com/2018/04/10/what-do-you-wish-osquery-could-do/
+
+**Links in post:** http://blog.trailofbits.com/2018/04/10/what-do-you-wish-osquery-could-do/
+
+
+---
+
+## 2018-04-06 · Post · You just approved an audit of your codebase. What now? How to prepare for a security audit: http://b
 
 
 ### Post — @trailofbits — 2018-04-06 10:50 UTC (2018-04-06 11:50 WAT)
@@ -18724,7 +19316,244 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/982209041945378818
 - Metrics (at fetch): bookmark 1, impression 0, like 17, quote 2, reply 0, retweet 5
 
-> You just approved an audit of your codebase. What now? How to prepare for a security audit: https://t.co/S1pv5URvPH
+> You just approved an audit of your codebase. What now? How to prepare for a security audit: http://blog.trailofbits.com/2018/04/06/how-to-prepare-for-a-security-audit/
+
+**Links in post:** http://blog.trailofbits.com/2018/04/06/how-to-prepare-for-a-security-audit/
+
+
+---
+
+## 2018-04-04 · Post · We sent out about $1,000 worth of bounties for Manticore 0.1.8 on Monday! Contributions to _any_ Tra
+
+
+### Post — @trailofbits — 2018-04-04 15:01 UTC (2018-04-04 16:01 WAT)
+
+- URL: https://x.com/trailofbits/status/981547302400811009
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 2
+
+> We sent out about $1,000 worth of bounties for Manticore 0.1.8 on Monday! Contributions to _any_ Trail of Bits Github project qualify. https://x.com/catenacyber/status/981446888707719168
+
+**Links in post:** https://x.com/catenacyber/status/981446888707719168
+
+**Quoted post (full text):**
+
+    #### Quoted post — @815856099861626880 — 2018-04-04 08:22 UTC (2018-04-04 09:22 WAT)
+    
+    - URL: https://x.com/815856099861626880/status/981446888707719168
+    - Metrics (at fetch): bookmark 0, impression 0, like 0, quote 1, reply 1, retweet 0
+    
+    > Thanks @trailofbits for #bugbounty debugging #X86 with @capstone_engine https://github.com/trailofbits/manticore/pull/852
+    
+    **Links in post:** https://github.com/trailofbits/manticore/pull/852
+    
+
+
+---
+
+## 2018-04-04 · Post · It's easy to find bugs when you know how to build the right tools. Check out our blog to learn how t
+
+
+### Post — @trailofbits — 2018-04-04 10:50 UTC (2018-04-04 11:50 WAT)
+
+- URL: https://x.com/trailofbits/status/981484249915232256
+- Metrics (at fetch): bookmark 10, impression 0, like 289, quote 6, reply 2, retweet 119
+
+> It's easy to find bugs when you know how to build the right tools. Check out our blog to learn how to model vulnerabilities with Binary Ninja's MLIL and SSA form. http://blog.trailofbits.com/2018/04/04/vulnerability-modeling-with-binary-ninja/ [pic.x.com/WgqRMlJWb0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DZ7uuRnU8AAfswU.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2018/04/04/vulnerability-modeling-with-binary-ninja/
+
+
+---
+
+## 2018-03-24 · Post · We’re hiring a sales support engineer! If you’re familiar with the work we do and can help us talk t
+
+
+### Post — @trailofbits — 2018-03-24 20:37 UTC (2018-03-24 21:37 WAT)
+
+- URL: https://x.com/trailofbits/status/977645705320738816
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 2
+
+> We’re hiring a sales support engineer! If you’re familiar with the work we do and can help us talk to clients about it, apply on our website: https://www.trailofbits.com/careers/
+
+**Links in post:** https://www.trailofbits.com/careers/
+
+
+---
+
+## 2018-03-23 · Post · Use our suite of Ethereum security tools! Read our blog for a tour of all 8 secure development and r
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @trailofbits — 2018-03-23 15:02 UTC (2018-03-23 16:02 WAT)
+
+- URL: https://x.com/trailofbits/status/977198915530326016
+- Metrics (at fetch): bookmark 4, impression 0, like 43, quote 1, reply 0, retweet 14
+
+> Use our suite of Ethereum security tools! Read our blog for a tour of all 8 secure development and reversing tools for smart contracts. https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/
+
+**Links in post:** https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/
+
+
+---
+
+## 2018-03-22 · Post · An accessible overview of Meltdown and Spectre, Part 2 http://blog.trailofbits.com/2018/03/22/an-acc
+
+
+### Post — @trailofbits — 2018-03-22 10:50 UTC (2018-03-22 11:50 WAT)
+
+- URL: https://x.com/trailofbits/status/976773151685332992
+- Metrics (at fetch): bookmark 3, impression 0, like 97, quote 1, reply 1, retweet 54
+
+> An accessible overview of Meltdown and Spectre, Part 2 http://blog.trailofbits.com/2018/03/22/an-accessible-overview-of-meltdown-and-spectre-part-2/ [pic.x.com/oI64GWZ9v1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DY4yAQrVwAA20U0.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2018/03/22/an-accessible-overview-of-meltdown-and-spectre-part-2/
+
+
+---
+
+## 2018-03-15 · Post · We published a technical summary of the "AMD Flaws" so they can be of use to the security community 
+
+
+### Post — @trailofbits — 2018-03-15 18:02 UTC (2018-03-15 19:02 WAT)
+
+- URL: https://x.com/trailofbits/status/974345028498804737
+- Metrics (at fetch): bookmark 8, impression 0, like 142, quote 9, reply 3, retweet 122
+
+> We published a technical summary of the "AMD Flaws" so they can be of use to the security community without the distraction of the surrounding disclosure issues. https://blog.trailofbits.com/2018/03/15/amd-flaws-technical-summary/
+
+**Links in post:** https://blog.trailofbits.com/2018/03/15/amd-flaws-technical-summary/
+
+
+---
+
+## 2018-03-09 · Post · Today we released Echidna, our next generation EVM smart fuzzer at EthCC. It's the first-ever fuzze
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @trailofbits — 2018-03-09 18:20 UTC (2018-03-09 19:20 WAT)
+
+- URL: https://x.com/trailofbits/status/972175412230049792
+- Metrics (at fetch): bookmark 5, impression 0, like 231, quote 7, reply 6, retweet 132
+
+> Today we released Echidna, our next generation EVM smart fuzzer at #EthCC. It's the first-ever fuzzer to target smart contracts! https://blog.trailofbits.com/2018/03/09/echidna-a-smart-fuzzer-for-ethereum/ [pic.x.com/t3BZGeKXn9]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DX3cSXyWsAAtJvl.jpg — no alt text provided by author
+
+**Links in post:** https://blog.trailofbits.com/2018/03/09/echidna-a-smart-fuzzer-for-ethereum/
+
+
+---
+
+## 2018-03-08 · Post · Check out our 2017 in review! Find 12 highlights from 2017; each one is a reason to stick around in 
+
+
+### Post — @trailofbits — 2018-03-08 14:07 UTC (2018-03-08 15:07 WAT)
+
+- URL: https://x.com/trailofbits/status/971749301067091968
+- Metrics (at fetch): bookmark 2, impression 0, like 18, quote 1, reply 1, retweet 7
+
+> Check out our 2017 in review! Find 12 highlights from 2017; each one is a reason to stick around in 2018. https://blog.trailofbits.com/2018/03/08/2017-in-review/
+
+**Links in post:** https://blog.trailofbits.com/2018/03/08/2017-in-review/
+
+
+---
+
+## 2018-03-07 · Post · I wonder what tool made this output? Hmmm ethereum cansecwest https://x.com/computerality/status/9
+
+
+### Post — @trailofbits — 2018-03-07 14:47 UTC (2018-03-07 15:47 WAT)
+
+- URL: https://x.com/trailofbits/status/971396877336838145
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> I wonder what tool made this output? Hmmm #ethereum #cansecwest https://x.com/computerality/status/971230027860848640
+
+**Links in post:** https://x.com/computerality/status/971230027860848640
+
+**Quoted post (full text):**
+
+    #### Quoted post — @64261195 — 2018-03-07 03:44 UTC (2018-03-07 04:44 WAT)
+    
+    - URL: https://x.com/64261195/status/971230027860848640
+    - Metrics (at fetch): bookmark 0, impression 0, like 1, quote 1, reply 1, retweet 1
+    
+    > This code has run on everyone's computer :/ https://x.com/withzombies/status/971228877166084096
+    
+    **Links in post:** https://x.com/withzombies/status/971228877166084096
+    
+    **Quoted post** 971228877166084096: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2018-03-07 · Post · That’s @markmossberg and @dguido in the background! Thanks to the @EntEthAlliance for another great 
+
+
+### Post — @trailofbits — 2018-03-07 14:07 UTC (2018-03-07 15:07 WAT)
+
+- URL: https://x.com/trailofbits/status/971386900329193473
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 1
+
+> That’s @markmossberg and @dguido in the background! Thanks to the @EntEthAlliance for another great event last night. https://x.com/auctusproject/status/971226664771444736
+
+**Links in post:** https://x.com/auctusproject/status/971226664771444736
+
+**Quoted post (full text):**
+
+    #### Quoted post — @882028707220787202 — 2018-03-07 03:30 UTC (2018-03-07 04:30 WAT)
+    
+    - URL: https://x.com/882028707220787202/status/971226664771444736
+    - Metrics (at fetch): bookmark 0, impression 0, like 31, quote 1, reply 0, retweet 22
+    
+    > Very good presentations and conversations at @EntEthAlliance meetup NYC at @FordhamNYC #ethereum [pic.x.com/22VSqyllYy]
+    
+    **Media:**
+    - media `3_971226327826264064` (details not returned by the API)
+    
+
+
+---
+
+## 2018-03-02 · Post · All our flights are booked — even Nick! — for @InfiltrateCon. We’ll see you in Miami on April 26th! 
+
+
+### Post — @trailofbits — 2018-03-02 17:38 UTC (2018-03-02 18:38 WAT)
+
+- URL: https://x.com/trailofbits/status/969628075662159872
+- Metrics (at fetch): bookmark 1, impression 0, like 23, quote 1, reply 2, retweet 5
+
+> All our flights are booked — even Nick! — for @InfiltrateCon. We’ll see you in Miami on April 26th! [pic.x.com/Kg7VRoIqs5]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2018-02-27 · Post · “The emails should convince anyone that IOTA lacks the technical leadership or, simply, the maturity
+
+
+### Post — @trailofbits — 2018-02-27 17:55 UTC (2018-02-27 18:55 WAT)
+
+- URL: https://x.com/trailofbits/status/968545066179588096
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 4, reply 4, retweet 12
+
+> “The emails should convince anyone that IOTA lacks the technical leadership or, simply, the maturity to build their product.” https://spectrum.ieee.org/tech-talk/computing/networks/cryptographers-urge-users-and-researchers-to-abandon-iota-after-leaked-emails via @morgenpeck for @IEEESpectrum
+
+**Links in post:** https://spectrum.ieee.org/tech-talk/computing/networks/cryptographers-urge-users-and-researchers-to-abandon-iota-after-leaked-emails
 
 
 ---
@@ -18737,10 +19566,74 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/967866336738267137
 - Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 1
 
-> $2,000 of bounty payments for Manticore, McSema, DeepState, and Algo were sent out today. Thanks to our contributors! (ps. DM us if we missed you -- it can be difficult to track down emails sometimes.) https://t.co/H8QlviZHYP
+> $2,000 of bounty payments for Manticore, McSema, DeepState, and Algo were sent out today. Thanks to our contributors! (ps. DM us if we missed you -- it can be difficult to track down emails sometimes.) [pic.x.com/H8QlviZHYP]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/DW6MsspW4AIq9oR.jpg — no alt text provided by author
+
+
+---
+
+## 2018-02-18 · Post · Read more about DeepState here: https://www.cefns.nau.edu/~adg326/bar18.pdf NDSS18 BAR18
+
+
+### Post — @trailofbits — 2018-02-18 18:32 UTC (2018-02-18 19:32 WAT)
+
+- URL: https://x.com/trailofbits/status/965293040691744773
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 0, reply 0, retweet 8
+
+> Read more about DeepState here: https://www.cefns.nau.edu/~adg326/bar18.pdf #NDSS18 #BAR18
+
+**Links in post:** https://www.cefns.nau.edu/~adg326/bar18.pdf
+
+
+---
+
+## 2018-02-18 · Post · We've just released DeepState, a Google Test-like framework that lets you symbolically execute your 
+
+
+### Post — @trailofbits — 2018-02-18 18:30 UTC (2018-02-18 19:30 WAT)
+
+- URL: https://x.com/trailofbits/status/965292330201776129
+- Metrics (at fetch): bookmark 2, impression 0, like 232, quote 4, reply 1, retweet 111
+
+> We've just released DeepState, a Google Test-like framework that lets you symbolically execute your C/C++ unit tests. https://t.co/PQyYC1jKHM #NDSS18 #BAR18
+
+
+---
+
+## 2018-02-10 · Post · We have an incredible lineup of Ethereum security talks this Spring! Be sure to catch "Blackhat Ethe
+
+
+### Post — @trailofbits — 2018-02-10 21:59 UTC (2018-02-10 22:59 WAT)
+
+- URL: https://x.com/trailofbits/status/962445855499476992
+- Metrics (at fetch): bookmark 0, impression 0, like 26, quote 1, reply 1, retweet 4
+
+> We have an incredible lineup of Ethereum security talks this Spring! Be sure to catch "Blackhat Ethereum" by @withzombies and @computerality @CanSecWest in March. https://t.co/q566CcKqQm
+
+**Quoted post (full text):**
+
+    #### Quoted post — @18027124 — 2018-02-10 21:20 UTC (2018-02-10 22:20 WAT)
+    
+    - URL: https://x.com/18027124/status/962436237603749888
+    - Metrics (at fetch): bookmark 0, impression 0, like 10, quote 1, reply 0, retweet 5
+    
+    > CanSecWest 2018 Presentation (March 14-16) “Blackhat Ethereum” - Ryan Storz @withzombies &amp; Jay Little from @trailofbits
+    
+
+
+---
+
+## 2018-02-09 · Post · Parity Technologies (@paritytech) has engaged Trail of Bits for security review. See our initial pla
+
+
+### Post — @trailofbits — 2018-02-09 12:56 UTC (2018-02-09 13:56 WAT)
+
+- URL: https://x.com/trailofbits/status/961946939637096449
+- Metrics (at fetch): bookmark 0, impression 0, like 27, quote 2, reply 0, retweet 4
+
+> Parity Technologies (@paritytech) has engaged Trail of Bits for security review. See our initial plan for the engagement and why we were selected on our blog: https://t.co/XVRjVP2e0a
 
 
 ---
@@ -18774,6 +19667,22 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2018-01-30 · Post · Check out our _accessible_ Meltdown and Spectre explainer, made for developers without a background 
+
+
+### Post — @trailofbits — 2018-01-30 13:53 UTC (2018-01-30 14:53 WAT)
+
+- URL: https://x.com/trailofbits/status/958337315960770562
+- Metrics (at fetch): bookmark 0, impression 0, like 278, quote 5, reply 0, retweet 155
+
+> Check out our _accessible_ Meltdown and Spectre explainer, made for developers without a background in computer architecture. No awkward analogies, we stick to the real details. https://t.co/uN1srmHpvY https://t.co/cQTVxa58vD
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DUyyTLuWsAMaVAl.jpg — no alt text provided by author
+
+
+---
+
 ## 2018-01-26 · Post · Trail of Bits has reviewed custody solutions for cryptocurrency exchanges. Please contact us for an 
 
 
@@ -18793,6 +19702,22 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     
     > "Tokyo-based cryptocurrency exchange Coincheck has confirmed that it has suffered what appears to be the biggest hack in history of the technology" 58 billion yen, or $533 million https://t.co/wi3OfqKN8G
     
+
+
+---
+
+## 2018-01-23 · Post · Heavy lifting with McSema 2.0 https://t.co/c3FyBTySfw https://t.co/MoRcZgutdu
+
+
+### Post — @trailofbits — 2018-01-23 12:52 UTC (2018-01-23 13:52 WAT)
+
+- URL: https://x.com/trailofbits/status/955785251288174593
+- Metrics (at fetch): bookmark 1, impression 0, like 97, quote 3, reply 0, retweet 62
+
+> Heavy lifting with McSema 2.0 https://t.co/c3FyBTySfw https://t.co/MoRcZgutdu
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DUOhnqOVQAICXGj.png — no alt text provided by author
 
 
 ---
@@ -18839,6 +19764,19 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2018-01-16 · Post · Now available, a major redesign of the real-time auditd backend for osquery contributed by @trailofb
+
+
+### Post — @trailofbits — 2018-01-16 17:08 UTC (2018-01-16 18:08 WAT)
+
+- URL: https://x.com/trailofbits/status/953313090128531456
+- Metrics (at fetch): bookmark 1, impression 0, like 52, quote 1, reply 1, retweet 20
+
+> Now available, a major redesign of the real-time auditd backend for osquery contributed by @trailofbits! Available in the next release but now on master. Thanks to @Centurion, @teddyreedv, @PoppySeedPlehzr, and @alessandrogario for all their hard work. https://t.co/fcakQh2wT0
+
+
+---
+
 ## 2018-01-03 · Post · Today's Project Zero Intel bug built on work by our @Calaquendi44 https://t.co/gY4BWLriAH https://t.
 
 
@@ -18855,6 +19793,226 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2017-12-22 · Post · Manticore 0.1.6 has been released! EVM support, performance improvements, and tons of bugfixes. http
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @trailofbits — 2017-12-22 23:39 UTC (2017-12-23 00:39 WAT)
+
+- URL: https://x.com/trailofbits/status/944351836915621889
+- Metrics (at fetch): bookmark 0, impression 0, like 43, quote 1, reply 1, retweet 23
+
+> Manticore 0.1.6 has been released! EVM support, performance improvements, and tons of bugfixes. https://t.co/Uay3BRHxeP https://t.co/RL2U2x6oqT
+
+
+---
+
+## 2017-12-22 · Post · We're happy to share videos from our Ethereum-focused @EmpireHacking event. Watch the presentations 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @trailofbits — 2017-12-22 13:57 UTC (2017-12-22 14:57 WAT)
+
+- URL: https://x.com/trailofbits/status/944205320565460992
+- Metrics (at fetch): bookmark 0, impression 0, like 25, quote 1, reply 0, retweet 18
+
+> We're happy to share videos from our Ethereum-focused @EmpireHacking event. Watch the presentations again and learn the essentials of smart contract security: https://t.co/pVtdbkUJnW
+
+
+---
+
+## 2017-12-21 · Post · What are the current pain points of @osquery? Read on for part two of our study of how real security
+
+
+### Post — @trailofbits — 2017-12-21 13:28 UTC (2017-12-21 14:28 WAT)
+
+- URL: https://x.com/trailofbits/status/943835668190564352
+- Metrics (at fetch): bookmark 1, impression 0, like 30, quote 1, reply 0, retweet 18
+
+> What are the current pain points of @osquery? Read on for part two of our study of how real security teams use osquery.
+>  https://t.co/GB3hSh2vwz
+
+
+---
+
+## 2017-12-14 · Post · Today, we are releasing a maintained repository of @osquery extensions. Our first extension uses the
+
+
+### Post — @trailofbits — 2017-12-14 13:57 UTC (2017-12-14 14:57 WAT)
+
+- URL: https://x.com/trailofbits/status/941306052498378754
+- Metrics (at fetch): bookmark 0, impression 0, like 94, quote 5, reply 2, retweet 53
+
+> Today, we are releasing a maintained repository of @osquery extensions. Our first extension uses the @duo_labs EFIgy API to determine if the EFI firmware on your Mac fleet is up to date. https://t.co/LTsltsoiSS
+
+
+---
+
+## 2017-12-14 · Post · We’re looking for a contract developer or intern to work on a special Remill project for 2-3 months.
+
+
+### Post — @trailofbits — 2017-12-14 01:40 UTC (2017-12-14 02:40 WAT)
+
+- URL: https://x.com/trailofbits/status/941120556467998727
+- Metrics (at fetch): bookmark 0, impression 0, like 19, quote 1, reply 0, retweet 18
+
+> We’re looking for a contract developer or intern to work on a special Remill project for 2-3 months. All work will be open source! https://t.co/YMbUrvYOD7 inquire via our careers page: https://t.co/xTLuu6qSd6
+
+
+---
+
+## 2017-12-07 · Post · Ian Beer is about to make iOS security research much easier https://t.co/UlX6C2TPs9
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @trailofbits — 2017-12-07 22:09 UTC (2017-12-07 23:09 WAT)
+
+- URL: https://x.com/trailofbits/status/938893359019646982
+- Metrics (at fetch): bookmark 0, impression 0, like 64, quote 0, reply 1, retweet 34
+
+> Ian Beer is about to make iOS security research much easier https://t.co/UlX6C2TPs9
+
+
+---
+
+## 2017-12-01 · Post · See the "Beyond the DARPA Cyber Grand Channel" panel from CyConUS last month. Thanks to the @ArmyCy
+
+
+### Post — @trailofbits — 2017-12-01 20:07 UTC (2017-12-01 21:07 WAT)
+
+- URL: https://x.com/trailofbits/status/936688242723840002
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 1, reply 0, retweet 4
+
+> See the "Beyond the DARPA Cyber Grand Channel" panel from #CyConUS last month. Thanks to the @ArmyCyberInst for inviting us! https://t.co/XbyptIjSsI
+
+
+---
+
+## 2017-11-28 · Post · We vote for "Block" over "Crypto" 
+
+
+### Post — @trailofbits — 2017-11-28 22:11 UTC (2017-11-28 23:11 WAT)
+
+- URL: https://x.com/trailofbits/status/935632301882425345
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> We vote for "Block" over "Crypto" 
+> https://t.co/AnVGlchkb0
+
+
+---
+
+## 2017-11-28 · Post · How does secure login work in 2017? ¯\_(ツ)_/¯
+
+
+### Post — @trailofbits — 2017-11-28 21:56 UTC (2017-11-28 22:56 WAT)
+
+- URL: https://x.com/trailofbits/status/935628403604148225
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 2
+
+> How does secure login work in 2017? ¯\_(ツ)_/¯
+>
+> https://t.co/MoZplCAN6R
+
+
+---
+
+## 2017-11-22 · Post · Empire Hacking is now more than two years old and still growing rapidly. Expect more ambitious event
+
+
+### Post — @trailofbits — 2017-11-22 14:49 UTC (2017-11-22 15:49 WAT)
+
+- URL: https://x.com/trailofbits/status/933346749984464898
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> Empire Hacking is now more than two years old and still growing rapidly. Expect more ambitious events like this one in 2018! https://t.co/hizx1mwHSa
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3129975465 — 2017-11-22 14:47 UTC (2017-11-22 15:47 WAT)
+    
+    - URL: https://x.com/3129975465/status/933346195199680513
+    - Metrics (at fetch): bookmark 0, impression 0, like 6, quote 2, reply 0, retweet 6
+    
+    > Come to @EmpireHacking on December 12th to learn about Ethereum security. Talks on symbolic execution, DevCon3, CTFs, and @PolySwarm. https://t.co/AUxaPokARM
+    
+
+
+---
+
+## 2017-11-20 · Post · If you're taking a class that requires contributing to an open source security project, remember tha
+
+
+### Post — @trailofbits — 2017-11-20 19:25 UTC (2017-11-20 20:25 WAT)
+
+- URL: https://x.com/trailofbits/status/932691427426959361
+- Metrics (at fetch): bookmark 0, impression 0, like 17, quote 0, reply 0, retweet 4
+
+> If you're taking a class that requires contributing to an open source security project, remember that projects like Manticore and McSema pay bounties! 
+> https://t.co/HnIKYWx75v
+> https://t.co/5GLvMs3kmS
+
+
+---
+
+## 2017-11-17 · Post · Do you want to work on a project with real world impact? Are you looking for valuable industry exper
+
+
+### Post — @trailofbits — 2017-11-17 18:01 UTC (2017-11-17 19:01 WAT)
+
+- URL: https://x.com/trailofbits/status/931583028501123072
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 8
+
+> Do you want to work on a project with real world impact? Are you looking for valuable industry experience? Trail of Bits offers unique (remote and paid) Winter internship opportunities: https://t.co/rfPySSHrO1
+
+
+---
+
+## 2017-11-17 · Post · Consumers should demand reliable, rapid, secure automatic updates for all internet-enabled devices t
+
+
+### Post — @trailofbits — 2017-11-17 16:18 UTC (2017-11-17 17:18 WAT)
+
+- URL: https://x.com/trailofbits/status/931557274744770560
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> Consumers should demand reliable, rapid, secure automatic updates for all internet-enabled devices they purchase. https://t.co/T0ti3EvQ3t
+
+
+---
+
+## 2017-11-09 · Post · Congratulations to this year's winners of the All-Army CyberStakes! CTFs are an excellent educationa
+
+
+### Post — @trailofbits — 2017-11-09 17:47 UTC (2017-11-09 18:47 WAT)
+
+- URL: https://x.com/trailofbits/status/928680365299990530
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> Congratulations to this year's winners of the All-Army CyberStakes! CTFs are an excellent educational tool, and we're glad to hear many competitors prepared by reviewing our CTF Field Guide. https://t.co/A5yICfBcDn
+
+
+---
+
+## 2017-11-09 · Post · How are teams currently using osquery? The first in a four part series on the current state of osque
+
+
+### Post — @trailofbits — 2017-11-09 13:13 UTC (2017-11-09 14:13 WAT)
+
+- URL: https://x.com/trailofbits/status/928611473491943424
+- Metrics (at fetch): bookmark 0, impression 0, like 42, quote 1, reply 0, retweet 25
+
+> How are teams currently using osquery? The first in a four part series on the current state of osquery: https://t.co/8JyCtS7RNc
+
+
+---
+
 ## 2017-11-07 · Post · Our @Calaquendi44 will be speaking tonight at Capital (sic) Hack in DC tonight on Hardware Side Chan
 
 
@@ -18864,6 +20022,36 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
 
 > Our @Calaquendi44 will be speaking tonight at Capital (sic) Hack in DC tonight on Hardware Side Channels. Come out and say hi!
+
+
+---
+
+## 2017-11-06 · Post · Hands on the Ethernaut CTF: Follow along with @Montyly as he solves 6 Ethereum security challenges. 
+
+
+### Post — @trailofbits — 2017-11-06 19:41 UTC (2017-11-06 20:41 WAT)
+
+- URL: https://x.com/trailofbits/status/927622070766317569
+- Metrics (at fetch): bookmark 1, impression 0, like 91, quote 0, reply 0, retweet 55
+
+> Hands on the Ethernaut CTF: Follow along with @Montyly as he solves 6 Ethereum security challenges. https://blog.trailofbits.com/2017/11/06/hands-on-the-ethernaut-ctf/
+
+**Links in post:** https://blog.trailofbits.com/2017/11/06/hands-on-the-ethernaut-ctf/
+
+
+---
+
+## 2017-11-03 · Post · "AVs aggregate a huge amount of info about their clients, which can be easily exploited when put in 
+
+
+### Post — @trailofbits — 2017-11-03 22:13 UTC (2017-11-03 23:13 WAT)
+
+- URL: https://x.com/trailofbits/status/926573000450891781
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 2, reply 1, retweet 15
+
+> "AVs aggregate a huge amount of info about their clients, which can be easily exploited when put in willing hands" https://www.reuters.com/article/us-cyber-summit-kaspersky/ceo-says-kaspersky-antivirus-software-also-takes-harmless-files-idUSKBN1D328B
+
+**Links in post:** https://www.reuters.com/article/us-cyber-summit-kaspersky/ceo-says-kaspersky-antivirus-software-also-takes-harmless-files-idUSKBN1D328B
 
 
 ---
@@ -18884,6 +20072,202 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2017-11-01 · Post · Watch "Automatic bugfinding for the blockchain" from our very own @montyly and @feliam https://www.y
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @trailofbits — 2017-11-01 20:25 UTC (2017-11-01 21:25 WAT)
+
+- URL: https://x.com/trailofbits/status/925821204488957952
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 0, retweet 4
+
+> Watch "Automatic bugfinding for the blockchain" from our very own @montyly and @feliam https://www.youtube.com/watch?v=r0cvQhBBw1w
+
+**Links in post:** https://www.youtube.com/watch?v=r0cvQhBBw1w
+
+
+---
+
+## 2017-10-26 · Post · Hear about our research, findings, and experience auditing smart contracts on Nov 14th in NYC https:
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @trailofbits — 2017-10-26 15:43 UTC (2017-10-26 16:43 WAT)
+
+- URL: https://x.com/trailofbits/status/923575797327253505
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 0
+
+> Hear about our research, findings, and experience auditing smart contracts on Nov 14th in NYC https://x.com/Blockchain4Wall/status/923557761731964929
+
+**Links in post:** https://x.com/Blockchain4Wall/status/923557761731964929
+
+**Quoted post (full text):**
+
+    #### Quoted post — @766018795827818497 — 2017-10-26 14:31 UTC (2017-10-26 15:31 WAT)
+    
+    - URL: https://x.com/766018795827818497/status/923557761731964929
+    - Metrics (at fetch): bookmark 0, impression 0, like 8, quote 2, reply 0, retweet 5
+    
+    > Honored to have @dguido of Trail of Bits join our #Blockchain4WallSt program. http://www.blockchainforwallstreet.com #security #audits #smartcontracts #DLT [pic.x.com/aRn0IvWMsH]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/DNEgmq5VwAAf6LZ.png — no alt text provided by author
+    
+    **Links in post:** http://www.blockchainforwallstreet.com
+    
+
+
+---
+
+## 2017-10-19 · Post · For those in Hacktoberfest: We offer $50, $100, and $200 bounties for contributions to _any_ of our 
+
+
+### Post — @trailofbits — 2017-10-19 21:40 UTC (2017-10-19 22:40 WAT)
+
+- URL: https://x.com/trailofbits/status/921128999484616704
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 1
+
+> For those in Hacktoberfest: We offer $50, $100, and $200 bounties for contributions to _any_ of our github repos: https://github.com/trailofbits
+
+**Links in post:** https://github.com/trailofbits
+
+
+---
+
+## 2017-10-19 · Post · Manticore 0.1.5 has been released! This release was delayed, but it was worth the wait. See the chan
+
+
+### Post — @trailofbits — 2017-10-19 21:08 UTC (2017-10-19 22:08 WAT)
+
+- URL: https://x.com/trailofbits/status/921120939705864192
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 1, reply 1, retweet 14
+
+> Manticore 0.1.5 has been released! This release was delayed, but it was worth the wait. See the changelog:  https://github.com/trailofbits/manticore/blob/master/CHANGELOG.md#015---2017-10-19
+
+**Links in post:** https://github.com/trailofbits/manticore/blob/master/CHANGELOG.md#015---2017-10-19
+
+
+---
+
+## 2017-10-19 · Post · Trail of Bits joins the Enterprise Ethereum Alliance http://blog.trailofbits.com/2017/10/19/trail-of
+
+
+### Post — @trailofbits — 2017-10-19 11:51 UTC (2017-10-19 12:51 WAT)
+
+- URL: https://x.com/trailofbits/status/920980625347301378
+- Metrics (at fetch): bookmark 0, impression 0, like 15, quote 2, reply 0, retweet 13
+
+> Trail of Bits joins the Enterprise Ethereum Alliance http://blog.trailofbits.com/2017/10/19/trail-of-bits-joins-the-enterprise-ethereum-alliance/ [pic.x.com/jjoMZBZYqz]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DMf6_zgVAAITyKO.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2017/10/19/trail-of-bits-joins-the-enterprise-ethereum-alliance/
+
+
+---
+
+## 2017-10-16 · Post · Authenticode verification support for Windows was merged into osquery! 🎉 https://github.com/facebook
+
+
+### Post — @trailofbits — 2017-10-16 21:26 UTC (2017-10-16 22:26 WAT)
+
+- URL: https://x.com/trailofbits/status/920038233685229569
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 2
+
+> Authenticode verification support for Windows was merged into osquery! 🎉 https://github.com/facebook/osquery/pull/3716
+
+**Links in post:** https://github.com/facebook/osquery/pull/3716
+
+
+---
+
+## 2017-10-16 · Post · For anyone that uses our pe-parse library, please review the new PR from @alessandrogario. Thanks! h
+
+
+### Post — @trailofbits — 2017-10-16 19:58 UTC (2017-10-16 20:58 WAT)
+
+- URL: https://x.com/trailofbits/status/920016205049663489
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 1
+
+> For anyone that uses our pe-parse library, please review the new PR from @alessandrogario. Thanks! https://github.com/trailofbits/pe-parse/pull/56
+
+**Links in post:** https://github.com/trailofbits/pe-parse/pull/56
+
+
+---
+
+## 2017-10-16 · Post · Our team is growing. Welcome to Trail of Bits @luckycevans, @fristle, @teitelguy, @ESultanik, and @a
+
+
+### Post — @trailofbits — 2017-10-16 14:48 UTC (2017-10-16 15:48 WAT)
+
+- URL: https://x.com/trailofbits/status/919938213564833792
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 1, reply 0, retweet 4
+
+> Our team is growing. Welcome to Trail of Bits @luckycevans, @fristle, @teitelguy, @ESultanik, and @alessandrogario! https://blog.trailofbits.com/2017/10/16/our-team-is-growing/
+
+**Links in post:** https://blog.trailofbits.com/2017/10/16/our-team-is-growing/
+
+
+---
+
+## 2017-10-12 · Post · iOS jailbreak detection toolkit now available http://blog.trailofbits.com/2017/10/12/ios-jailbreak-d
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @trailofbits — 2017-10-12 11:50 UTC (2017-10-12 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/918443762816299008
+- Metrics (at fetch): bookmark 0, impression 0, like 35, quote 1, reply 1, retweet 17
+
+> iOS jailbreak detection toolkit now available http://blog.trailofbits.com/2017/10/12/ios-jailbreak-detection-toolkit-now-available/ [pic.x.com/WYKWh2oc1B]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DL73u-MU8AA2Gd1.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2017/10/12/ios-jailbreak-detection-toolkit-now-available/
+
+
+---
+
+## 2017-10-10 · Post · Tracking a stolen code-signing certificate with osquery http://blog.trailofbits.com/2017/10/10/track
+
+
+### Post — @trailofbits — 2017-10-10 12:53 UTC (2017-10-10 13:53 WAT)
+
+- URL: https://x.com/trailofbits/status/917734881056247810
+- Metrics (at fetch): bookmark 1, impression 0, like 92, quote 3, reply 0, retweet 64
+
+> Tracking a stolen code-signing certificate with osquery http://blog.trailofbits.com/2017/10/10/tracking-a-stolen-code-signing-certificate-with-osquery/ [pic.x.com/6RHb0E5KF8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DLxzAl1VYAAV7Pg.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2017/10/10/tracking-a-stolen-code-signing-certificate-with-osquery/
+
+
+---
+
+## 2017-09-28 · Post · We have a packed conference schedule this winter. Catch us at any of these fine events:
+
+
+### Post — @trailofbits — 2017-09-28 21:30 UTC (2017-09-28 22:30 WAT)
+
+- URL: https://x.com/trailofbits/status/913516339922432000
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 2, retweet 2
+
+> We have a packed conference schedule this winter. Catch us at any of these fine events:
+
+
+---
+
 ## 2017-09-22 · Post · The SEC EDGAR hack simply reflects the status quo of our digital security. https://t.co/1RV9sKowjO
 
 
@@ -18897,6 +20281,494 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2017-09-21 · Post · Our intern Gustavo Grieco had his QuickFuzz paper accepted to Journal of System and Software. And it
+
+
+### Post — @trailofbits — 2017-09-21 21:17 UTC (2017-09-21 22:17 WAT)
+
+- URL: https://x.com/trailofbits/status/910976252269535233
+- Metrics (at fetch): bookmark 0, impression 0, like 28, quote 0, reply 0, retweet 4
+
+> Our intern Gustavo Grieco had his QuickFuzz paper accepted to Journal of System and Software. And its his Birthday 🎂 https://dcc.fceia.unr.edu.ar/~ggrieco/QuickFuzz.pdf
+
+**Links in post:** https://dcc.fceia.unr.edu.ar/~ggrieco/QuickFuzz.pdf
+
+
+---
+
+## 2017-09-21 · Post · Congratulations to our @Calaquendi44 for getting her side-channel paper accepted to ROOTS2017! http:
+
+
+### Post — @trailofbits — 2017-09-21 15:52 UTC (2017-09-21 16:52 WAT)
+
+- URL: https://x.com/trailofbits/status/910894586276564992
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 0, reply 0, retweet 4
+
+> Congratulations to our @Calaquendi44 for getting her side-channel paper accepted to ROOTS2017! http://www.roots-eu.org/index.html
+
+**Links in post:** http://www.roots-eu.org/index.html
+
+
+---
+
+## 2017-09-19 · Post · Use McSema's 'remill_semantics' branch for Binary Ninja-based CFG recovery from @krx__ https://githu
+
+
+### Post — @trailofbits — 2017-09-19 15:20 UTC (2017-09-19 16:20 WAT)
+
+- URL: https://x.com/trailofbits/status/910161656201777153
+- Metrics (at fetch): bookmark 0, impression 0, like 25, quote 0, reply 0, retweet 11
+
+> Use McSema's 'remill_semantics' branch for Binary Ninja-based CFG recovery from @krx__ https://github.com/trailofbits/mcsema/pull/297
+
+**Links in post:** https://github.com/trailofbits/mcsema/pull/297
+
+
+---
+
+## 2017-09-11 · Post · See @feliam and Josselin Feist present "Automatic bugfinding for the blockchain" at @ekoparty https:
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @trailofbits — 2017-09-11 17:34 UTC (2017-09-11 18:34 WAT)
+
+- URL: https://x.com/trailofbits/status/907296302848991233
+- Metrics (at fetch): bookmark 0, impression 0, like 27, quote 0, reply 0, retweet 11
+
+> See @feliam and Josselin Feist present "Automatic bugfinding for the blockchain" at @ekoparty https://www.ekoparty.org/charla.php?id=808
+
+**Links in post:** https://www.ekoparty.org/charla.php?id=808
+
+
+---
+
+## 2017-09-08 · Post · Skip the credit monitoring and setup a credit freeze. Oh, and call your rep and ask for fines. equi
+
+
+### Post — @trailofbits — 2017-09-08 16:44 UTC (2017-09-08 17:44 WAT)
+
+- URL: https://x.com/trailofbits/status/906196532084563973
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 1, reply 0, retweet 1
+
+> Skip the credit monitoring and setup a credit freeze. Oh, and call your rep and ask for fines. #equifax https://www.consumerreports.org/privacy/what-consumers-need-to-know-about-the-equifax-data-breach/
+
+**Links in post:** https://www.consumerreports.org/privacy/what-consumers-need-to-know-about-the-equifax-data-breach/
+
+
+---
+
+## 2017-08-29 · Post · Our binary lifter development has progressed far enough that we're discovering bugs in the Intel man
+
+
+### Post — @trailofbits — 2017-08-29 17:27 UTC (2017-08-29 18:27 WAT)
+
+- URL: https://x.com/trailofbits/status/902583402481803264
+- Metrics (at fetch): bookmark 0, impression 0, like 22, quote 0, reply 0, retweet 5
+
+> Our binary lifter development has progressed far enough that we're discovering bugs in the Intel manuals now https://github.com/intelxed/xed/issues/66#issuecomment-325717477
+
+**Links in post:** https://github.com/intelxed/xed/issues/66#issuecomment-325717477
+
+
+---
+
+## 2017-08-18 · Post · We're proud of our contributions to cybersecurity policy. https://www.trailofbits.com/research-and-d
+
+
+### Post — @trailofbits — 2017-08-18 21:03 UTC (2017-08-18 22:03 WAT)
+
+- URL: https://x.com/trailofbits/status/898651659802464259
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> We're proud of our contributions to cybersecurity policy. https://www.trailofbits.com/research-and-development/cybersecurity-policy/
+
+**Links in post:** https://www.trailofbits.com/research-and-development/cybersecurity-policy/
+
+
+---
+
+## 2017-08-18 · Post · New today: Manticore 0.1.4 includes significant API improvements, support for symbolic files, and ex
+
+
+### Post — @trailofbits — 2017-08-18 18:15 UTC (2017-08-18 19:15 WAT)
+
+- URL: https://x.com/trailofbits/status/898609425182633984
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 0, reply 1, retweet 13
+
+> New today: Manticore 0.1.4 includes significant API improvements, support for symbolic files, and experimental Binary Ninja IL emulation!
+
+
+---
+
+## 2017-08-16 · Post · AppJailLauncher in the wild! We always enjoy seeing CTF challenges that others write with it. https:
+
+
+### Post — @trailofbits — 2017-08-16 01:05 UTC (2017-08-16 02:05 WAT)
+
+- URL: https://x.com/trailofbits/status/897625307011829762
+- Metrics (at fetch): bookmark 1, impression 0, like 5, quote 0, reply 0, retweet 1
+
+> AppJailLauncher in the wild! We always enjoy seeing CTF challenges that others write with it. https://github.com/leetchicken/belluminar/tree/master/100percent
+
+**Links in post:** https://github.com/leetchicken/belluminar/tree/master/100percent
+
+
+---
+
+## 2017-08-08 · Post · Infiltrate is always a blast, and we're happy to sponsor it. Read more about why here: https://blog.
+
+
+### Post — @trailofbits — 2017-08-08 17:46 UTC (2017-08-08 18:46 WAT)
+
+- URL: https://x.com/trailofbits/status/894978178007126016
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 2
+
+> Infiltrate is always a blast, and we're happy to sponsor it. Read more about why here: https://blog.trailofbits.com/2017/03/23/april-means-infiltrate/ https://x.com/InfiltrateCon/status/894916355065098244
+
+**Links in post:** https://blog.trailofbits.com/2017/03/23/april-means-infiltrate/, https://x.com/InfiltrateCon/status/894916355065098244
+
+**Quoted post (full text):**
+
+    #### Quoted post — @226628271 — 2017-08-08 13:41 UTC (2017-08-08 14:41 WAT)
+    
+    - URL: https://x.com/226628271/status/894916355065098244
+    - Metrics (at fetch): bookmark 0, impression 0, like 6, quote 3, reply 0, retweet 1
+    
+    > We are excited to have our friends at @trailofbits back as an INFILTRATE 2018 sponsor! Join us on the offensive side
+    > https://www.infiltratecon.com/sponsors/ [pic.x.com/11Qgm6PyDw]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/DGtg3GwU0AApDsi.jpg — no alt text provided by author
+    
+    **Links in post:** https://www.infiltratecon.com/sponsors/
+    
+
+
+---
+
+## 2017-08-02 · Post · Amazon is fully justified removing Blu phones from their marketplace for their serious privacy trans
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @trailofbits — 2017-08-02 19:14 UTC (2017-08-02 20:14 WAT)
+
+- URL: https://x.com/trailofbits/status/892826072462569473
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 2
+
+> Amazon is fully justified removing Blu phones from their marketplace for their serious privacy transgressions. https://arstechnica.com/information-technology/2017/08/citing-privacy-threats-amazon-stops-selling-some-android-phones-from-blu/
+
+**Links in post:** https://arstechnica.com/information-technology/2017/08/citing-privacy-threats-amazon-stops-selling-some-android-phones-from-blu/
+
+
+---
+
+## 2017-08-02 · Post · Microsoft didn’t sandbox Windows Defender, so I did http://blog.trailofbits.com/2017/08/02/microsoft
+
+
+### Post — @trailofbits — 2017-08-02 10:51 UTC (2017-08-02 11:51 WAT)
+
+- URL: https://x.com/trailofbits/status/892699270129889280
+- Metrics (at fetch): bookmark 2, impression 0, like 288, quote 12, reply 5, retweet 206
+
+> Microsoft didn’t sandbox Windows Defender, so I did http://blog.trailofbits.com/2017/08/02/microsoft-didnt-sandbox-windows-defender-so-i-did/ [pic.x.com/HlGHT8YAfd]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/DGOBQIOVwAAFOQH.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2017/08/02/microsoft-didnt-sandbox-windows-defender-so-i-did/
+
+
+---
+
+## 2017-07-31 · Post · Congratulations to @japesinator and @incertia for creating the first known quantum crypto backdoor! 
+
+
+### Post — @trailofbits — 2017-07-31 23:51 UTC (2017-08-01 00:51 WAT)
+
+- URL: https://x.com/trailofbits/status/892170764358742016
+- Metrics (at fetch): bookmark 0, impression 0, like 25, quote 2, reply 0, retweet 21
+
+> Congratulations to @japesinator and @incertia for creating the first known quantum crypto backdoor! https://underhandedcrypto.com/2017/07/31/2017-winner-jp-smith-and-will-song/
+
+**Links in post:** https://underhandedcrypto.com/2017/07/31/2017-winner-jp-smith-and-will-song/
+
+
+---
+
+## 2017-07-30 · Post · DEF CON CTF needed an extra _bit_ of work this year. Here's how we handled the cLEMENCy architecture
+
+
+### Post — @trailofbits — 2017-07-30 22:42 UTC (2017-07-30 23:42 WAT)
+
+- URL: https://x.com/trailofbits/status/891791164726226945
+- Metrics (at fetch): bookmark 0, impression 0, like 151, quote 6, reply 1, retweet 105
+
+> DEF CON CTF needed an extra _bit_ of work this year. Here's how we handled the cLEMENCy architecture: https://blog.trailofbits.com/2017/07/30/an-extra-bit-of-analysis-for-clemency/
+
+**Links in post:** https://blog.trailofbits.com/2017/07/30/an-extra-bit-of-analysis-for-clemency/
+
+
+---
+
+## 2017-07-24 · Post · One of the more interesting projects we worked on lately. Congrats on the release @GitHubSecurity @m
+
+
+### Post — @trailofbits — 2017-07-24 18:33 UTC (2017-07-24 19:33 WAT)
+
+- URL: https://x.com/trailofbits/status/889554203013783555
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 1, reply 0, retweet 5
+
+> One of the more interesting projects we worked on lately. Congrats on the release @GitHubSecurity @mastahyeti! https://x.com/GitHubSecurity/status/889547184168763392
+
+**Links in post:** https://x.com/GitHubSecurity/status/889547184168763392
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1602746592 — 2017-07-24 18:05 UTC (2017-07-24 19:05 WAT)
+    
+    - URL: https://x.com/1602746592/status/889547184168763392
+    - Metrics (at fetch): bookmark 0, impression 0, like 146, quote 10, reply 0, retweet 101
+    
+    > In an effort to increase the adoption of FIDO U2F, we’re releasing Soft U2F: a software-based U2F option for macOS https://githubengineering.com/soft-u2f/
+    
+    **Links in post:** https://githubengineering.com/soft-u2f/
+    
+
+
+---
+
+## 2017-07-18 · Post · The challenge sets now fully support Windows thanks to @krx__! Now supported on Win, Linux, and macO
+
+
+### Post — @trailofbits — 2017-07-18 16:38 UTC (2017-07-18 17:38 WAT)
+
+- URL: https://x.com/trailofbits/status/887350966265294848
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 1, reply 0, retweet 6
+
+> The challenge sets now fully support Windows thanks to @krx__! Now supported on Win, Linux, and macOS. https://github.com/trailofbits/cb-multios
+
+**Links in post:** https://github.com/trailofbits/cb-multios
+
+
+---
+
+## 2017-07-15 · Post · Manticore 0.1.3 is out! Grab a fresh copy for your weekend hacks. https://github.com/trailofbits/man
+
+
+### Post — @trailofbits — 2017-07-15 00:28 UTC (2017-07-15 01:28 WAT)
+
+- URL: https://x.com/trailofbits/status/886019636386570241
+- Metrics (at fetch): bookmark 0, impression 0, like 41, quote 0, reply 0, retweet 20
+
+> Manticore 0.1.3 is out! Grab a fresh copy for your weekend hacks. https://github.com/trailofbits/manticore/blob/master/CHANGELOG.md
+
+**Links in post:** https://github.com/trailofbits/manticore/blob/master/CHANGELOG.md
+
+
+---
+
+## 2017-07-12 · Post · Manticore can now serialize its state in memory with Redis. It's way faster! https://github.com/trai
+
+
+### Post — @trailofbits — 2017-07-12 21:59 UTC (2017-07-12 22:59 WAT)
+
+- URL: https://x.com/trailofbits/status/885257412072157184
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 0, retweet 6
+
+> Manticore can now serialize its state in memory with Redis. It's way faster! https://github.com/trailofbits/manticore/pull/376
+
+**Links in post:** https://github.com/trailofbits/manticore/pull/376
+
+
+---
+
+## 2017-07-12 · Post · Manticore will soon integrate Symbolic Execution into Binary Ninja! Follow along on the BinjaIL bran
+
+
+### Post — @trailofbits — 2017-07-12 17:45 UTC (2017-07-12 18:45 WAT)
+
+- URL: https://x.com/trailofbits/status/885193533228855296
+- Metrics (at fetch): bookmark 0, impression 0, like 94, quote 0, reply 1, retweet 49
+
+> Manticore will soon integrate Symbolic Execution into Binary Ninja! Follow along on the BinjaIL branch here: https://github.com/trailofbits/manticore/tree/dev-binjail
+
+**Links in post:** https://github.com/trailofbits/manticore/tree/dev-binjail
+
+
+---
+
+## 2017-07-05 · Post · Join us for talks on symbolic execution and security engineering: McLean, VA, July 11th, 4:30-7:30
+
+
+### Post — @trailofbits — 2017-07-05 19:30 UTC (2017-07-05 20:30 WAT)
+
+- URL: https://x.com/trailofbits/status/882683125586948097
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 1, retweet 0
+
+> Join us for talks on symbolic execution and security engineering: McLean, VA, July 11th, 4:30-7:30
+> For full details email: LJT@praxiseng.com
+
+
+---
+
+## 2017-06-16 · Post · *fingers crossed* our latest Manticore release works for GoogleCTF this weekend. GLHF! https://ctft
+
+
+### Post — @trailofbits — 2017-06-16 22:44 UTC (2017-06-16 23:44 WAT)
+
+- URL: https://x.com/trailofbits/status/875846513251016704
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 1, reply 0, retweet 1
+
+> *fingers crossed* our latest Manticore release works for #GoogleCTF this weekend. GLHF! https://ctftime.org/event/455 https://x.com/trailofbits/status/875767295028719618
+
+**Links in post:** https://ctftime.org/event/455, https://x.com/trailofbits/status/875767295028719618
+
+**Quoted post (full text):**
+
+    #### Quoted post — @trailofbits — 2017-06-16 17:29 UTC (2017-06-16 18:29 WAT)
+    
+    - URL: https://x.com/trailofbits/status/875767295028719618
+    - Metrics (at fetch): bookmark 0, impression 0, like 61, quote 2, reply 2, retweet 32
+    
+    > Manticore 0.1.2 has been released!  Check out the new features and bugfixes in our changelog: https://github.com/trailofbits/manticore/pull/306/files [pic.x.com/JSWJlIyaTt]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/DCdZrCtXcAI4Ecj.jpg — no alt text provided by author
+    
+    **Links in post:** https://github.com/trailofbits/manticore/pull/306/files
+    
+
+
+---
+
+## 2017-06-16 · Post · Manticore 0.1.2 has been released!  Check out the new features and bugfixes in our changelog: https:
+
+
+### Post — @trailofbits — 2017-06-16 17:29 UTC (2017-06-16 18:29 WAT)
+
+- URL: https://x.com/trailofbits/status/875767295028719618
+- Metrics (at fetch): bookmark 0, impression 0, like 61, quote 2, reply 2, retweet 32
+
+> Manticore 0.1.2 has been released!  Check out the new features and bugfixes in our changelog: https://github.com/trailofbits/manticore/pull/306/files [pic.x.com/JSWJlIyaTt]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DCdZrCtXcAI4Ecj.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/trailofbits/manticore/pull/306/files
+
+
+---
+
+## 2017-06-09 · Post · We're proud sponsors of the International Summer School on
+
+
+### Post — @trailofbits — 2017-06-09 18:46 UTC (2017-06-09 19:46 WAT)
+
+- URL: https://x.com/trailofbits/status/873249944500658176
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 2, retweet 2
+
+> We're proud sponsors of the International Summer School on
+> Information Security and Protection (ISSISP) https://issisp2017.github.io/
+
+**Links in post:** https://issisp2017.github.io/
+
+
+---
+
+## 2017-05-26 · Post · Impact Podcast: The Problem with the Tor Network and Commercial VPNs with @dguido https://georgianpa
+
+
+### Post — @trailofbits — 2017-05-26 16:53 UTC (2017-05-26 17:53 WAT)
+
+- URL: https://x.com/trailofbits/status/868147995627401220
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 2, reply 1, retweet 0
+
+> Impact Podcast: The Problem with the Tor Network and Commercial VPNs with @dguido https://georgianpartners.com/the-problem-with-the-tor-network-and-commercial-vpns/
+
+**Links in post:** https://georgianpartners.com/the-problem-with-the-tor-network-and-commercial-vpns/
+
+
+---
+
+## 2017-05-22 · Post · Join us if you're interested in working on mcsema, Manticore, osquery, or other C++ projects full-ti
+
+
+### Post — @trailofbits — 2017-05-22 21:57 UTC (2017-05-22 22:57 WAT)
+
+- URL: https://x.com/trailofbits/status/866775130046955520
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 1
+
+> Join us if you're interested in working on mcsema, Manticore, osquery, or other C++ projects full-time https://x.com/dguido/status/845709912588062723
+
+**Links in post:** https://x.com/dguido/status/845709912588062723
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14290525 — 2017-03-25 18:52 UTC (2017-03-25 19:52 WAT)
+    
+    - URL: https://x.com/14290525/status/845709912588062723
+    - Metrics (at fetch): bookmark 0, impression 0, like 34, quote 2, reply 3, retweet 15
+    
+    > If you're a security consultant that wants more software development in your life, apply to @trailofbits https://www.trailofbits.com/forms/wufoo-joinus/index.html
+    
+    **Links in post:** https://www.trailofbits.com/forms/wufoo-joinus/index.html
+    
+
+
+---
+
+## 2017-05-15 · Post · Join us in the future and take the Manticore challenge! https://x.com/trailofbits/status/86408556600
+
+
+### Post — @trailofbits — 2017-05-15 13:04 UTC (2017-05-15 14:04 WAT)
+
+- URL: https://x.com/trailofbits/status/864104241723518977
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 1, reply 1, retweet 10
+
+> Join us in the future and take the Manticore challenge! https://x.com/trailofbits/status/864085566006099969
+
+**Links in post:** https://x.com/trailofbits/status/864085566006099969
+
+**Quoted post (full text):**
+
+    #### Quoted post — @trailofbits — 2017-05-15 11:50 UTC (2017-05-15 12:50 WAT)
+    
+    - URL: https://x.com/trailofbits/status/864085566006099969
+    - Metrics (at fetch): bookmark 0, impression 0, like 176, quote 5, reply 0, retweet 88
+    
+    > Reverse engineer 200 binaries with the mechanical efficiency of symbolic execution http://blog.trailofbits.com/2017/05/15/magic-with-manticore/ [pic.x.com/ESGwAQgMpf]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/C_3ZPckUIAAVeSj.jpg — no alt text provided by author
+    
+    **Links in post:** http://blog.trailofbits.com/2017/05/15/magic-with-manticore/
+    
+
+
+---
+
+## 2017-05-15 · Post · Reverse engineer 200 binaries with the mechanical efficiency of symbolic execution http://blog.trail
+
+
+### Post — @trailofbits — 2017-05-15 11:50 UTC (2017-05-15 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/864085566006099969
+- Metrics (at fetch): bookmark 0, impression 0, like 176, quote 5, reply 0, retweet 88
+
+> Reverse engineer 200 binaries with the mechanical efficiency of symbolic execution http://blog.trailofbits.com/2017/05/15/magic-with-manticore/ [pic.x.com/ESGwAQgMpf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C_3ZPckUIAAVeSj.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2017/05/15/magic-with-manticore/
+
+
+---
+
 ## 2017-05-09 · Post · Take a whirlwind tour of next-level static analyses for bug hunting with @Calaquendi44 in this @Infi
 
 
@@ -18906,6 +20778,725 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - Metrics (at fetch): bookmark 0, impression 0, like 25, quote 0, reply 0, retweet 15
 
 > Take a whirlwind tour of next-level static analyses for bug hunting with @Calaquendi44 in this @InfiltrateCon video https://t.co/rxyvq4CPrv
+
+
+---
+
+## 2017-04-28 · Post · Our friends at UIUC / SIGPwny are starting their CTF at 7pm tonight. Get more info here: http://uiuc
+
+
+### Post — @trailofbits — 2017-04-28 20:17 UTC (2017-04-28 21:17 WAT)
+
+- URL: https://x.com/trailofbits/status/858052607151046657
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 1, reply 1, retweet 5
+
+> Our friends at UIUC / SIGPwny are starting their CTF at 7pm tonight. Get more info here: http://uiuc.tf/contests/uiuctf-starts-at-7-pm/
+
+**Links in post:** http://uiuc.tf/contests/uiuctf-starts-at-7-pm/
+
+
+---
+
+## 2017-04-28 · Post · "We shouldn't highlight the work of a few underrepresented ppl now and then, it should be in our eve
+
+
+### Post — @trailofbits — 2017-04-28 17:57 UTC (2017-04-28 18:57 WAT)
+
+- URL: https://x.com/trailofbits/status/858017278641807360
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 4
+
+> "We shouldn't highlight the work of a few underrepresented ppl now and then, it should be in our everyday reporting" https://motherboard.vice.com/en_us/article/the-young-hackers-who-will-shape-the-world-deserve-more-than-our-lists
+
+**Links in post:** https://motherboard.vice.com/en_us/article/the-young-hackers-who-will-shape-the-world-deserve-more-than-our-lists
+
+
+---
+
+## 2017-04-27 · Post · Get your 2017 DBIR! https://x.com/VZDBIR/status/857546243848929280
+
+
+### Post — @trailofbits — 2017-04-27 22:15 UTC (2017-04-27 23:15 WAT)
+
+- URL: https://x.com/trailofbits/status/857719871819448320
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 1, reply 0, retweet 1
+
+> Get your 2017 DBIR! https://x.com/VZDBIR/status/857546243848929280
+
+**Links in post:** https://x.com/VZDBIR/status/857546243848929280
+
+
+---
+
+## 2017-04-27 · Post · We're part of a expert team providing security guidance to Lockheed Martin's portfolio of aeronautic
+
+
+### Post — @trailofbits — 2017-04-27 14:40 UTC (2017-04-27 15:40 WAT)
+
+- URL: https://x.com/trailofbits/status/857605412555812866
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 1, reply 0, retweet 4
+
+> We're part of a expert team providing security guidance to Lockheed Martin's portfolio of aeronautics projects http://news.lockheedmartin.com/2017-04-27-Lockheed-Martin-Contracts-Guardtime-Federal-for-Innovative-Cyber-Technology
+
+**Links in post:** http://news.lockheedmartin.com/2017-04-27-Lockheed-Martin-Contracts-Guardtime-Federal-for-Innovative-Cyber-Technology
+
+
+---
+
+## 2017-04-27 · Post · Manticore: Symbolic execution for humans http://blog.trailofbits.com/2017/04/27/manticore-symbolic-e
+
+
+### Post — @trailofbits — 2017-04-27 11:50 UTC (2017-04-27 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/857562708807471104
+- Metrics (at fetch): bookmark 0, impression 0, like 26, quote 0, reply 0, retweet 20
+
+> Manticore: Symbolic execution for humans http://blog.trailofbits.com/2017/04/27/manticore-symbolic-execution-for-humans
+
+**Links in post:** http://blog.trailofbits.com/2017/04/27/manticore-symbolic-execution-for-humans
+
+
+---
+
+## 2017-04-25 · Post · We'll have a blog on Manticore this week. Check out the wiki if you want a headstart. Note: Bounties
+
+
+### Post — @trailofbits — 2017-04-25 16:17 UTC (2017-04-25 17:17 WAT)
+
+- URL: https://x.com/trailofbits/status/856904927825850368
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 1, retweet 5
+
+> We'll have a blog on Manticore this week. Check out the wiki if you want a headstart. Note: Bounties are available! https://github.com/trailofbits/manticore/wiki
+
+**Links in post:** https://github.com/trailofbits/manticore/wiki
+
+
+---
+
+## 2017-04-25 · Post · Thanks @jvanegue! The real MVPs are @yan @markmossberg @feliam and @japesinator https://x.com/jvaneg
+
+
+### Post — @trailofbits — 2017-04-25 16:13 UTC (2017-04-25 17:13 WAT)
+
+- URL: https://x.com/trailofbits/status/856904114315329538
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> Thanks @jvanegue! The real MVPs are @yan @markmossberg @feliam and @japesinator https://x.com/jvanegue/status/856717260836265985
+
+**Links in post:** https://x.com/jvanegue/status/856717260836265985
+
+**Quoted post (full text):**
+
+    #### Quoted post — @138098380 — 2017-04-25 03:51 UTC (2017-04-25 04:51 WAT)
+    
+    - URL: https://x.com/138098380/status/856717260836265985
+    - Metrics (at fetch): bookmark 0, impression 0, like 13, quote 1, reply 0, retweet 5
+    
+    > Total preps to @dguido @alexsotirov and the whole ToB team for releasing many of their useful program analysis tools as open source https://x.com/moyix/status/856569030567743488
+    
+    **Links in post:** https://x.com/moyix/status/856569030567743488
+    
+    **Quoted post** 856569030567743488: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2017-04-25 · Post · Thanks @MurmusCTF and @Eric_Hennenfent for your work with Manticore! (seek to 1h23m for the meat of 
+
+
+### Post — @trailofbits — 2017-04-25 16:13 UTC (2017-04-25 17:13 WAT)
+
+- URL: https://x.com/trailofbits/status/856903921381650434
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 2
+
+> Thanks @MurmusCTF and @Eric_Hennenfent for your work with Manticore! (seek to 1h23m for the meat of it) https://x.com/japesinator/status/856698038273880065
+
+**Links in post:** https://x.com/japesinator/status/856698038273880065
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2800929940 — 2017-04-25 02:35 UTC (2017-04-25 03:35 WAT)
+    
+    - URL: https://x.com/2800929940/status/856698038273880065
+    - Metrics (at fetch): bookmark 0, impression 0, like 3, quote 1, reply 1, retweet 0
+    
+    > .@MurmusCTF is somehow already streaming manticore! Bonus points for shouting out @Eric_Hennenfent's awesome writeup
+    > https://www.youtube.com/watch?v=wiu3chCngO0
+    
+    **Links in post:** https://www.youtube.com/watch?v=wiu3chCngO0
+    
+
+
+---
+
+## 2017-04-25 · Post · We come up with good projects for our interns :-D https://x.com/japesinator/status/85654341024892928
+
+
+### Post — @trailofbits — 2017-04-25 16:11 UTC (2017-04-25 17:11 WAT)
+
+- URL: https://x.com/trailofbits/status/856903539427348480
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 1
+
+> We come up with good projects for our interns :-D https://x.com/japesinator/status/856543410248929280
+
+**Links in post:** https://x.com/japesinator/status/856543410248929280
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2800929940 — 2017-04-24 16:20 UTC (2017-04-24 17:20 WAT)
+    
+    - URL: https://x.com/2800929940/status/856543410248929280
+    - Metrics (at fetch): bookmark 0, impression 0, like 102, quote 3, reply 3, retweet 56
+    
+    > I've been working on https://github.com/trailofbits/manticore for the past several months, and it just went open source! You should go hack stuff with it
+    
+    **Links in post:** https://github.com/trailofbits/manticore
+    
+
+
+---
+
+## 2017-04-25 · Post · There is lots of valuable info in academic pubs if you know where to look. Thanks for the shoutout @
+
+
+### Post — @trailofbits — 2017-04-25 15:03 UTC (2017-04-25 16:03 WAT)
+
+- URL: https://x.com/trailofbits/status/856886281955160065
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> There is lots of valuable info in academic pubs if you know where to look. Thanks for the shoutout @matspisak! https://x.com/malwareunicorn/status/856879831077629954
+
+**Links in post:** https://x.com/malwareunicorn/status/856879831077629954
+
+**Quoted post** 856879831077629954: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2017-04-14 · Post · A walk down memory lane http://blog.trailofbits.com/2017/04/14/a-walk-down-memory-lane [pic.x.com/4N
+
+
+### Post — @trailofbits — 2017-04-14 10:50 UTC (2017-04-14 11:50 WAT)
+
+- URL: https://x.com/trailofbits/status/852836547518881793
+- Metrics (at fetch): bookmark 0, impression 0, like 24, quote 0, reply 0, retweet 10
+
+> A walk down memory lane http://blog.trailofbits.com/2017/04/14/a-walk-down-memory-lane [pic.x.com/4NQCYU00OP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C9XiUZgVoAADKfK.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2017/04/14/a-walk-down-memory-lane
+
+
+---
+
+## 2017-04-13 · Post · It begins! ARM support for McSema is coming. Follow along here: https://github.com/trailofbits/mcsem
+
+
+### Post — @trailofbits — 2017-04-13 16:20 UTC (2017-04-13 17:20 WAT)
+
+- URL: https://x.com/trailofbits/status/852557026576265217
+- Metrics (at fetch): bookmark 0, impression 0, like 42, quote 0, reply 0, retweet 22
+
+> It begins! ARM support for McSema is coming. Follow along here: https://github.com/trailofbits/mcsema/milestone/2
+
+**Links in post:** https://github.com/trailofbits/mcsema/milestone/2
+
+
+---
+
+## 2017-04-12 · Post · We sponsor a select few CTF competitions each year, and our most recent is UIUCTF! April 29-30, more
+
+
+### Post — @trailofbits — 2017-04-12 22:39 UTC (2017-04-12 23:39 WAT)
+
+- URL: https://x.com/trailofbits/status/852290078017806337
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 4
+
+> We sponsor a select few CTF competitions each year, and our most recent is UIUCTF! April 29-30, more details here: https://ctftime.org/event/453
+
+**Links in post:** https://ctftime.org/event/453
+
+
+---
+
+## 2017-04-11 · Post · Trail of Bits has always been ahead of the curve: we've been telling our employees to avoid United f
+
+
+### Post — @trailofbits — 2017-04-11 15:35 UTC (2017-04-11 16:35 WAT)
+
+- URL: https://x.com/trailofbits/status/851821059980623872
+- Metrics (at fetch): bookmark 0, impression 0, like 21, quote 0, reply 0, retweet 8
+
+> Trail of Bits has always been ahead of the curve: we've been telling our employees to avoid United for 3 years now! https://x.com/FilmCow/status/851456888684376069 [pic.x.com/kYjXKOx4wS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C9JGu20XcAEsaCH.jpg — no alt text provided by author
+
+**Links in post:** https://x.com/FilmCow/status/851456888684376069
+
+**Quoted post (full text):**
+
+    #### Quoted post — @50331143 — 2017-04-10 15:28 UTC (2017-04-10 16:28 WAT)
+    
+    - URL: https://x.com/50331143/status/851456888684376069
+    - Metrics (at fetch): bookmark 1, impression 0, like 11989, quote 154, reply 73, retweet 4749
+    
+    > I think @united needs a new PR team. [pic.x.com/I1MsGyLizx]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/C9D7hqLXsAAqp8e.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2017-04-09 · Post · McSema is getting a GUI! We're looking for review on this PR. https://github.com/trailofbits/mcsema/
+
+
+### Post — @trailofbits — 2017-04-09 15:33 UTC (2017-04-09 16:33 WAT)
+
+- URL: https://x.com/trailofbits/status/851095739094765568
+- Metrics (at fetch): bookmark 0, impression 0, like 15, quote 0, reply 0, retweet 4
+
+> McSema is getting a GUI! We're looking for review on this PR. https://github.com/trailofbits/mcsema/pull/231 Thanks @alessandrogario!
+
+**Links in post:** https://github.com/trailofbits/mcsema/pull/231
+
+
+---
+
+## 2017-04-08 · Post · Thanks to those who gave us feedback about Manticore this weekend! Chat with the devs here: https://
+
+
+### Post — @trailofbits — 2017-04-08 18:15 UTC (2017-04-08 19:15 WAT)
+
+- URL: https://x.com/trailofbits/status/850774037949296644
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 1
+
+> Thanks to those who gave us feedback about Manticore this weekend! Chat with the devs here: https://empireslacking.herokuapp.com #youkillityoueatit
+
+**Links in post:** https://empireslacking.herokuapp.com
+
+
+---
+
+## 2017-04-07 · Post · .@withzombies and @computerality of Trail of Bits win the NOP... certification? Great game everyone!
+
+
+### Post — @trailofbits — 2017-04-07 21:35 UTC (2017-04-07 22:35 WAT)
+
+- URL: https://x.com/trailofbits/status/850462076627808257
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> .@withzombies and @computerality of Trail of Bits win the NOP... certification? Great game everyone! [pic.x.com/B2yhopxFaA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C81yuosXUAEavZp.jpg — no alt text provided by author
+
+
+---
+
+## 2017-04-07 · Post · We're looking for strong C++ engineers to join our team. Contact us if you want to build security to
+
+
+### Post — @trailofbits — 2017-04-07 13:57 UTC (2017-04-07 14:57 WAT)
+
+- URL: https://x.com/trailofbits/status/850346746978947074
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 9
+
+> We're looking for strong C++ engineers to join our team. Contact us if you want to build security tools! #youkillityoueatit
+
+
+---
+
+## 2017-04-07 · Post · Attention @InfiltrateCon attendees: the lobby bar is where the party is at! Come out and join us for
+
+
+### Post — @trailofbits — 2017-04-07 03:29 UTC (2017-04-07 04:29 WAT)
+
+- URL: https://x.com/trailofbits/status/850188777100386304
+- Metrics (at fetch): bookmark 1, impression 0, like 5, quote 1, reply 0, retweet 2
+
+> Attention @InfiltrateCon attendees: the lobby bar is where the party is at! Come out and join us for a drink! #youkillityoueatit [pic.x.com/KAcvfCgiJi]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C8x6LdRW0AEQmsq.jpg — no alt text provided by author
+
+
+---
+
+## 2017-04-07 · Post · Trail of Bits at Infiltrate Con in Miami Beach youkillityoueatit -dg @ Fontainebleau Miami Beach ht
+
+
+### Post — @trailofbits — 2017-04-07 00:02 UTC (2017-04-07 01:02 WAT)
+
+- URL: https://x.com/trailofbits/status/850136683312029697
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 1
+
+> Trail of Bits at Infiltrate Con in Miami Beach #youkillityoueatit -dg @ Fontainebleau Miami Beach https://www.instagram.com/p/BSkDRAcgkAh/
+
+**Links in post:** https://www.instagram.com/p/BSkDRAcgkAh/
+
+
+---
+
+## 2017-04-06 · Post · We reached a new milestone in @AlgoVPN: 3,000 stars on Github! https://github.com/trailofbits/algo
+
+
+### Post — @trailofbits — 2017-04-06 22:24 UTC (2017-04-06 23:24 WAT)
+
+- URL: https://x.com/trailofbits/status/850112126689710080
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 2
+
+> We reached a new milestone in @AlgoVPN: 3,000 stars on Github! https://github.com/trailofbits/algo
+
+**Links in post:** https://github.com/trailofbits/algo
+
+
+---
+
+## 2017-04-06 · Post · We're giving access to Manticore, our symbolic execution framework, at @InfiltrateCon. Find @dguido 
+
+
+### Post — @trailofbits — 2017-04-06 14:11 UTC (2017-04-06 15:11 WAT)
+
+- URL: https://x.com/trailofbits/status/849987813558947840
+- Metrics (at fetch): bookmark 0, impression 0, like 24, quote 0, reply 5, retweet 8
+
+> We're giving access to Manticore, our symbolic execution framework, at @InfiltrateCon. Find @dguido or @markmossberg. #youkillityoueatit
+
+
+---
+
+## 2017-04-04 · Post · Using AWS Kinesis Firehose? You can now monitor status logs with osquery: https://github.com/faceboo
+
+
+### Post — @trailofbits — 2017-04-04 17:18 UTC (2017-04-04 18:18 WAT)
+
+- URL: https://x.com/trailofbits/status/849310199051677697
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 1
+
+> Using AWS Kinesis Firehose? You can now monitor status logs with osquery: https://github.com/facebook/osquery/pull/3115
+
+**Links in post:** https://github.com/facebook/osquery/pull/3115
+
+
+---
+
+## 2017-03-23 · Post · April means Infiltrate http://blog.trailofbits.com/2017/03/23/april-means-infiltrate [pic.x.com/emSW
+
+
+### Post — @trailofbits — 2017-03-23 10:50 UTC (2017-03-23 11:50 WAT)
+
+- URL: https://x.com/trailofbits/status/844864029071835136
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 2, reply 0, retweet 3
+
+> April means Infiltrate http://blog.trailofbits.com/2017/03/23/april-means-infiltrate [pic.x.com/emSWF1pv6Z]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C7mPWxWV4AAZTv9.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2017/03/23/april-means-infiltrate
+
+
+---
+
+## 2017-03-14 · Post · McSema: I’m liftin’ it http://blog.trailofbits.com/2017/03/14/mcsema-im-liftin-it
+
+
+### Post — @trailofbits — 2017-03-14 10:51 UTC (2017-03-14 11:51 WAT)
+
+- URL: https://x.com/trailofbits/status/841602710361276416
+- Metrics (at fetch): bookmark 0, impression 0, like 32, quote 4, reply 0, retweet 26
+
+> McSema: I’m liftin’ it http://blog.trailofbits.com/2017/03/14/mcsema-im-liftin-it
+
+**Links in post:** http://blog.trailofbits.com/2017/03/14/mcsema-im-liftin-it
+
+
+---
+
+## 2017-03-09 · Post · "No security professional will look at this and say, 'They're doing that simply to annoy third party
+
+
+### Post — @trailofbits — 2017-03-09 01:03 UTC (2017-03-09 02:03 WAT)
+
+- URL: https://x.com/trailofbits/status/839642788119592960
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 0
+
+> "No security professional will look at this and say, 'They're doing that simply to annoy third party repair shops'" https://motherboard.vice.com/en_us/article/the-next-iphone-could-put-15000-repair-companies-out-of-business
+
+**Links in post:** https://motherboard.vice.com/en_us/article/the-next-iphone-could-put-15000-repair-companies-out-of-business
+
+
+---
+
+## 2017-03-06 · Post · We're kicking off a mcsema usability hackathon this week. Join us on Slack to participate: https://e
+
+
+### Post — @trailofbits — 2017-03-06 18:49 UTC (2017-03-06 19:49 WAT)
+
+- URL: https://x.com/trailofbits/status/838823962750615552
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 0
+
+> We're kicking off a mcsema usability hackathon this week. Join us on Slack to participate: https://empireslacking.herokuapp.com/ https://github.com/trailofbits/mcsema
+
+**Links in post:** https://empireslacking.herokuapp.com/, https://github.com/trailofbits/mcsema
+
+
+---
+
+## 2017-03-02 · Post · New mugs! Guaranteed these will all be stolen by next week, they're very attractive if we do say so 
+
+
+### Post — @trailofbits — 2017-03-02 17:11 UTC (2017-03-02 18:11 WAT)
+
+- URL: https://x.com/trailofbits/status/837349767978053633
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 1, retweet 0
+
+> New mugs! Guaranteed these will all be stolen by next week, they're very attractive if we do say so 😍 [pic.x.com/Xs6Ok0EzPa]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C57dLCXWQAAGXvi.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/C57dLCbWAAEiHBZ.jpg — no alt text provided by author
+
+
+---
+
+## 2017-03-02 · Post · Two peas in a pod, hanging out together at our NYC office. [pic.x.com/2IW1xlc1Us]
+
+
+### Post — @trailofbits — 2017-03-02 01:09 UTC (2017-03-02 02:09 WAT)
+
+- URL: https://x.com/trailofbits/status/837107488440913920
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 2
+
+> Two peas in a pod, hanging out together at our NYC office. [pic.x.com/2IW1xlc1Us]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C54A0gvWAAExL_l.jpg — no alt text provided by author
+
+
+---
+
+## 2017-02-20 · Post · We ate our own dogfood and tried control flow integrity on osquery + strongSwan http://blog.trailofb
+
+
+### Post — @trailofbits — 2017-02-20 14:15 UTC (2017-02-20 15:15 WAT)
+
+- URL: https://x.com/trailofbits/status/833681603406729217
+- Metrics (at fetch): bookmark 0, impression 0, like 70, quote 3, reply 0, retweet 58
+
+> We ate our own dogfood and tried control flow integrity on osquery + strongSwan http://blog.trailofbits.com/2017/02/20/the-challenges-of-deploying-security-mitigations [pic.x.com/3jA1k0GX5f]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C5HU_9ZUcAAZ35B.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2017/02/20/the-challenges-of-deploying-security-mitigations
+
+
+---
+
+## 2017-02-16 · Post · Check out @dguido's keynote from @bsideslisbon and ITDefense on "The Smart Fuzzer… http://blog.trai
+
+
+### Post — @trailofbits — 2017-02-16 11:50 UTC (2017-02-16 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/832195382981586944
+- Metrics (at fetch): bookmark 0, impression 0, like 34, quote 1, reply 0, retweet 19
+
+> Check out @dguido's keynote from @bsideslisbon and #ITDefense on "The Smart Fuzzer… http://blog.trailofbits.com/2017/02/16/the-smart-fuzzer-revolution [pic.x.com/mnhHaR0MY7]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C4yNSjBVYAEHNbP.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2017/02/16/the-smart-fuzzer-revolution
+
+
+---
+
+## 2017-02-13 · Post · We're looking for Manticore beta testers in the leadup to releasing it. Join tool-manticore on our 
+
+
+### Post — @trailofbits — 2017-02-13 21:25 UTC (2017-02-13 22:25 WAT)
+
+- URL: https://x.com/trailofbits/status/831253006804987904
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> We're looking for Manticore beta testers in the leadup to releasing it. Join #tool-manticore on our Slack to get access!
+
+
+---
+
+## 2017-02-13 · Post · Devirtualizing C++ with Binary Ninja http://blog.trailofbits.com/2017/02/13/devirtualizing-c-with-bi
+
+
+### Post — @trailofbits — 2017-02-13 11:50 UTC (2017-02-13 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/831108344970633216
+- Metrics (at fetch): bookmark 0, impression 0, like 152, quote 1, reply 0, retweet 102
+
+> Devirtualizing C++ with Binary Ninja http://blog.trailofbits.com/2017/02/13/devirtualizing-c-with-binary-ninja [pic.x.com/xyXjxRFInp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C4iwolZVcAEQ3sr.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2017/02/13/devirtualizing-c-with-binary-ninja
+
+
+---
+
+## 2017-01-31 · Post · Breaking Down Binary Ninja’s Low Level IL http://blog.trailofbits.com/2017/01/31/breaking-down-binar
+
+
+### Post — @trailofbits — 2017-01-31 11:50 UTC (2017-01-31 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/826397180520955912
+- Metrics (at fetch): bookmark 0, impression 0, like 98, quote 1, reply 0, retweet 63
+
+> Breaking Down Binary Ninja’s Low Level IL http://blog.trailofbits.com/2017/01/31/breaking-down-binary-ninjas-low-level-il [pic.x.com/z3vEhDOrtT]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C3fz2rsVcAA70PS.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2017/01/31/breaking-down-binary-ninjas-low-level-il
+
+
+---
+
+## 2017-01-30 · Post · Welcome Josh Watson, Douglas Goddard, and Josselin Feist to @trailofbits! We're now 24 engineers str
+
+
+### Post — @trailofbits — 2017-01-30 18:40 UTC (2017-01-30 19:40 WAT)
+
+- URL: https://x.com/trailofbits/status/826138019203862529
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 0, retweet 0
+
+> Welcome Josh Watson, Douglas Goddard, and Josselin Feist to @trailofbits! We're now 24 engineers strong 💪💪💪
+
+
+---
+
+## 2017-01-18 · Post · We're skiing in Canada and we need your help! What movie with Canadians or snow should we watch toni
+
+
+### Post — @trailofbits — 2017-01-18 05:01 UTC (2017-01-18 06:01 WAT)
+
+- URL: https://x.com/trailofbits/status/821583178087305220
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 16, retweet 2
+
+> We're skiing in Canada and we need your help! What movie with Canadians or snow should we watch tonight?
+
+
+---
+
+## 2017-01-12 · Post · Algo VPN is the 4 trending shell project this month! https://github.com/trending/bash?since=monthly
+
+
+### Post — @trailofbits — 2017-01-12 21:37 UTC (2017-01-12 22:37 WAT)
+
+- URL: https://x.com/trailofbits/status/819659524219039744
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 0
+
+> Algo VPN is the #4 trending shell project this month! https://github.com/trending/bash?since=monthly
+
+**Links in post:** https://github.com/trending/bash?since=monthly
+
+
+---
+
+## 2017-01-09 · Post · 2016 Year in Review - Here are 14 reasons we’re counting 2016 as a success: https://blog.trailofbits
+
+
+### Post — @trailofbits — 2017-01-09 13:29 UTC (2017-01-09 14:29 WAT)
+
+- URL: https://x.com/trailofbits/status/818449665981030400
+- Metrics (at fetch): bookmark 0, impression 0, like 21, quote 2, reply 0, retweet 13
+
+> 2016 Year in Review - Here are 14 reasons we’re counting 2016 as a success: https://blog.trailofbits.com/2017/01/09/2016-year-in-review/
+
+**Links in post:** https://blog.trailofbits.com/2017/01/09/2016-year-in-review/
+
+
+---
+
+## 2016-12-27 · Post · Let’s talk about CFI: Microsoft Edition http://blog.trailofbits.com/2016/12/27/lets-talk-about-cfi-m
+
+
+### Post — @trailofbits — 2016-12-27 11:00 UTC (2016-12-27 12:00 WAT)
+
+- URL: https://x.com/trailofbits/status/813701150365122561
+- Metrics (at fetch): bookmark 0, impression 0, like 95, quote 3, reply 2, retweet 78
+
+> Let’s talk about CFI: Microsoft Edition http://blog.trailofbits.com/2016/12/27/lets-talk-about-cfi-microsoft-edition [pic.x.com/21w55RHV48]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/C0rY4bOUsAALfz3.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2016/12/27/lets-talk-about-cfi-microsoft-edition
+
+
+---
+
+## 2016-12-20 · Post · On this cold late December night, remember that @InfiltrateCon is only 107 days away! [pic.x.com/vsD
+
+
+### Post — @trailofbits — 2016-12-20 23:05 UTC (2016-12-21 00:05 WAT)
+
+- URL: https://x.com/trailofbits/status/811346856424804352
+- Metrics (at fetch): bookmark 0, impression 0, like 22, quote 1, reply 4, retweet 6
+
+> On this cold late December night, remember that @InfiltrateCon is only 107 days away! [pic.x.com/vsDB2jkjW7]
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/811346722005942273/pu/img/3KnV0LK90qn4TQbW.jpg — no alt text provided by author
+
+
+---
+
+## 2016-12-12 · Post · Meet Algo, the VPN that works http://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works
+
+
+### Post — @trailofbits — 2016-12-12 12:51 UTC (2016-12-12 13:51 WAT)
+
+- URL: https://x.com/trailofbits/status/808293232467525632
+- Metrics (at fetch): bookmark 0, impression 0, like 185, quote 17, reply 11, retweet 89
+
+> Meet Algo, the VPN that works http://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works
+
+**Links in post:** http://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works
+
+
+---
+
+## 2016-12-01 · Post · "Security is not an app you can download" http://www.nbcnews.com/mach/technology/protecting-your-int
+
+
+### Post — @trailofbits — 2016-12-01 14:45 UTC (2016-12-01 15:45 WAT)
+
+- URL: https://x.com/trailofbits/status/804335503596285952
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 1, reply 0, retweet 1
+
+> "Security is not an app you can download" http://www.nbcnews.com/mach/technology/protecting-your-internet-presence-age-donald-trump-n689826
+
+**Links in post:** http://www.nbcnews.com/mach/technology/protecting-your-internet-presence-age-donald-trump-n689826
+
+
+---
+
+## 2016-11-29 · Post · "0day is an inadequate term to describe the vast spectrum of potential states in which security issu
+
+
+### Post — @trailofbits — 2016-11-29 19:22 UTC (2016-11-29 20:22 WAT)
+
+- URL: https://x.com/trailofbits/status/803680552100315137
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 1, reply 0, retweet 14
+
+> "0day is an inadequate term to describe the vast spectrum of potential states in which security issues can exist" https://motherboard.vice.com/read/the-fbi-used-a-non-public-vulnerability-to-hack-suspects-on-tor
+
+**Links in post:** https://motherboard.vice.com/read/the-fbi-used-a-non-public-vulnerability-to-hack-suspects-on-tor
 
 
 ---
@@ -18927,6 +21518,24 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2016-11-02 · Post · Shin GRR: Make Fuzzing Fast Again http://blog.trailofbits.com/2016/11/02/shin-grr-make-fuzzing-fast-
+
+
+### Post — @trailofbits — 2016-11-02 11:51 UTC (2016-11-02 12:51 WAT)
+
+- URL: https://x.com/trailofbits/status/793782514196156416
+- Metrics (at fetch): bookmark 0, impression 0, like 56, quote 4, reply 0, retweet 49
+
+> Shin GRR: Make Fuzzing Fast Again http://blog.trailofbits.com/2016/11/02/shin-grr-make-fuzzing-fast-again [pic.x.com/QvyojrnEiD]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CwQU_RqVMAAd9fO.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2016/11/02/shin-grr-make-fuzzing-fast-again
+
+
+---
+
 ## 2016-11-01 · Post · We're offering a $500 bounty for ChromeOS support in Algo. Help us close this ticket: https://t.co/F
 
 
@@ -18936,6 +21545,112 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 14
 
 > We're offering a $500 bounty for ChromeOS support in Algo. Help us close this ticket: https://t.co/FgMe6mVE0k
+
+
+---
+
+## 2016-11-01 · Post · Come by our booth at @OReillySecurity and watch our CRS as it solves crackaddr live! [pic.x.com/BRC3
+
+
+### Post — @trailofbits — 2016-11-01 14:43 UTC (2016-11-01 15:43 WAT)
+
+- URL: https://x.com/trailofbits/status/793463603961667584
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 1, reply 1, retweet 3
+
+> Come by our booth at @OReillySecurity and watch our CRS as it solves crackaddr live! [pic.x.com/BRC3dPWVSL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CwLy6gmWAAEfR0N.jpg — no alt text provided by author
+
+
+---
+
+## 2016-10-26 · Post · Come find us at the @OReillySecurity Conference in NYC next week! https://blog.trailofbits.com/2016/
+
+
+### Post — @trailofbits — 2016-10-26 12:02 UTC (2016-10-26 13:02 WAT)
+
+- URL: https://x.com/trailofbits/status/791248712341356549
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Come find us at the @OReillySecurity Conference in NYC next week! https://blog.trailofbits.com/2016/10/26/come-find-us-at-oreilly-security/
+
+**Links in post:** https://blog.trailofbits.com/2016/10/26/come-find-us-at-oreilly-security/
+
+
+---
+
+## 2016-10-25 · Post · We're heading back to our favorite conference next year, @InfiltrateCon! Join all 11 of us and buy a
+
+
+### Post — @trailofbits — 2016-10-25 17:17 UTC (2016-10-25 18:17 WAT)
+
+- URL: https://x.com/trailofbits/status/790965619042705408
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 1, reply 0, retweet 3
+
+> We're heading back to our favorite conference next year, @InfiltrateCon! Join all 11 of us and buy a ticket early: http://infiltratecon.com/
+
+**Links in post:** http://infiltratecon.com/
+
+
+---
+
+## 2016-10-24 · Post · "The @trailofbits blog has a fantastic and detailed overview of control-flow integrity in Clang" Tha
+
+
+### Post — @trailofbits — 2016-10-24 15:46 UTC (2016-10-24 16:46 WAT)
+
+- URL: https://x.com/trailofbits/status/790580355866787840
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 7
+
+> "The @trailofbits blog has a fantastic and detailed overview of control-flow integrity in Clang" Thanks @llvmweekly! https://blog.trailofbits.com/2016/10/17/lets-talk-about-cfi-clang-edition/
+
+**Links in post:** https://blog.trailofbits.com/2016/10/17/lets-talk-about-cfi-clang-edition/
+
+
+---
+
+## 2016-10-17 · Post · Let’s talk about CFI: clang edition http://blog.trailofbits.com/2016/10/17/lets-talk-about-cfi-clang
+
+
+### Post — @trailofbits — 2016-10-17 11:50 UTC (2016-10-17 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/787984179715641344
+- Metrics (at fetch): bookmark 0, impression 0, like 26, quote 2, reply 0, retweet 20
+
+> Let’s talk about CFI: clang edition http://blog.trailofbits.com/2016/10/17/lets-talk-about-cfi-clang-edition
+
+**Links in post:** http://blog.trailofbits.com/2016/10/17/lets-talk-about-cfi-clang-edition
+
+
+---
+
+## 2016-10-12 · Post · Osquery for Windows is now installable via Chocolatey! Get it while it's hot: https://chocolatey.org
+
+
+### Post — @trailofbits — 2016-10-12 16:05 UTC (2016-10-12 17:05 WAT)
+
+- URL: https://x.com/trailofbits/status/786236328442814464
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 0, retweet 6
+
+> Osquery for Windows is now installable via Chocolatey! Get it while it's hot: https://chocolatey.org/packages/osquery/2.0.0
+
+**Links in post:** https://chocolatey.org/packages/osquery/2.0.0
+
+
+---
+
+## 2016-10-06 · Post · Congratulations to our interns, @japesinator and @krx__, for qualifying for @CSAW_NYUTandon CTF http
+
+
+### Post — @trailofbits — 2016-10-06 14:05 UTC (2016-10-06 15:05 WAT)
+
+- URL: https://x.com/trailofbits/status/784031924503314432
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 0, retweet 3
+
+> Congratulations to our interns, @japesinator and @krx__, for qualifying for @CSAW_NYUTandon CTF http://engineering.nyu.edu/press-releases/2016/10/05/worlds-best-student-hackers-advance-final-rounds-nyu-csaw
+
+**Links in post:** http://engineering.nyu.edu/press-releases/2016/10/05/worlds-best-student-hackers-advance-final-rounds-nyu-csaw
 
 
 ---
@@ -18953,7 +21668,399 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2016-06-03 · Post · How to instantly exploit 2000 binaries with Binary Ninja https://t.co/GO2G61rTaE https://t.co/z64erJ
+## 2016-09-27 · Post · "Facebook debuts open source detection tool for Windows" via @threatpost https://threatpost.com/face
+
+
+### Post — @trailofbits — 2016-09-27 17:11 UTC (2016-09-27 18:11 WAT)
+
+- URL: https://x.com/trailofbits/status/780817048750415872
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 3
+
+> "Facebook debuts open source detection tool for Windows" via @threatpost https://threatpost.com/facebook-debuts-open-source-detection-tool-for-windows/120897/
+
+**Links in post:** https://threatpost.com/facebook-debuts-open-source-detection-tool-for-windows/120897/
+
+
+---
+
+## 2016-09-12 · Post · Plug into New York’s Infosec Community http://blog.trailofbits.com/2016/09/12/plug-into-new-yorks-in
+
+
+### Post — @trailofbits — 2016-09-12 11:04 UTC (2016-09-12 12:04 WAT)
+
+- URL: https://x.com/trailofbits/status/775288956313149440
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 2, reply 0, retweet 3
+
+> Plug into New York’s Infosec Community http://blog.trailofbits.com/2016/09/12/plug-into-new-yorks-infosec-community
+
+**Links in post:** http://blog.trailofbits.com/2016/09/12/plug-into-new-yorks-infosec-community
+
+
+---
+
+## 2016-08-25 · Post · "Government Hackers Caught Using Unprecedented iPhone Spy Tool." We need better detection tools, say
+
+
+### Post — @trailofbits — 2016-08-25 17:07 UTC (2016-08-25 18:07 WAT)
+
+- URL: https://x.com/trailofbits/status/768857326656876545
+- Metrics (at fetch): not returned
+
+> "Government Hackers Caught Using Unprecedented iPhone Spy Tool." We need better detection tools, says @dguido
+> https://motherboard.vice.com/read/government-hackers-iphone-hacking-jailbreak-nso-group
+
+**Links in post:** https://motherboard.vice.com/read/government-hackers-iphone-hacking-jailbreak-nso-group
+
+
+---
+
+## 2016-08-15 · Post · Join us playing in @RPISEC's first public CTF on Nov 4th! https://x.com/RPISEC/status/75825640875216
+
+
+### Post — @trailofbits — 2016-08-15 17:50 UTC (2016-08-15 18:50 WAT)
+
+- URL: https://x.com/trailofbits/status/765244321243209729
+- Metrics (at fetch): not returned
+
+> Join us playing in @RPISEC's first public CTF on Nov 4th! https://x.com/RPISEC/status/758256408752164864
+
+**Links in post:** https://x.com/RPISEC/status/758256408752164864
+
+**Quoted post (full text):**
+
+    #### Quoted post — @19573836 — 2016-07-27 11:03 UTC (2016-07-27 12:03 WAT)
+    
+    - URL: https://x.com/19573836/status/758256408752164864
+    - Metrics (at fetch): not returned
+    
+    > Announcing our first CTF, Hack The Vote 2016, 48 hours starting Nov 4th at 7pm EDT - http://pwn.voting
+    
+    **Links in post:** http://pwn.voting
+    
+
+
+---
+
+## 2016-08-10 · Post · “The Cyber Grand Challenge is here to put hackers out of work.” A post-final event recap from @bende
+
+
+### Post — @trailofbits — 2016-08-10 21:36 UTC (2016-08-10 22:36 WAT)
+
+- URL: https://x.com/trailofbits/status/763489245222830080
+- Metrics (at fetch): not returned
+
+> “The Cyber Grand Challenge is here to put hackers out of work.” A post-final event recap from @bendee983  http://www.dailydot.com/layer8/robot-cyberwars-darpa/
+
+**Links in post:** http://www.dailydot.com/layer8/robot-cyberwars-darpa/
+
+
+---
+
+## 2016-08-10 · Post · You can catch Sophia D'Antoine at the @USENIXSecurity Symposium this week on a panel about security 
+
+
+### Post — @trailofbits — 2016-08-10 19:39 UTC (2016-08-10 20:39 WAT)
+
+- URL: https://x.com/trailofbits/status/763459718878785537
+- Metrics (at fetch): not returned
+
+> You can catch Sophia D'Antoine at the @USENIXSecurity Symposium this week on a panel about security competitions https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/robertson
+
+**Links in post:** https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/robertson
+
+
+---
+
+## 2016-08-09 · Post · There's no need for a secure iOS distribution, says @dguido, Apple has overcome the perf/UX issues o
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @trailofbits — 2016-08-09 16:10 UTC (2016-08-09 17:10 WAT)
+
+- URL: https://x.com/trailofbits/status/763044780158881792
+- Metrics (at fetch): not returned
+
+> There's no need for a secure iOS distribution, says @dguido, Apple has overcome the perf/UX issues on their own http://arstechnica.co.uk/security/2016/08/copperhead-os-fix-android-security/
+
+**Links in post:** http://arstechnica.co.uk/security/2016/08/copperhead-os-fix-android-security/
+
+
+---
+
+## 2016-08-09 · Post · Work For Us: Fall and Winter Internship Opportunities http://blog.trailofbits.com/2016/08/09/work-fo
+
+
+### Post — @trailofbits — 2016-08-09 11:52 UTC (2016-08-09 12:52 WAT)
+
+- URL: https://x.com/trailofbits/status/762979967512653824
+- Metrics (at fetch): not returned
+
+> Work For Us: Fall and Winter Internship Opportunities http://blog.trailofbits.com/2016/08/09/work-for-us-fall-and-winter-internship-opportunities
+
+**Links in post:** http://blog.trailofbits.com/2016/08/09/work-for-us-fall-and-winter-internship-opportunities
+
+
+---
+
+## 2016-08-04 · Post · Messaging app’s weak security features allowed Turkish officials to track coup plotters http://reut.
+
+
+### Post — @trailofbits — 2016-08-04 15:32 UTC (2016-08-04 16:32 WAT)
+
+- URL: https://x.com/trailofbits/status/761223194300805120
+- Metrics (at fetch): not returned
+
+> Messaging app’s weak security features allowed Turkish officials to track coup plotters http://reut.rs/2aIEoEo @auchard @humeyra_pamuk
+
+**Links in post:** http://reut.rs/2aIEoEo
+
+
+---
+
+## 2016-08-02 · Post · A fuzzer and a symbolic executor walk into a cloud... meet Grr and PSE http://blog.trailofbits.com/2
+
+
+### Post — @trailofbits — 2016-08-02 11:52 UTC (2016-08-02 12:52 WAT)
+
+- URL: https://x.com/trailofbits/status/760443237886664704
+- Metrics (at fetch): not returned
+
+> A fuzzer and a symbolic executor walk into a cloud... meet Grr and PSE http://blog.trailofbits.com/2016/08/02/engineering-solutions-to-hard-program-analysis-problems/ [pic.x.com/Px9ePNXBVl]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Co2jF5MUsAATfWW.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2016/08/02/engineering-solutions-to-hard-program-analysis-problems/
+
+
+---
+
+## 2016-08-01 · Post · Your tool works better than mine? Prove it. http://blog.trailofbits.com/2016/08/01/your-tool-works-b
+
+
+### Post — @trailofbits — 2016-08-01 11:51 UTC (2016-08-01 12:51 WAT)
+
+- URL: https://x.com/trailofbits/status/760080514896109568
+- Metrics (at fetch): not returned
+
+> Your tool works better than mine? Prove it. http://blog.trailofbits.com/2016/08/01/your-tool-works-better-than-mine-prove-it
+
+**Links in post:** http://blog.trailofbits.com/2016/08/01/your-tool-works-better-than-mine-prove-it
+
+
+---
+
+## 2016-07-28 · Post · Our new Empire Hacking posters arrived! Come and speak at a meetup to get one. @ Fulton Center https
+
+
+### Post — @trailofbits — 2016-07-28 16:03 UTC (2016-07-28 17:03 WAT)
+
+- URL: https://x.com/trailofbits/status/758694252125757441
+- Metrics (at fetch): not returned
+
+> Our new Empire Hacking posters arrived! Come and speak at a meetup to get one. @ Fulton Center https://www.instagram.com/p/BIaUEJ5Alij/
+
+**Links in post:** https://www.instagram.com/p/BIaUEJ5Alij/
+
+
+---
+
+## 2016-07-22 · Post · Congrats to @lemmasforfree and @computerality for their publication on cyber deception and attributi
+
+
+### Post — @trailofbits — 2016-07-22 20:52 UTC (2016-07-22 21:52 WAT)
+
+- URL: https://x.com/trailofbits/status/756592657292484608
+- Metrics (at fetch): not returned
+
+> Congrats to @lemmasforfree and @computerality for their publication on cyber deception and attribution https://link.springer.com/chapter/10.1007/978-3-319-32699-3_7
+
+**Links in post:** https://link.springer.com/chapter/10.1007/978-3-319-32699-3_7
+
+
+---
+
+## 2016-07-20 · Post · "Known vulnerabilities provide a stationary target to develop and test new attacks" via @dangoodin00
+
+
+### Post — @trailofbits — 2016-07-20 16:57 UTC (2016-07-20 17:57 WAT)
+
+- URL: https://x.com/trailofbits/status/755808745658191872
+- Metrics (at fetch): not returned
+
+> "Known vulnerabilities provide a stationary target to develop and test new attacks" via @dangoodin001 http://arstechnica.com/security/2016/07/software-flaw-puts-mobile-phones-and-networks-at-risk-of-complete-takeover/
+
+**Links in post:** http://arstechnica.com/security/2016/07/software-flaw-puts-mobile-phones-and-networks-at-risk-of-complete-takeover/
+
+
+---
+
+## 2016-07-12 · Post · Peter Goodman of @trailofbits describing why our CRS bugfinder is so different from everything else 
+
+
+### Post — @trailofbits — 2016-07-12 15:49 UTC (2016-07-12 16:49 WAT)
+
+- URL: https://x.com/trailofbits/status/752892640333557764
+- Metrics (at fetch): not returned
+
+> Peter Goodman of @trailofbits describing why our CRS bugfinder is so different from everything else out there: https://news.ycombinator.com/item?id=12079766
+
+**Links in post:** https://news.ycombinator.com/item?id=12079766
+
+
+---
+
+## 2016-07-12 · Post · Android full-disk encryption falls to TrustZone exploits. Keys described as hardware-bound really st
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @trailofbits — 2016-07-12 15:03 UTC (2016-07-12 16:03 WAT)
+
+- URL: https://x.com/trailofbits/status/752880990339620864
+- Metrics (at fetch): not returned
+
+> Android full-disk encryption falls to TrustZone exploits. Keys described as hardware-bound really stored in software http://arstechnica.com/security/2016/07/androids-full-disk-encryption-just-got-much-weaker-heres-why/
+
+**Links in post:** http://arstechnica.com/security/2016/07/androids-full-disk-encryption-just-got-much-weaker-heres-why/
+
+
+---
+
+## 2016-07-12 · Post · Why I didn’t catch any Pokemon today http://blog.trailofbits.com/2016/07/11/why-i-didnt-catch-any-po
+
+
+### Post — @trailofbits — 2016-07-12 03:37 UTC (2016-07-12 04:37 WAT)
+
+- URL: https://x.com/trailofbits/status/752708427302834176
+- Metrics (at fetch): not returned
+
+> Why I didn’t catch any Pokemon today http://blog.trailofbits.com/2016/07/11/why-i-didnt-catch-any-pokemon-today
+
+**Links in post:** http://blog.trailofbits.com/2016/07/11/why-i-didnt-catch-any-pokemon-today
+
+
+---
+
+## 2016-07-11 · Post · Pokemon Go has full access to tens of millions of Google accounts https://motherboard.vice.com/read/
+
+
+### Post — @trailofbits — 2016-07-11 20:14 UTC (2016-07-11 21:14 WAT)
+
+- URL: https://x.com/trailofbits/status/752597023908585472
+- Metrics (at fetch): not returned
+
+> Pokemon Go has full access to tens of millions of Google accounts https://motherboard.vice.com/read/pokemon-go-is-grabbing-full-access-to-some-players-google-accounts via @lorenzoFB
+
+**Links in post:** https://motherboard.vice.com/read/pokemon-go-is-grabbing-full-access-to-some-players-google-accounts
+
+
+---
+
+## 2016-07-05 · Post · Trail of Bits is hiring in NYC! If you're a student, come take our CRS for a spin this Fall/Winter s
+
+
+### Post — @trailofbits — 2016-07-05 18:02 UTC (2016-07-05 19:02 WAT)
+
+- URL: https://x.com/trailofbits/status/750389503072866304
+- Metrics (at fetch): not returned
+
+> Trail of Bits is hiring in NYC! If you're a student, come take our CRS for a spin this Fall/Winter session. https://www.trailofbits.com/careers/
+
+**Links in post:** https://www.trailofbits.com/careers/
+
+
+---
+
+## 2016-06-28 · Post · @nxsolle We validate the signature against the SHA. We don't validate the data against the SHA b/c w
+
+
+### Post — @trailofbits — 2016-06-28 20:25 UTC (2016-06-28 21:25 WAT)
+
+- URL: https://x.com/trailofbits/status/747888684595318785
+- Metrics (at fetch): not returned
+
+> @nxsolle We validate the signature against the SHA. We don't validate the data against the SHA b/c we keep customer data off our servers.
+
+
+---
+
+## 2016-06-28 · Post · Start using the Secure Enclave Crypto API http://blog.trailofbits.com/2016/06/28/start-using-the-sec
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @trailofbits — 2016-06-28 11:50 UTC (2016-06-28 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/747759173996154881
+- Metrics (at fetch): not returned
+
+> Start using the Secure Enclave Crypto API http://blog.trailofbits.com/2016/06/28/start-using-the-secure-enclave-crypto-api [pic.x.com/RmGNYnai4y]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CmCTAP-UkAIiexm.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2016/06/28/start-using-the-secure-enclave-crypto-api
+
+
+---
+
+## 2016-06-24 · Post · "slack:// protocol handler javascript injection" from @computerality https://hackerone.com/reports/7
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @trailofbits — 2016-06-24 17:08 UTC (2016-06-24 18:08 WAT)
+
+- URL: https://x.com/trailofbits/status/746389568929337344
+- Metrics (at fetch): not returned
+
+> "slack:// protocol handler javascript injection" from @computerality https://hackerone.com/reports/79348
+
+**Links in post:** https://hackerone.com/reports/79348
+
+
+---
+
+## 2016-06-23 · Post · It's time to take ownership of our image. Help us create a Hacker Anthology! http://blog.trailofbits
+
+
+### Post — @trailofbits — 2016-06-23 11:53 UTC (2016-06-23 12:53 WAT)
+
+- URL: https://x.com/trailofbits/status/745947999604375553
+- Metrics (at fetch): not returned
+
+> It's time to take ownership of our image. Help us create a Hacker Anthology! http://blog.trailofbits.com/2016/06/23/its-time-to-take-ownership-of-our-image [pic.x.com/GtOCStLQPg]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Clojv89UsAE7_5N.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2016/06/23/its-time-to-take-ownership-of-our-image
+
+
+---
+
+## 2016-06-09 · Post · US banks put on alert after a series of international bank hacks http://reut.rs/1Y6BJqi via @Reuters
+
+
+### Post — @trailofbits — 2016-06-09 14:17 UTC (2016-06-09 15:17 WAT)
+
+- URL: https://x.com/trailofbits/status/740910772453265408
+- Metrics (at fetch): not returned
+
+> US banks put on alert after a series of international bank hacks http://reut.rs/1Y6BJqi via @Reuters
+
+**Links in post:** http://reut.rs/1Y6BJqi
+
+
+---
+
+## 2016-06-03 · Post · How to instantly exploit 2000 binaries with Binary Ninja http://blog.trailofbits.com/2016/06/03/2000
 
 
 ### Post — @trailofbits — 2016-06-03 16:14 UTC (2016-06-03 17:14 WAT)
@@ -18961,15 +22068,125 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/738765867001909248
 - Metrics (at fetch): bookmark 1, impression 0, like 278, quote 0, reply 1, retweet 188
 
-> How to instantly exploit 2000 binaries with Binary Ninja https://t.co/GO2G61rTaE https://t.co/z64erJvfo5
+> How to instantly exploit 2000 binaries with Binary Ninja http://blog.trailofbits.com/2016/06/03/2000-cuts-with-binary-ninja [pic.x.com/z64erJvfo5]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/CkCfo4OUgAAnJSL.jpg — no alt text provided by author
 
+**Links in post:** http://blog.trailofbits.com/2016/06/03/2000-cuts-with-binary-ninja
+
 
 ---
 
-## 2016-05-05 · Post · The DBIR’s ‘Forest’ of Exploit Signatures https://t.co/7pTtYALwII https://t.co/rdEQB8Cgcq
+## 2016-06-02 · Post · We're growing! We now have satellite offices in Austin and Chicago. https://x.com/WeWorkATX/status/7
+
+
+### Post — @trailofbits — 2016-06-02 16:01 UTC (2016-06-02 17:01 WAT)
+
+- URL: https://x.com/trailofbits/status/738400135093321728
+- Metrics (at fetch): not returned
+
+> We're growing! We now have satellite offices in Austin and Chicago. https://x.com/WeWorkATX/status/738393408780259328
+
+**Links in post:** https://x.com/WeWorkATX/status/738393408780259328
+
+
+---
+
+## 2016-05-26 · Post · Galois Awarded $10m DARPA Contract To Make Legacy Systems More Secure http://story.cd/AAEt4H via @PR
+
+
+### Post — @trailofbits — 2016-05-26 16:48 UTC (2016-05-26 17:48 WAT)
+
+- URL: https://x.com/trailofbits/status/735875268435402753
+- Metrics (at fetch): not returned
+
+> Galois Awarded $10m DARPA Contract To Make Legacy Systems More Secure http://story.cd/AAEt4H via @PRWeb
+
+**Links in post:** http://story.cd/AAEt4H
+
+
+---
+
+## 2016-05-19 · Post · Sophia is speaking at NorthSec today. Stop by and say hi if you're in Montreal! https://www.nsec.io/
+
+
+### Post — @trailofbits — 2016-05-19 13:59 UTC (2016-05-19 14:59 WAT)
+
+- URL: https://x.com/trailofbits/status/733296038124130307
+- Metrics (at fetch): not returned
+
+> Sophia is speaking at NorthSec today. Stop by and say hi if you're in Montreal! https://www.nsec.io/speakers/
+
+**Links in post:** https://www.nsec.io/speakers/
+
+
+---
+
+## 2016-05-19 · Post · Empire Hacking Turns One http://blog.trailofbits.com/2016/05/19/empire-hacking-turns-one [pic.x.com/
+
+
+### Post — @trailofbits — 2016-05-19 11:50 UTC (2016-05-19 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/733263526299459584
+- Metrics (at fetch): not returned
+
+> Empire Hacking Turns One http://blog.trailofbits.com/2016/05/19/empire-hacking-turns-one [pic.x.com/pvpM1Bh6iC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ci0TSosU4AAM6uI.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2016/05/19/empire-hacking-turns-one
+
+
+---
+
+## 2016-05-18 · Post · ProtoFuzz is a generic fuzzer for Google’s Protobuf, now available on Github http://blog.trailofbits
+
+
+### Post — @trailofbits — 2016-05-18 11:51 UTC (2016-05-18 12:51 WAT)
+
+- URL: https://x.com/trailofbits/status/732901335704592384
+- Metrics (at fetch): not returned
+
+> ProtoFuzz is a generic fuzzer for Google’s Protobuf, now available on Github http://blog.trailofbits.com/2016/05/18/protofuzz-a-protobuf-fuzzer
+
+**Links in post:** http://blog.trailofbits.com/2016/05/18/protofuzz-a-protobuf-fuzzer
+
+
+---
+
+## 2016-05-11 · Post · This App Can Tell If Your iPhone Has Ever Been Hacked http://motherboard.vice.com/en_uk/read/this-ap
+
+
+### Post — @trailofbits — 2016-05-11 14:51 UTC (2016-05-11 15:51 WAT)
+
+- URL: https://x.com/trailofbits/status/730410111991087106
+- Metrics (at fetch): not returned
+
+> This App Can Tell If Your iPhone Has Ever Been Hacked http://motherboard.vice.com/en_uk/read/this-app-can-tell-if-your-iphone-has-ever-been-hacked-jailbroken via @motherboard
+
+**Links in post:** http://motherboard.vice.com/en_uk/read/this-app-can-tell-if-your-iphone-has-ever-been-hacked-jailbroken
+
+
+---
+
+## 2016-05-10 · Post · Old Exploits Die Hard, Says Microsoft Report: https://threatpost.com/old-exploits-die-hard-says-micr
+
+
+### Post — @trailofbits — 2016-05-10 17:25 UTC (2016-05-10 18:25 WAT)
+
+- URL: https://x.com/trailofbits/status/730086427086594048
+- Metrics (at fetch): not returned
+
+> Old Exploits Die Hard, Says Microsoft Report: https://threatpost.com/old-exploits-die-hard-says-microsoft-report/117918/ via @threatpost
+
+**Links in post:** https://threatpost.com/old-exploits-die-hard-says-microsoft-report/117918/
+
+
+---
+
+## 2016-05-05 · Post · The DBIR’s ‘Forest’ of Exploit Signatures http://blog.trailofbits.com/2016/05/05/the-dbirs-forest-of
 
 
 ### Post — @trailofbits — 2016-05-05 20:56 UTC (2016-05-05 21:56 WAT)
@@ -18977,15 +22194,32 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/728327464884146176
 - Metrics (at fetch): bookmark 0, impression 0, like 23, quote 0, reply 0, retweet 35
 
-> The DBIR’s ‘Forest’ of Exploit Signatures https://t.co/7pTtYALwII https://t.co/rdEQB8Cgcq
+> The DBIR’s ‘Forest’ of Exploit Signatures http://blog.trailofbits.com/2016/05/05/the-dbirs-forest-of-exploit-signatures/ [pic.x.com/rdEQB8Cgcq]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/ChuJ-B4U4AA5heE.jpg — no alt text provided by author
 
+**Links in post:** http://blog.trailofbits.com/2016/05/05/the-dbirs-forest-of-exploit-signatures/
+
 
 ---
 
-## 2016-04-01 · Post · We're launching a new bug bounty for hacker handles. See the details here: https://t.co/qPQkVJybTm h
+## 2016-04-22 · Post · Hacking competitions that will get you noticed http://www.csoonline.com/article/3059699/application-
+
+
+### Post — @trailofbits — 2016-04-22 14:09 UTC (2016-04-22 15:09 WAT)
+
+- URL: https://x.com/trailofbits/status/723514122227216384
+- Metrics (at fetch): not returned
+
+> Hacking competitions that will get you noticed http://www.csoonline.com/article/3059699/application-development/hacking-competitions-that-will-get-you-noticed.html via @csoonline
+
+**Links in post:** http://www.csoonline.com/article/3059699/application-development/hacking-competitions-that-will-get-you-noticed.html
+
+
+---
+
+## 2016-04-01 · Post · We're launching a new bug bounty for hacker handles. See the details here: http://blog.trailofbits.c
 
 
 ### Post — @trailofbits — 2016-04-01 11:51 UTC (2016-04-01 12:51 WAT)
@@ -18993,15 +22227,970 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/715869114699374592
 - Metrics (at fetch): bookmark 0, impression 0, like 24, quote 0, reply 3, retweet 12
 
-> We're launching a new bug bounty for hacker handles. See the details here: https://t.co/qPQkVJybTm https://t.co/OYoGemGSkk
+> We're launching a new bug bounty for hacker handles. See the details here: http://blog.trailofbits.com/2016/04/01/hacker-handle-bounty/ [pic.x.com/OYoGemGSkk]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Ce9HKmIUMAAeTkA.jpg — no alt text provided by author
 
+**Links in post:** http://blog.trailofbits.com/2016/04/01/hacker-handle-bounty/
+
 
 ---
 
-## 2014-10-06 · Post · JPMorgan attack shows hackers gaining upper hand in cyberwars http://t.co/zEkBft6IsP via @learmonth
+## 2016-03-18 · Post · If you're at CanSecWest today, head to the talk area to see Sophia D'Antoine's "Automatic Binary Co
+
+
+### Post — @trailofbits — 2016-03-18 17:48 UTC (2016-03-18 18:48 WAT)
+
+- URL: https://x.com/trailofbits/status/710885601898340352
+- Metrics (at fetch): not returned
+
+> If you're at #CanSecWest today, head to the talk area to see Sophia D'Antoine's "Automatic Binary Constraint Solving"
+
+
+---
+
+## 2016-03-09 · Post · The Problem with Dynamic Program Analysis http://blog.trailofbits.com/2016/03/09/the-problem-with-dy
+
+
+### Post — @trailofbits — 2016-03-09 17:53 UTC (2016-03-09 18:53 WAT)
+
+- URL: https://x.com/trailofbits/status/707625415540498432
+- Metrics (at fetch): not returned
+
+> The Problem with Dynamic Program Analysis http://blog.trailofbits.com/2016/03/09/the-problem-with-dynamic-program-analysis [pic.x.com/IotUvYZbeT]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CdH9kJvUsAASawJ.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2016/03/09/the-problem-with-dynamic-program-analysis
+
+
+---
+
+## 2016-02-18 · Post · .@dguido in the @RiskyBusiness podcast discussing the FBI vs Apple court order. Have a listen: http:
+
+
+### Post — @trailofbits — 2016-02-18 16:30 UTC (2016-02-18 17:30 WAT)
+
+- URL: https://x.com/trailofbits/status/700356748994088960
+- Metrics (at fetch): not returned
+
+> .@dguido in the @RiskyBusiness podcast discussing the FBI vs Apple court order. Have a listen: http://risky.biz/RB399
+
+**Links in post:** http://risky.biz/RB399
+
+
+---
+
+## 2016-02-17 · Post · We will be hosting an information session for reporters covering the Apple vs FBI court order at 5:3
+
+
+### Post — @trailofbits — 2016-02-17 22:06 UTC (2016-02-17 23:06 WAT)
+
+- URL: https://x.com/trailofbits/status/700078801422831618
+- Metrics (at fetch): not returned
+
+> We will be hosting an information session for reporters covering the Apple vs FBI court order at 5:30pm EST. DM this acct for info.
+
+
+---
+
+## 2016-02-17 · Post · Apple can comply with the FBI court order http://blog.trailofbits.com/2016/02/17/apple-can-comply-wi
+
+
+### Post — @trailofbits — 2016-02-17 06:42 UTC (2016-02-17 07:42 WAT)
+
+- URL: https://x.com/trailofbits/status/699846404911423488
+- Metrics (at fetch): not returned
+
+> Apple can comply with the FBI court order http://blog.trailofbits.com/2016/02/17/apple-can-comply-with-the-fbi-court-order/ [pic.x.com/JRLOYqHxGZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CbZamJRUkAA-mc1.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2016/02/17/apple-can-comply-with-the-fbi-court-order/
+
+
+---
+
+## 2016-02-09 · Post · Passwords are so iOS8. Upgrade your app with Tidas for better security and user experience. https://
+
+
+### Post — @trailofbits — 2016-02-09 18:27 UTC (2016-02-09 19:27 WAT)
+
+- URL: https://x.com/trailofbits/status/697124664661950464
+- Metrics (at fetch): not returned
+
+> Passwords are so iOS8. Upgrade your app with Tidas for better security and user experience. https://www.passwordlessapps.com/
+
+**Links in post:** https://www.passwordlessapps.com/
+
+
+---
+
+## 2016-02-09 · Post · It's @EmpireHacking tonight in NYC. Come by and ask us about Tidas, our new iOS Secure Enclave SDK. 
+
+
+Tags (automatic): Mobile / Android / iOS, TEE / enclave
+
+
+### Post — @trailofbits — 2016-02-09 17:16 UTC (2016-02-09 18:16 WAT)
+
+- URL: https://x.com/trailofbits/status/697106857433960453
+- Metrics (at fetch): not returned
+
+> It's @EmpireHacking tonight in NYC. Come by and ask us about Tidas, our new iOS Secure Enclave SDK. http://www.meetup.com/Empire-Hacking/
+
+**Links in post:** http://www.meetup.com/Empire-Hacking/
+
+
+---
+
+## 2016-02-09 · Post · Tidas: a new service for building password-less apps http://blog.trailofbits.com/2016/02/09/tidas-a-
+
+
+### Post — @trailofbits — 2016-02-09 10:51 UTC (2016-02-09 11:51 WAT)
+
+- URL: https://x.com/trailofbits/status/697009874056523776
+- Metrics (at fetch): not returned
+
+> Tidas: a new service for building password-less apps http://blog.trailofbits.com/2016/02/09/tidas-a-new-service-for-building-password-less-apps/ [pic.x.com/QNPaR0a7LB]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CaxGyVvUsAAVeX8.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2016/02/09/tidas-a-new-service-for-building-password-less-apps/
+
+
+---
+
+## 2016-02-04 · Post · Join us at Etsy’s Code as Craft http://blog.trailofbits.com/2016/02/04/join-us-at-code-as-craft/
+
+
+### Post — @trailofbits — 2016-02-04 11:52 UTC (2016-02-04 12:52 WAT)
+
+- URL: https://x.com/trailofbits/status/695213428596568064
+- Metrics (at fetch): not returned
+
+> Join us at Etsy’s Code as Craft http://blog.trailofbits.com/2016/02/04/join-us-at-code-as-craft/
+
+**Links in post:** http://blog.trailofbits.com/2016/02/04/join-us-at-code-as-craft/
+
+
+---
+
+## 2016-02-02 · Post · Trail of Bits is sending 2 speakers and 7 attendees to @InfiltrateCon in Miami this year. See you th
+
+
+### Post — @trailofbits — 2016-02-02 15:03 UTC (2016-02-02 16:03 WAT)
+
+- URL: https://x.com/trailofbits/status/694536628476469248
+- Metrics (at fetch): not returned
+
+> Trail of Bits is sending 2 speakers and 7 attendees to @InfiltrateCon in Miami this year. See you there! [pic.x.com/dQSZQUIASn]
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/694536558007959552/pu/img/B1snajTIKO3yYmrZ.jpg — no alt text provided by author
+
+
+---
+
+## 2016-02-02 · Post · Software Security Ideas Ahead of Their Time http://blog.trailofbits.com/2016/02/02/software-security
+
+
+### Post — @trailofbits — 2016-02-02 11:50 UTC (2016-02-02 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/694488052060663812
+- Metrics (at fetch): not returned
+
+> Software Security Ideas Ahead of Their Time http://blog.trailofbits.com/2016/02/02/software-security-ideas-ahead-of-their-time
+
+**Links in post:** http://blog.trailofbits.com/2016/02/02/software-security-ideas-ahead-of-their-time
+
+
+---
+
+## 2016-01-25 · Post · Artem Dinaburg will be revealing implementation details of our CRS exclusively at @InfiltrateCon htt
+
+
+### Post — @trailofbits — 2016-01-25 21:27 UTC (2016-01-25 22:27 WAT)
+
+- URL: https://x.com/trailofbits/status/691734072234741760
+- Metrics (at fetch): not returned
+
+> Artem Dinaburg will be revealing implementation details of our CRS exclusively at @InfiltrateCon http://infiltratecon.com/speakers.html#artem
+
+**Links in post:** http://infiltratecon.com/speakers.html#artem
+
+
+---
+
+## 2016-01-24 · Post · Hackers on Ice companytrip @ Top of Vail Mountain https://www.instagram.com/p/BA5rDVEI7Zk/
+
+
+### Post — @trailofbits — 2016-01-24 00:09 UTC (2016-01-24 01:09 WAT)
+
+- URL: https://x.com/trailofbits/status/691050070079332354
+- Metrics (at fetch): not returned
+
+> Hackers on Ice #companytrip @ Top of Vail Mountain https://www.instagram.com/p/BA5rDVEI7Zk/
+
+**Links in post:** https://www.instagram.com/p/BA5rDVEI7Zk/
+
+
+---
+
+## 2016-01-18 · Post · Join us at the Clang/LLVM Sprint at Bloomberg on Feb 6-7 (we will be mentors). Thanks @_kpfleming fo
+
+
+### Post — @trailofbits — 2016-01-18 19:02 UTC (2016-01-18 20:02 WAT)
+
+- URL: https://x.com/trailofbits/status/689160991414693888
+- Metrics (at fetch): not returned
+
+> Join us at the Clang/LLVM Sprint at Bloomberg on Feb 6-7 (we will be mentors). Thanks @_kpfleming for organizing! http://lists.llvm.org/pipermail/llvm-dev/2016-January/093960.html
+
+**Links in post:** http://lists.llvm.org/pipermail/llvm-dev/2016-January/093960.html
+
+
+---
+
+## 2016-01-13 · Post · You won't believe how we're using military-funded technology to find bugs in Internet… http://blog.t
+
+
+### Post — @trailofbits — 2016-01-13 11:50 UTC (2016-01-13 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/687240348884688896
+- Metrics (at fetch): not returned
+
+> You won't believe how we're using military-funded technology to find bugs in Internet… http://blog.trailofbits.com/2016/01/13/hacking-for-charity-automated-bug-finding-in-libotr [pic.x.com/kaOkaElyIL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CYmRdHfU0AEEZlV.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2016/01/13/hacking-for-charity-automated-bug-finding-in-libotr
+
+
+---
+
+## 2016-01-11 · Post · Great article in @NSAgov's The Next Wave this month on Build it Break it by Andrew Ruef https://www.
+
+
+### Post — @trailofbits — 2016-01-11 21:59 UTC (2016-01-11 22:59 WAT)
+
+- URL: https://x.com/trailofbits/status/686668872171307008
+- Metrics (at fetch): not returned
+
+> Great article in @NSAgov's The Next Wave this month on Build it Break it by Andrew Ruef https://www.nsa.gov/research/tnw/tnw211/articles/pdfs/TNW_21-1_2015_Article5.pdf
+
+**Links in post:** https://www.nsa.gov/research/tnw/tnw211/articles/pdfs/TNW_21-1_2015_Article5.pdf
+
+
+---
+
+## 2016-01-07 · Post · 2015 In Review http://blog.trailofbits.com/2016/01/07/2015-in-review/
+
+
+### Post — @trailofbits — 2016-01-07 11:51 UTC (2016-01-07 12:51 WAT)
+
+- URL: https://x.com/trailofbits/status/685066213198696449
+- Metrics (at fetch): not returned
+
+> 2015 In Review http://blog.trailofbits.com/2016/01/07/2015-in-review/
+
+**Links in post:** http://blog.trailofbits.com/2016/01/07/2015-in-review/
+
+
+---
+
+## 2016-01-05 · Post · We are proud to announce that @trailofbits is sponsoring @letsencrypt http://blog.trailofbits.com/20
+
+
+### Post — @trailofbits — 2016-01-05 11:51 UTC (2016-01-05 12:51 WAT)
+
+- URL: https://x.com/trailofbits/status/684341387983101952
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 3
+
+> We are proud to announce that @trailofbits is sponsoring @letsencrypt http://blog.trailofbits.com/2016/01/05/lets-encrypt-the-internet/
+
+**Links in post:** http://blog.trailofbits.com/2016/01/05/lets-encrypt-the-internet/
+
+
+---
+
+## 2015-12-15 · Post · Self-Hosted Video Chat with Tuber http://blog.trailofbits.com/2015/12/15/self-hosted-video-chat-with
+
+
+### Post — @trailofbits — 2015-12-15 12:02 UTC (2015-12-15 13:02 WAT)
+
+- URL: https://x.com/trailofbits/status/676733973515513856
+- Metrics (at fetch): bookmark 0, impression 0, like 19, quote 0, reply 1, retweet 18
+
+> Self-Hosted Video Chat with Tuber http://blog.trailofbits.com/2015/12/15/self-hosted-video-chat-with-tuber [pic.x.com/ZQz3lP7dkZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CWQ99l8U4AA19DO.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2015/12/15/self-hosted-video-chat-with-tuber
+
+
+---
+
+## 2015-12-05 · Post · Join our Slack for support and feedback on our open-source tools like mcsema or our CTF challenges h
+
+
+### Post — @trailofbits — 2015-12-05 21:02 UTC (2015-12-05 22:02 WAT)
+
+- URL: https://x.com/trailofbits/status/673246183855296513
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 1
+
+> Join our Slack for support and feedback on our open-source tools like mcsema or our CTF challenges https://empireslacking.herokuapp.com/
+
+**Links in post:** https://empireslacking.herokuapp.com/
+
+
+---
+
+## 2015-12-05 · Post · We've been running a Slack community for NYC security professionals. Please join us if you're intere
+
+
+### Post — @trailofbits — 2015-12-05 20:47 UTC (2015-12-05 21:47 WAT)
+
+- URL: https://x.com/trailofbits/status/673242365776150529
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> We've been running a Slack community for NYC security professionals. Please join us if you're interested https://empireslacking.herokuapp.com/
+
+**Links in post:** https://empireslacking.herokuapp.com/
+
+
+---
+
+## 2015-12-01 · Post · Read more about the Build it, Break it, Fix it secure programming contest in this review by @anderso
+
+
+### Post — @trailofbits — 2015-12-01 01:53 UTC (2015-12-01 02:53 WAT)
+
+- URL: https://x.com/trailofbits/status/671507266839961600
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 4
+
+> Read more about the Build it, Break it, Fix it secure programming contest in this review by @andersonmvd http://dadario.com.br/most-secure-applications-of-bibifi-contest/
+
+**Links in post:** http://dadario.com.br/most-secure-applications-of-bibifi-contest/
+
+
+---
+
+## 2015-11-17 · Post · Calling all college students: We are interviewing for summer internships early this year. Apply onli
+
+
+### Post — @trailofbits — 2015-11-17 22:49 UTC (2015-11-17 23:49 WAT)
+
+- URL: https://x.com/trailofbits/status/666749947333709824
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 4
+
+> Calling all college students: We are interviewing for summer internships early this year. Apply online! https://www.trailofbits.com/careers/
+
+**Links in post:** https://www.trailofbits.com/careers/
+
+
+---
+
+## 2015-11-16 · Post · We're hiring C++ developers in NY/DC/Chicago. Join our team and work on the latest in software secur
+
+
+### Post — @trailofbits — 2015-11-16 16:09 UTC (2015-11-16 17:09 WAT)
+
+- URL: https://x.com/trailofbits/status/666286982000222208
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 3, retweet 10
+
+> We're hiring C++ developers in NY/DC/Chicago. Join our team and work on the latest in software security R&amp;D! https://www.trailofbits.com/careers/
+
+**Links in post:** https://www.trailofbits.com/careers/
+
+
+---
+
+## 2015-10-30 · Post · Why we give so much to CSAW http://blog.trailofbits.com/2015/10/30/why-we-give-so-much-to-csaw [pic.
+
+
+### Post — @trailofbits — 2015-10-30 11:51 UTC (2015-10-30 12:51 WAT)
+
+- URL: https://x.com/trailofbits/status/660061415349186560
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 5
+
+> Why we give so much to CSAW http://blog.trailofbits.com/2015/10/30/why-we-give-so-much-to-csaw [pic.x.com/V1uuPam19X]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/CSkCW9GUkAAatkF.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2015/10/30/why-we-give-so-much-to-csaw
+
+
+---
+
+## 2015-10-29 · Post · How to Protect Your Privacy Online http://mjm.ag/1iehLsi via @mensjournal
+
+
+### Post — @trailofbits — 2015-10-29 13:36 UTC (2015-10-29 14:36 WAT)
+
+- URL: https://x.com/trailofbits/status/659725562747973633
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> How to Protect Your Privacy Online http://mjm.ag/1iehLsi via @mensjournal
+
+**Links in post:** http://mjm.ag/1iehLsi
+
+
+---
+
+## 2015-10-15 · Post · Hacking Higher Education http://reut.rs/1MqKNx0 via @Reuters
+
+
+### Post — @trailofbits — 2015-10-15 20:15 UTC (2015-10-15 21:15 WAT)
+
+- URL: https://x.com/trailofbits/status/654752419742543872
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 1, retweet 2
+
+> Hacking Higher Education http://reut.rs/1MqKNx0 via @Reuters
+
+**Links in post:** http://reut.rs/1MqKNx0
+
+
+---
+
+## 2015-10-15 · Post · Peter Goodman of @trailofbits has released the next version of his Linux DBT tool, Granary2: https:/
+
+
+### Post — @trailofbits — 2015-10-15 20:06 UTC (2015-10-15 21:06 WAT)
+
+- URL: https://x.com/trailofbits/status/654750094512619521
+- Metrics (at fetch): bookmark 0, impression 0, like 23, quote 0, reply 1, retweet 13
+
+> Peter Goodman of @trailofbits has released the next version of his Linux DBT tool, Granary2: https://github.com/Granary/granary2
+
+**Links in post:** https://github.com/Granary/granary2
+
+
+---
+
+## 2015-10-05 · Post · Hillary Clinton aides worried about private email use in 2011 http://reut.rs/1KN0X5V
+
+
+### Post — @trailofbits — 2015-10-05 15:35 UTC (2015-10-05 16:35 WAT)
+
+- URL: https://x.com/trailofbits/status/651058179804123136
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Hillary Clinton aides worried about private email use in 2011 http://reut.rs/1KN0X5V
+
+**Links in post:** http://reut.rs/1KN0X5V
+
+
+---
+
+## 2015-09-21 · Post · Get schooled on AFL by our Chief Fuzzing Officer @lorenrose1013 next Tuesday in NYC http://www.meetu
+
+
+### Post — @trailofbits — 2015-09-21 19:11 UTC (2015-09-21 20:11 WAT)
+
+- URL: https://x.com/trailofbits/status/646039117051097090
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 1
+
+> Get schooled on AFL by our Chief Fuzzing Officer @lorenrose1013 next Tuesday in NYC http://www.meetup.com/NCCOpenForumNYC/events/225514099/
+
+**Links in post:** http://www.meetup.com/NCCOpenForumNYC/events/225514099/
+
+
+---
+
+## 2015-09-17 · Post · In which Sophia uses the MFENCE instruction on VMs, just as Joshua used trumpets on the walls of Jer
+
+
+### Post — @trailofbits — 2015-09-17 00:15 UTC (2015-09-17 01:15 WAT)
+
+- URL: https://x.com/trailofbits/status/644303524637966336
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 6
+
+> In which Sophia uses the MFENCE instruction on VMs, just as Joshua used trumpets on the walls of Jericho. -PML
+> https://www.alchemistowl.org/pocorgtfo/pocorgtfo09.pdf
+
+**Links in post:** https://www.alchemistowl.org/pocorgtfo/pocorgtfo09.pdf
+
+
+---
+
+## 2015-09-10 · Post · Thanks for all the comments everyone! Loren has seen every one of them. :-D
+
+
+### Post — @trailofbits — 2015-09-10 23:30 UTC (2015-09-11 00:30 WAT)
+
+- URL: https://x.com/trailofbits/status/642117953073377280
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Thanks for all the comments everyone! Loren has seen every one of them. :-D
+
+
+---
+
+## 2015-09-10 · Post · Summer @ Trail of Bits http://blog.trailofbits.com/2015/09/10/summer-trail-of-bits [pic.x.com/Dth3ut
+
+
+### Post — @trailofbits — 2015-09-10 11:50 UTC (2015-09-10 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/641941901248036864
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 1, retweet 9
+
+> Summer @ Trail of Bits http://blog.trailofbits.com/2015/09/10/summer-trail-of-bits [pic.x.com/Dth3utXFqc]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/COiiwckVAAASFOb.jpg — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2015/09/10/summer-trail-of-bits
+
+
+---
+
+## 2015-09-09 · Post · Flare-On Reversing Challenges 2015 http://blog.trailofbits.com/2015/09/09/flare-on-reversing-challen
+
+
+### Post — @trailofbits — 2015-09-09 11:50 UTC (2015-09-09 12:50 WAT)
+
+- URL: https://x.com/trailofbits/status/641579505329410048
+- Metrics (at fetch): bookmark 0, impression 0, like 64, quote 0, reply 1, retweet 55
+
+> Flare-On Reversing Challenges 2015 http://blog.trailofbits.com/2015/09/09/flare-on-reversing-challenges-2015 [pic.x.com/9riOFrv86S]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/COdZKOmUYAAnLCV.png — no alt text provided by author
+
+**Links in post:** http://blog.trailofbits.com/2015/09/09/flare-on-reversing-challenges-2015
+
+
+---
+
+## 2015-07-31 · Post · Hear from @trailofbits intern Loren Maggiore on opportunities for women in cybersecurity http://live
+
+
+### Post — @trailofbits — 2015-07-31 21:30 UTC (2015-07-31 22:30 WAT)
+
+- URL: https://x.com/trailofbits/status/627229995476385794
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 3
+
+> Hear from @trailofbits intern Loren Maggiore on opportunities for women in cybersecurity http://live.huffingtonpost.com/r/segment/women-in-cybersecurity/55b139482b8c2a4250000469 via @HuffPostLive
+
+**Links in post:** http://live.huffingtonpost.com/r/segment/women-in-cybersecurity/55b139482b8c2a4250000469
+
+
+---
+
+## 2015-07-09 · Post · 64-bit support has been added to mcsema. Thanks Akshay Kumar! https://github.com/trailofbits/mcsema/
+
+
+### Post — @trailofbits — 2015-07-09 14:07 UTC (2015-07-09 15:07 WAT)
+
+- URL: https://x.com/trailofbits/status/619145936422457344
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 0, retweet 15
+
+> 64-bit support has been added to mcsema. Thanks Akshay Kumar! https://github.com/trailofbits/mcsema/pull/35
+
+**Links in post:** https://github.com/trailofbits/mcsema/pull/35
+
+
+---
+
+## 2015-07-07 · Post · iPhones are one of the most secure devices that consumers can buy. Don't screw that up by jailbreaki
+
+
+### Post — @trailofbits — 2015-07-07 14:13 UTC (2015-07-07 15:13 WAT)
+
+- URL: https://x.com/trailofbits/status/618422535001120768
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 4, retweet 30
+
+> iPhones are one of the most secure devices that consumers can buy. Don't screw that up by jailbreaking yours! http://www.macworld.com/article/2944712/hacking-team-hack-reveals-why-you-shouldnt-jailbreak-your-iphone.html
+
+**Links in post:** http://www.macworld.com/article/2944712/hacking-team-hack-reveals-why-you-shouldnt-jailbreak-your-iphone.html
+
+
+---
+
+## 2015-06-09 · Post · Come see Sophia D'Antoine demonstrate covert cross-VM communications at @BlackhatEvents: https://www
+
+
+### Post — @trailofbits — 2015-06-09 15:52 UTC (2015-06-09 16:52 WAT)
+
+- URL: https://x.com/trailofbits/status/608300645578362880
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 0, retweet 4
+
+> Come see Sophia D'Antoine demonstrate covert cross-VM communications at @BlackhatEvents: https://www.blackhat.com/us-15/briefings.html#exploiting-out-of-order-execution-for-covert-cross-vm-communication
+
+**Links in post:** https://www.blackhat.com/us-15/briefings.html#exploiting-out-of-order-execution-for-covert-cross-vm-communication
+
+
+---
+
+## 2015-06-08 · Post · We updated our Ruby security guide with solutions, check it out! https://github.com/trailofbits/ruby
+
+
+### Post — @trailofbits — 2015-06-08 17:20 UTC (2015-06-08 18:20 WAT)
+
+- URL: https://x.com/trailofbits/status/607960340056268800
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 5
+
+> We updated our Ruby security guide with solutions, check it out! https://github.com/trailofbits/rubysec
+
+**Links in post:** https://github.com/trailofbits/rubysec
+
+
+---
+
+## 2015-06-08 · Post · Introducing the RubySec Field Guide http://blog.trailofbits.com/2015/06/08/introducing-the-rubysec-f
+
+
+### Post — @trailofbits — 2015-06-08 11:54 UTC (2015-06-08 12:54 WAT)
+
+- URL: https://x.com/trailofbits/status/607878420005941249
+- Metrics (at fetch): not returned
+
+> Introducing the RubySec Field Guide http://blog.trailofbits.com/2015/06/08/introducing-the-rubysec-field-guide
+
+**Links in post:** http://blog.trailofbits.com/2015/06/08/introducing-the-rubysec-field-guide
+
+
+---
+
+## 2015-06-02 · Post · The @trailofbits CRS has its own twitter account! Follow @skynet_ebooks for updates while it partici
+
+
+### Post — @trailofbits — 2015-06-02 18:09 UTC (2015-06-02 19:09 WAT)
+
+- URL: https://x.com/trailofbits/status/605798353322917889
+- Metrics (at fetch): not returned
+
+> The @trailofbits CRS has its own twitter account! Follow @skynet_ebooks for updates while it participates in the @DARPA_CGC_CQE
+
+
+---
+
+## 2015-05-13 · Post · Closing the Windows Gap http://wp.me/pfrKF-ngN
+
+
+### Post — @trailofbits — 2015-05-13 21:26 UTC (2015-05-13 22:26 WAT)
+
+- URL: https://x.com/trailofbits/status/598600267676798976
+- Metrics (at fetch): not returned
+
+> Closing the Windows Gap http://wp.me/pfrKF-ngN
+
+**Links in post:** http://wp.me/pfrKF-ngN
+
+
+---
+
+## 2015-05-11 · Post · REcon talks are out! Hear from Sophia D'Antoine, our newest employee, on "Exploiting Out-of-Order-Ex
+
+
+### Post — @trailofbits — 2015-05-11 21:21 UTC (2015-05-11 22:21 WAT)
+
+- URL: https://x.com/trailofbits/status/597874248074534913
+- Metrics (at fetch): not returned
+
+> REcon talks are out! Hear from Sophia D'Antoine, our newest employee, on "Exploiting Out-of-Order-Execution" https://recon.cx/2015/index.html
+
+**Links in post:** https://recon.cx/2015/index.html
+
+
+---
+
+## 2015-05-05 · Post · Empire Hacking, a New Meetup in NYC http://wp.me/pfrKF-mZ2
+
+
+### Post — @trailofbits — 2015-05-05 18:51 UTC (2015-05-05 19:51 WAT)
+
+- URL: https://x.com/trailofbits/status/595662023536615425
+- Metrics (at fetch): not returned
+
+> Empire Hacking, a New Meetup in NYC http://wp.me/pfrKF-mZ2
+
+**Links in post:** http://wp.me/pfrKF-mZ2
+
+
+---
+
+## 2015-04-22 · Post · Andrew Ruef to compete in first Cyber Grand Challenge this summer http://www.diamondbackonline.com/n
+
+
+### Post — @trailofbits — 2015-04-22 17:03 UTC (2015-04-22 18:03 WAT)
+
+- URL: https://x.com/trailofbits/status/590923964450406400
+- Metrics (at fetch): not returned
+
+> Andrew Ruef to compete in first Cyber Grand Challenge this summer http://www.diamondbackonline.com/news/article_6dad9484-e870-11e4-9d2f-6bbd6305cdc5.html
+
+**Links in post:** http://www.diamondbackonline.com/news/article_6dad9484-e870-11e4-9d2f-6bbd6305cdc5.html
+
+
+---
+
+## 2015-04-17 · Post · Rise of the Hacker Robots: Will the @DARPA Cyber Grand Challenge obsolete meatbag hackers? http://mo
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @trailofbits — 2015-04-17 00:17 UTC (2015-04-17 01:17 WAT)
+
+- URL: https://x.com/trailofbits/status/588858910402043904
+- Metrics (at fetch): not returned
+
+> Rise of the Hacker Robots: Will the @DARPA Cyber Grand Challenge obsolete meatbag hackers? http://motherboard.vice.com/read/the-rise-of-the-hackbots by @lorenzoFB
+
+**Links in post:** http://motherboard.vice.com/read/the-rise-of-the-hackbots
+
+
+---
+
+## 2015-04-09 · Post · We're looking for an independent contractor to enhance the functionality of mcsema. Contact us if yo
+
+
+### Post — @trailofbits — 2015-04-09 16:30 UTC (2015-04-09 17:30 WAT)
+
+- URL: https://x.com/trailofbits/status/586204460956934145
+- Metrics (at fetch): not returned
+
+> We're looking for an independent contractor to enhance the functionality of mcsema. Contact us if you're interested!
+
+
+---
+
+## 2015-04-03 · Post · The April Edition - http://eepurl.com/OwFOz
+
+
+### Post — @trailofbits — 2015-04-03 17:04 UTC (2015-04-03 18:04 WAT)
+
+- URL: https://x.com/trailofbits/status/584038751430508544
+- Metrics (at fetch): not returned
+
+> The April Edition - http://eepurl.com/OwFOz
+
+**Links in post:** http://eepurl.com/OwFOz
+
+
+---
+
+## 2015-03-25 · Post · The Smartest Hackers in the Room (Hint: They're Not The Humans) via @nextgov http://www.nextgov.com/
+
+
+### Post — @trailofbits — 2015-03-25 22:13 UTC (2015-03-25 23:13 WAT)
+
+- URL: https://x.com/trailofbits/status/580855131744391171
+- Metrics (at fetch): not returned
+
+> The Smartest Hackers in the Room (Hint: They're Not The Humans) via @nextgov http://www.nextgov.com/cybersecurity/2015/03/smartest-hackers-room-or-these-are-smartest-hackers-world/108466/
+
+**Links in post:** http://www.nextgov.com/cybersecurity/2015/03/smartest-hackers-room-or-these-are-smartest-hackers-world/108466/
+
+
+---
+
+## 2015-03-12 · Post · Hillary Clinton says her email was secure; she can't know http://www.wired.com/2015/03/hillary-clint
+
+
+### Post — @trailofbits — 2015-03-12 16:33 UTC (2015-03-12 17:33 WAT)
+
+- URL: https://x.com/trailofbits/status/576058397847609345
+- Metrics (at fetch): not returned
+
+> Hillary Clinton says her email was secure; she can't know http://www.wired.com/2015/03/hillary-clinton-says-email-secure-cant-know/
+
+**Links in post:** http://www.wired.com/2015/03/hillary-clinton-says-email-secure-cant-know/
+
+
+---
+
+## 2015-03-02 · Post · Army opts for openness with new computer security tool http://fw.to/cEVr0oe @iduncan
+
+
+### Post — @trailofbits — 2015-03-02 16:51 UTC (2015-03-02 17:51 WAT)
+
+- URL: https://x.com/trailofbits/status/572439179814158336
+- Metrics (at fetch): not returned
+
+> Army opts for openness with new computer security tool http://fw.to/cEVr0oe @iduncan
+
+**Links in post:** http://fw.to/cEVr0oe
+
+
+---
+
+## 2015-02-17 · Post · Dan Guido Visits Symantec Cyber Career Connections (SC3) Students in Brooklyn http://www.symantec.co
+
+
+### Post — @trailofbits — 2015-02-17 15:11 UTC (2015-02-17 16:11 WAT)
+
+- URL: https://x.com/trailofbits/status/567702937871605760
+- Metrics (at fetch): not returned
+
+> Dan Guido Visits Symantec Cyber Career Connections (SC3) Students in Brooklyn http://www.symantec.com/connect/blogs/nyu-polytechnics-hacker-residence-dan-guido-visits-symantec-cyber-career-connections-sc3-stude
+
+**Links in post:** http://www.symantec.com/connect/blogs/nyu-polytechnics-hacker-residence-dan-guido-visits-symantec-cyber-career-connections-sc3-stude
+
+
+---
+
+## 2015-02-11 · Post · The paranoid guide to digital security: 5 simple, powerful ways to protect yourself from hackers htt
+
+
+### Post — @trailofbits — 2015-02-11 16:17 UTC (2015-02-11 17:17 WAT)
+
+- URL: https://x.com/trailofbits/status/565545202715484160
+- Metrics (at fetch): not returned
+
+> The paranoid guide to digital security: 5 simple, powerful ways to protect yourself from hackers http://www.consumerreports.org/cro/news/2015/02/paranoid-guide-to-digital-security/index.htm
+
+**Links in post:** http://www.consumerreports.org/cro/news/2015/02/paranoid-guide-to-digital-security/index.htm
+
+
+---
+
+## 2015-01-31 · Post · Feeling productive this weekend? Check out the new mcsema: built with LLVM 3.5 and many new instruct
+
+
+### Post — @trailofbits — 2015-01-31 18:59 UTC (2015-01-31 19:59 WAT)
+
+- URL: https://x.com/trailofbits/status/561599563472330752
+- Metrics (at fetch): not returned
+
+> Feeling productive this weekend? Check out the new mcsema: built with LLVM 3.5 and many new instructions! https://github.com/trailofbits/mcsema
+
+**Links in post:** https://github.com/trailofbits/mcsema
+
+
+---
+
+## 2015-01-05 · Post · With today's blog post recapping our 2014 (http://blog.trailofbits.com/2015/01/05/the-foundation-of-
+
+
+### Post — @trailofbits — 2015-01-05 14:32 UTC (2015-01-05 15:32 WAT)
+
+- URL: https://x.com/trailofbits/status/552110377593753601
+- Metrics (at fetch): not returned
+
+> With today's blog post recapping our 2014 (http://blog.trailofbits.com/2015/01/05/the-foundation-of-2015-2014-in-review/), we are happy to release the videos from THREADS! https://www.trailofbits.com/threads/#2014
+
+**Links in post:** http://blog.trailofbits.com/2015/01/05/the-foundation-of-2015-2014-in-review/, https://www.trailofbits.com/threads/#2014
+
+
+---
+
+## 2015-01-05 · Post · The Foundation of 2015: 2014 in Review http://wp.me/pfrKF-42F
+
+
+### Post — @trailofbits — 2015-01-05 11:51 UTC (2015-01-05 12:51 WAT)
+
+- URL: https://x.com/trailofbits/status/552069781260472320
+- Metrics (at fetch): not returned
+
+> The Foundation of 2015: 2014 in Review http://wp.me/pfrKF-42F
+
+**Links in post:** http://wp.me/pfrKF-42F
+
+
+---
+
+## 2014-12-19 · Post · Job Posting: Engineers wanted at Trail of Bits http://lists.cs.uiuc.edu/pipermail/llvmdev/2014-Decem
+
+
+### Post — @trailofbits — 2014-12-19 18:04 UTC (2014-12-19 19:04 WAT)
+
+- URL: https://x.com/trailofbits/status/546003190131740672
+- Metrics (at fetch): not returned
+
+> Job Posting: Engineers wanted at Trail of Bits http://lists.cs.uiuc.edu/pipermail/llvmdev/2014-December/079925.html
+
+**Links in post:** http://lists.cs.uiuc.edu/pipermail/llvmdev/2014-December/079925.html
+
+
+---
+
+## 2014-12-04 · Post · Want to get paid to work on mcsema? Contact us for contract and full-time opportunities! https://www
+
+
+### Post — @trailofbits — 2014-12-04 19:43 UTC (2014-12-04 20:43 WAT)
+
+- URL: https://x.com/trailofbits/status/540592155216347137
+- Metrics (at fetch): not returned
+
+> Want to get paid to work on mcsema? Contact us for contract and full-time opportunities! https://www.trailofbits.com/careers/
+
+**Links in post:** https://www.trailofbits.com/careers/
+
+
+---
+
+## 2014-12-04 · Post · Close Encounters with Symbolic Execution (Part 2) http://wp.me/pfrKF-Bu
+
+
+### Post — @trailofbits — 2014-12-04 12:50 UTC (2014-12-04 13:50 WAT)
+
+- URL: https://x.com/trailofbits/status/540488365661896704
+- Metrics (at fetch): not returned
+
+> Close Encounters with Symbolic Execution (Part 2) http://wp.me/pfrKF-Bu
+
+**Links in post:** http://wp.me/pfrKF-Bu
+
+
+---
+
+## 2014-11-25 · Post · Close Encounters with Symbolic Execution http://wp.me/pfrKF-B9
+
+
+### Post — @trailofbits — 2014-11-25 12:50 UTC (2014-11-25 13:50 WAT)
+
+- URL: https://x.com/trailofbits/status/537226937530200064
+- Metrics (at fetch): not returned
+
+> Close Encounters with Symbolic Execution http://wp.me/pfrKF-B9
+
+**Links in post:** http://wp.me/pfrKF-B9
+
+
+---
+
+## 2014-11-12 · Post · Practical tips for keeping your sensitive data out of hackers' hands http://wealthmanagement.com/tec
+
+
+### Post — @trailofbits — 2014-11-12 16:10 UTC (2014-11-12 17:10 WAT)
+
+- URL: https://x.com/trailofbits/status/532565989985353729
+- Metrics (at fetch): not returned
+
+> Practical tips for keeping your sensitive data out of hackers' hands http://wealthmanagement.com/technology/qa-make-me-safe by @Llauren
+
+**Links in post:** http://wealthmanagement.com/technology/qa-make-me-safe
+
+
+---
+
+## 2014-10-06 · Post · We're watching @awruef give a preview of his talk on @ubuilditbreakit at @iSECPartners Open Forum. [
+
+
+### Post — @trailofbits — 2014-10-06 23:17 UTC (2014-10-07 00:17 WAT)
+
+- URL: https://x.com/trailofbits/status/519265228987838464
+- Metrics (at fetch): not returned
+
+> We're watching @awruef give a preview of his talk on @ubuilditbreakit at @iSECPartners Open Forum. [pic.x.com/cbGWVv9k7L]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/BzTM-UEIcAApOV3.jpg — no alt text provided by author
+
+
+---
+
+## 2014-10-06 · Post · JPMorgan attack shows hackers gaining upper hand in cyberwars http://www.ibtimes.com/jpmorgan-attack
 
 
 ### Post — @trailofbits — 2014-10-06 16:16 UTC (2014-10-06 17:16 WAT)
@@ -19009,12 +23198,74 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/519159184466513920
 - Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 3
 
-> JPMorgan attack shows hackers gaining upper hand in cyberwars http://t.co/zEkBft6IsP via @learmonth
+> JPMorgan attack shows hackers gaining upper hand in cyberwars http://www.ibtimes.com/jpmorgan-attack-shows-hackers-gaining-upper-hand-cyberwars-1699278 via @learmonth
+
+**Links in post:** http://www.ibtimes.com/jpmorgan-attack-shows-hackers-gaining-upper-hand-cyberwars-1699278
 
 
 ---
 
-## 2014-09-25 · Post · New 'Bash' software bug may pose bigger threat than 'Heartbleed' http://t.co/5CzMKo60tG via @reuters
+## 2014-10-02 · Post · Announcing the THREADS 2014 speaker lineup http://wp.me/pfrKF-zF
+
+
+### Post — @trailofbits — 2014-10-02 12:00 UTC (2014-10-02 13:00 WAT)
+
+- URL: https://x.com/trailofbits/status/517645361280606209
+- Metrics (at fetch): not returned
+
+> Announcing the THREADS 2014 speaker lineup http://wp.me/pfrKF-zF
+
+**Links in post:** http://wp.me/pfrKF-zF
+
+
+---
+
+## 2014-10-01 · Post · See @dguido discuss cryptography and computer science in a historical context after a screening of 
+
+
+### Post — @trailofbits — 2014-10-01 16:03 UTC (2014-10-01 17:03 WAT)
+
+- URL: https://x.com/trailofbits/status/517344041135255552
+- Metrics (at fetch): not returned
+
+> See @dguido discuss cryptography and computer science in a historical context after a screening of #TheImitationGame http://www.hamptons.com/The-Arts/Hamptons-International-Film-Festival/20132/Morten-Tyldums-The-Imitation-Game-To-Receive.html#.VCwlXilhVaQ
+
+**Links in post:** http://www.hamptons.com/The-Arts/Hamptons-International-Film-Festival/20132/Morten-Tyldums-The-Imitation-Game-To-Receive.html#.VCwlXilhVaQ
+
+
+---
+
+## 2014-09-29 · Post · Virginia hacker claims bitsquatting let him manipulate gift card values. We don’t believe him. http:
+
+
+### Post — @trailofbits — 2014-09-29 15:35 UTC (2014-09-29 16:35 WAT)
+
+- URL: https://x.com/trailofbits/status/516612201788895232
+- Metrics (at fetch): not returned
+
+> Virginia hacker claims bitsquatting let him manipulate gift card values. We don’t believe him. http://www.washingtonpost.com/local/crime/a-virginia-hacker-catches-the-attention-of-federal-law-enforcement/2014/09/27/51251eee-1405-11e4-9285-4243a40ddc97_story.html via @jjouvenal
+
+**Links in post:** http://www.washingtonpost.com/local/crime/a-virginia-hacker-catches-the-attention-of-federal-law-enforcement/2014/09/27/51251eee-1405-11e4-9285-4243a40ddc97_story.html
+
+
+---
+
+## 2014-09-29 · Post · We’re Sponsoring the NYU-Poly Cybersecurity Women’s Symposium http://wp.me/pfrKF-zp
+
+
+### Post — @trailofbits — 2014-09-29 12:50 UTC (2014-09-29 13:50 WAT)
+
+- URL: https://x.com/trailofbits/status/516570664199680002
+- Metrics (at fetch): not returned
+
+> We’re Sponsoring the NYU-Poly Cybersecurity Women’s Symposium http://wp.me/pfrKF-zp
+
+**Links in post:** http://wp.me/pfrKF-zp
+
+
+---
+
+## 2014-09-25 · Post · New 'Bash' software bug may pose bigger threat than 'Heartbleed' http://reut.rs/1psQezC via @reuters
 
 
 ### Post — @trailofbits — 2014-09-25 17:34 UTC (2014-09-25 18:34 WAT)
@@ -19022,12 +23273,419 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/515192597782863872
 - Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 1
 
-> New 'Bash' software bug may pose bigger threat than 'Heartbleed' http://t.co/5CzMKo60tG via @reuters
+> New 'Bash' software bug may pose bigger threat than 'Heartbleed' http://reut.rs/1psQezC via @reuters
+
+**Links in post:** http://reut.rs/1psQezC
 
 
 ---
 
-## 2014-04-18 · Post · TOB's Andrew Ruef talks about the Heartbleed bug on @WPBF25News http://t.co/GnujaUI26V
+## 2014-09-15 · Post · No business is too small: 10 Ways to Prevent a Data Breach HSBHackerLab  http://www.businesswire.co
+
+
+### Post — @trailofbits — 2014-09-15 15:56 UTC (2014-09-15 16:56 WAT)
+
+- URL: https://x.com/trailofbits/status/511544074273165313
+- Metrics (at fetch): not returned
+
+> No business is too small: 10 Ways to Prevent a Data Breach #HSBHackerLab  http://www.businesswire.com/news/home/20140911005711/en/%E2%80%9CHacker-Lab%E2%80%9D-Event-Shows-Cybercriminals-Attack-Small#.VBcG52Qh8RQ
+
+**Links in post:** http://www.businesswire.com/news/home/20140911005711/en/%E2%80%9CHacker-Lab%E2%80%9D-Event-Shows-Cybercriminals-Attack-Small#.VBcG52Qh8RQ
+
+
+---
+
+## 2014-09-04 · Post · Build it Break it challenges students to first build quality software, then break each other's work 
+
+
+### Post — @trailofbits — 2014-09-04 16:44 UTC (2014-09-04 17:44 WAT)
+
+- URL: https://x.com/trailofbits/status/507569915004342272
+- Metrics (at fetch): not returned
+
+> Build it Break it challenges students to first build quality software, then break each other's work http://www.cyber.umd.edu/news/news_story.php?id=8438
+
+**Links in post:** http://www.cyber.umd.edu/news/news_story.php?id=8438
+
+
+---
+
+## 2014-09-02 · Post · Enabling Two-Factor Authentication (2FA) for Apple ID and DropBox http://blog.trailofbits.com/2014/0
+
+
+### Post — @trailofbits — 2014-09-02 21:22 UTC (2014-09-02 22:22 WAT)
+
+- URL: https://x.com/trailofbits/status/506915026247380992
+- Metrics (at fetch): not returned
+
+> Enabling Two-Factor Authentication (2FA) for Apple ID and DropBox http://blog.trailofbits.com/2014/09/02/enabling-two-factor-authentication-2fa-for-apple-id-and-dropbox/
+
+**Links in post:** http://blog.trailofbits.com/2014/09/02/enabling-two-factor-authentication-2fa-for-apple-id-and-dropbox/
+
+
+---
+
+## 2014-08-20 · Post · ReMASTering Applications by Obfuscating during Compilation http://wp.me/pfrKF-xE
+
+
+### Post — @trailofbits — 2014-08-20 13:02 UTC (2014-08-20 14:02 WAT)
+
+- URL: https://x.com/trailofbits/status/502078204127870977
+- Metrics (at fetch): not returned
+
+> ReMASTering Applications by Obfuscating during Compilation http://wp.me/pfrKF-xE
+
+**Links in post:** http://wp.me/pfrKF-xE
+
+
+---
+
+## 2014-08-07 · Post · We’ve added a video of Andrew and Artem’s talk about McSema from @reconmtl to our blog: http://blog.
+
+
+### Post — @trailofbits — 2014-08-07 19:50 UTC (2014-08-07 20:50 WAT)
+
+- URL: https://x.com/trailofbits/status/497469813800058880
+- Metrics (at fetch): not returned
+
+> We’ve added a video of Andrew and Artem’s talk about McSema from @reconmtl to our blog: http://blog.trailofbits.com/2014/08/07/mcsema-is-officially-open-source/
+
+**Links in post:** http://blog.trailofbits.com/2014/08/07/mcsema-is-officially-open-source/
+
+
+---
+
+## 2014-08-07 · Post · McSema discussions on Reddit (http://www.reddit.com/r/netsec/comments/2cwcmi/mcsema_is_a_framework_f
+
+
+### Post — @trailofbits — 2014-08-07 19:48 UTC (2014-08-07 20:48 WAT)
+
+- URL: https://x.com/trailofbits/status/497469404498911232
+- Metrics (at fetch): not returned
+
+> McSema discussions on Reddit (http://www.reddit.com/r/netsec/comments/2cwcmi/mcsema_is_a_framework_for_analyzing_and/), Hacker News (https://news.ycombinator.com/item?id=8148669), and Lobsters (https://lobste.rs/s/ym7rqu)
+
+**Links in post:** http://www.reddit.com/r/netsec/comments/2cwcmi/mcsema_is_a_framework_for_analyzing_and/, https://news.ycombinator.com/item?id=8148669, https://lobste.rs/s/ym7rqu
+
+
+---
+
+## 2014-08-07 · Post · McSema is Officially Open Source! http://wp.me/pfrKF-xp
+
+
+### Post — @trailofbits — 2014-08-07 12:50 UTC (2014-08-07 13:50 WAT)
+
+- URL: https://x.com/trailofbits/status/497364257667706880
+- Metrics (at fetch): not returned
+
+> McSema is Officially Open Source! http://wp.me/pfrKF-xp
+
+**Links in post:** http://wp.me/pfrKF-xp
+
+
+---
+
+## 2014-08-01 · Post · Submit to the THREADS CFP, a 2-day conference exploring state-of-the-art advances in security automa
+
+
+### Post — @trailofbits — 2014-08-01 13:38 UTC (2014-08-01 14:38 WAT)
+
+- URL: https://x.com/trailofbits/status/495201984522506240
+- Metrics (at fetch): not returned
+
+> Submit to the THREADS CFP, a 2-day conference exploring state-of-the-art advances in security automation. http://blog.trailofbits.com/2014/08/01/education-initiative-spotlight-threads-call-for-papers/
+
+**Links in post:** http://blog.trailofbits.com/2014/08/01/education-initiative-spotlight-threads-call-for-papers/
+
+
+---
+
+## 2014-08-01 · Post · Education Initiative Spotlight: THREADS Call for Papers http://wp.me/pfrKF-wS
+
+
+### Post — @trailofbits — 2014-08-01 12:51 UTC (2014-08-01 13:51 WAT)
+
+- URL: https://x.com/trailofbits/status/495189975135047681
+- Metrics (at fetch): not returned
+
+> Education Initiative Spotlight: THREADS Call for Papers http://wp.me/pfrKF-wS
+
+**Links in post:** http://wp.me/pfrKF-wS
+
+
+---
+
+## 2014-07-30 · Post · Education Initiative Spotlight: Build it Break It http://wp.me/pfrKF-wz
+
+
+### Post — @trailofbits — 2014-07-30 06:10 UTC (2014-07-30 07:10 WAT)
+
+- URL: https://x.com/trailofbits/status/494364283958865921
+- Metrics (at fetch): not returned
+
+> Education Initiative Spotlight: Build it Break It http://wp.me/pfrKF-wz
+
+**Links in post:** http://wp.me/pfrKF-wz
+
+
+---
+
+## 2014-07-28 · Post · Education Initiative Spotlight: CSAW Summer Program for Women http://wp.me/pfrKF-wo
+
+
+### Post — @trailofbits — 2014-07-28 12:51 UTC (2014-07-28 13:51 WAT)
+
+- URL: https://x.com/trailofbits/status/493740457210286080
+- Metrics (at fetch): not returned
+
+> Education Initiative Spotlight: CSAW Summer Program for Women http://wp.me/pfrKF-wo
+
+**Links in post:** http://wp.me/pfrKF-wo
+
+
+---
+
+## 2014-07-21 · Post · Watch the @CNASdc “Living with Cyber Insecurity” event live: http://www.cnas.org/live
+
+
+### Post — @trailofbits — 2014-07-21 18:39 UTC (2014-07-21 19:39 WAT)
+
+- URL: https://x.com/trailofbits/status/491291412218920962
+- Metrics (at fetch): not returned
+
+> Watch the @CNASdc “Living with Cyber Insecurity” event live: http://www.cnas.org/live
+
+**Links in post:** http://www.cnas.org/live
+
+
+---
+
+## 2014-07-21 · Post · We’re honored to cited in “Surviving on a Diet of Poisoned Fruit” by @CNASdc, now available online. 
+
+
+### Post — @trailofbits — 2014-07-21 18:37 UTC (2014-07-21 19:37 WAT)
+
+- URL: https://x.com/trailofbits/status/491290951789203456
+- Metrics (at fetch): not returned
+
+> We’re honored to cited in “Surviving on a Diet of Poisoned Fruit” by @CNASdc, now available online. http://www.cnas.org/surviving-diet-poisoned-fruit
+
+**Links in post:** http://www.cnas.org/surviving-diet-poisoned-fruit
+
+
+---
+
+## 2014-07-15 · Post · Trail of Bits Adds Mobile Security Researcher Nicholas DePetrillo to Growing Team http://wp.me/pfrKF
+
+
+### Post — @trailofbits — 2014-07-15 12:50 UTC (2014-07-15 13:50 WAT)
+
+- URL: https://x.com/trailofbits/status/489029205808513024
+- Metrics (at fetch): not returned
+
+> Trail of Bits Adds Mobile Security Researcher Nicholas DePetrillo to Growing Team http://wp.me/pfrKF-wf
+
+**Links in post:** http://wp.me/pfrKF-wf
+
+
+---
+
+## 2014-07-04 · Post · Battle Bots are making a comeback - http://eepurl.com/XfA6D
+
+
+### Post — @trailofbits — 2014-07-04 16:00 UTC (2014-07-04 17:00 WAT)
+
+- URL: https://x.com/trailofbits/status/485090771247198208
+- Metrics (at fetch): not returned
+
+> Battle Bots are making a comeback - http://eepurl.com/XfA6D
+
+**Links in post:** http://eepurl.com/XfA6D
+
+
+---
+
+## 2014-07-02 · Post · We’re looking for enthusiastic hackers, scientists, and engineers to join us. See our new careers pa
+
+
+### Post — @trailofbits — 2014-07-02 19:48 UTC (2014-07-02 20:48 WAT)
+
+- URL: https://x.com/trailofbits/status/484423427248652289
+- Metrics (at fetch): not returned
+
+> We’re looking for enthusiastic hackers, scientists, and engineers to join us. See our new careers page for more info: http://www.trailofbits.com/careers/
+
+**Links in post:** http://www.trailofbits.com/careers/
+
+
+---
+
+## 2014-06-23 · Post · McSema brings the world of LLVM program analysis and manipulation tools to binary executables http:/
+
+
+### Post — @trailofbits — 2014-06-23 13:01 UTC (2014-06-23 14:01 WAT)
+
+- URL: https://x.com/trailofbits/status/481059448807387138
+- Metrics (at fetch): not returned
+
+> McSema brings the world of LLVM program analysis and manipulation tools to binary executables http://wp.me/pfrKF-w0
+
+**Links in post:** http://wp.me/pfrKF-w0
+
+
+---
+
+## 2014-06-17 · Post · HSCTF hacking competition challenges thousands of young coders http://techpageone.dell.com/technolog
+
+
+### Post — @trailofbits — 2014-06-17 20:52 UTC (2014-06-17 21:52 WAT)
+
+- URL: https://x.com/trailofbits/status/479003574584627201
+- Metrics (at fetch): not returned
+
+> HSCTF hacking competition challenges thousands of young coders http://techpageone.dell.com/technology/security-it/hsctf-hacking-competition-challenges-young-coders/#.U6CqBpQh8RS
+
+**Links in post:** http://techpageone.dell.com/technology/security-it/hsctf-hacking-competition-challenges-young-coders/#.U6CqBpQh8RS
+
+
+---
+
+## 2014-06-04 · Post · We’ve moved to a new office! http://blog.trailofbits.com/2014/06/04/weve-moved/
+
+
+### Post — @trailofbits — 2014-06-04 18:20 UTC (2014-06-04 19:20 WAT)
+
+- URL: https://x.com/trailofbits/status/474254354011389952
+- Metrics (at fetch): not returned
+
+> We’ve moved to a new office! http://blog.trailofbits.com/2014/06/04/weve-moved/
+
+**Links in post:** http://blog.trailofbits.com/2014/06/04/weve-moved/
+
+
+---
+
+## 2014-06-03 · Post · Fight’n Words darpa cgc http://blog.trailofbits.com/2014/06/03/dear-darpa-challenge-accepted/
+
+
+### Post — @trailofbits — 2014-06-03 22:46 UTC (2014-06-03 23:46 WAT)
+
+- URL: https://x.com/trailofbits/status/473958987218448386
+- Metrics (at fetch): not returned
+
+> Fight’n Words #darpa #cgc http://blog.trailofbits.com/2014/06/03/dear-darpa-challenge-accepted/
+
+**Links in post:** http://blog.trailofbits.com/2014/06/03/dear-darpa-challenge-accepted/
+
+
+---
+
+## 2014-06-03 · Post · Dear DARPA: Challenge Accepted. http://www.darpa.mil/NewsEvents/Releases/2014/06/03.aspx
+
+
+### Post — @trailofbits — 2014-06-03 16:22 UTC (2014-06-03 17:22 WAT)
+
+- URL: https://x.com/trailofbits/status/473862239137841152
+- Metrics (at fetch): not returned
+
+> Dear DARPA: Challenge Accepted. http://www.darpa.mil/NewsEvents/Releases/2014/06/03.aspx
+
+**Links in post:** http://www.darpa.mil/NewsEvents/Releases/2014/06/03.aspx
+
+
+---
+
+## 2014-05-20 · Post · See the full press release for our CTF Field Guide: http://blog.trailofbits.com/2014/05/20/trail-of-
+
+
+### Post — @trailofbits — 2014-05-20 17:26 UTC (2014-05-20 18:26 WAT)
+
+- URL: https://x.com/trailofbits/status/468804871165337600
+- Metrics (at fetch): not returned
+
+> See the full press release for our CTF Field Guide: http://blog.trailofbits.com/2014/05/20/trail-of-bits-releases-the-capture-the-flag-field-guide/
+
+**Links in post:** http://blog.trailofbits.com/2014/05/20/trail-of-bits-releases-the-capture-the-flag-field-guide/
+
+
+---
+
+## 2014-05-20 · Post · Check out our CTF Field Guide, a free, online course in getting and using other people’s computers! 
+
+
+### Post — @trailofbits — 2014-05-20 17:22 UTC (2014-05-20 18:22 WAT)
+
+- URL: https://x.com/trailofbits/status/468804088902471680
+- Metrics (at fetch): not returned
+
+> Check out our CTF Field Guide, a free, online course in getting and using other people’s computers! https://trailofbits.github.io/ctf/
+
+**Links in post:** https://trailofbits.github.io/ctf/
+
+
+---
+
+## 2014-05-19 · Post · 5 of our engineers are demo'ing their @DARPA Cyber Fast Track projects at the Pentagon (CodeReason, 
+
+
+### Post — @trailofbits — 2014-05-19 14:39 UTC (2014-05-19 15:39 WAT)
+
+- URL: https://x.com/trailofbits/status/468400674661994496
+- Metrics (at fetch): not returned
+
+> 5 of our engineers are demo'ing their @DARPA Cyber Fast Track projects at the Pentagon (CodeReason, MAST, PointsTo) http://www.defense.gov/news/newsarticle.aspx?id=122284
+
+**Links in post:** http://www.defense.gov/news/newsarticle.aspx?id=122284
+
+
+---
+
+## 2014-05-07 · Post · If you’re in high school and interested in computer security, sign up for HS CTF later this month! h
+
+
+### Post — @trailofbits — 2014-05-07 16:23 UTC (2014-05-07 17:23 WAT)
+
+- URL: https://x.com/trailofbits/status/464078114092748800
+- Metrics (at fetch): not returned
+
+> If you’re in high school and interested in computer security, sign up for HS CTF later this month! http://hsctf.com/
+
+**Links in post:** http://hsctf.com/
+
+
+---
+
+## 2014-04-27 · Post · We've been doing alcohol and PL topic pairings at @trailofbits. Up now, single malt scotch and heart
+
+
+### Post — @trailofbits — 2014-04-27 17:42 UTC (2014-04-27 18:42 WAT)
+
+- URL: https://x.com/trailofbits/status/460474009952714752
+- Metrics (at fetch): not returned
+
+> We've been doing alcohol and PL topic pairings at @trailofbits. Up now, single malt scotch and heartbleed: http://blog.trailofbits.com/2014/04/27/using-static-analysis-and-clang-to-find-heartbleed/
+
+**Links in post:** http://blog.trailofbits.com/2014/04/27/using-static-analysis-and-clang-to-find-heartbleed/
+
+
+---
+
+## 2014-04-18 · Post · Trail of Bits: The April Edition - http://eepurl.com/RlZwL
+
+
+### Post — @trailofbits — 2014-04-18 15:01 UTC (2014-04-18 16:01 WAT)
+
+- URL: https://x.com/trailofbits/status/457172096154497025
+- Metrics (at fetch): not returned
+
+> Trail of Bits: The April Edition - http://eepurl.com/RlZwL
+
+**Links in post:** http://eepurl.com/RlZwL
+
+
+---
+
+## 2014-04-18 · Post · TOB's Andrew Ruef talks about the Heartbleed bug on @WPBF25News http://www.wpbf.com/politics/Interne
 
 
 ### Post — @trailofbits — 2014-04-18 02:07 UTC (2014-04-18 03:07 WAT)
@@ -19035,7 +23693,101 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/456977202668896256
 - Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 1
 
-> TOB's Andrew Ruef talks about the Heartbleed bug on @WPBF25News http://t.co/GnujaUI26V
+> TOB's Andrew Ruef talks about the Heartbleed bug on @WPBF25News http://www.wpbf.com/politics/Internet-Bug-Puts-Personal-Data-at-Risk/25492408
+
+**Links in post:** http://www.wpbf.com/politics/Internet-Bug-Puts-Personal-Data-at-Risk/25492408
+
+
+---
+
+## 2014-04-16 · Post · To follow along at home, check out @alexsotirov’s work with OpenSSL from 2002: http://www.phreedom.o
+
+
+### Post — @trailofbits — 2014-04-16 22:36 UTC (2014-04-16 23:36 WAT)
+
+- URL: https://x.com/trailofbits/status/456561875975540736
+- Metrics (at fetch): not returned
+
+> To follow along at home, check out @alexsotirov’s work with OpenSSL from 2002: http://www.phreedom.org/research/exploits/apache-openssl/
+
+**Links in post:** http://www.phreedom.org/research/exploits/apache-openssl/
+
+
+---
+
+## 2014-04-16 · Post · .@alexsotirov is lecturing about SSL exploits tonight at @nyuengr. Education is part of our heritage
+
+
+### Post — @trailofbits — 2014-04-16 22:24 UTC (2014-04-16 23:24 WAT)
+
+- URL: https://x.com/trailofbits/status/456558697762680834
+- Metrics (at fetch): not returned
+
+> .@alexsotirov is lecturing about SSL exploits tonight at @nyuengr. Education is part of our heritage at @trailofbits. [pic.x.com/SG6siHoZUv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/BlYFtt2CcAAghbj.jpg — no alt text provided by author
+
+
+---
+
+## 2014-04-16 · Post · “More warnings are likely because no company will want to be remiss in trying to protect customers” 
+
+
+### Post — @trailofbits — 2014-04-16 20:36 UTC (2014-04-16 21:36 WAT)
+
+- URL: https://x.com/trailofbits/status/456531552269111298
+- Metrics (at fetch): not returned
+
+> “More warnings are likely because no company will want to be remiss in trying to protect customers” http://www.reuters.com/article/2014/04/16/cybersecurity-heartbleed-funds-idUSL2N0N81DC20140416
+
+**Links in post:** http://www.reuters.com/article/2014/04/16/cybersecurity-heartbleed-funds-idUSL2N0N81DC20140416
+
+
+---
+
+## 2014-04-12 · Post · Learn how to make your iPhone even more secure. ASD’s new iOS 7 Hardening Guide builds on work by @t
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @trailofbits — 2014-04-12 14:10 UTC (2014-04-12 15:10 WAT)
+
+- URL: https://x.com/trailofbits/status/454984998492192769
+- Metrics (at fetch): not returned
+
+> Learn how to make your iPhone even more secure. ASD’s new iOS 7 Hardening Guide builds on work by @trailofbits. http://www.asd.gov.au/publications/iOS7_Hardening_Guide.pdf
+
+**Links in post:** http://www.asd.gov.au/publications/iOS7_Hardening_Guide.pdf
+
+
+---
+
+## 2014-04-02 · Post · Come see Andrew Ruef speak on security for startups at @HackNY Masters this weekend: http://hacknyma
+
+
+### Post — @trailofbits — 2014-04-02 21:47 UTC (2014-04-02 22:47 WAT)
+
+- URL: https://x.com/trailofbits/status/451476010199175168
+- Metrics (at fetch): not returned
+
+> Come see Andrew Ruef speak on security for startups at @HackNY Masters this weekend: http://hacknymasters.com/
+
+**Links in post:** http://hacknymasters.com/
+
+
+---
+
+## 2014-03-31 · Post · We wrapped up another project for @DARPA Cyber Fast Track today! 2 down, 1 to go.
+
+
+### Post — @trailofbits — 2014-03-31 16:52 UTC (2014-03-31 17:52 WAT)
+
+- URL: https://x.com/trailofbits/status/450676960193417216
+- Metrics (at fetch): not returned
+
+> We wrapped up another project for @DARPA Cyber Fast Track today! 2 down, 1 to go.
 
 
 ---
@@ -19048,12 +23800,372 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/448500988056698880
 - Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 3
 
-> We helped @RANDCorporation understand in-the-wild exploit use for: “Markets for Cybercrime Tools and Data” http://t.co/dZHPLtwJxu
+> We helped @RANDCorporation understand in-the-wild exploit use for: “Markets for Cybercrime Tools and Data” http://www.rand.org/pubs/research_reports/RR610.html
+
+**Links in post:** http://www.rand.org/pubs/research_reports/RR610.html
 
 
 ---
 
-## 2013-06-06 · Post · All 30 attendees of our Ruby security workshop solved the first YAML exploit lab. Great success! htt
+## 2014-03-11 · Post · “A clear-eyed guide to Mac OS X's actual security risks” via @BobViolino http://www.computerworld.co
+
+
+### Post — @trailofbits — 2014-03-11 17:04 UTC (2014-03-11 18:04 WAT)
+
+- URL: https://x.com/trailofbits/status/443432312009936896
+- Metrics (at fetch): not returned
+
+> “A clear-eyed guide to Mac OS X's actual security risks” via @BobViolino http://www.computerworld.com/s/article/9246845/A_clear_eyed_guide_to_Mac_OS_X_39_s_actual_security_risks
+
+**Links in post:** http://www.computerworld.com/s/article/9246845/A_clear_eyed_guide_to_Mac_OS_X_39_s_actual_security_risks
+
+
+---
+
+## 2014-03-04 · Post · “Cisco Sponsors $300,000 Internet of Things Security Challenge” http://www.eweek.com/security/cisco-
+
+
+### Post — @trailofbits — 2014-03-04 14:57 UTC (2014-03-04 15:57 WAT)
+
+- URL: https://x.com/trailofbits/status/440863521883324416
+- Metrics (at fetch): not returned
+
+> “Cisco Sponsors $300,000 Internet of Things Security Challenge” http://www.eweek.com/security/cisco-sponsors-300000-internet-of-things-security-challenge.html
+
+**Links in post:** http://www.eweek.com/security/cisco-sponsors-300000-internet-of-things-security-challenge.html
+
+
+---
+
+## 2014-03-03 · Post · “RSA 2014: US Government Warns Smart Device Makers Over Security” http://www.techweekeurope.co.uk/ne
+
+
+### Post — @trailofbits — 2014-03-03 18:01 UTC (2014-03-03 19:01 WAT)
+
+- URL: https://x.com/trailofbits/status/440547513532444672
+- Metrics (at fetch): not returned
+
+> “RSA 2014: US Government Warns Smart Device Makers Over Security” http://www.techweekeurope.co.uk/news/smart-device-140487
+
+**Links in post:** http://www.techweekeurope.co.uk/news/smart-device-140487
+
+
+---
+
+## 2014-03-02 · Post · “Smart Device Makers Put on Notice for Poor Security” via @roblemos http://www.eweek.com/security/sm
+
+
+### Post — @trailofbits — 2014-03-02 01:43 UTC (2014-03-02 02:43 WAT)
+
+- URL: https://x.com/trailofbits/status/439938968067395585
+- Metrics (at fetch): not returned
+
+> “Smart Device Makers Put on Notice for Poor Security” via @roblemos http://www.eweek.com/security/smart-device-makers-put-on-notice-for-poor-security.html
+
+**Links in post:** http://www.eweek.com/security/smart-device-makers-put-on-notice-for-poor-security.html
+
+
+---
+
+## 2014-02-24 · Post · Introducing CodeReason, a machine code analysis framework for analyzing the semantics of x86 and ARM
+
+
+### Post — @trailofbits — 2014-02-24 13:06 UTC (2014-02-24 14:06 WAT)
+
+- URL: https://x.com/trailofbits/status/437936554745806848
+- Metrics (at fetch): not returned
+
+> Introducing CodeReason, a machine code analysis framework for analyzing the semantics of x86 and ARM http://blog.trailofbits.com/2014/02/23/semantic-analysis-of-native-programs-introducing-codereason/
+
+**Links in post:** http://blog.trailofbits.com/2014/02/23/semantic-analysis-of-native-programs-introducing-codereason/
+
+
+---
+
+## 2014-02-24 · Post · Can you guess that service? - http://eepurl.com/O2EgL
+
+
+### Post — @trailofbits — 2014-02-24 11:59 UTC (2014-02-24 12:59 WAT)
+
+- URL: https://x.com/trailofbits/status/437919808001028097
+- Metrics (at fetch): not returned
+
+> Can you guess that service? - http://eepurl.com/O2EgL
+
+**Links in post:** http://eepurl.com/O2EgL
+
+
+---
+
+## 2014-02-20 · Post · “5 Tactics To Help Triage Patching” by @roblemos http://www.darkreading.com/vulnerability/five-tacti
+
+
+### Post — @trailofbits — 2014-02-20 04:55 UTC (2014-02-20 05:55 WAT)
+
+- URL: https://x.com/trailofbits/status/436363415020269569
+- Metrics (at fetch): not returned
+
+> “5 Tactics To Help Triage Patching” by @roblemos http://www.darkreading.com/vulnerability/five-tactics-to-help-triage-your-patchin/240166166
+
+**Links in post:** http://www.darkreading.com/vulnerability/five-tactics-to-help-triage-your-patchin/240166166
+
+
+---
+
+## 2014-02-03 · Post · New Services Coming Soon | RSA: See You There? | New Cyber-Resilience Study http://eepurl.com/MbbRr
+
+
+### Post — @trailofbits — 2014-02-03 18:08 UTC (2014-02-03 19:08 WAT)
+
+- URL: https://x.com/trailofbits/status/430402316907606016
+- Metrics (at fetch): not returned
+
+> New Services Coming Soon | RSA: See You There? | New Cyber-Resilience Study http://eepurl.com/MbbRr
+
+**Links in post:** http://eepurl.com/MbbRr
+
+
+---
+
+## 2014-02-03 · Post · Trail of Bits, The February Edition - http://eepurl.com/MbbRr
+
+
+### Post — @trailofbits — 2014-02-03 13:01 UTC (2014-02-03 14:01 WAT)
+
+- URL: https://x.com/trailofbits/status/430325179521064961
+- Metrics (at fetch): not returned
+
+> Trail of Bits, The February Edition - http://eepurl.com/MbbRr
+
+**Links in post:** http://eepurl.com/MbbRr
+
+
+---
+
+## 2014-01-23 · Post · BISC now supports ELF, thanks to @dgalling. Use it on your next capture the flag challenge! https://
+
+
+### Post — @trailofbits — 2014-01-23 22:41 UTC (2014-01-23 23:41 WAT)
+
+- URL: https://x.com/trailofbits/status/426484874879696897
+- Metrics (at fetch): not returned
+
+> BISC now supports ELF, thanks to @dgalling. Use it on your next capture the flag challenge! https://github.com/trailofbits/bisc
+
+**Links in post:** https://github.com/trailofbits/bisc
+
+
+---
+
+## 2014-01-23 · Post · We’re happy to have been a part of the World Economic Forum (@davos) report on cybersecurity http://
+
+
+### Post — @trailofbits — 2014-01-23 00:50 UTC (2014-01-23 01:50 WAT)
+
+- URL: https://x.com/trailofbits/status/426154971051331584
+- Metrics (at fetch): not returned
+
+> We’re happy to have been a part of the World Economic Forum (@davos) report on cybersecurity http://www3.weforum.org/docs/WEF_RiskResponsibility_HyperconnectedWorld_Report_2014.pdf
+
+**Links in post:** http://www3.weforum.org/docs/WEF_RiskResponsibility_HyperconnectedWorld_Report_2014.pdf
+
+
+---
+
+## 2014-01-18 · Post · If you’re at @ShmooCon, stick around until 7:40 to see “Writing Your Own Disassembler in 15 Minutes”
+
+
+### Post — @trailofbits — 2014-01-18 23:09 UTC (2014-01-19 00:09 WAT)
+
+- URL: https://x.com/trailofbits/status/424679912671563776
+- Metrics (at fetch): not returned
+
+> If you’re at @ShmooCon, stick around until 7:40 to see “Writing Your Own Disassembler in 15 Minutes” in Build It! w/ @computerality
+
+
+---
+
+## 2014-01-02 · Post · pe-parse can now iterate over resources thanks to @wxs https://github.com/trailofbits/pe-parse
+
+
+### Post — @trailofbits — 2014-01-02 19:46 UTC (2014-01-02 20:46 WAT)
+
+- URL: https://x.com/trailofbits/status/418830656370917376
+- Metrics (at fetch): not returned
+
+> pe-parse can now iterate over resources thanks to @wxs https://github.com/trailofbits/pe-parse
+
+**Links in post:** https://github.com/trailofbits/pe-parse
+
+
+---
+
+## 2013-12-15 · Post · Thanks @wxs for the python bindings for pe-parse! https://github.com/trailofbits/pe-parse/commit/b13
+
+
+### Post — @trailofbits — 2013-12-15 20:41 UTC (2013-12-15 21:41 WAT)
+
+- URL: https://x.com/trailofbits/status/412321477678354432
+- Metrics (at fetch): not returned
+
+> Thanks @wxs for the python bindings for pe-parse! https://github.com/trailofbits/pe-parse/commit/b139ae3b39fa4db377c518d6051d31765bb6d9eb
+
+**Links in post:** https://github.com/trailofbits/pe-parse/commit/b139ae3b39fa4db377c518d6051d31765bb6d9eb
+
+
+---
+
+## 2013-11-23 · Post · If you were looking for a weekend project, try out our new pe-parse library: https://github.com/trai
+
+
+### Post — @trailofbits — 2013-11-23 00:38 UTC (2013-11-23 01:38 WAT)
+
+- URL: https://x.com/trailofbits/status/404046151915417600
+- Metrics (at fetch): not returned
+
+> If you were looking for a weekend project, try out our new pe-parse library: https://github.com/trailofbits/pe-parse
+
+**Links in post:** https://github.com/trailofbits/pe-parse
+
+
+---
+
+## 2013-11-19 · Post · Itsa me, Mario! https://www.youtube.com/watch?v=j_YqnMv1LCw
+
+
+### Post — @trailofbits — 2013-11-19 04:20 UTC (2013-11-19 05:20 WAT)
+
+- URL: https://x.com/trailofbits/status/402652652934553600
+- Metrics (at fetch): not returned
+
+> Itsa me, Mario! https://www.youtube.com/watch?v=j_YqnMv1LCw
+
+**Links in post:** https://www.youtube.com/watch?v=j_YqnMv1LCw
+
+
+---
+
+## 2013-11-13 · Post · We released a script for encrypted backups to S3 for @GitHub Enterprise. Feedback welcome! https://g
+
+
+### Post — @trailofbits — 2013-11-13 21:44 UTC (2013-11-13 22:44 WAT)
+
+- URL: https://x.com/trailofbits/status/400740893151727616
+- Metrics (at fetch): not returned
+
+> We released a script for encrypted backups to S3 for @GitHub Enterprise. Feedback welcome! https://github.com/trailofbits/ghe-backup
+
+**Links in post:** https://github.com/trailofbits/ghe-backup
+
+
+---
+
+## 2013-08-20 · Post · We shut down our public “Trail of Phish” service today. If you want to keep playing with it, find th
+
+
+### Post — @trailofbits — 2013-08-20 20:12 UTC (2013-08-20 21:12 WAT)
+
+- URL: https://x.com/trailofbits/status/369914790074134528
+- Metrics (at fetch): not returned
+
+> We shut down our public “Trail of Phish” service today. If you want to keep playing with it, find the code here: https://github.com/trailofbits/trailofphish
+
+**Links in post:** https://github.com/trailofbits/trailofphish
+
+
+---
+
+## 2013-07-29 · Post · Trail of Bits, The July Edition - Pwnie Awards, iVerify and THREADS http://eepurl.com/CU0R5
+
+
+### Post — @trailofbits — 2013-07-29 11:29 UTC (2013-07-29 12:29 WAT)
+
+- URL: https://x.com/trailofbits/status/361810729998876672
+- Metrics (at fetch): not returned
+
+> Trail of Bits, The July Edition - Pwnie Awards, iVerify and THREADS http://eepurl.com/CU0R5
+
+**Links in post:** http://eepurl.com/CU0R5
+
+
+---
+
+## 2013-07-24 · Post · We’re excited to release an open-source version of iVerify! http://blog.trailofbits.com/2013/07/24/i
+
+
+### Post — @trailofbits — 2013-07-24 16:54 UTC (2013-07-24 17:54 WAT)
+
+- URL: https://x.com/trailofbits/status/360080579007488002
+- Metrics (at fetch): not returned
+
+> We’re excited to release an open-source version of iVerify! http://blog.trailofbits.com/2013/07/24/iverify-is-now-available-on-github/
+
+**Links in post:** http://blog.trailofbits.com/2013/07/24/iverify-is-now-available-on-github/
+
+
+---
+
+## 2013-06-27 · Post · CVSS scores are a poor measure for whether a vulnerability is actually being used in attacks - thank
+
+
+### Post — @trailofbits — 2013-06-27 22:19 UTC (2013-06-27 23:19 WAT)
+
+- URL: https://x.com/trailofbits/status/350377793726586880
+- Metrics (at fetch): not returned
+
+> CVSS scores are a poor measure for whether a vulnerability is actually being used in attacks - thanks @roblemos! http://twb.io/10ZzlH5
+
+**Links in post:** http://twb.io/10ZzlH5
+
+
+---
+
+## 2013-06-17 · Post · In our newsletter this month: FTC and BlackBerry mobile security summits, a new book, Elderwood, and
+
+
+### Post — @trailofbits — 2013-06-17 13:50 UTC (2013-06-17 14:50 WAT)
+
+- URL: https://x.com/trailofbits/status/346625810196733952
+- Metrics (at fetch): not returned
+
+> In our newsletter this month: FTC and BlackBerry mobile security summits, a new book, Elderwood, and Ruby security! http://eepurl.com/AWrXj
+
+**Links in post:** http://eepurl.com/AWrXj
+
+
+---
+
+## 2013-06-17 · Post · Trail of Bits, The June Edition - http://eepurl.com/AWrXj
+
+
+### Post — @trailofbits — 2013-06-17 10:59 UTC (2013-06-17 11:59 WAT)
+
+- URL: https://x.com/trailofbits/status/346582963464572929
+- Metrics (at fetch): not returned
+
+> Trail of Bits, The June Edition - http://eepurl.com/AWrXj
+
+**Links in post:** http://eepurl.com/AWrXj
+
+
+---
+
+## 2013-06-12 · Post · For insight into cutting-edge research  and the state of mobile security today, join us in June at t
+
+
+### Post — @trailofbits — 2013-06-12 15:51 UTC (2013-06-12 16:51 WAT)
+
+- URL: https://x.com/trailofbits/status/344844343099654148
+- Metrics (at fetch): not returned
+
+> For insight into cutting-edge research  and the state of mobile security today, join us in June at the #BBSecSummit http://bizblog.blackberry.com/2013/06/blackberry-security-summit-2013/
+
+**Links in post:** http://bizblog.blackberry.com/2013/06/blackberry-security-summit-2013/
+
+
+---
+
+## 2013-06-06 · Post · All 30 attendees of our Ruby security workshop solved the first YAML exploit lab. Great success! [pi
 
 
 ### Post — @trailofbits — 2013-06-06 16:48 UTC (2013-06-06 17:48 WAT)
@@ -19061,10 +24173,40 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/342684331107569664
 - Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
 
-> All 30 attendees of our Ruby security workshop solved the first YAML exploit lab. Great success! http://t.co/mXDB5mo08B
+> All 30 attendees of our Ruby security workshop solved the first YAML exploit lab. Great success! [pic.x.com/mXDB5mo08B]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/BMF1lWICUAEYgTc.jpg — no alt text provided by author
+
+
+---
+
+## 2013-06-03 · Post · .@dguido will join other industry experts at the FTC tomorrow to discuss mobile malware and risks to
+
+
+### Post — @trailofbits — 2013-06-03 18:56 UTC (2013-06-03 19:56 WAT)
+
+- URL: https://x.com/trailofbits/status/341629520002048002
+- Metrics (at fetch): not returned
+
+> .@dguido will join other industry experts at the FTC tomorrow to discuss mobile malware and risks to consumers http://www.ftc.gov/bcp/workshops/mobile-security/mobile-security-agenda.pdf
+
+**Links in post:** http://www.ftc.gov/bcp/workshops/mobile-security/mobile-security-agenda.pdf
+
+
+---
+
+## 2013-06-03 · Post · We’re hosting a free Ruby security workshop this Thursday. Sign up now to reserve a spot! http://blo
+
+
+### Post — @trailofbits — 2013-06-03 17:34 UTC (2013-06-03 18:34 WAT)
+
+- URL: https://x.com/trailofbits/status/341608938883674112
+- Metrics (at fetch): not returned
+
+> We’re hosting a free Ruby security workshop this Thursday. Sign up now to reserve a spot! http://blog.trailofbits.com/2013/06/03/free-ruby-security-workshop/
+
+**Links in post:** http://blog.trailofbits.com/2013/06/03/free-ruby-security-workshop/
 
 
 ---
@@ -19077,12 +24219,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/336510599792046080
 - Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 3
 
-> In case it’s not clear, we spent more time on our Elderwood report than they spent creating their last attack http://t.co/zt45N1UZOr
+> In case it’s not clear, we spent more time on our Elderwood report than they spent creating their last attack http://blog.trailofbits.com/2013/05/20/writing-exploits-with-the-elderwood-kit-part-2/
+
+**Links in post:** http://blog.trailofbits.com/2013/05/20/writing-exploits-with-the-elderwood-kit-part-2/
 
 
 ---
 
-## 2013-05-20 · Post · We continue our blow-by-blow of an Elderwood attack campaign with a new blog today: http://t.co/zt45
+## 2013-05-20 · Post · We continue our blow-by-blow of an Elderwood attack campaign with a new blog today: http://blog.trai
 
 
 ### Post — @trailofbits — 2013-05-20 15:39 UTC (2013-05-20 16:39 WAT)
@@ -19090,7 +24234,54 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/336506407983669249
 - Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 4
 
-> We continue our blow-by-blow of an Elderwood attack campaign with a new blog today: http://t.co/zt45N1UZOr
+> We continue our blow-by-blow of an Elderwood attack campaign with a new blog today: http://blog.trailofbits.com/2013/05/20/writing-exploits-with-the-elderwood-kit-part-2/
+
+**Links in post:** http://blog.trailofbits.com/2013/05/20/writing-exploits-with-the-elderwood-kit-part-2/
+
+
+---
+
+## 2013-05-16 · Post · We are planning CSAW THREADS 2013. Sign up to our mailing list to receive the CFP: http://eepurl.com
+
+
+### Post — @trailofbits — 2013-05-16 20:37 UTC (2013-05-16 21:37 WAT)
+
+- URL: https://x.com/trailofbits/status/335131803146940416
+- Metrics (at fetch): not returned
+
+> We are planning CSAW THREADS 2013. Sign up to our mailing list to receive the CFP: http://eepurl.com/i-vU1 http://www.trailofbits.com/threads/
+
+**Links in post:** http://eepurl.com/i-vU1, http://www.trailofbits.com/threads/
+
+
+---
+
+## 2013-05-15 · Post · Banks are hiring security consultants to test the safety of their deposits. But often, it's still to
+
+
+### Post — @trailofbits — 2013-05-15 19:42 UTC (2013-05-15 20:42 WAT)
+
+- URL: https://x.com/trailofbits/status/334755572605935616
+- Metrics (at fetch): not returned
+
+> Banks are hiring security consultants to test the safety of their deposits. But often, it's still too easy to steal. http://money.cnn.com/video/technology/security/2013/05/15/t-hacking-a-bank.cnnmoney/index.html
+
+**Links in post:** http://money.cnn.com/video/technology/security/2013/05/15/t-hacking-a-bank.cnnmoney/index.html
+
+
+---
+
+## 2013-05-15 · Post · In the meantime, consider whether someone with Elderwood could win Pwn2Own http://blogs.technet.com/
+
+
+### Post — @trailofbits — 2013-05-15 13:45 UTC (2013-05-15 14:45 WAT)
+
+- URL: https://x.com/trailofbits/status/334665772393713665
+- Metrics (at fetch): not returned
+
+> In the meantime, consider whether someone with Elderwood could win Pwn2Own http://blogs.technet.com/b/srd/archive/2013/05/14/ms13-037-addressing-pwn2own-vulnerabilities.aspx
+
+**Links in post:** http://blogs.technet.com/b/srd/archive/2013/05/14/ms13-037-addressing-pwn2own-vulnerabilities.aspx
 
 
 ---
@@ -19108,6 +24299,21 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2013-05-14 · Post · The latest post in our “APT for Dummies” series, Writing Exploits with the Elderwood Kit, is now ava
+
+
+### Post — @trailofbits — 2013-05-14 19:25 UTC (2013-05-14 20:25 WAT)
+
+- URL: https://x.com/trailofbits/status/334389018441678848
+- Metrics (at fetch): bookmark 0, impression 0, like 16, quote 0, reply 1, retweet 16
+
+> The latest post in our “APT for Dummies” series, Writing Exploits with the Elderwood Kit, is now available: http://blog.trailofbits.com/2013/05/14/writing-exploits-with-the-elderwood-kit-part-1/
+
+**Links in post:** http://blog.trailofbits.com/2013/05/14/writing-exploits-with-the-elderwood-kit-part-1/
+
+
+---
+
 ## 2013-05-13 · Post · Elderwood and the Department of Labor Hack (1 of 5) http://t.co/1p5LSBf150
 
 
@@ -19121,7 +24327,495 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2012-12-12 · Post · Have a training budget at work? Learn to find and exploit modern bugs from the best! http://t.co/CZ7
+## 2013-05-13 · Post · We’re putting the final touches on a multi-part research report. Check our blog around lunch time to
+
+
+### Post — @trailofbits — 2013-05-13 14:36 UTC (2013-05-13 15:36 WAT)
+
+- URL: https://x.com/trailofbits/status/333953820776345600
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 2
+
+> We’re putting the final touches on a multi-part research report. Check our blog around lunch time today for the first part!
+
+
+---
+
+## 2013-04-23 · Post · Last minute seats are still available for Rapid Reverse Engineering, this week in NYC! Email info@tr
+
+
+### Post — @trailofbits — 2013-04-23 16:38 UTC (2013-04-23 17:38 WAT)
+
+- URL: https://x.com/trailofbits/status/326736766231011332
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> Last minute seats are still available for Rapid Reverse Engineering, this week in NYC! Email info@trailofbits.com for special instructions.
+
+
+---
+
+## 2013-04-22 · Post · Seats are still available for our Rapid Reverse Engineering training this week! Email info@trailofbi
+
+
+### Post — @trailofbits — 2013-04-22 18:26 UTC (2013-04-22 19:26 WAT)
+
+- URL: https://x.com/trailofbits/status/326401748891738113
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Seats are still available for our Rapid Reverse Engineering training this week! Email info@trailofbits.com for details!
+
+
+---
+
+## 2013-04-12 · Post · Trail of Bits, The April Edition - http://eepurl.com/wc4Lj
+
+
+### Post — @trailofbits — 2013-04-12 13:02 UTC (2013-04-12 14:02 WAT)
+
+- URL: https://x.com/trailofbits/status/322696125368913920
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 2
+
+> Trail of Bits, The April Edition - http://eepurl.com/wc4Lj
+
+**Links in post:** http://eepurl.com/wc4Lj
+
+
+---
+
+## 2013-03-30 · Post · There are still spots available in our April Rapid Reverse Engineering training. Sign up today! http
+
+
+### Post — @trailofbits — 2013-03-30 20:17 UTC (2013-03-30 21:17 WAT)
+
+- URL: https://x.com/trailofbits/status/318094636856000512
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 0, retweet 3
+
+> There are still spots available in our April Rapid Reverse Engineering training. Sign up today! http://www.trailofbits.com/training/rapid_re/
+
+**Links in post:** http://www.trailofbits.com/training/rapid_re/
+
+
+---
+
+## 2013-03-29 · Post · We’re helping run training courses at @SummerCon this year! See our website for full course details:
+
+
+### Post — @trailofbits — 2013-03-29 19:06 UTC (2013-03-29 20:06 WAT)
+
+- URL: https://x.com/trailofbits/status/317714429586337792
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 3
+
+> We’re helping run training courses at @SummerCon this year! See our website for full course details: http://www.trailofbits.com/training/
+
+**Links in post:** http://www.trailofbits.com/training/
+
+
+---
+
+## 2013-03-28 · Post · Our third and final Cyber Fast Track proposal was accepted today! MAST: Mobile Application Security 
+
+
+### Post — @trailofbits — 2013-03-28 22:08 UTC (2013-03-28 23:08 WAT)
+
+- URL: https://x.com/trailofbits/status/317397689413275648
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 1, retweet 2
+
+> Our third and final Cyber Fast Track proposal was accepted today! MAST: Mobile Application Security Transforms. http://www.trailofbits.com/research/
+
+**Links in post:** http://www.trailofbits.com/research/
+
+
+---
+
+## 2013-03-25 · Post · Podcast: How I Got Here w/ @dinodaizovi https://threatpost.com/en_us/blogs/how-i-got-here-dino-dai-z
+
+
+### Post — @trailofbits — 2013-03-25 22:03 UTC (2013-03-25 23:03 WAT)
+
+- URL: https://x.com/trailofbits/status/316309362408828928
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 2
+
+> Podcast: How I Got Here w/ @dinodaizovi https://threatpost.com/en_us/blogs/how-i-got-here-dino-dai-zovi-032513
+
+**Links in post:** https://threatpost.com/en_us/blogs/how-i-got-here-dino-dai-zovi-032513
+
+
+---
+
+## 2013-03-05 · Post · Countermeasure (@cmeasurecon) is back in Ottawa this year and our own Vincenzo Iozzo (@_snagg)  will
+
+
+### Post — @trailofbits — 2013-03-05 21:38 UTC (2013-03-05 22:38 WAT)
+
+- URL: https://x.com/trailofbits/status/309055255528742912
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> Countermeasure (@cmeasurecon) is back in Ottawa this year and our own Vincenzo Iozzo (@_snagg)  will be keynoting http://www.countermeasure2013.com/speakers.html
+
+**Links in post:** http://www.countermeasure2013.com/speakers.html
+
+
+---
+
+## 2013-02-25 · Post · Mark your calendar! The “Mobile Security Battle Royale” w/ @dinodaizovi is in Room 301 on Thursday a
+
+
+### Post — @trailofbits — 2013-02-25 20:15 UTC (2013-02-25 21:15 WAT)
+
+- URL: https://x.com/trailofbits/status/306135455852797952
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
+
+> Mark your calendar! The “Mobile Security Battle Royale” w/ @dinodaizovi is in Room 301 on Thursday at 9:20am https://ae.rsaconference.com/US13/connect/sessionDetail.ww?SESSION_ID=1982 #RSAC
+
+**Links in post:** https://ae.rsaconference.com/US13/connect/sessionDetail.ww?SESSION_ID=1982
+
+
+---
+
+## 2013-02-24 · Post · Recommended Sunday night reading: “Binary Analysis” Isn’t http://www.mimisbrunnr.net/~munin/blog/bin
+
+
+### Post — @trailofbits — 2013-02-24 22:46 UTC (2013-02-24 23:46 WAT)
+
+- URL: https://x.com/trailofbits/status/305811038257967108
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 0, retweet 8
+
+> Recommended Sunday night reading: “Binary Analysis” Isn’t http://www.mimisbrunnr.net/~munin/blog/binary-analysis-isnt.html
+
+**Links in post:** http://www.mimisbrunnr.net/~munin/blog/binary-analysis-isnt.html
+
+
+---
+
+## 2013-02-24 · Post · If you’re anxious to try the new Ruby 2.0.0, do it the easy way with chruby https://github.com/postm
+
+
+### Post — @trailofbits — 2013-02-24 22:46 UTC (2013-02-24 23:46 WAT)
+
+- URL: https://x.com/trailofbits/status/305810855004606464
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 2
+
+> If you’re anxious to try the new Ruby 2.0.0, do it the easy way with chruby https://github.com/postmodern/chruby/wiki/MRI
+
+**Links in post:** https://github.com/postmodern/chruby/wiki/MRI
+
+
+---
+
+## 2013-02-22 · Post · “RSA: What you need to know” @securitywatch recommends the mobile security panel with @dinodaizovi o
+
+
+### Post — @trailofbits — 2013-02-22 23:20 UTC (2013-02-23 00:20 WAT)
+
+- URL: https://x.com/trailofbits/status/305094630586859520
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 2
+
+> “RSA: What you need to know” @securitywatch recommends the mobile security panel with @dinodaizovi on Thursday http://securitywatch.pcmag.com/none/308382-rsa-2013-what-you-need-to-know
+
+**Links in post:** http://securitywatch.pcmag.com/none/308382-rsa-2013-what-you-need-to-know
+
+
+---
+
+## 2013-02-22 · Post · Use @postmodern_mod3’s gitignore templates to help avoid putting sensitive files and keys in Github:
+
+
+### Post — @trailofbits — 2013-02-22 18:51 UTC (2013-02-22 19:51 WAT)
+
+- URL: https://x.com/trailofbits/status/305026984734507008
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 3
+
+> Use @postmodern_mod3’s gitignore templates to help avoid putting sensitive files and keys in Github: https://github.com/postmodern/gitignore
+
+**Links in post:** https://github.com/postmodern/gitignore
+
+
+---
+
+## 2013-02-15 · Post · Added some swag to our collection today [pic.x.com/TdrX8Tog]
+
+
+### Post — @trailofbits — 2013-02-15 17:56 UTC (2013-02-15 18:56 WAT)
+
+- URL: https://x.com/trailofbits/status/302476614057467904
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 3, retweet 1
+
+> Added some swag to our collection today [pic.x.com/TdrX8Tog]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/BDKc4L4CIAEANs3.jpg — no alt text provided by author
+
+
+---
+
+## 2013-02-14 · Post · “Obama Cyber-Security Order a Good First Step, Experts Say” http://www.eweek.com/security/obama-cybe
+
+
+### Post — @trailofbits — 2013-02-14 19:56 UTC (2013-02-14 20:56 WAT)
+
+- URL: https://x.com/trailofbits/status/302144256389292033
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 0
+
+> “Obama Cyber-Security Order a Good First Step, Experts Say” http://www.eweek.com/security/obama-cyber-security-order-a-good-first-step-experts-say/
+
+**Links in post:** http://www.eweek.com/security/obama-cyber-security-order-a-good-first-step-experts-say/
+
+
+---
+
+## 2013-02-06 · Post · We have posted video of @_snagg's talk on the future of mobile threats http://www.trailofbits.com/re
+
+
+### Post — @trailofbits — 2013-02-06 16:36 UTC (2013-02-06 17:36 WAT)
+
+- URL: https://x.com/trailofbits/status/299194940389466112
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
+
+> We have posted video of @_snagg's talk on the future of mobile threats http://www.trailofbits.com/research/#mobile-threats
+
+**Links in post:** http://www.trailofbits.com/research/#mobile-threats
+
+
+---
+
+## 2013-02-04 · Post · Now that the @evad3rs iOS 6.1 jailbreak is out, see how @dinodaizovi’s jailbreak analysis has held u
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @trailofbits — 2013-02-04 17:45 UTC (2013-02-04 18:45 WAT)
+
+- URL: https://x.com/trailofbits/status/298487412093501442
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 3
+
+> Now that the @evad3rs iOS 6.1 jailbreak is out, see how @dinodaizovi’s jailbreak analysis has held up: http://techchannel.att.com/play-video.cfm/2013/1/8/Conference-TV-CSAW-THREADS-2012-iOS-Jailbreak-Analysis
+
+**Links in post:** http://techchannel.att.com/play-video.cfm/2013/1/8/Conference-TV-CSAW-THREADS-2012-iOS-Jailbreak-Analysis
+
+
+---
+
+## 2013-02-04 · Post · We gave Assured Exploitation as a class at NYU-Poly this semester. Students tend to have fun with th
+
+
+### Post — @trailofbits — 2013-02-04 16:56 UTC (2013-02-04 17:56 WAT)
+
+- URL: https://x.com/trailofbits/status/298475100913688576
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 6
+
+> We gave Assured Exploitation as a class at NYU-Poly this semester. Students tend to have fun with their exploits: https://www.youtube.com/watch?v=f3mO-Ls6VH4
+
+**Links in post:** https://www.youtube.com/watch?v=f3mO-Ls6VH4
+
+
+---
+
+## 2013-02-04 · Post · For more videos from this year’s CSAW:THREADS conference, see the full archive on our website: http:
+
+
+### Post — @trailofbits — 2013-02-04 16:52 UTC (2013-02-04 17:52 WAT)
+
+- URL: https://x.com/trailofbits/status/298474122596454400
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> For more videos from this year’s CSAW:THREADS conference, see the full archive on our website: http://www.trailofbits.com/threads/
+
+**Links in post:** http://www.trailofbits.com/threads/
+
+
+---
+
+## 2013-02-04 · Post · We have posted video of @dinodaizovi’s talk on analysis of iOS jailbreaking strategies http://www.tr
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @trailofbits — 2013-02-04 16:49 UTC (2013-02-04 17:49 WAT)
+
+- URL: https://x.com/trailofbits/status/298473419761127424
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 3
+
+> We have posted video of @dinodaizovi’s talk on analysis of iOS jailbreaking strategies http://www.trailofbits.com/research/#ios-jailbreaks
+
+**Links in post:** http://www.trailofbits.com/research/#ios-jailbreaks
+
+
+---
+
+## 2013-02-04 · Post · Trail of Bits, The January Edition - http://eepurl.com/tNDen
+
+
+### Post — @trailofbits — 2013-02-04 13:33 UTC (2013-02-04 14:33 WAT)
+
+- URL: https://x.com/trailofbits/status/298424094272135170
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> Trail of Bits, The January Edition - http://eepurl.com/tNDen
+
+**Links in post:** http://eepurl.com/tNDen
+
+
+---
+
+## 2013-01-11 · Post · “@arj: Outsource Your Web Risks With a Static Website: http://ajaquith.github.com/markerbench/” &lt;
+
+
+### Post — @trailofbits — 2013-01-11 17:07 UTC (2013-01-11 18:07 WAT)
+
+- URL: https://x.com/trailofbits/status/289780682912305152
+- Metrics (at fetch): not returned
+
+> “@arj: Outsource Your Web Risks With a Static Website: http://ajaquith.github.com/markerbench/” &lt; thanks for the shoutout!
+
+**Links in post:** http://ajaquith.github.com/markerbench/
+
+
+---
+
+## 2013-01-11 · Post · Did you miss @nyupoly's THREADS conference? Check out videos and slides from all the speakers: http:
+
+
+### Post — @trailofbits — 2013-01-11 15:53 UTC (2013-01-11 16:53 WAT)
+
+- URL: https://x.com/trailofbits/status/289761861526761472
+- Metrics (at fetch): not returned
+
+> Did you miss @nyupoly's THREADS conference? Check out videos and slides from all the speakers: http://www.trailofbits.com/threads/
+
+**Links in post:** http://www.trailofbits.com/threads/
+
+
+---
+
+## 2013-01-10 · Post · Watch @dinodaizovi duke it out with other top industry researchers in a mobile security panel showdo
+
+
+### Post — @trailofbits — 2013-01-10 14:23 UTC (2013-01-10 15:23 WAT)
+
+- URL: https://x.com/trailofbits/status/289377004829151232
+- Metrics (at fetch): not returned
+
+> Watch @dinodaizovi duke it out with other top industry researchers in a mobile security panel showdown #RSAConference https://ae.rsaconference.com/US13/connect/sessionDetail.ww?SESSION_ID=1982
+
+**Links in post:** https://ae.rsaconference.com/US13/connect/sessionDetail.ww?SESSION_ID=1982
+
+
+---
+
+## 2013-01-07 · Post · It's the last day to sign up to our trainings at the early reg price. Sign up today to lock in the r
+
+
+### Post — @trailofbits — 2013-01-07 20:46 UTC (2013-01-07 21:46 WAT)
+
+- URL: https://x.com/trailofbits/status/288386271951347712
+- Metrics (at fetch): not returned
+
+> It's the last day to sign up to our trainings at the early reg price. Sign up today to lock in the rate! http://www.trailofbits.com/training/
+
+**Links in post:** http://www.trailofbits.com/training/
+
+
+---
+
+## 2012-12-31 · Post · We're excited to be sending @dguido to keynote @brucon 2013! http://2012.brucon.org/index.php/Main_P
+
+
+### Post — @trailofbits — 2012-12-31 21:09 UTC (2012-12-31 22:09 WAT)
+
+- URL: https://x.com/trailofbits/status/285855167478394880
+- Metrics (at fetch): not returned
+
+> We're excited to be sending @dguido to keynote @brucon 2013! http://2012.brucon.org/index.php/Main_Page
+
+**Links in post:** http://2012.brucon.org/index.php/Main_Page
+
+
+---
+
+## 2012-12-22 · Post · Our heaps of swag continues to grow, now with magnets [pic.x.com/cLsSVHhq]
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @trailofbits — 2012-12-22 02:52 UTC (2012-12-22 03:52 WAT)
+
+- URL: https://x.com/trailofbits/status/282317659050237952
+- Metrics (at fetch): not returned
+
+> Our heaps of swag continues to grow, now with magnets [pic.x.com/cLsSVHhq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/A-r-akXCYAAFRCf.jpg — no alt text provided by author
+
+
+---
+
+## 2012-12-21 · Post · Android Fails in Mobile Malware Research http://www.informationweek.com/byte/personal-tech/android-f
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @trailofbits — 2012-12-21 16:33 UTC (2012-12-21 17:33 WAT)
+
+- URL: https://x.com/trailofbits/status/282161983468486656
+- Metrics (at fetch): not returned
+
+> Android Fails in Mobile Malware Research http://www.informationweek.com/byte/personal-tech/android-fails-in-mobile-malware-research/240145092 (via @BYTE)
+
+**Links in post:** http://www.informationweek.com/byte/personal-tech/android-fails-in-mobile-malware-research/240145092
+
+
+---
+
+## 2012-12-20 · Post · In less than 6 hours, we received our first pull request for BISC from a student at NYU-Poly: https:
+
+
+### Post — @trailofbits — 2012-12-20 17:18 UTC (2012-12-20 18:18 WAT)
+
+- URL: https://x.com/trailofbits/status/281810797791936512
+- Metrics (at fetch): not returned
+
+> In less than 6 hours, we received our first pull request for BISC from a student at NYU-Poly: https://github.com/trailofbits/bisc/commits/master
+
+**Links in post:** https://github.com/trailofbits/bisc/commits/master
+
+
+---
+
+## 2012-12-18 · Post · Mobile Malware: Doing the Math. http://www.biztechmagazine.com/article/2012/12/mobile-malware-doing-
+
+
+### Post — @trailofbits — 2012-12-18 15:19 UTC (2012-12-18 16:19 WAT)
+
+- URL: https://x.com/trailofbits/status/281056074952486912
+- Metrics (at fetch): not returned
+
+> Mobile Malware: Doing the Math. http://www.biztechmagazine.com/article/2012/12/mobile-malware-doing-math
+
+**Links in post:** http://www.biztechmagazine.com/article/2012/12/mobile-malware-doing-math
+
+
+---
+
+## 2012-12-14 · Post · Trail of Bits, The December Edition - http://eepurl.com/sYCan
+
+
+### Post — @trailofbits — 2012-12-14 11:59 UTC (2012-12-14 12:59 WAT)
+
+- URL: https://x.com/trailofbits/status/279556232711385089
+- Metrics (at fetch): not returned
+
+> Trail of Bits, The December Edition - http://eepurl.com/sYCan
+
+**Links in post:** http://eepurl.com/sYCan
+
+
+---
+
+## 2012-12-12 · Post · Have a training budget at work? Learn to find and exploit modern bugs from the best! http://www.trai
 
 
 ### Post — @trailofbits — 2012-12-12 22:30 UTC (2012-12-12 23:30 WAT)
@@ -19129,7 +24823,283 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/278990195955732480
 - Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 2
 
-> Have a training budget at work? Learn to find and exploit modern bugs from the best! http://t.co/CZ7rmQIN
+> Have a training budget at work? Learn to find and exploit modern bugs from the best! http://www.trailofbits.com/training/#top
+
+**Links in post:** http://www.trailofbits.com/training/#top
+
+
+---
+
+## 2012-12-05 · Post · Looking into our upcoming training sessions? Spread the word at your company with our new info sheet
+
+
+### Post — @trailofbits — 2012-12-05 22:38 UTC (2012-12-05 23:38 WAT)
+
+- URL: https://x.com/trailofbits/status/276455630615756801
+- Metrics (at fetch): not returned
+
+> Looking into our upcoming training sessions? Spread the word at your company with our new info sheets at http://trailofbits.com/training
+
+**Links in post:** http://trailofbits.com/training
+
+
+---
+
+## 2012-11-20 · Post · Our new stickers arrived at the office today. Get one of your own from us at @nysecsec tonight! [pic
+
+
+### Post — @trailofbits — 2012-11-20 19:53 UTC (2012-11-20 20:53 WAT)
+
+- URL: https://x.com/trailofbits/status/270978150081650688
+- Metrics (at fetch): not returned
+
+> Our new stickers arrived at the office today. Get one of your own from us at @nysecsec tonight! [pic.x.com/4nwqK4M3]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/A8K1MRoCYAAzK9V.jpg — no alt text provided by author
+
+
+---
+
+## 2012-10-31 · Post · NYU-Poly is hosting a mobile security conference at CSAW this year. Come see us there! http://www.po
+
+
+### Post — @trailofbits — 2012-10-31 16:40 UTC (2012-10-31 17:40 WAT)
+
+- URL: https://x.com/trailofbits/status/263681929918951424
+- Metrics (at fetch): not returned
+
+> NYU-Poly is hosting a mobile security conference at CSAW this year. Come see us there! http://www.poly.edu/press-release/2012/10/31/no-phone-left-unhacked-csaw-threads-nyu-polys-first-mobile-security-confere
+
+**Links in post:** http://www.poly.edu/press-release/2012/10/31/no-phone-left-unhacked-csaw-threads-nyu-polys-first-mobile-security-confere
+
+
+---
+
+## 2012-10-30 · Post · Trail of Bits survived the storm intact but it looks like we’ll be working from home for a while: ht
+
+
+### Post — @trailofbits — 2012-10-30 21:27 UTC (2012-10-30 22:27 WAT)
+
+- URL: https://x.com/trailofbits/status/263391686418374657
+- Metrics (at fetch): not returned
+
+> Trail of Bits survived the storm intact but it looks like we’ll be working from home for a while: https://www.youtube.com/watch?v=_Xkdv0H31d8
+
+**Links in post:** https://www.youtube.com/watch?v=_Xkdv0H31d8
+
+
+---
+
+## 2012-10-29 · Post · And if you didn’t catch it on our training page, we’re offering Practical ARM Exploitation in Japan 
+
+
+### Post — @trailofbits — 2012-10-29 16:12 UTC (2012-10-29 17:12 WAT)
+
+- URL: https://x.com/trailofbits/status/262950009937481729
+- Metrics (at fetch): not returned
+
+> And if you didn’t catch it on our training page, we’re offering Practical ARM Exploitation in Japan this January! http://www.trailofbits.com/training/
+
+**Links in post:** http://www.trailofbits.com/training/
+
+
+---
+
+## 2012-10-29 · Post · … and we’re announcing partnerships with @attackresearch and @chrisrohlf to host new trainings in 20
+
+
+### Post — @trailofbits — 2012-10-29 16:03 UTC (2012-10-29 17:03 WAT)
+
+- URL: https://x.com/trailofbits/status/262947842165977088
+- Metrics (at fetch): not returned
+
+> … and we’re announcing partnerships with @attackresearch and @chrisrohlf to host new trainings in 2013! http://www.trailofbits.com/training/
+
+**Links in post:** http://www.trailofbits.com/training/
+
+
+---
+
+## 2012-10-29 · Post · And now for something serious, we have extended early bird pricing for Practical ARM Exploitation to
+
+
+### Post — @trailofbits — 2012-10-29 16:03 UTC (2012-10-29 17:03 WAT)
+
+- URL: https://x.com/trailofbits/status/262947674439954432
+- Metrics (at fetch): not returned
+
+> And now for something serious, we have extended early bird pricing for Practical ARM Exploitation to Nov 5: http://www.trailofbits.com/training/ ...
+
+**Links in post:** http://www.trailofbits.com/training/
+
+
+---
+
+## 2012-10-29 · Post · While you’re waiting out the storm/earthquake/apocalypse, check out our in-depth evaluation of Explo
+
+
+### Post — @trailofbits — 2012-10-29 15:58 UTC (2012-10-29 16:58 WAT)
+
+- URL: https://x.com/trailofbits/status/262946487980404737
+- Metrics (at fetch): not returned
+
+> While you’re waiting out the storm/earthquake/apocalypse, check out our in-depth evaluation of ExploitShield: http://blog.trailofbits.com/2012/10/29/ending-the-love-affair-with-exploitshield/
+
+**Links in post:** http://blog.trailofbits.com/2012/10/29/ending-the-love-affair-with-exploitshield/
+
+
+---
+
+## 2012-10-29 · Post · If you’d like some Trail of Bits tattoos for yourself, we’ll be handing them out at CSAW:THREADS lat
+
+
+### Post — @trailofbits — 2012-10-29 15:56 UTC (2012-10-29 16:56 WAT)
+
+- URL: https://x.com/trailofbits/status/262945931052322816
+- Metrics (at fetch): not returned
+
+> If you’d like some Trail of Bits tattoos for yourself, we’ll be handing them out at CSAW:THREADS later this month: http://www.poly.edu/csaw2012/conference
+
+**Links in post:** http://www.poly.edu/csaw2012/conference
+
+
+---
+
+## 2012-10-29 · Post · To celebrate a successful first year in business, our founders tattooed our logo on themselves… and 
+
+
+### Post — @trailofbits — 2012-10-29 15:53 UTC (2012-10-29 16:53 WAT)
+
+- URL: https://x.com/trailofbits/status/262945319619268610
+- Metrics (at fetch): not returned
+
+> To celebrate a successful first year in business, our founders tattooed our logo on themselves… and everyone else too http://imgur.com/a/5FnlT
+
+**Links in post:** http://imgur.com/a/5FnlT
+
+
+---
+
+## 2012-10-02 · Post · We're proud to sponsor @CSAW_NYUPoly who, with 9100 competitors, is home to the largest CTF in the w
+
+
+### Post — @trailofbits — 2012-10-02 13:32 UTC (2012-10-02 14:32 WAT)
+
+- URL: https://x.com/trailofbits/status/253125320901799936
+- Metrics (at fetch): not returned
+
+> We're proud to sponsor @CSAW_NYUPoly who, with 9100 competitors, is home to the largest CTF in the world http://www.poly.edu/csaw2012
+
+**Links in post:** http://www.poly.edu/csaw2012
+
+
+---
+
+## 2012-09-27 · Post · Read our interview about mobile security with PC Mag's Security Watch: http://securitywatch.pcmag.co
+
+
+### Post — @trailofbits — 2012-09-27 16:51 UTC (2012-09-27 17:51 WAT)
+
+- URL: https://x.com/trailofbits/status/251363544006815744
+- Metrics (at fetch): not returned
+
+> Read our interview about mobile security with PC Mag's Security Watch: http://securitywatch.pcmag.com/none/303134-securitywatch-chats-with-dan-guido-ceo-of-trail-of-bits
+
+**Links in post:** http://securitywatch.pcmag.com/none/303134-securitywatch-chats-with-dan-guido-ceo-of-trail-of-bits
+
+
+---
+
+## 2012-09-05 · Post · We will be on a mobile security panel for PCMag's @securitywatch w/ @mcafee @bofa_news and @verizonw
+
+
+### Post — @trailofbits — 2012-09-05 22:01 UTC (2012-09-05 23:01 WAT)
+
+- URL: https://x.com/trailofbits/status/243468911415275521
+- Metrics (at fetch): not returned
+
+> We will be on a mobile security panel for PCMag's @securitywatch w/ @mcafee @bofa_news and @verizonwireless on 09/27 http://securitywatch.pcmag.com/none/302290-announcing-the-panelists-of-security-watch-summit-2012
+
+**Links in post:** http://securitywatch.pcmag.com/none/302290-announcing-the-panelists-of-security-watch-summit-2012
+
+
+---
+
+## 2012-09-03 · Post · We're happy to have our own Vincenzo Iozzo (@_snagg) participating in the SysSec Project (@syssecpro
+
+
+### Post — @trailofbits — 2012-09-03 21:05 UTC (2012-09-03 22:05 WAT)
+
+- URL: https://x.com/trailofbits/status/242729960291332097
+- Metrics (at fetch): not returned
+
+> We're happy to have our own Vincenzo Iozzo (@_snagg) participating in the SysSec Project (@syssecproject) http://www.syssec-project.eu/community/members/
+
+**Links in post:** http://www.syssec-project.eu/community/members/
+
+
+---
+
+## 2012-08-15 · Post · We joined @Veronica on @Tekzilla yesterday to talk about recent iCloud/Amazon password reset hacking
+
+
+### Post — @trailofbits — 2012-08-15 17:42 UTC (2012-08-15 18:42 WAT)
+
+- URL: https://x.com/trailofbits/status/235793591065264128
+- Metrics (at fetch): not returned
+
+> We joined @Veronica on @Tekzilla yesterday to talk about recent iCloud/Amazon password reset hacking in the news: http://revision3.com/tekzilla/shark-week-2012/how-companies-can-better-protect-your-data
+
+**Links in post:** http://revision3.com/tekzilla/shark-week-2012/how-companies-can-better-protect-your-data
+
+
+---
+
+## 2012-08-08 · Post · We will be partnering with @s7ephen and Stephen Lawler to bring Practical ARM Exploitation to NYC in
+
+
+### Post — @trailofbits — 2012-08-08 18:14 UTC (2012-08-08 19:14 WAT)
+
+- URL: https://x.com/trailofbits/status/233264864989171713
+- Metrics (at fetch): not returned
+
+> We will be partnering with @s7ephen and Stephen Lawler to bring Practical ARM Exploitation to NYC in November! http://www.trailofbits.com/training/#arm
+
+**Links in post:** http://www.trailofbits.com/training/#arm
+
+
+---
+
+## 2012-07-24 · Post · We'd like to share a little something we've been working on: iVerify, an iOS Integrity Validator: ht
+
+
+Tags (automatic): Mobile / Android / iOS, Blockchain / L1-L2 / bridge
+
+
+### Post — @trailofbits — 2012-07-24 23:30 UTC (2012-07-25 00:30 WAT)
+
+- URL: https://x.com/trailofbits/status/227908664051253248
+- Metrics (at fetch): not returned
+
+> We'd like to share a little something we've been working on: iVerify, an iOS Integrity Validator: http://www.youtube.com/watch?v=xjXqCfAXvi4
+
+**Links in post:** http://www.youtube.com/watch?v=xjXqCfAXvi4
+
+
+---
+
+## 2012-07-19 · Post · BlackHat preview: Mobile threats take center stage http://blogs.csoonline.com/wirelessmobile-securit
+
+
+### Post — @trailofbits — 2012-07-19 17:20 UTC (2012-07-19 18:20 WAT)
+
+- URL: https://x.com/trailofbits/status/226003611866505216
+- Metrics (at fetch): not returned
+
+> BlackHat preview: Mobile threats take center stage http://blogs.csoonline.com/wirelessmobile-security/2267/blackhat-preview-mobile-threats-take-center-stage
+
+**Links in post:** http://blogs.csoonline.com/wirelessmobile-security/2267/blackhat-preview-mobile-threats-take-center-stage
 
 
 ---
@@ -19142,12 +25112,265 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/224991156507906048
 - Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 4
 
-> Web exploit kit developers have demonstrated minor but largely insignificant advances in skill since last year: http://t.co/6UaGrzPf
+> Web exploit kit developers have demonstrated minor but largely insignificant advances in skill since last year: http://www.darkreading.com/threat-intelligence/167901121/security/client-security/240003648/attackers-shift-to-more-obfuscation-java-exploits.html
+
+**Links in post:** http://www.darkreading.com/threat-intelligence/167901121/security/client-security/240003648/attackers-shift-to-more-obfuscation-java-exploits.html
 
 
 ---
 
-## 2012-04-20 · Post · We have posted slides for the Mobile Exploit Intelligence Project: http://t.co/IVkR8aO7 (cc @mikearp
+## 2012-07-10 · Post · Register for the Blackhat Executive Briefings to hear Vincenzo Iozzo's overview of the Mobile Securi
+
+
+### Post — @trailofbits — 2012-07-10 20:39 UTC (2012-07-10 21:39 WAT)
+
+- URL: https://x.com/trailofbits/status/222792171693162498
+- Metrics (at fetch): not returned
+
+> Register for the Blackhat Executive Briefings to hear Vincenzo Iozzo's overview of the Mobile Security track: https://www.blackhat.com/html/bh-us-12/bh-us-12-executive-details.html
+
+**Links in post:** https://www.blackhat.com/html/bh-us-12/bh-us-12-executive-details.html
+
+
+---
+
+## 2012-06-22 · Post · Our own Vincenzo Iozzo (@_snagg) will be the Mobile Security track chair at Blackhat this year. http
+
+
+### Post — @trailofbits — 2012-06-22 18:50 UTC (2012-06-22 19:50 WAT)
+
+- URL: https://x.com/trailofbits/status/216241831829180417
+- Metrics (at fetch): not returned
+
+> Our own Vincenzo Iozzo (@_snagg) will be the Mobile Security track chair at Blackhat this year. https://www.blackhat.com/html/latestintel/06212012-Black-Hat-Track-Chairs.html
+
+**Links in post:** https://www.blackhat.com/html/latestintel/06212012-Black-Hat-Track-Chairs.html
+
+
+---
+
+## 2012-06-15 · Post · Vincenzo Iozzo was featured on an Italian TV show last week. We have no idea what he said, but we th
+
+
+### Post — @trailofbits — 2012-06-15 22:01 UTC (2012-06-15 23:01 WAT)
+
+- URL: https://x.com/trailofbits/status/213753241643651072
+- Metrics (at fetch): not returned
+
+> Vincenzo Iozzo was featured on an Italian TV show last week. We have no idea what he said, but we think it's awesome! http://www.youtube.com/watch?v=IlcUkC--hyw
+
+**Links in post:** http://www.youtube.com/watch?v=IlcUkC--hyw
+
+
+---
+
+## 2012-06-14 · Post · We've been profiled in "Security Startups Focusing On Threats, Not Malware": http://www.darkreading.
+
+
+### Post — @trailofbits — 2012-06-14 22:23 UTC (2012-06-14 23:23 WAT)
+
+- URL: https://x.com/trailofbits/status/213396190971183104
+- Metrics (at fetch): not returned
+
+> We've been profiled in "Security Startups Focusing On Threats, Not Malware": http://www.darkreading.com/threat-intelligence/167901121/security/news/240002122/security-startups-focusing-on-threats-not-malware.html
+
+**Links in post:** http://www.darkreading.com/threat-intelligence/167901121/security/news/240002122/security-startups-focusing-on-threats-not-malware.html
+
+
+---
+
+## 2012-06-12 · Post · Ars Technica interviewed Alex about his Flame MD5 collision findings http://arstechnica.com/security
+
+
+### Post — @trailofbits — 2012-06-12 16:44 UTC (2012-06-12 17:44 WAT)
+
+- URL: https://x.com/trailofbits/status/212586216250548224
+- Metrics (at fetch): not returned
+
+> Ars Technica interviewed Alex about his Flame MD5 collision findings http://arstechnica.com/security/2012/06/flame-crypto-attack-may-have-needed-massive-compute-power/
+
+**Links in post:** http://arstechnica.com/security/2012/06/flame-crypto-attack-may-have-needed-massive-compute-power/
+
+
+---
+
+## 2012-06-11 · Post · "RT @McGrewSecurity The @trailofbits logo is simply fantastic." &lt; Thanks! We get all our graphic 
+
+
+### Post — @trailofbits — 2012-06-11 21:33 UTC (2012-06-11 22:33 WAT)
+
+- URL: https://x.com/trailofbits/status/212296510799491073
+- Metrics (at fetch): not returned
+
+> "RT @McGrewSecurity The @trailofbits logo is simply fantastic." &lt; Thanks! We get all our graphic design work done by http://www.amandamorante.com
+
+**Links in post:** http://www.amandamorante.com
+
+
+---
+
+## 2012-06-11 · Post · We have published our initial analysis of Flame's MD5 collision capabilities http://blog.trailofbits
+
+
+### Post — @trailofbits — 2012-06-11 20:07 UTC (2012-06-11 21:07 WAT)
+
+- URL: https://x.com/trailofbits/status/212274853787598848
+- Metrics (at fetch): not returned
+
+> We have published our initial analysis of Flame's MD5 collision capabilities http://blog.trailofbits.com/2012/06/11/analyzing-the-md5-collision-in-flame/
+
+**Links in post:** http://blog.trailofbits.com/2012/06/11/analyzing-the-md5-collision-in-flame/
+
+
+---
+
+## 2012-06-07 · Post · We'd like to welcome Chris Betz, Vice President of Information Security at CBS Corporation, to our a
+
+
+### Post — @trailofbits — 2012-06-07 14:19 UTC (2012-06-07 15:19 WAT)
+
+- URL: https://x.com/trailofbits/status/210737778600841217
+- Metrics (at fetch): not returned
+
+> We'd like to welcome Chris Betz, Vice President of Information Security at CBS Corporation, to our advisory board.
+
+
+---
+
+## 2012-06-06 · Post · PC Magazine reviews the iOS Hacker's Handbook in "An Unofficial Guide to Hacking iPhones, iPads" htt
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @trailofbits — 2012-06-06 17:58 UTC (2012-06-06 18:58 WAT)
+
+- URL: https://x.com/trailofbits/status/210430510948810752
+- Metrics (at fetch): not returned
+
+> PC Magazine reviews the iOS Hacker's Handbook in "An Unofficial Guide to Hacking iPhones, iPads" http://securitywatch.pcmag.com/none/298714-an-unofficial-guide-to-hacking-iphones-ipads
+
+**Links in post:** http://securitywatch.pcmag.com/none/298714-an-unofficial-guide-to-hacking-iphones-ipads
+
+
+---
+
+## 2012-06-05 · Post · We're happy to announce that Trail of Bits has been named to the @SummerCon advisory board: http://w
+
+
+### Post — @trailofbits — 2012-06-05 21:02 UTC (2012-06-05 22:02 WAT)
+
+- URL: https://x.com/trailofbits/status/210114483107012608
+- Metrics (at fetch): not returned
+
+> We're happy to announce that Trail of Bits has been named to the @SummerCon advisory board: http://www.summercon.org/ See you all this weekend!
+
+**Links in post:** http://www.summercon.org/
+
+
+---
+
+## 2012-06-02 · Post · An astute reader let us know we're also mentioned in the DSD iOS 5 Hardening Guide. Glad to be of he
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @trailofbits — 2012-06-02 17:43 UTC (2012-06-02 18:43 WAT)
+
+- URL: https://x.com/trailofbits/status/208977154850041856
+- Metrics (at fetch): not returned
+
+> An astute reader let us know we're also mentioned in the DSD iOS 5 Hardening Guide. Glad to be of help! http://dsd.gov.au/publications/iOS5_Hardening_Guide.pdf
+
+**Links in post:** http://dsd.gov.au/publications/iOS5_Hardening_Guide.pdf
+
+
+---
+
+## 2012-05-21 · Post · The NSA Secure Config Guide for iOS 5 cites our published work on iOS 4 from last year http://www.ns
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @trailofbits — 2012-05-21 19:41 UTC (2012-05-21 20:41 WAT)
+
+- URL: https://x.com/trailofbits/status/204658134147547136
+- Metrics (at fetch): not returned
+
+> The NSA Secure Config Guide for iOS 5 cites our published work on iOS 4 from last year http://www.nsa.gov/ia/mitigation_guidance/security_configuration_guides/operating_systems.shtml#Apple http://www.trailofbits.com/research/#ios-eval
+
+**Links in post:** http://www.nsa.gov/ia/mitigation_guidance/security_configuration_guides/operating_systems.shtml#Apple, http://www.trailofbits.com/research/#ios-eval
+
+
+---
+
+## 2012-04-30 · Post · We're happy to announce that Andrew Ruef (@no_structure) has joined Trail of Bits. Welcome to the te
+
+
+### Post — @trailofbits — 2012-04-30 15:56 UTC (2012-04-30 16:56 WAT)
+
+- URL: https://x.com/trailofbits/status/196991370987184130
+- Metrics (at fetch): not returned
+
+> We're happy to announce that Andrew Ruef (@no_structure) has joined Trail of Bits. Welcome to the team Andrew!
+
+
+---
+
+## 2012-04-23 · Post · We're happy to announce that our proposal for DARPA Cyber Fast Track has been accepted: http://cft.u
+
+
+### Post — @trailofbits — 2012-04-23 17:31 UTC (2012-04-23 18:31 WAT)
+
+- URL: https://x.com/trailofbits/status/194478539108651008
+- Metrics (at fetch): not returned
+
+> We're happy to announce that our proposal for DARPA Cyber Fast Track has been accepted: http://cft.usma.edu/CurrentProjects.htm
+
+**Links in post:** http://cft.usma.edu/CurrentProjects.htm
+
+
+---
+
+## 2012-04-21 · Post · The @threatpost article covering our Mobile EIP research has hit Slashdot http://apple.slashdot.org/
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @trailofbits — 2012-04-21 23:36 UTC (2012-04-22 00:36 WAT)
+
+- URL: https://x.com/trailofbits/status/193845779222376448
+- Metrics (at fetch): not returned
+
+> The @threatpost article covering our Mobile EIP research has hit Slashdot http://apple.slashdot.org/story/12/04/21/1246249/accountability-not-code-quality-makes-ios-safer-than-android
+
+**Links in post:** http://apple.slashdot.org/story/12/04/21/1246249/accountability-not-code-quality-makes-ios-safer-than-android
+
+
+---
+
+## 2012-04-20 · Post · "Accountability - Not Code Quality - Makes iOS Safer than Android" Mobile EIP in @threatpost: https:
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @trailofbits — 2012-04-20 17:16 UTC (2012-04-20 18:16 WAT)
+
+- URL: https://x.com/trailofbits/status/193387770218168320
+- Metrics (at fetch): not returned
+
+> "Accountability - Not Code Quality - Makes iOS Safer than Android" Mobile EIP in @threatpost: https://threatpost.com/en_us/blogs/accountability-not-code-quality-makes-ios-safer-android-042012
+
+**Links in post:** https://threatpost.com/en_us/blogs/accountability-not-code-quality-makes-ios-safer-android-042012
+
+
+---
+
+## 2012-04-20 · Post · We have posted slides for the Mobile Exploit Intelligence Project: http://www.trailofbits.com/resour
 
 
 ### Post — @trailofbits — 2012-04-20 02:16 UTC (2012-04-20 03:16 WAT)
@@ -19155,7 +25378,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/trailofbits/status/193161119802724353
 - Metrics (at fetch): bookmark 0, impression 0, like 15, quote 0, reply 0, retweet 20
 
-> We have posted slides for the Mobile Exploit Intelligence Project: http://t.co/IVkR8aO7 (cc @mikearpaia) Reddit thread: http://t.co/NfIoDM1B
+> We have posted slides for the Mobile Exploit Intelligence Project: http://www.trailofbits.com/resources/mobile_eip-04-19-2012.pdf (cc @mikearpaia) Reddit thread: http://www.reddit.com/r/netsec/comments/six8a/the_mobile_exploit_intelligence_project/
+
+**Links in post:** http://www.trailofbits.com/resources/mobile_eip-04-19-2012.pdf, http://www.reddit.com/r/netsec/comments/six8a/the_mobile_exploit_intelligence_project/
 
 
 ---
@@ -19169,6 +25394,51 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 1
 
 > Dan Guido (@dguido) and Mike Arpaia (@mikearpaia) will be presenting the Mobile Exploit Intelligence Project at #sourcebos in 5 minutes.
+
+
+---
+
+## 2012-04-17 · Post · "The Cybercrime Wave That Wasn't" has been added to our mandatory training for new employees http://
+
+
+### Post — @trailofbits — 2012-04-17 16:30 UTC (2012-04-17 17:30 WAT)
+
+- URL: https://x.com/trailofbits/status/192289010373242881
+- Metrics (at fetch): not returned
+
+> "The Cybercrime Wave That Wasn't" has been added to our mandatory training for new employees http://www.nytimes.com/2012/04/15/opinion/sunday/the-cybercrime-wave-that-wasnt.html
+
+**Links in post:** http://www.nytimes.com/2012/04/15/opinion/sunday/the-cybercrime-wave-that-wasnt.html
+
+
+---
+
+## 2012-04-13 · Post · We're happy to announce that @dguido and @dinodaizovi have accepted positions as Hackers in Residenc
+
+
+### Post — @trailofbits — 2012-04-13 17:02 UTC (2012-04-13 18:02 WAT)
+
+- URL: https://x.com/trailofbits/status/190847522300891136
+- Metrics (at fetch): not returned
+
+> We're happy to announce that @dguido and @dinodaizovi have accepted positions as Hackers in Residence at NYU-Poly! http://www.poly.edu/academics/departments/computer/people#Hackers
+
+**Links in post:** http://www.poly.edu/academics/departments/computer/people#Hackers
+
+
+---
+
+## 2012-04-11 · Post · We're happy to announce that Dan Guido (@dguido) will be giving a keynote at @cntrmeasurecon. Regist
+
+
+### Post — @trailofbits — 2012-04-11 00:28 UTC (2012-04-11 01:28 WAT)
+
+- URL: https://x.com/trailofbits/status/189872551080632321
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 2
+
+> We're happy to announce that Dan Guido (@dguido) will be giving a keynote at @cntrmeasurecon. Register to attend: http://www.countermeasure2012.com/
+
+**Links in post:** http://www.countermeasure2012.com/
 
 
 ---
@@ -19214,3 +25484,152 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > Dan Guido (@dguido) will be speaking about the Mobile Exploit Intelligence Project at @SOURCEConf on April 19th http://www.trailofbits.com/research/#mobile-eip
 
 **Links in post:** http://www.trailofbits.com/research/#mobile-eip
+
+
+---
+
+## 2012-04-02 · Post · We are happy to announce that we have acqui-hired Vincenzo Iozzo (@_snagg). Welcome to the team Vinc
+
+
+### Post — @trailofbits — 2012-04-02 15:56 UTC (2012-04-02 16:56 WAT)
+
+- URL: https://x.com/trailofbits/status/186844674189824000
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 5, retweet 10
+
+> We are happy to announce that we have acqui-hired Vincenzo Iozzo (@_snagg). Welcome to the team Vincenzo!
+
+
+---
+
+## 2012-03-22 · Post · The iOS Hacker's Handbook is now in production! It will be on bookshelves in May but you should pre-
+
+
+Tags (automatic): Mobile / Android / iOS
+
+
+### Post — @trailofbits — 2012-03-22 22:21 UTC (2012-03-22 23:21 WAT)
+
+- URL: https://x.com/trailofbits/status/182955237278089217
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 0, reply 1, retweet 20
+
+> The iOS Hacker's Handbook is now in production! It will be on bookshelves in May but you should pre-order a copy now: http://www.amazon.com/iOS-Hackers-Handbook-Charlie-Miller/dp/1118204123/traofbit-20/
+
+**Links in post:** http://www.amazon.com/iOS-Hackers-Handbook-Charlie-Miller/dp/1118204123/traofbit-20/
+
+
+---
+
+## 2012-03-21 · Post · @vpnhunter found 0 remote access services on http://trailofbits.com: http://www.vpnhunter.com/r/53ff
+
+
+### Post — @trailofbits — 2012-03-21 18:56 UTC (2012-03-21 19:56 WAT)
+
+- URL: https://x.com/trailofbits/status/182541103084474369
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @vpnhunter found 0 remote access services on http://trailofbits.com: http://www.vpnhunter.com/r/53ff52c5a4e2f3f5
+
+**Links in post:** http://trailofbits.com, http://www.vpnhunter.com/r/53ff52c5a4e2f3f5
+
+
+---
+
+## 2012-02-22 · Post · Read co-founder Dan Guido's interview with @chadloder on the Dangerous Things blog https://community
+
+
+### Post — @trailofbits — 2012-02-22 17:31 UTC (2012-02-22 18:31 WAT)
+
+- URL: https://x.com/trailofbits/status/172372885380411392
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 4
+
+> Read co-founder Dan Guido's interview with @chadloder on the Dangerous Things blog https://community.rapid7.com/community/infosec/blog/2012/02/22/interview-with-dan-guido-draft
+
+**Links in post:** https://community.rapid7.com/community/infosec/blog/2012/02/22/interview-with-dan-guido-draft
+
+
+---
+
+## 2012-02-21 · Post · To celebrate the launch of @trailofbits, we're sponsoring NYSEC tonight with an open bar from 6-9pm.
+
+
+### Post — @trailofbits — 2012-02-21 16:24 UTC (2012-02-21 17:24 WAT)
+
+- URL: https://x.com/trailofbits/status/171993807708110848
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 6
+
+> To celebrate the launch of @trailofbits, we're sponsoring NYSEC tonight with an open bar from 6-9pm. Come to the back room for the party.
+
+
+---
+
+## 2012-02-18 · Post · Security and economic incentives are almost always intertwined http://www.economist.com/blogs/babbag
+
+
+### Post — @trailofbits — 2012-02-18 19:36 UTC (2012-02-18 20:36 WAT)
+
+- URL: https://x.com/trailofbits/status/170954840262975490
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> Security and economic incentives are almost always intertwined http://www.economist.com/blogs/babbage/2012/02/credit-card-security (via @michaelaiello)
+
+**Links in post:** http://www.economist.com/blogs/babbage/2012/02/credit-card-security
+
+
+---
+
+## 2012-02-17 · Post · Great article by Elinor Mills on the reasoning behind and impact of Gatekeeper in OS X 10.8 http://n
+
+
+### Post — @trailofbits — 2012-02-17 16:51 UTC (2012-02-17 17:51 WAT)
+
+- URL: https://x.com/trailofbits/status/170551025395175425
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> Great article by Elinor Mills on the reasoning behind and impact of Gatekeeper in OS X 10.8 http://news.cnet.com/8301-27080_3-57379636-245/security-experts-apple-did-mac-os-x-gatekeeper-right/
+
+**Links in post:** http://news.cnet.com/8301-27080_3-57379636-245/security-experts-apple-did-mac-os-x-gatekeeper-right/
+
+
+---
+
+## 2012-02-15 · Post · We recommend Practical Malware Analysis as "an excellent crash course in malware analysis." http://w
+
+
+### Post — @trailofbits — 2012-02-15 23:04 UTC (2012-02-16 00:04 WAT)
+
+- URL: https://x.com/trailofbits/status/169919997630615554
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> We recommend Practical Malware Analysis as "an excellent crash course in malware analysis." http://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/traofbit-20/
+
+**Links in post:** http://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/traofbit-20/
+
+
+---
+
+## 2012-02-15 · Post · Sign up for @dinodaizovi and @alexsotirov's Assured Exploitation dojo at CanSecWest http://cansecwes
+
+
+### Post — @trailofbits — 2012-02-15 22:59 UTC (2012-02-15 23:59 WAT)
+
+- URL: https://x.com/trailofbits/status/169918806863523843
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 7
+
+> Sign up for @dinodaizovi and @alexsotirov's Assured Exploitation dojo at CanSecWest http://cansecwest.com/dojos/2012/assured_exploitation.html
+
+**Links in post:** http://cansecwest.com/dojos/2012/assured_exploitation.html
+
+
+---
+
+## 2012-02-13 · Post · We're excited to announce our new company, Trail of Bits. See http://www.trailofbits.com/ and follow
+
+
+### Post — @trailofbits — 2012-02-13 21:42 UTC (2012-02-13 22:42 WAT)
+
+- URL: https://x.com/trailofbits/status/169174545574539267
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 9
+
+> We're excited to announce our new company, Trail of Bits. See http://www.trailofbits.com/ and follow us for more updates.
+
+**Links in post:** http://www.trailofbits.com/

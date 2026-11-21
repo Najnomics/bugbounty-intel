@@ -1,11 +1,55 @@
 # @Swartz068 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 59
-- Conversations/threads: 41
+- Posts in this file: 61
+- Conversations/threads: 43
 - Oldest post captured: 2024-12-30
-- Newest post captured: 2026-11-18
+- Newest post captured: 2026-11-19
+
+
+---
+
+## 2026-11-19 · Reply · @joshuabuilds_ Thanks bro bringing my attention on this. I deleting this post.
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1911111371137134592 — 2026-11-19 17:59 UTC (2026-11-19 18:59 WAT)
+
+- URL: https://x.com/1911111371137134592/status/2123476253546262743
+- Metrics (at fetch): bookmark 0, impression 15, like 1, quote 0, reply 1, retweet 0
+
+> @Swartz068 Make sure to not disclose the target/parts of the vulnerability if they didn't approve to disclose. This can lead to your account getting terminated.
+
+
+### Post — @Swartz068 — 2026-11-19 18:02 UTC (2026-11-19 19:02 WAT)
+
+- URL: https://x.com/Swartz068/status/2123477121230385427
+- Metrics (at fetch): bookmark 0, impression 7, like 0, quote 0, reply 0, retweet 0
+
+> @joshuabuilds_ Thanks bro bringing my attention on this. I deleting this post.
+
+
+---
+
+## 2026-11-19 · Post · Happiness Mail received  😍 💖 
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-11-19 12:32 UTC (2026-11-19 13:32 WAT)
+
+- URL: https://x.com/Swartz068/status/2123393909728612713
+- Metrics (at fetch): bookmark 0, impression 377, like 25, quote 0, reply 1, retweet 0
+
+> Happiness Mail received  😍 💖 
+>
+> #EthicalHacking #SecurityResearch #BugHunter #ResponsibleDisclosure #bugcrowd #bugbountytip https://t.co/poaPxZOwa6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXfPgLsbUAEVFNC.jpg — no alt text provided by author
 
 
 ---
@@ -15,9 +59,9 @@ _Generated 2026-11-19 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @1702384716895154176 — 2026-11-18 17:23 UTC (2026-11-18 18:23 WAT)
+#### Root post — @7lpu6iLt — 2026-11-18 17:23 UTC (2026-11-18 18:23 WAT)
 
-- URL: https://x.com/1702384716895154176/status/2123104826053607439
+- URL: https://x.com/7lpu6iLt/status/2123104826053607439
 - Metrics (at fetch): bookmark 10, impression 2514, like 56, quote 0, reply 7, retweet 0
 
 > Hmmm I don’t know if this is right but anyways thanks zoho lol #bugbounty [pic.x.com/lAyisLTgn8]

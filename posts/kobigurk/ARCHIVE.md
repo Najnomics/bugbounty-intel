@@ -1,11 +1,236 @@
 # @kobigurk — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 129
-- Conversations/threads: 111
+- Posts in this file: 137
+- Conversations/threads: 119
 - Oldest post captured: 2014-01-16
-- Newest post captured: 2026-11-15
+- Newest post captured: 2026-11-20
+
+
+---
+
+## 2026-11-20 · Reply · @Yogi_Brn What’s the new target?
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Yogi_Brn — 2026-11-20 15:40 UTC (2026-11-20 16:40 WAT)
+
+- URL: https://x.com/Yogi_Brn/status/2123803678754910694
+- Metrics (at fetch): not returned
+
+> Pay up folks https://twitter.com/yogi_brn/status/2087055092054966684
+
+**Links in post:** https://twitter.com/yogi_brn/status/2087055092054966684
+
+**Quoted post** 2087055092054966684: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @kobigurk — 2026-11-20 23:49 UTC (2026-11-21 00:49 WAT)
+
+- URL: https://x.com/kobigurk/status/2123926781212188969
+- Metrics (at fetch): not returned
+
+> @Yogi_Brn What’s the new target?
+
+
+---
+
+## 2026-11-20 · Post · AI: you’re welcome for the head start https://twitter.com/kobigurk/status/2118837749520212062
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @kobigurk — 2026-11-20 22:25 UTC (2026-11-20 23:25 WAT)
+
+- URL: https://x.com/kobigurk/status/2123905624841056460
+- Metrics (at fetch): not returned
+
+> AI: you’re welcome for the head start https://twitter.com/kobigurk/status/2118837749520212062
+
+**Links in post:** https://twitter.com/kobigurk/status/2118837749520212062
+
+**Quoted post (full text):**
+
+    #### Quoted post — @kobigurk — 2026-11-06 22:47 UTC (2026-11-06 23:47 WAT)
+    
+    - URL: https://x.com/kobigurk/status/2118837749520212062
+    - Metrics (at fetch): not returned
+    
+    > Lean DSL for math professors [pic.x.com/P5QsfvdMqO]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HWeftFHWoAAQ322.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-20 · Post · Really enjoyed it!
+
+
+### Post — @kobigurk — 2026-11-20 11:13 UTC (2026-11-20 12:13 WAT)
+
+- URL: https://x.com/kobigurk/status/2123736411279151498
+- Metrics (at fetch): not returned
+
+> Really enjoyed it!
+>
+> Funny thing - the presentation is built in Lean using Verso https://twitter.com/justincasher/status/2123127807161106511
+
+**Links in post:** https://twitter.com/justincasher/status/2123127807161106511
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1878351079848710144 — 2026-11-18 18:54 UTC (2026-11-18 19:54 WAT)
+    
+    - URL: https://x.com/1878351079848710144/status/2123127807161106511
+    - Metrics (at fetch): not returned
+    
+    > The recording of Leo's talk is now up on NYC Lean's YouTube channel:
+    >
+    > https://www.youtube.com/watch?v=hhB8X0quC1g https://twitter.com/justincasher/status/2121797657417089166
+    
+    **Links in post:** https://www.youtube.com/watch?v=hhB8X0quC1g, https://twitter.com/justincasher/status/2121797657417089166
+    
+    **Quoted post** 2121797657417089166: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-11-20 · Post · Ok it’s getting very wild [pic.x.com/VYGaNnCUQp] https://twitter.com/kobigurk/status/212356625388945
+
+
+### Post — @kobigurk — 2026-11-20 10:59 UTC (2026-11-20 11:59 WAT)
+
+- URL: https://x.com/kobigurk/status/2123732878240452685
+- Metrics (at fetch): not returned
+
+> Ok it’s getting very wild [pic.x.com/VYGaNnCUQp] https://twitter.com/kobigurk/status/2123566253889454296
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXkDzEgXUAAYnGY.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/kobigurk/status/2123566253889454296
+
+**Quoted post (full text):**
+
+    #### Quoted post — @kobigurk — 2026-11-19 23:57 UTC (2026-11-20 00:57 WAT)
+    
+    - URL: https://x.com/kobigurk/status/2123566253889454296
+    - Metrics (at fetch): bookmark 0, impression 569, like 12, quote 0, reply 0, repost 1
+    
+    > https://zk.golf and https://better.codes have seen significant improvements in the last few days
+    >
+    > The models are smarter for the math around us? https://twitter.com/rotn256/status/2123343338300428779
+    
+    **Links in post:** https://zk.golf, https://better.codes, https://twitter.com/rotn256/status/2123343338300428779
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @2072955966341914624 — 2026-11-19 09:11 UTC (2026-11-19 10:11 WAT)
+        
+        - URL: https://x.com/2072955966341914624/status/2123343338300428779
+        - Metrics (at fetch): bookmark 0, impression 752, like 10, quote 1, reply 0, retweet 2
+        
+        > Don't get the controversy, Astra 6.2 is a perfectly cromulent model. Its https://zk.golf improvements last 24 hours: [pic.x.com/6X1cKf1KSl]
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/HXeg2y3WEAAKojy.jpg — no alt text provided by author
+        
+        **Links in post:** https://zk.golf
+        
+    
+
+
+---
+
+## 2026-11-20 · Reply · @luhelminger One of my favorite protocols
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @luhelminger — 2026-11-19 16:08 UTC (2026-11-19 17:08 WAT)
+
+- URL: https://x.com/luhelminger/status/2123448335902117940
+- Metrics (at fetch): not returned
+
+> Thresholdized Verifiable Oblivious Pseudorandom Functions are obviously a mouthful, but also one of the most underrated cryptographic protocols right now.
+
+
+### Post — @kobigurk — 2026-11-20 08:30 UTC (2026-11-20 09:30 WAT)
+
+- URL: https://x.com/kobigurk/status/2123695371604144565
+- Metrics (at fetch): not returned
+
+> @luhelminger One of my favorite protocols
+
+
+---
+
+## 2026-11-19 · Reply · @zeroknowledgefm @zksecurityXYZ @g_dellimmagine @nico_mnbl cc @rotn256
+
+
+Tags (automatic): ZK
+
+
+**Context — post being replied to:**
+
+#### Parent post — @977164339533832192 — 2026-11-19 13:53 UTC (2026-11-19 14:53 WAT)
+
+- URL: https://x.com/977164339533832192/status/2123414274924269695
+- Metrics (at fetch): bookmark 0, impression 113, like 1, quote 0, reply 0, retweet 0
+
+> Hear the full episode on zkGolf and Clean with the @zksecurityXYZ team (and some of our co-hosts): @g_dellimmagine, Mathias Hall-Andersen, @kobigurk and @nico_mnbl 
+>  
+> Enjoy! 
+> https://t.co/ik1nolcIoZ
+
+
+### Post — @kobigurk — 2026-11-19 23:58 UTC (2026-11-20 00:58 WAT)
+
+- URL: https://x.com/kobigurk/status/2123566693653856257
+- Metrics (at fetch): bookmark 0, impression 21, like 0, quote 0, reply 0, retweet 0
+
+> @zeroknowledgefm @zksecurityXYZ @g_dellimmagine @nico_mnbl cc @rotn256
+
+
+---
+
+## 2026-11-19 · Post · https://zk.golf and https://better.codes have seen significant improvements in the last few days
+
+
+Tags (automatic): ZK
+
+
+### Post — @kobigurk — 2026-11-19 23:57 UTC (2026-11-20 00:57 WAT)
+
+- URL: https://x.com/kobigurk/status/2123566253889454296
+- Metrics (at fetch): bookmark 0, impression 569, like 12, quote 0, reply 0, repost 1
+
+> https://zk.golf and https://better.codes have seen significant improvements in the last few days
+>
+> The models are smarter for the math around us? https://twitter.com/rotn256/status/2123343338300428779
+
+**Links in post:** https://zk.golf, https://better.codes, https://twitter.com/rotn256/status/2123343338300428779
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2072955966341914624 — 2026-11-19 09:11 UTC (2026-11-19 10:11 WAT)
+    
+    - URL: https://x.com/2072955966341914624/status/2123343338300428779
+    - Metrics (at fetch): bookmark 0, impression 752, like 10, quote 1, reply 0, retweet 2
+    
+    > Don't get the controversy, Astra 6.2 is a perfectly cromulent model. Its https://zk.golf improvements last 24 hours: [pic.x.com/6X1cKf1KSl]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXeg2y3WEAAKojy.jpg — no alt text provided by author
+    
+    **Links in post:** https://zk.golf
+    
 
 
 ---
@@ -220,6 +445,22 @@ Tags (automatic): ZK
 > Check it out here: https://t.co/FKFxNfN3n6
 >
 > 7/7
+
+
+---
+
+## 2026-11-06 · Post · Lean DSL for math professors [pic.x.com/P5QsfvdMqO]
+
+
+### Post — @kobigurk — 2026-11-06 22:47 UTC (2026-11-06 23:47 WAT)
+
+- URL: https://x.com/kobigurk/status/2118837749520212062
+- Metrics (at fetch): not returned
+
+> Lean DSL for math professors [pic.x.com/P5QsfvdMqO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HWeftFHWoAAQ322.jpg — no alt text provided by author
 
 
 ---

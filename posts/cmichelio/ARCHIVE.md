@@ -1,6 +1,6 @@
 # @cmichelio — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 244
 - Conversations/threads: 198
@@ -1163,7 +1163,22 @@ Tags (automatic): Smart contract / DeFi
 
 **Links in post:** https://twitter.com/samczsun/status/1646404331967778820
 
-**Quoted post** 1646404331967778820: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2023-04-13 06:45 UTC (2023-04-13 07:45 WAT)
+    
+    - URL: https://x.com/samczsun/status/1646404331967778820
+    - Metrics (at fetch): bookmark 35, impression 279913, like 474, quote 54, reply 31, retweet 82
+    
+    > It seems like the iearn USDT token (yUSDT) has been broken since deploy, which was *checks notes* over 1000 days ago. It was misconfigured to use the Fulcrum iUSDC token instead of the Fulcrum iUSDT token.
+    >
+    > https://etherscan.io/address/0x83f798e925BcD4017Eb265844FDDAbb448f1707D [pic.x.com/dxW9E0ndF1]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/Ftkzc-TaMAERjiA.png — no alt text provided by author
+    
+    **Links in post:** https://etherscan.io/address/0x83f798e925BcD4017Eb265844FDDAbb448f1707D
+    
 
 
 ### Thread part 2 — @cmichelio — 2023-04-13 07:59 UTC (2023-04-13 08:59 WAT)

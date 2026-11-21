@@ -1,11 +1,34 @@
 # @xssdoctor — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 175
-- Conversations/threads: 110
+- Posts in this file: 176
+- Conversations/threads: 111
 - Oldest post captured: 2023-07-10
-- Newest post captured: 2026-11-05
+- Newest post captured: 2026-11-20
+
+
+---
+
+## 2026-11-20 · Reply · @garethheyes You were amazing! I was so great to just pick your brain for an hour.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @garethheyes — 2026-11-19 19:01 UTC (2026-11-19 20:01 WAT)
+
+- URL: https://x.com/garethheyes/status/2123491918889746885
+- Metrics (at fetch): bookmark 1, impression 2359, like 56, quote 0, reply 7, retweet 1
+
+> Going on a podcast is so outside my comfort zone. I get nervous just attending conferences. Normally I would turn down these opportunities. But I'm really proud of myself for doing it.
+
+
+### Post — @xssdoctor — 2026-11-20 15:37 UTC (2026-11-20 16:37 WAT)
+
+- URL: https://x.com/xssdoctor/status/2123802932168847596
+- Metrics (at fetch): not returned
+
+> @garethheyes You were amazing! I was so great to just pick your brain for an hour.
 
 
 ---

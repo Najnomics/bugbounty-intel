@@ -4,6 +4,7 @@ _83 RustSec advisories (7 added 2026-11-12: Intel TDX guest/attestation, vodozem
 
 | ID | Package | Summary |
 | --- | --- | --- |
+| [taquito-sapling-ghsa-6r9w-cxjj-5776](advisories/taquito-sapling-ghsa-6r9w-cxjj-5776.md) | `@taquito/sapling` (2026-11-20, low) | Sapling commitment trapdoor `rcm` reused across all outputs (incl. change) and spend rerandomizer `ar` reused across inputs — co-recipients can brute-force other outputs' (address, value); found by @saxenism (added 2026-11-21) |
 | [ghsa-265x-v3qf-ff6p](advisories/ghsa-265x-v3qf-ff6p.md) | `snark-verifier` (2026-11-18, medium, CVE-2026-61618) | snark-verifier accepts non-canonical KZG accumulator limb encodings — EVM verifier reconstructs EC point from public-instance limbs without per-limb bound checks (added 2026-11-19) |
 | [gnark-ghsa-4g5f-3gmm-9q87](advisories/gnark-ghsa-4g5f-3gmm-9q87.md) | `gnark` (2026-11-09, high) | Unsound emulated scalar multiplication on BLS12-381 / BW6-761 (exceptional GLV addition, missing sub (added 2026-11-12) |
 | [gnark-ghsa-7fx8-hmgc-82jp](advisories/gnark-ghsa-7fx8-hmgc-82jp.md) | `gnark` (2026-10-07, high) | Missing on-curve check in emulated fake-GLV scalar multiplication allows ECDSA / P256Verify signatur (added 2026-11-12) |

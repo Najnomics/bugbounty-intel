@@ -1,11 +1,245 @@
 # @NahamSec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1184
-- Conversations/threads: 1002
+- Posts in this file: 1196
+- Conversations/threads: 1013
 - Oldest post captured: 2016-09-01
-- Newest post captured: 2026-11-18
+- Newest post captured: 2026-11-21
+
+
+---
+
+## 2026-11-21 · Post · nahamcon2026 x Prompt2Pwn day 1 was an absolute success. 
+
+
+### Post — @NahamSec — 2026-11-21 05:07 UTC (2026-11-21 06:07 WAT)
+
+- URL: https://x.com/NahamSec/status/2124006747539194074
+- Metrics (at fetch): bookmark 0, impression 1412, like 16, quote 0, reply 3, retweet 0
+
+> #nahamcon2026 x #Prompt2Pwn day 1 was an absolute success. 
+>
+> See you all tomorrow at 10:00 AM. [pic.x.com/7C7JogA8FY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXn84PCaMAAG6c9.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXn84PIaUAEsIeB.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXn84PCaYAA74zY.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXn84PAaoAAVrjp.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-20 · Thread · Kick off party for nahamcon2026 x prompt2pwn was a success! 
+
+
+### Post — @NahamSec — 2026-11-20 08:29 UTC (2026-11-20 09:29 WAT)
+
+- URL: https://x.com/NahamSec/status/2123695299675947194
+- Metrics (at fetch): bookmark 8, impression 8902, like 226, quote 1, reply 8, retweet 3
+
+> Kick off party for #nahamcon2026 x #prompt2pwn was a success! 
+>
+> See you tomorrow at 9:00 AM! [pic.x.com/BbHIFZks7K]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXjhnnBbsAAYsU1.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXjhnm_bwAAwemL.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXjhnnBagAANl0U.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXjhnnBboAA-Gau.jpg — no alt text provided by author
+
+
+### Thread part 2 — @NahamSec — 2026-11-21 03:58 UTC (2026-11-21 04:58 WAT)
+
+- URL: https://x.com/NahamSec/status/2123989371288510814
+- Metrics (at fetch): not returned
+
+> @cybericanintel Thank you
+
+
+---
+
+## 2026-11-20 · Post · .@caseyjohnellis is live now with “BBP and VDP 2027: the great uncookening”. 
+
+
+### Post — @NahamSec — 2026-11-20 21:04 UTC (2026-11-20 22:04 WAT)
+
+- URL: https://x.com/NahamSec/status/2123885193471864902
+- Metrics (at fetch): bookmark 3, impression 3111, like 27, quote 0, reply 3, retweet 0
+
+> .@caseyjohnellis is live now with “BBP and VDP 2027: the great uncookening”. 
+>
+> https://YouTube.com/nahamsec [pic.x.com/Vg4sBnheGv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXmOU4QaUAAG4bE.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXmOU4Ga8AEZWLv.jpg — no alt text provided by author
+
+**Links in post:** https://YouTube.com/nahamsec
+
+
+---
+
+## 2026-11-20 · Post · We’ll be back in one hour with @caseyjohnellis to talk about “BBP and VDP 2027: The Great Uncookenin
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2026-11-20 19:56 UTC (2026-11-20 20:56 WAT)
+
+- URL: https://x.com/NahamSec/status/2123868068720030013
+- Metrics (at fetch): not returned
+
+> We’ll be back in one hour with @caseyjohnellis to talk about “BBP and VDP 2027: The Great Uncookening” followed by followed by “From Vibes to Vulns: Building Hacking Agents That Don’t Get Lost” [pic.x.com/jsyoftnh17]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXl-wHbbwAAOhd5.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXl-wHTaoAAWb-L.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-20 · Post · Live with @InsecureNature to talk about Model Distillation. 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2026-11-20 19:15 UTC (2026-11-20 20:15 WAT)
+
+- URL: https://x.com/NahamSec/status/2123857711955882453
+- Metrics (at fetch): not returned
+
+> Live with @InsecureNature to talk about Model Distillation. 
+>
+> Coming up next: Exfil Everything: A Year of Stealing Data from AI Agents with @TakSec
+>
+> Join us live for free 👉🏽 https://YouTube.com/nahamsec [pic.x.com/AL4AsZ4YM5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXl1VPtbwAAtxma.jpg — no alt text provided by author
+
+**Links in post:** https://YouTube.com/nahamsec
+
+
+---
+
+## 2026-11-20 · Post · Live with @nmatt0 on https://YouTube.com/nahamsec [pic.x.com/u8LRHJHeMN]
+
+
+### Post — @NahamSec — 2026-11-20 18:31 UTC (2026-11-20 19:31 WAT)
+
+- URL: https://x.com/NahamSec/status/2123846742433247617
+- Metrics (at fetch): not returned
+
+> Live with @nmatt0 on https://YouTube.com/nahamsec [pic.x.com/u8LRHJHeMN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXlrWtVbUAAzM9A.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXlrWtOawAAsfG2.jpg — no alt text provided by author
+
+**Links in post:** https://YouTube.com/nahamsec
+
+
+---
+
+## 2026-11-20 · Post · Live with “Becoming an AI Hacker and Breaking the Frontier” by @wunderwuzzi23 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2026-11-20 17:14 UTC (2026-11-20 18:14 WAT)
+
+- URL: https://x.com/NahamSec/status/2123827395384029602
+- Metrics (at fetch): not returned
+
+> Live with “Becoming an AI Hacker and Breaking the Frontier” by @wunderwuzzi23 
+>
+> https://YouTube.com/nahamsec
+
+**Links in post:** https://YouTube.com/nahamsec
+
+
+---
+
+## 2026-11-20 · Post · WE ARE LIVE 
+
+
+### Post — @NahamSec — 2026-11-20 16:56 UTC (2026-11-20 17:56 WAT)
+
+- URL: https://x.com/NahamSec/status/2123822891565506729
+- Metrics (at fetch): not returned
+
+> WE ARE LIVE 
+>
+> https://YouTube.com/nahamsec [pic.x.com/plnSE0rydc]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXlVqewbsAAtgTt.jpg — no alt text provided by author
+
+**Links in post:** https://YouTube.com/nahamsec
+
+
+---
+
+## 2026-11-19 · Post · @ROCKY_HANDS0M @Rhynorater @rez0__ @gr3pme @busf4ctor @rafabyte_ @xssdoctor They’re not members only
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Rhynorater — 2026-11-19 17:21 UTC (2026-11-19 18:21 WAT)
+
+- URL: https://x.com/Rhynorater/status/2123466608140005688
+- Metrics (at fetch): bookmark 6, impression 4840, like 45, quote 3, reply 7, repost 2
+
+> Hype to be on my way to #Prompt2pwn and #NahamCon2026 - gonna be a great time with the squad: @NahamSec @rez0__ @gr3pme Ads Dawson @busf4ctor @rafabyte_ @xssdoctor 
+>
+> Pwned Meta already, and more pwnage to come.
+
+
+### Post — @NahamSec — 2026-11-19 21:04 UTC (2026-11-19 22:04 WAT)
+
+- URL: https://x.com/NahamSec/status/2123522918001107183
+- Metrics (at fetch): bookmark 0, impression 77, like 2, quote 0, reply 1, retweet 0
+
+> @ROCKY_HANDS0M @Rhynorater @rez0__ @gr3pme @busf4ctor @rafabyte_ @xssdoctor They’re not members only. You can watch them on our website for free.
+
+
+---
+
+## 2026-11-19 · Post · We are putting up to $2,000 on our Grand Theft AI challenge at nahamcon2026 👀👀👀 who’s going to be t
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2026-11-19 21:04 UTC (2026-11-19 22:04 WAT)
+
+- URL: https://x.com/NahamSec/status/2123522748161138863
+- Metrics (at fetch): bookmark 5, impression 4756, like 48, quote 0, reply 6, retweet 0
+
+> We are putting up to $2,000 on our Grand Theft AI challenge at #nahamcon2026 👀👀👀 who’s going to be the first to solve it?
+
+
+---
+
+## 2026-11-19 · Post · NahamCon2026 CTF kicks off in TWO hours! 
+
+
+### Post — @NahamSec — 2026-11-19 17:45 UTC (2026-11-19 18:45 WAT)
+
+- URL: https://x.com/NahamSec/status/2123472727738843555
+- Metrics (at fetch): bookmark 4, impression 3339, like 20, quote 0, reply 1, retweet 5
+
+> #NahamCon2026 CTF kicks off in TWO hours! 
+>
+> Signup now 👉🏽https://t.co/ASPpur800o https://t.co/a670ExldSJ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXgXMTybgAAfsEG.jpg — no alt text provided by author
 
 
 ---
@@ -16083,9 +16317,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @21445961 — 2020-01-10 17:36 UTC (2020-01-10 18:36 WAT)
+    #### Quoted post — @Jhaddix — 2020-01-10 17:36 UTC (2020-01-10 18:36 WAT)
     
-    - URL: https://x.com/21445961/status/1215688864985239554
+    - URL: https://x.com/Jhaddix/status/1215688864985239554
     - Metrics (at fetch): bookmark 7, impression 0, like 135, quote 4, reply 5, retweet 25
     
     > This is gonna be fun =) https://t.co/YPCFw34T2u
@@ -16202,9 +16436,9 @@ Tags (automatic): SSRF
 
 **Quoted post (full text):**
 
-    #### Quoted post — @21445961 — 2020-01-07 05:39 UTC (2020-01-07 06:39 WAT)
+    #### Quoted post — @Jhaddix — 2020-01-07 05:39 UTC (2020-01-07 06:39 WAT)
     
-    - URL: https://x.com/21445961/status/1214421338938413056
+    - URL: https://x.com/Jhaddix/status/1214421338938413056
     - Metrics (at fetch): bookmark 55, impression 0, like 332, quote 2, reply 8, retweet 104
     
     > New Live Recon video #3 is up finally! Enjoy =) 

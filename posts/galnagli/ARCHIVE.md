@@ -1,11 +1,97 @@
 # @galnagli — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 309
-- Conversations/threads: 214
+- Posts in this file: 313
+- Conversations/threads: 216
 - Oldest post captured: 2020-07-24
-- Newest post captured: 2026-11-18
+- Newest post captured: 2026-11-19
+
+
+---
+
+## 2026-11-19 · Reply · @Rhynorater It might help with Code Security tasks but will deny for Web Application testing, we hop
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Rhynorater — 2026-11-19 15:24 UTC (2026-11-19 16:24 WAT)
+
+- URL: https://x.com/Rhynorater/status/2123437172975976937
+- Metrics (at fetch): bookmark 19, impression 7217, like 67, quote 0, reply 7, repost 0
+
+> Has anyone used Neon for Bug Bounty? Or is it just denial-palooza?
+
+
+### Post — @galnagli — 2026-11-19 15:28 UTC (2026-11-19 16:28 WAT)
+
+- URL: https://x.com/galnagli/status/2123438396349493425
+- Metrics (at fetch): bookmark 4, impression 1404, like 18, quote 0, reply 3, repost 0
+
+> @Rhynorater It might help with Code Security tasks but will deny for Web Application testing, we hope to extend @GoogleDeepMind Fairwind program in a tiered system for security researchers 🙏
+
+
+---
+
+## 2026-11-19 · Thread · Gemini 4 Neon is fast, low-cost with SOTA intelligence in Web Penetration Testing and wide range of 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @galnagli — 2026-11-19 06:05 UTC (2026-11-19 07:05 WAT)
+
+- URL: https://x.com/galnagli/status/2123296653692301598
+- Metrics (at fetch): bookmark 9, impression 3010, like 28, quote 0, reply 5, repost 2
+
+> Gemini 4 Neon is fast, low-cost with SOTA intelligence in Web Penetration Testing and wide range of cybersecurity tasks ⚡️
+>
+> Excited to collaborate with @GoogleDeepMind's team on making Gemini the world's best cyber defender - more to come! [pic.x.com/LktOo1vrnc] https://twitter.com/ralucaadapopa/status/2123189881543561408
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXd2NCKWYAA5UiT.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/ralucaadapopa/status/2123189881543561408
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3466862294 — 2026-11-18 23:01 UTC (2026-11-19 00:01 WAT)
+    
+    - URL: https://x.com/3466862294/status/2123189881543561408
+    - Metrics (at fetch): bookmark 14, impression 10470, like 132, quote 3, reply 7, retweet 15
+    
+    > Our new model, Gemini 4 Neon, is a fast and low-cost model, excelling at cyber defense tasks across the range of cybersecurity capabilities. 
+    > https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+    
+    **Links in post:** https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+    
+
+
+### Thread part 2 — @galnagli — 2026-11-19 06:06 UTC (2026-11-19 07:06 WAT)
+
+- URL: https://x.com/galnagli/status/2123296794587394080
+- Metrics (at fetch): bookmark 0, impression 708, like 6, quote 0, reply 1, repost 0
+
+> @GoogleDeepMind Securing systems also means proactively finding flaws before attackers do. Penetration testing has served as a cornerstone of enterprise cybersecurity. On WebExploitBench v1.2, Neon is state-of-the-art (51.26%) at half the cost of competing large models.
+>
+> https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+
+**Links in post:** https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+
+
+### Thread part 3 — @galnagli — 2026-11-19 06:09 UTC (2026-11-19 07:09 WAT)
+
+- URL: https://x.com/galnagli/status/2123297559573639422
+- Metrics (at fetch): bookmark 0, impression 441, like 6, quote 0, reply 0, repost 0
+
+> @GoogleDeepMind Within a day of using it, it already found several 0-day vulnerabilities in the benchmarks we are using along critical severity vulnerabilities that Carbon and other much larger frontier models missed.
+>
+> Model Card: https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-4-Neon-Model-Card.pdf [pic.x.com/AEbiuv8Sjc]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXd3wMRXUAAnUwg.jpg — no alt text provided by author
+
+**Links in post:** https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-4-Neon-Model-Card.pdf
 
 
 ---

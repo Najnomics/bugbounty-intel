@@ -1,6 +1,6 @@
 # @albinowax — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 346
 - Conversations/threads: 308
@@ -4344,9 +4344,9 @@ Tags (automatic): XSS, CSP / CSPT, Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @605693534 — 2018-05-02 14:07 UTC (2018-05-02 15:07 WAT)
+    #### Quoted post — @insertScript — 2018-05-02 14:07 UTC (2018-05-02 15:07 WAT)
     
-    - URL: https://x.com/605693534/status/991680661282000897
+    - URL: https://x.com/insertScript/status/991680661282000897
     - Metrics (at fetch): not returned
     
     > My first time doing full disclosure and maybe the last time writing about a nice Adobe PDF web related vuln. I hope you enjoy it: https://insert-script.blogspot.co.at/2018/05/adobe-reader-pdf-client-side-request.html

@@ -50,3 +50,8 @@ _Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim post
 ### Update 2026-11-19
 
 - **Model refusal fallback in an audit pipeline** — https://x.com/DevDacian/status/2123023424301973719 — [`posts/DevDacian/2026-11-18-2123023424301973719.md`](../posts/DevDacian/2026-11-18-2123023424301973719.md): gpt-6.2-sol hits cyber-safety refusals on external-review work; automatic fallback to gpt-6-sol (Daybreak Blue) works; Opus 5.5 implemented the refusal-fallback mechanism. Takeaway for harness: detect refusals and re-route automatically.
+
+
+### Update 2026-11-21
+
+- **Rejection-auditor agent for AI auditing** — https://x.com/DevDacian/status/2123789113660768415 — Opus 5.5 High lost recall via incorrect rejections; a cross-model review agent over logged rejections fixed it; gpt-6.1-sol high best price-performance reviewer; one frame per agent. [`posts/DevDacian/2026-11-20-2123789113660768415.md`](../posts/DevDacian/2026-11-20-2123789113660768415.md).

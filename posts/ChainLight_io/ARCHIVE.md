@@ -1,6 +1,6 @@
 # @ChainLight_io — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 1081
 - Conversations/threads: 322
@@ -17325,7 +17325,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Memory cor
     - URL: https://x.com/919250799984648192/status/1706139175018529139
     - Metrics (at fetch): bookmark 66, impression 710720, like 343, quote 277, reply 148, retweet 117
     
-    > [Announcement] In the early morning of September 23, 2023 Hong Kong time, the database of Mixin Network's cloud service provider was attacked by hackers, resulting in the loss of some assets on the mainnet. We have contacted Google and blockchain security company @SlowMist_Team
+    > [Announcement] In the early morning of September 23, 2023 Hong Kong time, the database of Mixin Network's cloud service provider was attacked by hackers, resulting in the loss of some assets on the mainnet. We have contacted Google and blockchain security company @SlowMist_Team to assist with the investigation. After initial verification, the funds involved are approximately US$200 million. Deposit and withdrawal services on Mixin Network have been temporarily suspended. After discussion and consensus among all nodes, these services will be reopened once the vulnerabilities are confirmed and fixed. During this period, transfers are not affected.
+    >
+    > Regarding how to deal with the lost assets, the Mixin team will announce the solution afterward. Mixin founder Feng Xiaodong will explain this incident in a public Mandarin livestream at 13:00 HKT on September 25, 2023. Please help spread the word. We will summarize the content in English afterward for easy reference. We will try our best to minimize the losses and deeply apologize for this. Thank you, everyone, for your continuous support
     
 
 
@@ -17535,14 +17537,17 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     #### Quoted post — @1669901087531302912 — 2023-09-11 19:51 UTC (2023-09-11 20:51 WAT)
     
     - URL: https://x.com/1669901087531302912/status/1701322684313817459
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 77, impression 1173773, like 538, quote 378, reply 526, retweet 80
     
     > Announcement
     > We have a bug in our contract we cannot hotfix. 
     >
     > Despite two audits there is a bug in the contract with our taxes, which allows people to sell their bags while having tax tokens remaining in their wallet.
     >
-    > 1. First step is to sell the treasury wallet to drain the LP
+    > 1. First step is to sell the treasury wallet to drain the LP (which is locked) so we can reuse it for the new contract
+    > 2. Secondly, we will relaunch ASAP with an airdrop so everyone will be made whole
+    >
+    > We will update you as soon as possible.
     
 
 
@@ -19126,12 +19131,12 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     #### Quoted post — @samczsun — 2023-08-07 18:09 UTC (2023-08-07 19:09 WAT)
     
     - URL: https://x.com/samczsun/status/1688613385565528064
-    - Metrics (at fetch): bookmark 240, impression 333019, like 1014, quote 56, reply 49, retweet 217
+    - Metrics (at fetch): bookmark 240, impression 333024, like 1014, quote 56, reply 49, retweet 217
     
     > Over the past few days I've been working with a group of whitehats, auditors, and other security leaders to try and solve the hardest part of responsible disclosure: finding the right person to talk to. [pic.x.com/pPjt7D51ZE]
     
     **Media:**
-    - media `3_1688611207169847297` (details not returned by the API)
+    - photo: https://pbs.twimg.com/media/F28m8j8aMAEB3ls.png — no alt text provided by author
     
 
 
@@ -20376,7 +20381,15 @@ Tags (automatic): Platform: Immunefi
     
     **Links in post:** https://optimistic.etherscan.io/tx/0x6e9ebcdebbabda04fa9f2e3bc21ea8b2e4fb4bf4f4670cb8483e2f0b2604f451, https://twitter.com/HundredFinance/status/1647247792589471745
     
-    **Quoted post** 1647247792589471745: not readable via the API (deleted, private, or withheld).
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1390271842125066242 — 2023-04-15 14:37 UTC (2023-04-15 15:37 WAT)
+        
+        - URL: https://x.com/1390271842125066242/status/1647247792589471745
+        - Metrics (at fetch): bookmark 5, impression 199358, like 33, quote 35, reply 11, retweet 15
+        
+        > It looks that Hundred got hacked on #Optimism. We will update when there is more information to it.
+        
     
 
 
@@ -20835,7 +20848,15 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
         
         **Links in post:** https://optimistic.etherscan.io/tx/0x6e9ebcdebbabda04fa9f2e3bc21ea8b2e4fb4bf4f4670cb8483e2f0b2604f451, https://twitter.com/HundredFinance/status/1647247792589471745
         
-        **Quoted post** 1647247792589471745: not readable via the API (deleted, private, or withheld).
+        **Quoted post (full text):**
+        
+            #### Quoted post — @1390271842125066242 — 2023-04-15 14:37 UTC (2023-04-15 15:37 WAT)
+            
+            - URL: https://x.com/1390271842125066242/status/1647247792589471745
+            - Metrics (at fetch): bookmark 5, impression 199358, like 33, quote 35, reply 11, retweet 15
+            
+            > It looks that Hundred got hacked on #Optimism. We will update when there is more information to it.
+            
         
     
 
@@ -21738,14 +21759,14 @@ Tags (automatic): Mobile / Android / iOS, Smart contract / DeFi
     #### Quoted post — @samczsun — 2023-05-20 20:01 UTC (2023-05-20 21:01 WAT)
     
     - URL: https://x.com/samczsun/status/1660012956632104960
-    - Metrics (at fetch): bookmark 361, impression 1225856, like 1860, quote 296, reply 87, retweet 651
+    - Metrics (at fetch): bookmark 360, impression 1225874, like 1860, quote 296, reply 87, retweet 650
     
     > On 2023/05/20 at 07:25:11 UTC, Tornado Cash governance effectively ceased to exist. Through a malicious proposal, an attacker granted themselves 1,200,000 votes. As this is more than the ~700,000 legitimate votes, they now have full control.
     >
     > https://t.co/nY87XmrYgT https://t.co/h9qjc3xRqz
     
     **Media:**
-    - media `3_1659998536388448256` (details not returned by the API)
+    - photo: https://pbs.twimg.com/media/Fwl_37EaEAA8rqJ.png — no alt text provided by author
     
 
 
@@ -23249,7 +23270,22 @@ Tags (automatic): Smart contract / DeFi
     
     **Links in post:** https://twitter.com/samczsun/status/1646404331967778820
     
-    **Quoted post** 1646404331967778820: not readable via the API (deleted, private, or withheld).
+    **Quoted post (full text):**
+    
+        #### Quoted post — @samczsun — 2023-04-13 06:45 UTC (2023-04-13 07:45 WAT)
+        
+        - URL: https://x.com/samczsun/status/1646404331967778820
+        - Metrics (at fetch): bookmark 35, impression 279913, like 474, quote 54, reply 31, retweet 82
+        
+        > It seems like the iearn USDT token (yUSDT) has been broken since deploy, which was *checks notes* over 1000 days ago. It was misconfigured to use the Fulcrum iUSDC token instead of the Fulcrum iUSDT token.
+        >
+        > https://etherscan.io/address/0x83f798e925BcD4017Eb265844FDDAbb448f1707D [pic.x.com/dxW9E0ndF1]
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/Ftkzc-TaMAERjiA.png — no alt text provided by author
+        
+        **Links in post:** https://etherscan.io/address/0x83f798e925BcD4017Eb265844FDDAbb448f1707D
+        
     
 
 
@@ -23479,7 +23515,7 @@ Tags (automatic): Smart contract / DeFi
     #### Quoted post — @1295028541139177482 — 2023-04-03 23:07 UTC (2023-04-04 00:07 WAT)
     
     - URL: https://x.com/1295028541139177482/status/1643027386802270210
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 33, impression 660388, like 1983, quote 197, reply 116, retweet 318
     
     > Following successful negotiations, all of the recoverable funds taken from the Euler protocol on March 13th have now been successfully returned by the exploiter.
     

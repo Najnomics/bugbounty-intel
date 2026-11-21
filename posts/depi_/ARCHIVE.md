@@ -1,11 +1,37 @@
 # @depi_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 7
-- Conversations/threads: 4
+- Posts in this file: 8
+- Conversations/threads: 5
 - Oldest post captured: 2026-11-11
-- Newest post captured: 2026-11-15
+- Newest post captured: 2026-11-19
+
+
+---
+
+## 2026-11-19 · Post · Give hackers a paintbrush and they’ll try to plug it into a USB port.
+
+
+### Post — @depi_ — 2026-11-19 17:00 UTC (2026-11-19 18:00 WAT)
+
+- URL: https://x.com/depi_/status/2123461310692401556
+- Metrics (at fetch): bookmark 0, impression 276, like 5, quote 0, reply 0, repost 1
+
+> Give hackers a paintbrush and they’ll try to plug it into a USB port.
+>
+> Give them a professional graphics designer and their mascot goes from Tokyo to Vegas. 👾
+>
+> Four years later, @idnamaa is officially on the Depi team. 💙
+>
+> #HackThePlanet #Cybersecurity #SupplyChain #InfoSec [pic.x.com/Td0Bckvd4t]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXe2OSlXYAAOSGW.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXe2PiOWoAALxTh.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXe2QrlXgAAHxMD.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXe2R7yWYAE28u7.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXe2TEqWwAAbhzf.jpg — no alt text provided by author
 
 
 ---

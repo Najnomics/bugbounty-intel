@@ -1,11 +1,118 @@
 # @DevDacian — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 418
-- Conversations/threads: 367
+- Posts in this file: 422
+- Conversations/threads: 371
 - Oldest post captured: 2023-02-23
-- Newest post captured: 2026-11-19
+- Newest post captured: 2026-11-20
+
+
+---
+
+## 2026-11-20 · Post · Ran into incorrect reasoning in opus-5.5 high that was causing loss of recall via incorrect rejectio
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-11-20 14:42 UTC (2026-11-20 15:42 WAT)
+
+- URL: https://x.com/DevDacian/status/2123789113660768415
+- Metrics (at fetch): bookmark 8, impression 1227, like 15, quote 0, reply 3, retweet 0
+
+> Ran into incorrect reasoning in opus-5.5 high that was causing loss of recall via incorrect rejection & using other claude/gpt models to execute the same work didn't help, also wasn't a prompt/methodology bug.
+>
+> What helped was creating a review agent to examine the validity of the logged rejections then doing a bunch of experiments to have it work in a scalable way with the best model suited to the job.
+>
+> Testing out all the claude/gpt models the best price-performance was gpt-6.1-sol high while the newly released gpt-6.2-sol was unusable trash.
+>
+> This experiment re-inforced lessons I've found have worked well continually:
+>
+> 1. each agent should have a unique mental frame, loading up one agent with different/competing frames degrades performance
+>
+> 2. cross-model review very useful to reduce error rates & increase output quality
+>
+> 3. gpt sol (in current gpt-6.1-sol incarnation) continues to be an excellent price-performance cross-model reviewer
+
+
+---
+
+## 2026-11-19 · Post · the idea of an "opening bell" is so antiquated.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2026-11-19 15:56 UTC (2026-11-19 16:56 WAT)
+
+- URL: https://x.com/DevDacian/status/2123445331300065750
+- Metrics (at fetch): bookmark 0, impression 402, like 6, quote 0, reply 0, retweet 0
+
+> the idea of an "opening bell" is so antiquated.
+>
+> stocks should trade 24/7 on-chain secured by @cyfrin https://t.co/oRgxO07B78
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1261335549215989760 — 2026-11-19 14:55 UTC (2026-11-19 15:55 WAT)
+    
+    - URL: https://x.com/1261335549215989760/status/2123430023986376719
+    - Metrics (at fetch): bookmark 435, impression 229010, like 4590, quote 137, reply 185, retweet 455
+    
+    > BREAKING: Anthropic CEO Dario Amodei rings the Nasdaq opening bell to mark the largest IPO in history. https://t.co/lDaZg1mT7B
+    
+    **Media:**
+    - media `13_2123428683591340033` (details not returned by the API)
+    
+
+
+---
+
+## 2026-11-19 · Post · Today SK govt sent emergency max-volume transmission to all phones to catch students cheating using 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-11-19 12:19 UTC (2026-11-19 13:19 WAT)
+
+- URL: https://x.com/DevDacian/status/2123390833038905757
+- Metrics (at fetch): bookmark 0, impression 1435, like 26, quote 0, reply 1, repost 0
+
+> Today SK govt sent emergency max-volume transmission to all phones to catch students cheating using AI during exams.
+>
+> Meanwhile I'm top 1% in SK, running tier 1 cybersecurity firm operating armies of specialist AIs 24/7 plus employing a global workforce doing the same lol ?!
+
+
+---
+
+## 2026-11-19 · Reply · @0xFlint_ you're doing great, keep going 💪
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1561823299163783171 — 2026-11-19 08:10 UTC (2026-11-19 09:10 WAT)
+
+- URL: https://x.com/1561823299163783171/status/2123328110313541830
+- Metrics (at fetch): bookmark 5, impression 1093, like 12, quote 0, reply 4, retweet 0
+
+> A perfect encapsulation of my feelings. 
+> I'm both ecstatic and terrified at the same time. 
+>
+> I'm ecstatic because AI is just a brilliant technology that let's me reach, learn and build things I never thought I could do. The limit really is becoming my imagination.
+>
+> I'm terrified https://t.co/6CgQEnN3Hh
+
+**Quoted post** 2123230920626884849: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @DevDacian — 2026-11-19 08:25 UTC (2026-11-19 09:25 WAT)
+
+- URL: https://x.com/DevDacian/status/2123331740345475374
+- Metrics (at fetch): bookmark 0, impression 72, like 3, quote 0, reply 0, retweet 0
+
+> @0xFlint_ you're doing great, keep going 💪
 
 
 ---

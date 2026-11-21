@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **12953**
+Total distinct URLs: **12963**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -12959,3 +12959,13 @@ Total distinct URLs: **12953**
 | [14992](https://t.me/dailybountywriteup/14992) | 2026-11-19 10:14:25 | How GraphQL Batching and Field Duplication Enable Denial of Service | https://medium.com/@t4nv1/how-graphql-batching-and-field-duplication-enable-denial-of-service-c2737dfda988 |
 | [14992](https://t.me/dailybountywriteup/14992) | 2026-11-19 10:14:25 | One-Click Account Takeover via DOM XSS - How an Exposed Test Runner Opened the Door | https://medium.com/@forlaythegeneral/one-click-account-takeover-via-dom-xss-how-an-exposed-test-runner-opened-the-door-f0f826c4f74f |
 | [14993](https://t.me/dailybountywriteup/14993) | 2026-11-19 10:14:45 | Inside Java2Shell (CVE-2026-114938) - SecurityCipher | https://securitycipher.com/2026/11/18/java2shell-cve-2026-114938-lab |
+| [14994](https://t.me/dailybountywriteup/14994) | 2026-11-20 09:57:23 | Apple HOF (August 2026) | https://medium.com/@anas-nady/apple-hof-august-2026-unmasking-a-blind-ssrf-in-podcasts-connect-e86689990bab |
+| [14994](https://t.me/dailybountywriteup/14994) | 2026-11-20 09:57:23 | The Devil Went Down to Georgia | https://sirleeroyjenkins.medium.com/the-devil-went-down-to-georgia-how-i-made-60k-hacking-the-dhs-5401fe833c58 |
+| [14994](https://t.me/dailybountywriteup/14994) | 2026-11-20 09:57:23 | DNS Pentesting Guide for Beginners | https://medium.com/@vigneshkumaroffsec/dns-pentesting-guide-for-beginners-what-port-53-leaks-and-how-to-test-it-1e0dd17aa6d9 |
+| [14994](https://t.me/dailybountywriteup/14994) | 2026-11-20 09:57:23 | How I Find IDOR Vulnerabilities | https://samadhanshimple.medium.com/how-i-find-idor-vulnerabilities-my-complete-bug-bounty-hunting-methodology-8344cbecfde8 |
+| [14994](https://t.me/dailybountywriteup/14994) | 2026-11-20 09:57:23 | Google Docs postMessage Bug | https://masimshahzad.medium.com/google-docs-postmessage-bug-hijacked-feedback-screenshots-faa079e57ef7 |
+| [14994](https://t.me/dailybountywriteup/14994) | 2026-11-20 09:57:23 | Uber Account Takeover | https://masimshahzad.medium.com/uber-account-takeover-the-api-that-handed-out-tokens-c12f52fb14fe |
+| [14994](https://t.me/dailybountywriteup/14994) | 2026-11-20 09:57:23 | Google 2FA Bug | https://masimshahzad.medium.com/google-2fa-bug-the-login-that-outlived-the-password-54b41453325f |
+| [14994](https://t.me/dailybountywriteup/14994) | 2026-11-20 09:57:23 | P2 Password Reset Token Not Invalidated After Successful Password Change | https://medium.com/@akashmotkar001/p2-password-reset-token-not-invalidated-after-successful-password-change-ad251de19a39 |
+| [14994](https://t.me/dailybountywriteup/14994) | 2026-11-20 09:57:23 | 1.31.8 Is Vulnerable. 1.30.7 Is Not. Try Counting That. | https://meetcyber.net/1-31-8-is-vulnerable-1-30-7-is-not-try-counting-that-d10cf7d7c22e |
+| [14994](https://t.me/dailybountywriteup/14994) | 2026-11-20 09:57:23 | Lab | https://medium.com/@Geetanjalijhade/lab-basic-ssrf-against-the-local-server-walkthrough-044727d2c087 |

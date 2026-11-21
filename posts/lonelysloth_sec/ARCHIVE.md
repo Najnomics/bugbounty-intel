@@ -1,11 +1,446 @@
 # @lonelysloth_sec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 191
-- Conversations/threads: 146
+- Posts in this file: 209
+- Conversations/threads: 160
 - Oldest post captured: 2023-12-17
-- Newest post captured: 2026-11-18
+- Newest post captured: 2026-11-20
+
+
+---
+
+## 2026-11-20 · Reply · @not_so_gratian We dont. So far its just a claim, closer to spam than publishing a proof.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @not_so_gratian — 2026-11-20 20:34 UTC (2026-11-20 21:34 WAT)
+
+- URL: https://x.com/not_so_gratian/status/2123877768018727268
+- Metrics (at fetch): not returned
+
+> Ok but how do we *know* it proved the Riemann Hypothesis, rather than just hallucinating a convincing-but-ultimately-incorrect response?
+
+
+### Post — @lonelysloth_sec — 2026-11-20 23:35 UTC (2026-11-21 00:35 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123923241245032943
+- Metrics (at fetch): not returned
+
+> @not_so_gratian We dont. So far its just a claim, closer to spam than publishing a proof.
+
+
+---
+
+## 2026-11-20 · Post · Generations of tech startups.
+
+
+### Post — @lonelysloth_sec — 2026-11-20 19:31 UTC (2026-11-20 20:31 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123861763594842253
+- Metrics (at fetch): not returned
+
+> Generations of tech startups.
+>
+> 80s — you and your broke friends build something in a garage you can sell for a profit already, then take a few million from VCs and scale it to 1B company.
+>
+> 90s — you and your broke friends build something that many people are willing to look at as long as it’s free. You take millions from VCs to scale it and figure out how to turn a profit and then its a 1B company.
+>
+> 2000s — you and your friends make a slide deck and pitch to billionaires how to build an app that works around regulations and laws, raise money to build it and fight all the lawsuits then its a 1B company.
+>
+> Late 2010s to now — you and your other billionaire friends figure out how to spend 1B on a demo to impress other billionaire friends enough to raise 100Bs then convince politicians and the press to support you, then you IPO at > 1T, you make lots of money and nobody has any idea how to turn it into an actual profitable business.
+
+
+---
+
+## 2026-11-20 · Reply · @ryancbriggs It’s definitely immoral if not criminal
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @ryancbriggs — 2026-11-20 16:36 UTC (2026-11-20 17:36 WAT)
+
+- URL: https://x.com/ryancbriggs/status/2123817713844023589
+- Metrics (at fetch): not returned
+
+> If it turns out Anthropic did not solve the Riemann hypothesis, is that now securities fraud?
+
+
+### Post — @lonelysloth_sec — 2026-11-20 19:03 UTC (2026-11-20 20:03 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123854643491144186
+- Metrics (at fetch): not returned
+
+> @ryancbriggs It’s definitely immoral if not criminal
+
+
+---
+
+## 2026-11-20 · Reply · @AlanLevinovitz The difference isn’t in the technology. Its in the people.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @AlanLevinovitz — 2026-11-20 13:03 UTC (2026-11-20 14:03 WAT)
+
+- URL: https://x.com/AlanLevinovitz/status/2123764160894812184
+- Metrics (at fetch): not returned
+
+> People are like "AI is just another new technology, like light bulbs or the automobile!"
+>
+> Ah, yes, I remember when Henry Ford and Thomas Edison gave dour warnings that their respective inventions could DESTROY HUMANITY, but they HAD TO MAKE THEM BEFORE OTHERS DID. 
+>
+> "No one will be employed!" Ford famously said. Edison nodded. "Yes, and electricity will rule us all."
+
+
+### Post — @lonelysloth_sec — 2026-11-20 17:06 UTC (2026-11-20 18:06 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123825241017495800
+- Metrics (at fetch): not returned
+
+> @AlanLevinovitz The difference isn’t in the technology. Its in the people.
+>
+> AI CEOs are demented
+
+
+---
+
+## 2026-11-20 · Thread · I think that’s not true at all. You can only compress information that already exists.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @ChombaBupe — 2026-11-20 02:44 UTC (2026-11-20 03:44 WAT)
+
+- URL: https://x.com/ChombaBupe/status/2123608377729102129
+- Metrics (at fetch): bookmark 46, impression 3413, like 108, quote 1, reply 12, retweet 13
+
+> I think the correct way to say it, is that intelligence is a form of compression:
+>
+> An intelligent system will encode an observed phenomena in the shortest way possible necessary to explain &amp; reproduce the said phenomena later.
+>
+> But not all compression is intelligence ie JPEGs. https://twitter.com/mhutter42/status/2123015252749230453
+
+**Links in post:** https://twitter.com/mhutter42/status/2123015252749230453
+
+**Quoted post** 2123015252749230453: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @lonelysloth_sec — 2026-11-20 16:45 UTC (2026-11-20 17:45 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123820028722303098
+- Metrics (at fetch): bookmark 0, impression 109, like 1, quote 0, reply 1, retweet 0
+
+> I think that’s not true at all. You can only compress information that already exists.
+>
+> The object of intelligence isnt information at all.
+>
+> It’s cause and effect.
+>
+> When you understand something (intelligence means understanding in Latin) — the cause and effect relationships of the object *becomes part of your mind*.
+>
+> Philosophers used to make an even stronger claim that *your mind communes with the being of object of understanding*.
+>
+> Compression can only emulate intelligence about systems where the behaviour is mostly random over a fixed distribution and you can sample extensively from it, and even then the “knowledge” can never be exact.
+>
+> The human mind simply isnt a computer.
+>
+> Some of the things human minds do are computation. A minuscule part of its abilities.
+>
+> The fact that we can create machines that compute better than human minds doesnt mean we can create machines that can do everything a human minds does. 
+>
+> The fact we can make cars much faster than a horse doesn’t mean we can create machines that can do everything a horse does, much less that a horse is just a slow car.
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-11-20 16:48 UTC (2026-11-20 17:48 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123820819310924165
+- Metrics (at fetch): not returned
+
+> @ChombaBupe Compression isn’t intelligence. Compression is prediction. And the unsaid part of this equation is “statistical” — *statistical* compression is *statistical* prediction. 
+>
+> Intelligence is a completely different — and unrelated— matter.
+
+
+### Thread part 3 — @lonelysloth_sec — 2026-11-20 16:53 UTC (2026-11-20 17:53 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123822109629784437
+- Metrics (at fetch): not returned
+
+> Abstraction isnt compression at all.
+>
+> Sure the abstraction has a shorter description than the whole thing. But abstraction is about *choosing* what to leave out of the description, based on what *matters* for the one doing the abstraction.
+>
+> Abstraction is a form of compression only in the sense that amputation is a process for weight loss.
+
+
+---
+
+## 2026-11-20 · Thread · Soon after Gates left Microsoft all their products became much better in every metric.
+
+
+### Post — @lonelysloth_sec — 2026-11-20 01:29 UTC (2026-11-20 02:29 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123589613310869831
+- Metrics (at fetch): bookmark 0, impression 364, like 2, quote 0, reply 1, retweet 0
+
+> Soon after Gates left Microsoft all their products became much better in every metric.
+>
+> But Im confident this time they will finally manage to go back the Gates era quality! https://twitter.com/hedgiemarkets/status/2123563723801362784
+
+**Links in post:** https://twitter.com/hedgiemarkets/status/2123563723801362784
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1898261963601575936 — 2026-11-19 23:47 UTC (2026-11-20 00:47 WAT)
+    
+    - URL: https://x.com/1898261963601575936/status/2123563723801362784
+    - Metrics (at fetch): bookmark 26, impression 16341, like 254, quote 6, reply 24, retweet 34
+    
+    > 🦔Satya Nadella says Microsoft offered buyouts to about 60,000 employees in October so they’d have “agency” while the company rebuilds every job around managing AI. He pointed to a team of 11 developers who build “a software factory that builds the product.”
+    >
+    > My Take
+    > Calling buyouts for that many people “agency” is the best corporate spin of the year so far. Microsoft spends tens of billions a quarter on AI data centers, and payroll is where it goes looking for the money. The idea that every worker turns into a manager of AI agents sounds great on a conference stage. Then you remember Microsoft’s email went down for about a day last week over a bug its own test labs missed (with the bigger team still in place). 
+    > Fewer people watching more AI won’t fix that, and if every engineer just manages agents, I have no idea where the next batch learns how the software works.
+    >
+    > Hedgie🤗
+    
+    **Media:**
+    - media `3_2123533570455003137` (details not returned by the API)
+    
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-11-20 02:02 UTC (2026-11-20 03:02 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123597779293663463
+- Metrics (at fetch): bookmark 0, impression 17, like 1, quote 0, reply 0, retweet 0
+
+> @_Z561 100
+
+
+### Thread part 3 — @lonelysloth_sec — 2026-11-20 02:15 UTC (2026-11-20 03:15 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123601089333481802
+- Metrics (at fetch): bookmark 0, impression 30, like 1, quote 0, reply 1, retweet 0
+
+> I haven’t used windows in years. Last time I voluntarily used it was 15 years ago with a gaming rig.
+>
+> I use Linux 90% of the time. But sometimes Mac is better for normie stuff.
+>
+> I recently bought a windows laptop. Because I needed one the same day and couldn’t get one without windows.
+>
+> It took me a couple hours but I waa able to get rid of the windows!
+
+
+---
+
+## 2026-11-20 · Post · Apple probably can develop their “AI” thing with a tiny fraction of the investment the labs needed a
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-11-20 01:45 UTC (2026-11-20 02:45 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123593611237593540
+- Metrics (at fetch): bookmark 0, impression 437, like 5, quote 0, reply 0, retweet 0
+
+> Apple probably can develop their “AI” thing with a tiny fraction of the investment the labs needed and make it run locally in Apple devices with Apple chips.
+>
+> But they have a very good shot at completely screwing it up if that’s what they are trying. Sometimes I think that’s their goal.
+
+**Links in post:** https://twitter.com/cointelegraph/status/2123567174543389127
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2207129125 — 2026-11-20 00:00 UTC (2026-11-20 01:00 WAT)
+    
+    - URL: https://x.com/2207129125/status/2123567174543389127
+    - Metrics (at fetch): bookmark 9, impression 27872, like 118, quote 4, reply 27, retweet 7
+    
+    > 🚨 LATEST: Apple is developing its own AI agent that can code, browse the web and control apps for users, in a push to rival OpenAI and Anthropic. [pic.x.com/FAutFa6L7E]
+    
+    **Media:**
+    - media `3_2123567163407548416` (details not returned by the API)
+    - media `3_2123567167060721664` (details not returned by the API)
+    - media `3_2123567170634338304` (details not returned by the API)
+    
+
+
+---
+
+## 2026-11-20 · Post · It makes sense that so many people in SV are worried about AI existential risk.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-11-20 01:36 UTC (2026-11-20 02:36 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123591156277948845
+- Metrics (at fetch): bookmark 0, impression 268, like 5, quote 0, reply 1, retweet 0
+
+> It makes sense that so many people in SV are worried about AI existential risk.
+>
+> There’s a good chance AI will end up making Silicon Valley cease to exist.
+
+
+---
+
+## 2026-11-19 · Post · @manlikemishap Everyone who created the content they used to train models.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1726510108341932032 — 2026-11-19 16:51 UTC (2026-11-19 17:51 WAT)
+
+- URL: https://x.com/1726510108341932032/status/2123459107726504325
+- Metrics (at fetch): bookmark 44, impression 19292, like 631, quote 3, reply 17, retweet 57
+
+> Some folks who did critical work for Anthropic who won't be getting any windfall from this IPO?
+> - data labelers
+> - cafeteria workers
+> - physical security
+> - data center carpenters
+> - probably everyone who worked despining books in unmarked warehouses https://twitter.com/Geiger_Capital/status/2123429432849260959
+
+**Links in post:** https://twitter.com/Geiger_Capital/status/2123429432849260959
+
+**Quoted post** 2123429432849260959: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @lonelysloth_sec — 2026-11-19 19:36 UTC (2026-11-19 20:36 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123500697325105566
+- Metrics (at fetch): bookmark 0, impression 1162, like 37, quote 0, reply 1, retweet 0
+
+> @manlikemishap Everyone who created the content they used to train models.
+
+
+---
+
+## 2026-11-19 · Reply · @0xfuje @immunefi @MaiaDAOEco 👏👏👏👏👏
+
+
+Tags (automatic): Platform: Immunefi
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1371518424036294667 — 2026-11-19 18:10 UTC (2026-11-19 19:10 WAT)
+
+- URL: https://x.com/1371518424036294667/status/2123479097745547761
+- Metrics (at fetch): bookmark 9, impression 1747, like 62, quote 0, reply 7, retweet 1
+
+> A truly life-changing crit for me. I’ll never forget it. 
+>
+> Thank you @immunefi, and very special thanks to
+> @MaiaDAOEco for caring about security and handling the report so well. 
+>
+> Now I'm focused on perps security, hunting the next crits. https://t.co/Zy8YPUrYpy
+
+**Quoted post** 1851564795054497983: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @lonelysloth_sec — 2026-11-19 18:16 UTC (2026-11-19 19:16 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123480637084737861
+- Metrics (at fetch): bookmark 0, impression 133, like 1, quote 0, reply 1, retweet 0
+
+> @0xfuje @immunefi @MaiaDAOEco 👏👏👏👏👏
+
+
+---
+
+## 2026-11-19 · Post · @grok amuse us with your statistical parroting take on the Anthropic trade
+
+
+### Post — @lonelysloth_sec — 2026-11-19 17:22 UTC (2026-11-19 18:22 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123466877817229528
+- Metrics (at fetch): bookmark 0, impression 115, like 0, quote 0, reply 1, retweet 0
+
+> @grok amuse us with your statistical parroting take on the Anthropic trade
+
+
+---
+
+## 2026-11-19 · Reply · @asher5772 The reason its heuristics for Y dont generalize well for X even though you believe they s
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1593089057311145986 — 2026-11-19 11:19 UTC (2026-11-19 12:19 WAT)
+
+- URL: https://x.com/1593089057311145986/status/2123375567148130307
+- Metrics (at fetch): bookmark 7, impression 2840, like 18, quote 0, reply 6, retweet 0
+
+> 'Models are clearly impressive, but they still make all these dumb mistakes. Maybe LLM intelligence is really jagged, and in some ways LLMs aren’t that smart.'
+>
+> There are strong reasons to believe most of these issues are elicitation failures and thus not indicative of underlying
+
+
+### Post — @lonelysloth_sec — 2026-11-19 16:46 UTC (2026-11-19 17:46 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123457944033599716
+- Metrics (at fetch): bookmark 0, impression 67, like 0, quote 0, reply 0, retweet 0
+
+> @asher5772 The reason its heuristics for Y dont generalize well for X even though you believe they should is because they never found the correct heuristics for Y than can be generalized.
+>
+> They have a million heuristics, none of them are the correct ones, and they happen to cover some part
+
+
+---
+
+## 2026-11-19 · Reply · @Polymarket If you can spend that much on a robot to do your dishes (which we already have a cheap m
+
+
+Tags (automatic): Memory corruption / native
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1261335549215989760 — 2026-11-19 03:41 UTC (2026-11-19 04:41 WAT)
+
+- URL: https://x.com/1261335549215989760/status/2123260286610137226
+- Metrics (at fetch): bookmark 758, impression 2088951, like 11775, quote 1028, reply 1383, retweet 827
+
+> JUST IN: Elon Musk predicts Tesla’s Optimus robot will be able to wash, dry, &amp; put away dishes in 12 to 18 months.
+
+
+### Post — @lonelysloth_sec — 2026-11-19 16:27 UTC (2026-11-19 17:27 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123453111234969849
+- Metrics (at fetch): bookmark 0, impression 74, like 1, quote 0, reply 0, retweet 0
+
+> @Polymarket If you can spend that much on a robot to do your dishes (which we already have a cheap machine to do 80% of the job) you can just hire a maid instead.
+>
+> Excellent use case for a product requiring hundreds of billions in research.
+
+
+---
+
+## 2026-11-19 · Post · Anthropic is committed to spend more in the next few years about 900B. 
+
+
+### Post — @lonelysloth_sec — 2026-11-19 16:08 UTC (2026-11-19 17:08 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123448436800487445
+- Metrics (at fetch): bookmark 2, impression 1089, like 20, quote 0, reply 2, retweet 1
+
+> Anthropic is committed to spend more in the next few years about 900B. 
+>
+> That’s more than the national debt of most countries.
+>
+> But they can’t tax people nor print their own money.
+>
+> And they are nowhere near breaking even and not investment grade.
+>
+> For every dollar of expenditure
 
 
 ---
@@ -1132,9 +1567,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1605 — 2026-07-21 20:13 UTC (2026-07-21 21:13 WAT)
+    #### Quoted post — @sama — 2026-07-21 20:13 UTC (2026-07-21 21:13 WAT)
     
-    - URL: https://x.com/1605/status/2079661132302995790
+    - URL: https://x.com/sama/status/2079661132302995790
     - Metrics (at fetch): not returned
     
     > we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this.

@@ -1,11 +1,117 @@
 # @garethheyes — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 561
-- Conversations/threads: 502
+- Posts in this file: 569
+- Conversations/threads: 504
 - Oldest post captured: 2008-10-22
-- Newest post captured: 2026-11-18
+- Newest post captured: 2026-11-20
+
+
+---
+
+## 2026-11-19 · Thread · Going on a podcast is so outside my comfort zone. I get nervous just attending conferences. Normally
+
+
+### Post — @garethheyes — 2026-11-19 19:01 UTC (2026-11-19 20:01 WAT)
+
+- URL: https://x.com/garethheyes/status/2123491918889746885
+- Metrics (at fetch): bookmark 1, impression 2359, like 56, quote 0, reply 7, retweet 1
+
+> Going on a podcast is so outside my comfort zone. I get nervous just attending conferences. Normally I would turn down these opportunities. But I'm really proud of myself for doing it.
+
+
+### Thread part 2 — @garethheyes — 2026-11-19 19:41 UTC (2026-11-19 20:41 WAT)
+
+- URL: https://x.com/garethheyes/status/2123501925769351275
+- Metrics (at fetch): bookmark 0, impression 166, like 3, quote 0, reply 0, retweet 0
+
+> @Rhynorater It was a pleasure, I love your podcast!
+
+
+### Thread part 3 — @garethheyes — 2026-11-19 20:03 UTC (2026-11-19 21:03 WAT)
+
+- URL: https://x.com/garethheyes/status/2123507446777839899
+- Metrics (at fetch): bookmark 0, impression 118, like 1, quote 0, reply 0, retweet 0
+
+> @payloadartist https://x.com/ctbbpodcast/status/2123370786782122260?a=UuHM762Gi3A6q7rTfpc&s=20
+
+**Links in post:** https://x.com/ctbbpodcast/status/2123370786782122260?a=UuHM762Gi3A6q7rTfpc&s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1600519214519013377 — 2026-11-19 11:00 UTC (2026-11-19 12:00 WAT)
+    
+    - URL: https://x.com/1600519214519013377/status/2123370786782122260
+    - Metrics (at fetch): bookmark 22, impression 3079, like 54, quote 1, reply 0, retweet 5
+    
+    > CSS can do a lot of things, from making your site pretty to handing over your data...
+    > Come watch Episode 201 with Gareth Heyes:
+    > https://youtu.be/Tpu0xskSV-E
+    
+    **Links in post:** https://youtu.be/Tpu0xskSV-E
+    
+
+
+### Thread part 4 — @garethheyes — 2026-11-19 20:03 UTC (2026-11-19 21:03 WAT)
+
+- URL: https://x.com/garethheyes/status/2123507485612880039
+- Metrics (at fetch): bookmark 0, impression 62, like 0, quote 0, reply 0, retweet 0
+
+> @djpaterson93 Thanks mate
+
+
+### Thread part 5 — @garethheyes — 2026-11-20 12:13 UTC (2026-11-20 13:13 WAT)
+
+- URL: https://x.com/garethheyes/status/2123751474299576515
+- Metrics (at fetch): bookmark 0, impression 88, like 0, quote 0, reply 0, retweet 0
+
+> @insertScript https://x.com/ctbbpodcast/status/2123370786782122260?a=mSWVhMoSn9JgXNMbiOI&s=20
+
+**Links in post:** https://x.com/ctbbpodcast/status/2123370786782122260?a=mSWVhMoSn9JgXNMbiOI&s=20
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1600519214519013377 — 2026-11-19 11:00 UTC (2026-11-19 12:00 WAT)
+    
+    - URL: https://x.com/1600519214519013377/status/2123370786782122260
+    - Metrics (at fetch): bookmark 22, impression 3079, like 54, quote 1, reply 0, retweet 5
+    
+    > CSS can do a lot of things, from making your site pretty to handing over your data...
+    > Come watch Episode 201 with Gareth Heyes:
+    > https://youtu.be/Tpu0xskSV-E
+    
+    **Links in post:** https://youtu.be/Tpu0xskSV-E
+    
+
+
+### Thread part 6 — @garethheyes — 2026-11-20 17:17 UTC (2026-11-20 18:17 WAT)
+
+- URL: https://x.com/garethheyes/status/2123827981227594059
+- Metrics (at fetch): not returned
+
+> @__jkbrah__ Glad you liked it! It was fun
+
+
+### Thread part 7 — @garethheyes — 2026-11-20 17:18 UTC (2026-11-20 18:18 WAT)
+
+- URL: https://x.com/garethheyes/status/2123828246408216773
+- Metrics (at fetch): not returned
+
+> @xssdoctor Loved the chat, I've been looking at your js enumerator 😃 I'll give you some feedback soon
+
+
+---
+
+## 2026-11-20 · Post · The Herdr mac app is amazing, I don't know how I managed before
+
+
+### Post — @garethheyes — 2026-11-20 14:07 UTC (2026-11-20 15:07 WAT)
+
+- URL: https://x.com/garethheyes/status/2123780254288281770
+- Metrics (at fetch): bookmark 3, impression 1404, like 6, quote 0, reply 0, retweet 0
+
+> The Herdr mac app is amazing, I don't know how I managed before
 
 
 ---

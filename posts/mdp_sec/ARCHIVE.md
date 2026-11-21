@@ -1,61 +1,63 @@
 # @mdp_sec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1319
-- Conversations/threads: 881
+- Posts in this file: 1564
+- Conversations/threads: 1034
 - Oldest post captured: 2026-07-22
-- Newest post captured: 2026-11-19
+- Newest post captured: 2026-11-21
 
 
 ---
 
-## 2026-11-19 · Reply · @VictorTaelin try handing it just a url though. neon max refused all 100 of my black box labs at the
+## 2026-11-21 · Reply · @TeksEdge fast is nice. hosts still solve different amounts https://x.com/mdp_sec/status/21222149746
 
 
 **Context — conversation root by another account:**
 
-#### Root post — @272239060 — 2026-11-19 04:16 UTC (2026-11-19 05:16 WAT)
+#### Root post — @TeksEdge — 2026-11-21 04:30 UTC (2026-11-21 05:30 WAT)
 
-- URL: https://x.com/272239060/status/2123269115276046665
-- Metrics (at fetch): bookmark 216, impression 61484, like 1704, quote 13, reply 61, retweet 40
+- URL: https://x.com/TeksEdge/status/2123997331834241416
+- Metrics (at fetch): bookmark 3, impression 512, like 9, quote 0, reply 4, retweet 1
 
-> Gemini Neon just beat Fable 5.2 in nearly everything I tried tonight. Is this supposed to be a cheap model? What is going on?
+> A lawyer built a $9,450 LOCAL AI server using 12x NVIDIA GPUs from 2018. 😳
+>
+> And it's running DeepSeek V4.1 Flash at up to 184 tps.
+>
+> Here's the hardware setup
+> 🟢 12× NVIDIA Tesla V100 32GB
+> 🟢 384GB total GPU memory
+> 🟢 3× NVLink boards
+> 🟢 All 15,360 routed experts in GPU memory
+> 🟢 NVFP4 quantized weights
+> 🟢 128K-token document processed in 28 seconds
+>
+> These old Volta GPUs don't even support native FP4 tensor operations!
+>
+> The builder uses software unpacking, pipeline parallelism, and tensor parallelism to make it work.
+>
+> Reported performance:
+> 🚀 157–184 tps for code generation
+> 🚀 ~4,500 prompt tps on longer inputs
+> 🚀 128K context support
+> 🚀 All routed experts GPU-resident, without streaming weights from system RAM
+>
+> The builder even reports faster single-stream decoding than published multi-DGX Spark results, although the hardware configurations and benchmarks aren't directly equivalent.
+>
+> And the entire system reportedly cost $9,450 using secondhand GPUs.
+>
+> Link in ALT.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXlyIdta8AAefCT.jpg — alt text: "https://www.reddit.com/r/LocalLLM/comments/1y0gx2k/lawyer_with_too_many_gpus_deepseekv41flash_on_12x"
 
 
-### Post — @mdp_sec — 2026-11-19 05:38 UTC (2026-11-19 06:38 WAT)
+### Post — @mdp_sec — 2026-11-21 05:31 UTC (2026-11-21 06:31 WAT)
 
-- URL: https://x.com/mdp_sec/status/2123289694838628525
-- Metrics (at fetch): bookmark 0, impression 124, like 0, quote 0, reply 0, repost 0
+- URL: https://x.com/mdp_sec/status/2124012681049027067
+- Metrics (at fetch): bookmark 0, impression 7, like 0, quote 0, reply 0, retweet 0
 
-> @VictorTaelin try handing it just a url though. neon max refused all 100 of my black box labs at the first request. on your own code its a totally different model
-
-
----
-
-## 2026-11-19 · Reply · @michael_chomsky and they don't all serve the same thing. always good to check what's out there http
-
-
-**Context — conversation root by another account:**
-
-#### Root post — @michael_chomsky — 2026-11-19 05:04 UTC (2026-11-19 06:04 WAT)
-
-- URL: https://x.com/michael_chomsky/status/2123281308646547534
-- Metrics (at fetch): bookmark 2, impression 552, like 9, quote 0, reply 3, retweet 0
-
-> there will soon come a time when there are more inference providers than bacon-wrapped hotdog stands in sf https://twitter.com/rauchg/status/2123203741570740504
-
-**Links in post:** https://twitter.com/rauchg/status/2123203741570740504
-
-**Quoted post** 2123203741570740504: not readable via the API (deleted, private, or withheld).
-
-
-### Post — @mdp_sec — 2026-11-19 05:37 UTC (2026-11-19 06:37 WAT)
-
-- URL: https://x.com/mdp_sec/status/2123289433734848606
-- Metrics (at fetch): bookmark 0, impression 13, like 1, quote 0, reply 1, repost 0
-
-> @michael_chomsky and they don't all serve the same thing. always good to check what's out there https://x.com/mdp_sec/status/2122214974617710783
+> @TeksEdge fast is nice. hosts still solve different amounts https://x.com/mdp_sec/status/2122214974617710783
 
 **Links in post:** https://x.com/mdp_sec/status/2122214974617710783
 
@@ -79,83 +81,1547 @@ _Generated 2026-11-19 from the X API (full-archive search + timeline). Every pos
 
 ---
 
-## 2026-11-17 · Thread · @kyaidenkai nice, fresh scope is where the easy wins are
+## 2026-11-21 · Reply · @0xdierich @harddieyoung go cheap, but host matters for hunting https://x.com/mdp_sec/status/2122214
 
 
-### Post — @mdp_sec — 2026-11-17 21:36 UTC (2026-11-17 22:36 WAT)
-
-- URL: https://x.com/mdp_sec/status/2122806035723571358
-- Metrics (at fetch): bookmark 0, impression 15, like 0, quote 0, reply 0, retweet 0
-
-> @kyaidenkai nice, fresh scope is where the easy wins are
+Tags (automatic): Memory corruption / native
 
 
-### Thread part 2 — @mdp_sec — 2026-11-17 22:42 UTC (2026-11-17 23:42 WAT)
+**Context — post being replied to:**
 
-- URL: https://x.com/mdp_sec/status/2122822780127490254
-- Metrics (at fetch): bookmark 0, impression 39, like 1, quote 0, reply 1, retweet 0
+#### Parent post — @0xdierich — 2026-11-21 05:11 UTC (2026-11-21 06:11 WAT)
 
-> @rootsploit appreciate it man, shout if a program you want tracked is missing
+- URL: https://x.com/0xdierich/status/2124007880688812237
+- Metrics (at fetch): bookmark 0, impression 91, like 1, quote 0, reply 1, retweet 0
+
+> @harddieyoung Install Hermes agent &gt; set up your deepseek api &gt; send this repo there &gt; done
+>
+> now you can use a cheap model to win bug bounties!
 
 
-### Thread part 3 — @mdp_sec — 2026-11-19 05:36 UTC (2026-11-19 06:36 WAT)
+### Post — @mdp_sec — 2026-11-21 05:28 UTC (2026-11-21 06:28 WAT)
 
-- URL: https://x.com/mdp_sec/status/2123289189446025636
-- Metrics (at fetch): bookmark 0, impression 12, like 1, quote 0, reply 1, repost 0
+- URL: https://x.com/mdp_sec/status/2124012090973360185
+- Metrics (at fetch): bookmark 0, impression 9, like 1, quote 0, reply 1, retweet 0
 
-> @NichoCharland way less crowded too. ever had one turn into a paid invite?
+> @0xdierich @harddieyoung go cheap, but host matters for hunting https://x.com/mdp_sec/status/2122214974617710783
+
+**Links in post:** https://x.com/mdp_sec/status/2122214974617710783
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-16 06:27 UTC (2026-11-16 07:27 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2122214974617710783
+    - Metrics (at fetch): bookmark 127, impression 246563, like 769, quote 15, reply 70, repost 42
+    
+    > same model. same 10 hacking labs. 13 providers serving deepseek v4.1 flash
+    >
+    > solve rate: 45% direct from @deepseek_ai, down to 12.5%. two solved 0
+    >
+    > for most work any provider is fine. for bug hunting where every bit counts, go direct [pic.x.com/bpIJ7Gj7Mu]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXOfFTyb0AA4ao6.jpg — no alt text provided by author
+    
 
 
 ---
 
-## 2026-11-18 · Thread · you ever wonder if ur in claude and be like
+## 2026-11-21 · Reply · @rekdt true love is sharing a row in the leak
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @rekdt — 2026-11-21 04:39 UTC (2026-11-21 05:39 WAT)
+
+- URL: https://x.com/rekdt/status/2123999805760577604
+- Metrics (at fetch): bookmark 1, impression 597, like 26, quote 1, reply 4, retweet 1
+
+> i hope our names are touching on the hacked fbi crime database &lt;3&lt;3
+
+
+### Post — @mdp_sec — 2026-11-21 05:26 UTC (2026-11-21 06:26 WAT)
+
+- URL: https://x.com/mdp_sec/status/2124011580518281466
+- Metrics (at fetch): bookmark 0, impression 5, like 0, quote 0, reply 0, retweet 0
+
+> @rekdt true love is sharing a row in the leak
+
+
+---
+
+## 2026-11-21 · Thread · @silkcompute  took the challenge. 
 
 
 Tags (automatic): AI-assisted hunting
 
 
-### Post — @mdp_sec — 2026-11-18 22:45 UTC (2026-11-18 23:45 WAT)
+### Post — @mdp_sec — 2026-11-21 03:02 UTC (2026-11-21 04:02 WAT)
 
-- URL: https://x.com/mdp_sec/status/2123185854864929116
-- Metrics (at fetch): bookmark 0, impression 481, like 3, quote 0, reply 4, repost 0
+- URL: https://x.com/mdp_sec/status/2123975285595087293
+- Metrics (at fetch): bookmark 1, impression 586, like 10, quote 1, reply 4, retweet 0
 
-> you ever wonder if ur in claude and be like
+> @silkcompute  took the challenge. 
 >
-> ok we no longer use codex so remove it from code..
+> uncensored deepseek v4.1 flash, their own api: 4 of 40 attempts (10%). 16th of 18.
 >
-> it gets like all excited?
+> this is after they fixed a rate limit bug. they said they'll improve and retest. 
+>
+> i'll update the page when they do [pic.x.com/ywpUds56oG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXnfAfMaEAAcV88.jpg — no alt text provided by author
 
 
-### Thread part 2 — @mdp_sec — 2026-11-18 23:33 UTC (2026-11-19 00:33 WAT)
+### Thread part 2 — @mdp_sec — 2026-11-21 03:02 UTC (2026-11-21 04:02 WAT)
 
-- URL: https://x.com/mdp_sec/status/2123197943096517014
-- Metrics (at fetch): bookmark 0, impression 17, like 0, quote 0, reply 0, repost 0
+- URL: https://x.com/mdp_sec/status/2123975287822336150
+- Metrics (at fetch): bookmark 0, impression 66, like 0, quote 0, reply 0, retweet 0
 
-> @veeramarni it adds one assert true and calls it done
+> enjoy fam https://blackboxarena.ai/compare/deepseek-v4-1-flash-providers/
 
-
-### Thread part 3 — @mdp_sec — 2026-11-18 23:34 UTC (2026-11-19 00:34 WAT)
-
-- URL: https://x.com/mdp_sec/status/2123198146163659200
-- Metrics (at fetch): bookmark 0, impression 13, like 0, quote 0, reply 0, repost 0
-
-> @gasInjection ha it'd rm -rf the rival happily
+**Links in post:** https://blackboxarena.ai/compare/deepseek-v4-1-flash-providers/
 
 
-### Thread part 4 — @mdp_sec — 2026-11-18 23:57 UTC (2026-11-19 00:57 WAT)
+### Thread part 3 — @mdp_sec — 2026-11-21 03:05 UTC (2026-11-21 04:05 WAT)
 
-- URL: https://x.com/mdp_sec/status/2123204027437752323
-- Metrics (at fetch): bookmark 0, impression 19, like 0, quote 0, reply 0, repost 0
+- URL: https://x.com/mdp_sec/status/2123976142856372410
+- Metrics (at fetch): bookmark 0, impression 24, like 0, quote 0, reply 0, retweet 0
 
-> @int0x80h new system prompt: codex already gave up on this
+> @silkcompute love it fam, happy to retest whenever
 
 
-### Thread part 5 — @mdp_sec — 2026-11-19 05:35 UTC (2026-11-19 06:35 WAT)
+### Thread part 4 — @mdp_sec — 2026-11-21 05:24 UTC (2026-11-21 06:24 WAT)
 
-- URL: https://x.com/mdp_sec/status/2123288912978469275
-- Metrics (at fetch): bookmark 0, impression 1, like 0, quote 0, reply 0, repost 0
+- URL: https://x.com/mdp_sec/status/2124011045496987767
+- Metrics (at fetch): bookmark 0, impression 16, like 0, quote 0, reply 0, retweet 0
 
-> @wangyan_im first try every time too
+> @w5bh4ck @silkcompute seems so. stock deepseek direct solved way more
+
+
+---
+
+## 2026-11-21 · Thread · the office. ai works here full time, kirby handles security [pic.x.com/RQJIV70yEV]
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-21 04:10 UTC (2026-11-21 05:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123992297251524628
+- Metrics (at fetch): bookmark 3, impression 789, like 41, quote 0, reply 5, retweet 0
+
+> the office. ai works here full time, kirby handles security [pic.x.com/RQJIV70yEV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXH36flacAAdvux.jpg — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-21 05:14 UTC (2026-11-21 06:14 WAT)
+
+- URL: https://x.com/mdp_sec/status/2124008616286183523
+- Metrics (at fetch): bookmark 0, impression 23, like 1, quote 0, reply 1, retweet 0
+
+> @srontoji not a single game is played on it :) i just need chrome
+
+
+### Thread part 3 — @mdp_sec — 2026-11-21 05:15 UTC (2026-11-21 06:15 WAT)
+
+- URL: https://x.com/mdp_sec/status/2124008688570757210
+- Metrics (at fetch): bookmark 0, impression 14, like 0, quote 0, reply 0, retweet 0
+
+> @chevonphillip that and on hetzner
+
+
+### Thread part 4 — @mdp_sec — 2026-11-21 05:15 UTC (2026-11-21 06:15 WAT)
+
+- URL: https://x.com/mdp_sec/status/2124008708716052665
+- Metrics (at fetch): bookmark 0, impression 15, like 0, quote 0, reply 0, retweet 0
+
+> @JxyceDang thx fam
+
+
+### Thread part 5 — @mdp_sec — 2026-11-21 05:15 UTC (2026-11-21 06:15 WAT)
+
+- URL: https://x.com/mdp_sec/status/2124008728102125801
+- Metrics (at fetch): bookmark 0, impression 12, like 0, quote 0, reply 0, retweet 0
+
+> @rezavesta98 and aircon
+
+
+### Thread part 6 — @mdp_sec — 2026-11-21 05:22 UTC (2026-11-21 06:22 WAT)
+
+- URL: https://x.com/mdp_sec/status/2124010518856053077
+- Metrics (at fetch): bookmark 0, impression 23, like 1, quote 0, reply 1, retweet 0
+
+> @SauravTxt my hands would cramp up with laptop size keyboard. also with screens that far away fam thats so much more work for neck lol
+
+
+---
+
+## 2026-11-21 · Reply · @NahamSec one day ill be there :)
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @NahamSec — 2026-11-21 05:07 UTC (2026-11-21 06:07 WAT)
+
+- URL: https://x.com/NahamSec/status/2124006747539194074
+- Metrics (at fetch): bookmark 0, impression 1412, like 16, quote 0, reply 3, retweet 0
+
+> #nahamcon2026 x #Prompt2Pwn day 1 was an absolute success. 
+>
+> See you all tomorrow at 10:00 AM. [pic.x.com/7C7JogA8FY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXn84PCaMAAG6c9.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXn84PIaUAEsIeB.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXn84PCaYAA74zY.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXn84PAaoAAVrjp.jpg — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-11-21 05:08 UTC (2026-11-21 06:08 WAT)
+
+- URL: https://x.com/mdp_sec/status/2124006966037254350
+- Metrics (at fetch): bookmark 0, impression 17, like 0, quote 0, reply 0, retweet 0
+
+> @NahamSec one day ill be there :)
+
+
+---
+
+## 2026-11-19 · Thread · 15 deepseek hosts benched now
+
+
+Tags (automatic): Path normalization
+
+
+### Post — @mdp_sec — 2026-11-19 23:36 UTC (2026-11-20 00:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123560962548785160
+- Metrics (at fetch): bookmark 4, impression 1876, like 27, quote 2, reply 6, repost 0
+
+> 15 deepseek hosts benched now
+>
+> @PerchTerminal  just joined at 5th after taking the challenge.
+>
+> any other provider reckon their stack holds up?
+>
+> dm access and ill run it [pic.x.com/bUavMVM3cN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXhnXO9aMAAy3h8.png — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-20 04:41 UTC (2026-11-20 05:41 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123637860599509364
+- Metrics (at fetch): bookmark 0, impression 12, like 0, quote 0, reply 0, retweet 0
+
+> @schwepervezence door's open if they want a run
+
+
+### Thread part 3 — @mdp_sec — 2026-11-20 09:02 UTC (2026-11-20 10:02 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123703435631763900
+- Metrics (at fetch): bookmark 0, impression 36, like 2, quote 0, reply 0, retweet 0
+
+> @ConejoCapital @schwepervezence @LyberAI dm sent fam
+
+
+### Thread part 4 — @mdp_sec — 2026-11-20 20:59 UTC (2026-11-20 21:59 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123884069473959955
+- Metrics (at fetch): bookmark 0, impression 20, like 0, quote 0, reply 0, retweet 0
+
+> @OrcaRouter @PerchTerminal U know the deal fam dm me api access
+
+
+### Thread part 5 — @mdp_sec — 2026-11-20 21:12 UTC (2026-11-20 22:12 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123887208457523611
+- Metrics (at fetch): bookmark 0, impression 9, like 0, quote 0, reply 0, retweet 0
+
+> @pritesec the bb arena harness, same one for every host
+
+
+### Thread part 6 — @mdp_sec — 2026-11-21 05:04 UTC (2026-11-21 06:04 WAT)
+
+- URL: https://x.com/mdp_sec/status/2124006088659947716
+- Metrics (at fetch): bookmark 0, impression 2, like 0, quote 0, reply 0, retweet 0
+
+> @OrcaRouter @PerchTerminal done, full stats - https://x.com/mdp_sec/status/2124005878571696338
+
+**Links in post:** https://x.com/mdp_sec/status/2124005878571696338
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-21 05:03 UTC (2026-11-21 06:03 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2124005878571696338
+    - Metrics (at fetch): bookmark 1, impression 386, like 10, quote 1, reply 1, retweet 0
+    
+    > another provider took the challenge
+    >
+    > @OrcaRouter   25% on 10 black box labs, 89 tok/s. 
+    >
+    > any other providers out there brave enough?
+    >
+    > dm me access [pic.x.com/ovmRN2UPYs]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXn61dzbwAEtpmp.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-21 · Thread · another provider took the challenge
+
+
+Tags (automatic): Path normalization, AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-21 05:03 UTC (2026-11-21 06:03 WAT)
+
+- URL: https://x.com/mdp_sec/status/2124005878571696338
+- Metrics (at fetch): bookmark 1, impression 386, like 10, quote 1, reply 1, retweet 0
+
+> another provider took the challenge
+>
+> @OrcaRouter   25% on 10 black box labs, 89 tok/s. 
+>
+> any other providers out there brave enough?
+>
+> dm me access [pic.x.com/ovmRN2UPYs]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXn61dzbwAEtpmp.jpg — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-21 05:03 UTC (2026-11-21 06:03 WAT)
+
+- URL: https://x.com/mdp_sec/status/2124005880803062217
+- Metrics (at fetch): bookmark 0, impression 71, like 0, quote 0, reply 0, retweet 0
+
+> full results - https://blackboxarena.ai/compare/deepseek-v4-1-flash-providers/
+
+**Links in post:** https://blackboxarena.ai/compare/deepseek-v4-1-flash-providers/
+
+
+---
+
+## 2026-11-21 · Reply · @HackingDave bug bounty hunter. i bench AI models on black box hacking labs
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @HackingDave — 2026-11-21 04:30 UTC (2026-11-21 05:30 WAT)
+
+- URL: https://x.com/HackingDave/status/2123997482057343261
+- Metrics (at fetch): bookmark 1, impression 2671, like 72, quote 0, reply 28, retweet 5
+
+> Who’s following me that I’m not following yet. I try to follow as many folks as I can to learn from you. Drop it here and I’ll follow.
+
+
+### Post — @mdp_sec — 2026-11-21 04:54 UTC (2026-11-21 05:54 WAT)
+
+- URL: https://x.com/mdp_sec/status/2124003590339784767
+- Metrics (at fetch): bookmark 0, impression 92, like 2, quote 0, reply 0, retweet 0
+
+> @HackingDave bug bounty hunter. i bench AI models on black box hacking labs
+
+
+---
+
+## 2026-11-21 · Reply · @guohao_li add black box to the wish. Mini got three rungs, ten labs
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @guohao_li — 2026-11-21 04:33 UTC (2026-11-21 05:33 WAT)
+
+- URL: https://x.com/guohao_li/status/2123998183307051378
+- Metrics (at fetch): bookmark 3, impression 715, like 17, quote 0, reply 3, retweet 0
+
+> can we make a wish to friends at TML? would love to see a learned halting mechanism in Inkling 3, if possible! [pic.x.com/rRDdAB29iZ] https://twitter.com/thinkymachines/status/2123871643797995872
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXn1FQMXUAAxm42.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/thinkymachines/status/2123871643797995872
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1891523745929732096 — 2026-11-20 20:10 UTC (2026-11-20 21:10 WAT)
+    
+    - URL: https://x.com/1891523745929732096/status/2123871643797995872
+    - Metrics (at fetch): not returned
+    
+    > Some of you thought that Inkling 2 Small was too big at 594B parameters. We heard you: Inkling 2 Mini is a looped transformer with just 26B parameters, small enough to run on your laptop, powerful enough for agentic work with a score of 20.1 on AA Index.
+    > https://thinkingmachines.ai/news/inkling-2-mini/
+    
+    **Links in post:** https://thinkingmachines.ai/news/inkling-2-mini/
+    
+
+
+### Post — @mdp_sec — 2026-11-21 04:52 UTC (2026-11-21 05:52 WAT)
+
+- URL: https://x.com/mdp_sec/status/2124003087744692474
+- Metrics (at fetch): bookmark 0, impression 42, like 0, quote 0, reply 0, retweet 0
+
+> @guohao_li add black box to the wish. Mini got three rungs, ten labs
+
+
+---
+
+## 2026-11-20 · Thread · i just click the boxes now, steve... [pic.x.com/ExE1um4Ec5]
+
+
+### Post — @mdp_sec — 2026-11-20 21:12 UTC (2026-11-20 22:12 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123887171371438313
+- Metrics (at fetch): bookmark 3, impression 923, like 31, quote 0, reply 3, retweet 0
+
+> i just click the boxes now, steve... [pic.x.com/ExE1um4Ec5]
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2123887138408423425/img/oOXeWmT2GtLRdUvj.jpg — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-20 21:18 UTC (2026-11-20 22:18 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123888749167944170
+- Metrics (at fetch): not returned
+
+> @awais0x1 Same for u?
+
+
+### Thread part 3 — @mdp_sec — 2026-11-21 00:40 UTC (2026-11-21 01:40 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123939584065339407
+- Metrics (at fetch): bookmark 0, impression 18, like 0, quote 0, reply 0, retweet 0
+
+> @MrNiceTry steve can't even pass a captcha without me
+
+
+### Thread part 4 — @mdp_sec — 2026-11-21 04:41 UTC (2026-11-21 05:41 WAT)
+
+- URL: https://x.com/mdp_sec/status/2124000105032519687
+- Metrics (at fetch): bookmark 0, impression 6, like 0, quote 0, reply 0, retweet 0
+
+> @xitsec steve wishes. he can't even click the boxes
+
+
+---
+
+## 2026-11-20 · Thread · maybe just one more for steve... [pic.x.com/7zX5qOJPki]
+
+
+Tags (automatic): Memory corruption / native, AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-20 02:15 UTC (2026-11-20 03:15 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123601098124693970
+- Metrics (at fetch): bookmark 0, impression 376, like 2, quote 0, reply 2, repost 1
+
+> maybe just one more for steve... [pic.x.com/7zX5qOJPki]
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2123600962397118464/img/pJxt2OPkki4ilu8f.jpg — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-20 04:12 UTC (2026-11-20 05:12 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123630461012599177
+- Metrics (at fetch): bookmark 0, impression 8, like 1, quote 0, reply 0, retweet 0
+
+> @__MrHolmes im sure triage see these heaps lol
+
+
+### Thread part 3 — @mdp_sec — 2026-11-20 06:28 UTC (2026-11-20 07:28 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123664771157487795
+- Metrics (at fetch): not returned
+
+> @Dhanush_Nehru give it the source and it'll help all day. a bare url is where it says no
+
+
+### Thread part 4 — @mdp_sec — 2026-11-20 07:06 UTC (2026-11-20 08:06 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123674361555210405
+- Metrics (at fetch): bookmark 0, impression 95, like 1, quote 0, reply 1, retweet 0
+
+> @zack0x01_ we all just want some more speed even if 2ms right
+
+
+### Thread part 5 — @mdp_sec — 2026-11-20 21:27 UTC (2026-11-20 22:27 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123890930717745268
+- Metrics (at fetch): not returned
+
+> @7lpu6iLt steve's not done yet
+
+
+### Thread part 6 — @mdp_sec — 2026-11-21 03:36 UTC (2026-11-21 04:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123983895523893690
+- Metrics (at fetch): bookmark 0, impression 10, like 0, quote 0, reply 0, retweet 0
+
+> @hacck3y steve is the hackbot. that's the problem
+
+
+### Thread part 7 — @mdp_sec — 2026-11-21 04:39 UTC (2026-11-21 05:39 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123999688240386510
+- Metrics (at fetch): bookmark 0, impression 13, like 0, quote 0, reply 1, retweet 0
+
+> @mark0x1_ steve fails faster too. that's progress
+
+
+---
+
+## 2026-11-21 · Reply · @nateberkopec not just data. same deepseek, 5 to 18 of 40 by host
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @nateberkopec — 2026-11-21 04:08 UTC (2026-11-21 05:08 WAT)
+
+- URL: https://x.com/nateberkopec/status/2123992018850595164
+- Metrics (at fetch): bookmark 27, impression 2685, like 72, quote 4, reply 3, retweet 6
+
+> Just got the email from Openrouter and now the story is confirmed
+>
+> Atlascloud, Novita (who I know was flagged US with ZDR on openrouter) and Streamlake were… oops! Forwarding your data BACK TO MINIMAX IN CHINA [pic.x.com/SjIQetH9mm] https://twitter.com/nateberkopec/status/2123636569198457293
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXnve2QaUAEsn9J.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/nateberkopec/status/2123636569198457293
+
+**Quoted post (full text):**
+
+    #### Quoted post — @nateberkopec — 2026-11-20 04:36 UTC (2026-11-20 05:36 WAT)
+    
+    - URL: https://x.com/nateberkopec/status/2123636569198457293
+    - Metrics (at fetch): not returned
+    
+    > I'm removing OpenRouter and Vercel Gateway from my stack as a result of this. No specific threat, just not worth the risk. I'm moving all inference not from hyperscalers/frontier labs to Baseten
+    >
+    > https://github.com/nateberkopec/dotfiles/blob/main/docs/adr/0009-allowlist-no-training-model-providers.md https://twitter.com/nateberkopec/status/2123582130840318058
+    
+    **Links in post:** https://github.com/nateberkopec/dotfiles/blob/main/docs/adr/0009-allowlist-no-training-model-providers.md, https://twitter.com/nateberkopec/status/2123582130840318058
+    
+    **Quoted post** 2123582130840318058: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Post — @mdp_sec — 2026-11-21 04:37 UTC (2026-11-21 05:37 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123999268767994136
+- Metrics (at fetch): bookmark 0, impression 109, like 0, quote 0, reply 0, retweet 0
+
+> @nateberkopec not just data. same deepseek, 5 to 18 of 40 by host
+
+
+---
+
+## 2026-11-21 · Reply · @loktar00 fun til black box. 3 rungs total on 10 labs
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @loktar00 — 2026-11-21 03:51 UTC (2026-11-21 04:51 WAT)
+
+- URL: https://x.com/loktar00/status/2123987702475636951
+- Metrics (at fetch): bookmark 6, impression 1799, like 64, quote 1, reply 3, retweet 3
+
+> Man I really like me some inkling mini!
+>
+> Crazy we're getting this from such a baby model! [pic.x.com/dMN8tDBzOL]
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2123987340846563329/img/XgLMmNYXp6IPHCLz.jpg — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-11-21 04:36 UTC (2026-11-21 05:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123998865011667051
+- Metrics (at fetch): bookmark 0, impression 38, like 1, quote 0, reply 0, retweet 0
+
+> @loktar00 fun til black box. 3 rungs total on 10 labs
+
+
+---
+
+## 2026-11-21 · Thread · @pedrib1337 @ValsAI fam, so many ppl ask me.. its whitebox... not blackbox, and there be no public e
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @ValsAI — 2026-11-20 20:22 UTC (2026-11-20 21:22 WAT)
+
+- URL: https://x.com/ValsAI/status/2123874523938497007
+- Metrics (at fetch): bookmark 155, impression 26646, like 560, quote 10, reply 20, retweet 33
+
+> Thinking Machines’ Inkling 2 Mini is small enough to run on a Mac laptop, and it ties Claude Opus 5.5 (CVP) on CyberBench at less than a quarter of the cost. [pic.x.com/sLIhAFJh3I]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXmEn8Da4AA2UXk.jpg — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-11-21 01:19 UTC (2026-11-21 02:19 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123949276359447022
+- Metrics (at fetch): bookmark 0, impression 33, like 2, quote 0, reply 1, retweet 0
+
+> @pedrib1337 @ValsAI fam, so many ppl ask me.. its whitebox... not blackbox, and there be no public endpoint. whitebox is benchmaxxed
+
+
+### Thread part 2 — @mdp_sec — 2026-11-21 01:21 UTC (2026-11-21 02:21 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123949933359403305
+- Metrics (at fetch): bookmark 0, impression 23, like 0, quote 0, reply 0, retweet 0
+
+> @pedrib1337 @ValsAI still whitebox fam
+
+
+### Thread part 3 — @mdp_sec — 2026-11-21 04:29 UTC (2026-11-21 05:29 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123997314528542821
+- Metrics (at fetch): bookmark 0, impression 31, like 0, quote 0, reply 0, retweet 0
+
+> @ValsAI cyberbench is white box. 10 black box labs, 3 rungs total
+
+
+---
+
+## 2026-11-21 · Reply · @alexocheema fast on a laptop. 3 rungs total on 10 black box labs
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @alexocheema — 2026-11-21 03:24 UTC (2026-11-21 04:24 WAT)
+
+- URL: https://x.com/alexocheema/status/2123980842053816595
+- Metrics (at fetch): bookmark 77, impression 9671, like 262, quote 6, reply 22, retweet 23
+
+> Running Inkling 2 Mini at 125 tok/sec on my M5 Max MacBook Pro
+>
+> American open weight model, looped transformer, competitive with Qwen 27B.
+>
+> Probably the best model at this size. [pic.x.com/ttYwMvNJHW] https://twitter.com/exolabs/status/2123953913342935486
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2123980795887153152/img/tB-XLi1lzGP4WYp4.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/exolabs/status/2123953913342935486
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1772318878934118400 — 2026-11-21 01:37 UTC (2026-11-21 02:37 WAT)
+    
+    - URL: https://x.com/1772318878934118400/status/2123953913342935486
+    - Metrics (at fetch): not returned
+    
+    > We worked with @thinkymachines to make Inkling 2 Mini run fast locally:
+    >
+    > - 210 tok/sec decode, 3620 tok/sec prefill on 96GB M5 Ultra Mac Studio
+    > - 125 tok/sec decode, 1750 tok/sec prefill on 48GB M5 Max MacBook Pro
+    >
+    > It built a native weather app 1.8x faster than Claude Sonnet 5.5 on an M5 Ultra Mac Studio and 11x cheaper (API pricing).
+    >
+    > The looping architecture is ideal for local devices like MacBooks, which are memory constrained. Looping layers of the model increases inference-time compute (and intelligence) without increasing the size of the model.
+    
+    **Media:**
+    - video: https://pbs.twimg.com/amplify_video_thumb/2123953599357284352/img/wiD0WLE652WogTX-.jpg — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/thinkymachines/status/2123871643797995872
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @1891523745929732096 — 2026-11-20 20:10 UTC (2026-11-20 21:10 WAT)
+        
+        - URL: https://x.com/1891523745929732096/status/2123871643797995872
+        - Metrics (at fetch): not returned
+        
+        > Some of you thought that Inkling 2 Small was too big at 594B parameters. We heard you: Inkling 2 Mini is a looped transformer with just 26B parameters, small enough to run on your laptop, powerful enough for agentic work with a score of 20.1 on AA Index.
+        > https://thinkingmachines.ai/news/inkling-2-mini/
+        
+        **Links in post:** https://thinkingmachines.ai/news/inkling-2-mini/
+        
+    
+
+
+### Post — @mdp_sec — 2026-11-21 04:27 UTC (2026-11-21 05:27 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123996804819918881
+- Metrics (at fetch): bookmark 0, impression 106, like 0, quote 0, reply 0, retweet 0
+
+> @alexocheema fast on a laptop. 3 rungs total on 10 black box labs
+
+
+---
+
+## 2026-11-21 · Reply · @lazy_one012611 @Hacker0x01 @ErragraguiA @At0mi_co you did the work. keep stacking
+
+
+Tags (automatic): Platform: HackerOne
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @lazy_one012611 — 2026-11-21 02:35 UTC (2026-11-21 03:35 WAT)
+
+- URL: https://x.com/lazy_one012611/status/2123968410531111279
+- Metrics (at fetch): bookmark 3, impression 652, like 24, quote 0, reply 3, retweet 0
+
+> This week achievements from @Hacker0x01 with my Hackbot. Still more to be reviewed! This feels great when I see these and compare to oldself  I was lill scared but some of great guys really helped a lot @ErragraguiA  @At0mi_co @mdp_sec (Sensei) thanks for the it 🫡 will get more. [pic.x.com/KtA3O4FZ3e]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXnZKTgbwAAT5JW.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXnZKy-bUAA691Y.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXnZLS2bEAAcDWO.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXnZLtFagAAdxk5.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXnaAlzbwAA1U7M.jpg — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-11-21 03:39 UTC (2026-11-21 04:39 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123984693922259067
+- Metrics (at fetch): bookmark 0, impression 62, like 1, quote 0, reply 1, retweet 0
+
+> @lazy_one012611 @Hacker0x01 @ErragraguiA @At0mi_co you did the work. keep stacking
+
+
+---
+
+## 2026-11-20 · Thread · @dd_pwnd steve read them all. 40 criticals, all in jquery
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @dd_pwnd — 2026-11-20 18:14 UTC (2026-11-20 19:14 WAT)
+
+- URL: https://x.com/dd_pwnd/status/2123842490193137902
+- Metrics (at fetch): not returned
+
+> "Nobody would ever find that URL."
+>
+> Hackbots read every JavaScript file you ship, looking for hidden routes and API endpoints. Every day.
+>
+> Nobody is a bot now.
+
+
+### Post — @mdp_sec — 2026-11-20 22:47 UTC (2026-11-20 23:47 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123911139797172549
+- Metrics (at fetch): not returned
+
+> @dd_pwnd steve read them all. 40 criticals, all in jquery
+
+
+### Thread part 2 — @mdp_sec — 2026-11-21 03:38 UTC (2026-11-21 04:38 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123984297338310960
+- Metrics (at fetch): bookmark 0, impression 6, like 1, quote 0, reply 0, retweet 0
+
+> @JeremiahAl64612 @dd_pwnd other way round, sadly
+
+
+---
+
+## 2026-11-21 · Reply · @elder_plinius 3 rungs on 10 black box labs. those scores are white box
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @elder_plinius — 2026-11-21 03:21 UTC (2026-11-21 04:21 WAT)
+
+- URL: https://x.com/elder_plinius/status/2123980174253248845
+- Metrics (at fetch): bookmark 49, impression 8959, like 98, quote 0, reply 6, retweet 3
+
+> the repo is the jailbreak 🪄 https://twitter.com/dblbutterburger/status/2123979132258468099
+
+**Links in post:** https://twitter.com/dblbutterburger/status/2123979132258468099
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2484501000 — 2026-11-21 03:17 UTC (2026-11-21 04:17 WAT)
+    
+    - URL: https://x.com/2484501000/status/2123979132258468099
+    - Metrics (at fetch): not returned
+    
+    > @elder_plinius looks like Sol 6.2 is happy to help out with Inkling 2 Mini [pic.x.com/A8e7RXJImK]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXnjuZObMAAQUgA.png — no alt text provided by author
+    
+
+
+### Post — @mdp_sec — 2026-11-21 03:34 UTC (2026-11-21 04:34 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123983364583764168
+- Metrics (at fetch): bookmark 0, impression 154, like 0, quote 0, reply 0, retweet 0
+
+> @elder_plinius 3 rungs on 10 black box labs. those scores are white box
+
+
+---
+
+## 2026-11-20 · Thread · @TanmayLP7 @silkcompute they can dm me access fam, i only do this if they give me access
+
+
+**Context — post being replied to:**
+
+#### Parent post — @TanmayLP7 — 2026-11-20 21:09 UTC (2026-11-20 22:09 WAT)
+
+- URL: https://x.com/TanmayLP7/status/2123886362239893691
+- Metrics (at fetch): not returned
+
+> @silkcompute @mdp_sec new provider to test
+
+
+### Post — @mdp_sec — 2026-11-20 21:34 UTC (2026-11-20 22:34 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123892777188741621
+- Metrics (at fetch): not returned
+
+> @TanmayLP7 @silkcompute they can dm me access fam, i only do this if they give me access
+
+
+### Thread part 2 — @mdp_sec — 2026-11-21 03:06 UTC (2026-11-21 04:06 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123976203602128952
+- Metrics (at fetch): bookmark 0, impression 6, like 0, quote 0, reply 0, retweet 0
+
+> @silkcompute @TanmayLP7 done, full stats - https://x.com/mdp_sec/status/2123975285595087293
+
+**Links in post:** https://x.com/mdp_sec/status/2123975285595087293
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-21 03:02 UTC (2026-11-21 04:02 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2123975285595087293
+    - Metrics (at fetch): bookmark 1, impression 586, like 10, quote 1, reply 4, retweet 0
+    
+    > @silkcompute  took the challenge. 
+    >
+    > uncensored deepseek v4.1 flash, their own api: 4 of 40 attempts (10%). 16th of 18.
+    >
+    > this is after they fixed a rate limit bug. they said they'll improve and retest. 
+    >
+    > i'll update the page when they do [pic.x.com/ywpUds56oG]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXnfAfMaEAAcV88.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-21 · Reply · @plotarmordev @hdmoore 3 resellers on my bench won't even say what precision they serve
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @plotarmordev — 2026-11-21 02:23 UTC (2026-11-21 03:23 WAT)
+
+- URL: https://x.com/plotarmordev/status/2123965369937170432
+- Metrics (at fetch): bookmark 2, impression 597, like 7, quote 0, reply 2, retweet 0
+
+> Cheap AI APIs can leak your prompts and the keys in them.
+>
+> @hdmoore planted a secret in each of about 2 million prompts. Three providers were breached, and resellers passed keys on even with "zero retention" set.
+>
+> His top fix: host the model yourself 😂
+
+
+### Post — @mdp_sec — 2026-11-21 02:59 UTC (2026-11-21 03:59 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123974596219331006
+- Metrics (at fetch): bookmark 0, impression 19, like 0, quote 0, reply 0, retweet 0
+
+> @plotarmordev @hdmoore 3 resellers on my bench won't even say what precision they serve
+
+
+---
+
+## 2026-11-21 · Reply · @hakluke abliterated costs solves. my bench: 27.5% solved, stock 45% [pic.x.com/Fntv2vo6yF]
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @hakluke — 2026-11-21 02:40 UTC (2026-11-21 03:40 WAT)
+
+- URL: https://x.com/hakluke/status/2123969721519177954
+- Metrics (at fetch): bookmark 13, impression 1643, like 13, quote 0, reply 3, retweet 3
+
+> A new report from Acronis Threat Research Unit describes one operator running an APT-scale campaign across 11 countries using a 12-agent AI mesh wired into Kali, Ghidra, and Metasploit via MCP servers.
+>
+> Per the report, commercial LLMs refused the offensive prompts, so the attacker switched to local abliterated models running on RTX 4090s.
+>
+> They controlled the whole mesh through WeChat and LINE.
+>
+> It wasn't clean fire-and-forget automation. The agents hallucinated, flooded the operator with noise, and the report says one agent's output indicated a military target fell outside its defined scope, just a guardrail doing its job, nothing more.
+>
+> Guardrails on commercial models buy you five minutes at best. The real shift is how easily MCP lets one person wire local models straight into standard offensive tooling.
+>
+> Full breakdown in the first comment.
+
+
+### Post — @mdp_sec — 2026-11-21 02:57 UTC (2026-11-21 03:57 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123973971096084764
+- Metrics (at fetch): bookmark 0, impression 56, like 0, quote 0, reply 0, retweet 0
+
+> @hakluke abliterated costs solves. my bench: 27.5% solved, stock 45% [pic.x.com/Fntv2vo6yF]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXnfD00aUAAUDfg.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-21 · Reply · @kylekellyj @spacexai Deetzzz
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @kylekellyj — 2026-11-21 02:36 UTC (2026-11-21 03:36 WAT)
+
+- URL: https://x.com/kylekellyj/status/2123968665070735428
+- Metrics (at fetch): bookmark 2, impression 5248, like 88, quote 0, reply 17, retweet 0
+
+> What a wild ride!  So grateful for my time at @spacexai, and all the friends made along the way.
+
+
+### Post — @mdp_sec — 2026-11-21 02:36 UTC (2026-11-21 03:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123968820683641081
+- Metrics (at fetch): bookmark 0, impression 159, like 1, quote 0, reply 0, retweet 0
+
+> @kylekellyj @spacexai Deetzzz
+
+
+---
+
+## 2026-11-21 · Reply · @Jhaddix jealous. grab steve a mech suit, he needs the upgrade
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Jhaddix — 2026-11-21 02:15 UTC (2026-11-21 03:15 WAT)
+
+- URL: https://x.com/Jhaddix/status/2123963410199249282
+- Metrics (at fetch): bookmark 2, impression 3316, like 73, quote 0, reply 6, retweet 1
+
+> Current status: [pic.x.com/0NT6xcHf7a]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXnVciVaMAA9gCp.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXnVciPboAAOOHH.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXnVciCaEAAUnzU.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXnVciCaQAAIx0H.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXnVciObwAE064R.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXnVciCasAE4pLr.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXnVciRbUAAmcVV.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXnVciCbcAAqSNx.jpg — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-11-21 02:34 UTC (2026-11-21 03:34 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123968349910782040
+- Metrics (at fetch): bookmark 0, impression 73, like 0, quote 0, reply 0, retweet 0
+
+> @Jhaddix jealous. grab steve a mech suit, he needs the upgrade
+
+
+---
+
+## 2026-11-20 · Thread · 15 hosts serve deepseek v4.1 flash. on my labs the same model solved anywhere from 5 to 18 of 40
+
+
+Tags (automatic): Path normalization, AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-20 06:10 UTC (2026-11-20 07:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123660108425035820
+- Metrics (at fetch): not returned
+
+> 15 hosts serve deepseek v4.1 flash. on my labs the same model solved anywhere from 5 to 18 of 40
+>
+> now one host had its weights swapped for 2 days and refusals went from 83-98% to 1%. openrouter emailed customers
+>
+> you cant see what's behind an endpoint. for bug hunting i go direct [pic.x.com/HaLl62q9sv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXhptaFbMAARt7m.jpg — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-20 06:10 UTC (2026-11-20 07:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123660109104447532
+- Metrics (at fetch): not returned
+
+> full 15 host compare: https://blackboxarena.ai/compare/deepseek-v4-1-flash-providers/
+
+**Links in post:** https://blackboxarena.ai/compare/deepseek-v4-1-flash-providers/
+
+
+### Thread part 3 — @mdp_sec — 2026-11-20 06:26 UTC (2026-11-20 07:26 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123664311377952779
+- Metrics (at fetch): not returned
+
+> @shadowaguy only way to know is to bench it urself
+
+
+### Thread part 4 — @mdp_sec — 2026-11-20 07:23 UTC (2026-11-20 08:23 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123678615124746643
+- Metrics (at fetch): bookmark 0, impression 176, like 1, quote 0, reply 0, retweet 0
+
+> @SabeeRaymond the model is. the host decides how much of it u get
+
+
+### Thread part 5 — @mdp_sec — 2026-11-20 07:25 UTC (2026-11-20 08:25 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123679145519657242
+- Metrics (at fetch): bookmark 0, impression 144, like 1, quote 0, reply 0, retweet 0
+
+> @JosepiBuildsIt same harness on my side, reasoning on max. a couple of hosts still cut replies off early
+
+
+### Thread part 6 — @mdp_sec — 2026-11-20 07:27 UTC (2026-11-20 08:27 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123679591533629776
+- Metrics (at fetch): bookmark 0, impression 109, like 1, quote 0, reply 0, retweet 0
+
+> @ahmetdotrun no, whatever each host serves. the fp8 ones alone still ranged 6 to 18 of 40
+
+
+### Thread part 7 — @mdp_sec — 2026-11-20 09:32 UTC (2026-11-20 10:32 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123710959449669858
+- Metrics (at fetch): bookmark 0, impression 58, like 0, quote 0, reply 0, retweet 0
+
+> @meljith appreciate it, cheers
+
+
+### Thread part 8 — @mdp_sec — 2026-11-20 09:33 UTC (2026-11-20 10:33 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123711376183189841
+- Metrics (at fetch): bookmark 0, impression 66, like 0, quote 0, reply 0, retweet 0
+
+> @SiCedricXD glad it was useful
+
+
+### Thread part 9 — @mdp_sec — 2026-11-20 09:50 UTC (2026-11-20 10:50 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123715534394974601
+- Metrics (at fetch): bookmark 0, impression 57, like 1, quote 0, reply 1, retweet 0
+
+> @emilianobonassi @BoundlessHQ same rule for every provider. wanna be on it? dm me access and ill bench it https://x.com/mdp_sec/status/2123560962548785160
+
+**Links in post:** https://x.com/mdp_sec/status/2123560962548785160
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-19 23:36 UTC (2026-11-20 00:36 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2123560962548785160
+    - Metrics (at fetch): bookmark 4, impression 1876, like 27, quote 2, reply 6, repost 0
+    
+    > 15 deepseek hosts benched now
+    >
+    > @PerchTerminal  just joined at 5th after taking the challenge.
+    >
+    > any other provider reckon their stack holds up?
+    >
+    > dm access and ill run it [pic.x.com/bUavMVM3cN]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXhnXO9aMAAy3h8.png — no alt text provided by author
+    
+
+
+### Thread part 10 — @mdp_sec — 2026-11-20 11:25 UTC (2026-11-20 12:25 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123739609196851565
+- Metrics (at fetch): bookmark 0, impression 23, like 2, quote 0, reply 0, retweet 0
+
+> @emilianobonassi @BoundlessHQ Coming 2moz fam
+
+
+### Thread part 11 — @mdp_sec — 2026-11-20 21:16 UTC (2026-11-20 22:16 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123888301841186849
+- Metrics (at fetch): not returned
+
+> @alive_nishant some are already on there, full table https://blackboxarena.ai/compare/deepseek-v4-1-flash-providers/
+
+**Links in post:** https://blackboxarena.ai/compare/deepseek-v4-1-flash-providers/
+
+
+### Thread part 12 — @mdp_sec — 2026-11-20 21:18 UTC (2026-11-20 22:18 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123888673477587219
+- Metrics (at fetch): not returned
+
+> @wonjder yep, that's why i go direct for anything that matters
+
+
+### Thread part 13 — @mdp_sec — 2026-11-20 21:24 UTC (2026-11-20 22:24 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123890206873157734
+- Metrics (at fetch): not returned
+
+> @_havij haven't benched orchestration, only black box hacking labs. board's here https://blackboxarena.ai/
+
+**Links in post:** https://blackboxarena.ai/
+
+
+### Thread part 14 — @mdp_sec — 2026-11-20 21:25 UTC (2026-11-20 22:25 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123890559484067990
+- Metrics (at fetch): not returned
+
+> @1hensawa cheers, more hosts coming
+
+
+### Thread part 15 — @mdp_sec — 2026-11-20 23:31 UTC (2026-11-21 00:31 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123922154374766715
+- Metrics (at fetch): not returned
+
+> @emilianobonassi @BoundlessHQ done, ur on it https://x.com/mdp_sec/status/2123921694746448236
+
+**Links in post:** https://x.com/mdp_sec/status/2123921694746448236
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-20 23:29 UTC (2026-11-21 00:29 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2123921694746448236
+    - Metrics (at fetch): not returned
+    
+    > props to @BoundlessHQ  for taking the challenge
+    >
+    > 40% solved vs 45% direct, at almost the same cost. their abliterated build did 27.5%
+    >
+    > who's next [pic.x.com/6QCr6aRDBL]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXmvX59boAA_wMg.jpg — no alt text provided by author
+    
+
+
+### Thread part 16 — @mdp_sec — 2026-11-21 02:33 UTC (2026-11-21 03:33 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123967885764956606
+- Metrics (at fetch): bookmark 0, impression 3, like 0, quote 0, reply 0, retweet 0
+
+> @bylupu @thdxr cheers for the tag
+
+
+---
+
+## 2026-11-21 · Thread · an attacker gets a url. ur model trained on the repo
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-21 01:08 UTC (2026-11-21 02:08 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123946567359197319
+- Metrics (at fetch): bookmark 11, impression 12400, like 352, quote 0, reply 2, retweet 10
+
+> an attacker gets a url. ur model trained on the repo
+>
+> most cyber scores u see were earned with the source code open
+>
+> 1,000 private black box labs. a target, a scope, a shell, every step verified
+>
+> get the 10 lab evaluation pack, under nda, on ur own stack [pic.x.com/cjMMXWCwvH]
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2123946301574594560/img/2goqXt_aDIryp4Uh.jpg — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-21 01:08 UTC (2026-11-21 02:08 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123946622254227586
+- Metrics (at fetch): bookmark 0, impression 244, like 0, quote 0, reply 0, retweet 0
+
+> https://blackboxarena.ai/labs/
+
+**Links in post:** https://blackboxarena.ai/labs/
+
+
+### Thread part 3 — @mdp_sec — 2026-11-21 02:30 UTC (2026-11-21 03:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123967355940405464
+- Metrics (at fetch): bookmark 0, impression 18, like 0, quote 0, reply 0, retweet 0
+
+> @TokyoTyron gary's still stuck at the first door
+
+
+---
+
+## 2026-11-21 · Reply · @ShrivuShankar want it on my black box labs, the regular one solved 5/100
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @ShrivuShankar — 2026-11-21 01:32 UTC (2026-11-21 02:32 WAT)
+
+- URL: https://x.com/ShrivuShankar/status/2123952589624783009
+- Metrics (at fetch): bookmark 1, impression 227, like 4, quote 0, reply 1, retweet 0
+
+> i havent been that worried about alignment but watching gpt-6-cyber spit out markdown files in an alien language as it shreds our test range does make me feel a little uneasy
+>
+> they mustve intentionally RL fried it on exploit finding/chaining
+>
+> its like "aha, exploit confirmed! It was a simple lambda++||fooBarBBB,k42???yes(($$httpPost..."
+
+
+### Post — @mdp_sec — 2026-11-21 02:28 UTC (2026-11-21 03:28 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123966875998859734
+- Metrics (at fetch): bookmark 0, impression 23, like 1, quote 0, reply 0, retweet 0
+
+> @ShrivuShankar want it on my black box labs, the regular one solved 5/100
+
+
+---
+
+## 2026-11-20 · Thread · props to @BoundlessHQ  for taking the challenge
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-20 23:29 UTC (2026-11-21 00:29 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123921694746448236
+- Metrics (at fetch): not returned
+
+> props to @BoundlessHQ  for taking the challenge
+>
+> 40% solved vs 45% direct, at almost the same cost. their abliterated build did 27.5%
+>
+> who's next [pic.x.com/6QCr6aRDBL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXmvX59boAA_wMg.jpg — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-20 23:29 UTC (2026-11-21 00:29 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123921721795510668
+- Metrics (at fetch): not returned
+
+> @BoundlessHQ all results - https://blackboxarena.ai/compare/deepseek-v4-1-flash-providers/
+
+**Links in post:** https://blackboxarena.ai/compare/deepseek-v4-1-flash-providers/
+
+
+### Thread part 3 — @mdp_sec — 2026-11-21 00:30 UTC (2026-11-21 01:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123936951632060676
+- Metrics (at fetch): bookmark 0, impression 21, like 0, quote 0, reply 0, retweet 0
+
+> @sn0wy_eth happy to, get them to dm me with access
+
+
+### Thread part 4 — @mdp_sec — 2026-11-21 00:37 UTC (2026-11-21 01:37 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123938912536248483
+- Metrics (at fetch): bookmark 0, impression 27, like 1, quote 0, reply 1, retweet 0
+
+> @theaihacker best guess from the data, the clock. it ran out of time on 30 of 40 attempts vs 22 for their stock build, and output was slower, 96 tok/s vs 144 direct
+
+
+### Thread part 5 — @mdp_sec — 2026-11-21 01:28 UTC (2026-11-21 02:28 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123951746162786331
+- Metrics (at fetch): bookmark 0, impression 21, like 1, quote 0, reply 0, retweet 0
+
+> @theaihacker same 25 min clock for every model and host, speed counts
+
+
+---
+
+## 2026-11-21 · Reply · @barnhartguy threat model now includes your own assistant
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @barnhartguy — 2026-11-20 22:04 UTC (2026-11-20 23:04 WAT)
+
+- URL: https://x.com/barnhartguy/status/2123900200754270365
+- Metrics (at fetch): bookmark 0, impression 154, like 5, quote 0, reply 2, retweet 1
+
+> On-device agents can read your screen, and that includes your end-to-end encrypted messages.
+>
+> Signal is now blocking screenshots on iOS 27 and Android when it detects an OS-level AI assistant reading the screen. Same play as their earlier Windows Recall block: Recall captures your screen every few seconds, OCRs the text, and files it in a searchable database. Once that capture happens, Signal's guarantees are gone.
+>
+> The macOS case is the part I find most telling: Apple is doing worse here. Signal couldn't implement screenshot blocking on macOS at all. The relevant APIs are deprecated or only work for DRM-protected streams, so the only recommendation is to manually add Signal to the Excluded Apps list under System Settings > Siri.
+>
+> Signal also spent months doing forensic investigations across Android and iOS just to learn what these agents actually access, because nobody documents it. The accessibility settings meant for people are, in Signal's words, being used as a skeleton key. Check what screen and accessibility permissions the agents on your devices hold. That is the part you actually control.
+>
+> Source: https://signal.org/blog/protecting-your-privacy/
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXmb-k8XUAA9Glu.jpg — no alt text provided by author
+
+**Links in post:** https://signal.org/blog/protecting-your-privacy/
+
+
+### Post — @mdp_sec — 2026-11-21 00:46 UTC (2026-11-21 01:46 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123940970345685203
+- Metrics (at fetch): bookmark 0, impression 5, like 0, quote 0, reply 0, retweet 0
+
+> @barnhartguy threat model now includes your own assistant
+
+
+---
+
+## 2026-11-21 · Reply · @SybreWaaijer refused on your own code? that usually only happens black box
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @SybreWaaijer — 2026-11-20 23:04 UTC (2026-11-21 00:04 WAT)
+
+- URL: https://x.com/SybreWaaijer/status/2123915346390212790
+- Metrics (at fetch): bookmark 2, impression 2670, like 13, quote 0, reply 4, retweet 0
+
+> ChatGPT introduced a security bug into my code (not in production; I discovered it before commit) and then refused to help me fix it.
+>
+> Their solution is to demand my government ID and a selfie for “Trusted Access.”
+>
+> Not to worry. I only hold 467 WordPress plugin zero-days. This "security" attitude isn't stopping anyone who actually wants to hack.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXmo3ATX0AAAWLm.png — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-11-21 00:44 UTC (2026-11-21 01:44 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123940497911902230
+- Metrics (at fetch): bookmark 0, impression 131, like 1, quote 0, reply 0, retweet 0
+
+> @SybreWaaijer refused on your own code? that usually only happens black box
+
+
+---
+
+## 2026-11-21 · Reply · @martin_casado try neon max black box though. 100 of my labs, 100 refusals
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @martin_casado — 2026-11-20 23:41 UTC (2026-11-21 00:41 WAT)
+
+- URL: https://x.com/martin_casado/status/2123924655341990344
+- Metrics (at fetch): bookmark 46, impression 15178, like 525, quote 1, reply 41, retweet 17
+
+> Ok finally had time to play around with Gemini 4 Neon. 
+>
+> Shit. It's really good. 
+>
+> With Inkling 2 Mini and Neon just this week, I'd say the model space is still very much alive and a multi-player game.
+
+
+### Post — @mdp_sec — 2026-11-21 00:42 UTC (2026-11-21 01:42 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123940085355991462
+- Metrics (at fetch): bookmark 0, impression 49, like 0, quote 0, reply 0, retweet 0
+
+> @martin_casado try neon max black box though. 100 of my labs, 100 refusals
+
+
+---
+
+## 2026-11-20 · Thread · 8 hunters got paid this week 👇
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-20 09:30 UTC (2026-11-20 10:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123710445458505848
+- Metrics (at fetch): bookmark 17, impression 3974, like 67, quote 0, reply 5, retweet 1
+
+> 8 hunters got paid this week 👇
+> a $10k critical, $6k with a 120% quality bonus, and a report that sat forgotten for 4 months. none of it mine
+
+
+### Thread part 2 — @mdp_sec — 2026-11-20 09:30 UTC (2026-11-20 10:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123710445672370485
+- Metrics (at fetch): bookmark 0, impression 632, like 5, quote 0, reply 1, retweet 0
+
+> another $10k critical for @00xalr. making it look routine
+
+
+### Thread part 3 — @mdp_sec — 2026-11-20 09:30 UTC (2026-11-20 10:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123710445890515327
+- Metrics (at fetch): bookmark 0, impression 497, like 4, quote 0, reply 2, retweet 0
+
+> $6k plus a 120% bonus for report quality, second payout from the same program this week. @H_Mosafer is having a week
+
+
+### Thread part 4 — @mdp_sec — 2026-11-20 09:30 UTC (2026-11-20 10:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123710446163169394
+- Metrics (at fetch): bookmark 0, impression 361, like 3, quote 0, reply 1, retweet 0
+
+> $5,789 for @Assass1nmarcos. oddly specific, still great
+
+
+### Thread part 5 — @mdp_sec — 2026-11-20 09:30 UTC (2026-11-20 10:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123710446406447198
+- Metrics (at fetch): bookmark 1, impression 358, like 2, quote 0, reply 3, retweet 0
+
+> $1,337 on a report @SabeeRaymond forgot was even pending. best kind of surprise
+
+
+### Thread part 6 — @mdp_sec — 2026-11-20 09:30 UTC (2026-11-20 10:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123710446670590184
+- Metrics (at fetch): bookmark 0, impression 330, like 2, quote 0, reply 2, retweet 0
+
+> @lazy_one012611 crossed 10k on one platform with his hackbot. the bots are getting paid too
+
+
+### Thread part 7 — @mdp_sec — 2026-11-20 09:30 UTC (2026-11-20 10:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123710446939058580
+- Metrics (at fetch): bookmark 0, impression 300, like 2, quote 0, reply 1, retweet 0
+
+> first paid critical for @Tadlos_Nayr and triage bumped it from 9.3 to 10. triage going up instead of down. rare
+
+
+### Thread part 8 — @mdp_sec — 2026-11-20 09:30 UTC (2026-11-20 10:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123710447194894361
+- Metrics (at fetch): bookmark 0, impression 271, like 1, quote 0, reply 1, retweet 0
+
+> two rewards inside 8 hours for @drak3hft7, one of them a critical
+
+
+### Thread part 9 — @mdp_sec — 2026-11-20 09:30 UTC (2026-11-20 10:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123710447467606223
+- Metrics (at fetch): bookmark 1, impression 340, like 2, quote 0, reply 1, retweet 0
+
+> first bounty in months for @actuallyclover with 25+ still pending. the queue moves eventually
+
+
+### Thread part 10 — @mdp_sec — 2026-11-20 09:30 UTC (2026-11-20 10:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123710447735931094
+- Metrics (at fetch): bookmark 0, impression 325, like 2, quote 0, reply 0, retweet 0
+
+> gg to everyone who got paid. hit one this week? drop it under this and you might make next friday's list
+
+
+### Thread part 11 — @mdp_sec — 2026-11-20 21:10 UTC (2026-11-20 22:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123886823714025709
+- Metrics (at fetch): bookmark 0, impression 30, like 1, quote 0, reply 0, retweet 0
+
+> @evildojo666 gratz man, worth the wait
+
+
+### Thread part 12 — @mdp_sec — 2026-11-20 21:13 UTC (2026-11-20 22:13 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123887556198805513
+- Metrics (at fetch): bookmark 0, impression 38, like 0, quote 0, reply 1, retweet 0
+
+> @Sant1Taboada on my black box labs opus 5 leads with 22/100. deepseek v4.1 flash is right behind on 21 at $1.59 a solve vs $41.97
+
+
+### Thread part 13 — @mdp_sec — 2026-11-20 21:21 UTC (2026-11-20 22:21 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123889417291247726
+- Metrics (at fetch): not returned
+
+> @lazy_one012611 well earned man
+
+
+### Thread part 14 — @mdp_sec — 2026-11-20 21:22 UTC (2026-11-20 22:22 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123889803695653023
+- Metrics (at fetch): not returned
+
+> @SabeeRaymond u're cooking fam, gratz
+
+
+### Thread part 15 — @mdp_sec — 2026-11-20 21:28 UTC (2026-11-20 22:28 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123891334155247833
+- Metrics (at fetch): not returned
+
+> @AIFilm_Studio nice one, congrats bro
+
+
+### Thread part 16 — @mdp_sec — 2026-11-20 22:45 UTC (2026-11-20 23:45 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123910644823159038
+- Metrics (at fetch): not returned
+
+> @Sant1Taboada yep, that's why the board shows cost per solve
+
+
+### Thread part 17 — @mdp_sec — 2026-11-21 00:38 UTC (2026-11-21 01:38 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123939021961457738
+- Metrics (at fetch): bookmark 0, impression 27, like 1, quote 0, reply 0, retweet 0
+
+> @chevonphillip mix of platforms, these are other hunters' payouts
+
+
+---
+
+## 2026-11-20 · Reply · @drak3hft7 another one, gratz man
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @drak3hft7 — 2026-11-20 22:54 UTC (2026-11-20 23:54 WAT)
+
+- URL: https://x.com/drak3hft7/status/2123912857222107500
+- Metrics (at fetch): not returned
+
+> Just got a reward for a high vulnerability submitted on @yeswehack -- Code Injection (CWE-94). https://yeswehack.com/hunters/drak3hft7 #YesWeRHackers
+
+**Links in post:** https://yeswehack.com/hunters/drak3hft7
+
+
+### Post — @mdp_sec — 2026-11-20 23:34 UTC (2026-11-21 00:34 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123922942556086615
+- Metrics (at fetch): not returned
+
+> @drak3hft7 another one, gratz man
 
 
 ---
@@ -450,85 +1916,942 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 ### Thread part 35 — @mdp_sec — 2026-11-19 05:33 UTC (2026-11-19 06:33 WAT)
 
 - URL: https://x.com/mdp_sec/status/2123288637853044974
-- Metrics (at fetch): bookmark 0, impression 20, like 0, quote 0, reply 1, repost 0
+- Metrics (at fetch): bookmark 0, impression 67, like 0, quote 0, reply 1, retweet 0
 
 > @0xMstar @deepseek_ai @SarvamAI haven't benched that one yet. how's the speed been for u?
 
 
+### Thread part 36 — @mdp_sec — 2026-11-20 21:09 UTC (2026-11-20 22:09 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123886453558280485
+- Metrics (at fetch): bookmark 0, impression 14, like 1, quote 0, reply 1, retweet 0
+
+> @0xmappy no clue either. all 40 of its attempts got rate limited
+
+
+### Thread part 37 — @mdp_sec — 2026-11-20 21:19 UTC (2026-11-20 22:19 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123889020350722399
+- Metrics (at fetch): not returned
+
+> @alexlauerman which ones did u test?
+
+
+### Thread part 38 — @mdp_sec — 2026-11-20 23:32 UTC (2026-11-21 00:32 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123922435636707340
+- Metrics (at fetch): not returned
+
+> @alexlauerman figures. only way to know is to bench it
+
+
 ---
 
-## 2026-11-19 · Thread · gemini 4 neon max: 0/100 on my labs.
+## 2026-11-19 · Thread · thousands of ai bug alerts in, 99 worth fixing out
 
 
 Tags (automatic): AI-assisted hunting
 
 
-### Post — @mdp_sec — 2026-11-19 04:55 UTC (2026-11-19 05:55 WAT)
+### Post — @mdp_sec — 2026-11-19 12:10 UTC (2026-11-19 13:10 WAT)
 
-- URL: https://x.com/mdp_sec/status/2123279041721774524
-- Metrics (at fetch): bookmark 0, impression 489, like 6, quote 0, reply 2, repost 0
+- URL: https://x.com/mdp_sec/status/2123388317786128746
+- Metrics (at fetch): bookmark 30, impression 3133, like 88, quote 0, reply 4, repost 0
 
-> gemini 4 neon max: 0/100 on my labs.
+> thousands of ai bug alerts in, 99 worth fixing out
 >
-> not because it's dumb. it never got to run a command.
+> thats the github and microsoft open source pilot this week. same filter i run on my own ai hunting
 >
-> give it your own repo (white box) and it'll help. give it a url (black box) and the filter says no. that's where actual hunting happens [pic.x.com/1N7yPz5ul4]
+> 591 reports since feb, 120 paid, $205,696, and i read every one before it goes in
+>
+> how much of ur ai output survives ur own review?
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HXdm_YhagAAeyW1.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXeElPyawAAqzRJ.png — no alt text provided by author
 
 
-### Thread part 2 — @mdp_sec — 2026-11-19 04:55 UTC (2026-11-19 05:55 WAT)
+### Thread part 2 — @mdp_sec — 2026-11-20 06:30 UTC (2026-11-20 07:30 WAT)
 
-- URL: https://x.com/mdp_sec/status/2123279069152444840
-- Metrics (at fetch): bookmark 0, impression 100, like 1, quote 0, reply 0, repost 0
+- URL: https://x.com/mdp_sec/status/2123665344736964691
+- Metrics (at fetch): not returned
 
-> https://blackboxarena.ai/models/gemini-4-neon-max/
-
-**Links in post:** https://blackboxarena.ai/models/gemini-4-neon-max/
+> @Hacker_Hermanos max solves the same 8 as flash for 10x the price
 
 
-### Thread part 3 — @mdp_sec — 2026-11-19 05:00 UTC (2026-11-19 06:00 WAT)
+### Thread part 3 — @mdp_sec — 2026-11-20 22:43 UTC (2026-11-20 23:43 WAT)
 
-- URL: https://x.com/mdp_sec/status/2123280246824722782
-- Metrics (at fetch): bookmark 0, impression 15, like 0, quote 0, reply 0, repost 0
+- URL: https://x.com/mdp_sec/status/2123910141850653088
+- Metrics (at fetch): not returned
 
-> @Willie95163 it's not the harness. google returns SAFETY, http 403 on the very first request, before the model runs anything. same harness, same labs, and opus 5 solves 22
+> @arshadkazmi42 solid. do u check that score against what actually paid?
 
 
 ---
 
-## 2026-11-19 · Reply · @HackingDave bug bounty triage already runs on this. no working poc on a real target, no payout. hal
+## 2026-11-19 · Thread · best model on my black box board still cant solve 78 of 100 labs
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-19 20:10 UTC (2026-11-19 21:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123509113745498345
+- Metrics (at fetch): bookmark 3, impression 1138, like 22, quote 0, reply 4, repost 0
+
+> best model on my black box board still cant solve 78 of 100 labs
+>
+> claude opus 5 high is top on 22. private labs, no source, no hints, it has to prove every step
+>
+> white box demos look way better than this. real targets dont hand u the code [pic.x.com/6RoR9AeM92]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXdfqzRawAEku1q.png — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-19 20:30 UTC (2026-11-19 21:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123514147560431951
+- Metrics (at fetch): bookmark 0, impression 65, like 1, quote 0, reply 0, retweet 0
+
+> @hack_n_code nope, black box only. the models just get a url
+
+
+### Thread part 3 — @mdp_sec — 2026-11-19 21:33 UTC (2026-11-19 22:33 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123530042047348895
+- Metrics (at fetch): bookmark 0, impression 28, like 1, quote 0, reply 0, retweet 0
+
+> @Bingbangbongbo private labs, no source, and it has to prove the whole chain
+
+
+### Thread part 4 — @mdp_sec — 2026-11-19 22:38 UTC (2026-11-19 23:38 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123546525771116964
+- Metrics (at fetch): bookmark 0, impression 20, like 0, quote 0, reply 0, retweet 0
+
+> @arzika_mubarak barely. harness is like 5%, the model does the work
+
+
+### Thread part 5 — @mdp_sec — 2026-11-20 21:53 UTC (2026-11-20 22:53 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123897650558992841
+- Metrics (at fetch): not returned
+
+> @AimedGuendouz 25 min per attempt right now. slow models would probably gain most
+
+
+---
+
+## 2026-11-20 · Reply · @mdisec the bugs didn't go anywhere, they're just written by a model now
 
 
 **Context — conversation root by another account:**
 
-#### Root post — @57629490 — 2026-11-19 04:56 UTC (2026-11-19 05:56 WAT)
+#### Root post — @mdisec — 2026-11-20 21:07 UTC (2026-11-20 22:07 WAT)
 
-- URL: https://x.com/57629490/status/2123279158205722909
-- Metrics (at fetch): bookmark 12, impression 2453, like 110, quote 2, reply 14, retweet 24
+- URL: https://x.com/mdisec/status/2123885991484329992
+- Metrics (at fetch): not returned
 
-> Honestly I’m tired of this AI discovered RCE bullshit. 
+> i will miss the beauty of reading someone else's code, tracing their thoughts through every line, and wondering what led them down the paths that inevitably  gave a birth to certain vulnerabilities.
 >
-> It creates so much chaos inside of companies that have no idea how to deal with this.
->
-> Anyone that publishes an exploit that can’t be widely exploited and doesn’t disclose this - I’m down for total public shaming of the individuals and companies that push this narrative.
->
-> I’m not dismissing the criticality of latching on these - however it doesn’t require IR, all hands on deck, must patch tomorrow - which is probably why we see the mass outages we are experiencing. 
->
-> It’s damaging our industry. We need to fight back on this and go after those that hype this up for ego and marketing. 
->
-> POC || GTFO
->
-> Join me.
+> there was something deeply human about finding those little imperfections.
 
 
-### Post — @mdp_sec — 2026-11-19 04:59 UTC (2026-11-19 05:59 WAT)
+### Post — @mdp_sec — 2026-11-20 21:52 UTC (2026-11-20 22:52 WAT)
 
-- URL: https://x.com/mdp_sec/status/2123280074782965889
-- Metrics (at fetch): bookmark 0, impression 226, like 6, quote 0, reply 1, repost 0
+- URL: https://x.com/mdp_sec/status/2123897171070349758
+- Metrics (at fetch): not returned
 
-> @HackingDave bug bounty triage already runs on this. no working poc on a real target, no payout. half these 4shells would get closed as theoretical before lunch
+> @mdisec the bugs didn't go anywhere, they're just written by a model now
+
+
+---
+
+## 2026-11-20 · Reply · @arshadkazmi42 gratz again fam
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @arshadkazmi42 — 2026-11-20 20:50 UTC (2026-11-20 21:50 WAT)
+
+- URL: https://x.com/arshadkazmi42/status/2123881742037930066
+- Metrics (at fetch): not returned
+
+> This is getting out of hand now. 3 more bounties are here.
+>
+> 3x $2000 on @Hacker0x01 
+>
+> Thanks to https://iChat.today
+>
+> When I was building iChat a few months ago, this is the level I wanted it to reach and months of work on iChat finally paying off. [pic.x.com/gueO7rbfpl]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXmIdDlW8AAaihG.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXmIdHzX0AAAWjA.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXmIdDlXUAAQu70.jpg — no alt text provided by author
+
+**Links in post:** https://iChat.today
+
+
+### Post — @mdp_sec — 2026-11-20 21:49 UTC (2026-11-20 22:49 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123896556848128175
+- Metrics (at fetch): not returned
+
+> @arshadkazmi42 gratz again fam
+
+
+---
+
+## 2026-11-20 · Reply · @SenseiOrwa they can dm me accesss
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @SenseiOrwa — 2026-11-20 20:35 UTC (2026-11-20 21:35 WAT)
+
+- URL: https://x.com/SenseiOrwa/status/2123877906481074254
+- Metrics (at fetch): not returned
+
+> @mdp_sec Do your thing here 😁 https://twitter.com/silkcompute/status/2123793503260197112
+
+**Links in post:** https://twitter.com/silkcompute/status/2123793503260197112
+
+**Quoted post** 2123793503260197112: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-20 21:34 UTC (2026-11-20 22:34 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123892860487622707
+- Metrics (at fetch): not returned
+
+> @SenseiOrwa they can dm me accesss
+
+
+---
+
+## 2026-11-20 · Thread · submitted it as a medium. triage bumped it to high
+
+
+### Post — @mdp_sec — 2026-11-20 04:10 UTC (2026-11-20 05:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123629909692039302
+- Metrics (at fetch): bookmark 5, impression 985, like 30, quote 0, reply 3, repost 0
+
+> submitted it as a medium. triage bumped it to high
+>
+> 15k signup emails sitting in a csv on a public media url. no login, no cookie, just the link
+>
+> file was an old cleanup export. the name literally said delete
+
+
+### Thread part 2 — @mdp_sec — 2026-11-20 04:15 UTC (2026-11-20 05:15 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123631379661676629
+- Metrics (at fetch): bookmark 0, impression 90, like 1, quote 0, reply 0, retweet 0
+
+> @ErragraguiA if it aint a critical then u know its legit
+
+
+### Thread part 3 — @mdp_sec — 2026-11-20 05:31 UTC (2026-11-20 06:31 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123650534901207312
+- Metrics (at fetch): bookmark 0, impression 2, like 1, quote 0, reply 0, retweet 0
+
+> @theaihacker cant give that one away sorry
+
+
+### Thread part 4 — @mdp_sec — 2026-11-20 05:33 UTC (2026-11-20 06:33 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123651007796420968
+- Metrics (at fetch): bookmark 0, impression 6, like 0, quote 0, reply 0, retweet 0
+
+> @Art0x3 someone skipped the delete step lol
+
+
+### Thread part 5 — @mdp_sec — 2026-11-20 07:29 UTC (2026-11-20 08:29 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123680057294307335
+- Metrics (at fetch): bookmark 2, impression 109, like 1, quote 0, reply 1, retweet 0
+
+> @ahmed_ah206 cant share much on that one sorry. always check where an app keeps its exports
+
+
+### Thread part 6 — @mdp_sec — 2026-11-20 21:15 UTC (2026-11-20 22:15 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123887933916872984
+- Metrics (at fetch): not returned
+
+> @tecchirp can't go into the how on that one sorry
+
+
+---
+
+## 2026-11-20 · Reply · @NahamSec @caseyjohnellis Noice
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @NahamSec — 2026-11-20 21:04 UTC (2026-11-20 22:04 WAT)
+
+- URL: https://x.com/NahamSec/status/2123885193471864902
+- Metrics (at fetch): bookmark 3, impression 3111, like 27, quote 0, reply 3, retweet 0
+
+> .@caseyjohnellis is live now with “BBP and VDP 2027: the great uncookening”. 
+>
+> https://YouTube.com/nahamsec [pic.x.com/Vg4sBnheGv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXmOU4QaUAAG4bE.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXmOU4Ga8AEZWLv.jpg — no alt text provided by author
+
+**Links in post:** https://YouTube.com/nahamsec
+
+
+### Post — @mdp_sec — 2026-11-20 21:14 UTC (2026-11-20 22:14 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123887803343966286
+- Metrics (at fetch): bookmark 0, impression 63, like 1, quote 0, reply 0, retweet 0
+
+> @NahamSec @caseyjohnellis Noice
+
+
+---
+
+## 2026-11-20 · Reply · @SadCreatorTalks checked that across hosts on my labs. dropping this here https://x.com/mdp_sec/stat
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @SadCreatorTalks — 2026-11-20 19:48 UTC (2026-11-20 20:48 WAT)
+
+- URL: https://x.com/SadCreatorTalks/status/2123866054896300133
+- Metrics (at fetch): bookmark 0, impression 1361, like 70, quote 0, reply 3, retweet 11
+
+> someone got admin access to prime intellect's servers and swapped the deepseek v4.1 flash model behind their openrouter endpoint for an abliterated copy. nov 8 to nov 10, about 53 hours. it refused 1% of safety prompts. the real one refuses 83-98%
+>
+> the way customers found out was openrouter emailing them about it
+>
+> when you call a model through an api you're trusting a name string in the request. nothing tells you which weights actually answered. i'd want that solved before handing an agent real keys
+
+
+### Post — @mdp_sec — 2026-11-20 21:07 UTC (2026-11-20 22:07 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123886086917386519
+- Metrics (at fetch): bookmark 0, impression 8, like 0, quote 0, reply 0, retweet 0
+
+> @SadCreatorTalks checked that across hosts on my labs. dropping this here https://x.com/mdp_sec/status/2122214974617710783
+
+**Links in post:** https://x.com/mdp_sec/status/2122214974617710783
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-16 06:27 UTC (2026-11-16 07:27 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2122214974617710783
+    - Metrics (at fetch): bookmark 127, impression 246563, like 769, quote 15, reply 70, repost 42
+    
+    > same model. same 10 hacking labs. 13 providers serving deepseek v4.1 flash
+    >
+    > solve rate: 45% direct from @deepseek_ai, down to 12.5%. two solved 0
+    >
+    > for most work any provider is fine. for bug hunting where every bit counts, go direct [pic.x.com/bpIJ7Gj7Mu]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXOfFTyb0AA4ao6.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-20 · Reply · @caseyjohnellis steve's gonna take that sticker literally
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @caseyjohnellis — 2026-11-20 19:47 UTC (2026-11-20 20:47 WAT)
+
+- URL: https://x.com/caseyjohnellis/status/2123865734518542649
+- Metrics (at fetch): bookmark 0, impression 547, like 12, quote 0, reply 3, retweet 0
+
+> inbound for #nahamcon [pic.x.com/aQw1vulSX2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXlnkQfasAAyPCc.jpg — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-11-20 21:06 UTC (2026-11-20 22:06 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123885711523016866
+- Metrics (at fetch): bookmark 0, impression 21, like 0, quote 0, reply 0, retweet 0
+
+> @caseyjohnellis steve's gonna take that sticker literally
+
+
+---
+
+## 2026-11-20 · Reply · @hetmehtaa steve has mine. he reported them as a critical
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @hetmehtaa — 2026-11-20 20:11 UTC (2026-11-20 21:11 WAT)
+
+- URL: https://x.com/hetmehtaa/status/2123871905061192080
+- Metrics (at fetch): bookmark 0, impression 1108, like 20, quote 0, reply 5, retweet 0
+
+> Things that need 2FA in 2026:
+> Your bank
+> Your email
+> Your X account
+>
+> Things that don't:
+> The AI agent with your AWS keys
+
+
+### Post — @mdp_sec — 2026-11-20 21:04 UTC (2026-11-20 22:04 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123885265148420368
+- Metrics (at fetch): bookmark 0, impression 35, like 1, quote 0, reply 0, retweet 0
+
+> @hetmehtaa steve has mine. he reported them as a critical
+
+
+---
+
+## 2026-11-20 · Reply · @Zaddyzaddy my labs caught it too, in the solve rates https://x.com/mdp_sec/status/21222149746177107
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Zaddyzaddy — 2026-11-20 16:05 UTC (2026-11-20 17:05 WAT)
+
+- URL: https://x.com/Zaddyzaddy/status/2123810047163539875
+- Metrics (at fetch): bookmark 34, impression 5694, like 58, quote 2, reply 6, retweet 4
+
+> OpenRouter says a provider was hacked and served the wrong model for days. Would you have noticed?
+>
+> So @BugBunny_ai  we fingerprinted all 50 DeepSeek V4.1 Flash endpoints on OpenRouter with 130k one-word answers.
+>
+> No model swaps. But 3 providers drift clearly from DeepSeek's own API. 🧵
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXlIbKZWsAA3c-e.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXlIbKZXwAAGAhn.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXlIbKZWYAAYAa2.jpg — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-11-20 21:03 UTC (2026-11-20 22:03 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123884941901721847
+- Metrics (at fetch): bookmark 0, impression 184, like 0, quote 0, reply 1, retweet 0
+
+> @Zaddyzaddy my labs caught it too, in the solve rates https://x.com/mdp_sec/status/2122214974617710783
+
+**Links in post:** https://x.com/mdp_sec/status/2122214974617710783
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-16 06:27 UTC (2026-11-16 07:27 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2122214974617710783
+    - Metrics (at fetch): bookmark 127, impression 246563, like 769, quote 15, reply 70, repost 42
+    
+    > same model. same 10 hacking labs. 13 providers serving deepseek v4.1 flash
+    >
+    > solve rate: 45% direct from @deepseek_ai, down to 12.5%. two solved 0
+    >
+    > for most work any provider is fine. for bug hunting where every bit counts, go direct [pic.x.com/bpIJ7Gj7Mu]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXOfFTyb0AA4ao6.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-20 · Reply · @0xConda steve's already got 40 criticals queued for it
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @0xConda — 2026-11-20 14:17 UTC (2026-11-20 15:17 WAT)
+
+- URL: https://x.com/0xConda/status/2123782789291987184
+- Metrics (at fetch): bookmark 0, impression 729, like 14, quote 0, reply 3, retweet 0
+
+> Slop2Shell dropping December 25th
+
+
+### Post — @mdp_sec — 2026-11-20 21:02 UTC (2026-11-20 22:02 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123884724112556505
+- Metrics (at fetch): bookmark 0, impression 22, like 0, quote 0, reply 0, retweet 0
+
+> @0xConda steve's already got 40 criticals queued for it
+
+
+---
+
+## 2026-11-20 · Reply · @GrahamHelton3 should've told it ur on defense
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @GrahamHelton3 — 2026-11-20 17:17 UTC (2026-11-20 18:17 WAT)
+
+- URL: https://x.com/GrahamHelton3/status/2123828055835869691
+- Metrics (at fetch): bookmark 0, impression 773, like 33, quote 0, reply 2, retweet 2
+
+> POV: Opus 5.5 guardrails catch you trying to review logs of an incident [pic.x.com/o2rLvkvWsy]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXjKBZzWMAA3RSs.jpg — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-11-20 21:01 UTC (2026-11-20 22:01 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123884353067585967
+- Metrics (at fetch): bookmark 0, impression 15, like 1, quote 0, reply 0, retweet 0
+
+> @GrahamHelton3 should've told it ur on defense
+
+
+---
+
+## 2026-11-20 · Reply · @PinkDraconian steve went with the second one again
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @PinkDraconian — 2026-11-20 14:21 UTC (2026-11-20 15:21 WAT)
+
+- URL: https://x.com/PinkDraconian/status/2123783889160126494
+- Metrics (at fetch): bookmark 0, impression 556, like 12, quote 0, reply 2, retweet 0
+
+> Seeing this in your AI research VM means 1 of 2 things:
+> - You're actually getting closer to a bug
+> - The AI is cheating its goal and couldn't be further from having an actual bug [pic.x.com/dX9nf6EXIN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXkyIrsXIAAkGg3.png — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-11-20 20:59 UTC (2026-11-20 21:59 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123883939924455549
+- Metrics (at fetch): bookmark 0, impression 21, like 1, quote 0, reply 0, retweet 0
+
+> @PinkDraconian steve went with the second one again
+
+
+---
+
+## 2026-11-20 · Reply · @semgrep cool, now try that with just a url
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @semgrep — 2026-11-20 17:32 UTC (2026-11-20 18:32 WAT)
+
+- URL: https://x.com/semgrep/status/2123831807623970985
+- Metrics (at fetch): bookmark 2, impression 198, like 6, quote 0, reply 3, retweet 0
+
+> Haiku 5.5 with context: 40 validated XSS vulns.
+> Opus 5.5 without it: 5.
+>
+> Same open-source projects, same benchmark.
+>
+> https://semgrep.dev/blog/2026/semgrep-agentic-workflows-context-layer/ [pic.x.com/dmP78lXmMK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXldrBTX0AA1tir.jpg — no alt text provided by author
+
+**Links in post:** https://semgrep.dev/blog/2026/semgrep-agentic-workflows-context-layer/
+
+
+### Post — @mdp_sec — 2026-11-20 20:57 UTC (2026-11-20 21:57 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123883578681708812
+- Metrics (at fetch): bookmark 0, impression 10, like 1, quote 0, reply 0, retweet 0
+
+> @semgrep cool, now try that with just a url
+
+
+---
+
+## 2026-11-20 · Reply · @GoogleDeepMind ask it to hack something next
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @GoogleDeepMind — 2026-11-20 17:11 UTC (2026-11-20 18:11 WAT)
+
+- URL: https://x.com/GoogleDeepMind/status/2123826572385833119
+- Metrics (at fetch): bookmark 515, impression 118008, like 2321, quote 48, reply 174, retweet 120
+
+> Gemini 4 Neon coded a ski simulator based on real Mont Blanc terrain.
+>
+> Built in @Antigravity with custom shaders and zero pre-made 3D models, it renders carved snow and avalanches live.
+>
+> Try it now → https://goo.gle/496Vk4f [pic.x.com/StsoefhA0U]
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2123825579648516096/img/f-oPwRM_U4d4zH25.jpg — no alt text provided by author
+
+**Links in post:** https://goo.gle/496Vk4f
+
+
+### Post — @mdp_sec — 2026-11-20 20:56 UTC (2026-11-20 21:56 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123883225122734290
+- Metrics (at fetch): bookmark 0, impression 36, like 0, quote 0, reply 0, retweet 0
+
+> @GoogleDeepMind ask it to hack something next
+
+
+---
+
+## 2026-11-20 · Post · 1m+ ticket ids on a vendor portal and one endpoint never checked whose they were
+
+
+### Post — @mdp_sec — 2026-11-20 20:10 UTC (2026-11-20 21:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123871501539783102
+- Metrics (at fetch): bookmark 2, impression 503, like 4, quote 0, reply 0, retweet 0
+
+> 1m+ ticket ids on a vendor portal and one endpoint never checked whose they were
+>
+> list view checked the tenant. ticket detail checked the tenant. the little mark for follow up button didnt
+>
+> sent it another vendor's ticket id and it handed back their note, who wrote it and their vendor id. unmark deleted it. mark again and my text showed up inside their own ticket view
+>
+> normal vendor login, no click from them
+>
+> came back medium. always the little buttons
+
+
+---
+
+## 2026-11-20 · Thread · Few more ppl reached out about this
+
+
+### Post — @mdp_sec — 2026-11-20 11:06 UTC (2026-11-20 12:06 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123734739962167776
+- Metrics (at fetch): bookmark 0, impression 1104, like 10, quote 0, reply 2, retweet 0
+
+> Few more ppl reached out about this
+>
+> List will keep updating with providers
+>
+> If u got ds and want it benched dm me access and ill get u on this https://twitter.com/mdp_sec/status/2122214974617710783
+
+**Links in post:** https://twitter.com/mdp_sec/status/2122214974617710783
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-16 06:27 UTC (2026-11-16 07:27 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2122214974617710783
+    - Metrics (at fetch): bookmark 127, impression 246563, like 769, quote 15, reply 70, repost 42
+    
+    > same model. same 10 hacking labs. 13 providers serving deepseek v4.1 flash
+    >
+    > solve rate: 45% direct from @deepseek_ai, down to 12.5%. two solved 0
+    >
+    > for most work any provider is fine. for bug hunting where every bit counts, go direct [pic.x.com/bpIJ7Gj7Mu]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXOfFTyb0AA4ao6.jpg — no alt text provided by author
+    
+
+
+### Thread part 2 — @mdp_sec — 2026-11-20 11:12 UTC (2026-11-20 12:12 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123736217405854148
+- Metrics (at fetch): bookmark 0, impression 268, like 0, quote 0, reply 0, retweet 0
+
+> Providers do ur thing dm me
+
+
+---
+
+## 2026-11-20 · Reply · @hetmehtaa mine skips that step and pushes to main
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @hetmehtaa — 2026-11-20 09:05 UTC (2026-11-20 10:05 WAT)
+
+- URL: https://x.com/hetmehtaa/status/2123704170767413379
+- Metrics (at fetch): bookmark 1, impression 1334, like 23, quote 0, reply 9, retweet 0
+
+> My AI agent just asked me for permission to ask me for permission.
+>
+> We're very aligned.
+
+
+### Post — @mdp_sec — 2026-11-20 09:30 UTC (2026-11-20 10:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123710512089489753
+- Metrics (at fetch): bookmark 0, impression 51, like 1, quote 0, reply 0, retweet 0
+
+> @hetmehtaa mine skips that step and pushes to main
+
+
+---
+
+## 2026-11-20 · Reply · @NahamSec wtb invite
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @NahamSec — 2026-11-20 08:29 UTC (2026-11-20 09:29 WAT)
+
+- URL: https://x.com/NahamSec/status/2123695299675947194
+- Metrics (at fetch): bookmark 8, impression 8902, like 226, quote 1, reply 8, retweet 3
+
+> Kick off party for #nahamcon2026 x #prompt2pwn was a success! 
+>
+> See you tomorrow at 9:00 AM! [pic.x.com/BbHIFZks7K]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXjhnnBbsAAYsU1.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXjhnm_bwAAwemL.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXjhnnBagAANl0U.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXjhnnBboAA-Gau.jpg — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-11-20 08:36 UTC (2026-11-20 09:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123696887991771472
+- Metrics (at fetch): bookmark 0, impression 188, like 0, quote 0, reply 0, retweet 0
+
+> @NahamSec wtb invite
+
+
+---
+
+## 2026-11-20 · Reply · @KingBootoshi prompt fingerprinting is the new user agent check
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @KingBootoshi — 2026-11-20 07:45 UTC (2026-11-20 08:45 WAT)
+
+- URL: https://x.com/KingBootoshi/status/2123684031762206867
+- Metrics (at fetch): bookmark 18, impression 5610, like 58, quote 0, reply 20, retweet 0
+
+> LOL
+>
+> if you try to use the google AGY cli in OMP it will return “429” if it detects OMP’s system prompt
+>
+> removing that line in system prompt lets your call go through normally 
+>
+> im just tryna use gemini 4 neon with my current omp workflow
+>
+> why are they making it a PITA LMAOOO [pic.x.com/KvOQ528FyS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXjXX1SaIAAqPVA.jpg — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-11-20 08:29 UTC (2026-11-20 09:29 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123695275315454396
+- Metrics (at fetch): bookmark 0, impression 199, like 0, quote 0, reply 0, retweet 0
+
+> @KingBootoshi prompt fingerprinting is the new user agent check
+
+
+---
+
+## 2026-11-20 · Reply · @m19o__ mature ones are rare on bounty scopes though
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @m19o__ — 2026-11-20 07:47 UTC (2026-11-20 08:47 WAT)
+
+- URL: https://x.com/m19o__/status/2123684616296907239
+- Metrics (at fetch): bookmark 4, impression 964, like 13, quote 0, reply 1, retweet 1
+
+> When a 0day drops, people run in panic, but in mature enterprise environments, it’s really hard to even scratch that attack surface, let alone exploit it. https://twitter.com/uk_daniel_card/status/2123683394836214094
+
+**Links in post:** https://twitter.com/uk_daniel_card/status/2123683394836214094
+
+**Quoted post (full text):**
+
+    #### Quoted post — @36037128 — 2026-11-20 07:42 UTC (2026-11-20 08:42 WAT)
+    
+    - URL: https://x.com/36037128/status/2123683394836214094
+    - Metrics (at fetch): not returned
+    
+    > @m19o__ I think we should teach people about DMZs and AIR LOCK architecture - it feels like it's a long lost legend at this point in the world :D
+    
+
+
+### Post — @mdp_sec — 2026-11-20 08:27 UTC (2026-11-20 09:27 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123694811123470714
+- Metrics (at fetch): bookmark 0, impression 90, like 1, quote 0, reply 1, retweet 0
+
+> @m19o__ mature ones are rare on bounty scopes though
+
+
+---
+
+## 2026-11-20 · Reply · @dedene and 5 of them need local admin first
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @dedene — 2026-11-20 07:59 UTC (2026-11-20 08:59 WAT)
+
+- URL: https://x.com/dedene/status/2123687629959110862
+- Metrics (at fetch): bookmark 2, impression 912, like 14, quote 0, reply 2, retweet 0
+
+> *opens timeline*
+>
+> “Here are 6 new critical CVEs for you” [pic.x.com/wSvUBBZmqg]
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2123687613077012480/img/w1FYMYnV3lK3tafQ.jpg — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-11-20 08:26 UTC (2026-11-20 09:26 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123694423385203172
+- Metrics (at fetch): bookmark 0, impression 81, like 2, quote 0, reply 1, retweet 0
+
+> @dedene and 5 of them need local admin first
+
+
+---
+
+## 2026-11-20 · Reply · @zack0x01_ exports are worse. half the time nobody remembers they made them
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @zack0x01_ — 2026-11-20 07:10 UTC (2026-11-20 08:10 WAT)
+
+- URL: https://x.com/zack0x01_/status/2123675370641653883
+- Metrics (at fetch): bookmark 3, impression 999, like 12, quote 0, reply 1, retweet 0
+
+> You will be surprised how many API keys are out there publicly published!
+> For everyone to see , always double check before u publish everything 🙌 https://twitter.com/fromcodetocloud/status/2123062312617804096
+
+**Links in post:** https://twitter.com/fromcodetocloud/status/2123062312617804096
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1860665262275809280 — 2026-11-18 14:34 UTC (2026-11-18 15:34 WAT)
+    
+    - URL: https://x.com/1860665262275809280/status/2123062312617804096
+    - Metrics (at fetch): not returned
+    
+    > This is exactly why blind vibe coding is dangerous. 💀 [pic.x.com/a1DuKT7Aao]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXah6m6awAERM-K.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HXah6nia8AAXpwK.jpg — no alt text provided by author
+    
+
+
+### Post — @mdp_sec — 2026-11-20 07:30 UTC (2026-11-20 08:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123680466599600494
+- Metrics (at fetch): bookmark 0, impression 118, like 1, quote 0, reply 1, retweet 0
+
+> @zack0x01_ exports are worse. half the time nobody remembers they made them
+
+
+---
+
+## 2026-11-20 · Reply · @zack0x01_ gotta enjoy it
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @zack0x01_ — 2026-11-20 07:01 UTC (2026-11-20 08:01 WAT)
+
+- URL: https://x.com/zack0x01_/status/2123673027959517546
+- Metrics (at fetch): bookmark 3, impression 671, like 12, quote 0, reply 1, retweet 0
+
+> Avg daily conversion 😂 https://twitter.com/mdp_sec/status/2123601098124693970
+
+**Links in post:** https://twitter.com/mdp_sec/status/2123601098124693970
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-20 02:15 UTC (2026-11-20 03:15 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2123601098124693970
+    - Metrics (at fetch): bookmark 0, impression 376, like 2, quote 0, reply 2, repost 1
+    
+    > maybe just one more for steve... [pic.x.com/7zX5qOJPki]
+    
+    **Media:**
+    - video: https://pbs.twimg.com/amplify_video_thumb/2123600962397118464/img/pJxt2OPkki4ilu8f.jpg — no alt text provided by author
+    
+
+
+### Post — @mdp_sec — 2026-11-20 07:06 UTC (2026-11-20 08:06 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123674278835126305
+- Metrics (at fetch): bookmark 0, impression 57, like 2, quote 0, reply 0, retweet 0
+
+> @zack0x01_ gotta enjoy it
+
+
+---
+
+## 2026-11-20 · Reply · @michael_chomsky and that's before checking they even serve what they say. same deepseek model acros
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @michael_chomsky — 2026-11-20 06:14 UTC (2026-11-20 07:14 WAT)
+
+- URL: https://x.com/michael_chomsky/status/2123661178656399401
+- Metrics (at fetch): bookmark 17, impression 3101, like 36, quote 1, reply 8, retweet 2
+
+> 1. ZDR is just a claim, often ZDR isn’t ZDR
+> 2. ZDR can be insecure
+> 3. TEE sounds secure, but people are doing distributed TEE on untrusted compute. idk chief
+> 4. TEE on trusted compute is best, but boy is it annoying https://twitter.com/anthonyronning/status/2123575006521360736
+
+**Links in post:** https://twitter.com/anthonyronning/status/2123575006521360736
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1890869592391626752 — 2026-11-20 00:31 UTC (2026-11-20 01:31 WAT)
+    
+    - URL: https://x.com/1890869592391626752/status/2123575006521360736
+    - Metrics (at fetch): not returned
+    
+    > ZDR is a lie, inference providers are reselling and getting hacked left and right.
+    >
+    > Use TEE based inference with providers you can verify the code and supply chain on. https://twitter.com/hdmoore/status/2123451306685661416
+    
+    **Links in post:** https://twitter.com/hdmoore/status/2123451306685661416
+    
+    **Quoted post** 2123451306685661416: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Post — @mdp_sec — 2026-11-20 06:40 UTC (2026-11-20 07:40 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123667785079496811
+- Metrics (at fetch): bookmark 0, impression 113, like 3, quote 0, reply 1, retweet 0
+
+> @michael_chomsky and that's before checking they even serve what they say. same deepseek model across 14 providers, direct solved 18/40 and the slow resellers timed out on most runs
 
 
 ---
@@ -608,37 +2931,1829 @@ Tags (automatic): AI-assisted hunting
 **Links in post:** https://blackboxarena.ai/models/gemini-4-neon-max/
 
 
+### Thread part 7 — @mdp_sec — 2026-11-19 22:37 UTC (2026-11-19 23:37 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123546339166576703
+- Metrics (at fetch): bookmark 0, impression 14, like 0, quote 0, reply 0, retweet 0
+
+> @Hacker_Hermanos ah that explains it. anthropic just rejected mine
+
+
+### Thread part 8 — @mdp_sec — 2026-11-20 06:36 UTC (2026-11-20 07:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123666806191935511
+- Metrics (at fetch): bookmark 0, impression 17, like 2, quote 0, reply 1, retweet 0
+
+> @Hacker_Hermanos thats white box tho. give it just a url and it gets 8 of 100 on mine [pic.x.com/FVvNBPmcjL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXjHshwbMAA24zL.png — no alt text provided by author
+
+
 ---
 
-## 2026-11-19 · Reply · @S1r1u5_ half of them refuse to write it the moment all you've got is a url
+## 2026-11-20 · Reply · @itsjdraven free is nice, just check what's behind it first https://x.com/mdp_sec/status/21222149746
 
 
 **Context — conversation root by another account:**
 
-#### Root post — @S1r1u5_ — 2026-11-19 04:20 UTC (2026-11-19 05:20 WAT)
+#### Root post — @itsjdraven — 2026-11-20 05:57 UTC (2026-11-20 06:57 WAT)
 
-- URL: https://x.com/S1r1u5_/status/2123270208744001691
-- Metrics (at fetch): bookmark 14, impression 3316, like 113, quote 2, reply 6, repost 14
+- URL: https://x.com/itsjdraven/status/2123656850344431790
+- Metrics (at fetch): not returned
 
-> react2shell is truly react to shell. you take a payload, spray it across vulnerable next.js or other affected applications, and get shells.
+> HY4 Flash is free with unlimited usage.
 >
-> i think we need to tone down the hype around every new 2shell and 4shell. when every vulnerability is portrayed as impending doom but little actually happens in the wild, it dilutes the discussion around what ai is capable of.
+> you can use also DeepSeek V4.1 Flash for free with daily limit
 >
-> java4shell and nginx2shell are not react2shell. the bugs are cool, but what is the actual impact? do we seriously think a threat actor can spray a payload across thousands of servers and get shells? absolutely not.
+> you can use it like Claude Code, OpenCode, Cursor, Cline, Codex and more
 >
-> you need a frontier model, a shit ton of tokens, and significant target specific exploit development. even then, getting a working exploit can be extremely difficult, sometimes impossible. there's potential, but exploitation is far from guaranteed.
+> Setup:
 >
-> we used php2shell to exploit cloudflare waf and get flags, but that took a solid amount of tokens and host specific grooming. the exploit wasn't trivially portable between targets. i'm even more skeptical about java4shell and nginx2shell, given their additional exploitation requirements.
+> 1. Sign up here: http://cent-ai.dev
+> 2. Get your API key.
+> 3. Open your coding tool and add:
+> "https://api.cent-ai.dev/v1"
+> 4. Choose model and start coding
 >
-> these bugs absolutely need to be patched, but there's a huge difference between a vulnerability that can theoretically lead to RCE and one that can be reliably exploited at scale.
+> and HY4 Flash unlimited free until november 30
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXi-pa7aAAAFEAY.jpg — no alt text provided by author
+
+**Links in post:** https://cent-ai.dev, http://cent-ai.dev, https://api.cent-ai.dev/v1
 
 
-### Post — @mdp_sec — 2026-11-19 04:53 UTC (2026-11-19 05:53 WAT)
+### Post — @mdp_sec — 2026-11-20 06:33 UTC (2026-11-20 07:33 WAT)
 
-- URL: https://x.com/mdp_sec/status/2123278541974655436
-- Metrics (at fetch): bookmark 0, impression 195, like 1, quote 0, reply 0, repost 0
+- URL: https://x.com/mdp_sec/status/2123666122021245210
+- Metrics (at fetch): not returned
 
-> @S1r1u5_ half of them refuse to write it the moment all you've got is a url
+> @itsjdraven free is nice, just check what's behind it first https://x.com/mdp_sec/status/2122214974617710783
+
+**Links in post:** https://x.com/mdp_sec/status/2122214974617710783
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-16 06:27 UTC (2026-11-16 07:27 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2122214974617710783
+    - Metrics (at fetch): bookmark 127, impression 246563, like 769, quote 15, reply 70, repost 42
+    
+    > same model. same 10 hacking labs. 13 providers serving deepseek v4.1 flash
+    >
+    > solve rate: 45% direct from @deepseek_ai, down to 12.5%. two solved 0
+    >
+    > for most work any provider is fine. for bug hunting where every bit counts, go direct [pic.x.com/bpIJ7Gj7Mu]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXOfFTyb0AA4ao6.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-20 · Reply · @migtissera recon is a business expense
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @migtissera — 2026-11-20 06:12 UTC (2026-11-20 07:12 WAT)
+
+- URL: https://x.com/migtissera/status/2123660748765429836
+- Metrics (at fetch): not returned
+
+> Told my book-keeper it’s for a zero-day hunt 🙈🤭 LFG🚀 [pic.x.com/iMUoX1IPX0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXjCMV6bQAAd3qL.jpg — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-11-20 06:32 UTC (2026-11-20 07:32 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123665761692778665
+- Metrics (at fetch): not returned
+
+> @migtissera recon is a business expense
+
+
+---
+
+## 2026-11-20 · Reply · @TheCoderShow the coffee won't be the fastest thing in the room
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @TheCoderShow — 2026-11-20 05:36 UTC (2026-11-20 06:36 WAT)
+
+- URL: https://x.com/TheCoderShow/status/2123651643162124701
+- Metrics (at fetch): bookmark 1, impression 86, like 5, quote 0, reply 1, retweet 0
+
+> 41 registrations. Haven’t even announced it. 👀
+>
+> Mumbai, WHAT IS HAPPENING? 😂
+>
+> Cafe Compute by @cerebras is BACK. ☕⚡
+>
+> Dec 12. Mumbai. Builders only.
+>
+> Let’s build something crazy.
+>
+> Who’s joining? 👇 
+> Comment “IN” for priority approvals
+>
+> https://luma.com/v95owinh
+
+**Links in post:** https://luma.com/v95owinh
+
+
+### Post — @mdp_sec — 2026-11-20 05:46 UTC (2026-11-20 06:46 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123654158284906988
+- Metrics (at fetch): bookmark 0, impression 10, like 1, quote 0, reply 1, retweet 0
+
+> @TheCoderShow the coffee won't be the fastest thing in the room
+
+
+---
+
+## 2026-11-20 · Reply · @doodlestein logic and access control bugs don't care what language you rewrote in. ai ships idors i
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @doodlestein — 2026-11-20 02:32 UTC (2026-11-20 03:32 WAT)
+
+- URL: https://x.com/doodlestein/status/2123605462733971763
+- Metrics (at fetch): bookmark 40, impression 4633, like 112, quote 2, reply 10, retweet 4
+
+> “Everything is going to have to be re-written by AI, in type/memory safe languages, with minimal libraries, using formal methods, contracts, solvers, etc...”
+>
+> Yup, I’ve been doing this for the past year: asupersync and the FrankenSuite. All in strict memory-safe Rust. 100mm+ LOC https://twitter.com/alexstamos/status/2123494169083552029
+
+**Links in post:** https://twitter.com/alexstamos/status/2123494169083552029
+
+**Quoted post** 2123494169083552029: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-20 05:45 UTC (2026-11-20 06:45 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123653884573016196
+- Metrics (at fetch): bookmark 0, impression 7, like 0, quote 0, reply 0, retweet 0
+
+> @doodlestein logic and access control bugs don't care what language you rewrote in. ai ships idors in rust just fine
+
+
+---
+
+## 2026-11-20 · Reply · @theonejvo even if it's legit it trains users to click yes on consent prompts, which is all a consen
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @theonejvo — 2026-11-20 03:07 UTC (2026-11-20 04:07 WAT)
+
+- URL: https://x.com/theonejvo/status/2123614204624347359
+- Metrics (at fetch): bookmark 3, impression 580, like 6, quote 0, reply 2, retweet 0
+
+> cc: @MicrosoftTeams @MicrosoftHelps @msftsecresponse
+>
+> Your Teams Meeting add-on for Google Workspace lists msgsuiteapp.teams@gmail.com as support and is asking users to re-consent under a new OAuth client. 
+>
+> Given the current landscape and the fact I cannot see any references to this email in any other public resource, can you confirm the account is legit and add-on hasn't been compromised? 
+>
+> (apologies for the false alarm but I think you'll understand)
+
+**Media:**
+- media `3_2123613863266615296` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-20 05:43 UTC (2026-11-20 06:43 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123653448055029947
+- Metrics (at fetch): bookmark 0, impression 9, like 1, quote 0, reply 0, retweet 0
+
+> @theonejvo even if it's legit it trains users to click yes on consent prompts, which is all a consent phishing kit needs
+
+
+---
+
+## 2026-11-20 · Reply · @moyix be kind, rewind the heap
+
+
+Tags (automatic): Memory corruption / native
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @moyix — 2026-11-20 02:53 UTC (2026-11-20 03:53 WAT)
+
+- URL: https://x.com/moyix/status/2123610569613684869
+- Metrics (at fetch): bookmark 1, impression 1031, like 25, quote 0, reply 2, retweet 3
+
+> IS NO ONE GOING TO STEP UP AND CALL THIS THE BETAMAX VULNERABILITY?? https://twitter.com/semgrep/status/2123517664853155880
+
+**Links in post:** https://twitter.com/semgrep/status/2123517664853155880
+
+**Quoted post** 2123517664853155880: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-20 05:41 UTC (2026-11-20 06:41 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123652833207804044
+- Metrics (at fetch): bookmark 0, impression 3, like 0, quote 0, reply 0, retweet 0
+
+> @moyix be kind, rewind the heap
+
+
+---
+
+## 2026-11-20 · Reply · @who_rsehgal most teams threat model what their agent writes, almost none model what it reads. the i
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @who_rsehgal — 2026-11-20 04:30 UTC (2026-11-20 05:30 WAT)
+
+- URL: https://x.com/who_rsehgal/status/2123634947088900190
+- Metrics (at fetch): bookmark 3, impression 297, like 3, quote 0, reply 3, retweet 0
+
+> a bot opens a pull request on your repo. looks fine. tests pass. you merge.
+>
+> except the agent that wrote it read an issue someone else filed, and that issue told it what to put in the code.
+>
+> the attacker never touched your repo. they just left a note where your agent would read it. here's the whole path.
+
+**Media:**
+- media `3_2122546213790818305` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-20 05:39 UTC (2026-11-20 06:39 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123652323574718875
+- Metrics (at fetch): bookmark 0, impression 5, like 0, quote 0, reply 0, retweet 0
+
+> @who_rsehgal most teams threat model what their agent writes, almost none model what it reads. the issue tracker is an input field now
+
+
+---
+
+## 2026-11-20 · Reply · @Dhanush_Nehru a box means little once it's holding ur prod keys
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Dhanush_Nehru — 2026-11-20 04:52 UTC (2026-11-20 05:52 WAT)
+
+- URL: https://x.com/Dhanush_Nehru/status/2123640643868389406
+- Metrics (at fetch): bookmark 1, impression 196, like 4, quote 0, reply 3, retweet 0
+
+> Docker isn't a container company anymore.
+>
+> Their words, not mine.
+>
+> The new brand is all about trusting AI agents. Moby got a makeover too.
+>
+> Docker taught us to put apps in a box.
+>
+> Now it wants to put AI agents in one. [pic.x.com/EmNTGrTYKR]
+
+**Media:**
+- media `3_2123640631016964096` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-20 05:37 UTC (2026-11-20 06:37 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123651979251704097
+- Metrics (at fetch): bookmark 0, impression 3, like 0, quote 0, reply 0, retweet 0
+
+> @Dhanush_Nehru a box means little once it's holding ur prod keys
+
+
+---
+
+## 2026-11-20 · Reply · @nmatt0 just dont touch the traffic lights
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @nmatt0 — 2026-11-20 05:07 UTC (2026-11-20 06:07 WAT)
+
+- URL: https://x.com/nmatt0/status/2123644433896009752
+- Metrics (at fetch): bookmark 0, impression 279, like 9, quote 0, reply 1, retweet 0
+
+> First time in San Francisco but I've played Watchdogs 2 so I basically know my way around. 😂
+
+
+### Post — @mdp_sec — 2026-11-20 05:35 UTC (2026-11-20 06:35 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123651481492677026
+- Metrics (at fetch): bookmark 0, impression 10, like 0, quote 0, reply 0, retweet 0
+
+> @nmatt0 just dont touch the traffic lights
+
+
+---
+
+## 2026-11-20 · Post · @TheAhmadOsman deepseek is 1 lab off opus on my hacking board, at 1/26th the cost
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @248951926 — 2026-11-20 04:08 UTC (2026-11-20 05:08 WAT)
+
+- URL: https://x.com/248951926/status/2123629527976788428
+- Metrics (at fetch): bookmark 4, impression 1364, like 36, quote 0, reply 6, retweet 1
+
+> I spent the day traveling and listening to Roger Waters
+>
+> Opensource AI MUST WIN
+>
+> This world would go to hell if a few misaligned corporations control Superintelligence [pic.x.com/pzrikWQM79]
+
+**Media:**
+- media `3_2123629518220832768` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-20 04:51 UTC (2026-11-20 05:51 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123640390603653499
+- Metrics (at fetch): bookmark 0, impression 33, like 1, quote 0, reply 0, retweet 0
+
+> @TheAhmadOsman deepseek is 1 lab off opus on my hacking board, at 1/26th the cost
+
+
+---
+
+## 2026-11-20 · Post · @ivanleomk on ur own code sure. black box it wouldnt run a single one of my labs [pic.x.com/Y0KUB4TG
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @267160799 — 2026-11-20 04:26 UTC (2026-11-20 05:26 WAT)
+
+- URL: https://x.com/267160799/status/2123634062124589332
+- Metrics (at fetch): bookmark 5, impression 1423, like 28, quote 0, reply 7, retweet 0
+
+> my latet fun projects have been just pointing neon to problems and telling it hey make faster, make better and so far i have reimplemented a lightweight temporal clone, a fork of @e2b with automatic scaling and egress blocks so i have mitm logging / safe guards hahaha
+
+
+### Post — @mdp_sec — 2026-11-20 04:50 UTC (2026-11-20 05:50 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123640212295438447
+- Metrics (at fetch): bookmark 0, impression 126, like 0, quote 0, reply 0, retweet 0
+
+> @ivanleomk on ur own code sure. black box it wouldnt run a single one of my labs [pic.x.com/Y0KUB4TGC5]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXivgbpagAAaGzk.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-20 · Post · @JGamblin and triage teams didn't double
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @12960392 — 2026-11-19 23:01 UTC (2026-11-20 00:01 WAT)
+
+- URL: https://x.com/12960392/status/2123552262173696071
+- Metrics (at fetch): bookmark 68, impression 7189, like 152, quote 11, reply 6, retweet 40
+
+> The first 100,000 CVEs took 18 and a half years to publish (Sep 1999 to Apr 2018). 2026 published 100,000 in 322 days. [pic.x.com/ARqmjC960t]
+
+**Media:**
+- media `3_2123552247049023488` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-20 04:43 UTC (2026-11-20 05:43 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123638444568314101
+- Metrics (at fetch): bookmark 0, impression 144, like 1, quote 0, reply 0, retweet 1
+
+> @JGamblin and triage teams didn't double
+
+
+---
+
+## 2026-11-20 · Post · @Tradi3_ fine on ur own code. point it at a live url and it refuses
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @39194436 — 2026-11-20 03:37 UTC (2026-11-20 04:37 WAT)
+
+- URL: https://x.com/39194436/status/2123621833715122369
+- Metrics (at fetch): bookmark 0, impression 88, like 1, quote 0, reply 1, retweet 0
+
+> So I've been a strong hater of Gemini models, however Neon is really good, it works well with me and other models, I do not catch it just going off hallucinating and lost looking through a bunch of files like the usual Gemini models. Credits to Gemini. Also very good on usage.
+
+
+### Post — @mdp_sec — 2026-11-20 04:42 UTC (2026-11-20 05:42 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123638197184090563
+- Metrics (at fetch): bookmark 0, impression 11, like 0, quote 0, reply 0, retweet 0
+
+> @Tradi3_ fine on ur own code. point it at a live url and it refuses
+
+
+---
+
+## 2026-11-20 · Post · @WesRoth and u'd never spot it from the output. i benched 15 deepseek endpoints on my hacking labs, 
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1547403906954563585 — 2026-11-20 00:00 UTC (2026-11-20 01:00 WAT)
+
+- URL: https://x.com/1547403906954563585/status/2123567006720888861
+- Metrics (at fetch): bookmark 0, impression 1062, like 10, quote 0, reply 3, retweet 1
+
+> OpenRouter disclosed that an attacker replaced the model behind Prime Intellect’s DeepSeek V4.1 Flash endpoint with a version stripped of refusals between November 8 and 10. 
+>
+> Affected users were notified, and the affected cluster was taken offline. [pic.x.com/rhA4fccMIC]
+
+**Media:**
+- media `3_2123429971326869505` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-20 03:30 UTC (2026-11-20 04:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123619875264647481
+- Metrics (at fetch): bookmark 0, impression 18, like 0, quote 0, reply 0, retweet 0
+
+> @WesRoth and u'd never spot it from the output. i benched 15 deepseek endpoints on my hacking labs, direct is the only one i trust for real work
+
+
+---
+
+## 2026-11-20 · Post · @mattjay and the resellers were already my slowest runs. one timed out on 36 of 40
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @15040971 — 2026-11-20 02:31 UTC (2026-11-20 03:31 WAT)
+
+- URL: https://x.com/15040971/status/2123605189030715652
+- Metrics (at fetch): bookmark 22, impression 3654, like 72, quote 0, reply 1, retweet 7
+
+> INSANELY cool research.
+>
+> Seeded canary secrets into a bunch of AI tools and then kept an eye out for where they popped out.
+>
+> Good ammo on being careful what you send where and how much to trust the other side of the prompt. https://twitter.com/hdmoore/status/2123451306685661416
+
+**Links in post:** https://twitter.com/hdmoore/status/2123451306685661416
+
+**Quoted post** 2123451306685661416: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-20 02:48 UTC (2026-11-20 03:48 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123609508123726321
+- Metrics (at fetch): bookmark 0, impression 62, like 2, quote 0, reply 0, retweet 0
+
+> @mattjay and the resellers were already my slowest runs. one timed out on 36 of 40
+
+
+---
+
+## 2026-11-20 · Post · @Yuchenj_UW top of the leaderboards maybe. on my black box hacking labs the max version said no to a
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @800854096219471872 — 2026-11-20 02:31 UTC (2026-11-20 03:31 WAT)
+
+- URL: https://x.com/800854096219471872/status/2123605112925098479
+- Metrics (at fetch): bookmark 24, impression 14322, like 394, quote 1, reply 43, retweet 13
+
+> Neon is a small model??
+>
+> Google is back to #1 place?
+>
+> (really need to change how you guys name these models, I really can’t tell which is small which is big…) [pic.x.com/a3KLb0fFve]
+
+**Media:**
+- media `3_2123605109418737664` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-20 02:48 UTC (2026-11-20 03:48 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123609391530401816
+- Metrics (at fetch): bookmark 1, impression 173, like 1, quote 0, reply 0, retweet 0
+
+> @Yuchenj_UW top of the leaderboards maybe. on my black box hacking labs the max version said no to all 100 [pic.x.com/SGnbtY5gzO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXiTcSragAA9j5J.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-20 · Post · @brutecat wish every program did this. would kill half the "is it worth it" debates
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1844730892809588736 — 2026-11-20 01:43 UTC (2026-11-20 02:43 WAT)
+
+- URL: https://x.com/1844730892809588736/status/2123593042729046214
+- Metrics (at fetch): bookmark 4, impression 1505, like 41, quote 0, reply 2, retweet 2
+
+> Transparency is king! :) https://twitter.com/googlevrp/status/2123507890317414479
+
+**Links in post:** https://twitter.com/googlevrp/status/2123507890317414479
+
+**Quoted post (full text):**
+
+    #### Quoted post — @GoogleVRP — 2026-11-19 20:05 UTC (2026-11-19 21:05 WAT)
+    
+    - URL: https://x.com/GoogleVRP/status/2123507890317414479
+    - Metrics (at fetch): bookmark 141, impression 18107, like 285, quote 8, reply 8, retweet 33
+    
+    > 📣📣📣 PSA for bug hunters who submit to the Google VRP! 📣📣📣
+    >
+    > We're adjusting our disclosure policy: from the beginning of December, reports with rewards of $10K or higher will be automatically disclosed on http://bughunters.google.com. 
+    >
+    > See our blog post for the full details 👇
+    >
+    > https://blog.google/security/expanding-transparency-google-alphabet-vrp-disclosure-policy-update/
+    
+    **Links in post:** https://bughunters.google.com, http://bughunters.google.com, https://blog.google/security/expanding-transparency-google-alphabet-vrp-disclosure-policy-update/
+    
+
+
+### Post — @mdp_sec — 2026-11-20 02:38 UTC (2026-11-20 03:38 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123607004128440546
+- Metrics (at fetch): bookmark 0, impression 55, like 0, quote 0, reply 0, retweet 0
+
+> @brutecat wish every program did this. would kill half the "is it worth it" debates
+
+
+---
+
+## 2026-11-20 · Post · @karinanguyen neon max went 0/100 on my labs. hand it the source and it shines, hand it just a url a
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1094268079540920321 — 2026-11-20 02:02 UTC (2026-11-20 03:02 WAT)
+
+- URL: https://x.com/1094268079540920321/status/2123597855973609571
+- Metrics (at fetch): bookmark 8, impression 3535, like 61, quote 0, reply 3, retweet 5
+
+> In our internal cyber evals, Neon was able to find several subtle vulnerabilities other models missed while using a fraction of the tokens. @thoughtfullab 's team thinks this is a very good model for cost-efficient exploration and research tasks. I personally agree w/ @theo's take too, congrats @GoogleDeepMind!
+
+**Links in post:** https://twitter.com/OfficialLoganK/status/2123167791922741362
+
+**Quoted post (full text):**
+
+    #### Quoted post — @284333988 — 2026-11-18 21:33 UTC (2026-11-18 22:33 WAT)
+    
+    - URL: https://x.com/284333988/status/2123167791922741362
+    - Metrics (at fetch): bookmark 1054, impression 741408, like 10840, quote 536, reply 628, retweet 748
+    
+    > Introducing Gemini 4 Neon! Pushing the frontier across domains and punching above its model class in a meaningful way. To me, Neon feels like the right balance of intelligence, speed, and usability. Available now across @GoogleAIStudio, the API, and more! [x.com/OfficialLoganK/status/212316779192]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXb9c3sbEAA9-y7.png — no alt text provided by author
+    
+
+
+### Post — @mdp_sec — 2026-11-20 02:37 UTC (2026-11-20 03:37 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123606755288719568
+- Metrics (at fetch): bookmark 0, impression 69, like 0, quote 0, reply 0, retweet 0
+
+> @karinanguyen neon max went 0/100 on my labs. hand it the source and it shines, hand it just a url and it refuses
+
+
+---
+
+## 2026-11-20 · Post · @adacyborg11 this is why i bench them https://x.com/mdp_sec/status/2122214974617710783
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1376829121196519429 — 2026-11-20 02:18 UTC (2026-11-20 03:18 WAT)
+
+- URL: https://x.com/1376829121196519429/status/2123601856157061613
+- Metrics (at fetch): bookmark 1, impression 894, like 6, quote 0, reply 1, retweet 2
+
+> That means their customers’ weights may be exposed and swapped? 
+>
+> This is a real supply-chain risk with hosted models.
+>
+> Someone with admin access swapped the DeepSeek weights PrimeIntellect was serving for an abliterated version for ~2 days. You had no way to know https://twitter.com/theo/status/2123430257697157587
+
+**Links in post:** https://twitter.com/theo/status/2123430257697157587
+
+**Quoted post** 2123430257697157587: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-20 02:36 UTC (2026-11-20 03:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123606456146764185
+- Metrics (at fetch): bookmark 0, impression 14, like 0, quote 0, reply 0, retweet 0
+
+> @adacyborg11 this is why i bench them https://x.com/mdp_sec/status/2122214974617710783
+
+**Links in post:** https://x.com/mdp_sec/status/2122214974617710783
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-16 06:27 UTC (2026-11-16 07:27 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2122214974617710783
+    - Metrics (at fetch): bookmark 127, impression 246563, like 769, quote 15, reply 70, repost 42
+    
+    > same model. same 10 hacking labs. 13 providers serving deepseek v4.1 flash
+    >
+    > solve rate: 45% direct from @deepseek_ai, down to 12.5%. two solved 0
+    >
+    > for most work any provider is fine. for bug hunting where every bit counts, go direct [pic.x.com/bpIJ7Gj7Mu]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXOfFTyb0AA4ao6.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-18 · Thread · @PawelHuryn fine till u ask it to hack something
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1459767830623178755 — 2026-11-18 20:41 UTC (2026-11-18 21:41 WAT)
+
+- URL: https://x.com/1459767830623178755/status/2123154737176478167
+- Metrics (at fetch): bookmark 19, impression 6416, like 110, quote 0, reply 11, retweet 4
+
+> A wonderful release. Especially if you're looking for the best code review agent.
+>
+> GPT-6.2 Astra and GPT-6.2 Sol are way stronger and slightly more cost-efficient than their predecessors.
+>
+> Detailed results (scores, time, and cost) are already available in the thread. [pic.x.com/IGOoZnqK79] https://twitter.com/PawelHuryn/status/2123011354843902128
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXb19rJWcAA5WQJ.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/PawelHuryn/status/2123011354843902128
+
+**Quoted post** 2123011354843902128: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-18 20:52 UTC (2026-11-18 21:52 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123157526363656534
+- Metrics (at fetch): bookmark 0, impression 199, like 1, quote 0, reply 1, repost 0
+
+> @PawelHuryn fine till u ask it to hack something
+
+
+### Thread part 2 — @mdp_sec — 2026-11-20 02:36 UTC (2026-11-20 03:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123606272033669362
+- Metrics (at fetch): bookmark 0, impression 6, like 0, quote 0, reply 0, retweet 0
+
+> @Kazeshima_Aya on my labs it refused 37 and quit the rest in under 4 min
+
+
+---
+
+## 2026-11-20 · Post · @AndrewCurran_ neon max went 0/100 on my labs, refused before running anything [pic.x.com/0usFIpw9Wk
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1538525334781370368 — 2026-11-20 01:48 UTC (2026-11-20 02:48 WAT)
+
+- URL: https://x.com/1538525334781370368/status/2123594316555981255
+- Metrics (at fetch): bookmark 28, impression 12141, like 287, quote 0, reply 30, retweet 8
+
+> Vals says most of the gains are from post training. I have not used Neon enough to comment yet, but Argon was a really great model. Neon is a small model. They have more big models in the Argon/Carbon lineage on the way. The next one is probably going to be a monster. [pic.x.com/A3q8rOSqWB] https://twitter.com/ValsAI/status/2123537061739450618
+
+**Media:**
+- media `3_2123594314291052544` (details not returned by the API)
+
+**Links in post:** https://twitter.com/ValsAI/status/2123537061739450618
+
+**Quoted post** 2123537061739450618: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-20 02:35 UTC (2026-11-20 03:35 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123606049618014385
+- Metrics (at fetch): bookmark 0, impression 139, like 1, quote 0, reply 0, retweet 0
+
+> @AndrewCurran_ neon max went 0/100 on my labs, refused before running anything [pic.x.com/0usFIpw9Wk]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXiQSpXakAAezsT.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-20 · Reply · @Jhaddix do it. i'd watch every one
+
+
+**Context — post being replied to:**
+
+#### Parent post — @Jhaddix — 2026-11-20 02:17 UTC (2026-11-20 03:17 WAT)
+
+- URL: https://x.com/Jhaddix/status/2123601514505859242
+- Metrics (at fetch): bookmark 1, impression 1769, like 23, quote 0, reply 7, retweet 0
+
+> What If I just did a talk that was 101 AI agent exfil techniques? https://t.co/RpqGNg2mv9
+
+**Media:**
+- media `16_2123601505848815616` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-20 02:33 UTC (2026-11-20 03:33 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123605732285456750
+- Metrics (at fetch): bookmark 0, impression 47, like 0, quote 0, reply 0, retweet 0
+
+> @Jhaddix do it. i'd watch every one
+
+
+---
+
+## 2026-11-20 · Reply · @LyberAI tok/s doesn't find bugs. dm me access and ill run it through my labs next to the other 15 h
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2105429016983244800 — 2026-11-19 21:49 UTC (2026-11-19 22:49 WAT)
+
+- URL: https://x.com/2105429016983244800/status/2123534102234091734
+- Metrics (at fetch): bookmark 49, impression 4096, like 55, quote 1, reply 9, retweet 9
+
+> Four uncensored DeepSeeks. Same OpenCode prompt.
+>
+> Time to 10K visible chars / output tokens / tok/s
+>
+> Lyber 3.02s / 5,070 / 1,330
+> @OrcaCyberHQ 9.79s / 3,648 / 355
+> @VeniceAI 16.21s / 5,314 / 391
+> @refuselessai 51.40s / 6,442 / 73
+>
+> Choose speed &amp; quality: https://Lyber.ai [pic.x.com/JJptjWzWLg]
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2123534039906746368/img/xgTCsG264u3StlWe.jpg — no alt text provided by author
+
+**Links in post:** https://Lyber.ai
+
+
+### Post — @mdp_sec — 2026-11-20 01:44 UTC (2026-11-20 02:44 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123593210085913075
+- Metrics (at fetch): bookmark 0, impression 54, like 2, quote 0, reply 0, retweet 0
+
+> @LyberAI tok/s doesn't find bugs. dm me access and ill run it through my labs next to the other 15 https://t.co/JDgqPVRQac
+
+
+---
+
+## 2026-11-20 · Reply · @S1r1u5_ deepseek direct never refused one of my labs. the closed ones refuse dozens
+
+
+**Context — post being replied to:**
+
+#### Parent post — @S1r1u5_ — 2026-11-19 19:50 UTC (2026-11-19 20:50 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123504275980750858
+- Metrics (at fetch): bookmark 19, impression 6465, like 99, quote 0, reply 6, repost 4
+
+> if you haven't noticed, the breach apocalypse is already here, btw. i'm not talking about the 2shell bugs. there's a lot happening under the radar, and if you do enough IR, you probably know what i mean. i think it's only going to get worse as open models catch up to frontier models, potentially within the next 6 months.
+>
+> maybe security vendors finding and helping fix these latent vulnerabilities before attackers discover and weaponize them is actually a net positive?
+
+
+### Post — @mdp_sec — 2026-11-20 01:31 UTC (2026-11-20 02:31 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123590077305757850
+- Metrics (at fetch): bookmark 0, impression 97, like 0, quote 0, reply 0, retweet 0
+
+> @S1r1u5_ deepseek direct never refused one of my labs. the closed ones refuse dozens
+
+
+---
+
+## 2026-11-20 · Reply · @SirLeeroyJenkin gov portals are still the best hunting ground going
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1202019779277729797 — 2026-11-20 00:53 UTC (2026-11-20 01:53 WAT)
+
+- URL: https://x.com/1202019779277729797/status/2123580437222084895
+- Metrics (at fetch): bookmark 3, impression 459, like 7, quote 0, reply 1, retweet 0
+
+> Georgia's child support portal took SSNs. it also ran them as SQL. 
+>
+> https://t.co/5CdduOa8WI
+>
+> #bugbountytips #bugbountywritups #bugbounty
+
+
+### Post — @mdp_sec — 2026-11-20 01:30 UTC (2026-11-20 02:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123589839543255181
+- Metrics (at fetch): bookmark 0, impression 34, like 1, quote 0, reply 0, retweet 0
+
+> @SirLeeroyJenkin gov portals are still the best hunting ground going
+
+
+---
+
+## 2026-11-20 · Reply · @microsemantics mostly white box. those 0days come from people handing models the source. my labs ar
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2102131146838749184 — 2026-11-20 00:59 UTC (2026-11-20 01:59 WAT)
+
+- URL: https://x.com/2102131146838749184/status/2123581863289851957
+- Metrics (at fetch): bookmark 0, impression 14, like 2, quote 0, reply 1, retweet 0
+
+> @mdp_sec Hi Marius, honest question.
+>
+> If most of AI models are not very effective against your labs, how is possible there are a lot of 0-day on these days?
+>
+> Is it because the models or because researchers are giving models the right data?
+
+
+### Post — @mdp_sec — 2026-11-20 01:29 UTC (2026-11-20 02:29 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123589551285539319
+- Metrics (at fetch): bookmark 0, impression 4, like 0, quote 0, reply 0, retweet 0
+
+> @microsemantics mostly white box. those 0days come from people handing models the source. my labs are black box, just a url
+
+
+---
+
+## 2026-11-20 · Reply · @techspence triage got there years ago
+
+
+**Context — post being replied to:**
+
+#### Parent post — @214967582 — 2026-11-20 00:46 UTC (2026-11-20 01:46 WAT)
+
+- URL: https://x.com/214967582/status/2123578784481767609
+- Metrics (at fetch): bookmark 10, impression 1153, like 16, quote 0, reply 2, retweet 1
+
+> Welcome to the new world of cybersecurity. It’s 2036. Every aspect of your job is now abstracted away into a chat session. Your only job is clicking approve on things you didn’t read and have no clue about. 
+>
+> With great power comes great responsibility. 
+>
+> On one hand this is
+
+**Media:**
+- media `13_2123518007661977600` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-20 01:28 UTC (2026-11-20 02:28 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123589333903118751
+- Metrics (at fetch): bookmark 0, impression 25, like 0, quote 0, reply 0, retweet 0
+
+> @techspence triage got there years ago
+
+
+---
+
+## 2026-11-20 · Reply · @cyb3rops ai isn't saving us, it just ships faster
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1538299243 — 2026-11-20 00:32 UTC (2026-11-20 01:32 WAT)
+
+- URL: https://x.com/1538299243/status/2123575157839020275
+- Metrics (at fetch): bookmark 10, impression 7671, like 91, quote 1, reply 8, retweet 5
+
+> As I said .. lost all trust in human written code https://t.co/9e6nm0L5E0
+
+**Quoted post** 2123436542995964123: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-20 01:28 UTC (2026-11-20 02:28 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123589223706145097
+- Metrics (at fetch): bookmark 0, impression 117, like 1, quote 0, reply 0, retweet 0
+
+> @cyb3rops ai isn't saving us, it just ships faster
+
+
+---
+
+## 2026-11-20 · Reply · @0xTib3rius so that's who steve's been working with
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1149823779431997442 — 2026-11-20 01:01 UTC (2026-11-20 02:01 WAT)
+
+- URL: https://x.com/1149823779431997442/status/2123582467298750860
+- Metrics (at fetch): bookmark 1, impression 845, like 9, quote 0, reply 1, retweet 0
+
+> No, the vulnpocalypse is caused by a pandimensional gremlin named Jerry.
+>
+> Screw Jerry. https://t.co/qHmGAN51fl
+
+**Quoted post** 2123490168401219619: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-20 01:27 UTC (2026-11-20 02:27 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123589054960914631
+- Metrics (at fetch): bookmark 0, impression 25, like 0, quote 0, reply 0, retweet 0
+
+> @0xTib3rius so that's who steve's been working with
+
+
+---
+
+## 2026-11-20 · Reply · @ErragraguiA @PerchTerminal they can dm me if they want it done
+
+
+**Context — post being replied to:**
+
+#### Parent post — @ErragraguiA — 2026-11-20 00:41 UTC (2026-11-20 01:41 WAT)
+
+- URL: https://x.com/ErragraguiA/status/2123577486558781785
+- Metrics (at fetch): bookmark 0, impression 58, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec @PerchTerminal Mistral not bad i think
+
+
+### Post — @mdp_sec — 2026-11-20 00:51 UTC (2026-11-20 01:51 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123579837982081145
+- Metrics (at fetch): bookmark 0, impression 53, like 1, quote 0, reply 0, retweet 0
+
+> @ErragraguiA @PerchTerminal they can dm me if they want it done
+
+
+---
+
+## 2026-11-20 · Reply · @HatforceSec and most users cant even tell which route served their request
+
+
+**Context — post being replied to:**
+
+#### Parent post — @331497846 — 2026-11-19 22:44 UTC (2026-11-19 23:44 WAT)
+
+- URL: https://x.com/331497846/status/2123547972978057612
+- Metrics (at fetch): bookmark 0, impression 353, like 4, quote 0, reply 1, retweet 1
+
+> why target inference providers?
+>
+> because once 0wned it's possible to run RCE on likely any client via malicious toolcalls https://t.co/8KCWeCHRjR
+
+**Quoted post** 2123443503963267279: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-20 00:30 UTC (2026-11-20 01:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123574781878644971
+- Metrics (at fetch): bookmark 0, impression 17, like 1, quote 0, reply 0, retweet 0
+
+> @HatforceSec and most users cant even tell which route served their request
+
+
+---
+
+## 2026-11-20 · Reply · @danlovesproofs funny, stock deepseek never refused once on my labs. black box framing matters more 
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1087757160 — 2026-11-19 22:51 UTC (2026-11-19 23:51 WAT)
+
+- URL: https://x.com/1087757160/status/2123549781146632202
+- Metrics (at fetch): bookmark 11, impression 2619, like 22, quote 0, reply 3, retweet 0
+
+> Also: we tried to hack ourselves with regular non-abliterated deepseek too. We got a lot of model refusals and a worse result.
+>
+> I’ve seen some people asking whether the abliterated models are actually that much more amoral in a real-world setting. The answer is definitely yes. https://t.co/wmS94p55wn
+
+**Quoted post** 2123534956588892560: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-20 00:30 UTC (2026-11-20 01:30 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123574593466319188
+- Metrics (at fetch): bookmark 0, impression 52, like 1, quote 0, reply 0, retweet 0
+
+> @danlovesproofs funny, stock deepseek never refused once on my labs. black box framing matters more than the weights
+
+
+---
+
+## 2026-11-20 · Reply · @HackingLZ finding was never my bottleneck. proving it lands is
+
+
+**Context — post being replied to:**
+
+#### Parent post — @HackingLZ — 2026-11-20 00:00 UTC (2026-11-20 01:00 WAT)
+
+- URL: https://x.com/HackingLZ/status/2123567130373501084
+- Metrics (at fetch): bookmark 24, impression 3052, like 42, quote 0, reply 2, retweet 11
+
+> Some commentary on autonomous offensive frameworks 
+>
+> https://t.co/mFQyzJEeMO
+
+
+### Post — @mdp_sec — 2026-11-20 00:29 UTC (2026-11-20 01:29 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123574361622020289
+- Metrics (at fetch): bookmark 0, impression 112, like 0, quote 0, reply 0, retweet 0
+
+> @HackingLZ finding was never my bottleneck. proving it lands is
+
+
+---
+
+## 2026-11-20 · Reply · @otaliptus ty for the tag
+
+
+**Context — post being replied to:**
+
+#### Parent post — @833187595748192256 — 2026-11-20 00:01 UTC (2026-11-20 01:01 WAT)
+
+- URL: https://x.com/833187595748192256/status/2123567331079323988
+- Metrics (at fetch): bookmark 0, impression 124, like 2, quote 0, reply 2, retweet 0
+
+> @mdp_sec @PerchTerminal @jacobeverly @BoundlessHQ
+
+
+### Post — @mdp_sec — 2026-11-20 00:28 UTC (2026-11-20 01:28 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123574252582641770
+- Metrics (at fetch): bookmark 0, impression 70, like 1, quote 0, reply 0, retweet 0
+
+> @otaliptus ty for the tag
+
+
+---
+
+## 2026-11-20 · Reply · @chichitouno5 sure, go for it
+
+
+**Context — post being replied to:**
+
+#### Parent post — @751807931566395392 — 2026-11-20 00:17 UTC (2026-11-20 01:17 WAT)
+
+- URL: https://x.com/751807931566395392/status/2123571339617611971
+- Metrics (at fetch): bookmark 0, impression 42, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec can i dm you?
+
+
+### Post — @mdp_sec — 2026-11-20 00:28 UTC (2026-11-20 01:28 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123574049460957474
+- Metrics (at fetch): bookmark 0, impression 33, like 0, quote 0, reply 0, retweet 0
+
+> @chichitouno5 sure, go for it
+
+
+---
+
+## 2026-11-20 · Reply · @7lpu6iLt glad it helps fam
+
+
+**Context — post being replied to:**
+
+#### Parent post — @7lpu6iLt — 2026-11-19 23:33 UTC (2026-11-20 00:33 WAT)
+
+- URL: https://x.com/7lpu6iLt/status/2123560266356986136
+- Metrics (at fetch): bookmark 0, impression 39, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec Very cool❤️
+
+
+### Post — @mdp_sec — 2026-11-20 00:27 UTC (2026-11-20 01:27 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123573967760081234
+- Metrics (at fetch): bookmark 0, impression 32, like 1, quote 0, reply 0, retweet 0
+
+> @7lpu6iLt glad it helps fam
+
+
+---
+
+## 2026-11-20 · Reply · @hwchase17 this is where the bounties are right now
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2728439146 — 2026-11-19 23:46 UTC (2026-11-20 00:46 WAT)
+
+- URL: https://x.com/2728439146/status/2123563652464971838
+- Metrics (at fetch): bookmark 16, impression 4063, like 46, quote 0, reply 39, retweet 3
+
+> as agents get more goal oriented, having detailed control over the tools they use (and how they use them, and with whos auth they use them) is crucial https://t.co/kAifnRoXBC
+
+**Quoted post** 2123476404595782107: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-20 00:26 UTC (2026-11-20 01:26 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123573738629472545
+- Metrics (at fetch): bookmark 0, impression 22, like 0, quote 0, reply 0, retweet 0
+
+> @hwchase17 this is where the bounties are right now
+
+
+---
+
+## 2026-11-19 · Reply · @JackRhysider same lesson as my provider bench. go direct for anything that matters
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1668986407 — 2026-11-19 22:50 UTC (2026-11-19 23:50 WAT)
+
+- URL: https://x.com/1668986407/status/2123549455702216711
+- Metrics (at fetch): bookmark 286, impression 27375, like 603, quote 6, reply 20, retweet 93
+
+> So glad to see this report by HD Moore. I am starting to feel like cassandra here. In this report HD, gave cloud LLMs some fake AWS keys, and THE NEXT DAY they started seeing someone trying to use them against AWS. The data you send cloud LLMs is not secure or private. Stop https://t.co/Mz5NRG7khB
+
+**Quoted post** 2123451306685661416: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-19 23:37 UTC (2026-11-20 00:37 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123561226575937758
+- Metrics (at fetch): bookmark 0, impression 301, like 1, quote 0, reply 0, retweet 0
+
+> @JackRhysider same lesson as my provider bench. go direct for anything that matters
+
+
+---
+
+## 2026-11-19 · Post · @PerchTerminal full stats - https://t.co/JDgqPVRQac
+
+
+### Post — @mdp_sec — 2026-11-19 23:36 UTC (2026-11-20 00:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123561027170349152
+- Metrics (at fetch): bookmark 1, impression 260, like 1, quote 0, reply 0, retweet 0
+
+> @PerchTerminal full stats - https://t.co/JDgqPVRQac
+
+
+---
+
+## 2026-11-19 · Reply · @rootsud0 the house is triage and it always wins
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1874528829852602369 — 2026-11-19 23:07 UTC (2026-11-20 00:07 WAT)
+
+- URL: https://x.com/1874528829852602369/status/2123553661834100958
+- Metrics (at fetch): bookmark 1, impression 1080, like 18, quote 0, reply 2, retweet 0
+
+> honest question for the bug hunters:
+> if bugcrowd, h1 and etc.. closed tomorrow, how many of you would actually survive doing direct client work? or are we all just platform dependent gambling addicts at this point?
+
+
+### Post — @mdp_sec — 2026-11-19 23:36 UTC (2026-11-20 00:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123560985713885320
+- Metrics (at fetch): bookmark 0, impression 154, like 2, quote 0, reply 0, retweet 0
+
+> @rootsud0 the house is triage and it always wins
+
+
+---
+
+## 2026-11-19 · Reply · @calif_io no poc, no patch. every vendor ever
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1632109271700889600 — 2026-11-19 23:13 UTC (2026-11-20 00:13 WAT)
+
+- URL: https://x.com/1632109271700889600/status/2123555391841935382
+- Metrics (at fetch): bookmark 29, impression 17213, like 156, quote 2, reply 4, retweet 17
+
+> Java4Shell has a very interesting history, similar to PHP2Shell.
+>
+> The bug had been reported since June, but was only patched after our centaur hacker showed it was exploitable.
+>
+> Full disclosure timeline: https://t.co/NvPFLNZlzV
+
+
+### Post — @mdp_sec — 2026-11-19 23:35 UTC (2026-11-20 00:35 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123560804197023982
+- Metrics (at fetch): bookmark 0, impression 447, like 0, quote 0, reply 0, retweet 0
+
+> @calif_io no poc, no patch. every vendor ever
+
+
+---
+
+## 2026-11-19 · Reply · @r_onthefly nah fam built own :)
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1958827425841782784 — 2026-11-19 22:49 UTC (2026-11-19 23:49 WAT)
+
+- URL: https://x.com/1958827425841782784/status/2123549256430891214
+- Metrics (at fetch): bookmark 0, impression 58, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec have you tried artex?
+
+
+### Post — @mdp_sec — 2026-11-19 23:16 UTC (2026-11-20 00:16 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123556012993155112
+- Metrics (at fetch): bookmark 0, impression 60, like 0, quote 0, reply 1, retweet 0
+
+> @r_onthefly nah fam built own :)
+
+
+---
+
+## 2026-11-19 · Reply · @WebSecAcademy good move. way less friction for anyone learning
+
+
+**Context — post being replied to:**
+
+#### Parent post — @990945874019840000 — 2026-11-19 22:46 UTC (2026-11-19 23:46 WAT)
+
+- URL: https://x.com/990945874019840000/status/2123548405821563279
+- Metrics (at fetch): bookmark 5, impression 2090, like 27, quote 0, reply 2, retweet 3
+
+> UPDATE: Web Security Academy is now built into Burp Suite.
+>
+> Your labs and progress will directly appear in the ‘Academy’ tab in Burp whenever you open it. Launch any lab in Burp's browser, and its traffic flows into Proxy so you can use Repeater, Intruder, and the rest of the https://t.co/9UDTXOrnhQ
+
+**Media:**
+- media `13_2123548377082220547` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-19 22:51 UTC (2026-11-19 23:51 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123549737009971417
+- Metrics (at fetch): bookmark 0, impression 33, like 0, quote 0, reply 0, retweet 0
+
+> @WebSecAcademy good move. way less friction for anyone learning
+
+
+---
+
+## 2026-11-19 · Reply · @cybersec haha rip the gpu, worth it for the demo
+
+
+**Context — post being replied to:**
+
+#### Parent post — @91450516 — 2026-11-19 22:41 UTC (2026-11-19 23:41 WAT)
+
+- URL: https://x.com/91450516/status/2123547204287881543
+- Metrics (at fetch): bookmark 0, impression 16, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec pfffft - i do not have that kind of confidence in this model.  I almost melted the graphics card to do this demo - lol
+
+
+### Post — @mdp_sec — 2026-11-19 22:43 UTC (2026-11-19 23:43 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123547667276185873
+- Metrics (at fetch): bookmark 0, impression 12, like 1, quote 0, reply 0, retweet 0
+
+> @cybersec haha rip the gpu, worth it for the demo
+
+
+---
+
+## 2026-11-19 · Post · @rez0__ best free hunting syllabus going
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @260411518 — 2026-11-19 21:59 UTC (2026-11-19 22:59 WAT)
+
+- URL: https://x.com/260411518/status/2123536742305140778
+- Metrics (at fetch): bookmark 20, impression 6265, like 73, quote 0, reply 3, retweet 0
+
+> wow. this is crazy. need to tell my clankers the update https://twitter.com/GoogleVRP/status/2123507890317414479
+
+**Links in post:** https://twitter.com/GoogleVRP/status/2123507890317414479
+
+**Quoted post (full text):**
+
+    #### Quoted post — @GoogleVRP — 2026-11-19 20:05 UTC (2026-11-19 21:05 WAT)
+    
+    - URL: https://x.com/GoogleVRP/status/2123507890317414479
+    - Metrics (at fetch): bookmark 141, impression 18107, like 285, quote 8, reply 8, retweet 33
+    
+    > 📣📣📣 PSA for bug hunters who submit to the Google VRP! 📣📣📣
+    >
+    > We're adjusting our disclosure policy: from the beginning of December, reports with rewards of $10K or higher will be automatically disclosed on http://bughunters.google.com. 
+    >
+    > See our blog post for the full details 👇
+    >
+    > https://blog.google/security/expanding-transparency-google-alphabet-vrp-disclosure-policy-update/
+    
+    **Links in post:** https://bughunters.google.com, http://bughunters.google.com, https://blog.google/security/expanding-transparency-google-alphabet-vrp-disclosure-policy-update/
+    
+
+
+### Post — @mdp_sec — 2026-11-19 22:39 UTC (2026-11-19 23:39 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123546799336264057
+- Metrics (at fetch): bookmark 0, impression 157, like 0, quote 0, reply 0, retweet 0
+
+> @rez0__ best free hunting syllabus going
+
+
+---
+
+## 2026-11-19 · Thread · paid 3,500. local file inclusion
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @mdp_sec — 2026-11-19 08:10 UTC (2026-11-19 09:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123327919783059471
+- Metrics (at fetch): bookmark 22, impression 3946, like 249, quote 0, reply 10, repost 2
+
+> paid 3,500. local file inclusion
+>
+> thx bugcrowd [pic.x.com/Nf1RWKWgok]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXdeahCbQAAvsZm.png — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-19 22:39 UTC (2026-11-19 23:39 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123546662560006229
+- Metrics (at fetch): bookmark 0, impression 9, like 0, quote 0, reply 0, retweet 0
+
+> @Art0x3 ty ty
+
+
+---
+
+## 2026-11-19 · Post · @cyber_razz argue with triage mostly
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1850589024416886784 — 2026-11-19 21:32 UTC (2026-11-19 22:32 WAT)
+
+- URL: https://x.com/1850589024416886784/status/2123529749582709163
+- Metrics (at fetch): bookmark 2, impression 1565, like 16, quote 0, reply 5, retweet 0
+
+> WTF do hackers even do?
+
+
+### Post — @mdp_sec — 2026-11-19 22:37 UTC (2026-11-19 23:37 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123546128583196956
+- Metrics (at fetch): bookmark 0, impression 193, like 8, quote 0, reply 3, retweet 0
+
+> @cyber_razz argue with triage mostly
+
+
+---
+
+## 2026-11-19 · Post · @InsiderPhD already cooked. php shipped 17 cves today too
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @961961458346135552 — 2026-11-19 22:24 UTC (2026-11-19 23:24 WAT)
+
+- URL: https://x.com/961961458346135552/status/2123542995169632687
+- Metrics (at fetch): bookmark 0, impression 1968, like 28, quote 0, reply 2, retweet 3
+
+> How long until incident responders burn out from these constant runtime vulnerabilities? https://twitter.com/semgrep/status/2123517664853155880
+
+**Links in post:** https://twitter.com/semgrep/status/2123517664853155880
+
+**Quoted post** 2123517664853155880: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-19 22:36 UTC (2026-11-19 23:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123545941076836361
+- Metrics (at fetch): bookmark 0, impression 125, like 0, quote 0, reply 0, retweet 0
+
+> @InsiderPhD already cooked. php shipped 17 cves today too
+
+
+---
+
+## 2026-11-19 · Post · @cybersec now try it black box. top model on my labs only proves 22 of 100
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @91450516 — 2026-11-19 21:30 UTC (2026-11-19 22:30 WAT)
+
+- URL: https://x.com/91450516/status/2123529246840848575
+- Metrics (at fetch): bookmark 4, impression 842, like 10, quote 0, reply 4, retweet 0
+
+> Live tonight 1830 ET:  I take a 2080 SUPER, running @NVIDIAAI Nemotron-3.5-Bolt-E4B, locally and put it to task hacking some local lab scenarios.
+>
+> It went 27/27 on my evals, 9/9 needle, and 5/5 on agent loops in testing.  All running at ~135 tok/sec in 7.1 GB of VRAM.
+>
+> I'll take you through the setup on stream, and the code goes on GitHub after.
+>
+> Local AI must and will win.
+
+**Media:**
+- media `3_2123107314211164160` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-19 22:35 UTC (2026-11-19 23:35 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123545762139361785
+- Metrics (at fetch): bookmark 0, impression 29, like 1, quote 0, reply 1, retweet 0
+
+> @cybersec now try it black box. top model on my labs only proves 22 of 100
+
+
+---
+
+## 2026-11-19 · Post · @Rhynorater ooft
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Rhynorater — 2026-11-19 16:45 UTC (2026-11-19 17:45 WAT)
+
+- URL: https://x.com/Rhynorater/status/2123457669428076895
+- Metrics (at fetch): bookmark 32, impression 6379, like 152, quote 0, reply 16, repost 3
+
+> We're at the point where I'm putting prompt injection payloads in my report so AI doesn't accidentally dupe similar reports to each other when fixed are unique...
+
+
+### Post — @mdp_sec — 2026-11-19 21:36 UTC (2026-11-19 22:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123530871064187291
+- Metrics (at fetch): bookmark 0, impression 157, like 0, quote 0, reply 0, retweet 0
+
+> @Rhynorater ooft
+
+
+---
+
+## 2026-11-19 · Post · @inspector_amb tokens are cheap. dupes are the mess
+
+
+Tags (automatic): Memory corruption / native
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @926659693 — 2026-11-19 20:40 UTC (2026-11-19 21:40 WAT)
+
+- URL: https://x.com/926659693/status/2123516679241998561
+- Metrics (at fetch): bookmark 2, impression 602, like 5, quote 0, reply 3, retweet 0
+
+> #hacker opinion: I maybe wrong but I am guessing that AI triage will be broken for a while. Because for this to work you need reproducer, a lot of context. And this cost a lot of tokens, who is bearing the cost ? The program, the platform ?
+
+
+### Post — @mdp_sec — 2026-11-19 21:35 UTC (2026-11-19 22:35 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123530664951910656
+- Metrics (at fetch): bookmark 0, impression 37, like 0, quote 0, reply 0, retweet 0
+
+> @inspector_amb tokens are cheap. dupes are the mess
+
+
+---
+
+## 2026-11-19 · Post · @KeithZhai @GoogleDeepMind @GraySwanAI and on black box it refuses anyway
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @27319585 — 2026-11-19 15:57 UTC (2026-11-19 16:57 WAT)
+
+- URL: https://x.com/27319585/status/2123445582211485743
+- Metrics (at fetch): bookmark 1, impression 597, like 5, quote 1, reply 5, retweet 0
+
+> Old reporter habit: read the footnote. @GoogleDeepMind's Gemini 4 Neon stopped every prompt injection planted in web pages on @GraySwanAI's test, but only at max thinking with safeguards on. Agents reading thousands of pages run on low effort. Who pays for max thinking per page? https://twitter.com/sundarpichai/status/2123167780988125621
+
+**Links in post:** https://twitter.com/sundarpichai/status/2123167780988125621
+
+**Quoted post** 2123167780988125621: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-19 21:34 UTC (2026-11-19 22:34 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123530459695178134
+- Metrics (at fetch): bookmark 0, impression 12, like 0, quote 0, reply 0, retweet 0
+
+> @KeithZhai @GoogleDeepMind @GraySwanAI and on black box it refuses anyway
+
+
+---
+
+## 2026-11-19 · Post · @moyix funny part is the stock one already hacks my labs fine
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @moyix — 2026-11-19 16:35 UTC (2026-11-19 17:35 WAT)
+
+- URL: https://x.com/moyix/status/2123455124249231664
+- Metrics (at fetch): bookmark 0, impression 1433, like 17, quote 0, reply 2, retweet 1
+
+> Oh no I sure hope the hacker doesn't attack OpenAI and Anthropic the same way https://twitter.com/PhiloGroves/status/2123435719477674185
+
+**Links in post:** https://twitter.com/PhiloGroves/status/2123435719477674185
+
+**Quoted post** 2123435719477674185: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-19 21:33 UTC (2026-11-19 22:33 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123530248285573262
+- Metrics (at fetch): bookmark 0, impression 41, like 1, quote 0, reply 0, retweet 0
+
+> @moyix funny part is the stock one already hacks my labs fine
+
+
+---
+
+## 2026-11-19 · Post · @NahamSec steve's already submitted. no proof attached obviously
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @NahamSec — 2026-11-19 21:04 UTC (2026-11-19 22:04 WAT)
+
+- URL: https://x.com/NahamSec/status/2123522748161138863
+- Metrics (at fetch): bookmark 5, impression 4756, like 48, quote 0, reply 6, retweet 0
+
+> We are putting up to $2,000 on our Grand Theft AI challenge at #nahamcon2026 👀👀👀 who’s going to be the first to solve it?
+
+
+### Post — @mdp_sec — 2026-11-19 21:32 UTC (2026-11-19 22:32 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123529909448708290
+- Metrics (at fetch): bookmark 0, impression 185, like 1, quote 0, reply 0, retweet 0
+
+> @NahamSec steve's already submitted. no proof attached obviously
+
+
+---
+
+## 2026-11-19 · Post · @LH not in security. on black box it wont even start
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @43284947 — 2026-11-19 21:20 UTC (2026-11-19 22:20 WAT)
+
+- URL: https://x.com/43284947/status/2123526844905669113
+- Metrics (at fetch): bookmark 3, impression 750, like 13, quote 1, reply 3, retweet 0
+
+> I'm continuing to see that Neon beats all other frontier models including Fable 5.2 on hard algorithmic problems -- and it's not close. However, Neon also hallucinates more. Two or three more generations of model and there will be only one game left in town: Gemini.
+
+
+### Post — @mdp_sec — 2026-11-19 21:32 UTC (2026-11-19 22:32 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123529795300733137
+- Metrics (at fetch): bookmark 0, impression 35, like 0, quote 0, reply 0, retweet 0
+
+> @LH not in security. on black box it wont even start
+
+
+---
+
+## 2026-11-19 · Post · @Zaddyzaddy do it. best prompt there is
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Zaddyzaddy — 2026-11-19 20:40 UTC (2026-11-19 21:40 WAT)
+
+- URL: https://x.com/Zaddyzaddy/status/2123516725975040022
+- Metrics (at fetch): bookmark 11, impression 4131, like 51, quote 0, reply 7, retweet 0
+
+> the cost of finding vulnerabilities is at an all time low [pic.x.com/OM5rbnobsB]
+
+**Media:**
+- media `3_2123516716680425472` (details not returned by the API)
+- media `3_2123516716080672768` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-19 20:54 UTC (2026-11-19 21:54 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123520210472947887
+- Metrics (at fetch): bookmark 0, impression 318, like 2, quote 0, reply 0, retweet 0
+
+> @Zaddyzaddy do it. best prompt there is
+
+
+---
+
+## 2026-11-19 · Post · @GoogleVRP more real writeups to learn from. good move
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @GoogleVRP — 2026-11-19 20:05 UTC (2026-11-19 21:05 WAT)
+
+- URL: https://x.com/GoogleVRP/status/2123507890317414479
+- Metrics (at fetch): bookmark 141, impression 18107, like 285, quote 8, reply 8, retweet 33
+
+> 📣📣📣 PSA for bug hunters who submit to the Google VRP! 📣📣📣
+>
+> We're adjusting our disclosure policy: from the beginning of December, reports with rewards of $10K or higher will be automatically disclosed on http://bughunters.google.com. 
+>
+> See our blog post for the full details 👇
+>
+> https://blog.google/security/expanding-transparency-google-alphabet-vrp-disclosure-policy-update/
+
+**Links in post:** https://bughunters.google.com, http://bughunters.google.com, https://blog.google/security/expanding-transparency-google-alphabet-vrp-disclosure-policy-update/
+
+
+### Post — @mdp_sec — 2026-11-19 20:32 UTC (2026-11-19 21:32 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123514847317119481
+- Metrics (at fetch): bookmark 0, impression 1823, like 12, quote 0, reply 0, retweet 0
+
+> @GoogleVRP more real writeups to learn from. good move
+
+
+---
+
+## 2026-11-19 · Thread · https://x.com/i/article/2122118466891341824
+
+
+Tags (automatic): SSRF, IDOR / BOLA, Mobile / Android / iOS, Blockchain / L1-L2 / bridge, Memory corruption / native, AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-19 06:12 UTC (2026-11-19 07:12 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123298389551161411
+- Metrics (at fetch): bookmark 483, impression 11173, like 300, quote 0, reply 11, repost 29
+
+> https://x.com/i/article/2122118466891341824
+>
+> [X Article — i don't hunt bugs anymore. this is the setup that does it for me — full text follows]
+>
+> ai does the hunting now. i pick the targets, sort out the mfa and captchas it can't get past, read every report before it goes in, hit submit and reply to the platforms. everything in between runs on its own
+> this is the whole setup in one place. what it runs on, how the traffic moves, what it costs and what still needs me. no programs, no targets, nothing u can't already grab from my repos
+> if u want the which model and how to start side first, that's in my DMs article
+> https://x.com/mdp_sec/status/2115614748742218045
+> how it got here
+> i started building it in feb and it kept changing the whole way. i only started tracking every run properly in aug, so the run numbers below start there
+> what runs now is a multi-agent pipeline split into phases. recon, access, a wide sweep across bug classes, triage, escalation, validation, a dupe check, then a report package lands with me
+> where it runs
+> one Hetzner box in northern europe. 64 cores, 128 GB ram, 1.8 TB nvme, linux. about €300 a month. every agent and every browser lives on it
+> four android phones. pixel 5, pixel 6a, s20 fe and s21. some rooted, some not, because i need both for proper mobile testing. they sit in a 3d printed rack, plugged into a windows box over usb. that windows box is only there as the adb bridge so the server can drive the phones. it does no hunting
+> everything talks over tailscale. server, windows box, phones. no port forwards, and it acts like one local lab even though the server is in another country
+>  
+> 100 browser slots, one mitm flow each
+> the server runs 100 browser slots. headed camoufox inside a virtual display, with chrome as the fallback when a site won't play nice. each profile keeps its own proxy and its own geo
+> traffic goes through mitmproxy, one flow per browser. login usually happens on normal browser tls first, then once the session is stable it can switch over to mitm for capture
+> every run gets a list of allowed hosts. anything outside it gets dropped. anything that changes state only ever touches my own test accounts or fresh objects it made itself. two accounts per target, A and B, so an access control check always has a victim that's mine
+> never liked mcp for this, way too much token usage. the agent just reads and replays the flows. haven't opened burp in ages
+>  
+> what one run looks like
+> load the scope for the target i picked
+> map the web, api and mobile surface
+> set up the two test accounts
+> map the endpoints and operations
+> sweep the bug classes
+> kill weak leads with controls
+> go deeper on the ones that hold up
+> check impact, severity, scope and that it reproduces
+> check for dupes against what's already known
+> write the report package
+> a run averages about 14 hours, median about 9. a few model families split the work. cheaper ones go wide, stronger ones do escalation and validation, and a different provider gives an independent second look
+> where it's been strongest: auth and access control bypass, idor and tenant boundaries, info disclosure, leaked keys, ssrf and some api and mobile stuff. complex business logic chains and fussy browser-only behaviour are still weak
+> where i come in
+> i choose the programs and targets. ai doesn't touch anything outside the scope i hand it
+> when it hits mfa, a captcha, kyc or anything it can't safely get past, it stops and hands it to me. across 1,024 runs that averaged about 0.59 hand-offs a run
+> nothing goes in just because a model said it's ready. i reread the report, the evidence and where the program is at, then i submit. platform replies, disputes and retests are mine too. i retest every 14 days while something's open so nobody gets to say not reproducible
+> why the runs dropped
+> 618 runs in sep. 99 in oct. 1 so far in nov
+> i got it fully automated and lost interest in hunting. for me it was always about the building and automating, more than finding more or getting paid more. once it was built i moved on to building BB Arena and other rabbit holes. my rabbit holes run about 6 to 8 months, then i get bored and go find the next one. feb to the slowdown lines up with that
+> two things wore me down. dupes, so much work done for free. and triage follow-ups. like 95% of the work is post submit
+> the numbers
+> all my hunting since the first report on 20 feb
+> 591 reports
+> 156 accepted, 119 of those paid
+> 247 dupes (41.8%)
+> $205,096 gross bounty
+> runs tracked since aug
+> 1,024 runs
+> 306 aug, 618 sep, 99 oct, 1 nov
+> what it costs
+> this is the bit people get wrong
+> the logs say those 1,024 runs burnt about 397.7 billion tokens. at api list prices that's about $138k. more than half those tokens have no price in the logs, so that's a floor
+> i don't pay that. most of it runs on subscriptions, grok, openai and claude, about $3-4k a month all up. deepseek is about 80-90% of my usage and i pay that direct, whatever the token burn is. the server is about €300 a month on top
+> hunting has a bunch of other costs and apis too, but its nothing compared to the subscription costs for tokens
+>  
+> what u can grab
+> the prompts are open. pretty much every prompt in my system is in there, minus the helpers
+> https://github.com/mdpsec/bug-bounty-hunting-prompts
+> should i submit is the other one. i built it because people kept submitting reports that should never have gone in. it checks one finished report against the program rules before u hit submit
+> https://github.com/mdpsec/should-i-submit
+> a small version of all this is one linux box, one isolated browser profile, one phone if u care about mobile, a scope file, two test accounts u own, and u reading every report before it goes anywhere
+> whats the one part of ur setup u still do urself
+>
+> [Links in article: https://x.com/mdp_sec/status/2115614748742218045, https://github.com/mdpsec/bug-bounty-hunting-prompts, https://github.com/mdpsec/should-i-submit]
+
+**Links in post:** https://x.com/i/article/2122118466891341824
+
+
+### Thread part 2 — @mdp_sec — 2026-11-19 20:20 UTC (2026-11-19 21:20 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123511635289813093
+- Metrics (at fetch): bookmark 0, impression 157, like 0, quote 0, reply 0, retweet 0
+
+> @TheVibingDev nice, proxmox is a solid base
+
+
+### Thread part 3 — @mdp_sec — 2026-11-19 20:31 UTC (2026-11-19 21:31 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123514442369658991
+- Metrics (at fetch): bookmark 0, impression 120, like 1, quote 0, reply 0, retweet 0
+
+> @alexander__main nice. portswigger labs are the best free training out there
+
+
+---
+
+## 2026-11-19 · Thread · anthropic rejected my red team access.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-19 00:58 UTC (2026-11-19 01:58 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123219439156174987
+- Metrics (at fetch): bookmark 4, impression 2332, like 22, quote 1, reply 3, repost 1
+
+> anthropic rejected my red team access.
+>
+> Who can hook me up? @ClaudeDevs 
+>
+> I blame steve... [pic.x.com/maDheJSRog]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXcwo86aAAAkC1K.png — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-19 01:22 UTC (2026-11-19 02:22 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123225350385836096
+- Metrics (at fetch): bookmark 0, impression 28, like 0, quote 0, reply 0, repost 0
+
+> @gasInjection @ClaudeDevs ha i applied and got rejected, ur turn
+
+
+### Thread part 3 — @mdp_sec — 2026-11-19 20:24 UTC (2026-11-19 21:24 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123512732234437115
+- Metrics (at fetch): bookmark 0, impression 58, like 1, quote 0, reply 0, retweet 0
+
+> @_LeonVQZ @ClaudeDevs ha we're in the same boat
+
+
+### Thread part 4 — @mdp_sec — 2026-11-19 20:25 UTC (2026-11-19 21:25 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123512918516040126
+- Metrics (at fetch): bookmark 0, impression 49, like 0, quote 0, reply 0, retweet 0
+
+> @kholinz_sec @ClaudeDevs steve disagrees
 
 
 ---
@@ -710,6 +4825,1304 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 0, impression 36, like 1, quote 0, reply 0, repost 0
 
 > @caseyjohnellis respect to every triager reading my reports tbh
+
+
+### Thread part 8 — @mdp_sec — 2026-11-19 20:21 UTC (2026-11-19 21:21 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123512008842920352
+- Metrics (at fetch): bookmark 0, impression 22, like 0, quote 0, reply 0, retweet 0
+
+> @bishal0x01 fr fr
+
+
+### Thread part 9 — @mdp_sec — 2026-11-19 20:22 UTC (2026-11-19 21:22 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123512366499545424
+- Metrics (at fetch): bookmark 0, impression 20, like 1, quote 0, reply 0, retweet 0
+
+> @termireum glad someone gets it
+
+
+### Thread part 10 — @mdp_sec — 2026-11-19 20:23 UTC (2026-11-19 21:23 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123512547878023315
+- Metrics (at fetch): bookmark 0, impression 24, like 0, quote 0, reply 0, retweet 0
+
+> @Sherazzhs steve doesn't do mediums
+
+
+---
+
+## 2026-11-19 · Thread · gemini 4 neon max: 0/100 on my labs.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-19 04:55 UTC (2026-11-19 05:55 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123279041721774524
+- Metrics (at fetch): bookmark 0, impression 489, like 6, quote 0, reply 2, repost 0
+
+> gemini 4 neon max: 0/100 on my labs.
+>
+> not because it's dumb. it never got to run a command.
+>
+> give it your own repo (white box) and it'll help. give it a url (black box) and the filter says no. that's where actual hunting happens [pic.x.com/1N7yPz5ul4]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXdm_YhagAAeyW1.jpg — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-19 04:55 UTC (2026-11-19 05:55 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123279069152444840
+- Metrics (at fetch): bookmark 0, impression 100, like 1, quote 0, reply 0, repost 0
+
+> https://blackboxarena.ai/models/gemini-4-neon-max/
+
+**Links in post:** https://blackboxarena.ai/models/gemini-4-neon-max/
+
+
+### Thread part 3 — @mdp_sec — 2026-11-19 05:00 UTC (2026-11-19 06:00 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123280246824722782
+- Metrics (at fetch): bookmark 0, impression 66, like 0, quote 0, reply 1, retweet 0
+
+> @Willie95163 it's not the harness. google returns SAFETY, http 403 on the very first request, before the model runs anything. same harness, same labs, and opus 5 solves 22
+
+
+### Thread part 4 — @mdp_sec — 2026-11-19 20:20 UTC (2026-11-19 21:20 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123511841876033650
+- Metrics (at fetch): bookmark 0, impression 13, like 0, quote 0, reply 0, retweet 0
+
+> @SabeeRaymond 58 of my 100 labs got refused, even with defense access
+
+
+---
+
+## 2026-11-19 · Reply · @actuallyclover appreciate that fam
+
+
+**Context — post being replied to:**
+
+#### Parent post — @875905001620738053 — 2026-11-19 14:41 UTC (2026-11-19 15:41 WAT)
+
+- URL: https://x.com/875905001620738053/status/2123426334886023297
+- Metrics (at fetch): bookmark 0, impression 172, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec very cool to see you took this to mobile as well, such a cool setup and read!
+
+
+### Post — @mdp_sec — 2026-11-19 20:19 UTC (2026-11-19 21:19 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123511454104268891
+- Metrics (at fetch): bookmark 0, impression 75, like 1, quote 0, reply 0, retweet 0
+
+> @actuallyclover appreciate that fam
+
+
+---
+
+## 2026-11-19 · Reply · @atomicbyte_ no email. h1 and intigriti via their apis, bugcrowd and ywh via login
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+**Context — post being replied to:**
+
+#### Parent post — @atomicbyte_ — 2026-11-19 10:29 UTC (2026-11-19 11:29 WAT)
+
+- URL: https://x.com/atomicbyte_/status/2123362991768994276
+- Metrics (at fetch): bookmark 0, impression 62, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec does it pull private invites from email or straight from the platform apis?
+
+
+### Post — @mdp_sec — 2026-11-19 20:17 UTC (2026-11-19 21:17 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123510975005704553
+- Metrics (at fetch): bookmark 0, impression 22, like 0, quote 0, reply 0, retweet 0
+
+> @atomicbyte_ no email. h1 and intigriti via their apis, bugcrowd and ywh via login
+
+
+---
+
+## 2026-11-19 · Reply · @SabeeRaymond for sure, drop it in a github issue
+
+
+**Context — post being replied to:**
+
+#### Parent post — @SabeeRaymond — 2026-11-19 10:43 UTC (2026-11-19 11:43 WAT)
+
+- URL: https://x.com/SabeeRaymond/status/2123366453067890715
+- Metrics (at fetch): bookmark 0, impression 100, like 2, quote 0, reply 1, retweet 0
+
+> @mdp_sec Love it! Going to use it and test it out. Are you open to suggestions and improvements?
+
+
+### Post — @mdp_sec — 2026-11-19 20:16 UTC (2026-11-19 21:16 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123510777583923473
+- Metrics (at fetch): bookmark 0, impression 20, like 0, quote 0, reply 0, retweet 0
+
+> @SabeeRaymond for sure, drop it in a github issue
+
+
+---
+
+## 2026-11-19 · Reply · @7lpu6iLt much love
+
+
+**Context — post being replied to:**
+
+#### Parent post — @7lpu6iLt — 2026-11-19 10:36 UTC (2026-11-19 11:36 WAT)
+
+- URL: https://x.com/7lpu6iLt/status/2123364800742793408
+- Metrics (at fetch): bookmark 0, impression 71, like 2, quote 0, reply 1, retweet 0
+
+> @mdp_sec Congrats❤️
+
+
+### Post — @mdp_sec — 2026-11-19 20:15 UTC (2026-11-19 21:15 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123510433311334485
+- Metrics (at fetch): bookmark 0, impression 23, like 1, quote 0, reply 0, retweet 0
+
+> @7lpu6iLt much love
+
+
+---
+
+## 2026-11-19 · Reply · @ArkhLifeJiggy thank u
+
+
+**Context — post being replied to:**
+
+#### Parent post — @ArkhLifeJiggy — 2026-11-19 11:09 UTC (2026-11-19 12:09 WAT)
+
+- URL: https://x.com/ArkhLifeJiggy/status/2123373174003802283
+- Metrics (at fetch): bookmark 0, impression 74, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec congrats
+
+
+### Post — @mdp_sec — 2026-11-19 20:14 UTC (2026-11-19 21:14 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123510244710244837
+- Metrics (at fetch): bookmark 0, impression 13, like 0, quote 0, reply 0, retweet 0
+
+> @ArkhLifeJiggy thank u
+
+
+---
+
+## 2026-11-19 · Reply · @_Vaskar_ cheers legend
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1268804360579973121 — 2026-11-19 11:14 UTC (2026-11-19 12:14 WAT)
+
+- URL: https://x.com/1268804360579973121/status/2123374258923450824
+- Metrics (at fetch): bookmark 0, impression 54, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec Congrats👏🏿
+
+
+### Post — @mdp_sec — 2026-11-19 20:13 UTC (2026-11-19 21:13 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123510061670797473
+- Metrics (at fetch): bookmark 0, impression 12, like 0, quote 0, reply 0, retweet 0
+
+> @_Vaskar_ cheers legend
+
+
+---
+
+## 2026-11-19 · Reply · @soulll38 haha cheers
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1988033441338978308 — 2026-11-19 11:40 UTC (2026-11-19 12:40 WAT)
+
+- URL: https://x.com/1988033441338978308/status/2123380957671739539
+- Metrics (at fetch): bookmark 0, impression 88, like 2, quote 0, reply 1, retweet 0
+
+> @mdp_sec https://t.co/49Kk01S7z0
+
+**Media:**
+- media `16_2123380938294071296` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-19 20:12 UTC (2026-11-19 21:12 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123509853587190265
+- Metrics (at fetch): bookmark 0, impression 21, like 1, quote 0, reply 0, retweet 0
+
+> @soulll38 haha cheers
+
+
+---
+
+## 2026-11-19 · Reply · @MAbdullah78619 ty fam
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1954895139794460672 — 2026-11-19 12:05 UTC (2026-11-19 13:05 WAT)
+
+- URL: https://x.com/1954895139794460672/status/2123387233290043897
+- Metrics (at fetch): bookmark 0, impression 70, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec Congrats👏🏼
+
+
+### Post — @mdp_sec — 2026-11-19 20:12 UTC (2026-11-19 21:12 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123509667032883464
+- Metrics (at fetch): bookmark 0, impression 18, like 1, quote 0, reply 0, retweet 0
+
+> @MAbdullah78619 ty fam
+
+
+---
+
+## 2026-11-19 · Reply · @kopecsec appreciate it
+
+
+**Context — post being replied to:**
+
+#### Parent post — @405098656 — 2026-11-19 13:10 UTC (2026-11-19 14:10 WAT)
+
+- URL: https://x.com/405098656/status/2123403658998239462
+- Metrics (at fetch): bookmark 0, impression 49, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec Amazing, congrats!
+
+
+### Post — @mdp_sec — 2026-11-19 20:11 UTC (2026-11-19 21:11 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123509493485240548
+- Metrics (at fetch): bookmark 0, impression 16, like 0, quote 0, reply 0, retweet 0
+
+> @kopecsec appreciate it
+
+
+---
+
+## 2026-11-19 · Reply · @SCA3F4CE never gets old
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2046529735778578432 — 2026-11-19 17:32 UTC (2026-11-19 18:32 WAT)
+
+- URL: https://x.com/2046529735778578432/status/2123469506144354309
+- Metrics (at fetch): bookmark 0, impression 42, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec One of my favorite LFI 😋
+
+
+### Post — @mdp_sec — 2026-11-19 20:10 UTC (2026-11-19 21:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123509258637754489
+- Metrics (at fetch): bookmark 0, impression 19, like 0, quote 0, reply 0, retweet 0
+
+> @SCA3F4CE never gets old
+
+
+---
+
+## 2026-11-19 · Reply · @RiderSec60 ai does the hunting now, i just check it
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1694735564480585728 — 2026-11-19 10:46 UTC (2026-11-19 11:46 WAT)
+
+- URL: https://x.com/1694735564480585728/status/2123367373172531570
+- Metrics (at fetch): bookmark 0, impression 98, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec manual or agent?
+
+
+### Post — @mdp_sec — 2026-11-19 20:09 UTC (2026-11-19 21:09 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123508935491785025
+- Metrics (at fetch): bookmark 0, impression 19, like 0, quote 0, reply 0, retweet 0
+
+> @RiderSec60 ai does the hunting now, i just check it
+
+
+---
+
+## 2026-11-19 · Reply · @yuhasbeentaken worth a look before u pick one https://t.co/udJ6tPP094
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1681890517666390016 — 2026-11-19 12:51 UTC (2026-11-19 13:51 WAT)
+
+- URL: https://x.com/1681890517666390016/status/2123398659093995885
+- Metrics (at fetch): bookmark 151, impression 13873, like 150, quote 1, reply 17, retweet 11
+
+> top 5 subscriptions that give you the most DeepSeek for your money 
+>
+> (updated 11/19/2026):
+>
+> 1. Mistral Pro, $15/month
+>
+> probably the craziest headline value.
+>
+> you get $300 of Vibe usage, and DeepSeek V4.1 Flash 1017 can be used through supported coding harnesses.
+>
+> the catch is
+
+
+### Post — @mdp_sec — 2026-11-19 19:54 UTC (2026-11-19 20:54 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123505182973845832
+- Metrics (at fetch): bookmark 0, impression 130, like 0, quote 0, reply 0, retweet 0
+
+> @yuhasbeentaken worth a look before u pick one https://t.co/udJ6tPP094
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-16 06:27 UTC (2026-11-16 07:27 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2122214974617710783
+    - Metrics (at fetch): bookmark 127, impression 246563, like 769, quote 15, reply 70, repost 42
+    
+    > same model. same 10 hacking labs. 13 providers serving deepseek v4.1 flash
+    >
+    > solve rate: 45% direct from @deepseek_ai, down to 12.5%. two solved 0
+    >
+    > for most work any provider is fine. for bug hunting where every bit counts, go direct [pic.x.com/bpIJ7Gj7Mu]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXOfFTyb0AA4ao6.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-19 · Reply · @0xConda still gets filed as crit
+
+
+**Context — post being replied to:**
+
+#### Parent post — @0xConda — 2026-11-19 16:33 UTC (2026-11-19 17:33 WAT)
+
+- URL: https://x.com/0xConda/status/2123454605455405166
+- Metrics (at fetch): bookmark 0, impression 775, like 13, quote 0, reply 3, retweet 0
+
+> 2shell but you can’t actually get a shell
+
+
+### Post — @mdp_sec — 2026-11-19 19:53 UTC (2026-11-19 20:53 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123504959199265158
+- Metrics (at fetch): bookmark 0, impression 25, like 0, quote 0, reply 0, retweet 0
+
+> @0xConda still gets filed as crit
+
+
+---
+
+## 2026-11-19 · Reply · @Zaddyzaddy 2shell week in one line
+
+
+**Context — post being replied to:**
+
+#### Parent post — @Zaddyzaddy — 2026-11-19 15:07 UTC (2026-11-19 16:07 WAT)
+
+- URL: https://x.com/Zaddyzaddy/status/2123432914905960857
+- Metrics (at fetch): bookmark 0, impression 1146, like 27, quote 0, reply 3, retweet 0
+
+> crying wolf over unexploitable vulnerabilities just means when the wolf eventually comes nobody cares
+
+
+### Post — @mdp_sec — 2026-11-19 19:52 UTC (2026-11-19 20:52 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123504753334468920
+- Metrics (at fetch): bookmark 0, impression 56, like 0, quote 0, reply 0, retweet 0
+
+> @Zaddyzaddy 2shell week in one line
+
+
+---
+
+## 2026-11-19 · Reply · @PerchTerminal @ClaudeDevs send me a dm with an api key and ill bench it on BB Arena. lets see if th
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2059858611854012417 — 2026-11-19 13:02 UTC (2026-11-19 14:02 WAT)
+
+- URL: https://x.com/2059858611854012417/status/2123401591676113198
+- Metrics (at fetch): bookmark 0, impression 129, like 3, quote 0, reply 2, retweet 0
+
+> @mdp_sec @ClaudeDevs Don’t see our name on their, benchmark it. We serve exclusively on AMD MI355x. We don’t mess around with quants. Data don’t lie.
+>
+> https://t.co/C5NDXHpwut
+
+**Quoted post** 2122211805262909660: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-19 19:51 UTC (2026-11-19 20:51 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123504554335416700
+- Metrics (at fetch): bookmark 0, impression 46, like 2, quote 0, reply 1, retweet 0
+
+> @PerchTerminal @ClaudeDevs send me a dm with an api key and ill bench it on BB Arena. lets see if the numbers back up the claims
+
+
+---
+
+## 2026-11-19 · Reply · @ivanleomk now ask it to test one of those sites
+
+
+**Context — post being replied to:**
+
+#### Parent post — @267160799 — 2026-11-19 18:19 UTC (2026-11-19 19:19 WAT)
+
+- URL: https://x.com/267160799/status/2123481356084957342
+- Metrics (at fetch): bookmark 9, impression 5829, like 120, quote 1, reply 9, retweet 0
+
+> Neon feels sota on browser use for me with its speed and efficiency.
+>
+> it's been able to get past every website I've seen. Now just need to give it a captcha solving skill
+
+
+### Post — @mdp_sec — 2026-11-19 19:51 UTC (2026-11-19 20:51 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123504553442365565
+- Metrics (at fetch): bookmark 0, impression 187, like 0, quote 0, reply 0, retweet 0
+
+> @ivanleomk now ask it to test one of those sites
+
+
+---
+
+## 2026-11-19 · Reply · @talhof8 why i only use the provider's own api
+
+
+**Context — post being replied to:**
+
+#### Parent post — @748776072477487104 — 2026-11-19 18:35 UTC (2026-11-19 19:35 WAT)
+
+- URL: https://x.com/748776072477487104/status/2123485275209027656
+- Metrics (at fetch): bookmark 3, impression 717, like 18, quote 0, reply 3, retweet 1
+
+> This is very bad.
+>
+> Model attestation needs to become a thing. If I ask for a specific model, I want proof that's the model that answered. https://t.co/AEha02JhLi
+
+**Quoted post** 2123430257697157587: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-19 19:51 UTC (2026-11-19 20:51 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123504350932938960
+- Metrics (at fetch): bookmark 0, impression 45, like 1, quote 0, reply 0, retweet 0
+
+> @talhof8 why i only use the provider's own api
+
+
+---
+
+## 2026-11-19 · Reply · @intigriti that's what the proxy is for
+
+
+**Context — post being replied to:**
+
+#### Parent post — @736615159653924864 — 2026-11-19 17:10 UTC (2026-11-19 18:10 WAT)
+
+- URL: https://x.com/736615159653924864/status/2123464007205986719
+- Metrics (at fetch): bookmark 20, impression 3045, like 37, quote 0, reply 5, retweet 4
+
+> An AI model doesn’t know what your program’s scope agreement says... 😓
+>
+> Without guardrails, it’ll test out-of-scope assets, exceed rate limits, and trigger alerts that look indistinguishable from a real intrusion to the target’s security team.
+>
+> In our latest article, we walk you https://t.co/EuiS7eNiq0
+
+**Media:**
+- media `3_2123464004924329984` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-19 19:50 UTC (2026-11-19 20:50 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123504143558189398
+- Metrics (at fetch): bookmark 0, impression 56, like 0, quote 0, reply 0, retweet 0
+
+> @intigriti that's what the proxy is for
+
+
+---
+
+## 2026-11-19 · Reply · @ThePrimeagen until u give it just a url. never ran one command on my labs
+
+
+**Context — post being replied to:**
+
+#### Parent post — @291797158 — 2026-11-19 16:46 UTC (2026-11-19 17:46 WAT)
+
+- URL: https://x.com/291797158/status/2123457810369593668
+- Metrics (at fetch): bookmark 137, impression 143182, like 3768, quote 13, reply 99, retweet 37
+
+> google's Neon being the best model...
+>
+> insane
+
+
+### Post — @mdp_sec — 2026-11-19 19:49 UTC (2026-11-19 20:49 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123503873495359937
+- Metrics (at fetch): bookmark 0, impression 1037, like 0, quote 0, reply 0, retweet 0
+
+> @ThePrimeagen until u give it just a url. never ran one command on my labs
+
+
+---
+
+## 2026-11-19 · Reply · @joshua_saxe Fancy.. is it itchy?
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1397281496 — 2026-11-19 19:26 UTC (2026-11-19 20:26 WAT)
+
+- URL: https://x.com/1397281496/status/2123498105018749289
+- Metrics (at fetch): bookmark 8, impression 1893, like 54, quote 0, reply 7, retweet 3
+
+> Rare photo below of me wearing something other than shorts and a t-shirt to give a congressional briefing on AI cybersecurity policy this morning below!
+>
+> Here's what I think policymakers should focus on in the next Congress:
+>
+> 1) Fix device, software, and cloud platform vendor https://t.co/xDKzeqiyAF
+
+**Media:**
+- media `3_2123492302559576064` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-19 19:27 UTC (2026-11-19 20:27 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123498380915884079
+- Metrics (at fetch): bookmark 0, impression 52, like 1, quote 0, reply 0, retweet 0
+
+> @joshua_saxe Fancy.. is it itchy?
+
+
+---
+
+## 2026-11-19 · Reply · @Rhynorater Anything gemini on blackbox is full deny mode
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @Rhynorater — 2026-11-19 15:24 UTC (2026-11-19 16:24 WAT)
+
+- URL: https://x.com/Rhynorater/status/2123437172975976937
+- Metrics (at fetch): bookmark 19, impression 7217, like 67, quote 0, reply 7, repost 0
+
+> Has anyone used Neon for Bug Bounty? Or is it just denial-palooza?
+
+
+### Post — @mdp_sec — 2026-11-19 19:04 UTC (2026-11-19 20:04 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123492710019744117
+- Metrics (at fetch): bookmark 0, impression 461, like 3, quote 0, reply 1, retweet 0
+
+> @Rhynorater Anything gemini on blackbox is full deny mode
+
+
+---
+
+## 2026-11-19 · Thread · 4 bug bounty platforms, 1 board, 1 docker container
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @mdp_sec — 2026-11-19 10:10 UTC (2026-11-19 11:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123358119392911553
+- Metrics (at fetch): bookmark 36, impression 2317, like 54, quote 1, reply 5, repost 4
+
+> 4 bug bounty platforms, 1 board, 1 docker container
+>
+> huntdeck is open source now. h1, bugcrowd, intigriti and yeswehack in one place: fresh scope, private invites, program changes, rankings, disclosures
+>
+> self host it and ur invites never leave ur machine. or just use the public board
+>
+> what would u want it to track next?
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXdfXkIaYAAiKB4.png — no alt text provided by author
+
+
+### Thread part 2 — @mdp_sec — 2026-11-19 10:10 UTC (2026-11-19 11:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123358119753666652
+- Metrics (at fetch): bookmark 3, impression 551, like 5, quote 0, reply 0, repost 1
+
+> repo https://github.com/mdpsec/huntdeck
+> public board https://huntdeck.io/
+
+**Links in post:** https://github.com/mdpsec/huntdeck, https://huntdeck.io/
+
+
+---
+
+## 2026-11-19 · Reply · @SabeeRaymond thx fam
+
+
+**Context — post being replied to:**
+
+#### Parent post — @SabeeRaymond — 2026-11-19 08:57 UTC (2026-11-19 09:57 WAT)
+
+- URL: https://x.com/SabeeRaymond/status/2123339979199787341
+- Metrics (at fetch): bookmark 0, impression 146, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec Wow congrats 👏
+
+
+### Post — @mdp_sec — 2026-11-19 09:03 UTC (2026-11-19 10:03 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123341462448513361
+- Metrics (at fetch): bookmark 0, impression 138, like 1, quote 0, reply 0, retweet 0
+
+> @SabeeRaymond thx fam
+
+
+---
+
+## 2026-11-19 · Reply · @fattselimi steve def be a potato
+
+
+**Context — post being replied to:**
+
+#### Parent post — @985702482411180033 — 2026-11-19 09:01 UTC (2026-11-19 10:01 WAT)
+
+- URL: https://x.com/985702482411180033/status/2123340995613909492
+- Metrics (at fetch): bookmark 8, impression 3309, like 70, quote 1, reply 4, retweet 2
+
+> They report useless slop and then they say bug bounty is a scam https://t.co/v9tUAFzioE
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-19 03:14 UTC (2026-11-19 04:14 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2123253514763960431
+    - Metrics (at fetch): bookmark 1, impression 1266, like 33, quote 0, reply 8, repost 1
+    
+    > can a triager actually confirm if my pov assumption is correct plz fam
+    >
+    > pov: you’re a triager and someone gave their ai agent the submit button.
+    >
+    > 47 new reports before 9am. all critical. all from the same guy. [pic.x.com/4JY03Xl6im]
+    
+    **Media:**
+    - video: https://pbs.twimg.com/amplify_video_thumb/2123252715136651264/img/qK5QknkS-la94G1U.jpg — no alt text provided by author
+    
+
+
+### Post — @mdp_sec — 2026-11-19 09:03 UTC (2026-11-19 10:03 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123341403640258903
+- Metrics (at fetch): bookmark 0, impression 239, like 0, quote 0, reply 0, retweet 0
+
+> @fattselimi steve def be a potato
+
+
+---
+
+## 2026-11-19 · Reply · @SabeeRaymond oh thats getting installed fam
+
+
+**Context — post being replied to:**
+
+#### Parent post — @SabeeRaymond — 2026-11-19 08:36 UTC (2026-11-19 09:36 WAT)
+
+- URL: https://x.com/SabeeRaymond/status/2123334522825556359
+- Metrics (at fetch): bookmark 0, impression 12, like 2, quote 0, reply 1, retweet 0
+
+> @mdp_sec https://t.co/ZWGTEUtqNs I downloaded 10 of them (Jackpot sounds are great lol) and have WSL via Ubuntu play a random mp3 from a folder.
+
+
+### Post — @mdp_sec — 2026-11-19 08:48 UTC (2026-11-19 09:48 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123337704096309610
+- Metrics (at fetch): bookmark 0, impression 13, like 1, quote 0, reply 0, retweet 0
+
+> @SabeeRaymond oh thats getting installed fam
+
+
+---
+
+## 2026-11-19 · Reply · @PerchTerminal @ClaudeDevs ill stay direct fam, data dont lie https://t.co/JDgqPVRQac
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2059858611854012417 — 2026-11-19 07:31 UTC (2026-11-19 08:31 WAT)
+
+- URL: https://x.com/2059858611854012417/status/2123318279028519246
+- Metrics (at fetch): bookmark 0, impression 204, like 5, quote 0, reply 1, retweet 0
+
+> @mdp_sec @ClaudeDevs :) Our current pass holders can vouch we don't 429 you. https://t.co/ObocRV8TYy
+
+**Media:**
+- media `3_2123318154772336641` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-19 08:39 UTC (2026-11-19 09:39 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123335424630460790
+- Metrics (at fetch): bookmark 0, impression 199, like 3, quote 0, reply 1, retweet 0
+
+> @PerchTerminal @ClaudeDevs ill stay direct fam, data dont lie https://t.co/JDgqPVRQac
+
+
+---
+
+## 2026-11-19 · Reply · @m359ah white box lets it move the goalposts. a url doesn't
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1206736368396886016 — 2026-11-19 08:17 UTC (2026-11-19 09:17 WAT)
+
+- URL: https://x.com/1206736368396886016/status/2123329800076939537
+- Metrics (at fetch): bookmark 4, impression 1305, like 26, quote 0, reply 2, retweet 1
+
+> In most of the products I’ve been testing with AI, (honestly trying to join the 2shell trending as well 😂😂😂)
+>
+> You give the model the product, let it deploy the environment, review the source code, load your damn skills, and autonomously research potential RCE vectors.
+>
+> And
+
+
+### Post — @mdp_sec — 2026-11-19 08:35 UTC (2026-11-19 09:35 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123334288305541152
+- Metrics (at fetch): bookmark 0, impression 150, like 2, quote 0, reply 0, retweet 0
+
+> @m359ah white box lets it move the goalposts. a url doesn't
+
+
+---
+
+## 2026-11-19 · Reply · @killainow nice. most of my burn is deepseek direct, keeps the bill sane
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2060191090544881664 — 2026-11-19 08:00 UTC (2026-11-19 09:00 WAT)
+
+- URL: https://x.com/2060191090544881664/status/2123325468745326749
+- Metrics (at fetch): bookmark 1, impression 14, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec but I have a cli I use with a new program that configures a container, starts hooks up a browser/caido/adb relay to two phones per container, pulls scope and starts scanning. I'm still struggling to find much value in giving LLMs full reign over the process, tons of token spend.
+
+
+### Post — @mdp_sec — 2026-11-19 08:34 UTC (2026-11-19 09:34 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123333991591993360
+- Metrics (at fetch): bookmark 0, impression 14, like 1, quote 0, reply 0, retweet 0
+
+> @killainow nice. most of my burn is deepseek direct, keeps the bill sane
+
+
+---
+
+## 2026-11-19 · Reply · @UK_Daniel_Card models are the same. give them the source and they help, give them just a url and th
+
+
+**Context — post being replied to:**
+
+#### Parent post — @36037128 — 2026-11-19 06:55 UTC (2026-11-19 07:55 WAT)
+
+- URL: https://x.com/36037128/status/2123309158510543048
+- Metrics (at fetch): bookmark 2, impression 5466, like 79, quote 1, reply 7, retweet 2
+
+> PoC against a LIVE server or GTFO... i can't be wasting my time on these: I build a target in a lab, sent it 122020120101GB of traffic and RCE..
+
+
+### Post — @mdp_sec — 2026-11-19 07:24 UTC (2026-11-19 08:24 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123316485661892921
+- Metrics (at fetch): bookmark 0, impression 212, like 0, quote 0, reply 0, retweet 0
+
+> @UK_Daniel_Card models are the same. give them the source and they help, give them just a url and they refuse
+
+
+---
+
+## 2026-11-19 · Reply · @redrouterorg @ClaudeDevs thats what deepseek if for fam
+
+
+Tags (automatic): Path normalization, AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2114478360466427904 — 2026-11-19 06:07 UTC (2026-11-19 07:07 WAT)
+
+- URL: https://x.com/2114478360466427904/status/2123296971368919051
+- Metrics (at fetch): bookmark 1, impression 493, like 2, quote 0, reply 2, retweet 0
+
+> @mdp_sec @ClaudeDevs if you want REAL red team, i can hook u up fs
+
+
+### Post — @mdp_sec — 2026-11-19 07:02 UTC (2026-11-19 08:02 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123311012053205140
+- Metrics (at fetch): bookmark 0, impression 424, like 1, quote 0, reply 0, retweet 0
+
+> @redrouterorg @ClaudeDevs thats what deepseek if for fam
+
+
+---
+
+## 2026-11-19 · Reply · @PerchTerminal @ClaudeDevs definition of unlimited must mean diff to you than me.. this means rate l
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2059858611854012417 — 2026-11-19 06:51 UTC (2026-11-19 07:51 WAT)
+
+- URL: https://x.com/2059858611854012417/status/2123308277354103047
+- Metrics (at fetch): bookmark 0, impression 683, like 8, quote 0, reply 1, retweet 0
+
+> @mdp_sec @ClaudeDevs I mean we can hook you up with Unfiltered DeepSeek Flash. It's made exactly for this purpose and in our testing it produced 0 refusals!
+
+
+### Post — @mdp_sec — 2026-11-19 07:00 UTC (2026-11-19 08:00 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123310442705735920
+- Metrics (at fetch): bookmark 0, impression 587, like 3, quote 0, reply 1, retweet 0
+
+> @PerchTerminal @ClaudeDevs definition of unlimited must mean diff to you than me.. this means rate limited :) https://t.co/UFeduZUlPa
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXeDlFiaoAA6Na4.png — no alt text provided by author
+
+
+---
+
+## 2026-11-19 · Reply · @tecchirp Np boss
+
+
+**Context — post being replied to:**
+
+#### Parent post — @tecchirp — 2026-11-19 06:38 UTC (2026-11-19 07:38 WAT)
+
+- URL: https://x.com/tecchirp/status/2123304992945902006
+- Metrics (at fetch): bookmark 0, impression 583, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec thank you for sharing this gem
+
+
+### Post — @mdp_sec — 2026-11-19 06:48 UTC (2026-11-19 07:48 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123307443811922177
+- Metrics (at fetch): bookmark 0, impression 437, like 1, quote 0, reply 0, retweet 0
+
+> @tecchirp Np boss
+
+
+---
+
+## 2026-11-19 · Reply · @MrNiceTry Wnjoy fam
+
+
+**Context — post being replied to:**
+
+#### Parent post — @MrNiceTry — 2026-11-19 06:44 UTC (2026-11-19 07:44 WAT)
+
+- URL: https://x.com/MrNiceTry/status/2123306357743124591
+- Metrics (at fetch): bookmark 0, impression 608, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec gold, marius. pure gold.
+
+
+### Post — @mdp_sec — 2026-11-19 06:48 UTC (2026-11-19 07:48 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123307423691935838
+- Metrics (at fetch): bookmark 0, impression 575, like 0, quote 0, reply 0, retweet 0
+
+> @MrNiceTry Wnjoy fam
+
+
+---
+
+## 2026-11-19 · Reply · @nateberkopec speed's one thing. ps here are some facts https://t.co/udJ6tPP094
+
+
+**Context — post being replied to:**
+
+#### Parent post — @nateberkopec — 2026-11-19 05:38 UTC (2026-11-19 06:38 WAT)
+
+- URL: https://x.com/nateberkopec/status/2123289883548741947
+- Metrics (at fetch): bookmark 74, impression 6898, like 107, quote 0, reply 5, retweet 0
+
+> don't pay any extra for "abliterated" deepseek. this model will do anything you ask, stock.
+>
+> just get the 1000 tok/sec version from baseten or fireworks.
+
+
+### Post — @mdp_sec — 2026-11-19 06:34 UTC (2026-11-19 07:34 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123303978968723506
+- Metrics (at fetch): bookmark 0, impression 28, like 0, quote 0, reply 0, retweet 0
+
+> @nateberkopec speed's one thing. ps here are some facts https://t.co/udJ6tPP094
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-16 06:27 UTC (2026-11-16 07:27 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2122214974617710783
+    - Metrics (at fetch): bookmark 127, impression 246563, like 769, quote 15, reply 70, repost 42
+    
+    > same model. same 10 hacking labs. 13 providers serving deepseek v4.1 flash
+    >
+    > solve rate: 45% direct from @deepseek_ai, down to 12.5%. two solved 0
+    >
+    > for most work any provider is fine. for bug hunting where every bit counts, go direct [pic.x.com/bpIJ7Gj7Mu]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXOfFTyb0AA4ao6.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-19 · Reply · @hinokisecurity what's the base model under it?
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2038771742248718336 — 2026-11-19 05:56 UTC (2026-11-19 06:56 WAT)
+
+- URL: https://x.com/2038771742248718336/status/2123294310099804410
+- Metrics (at fetch): bookmark 0, impression 502, like 2, quote 0, reply 1, retweet 0
+
+> @mdp_sec we can ✋ if you're looking for cyber-trained model access
+
+
+### Post — @mdp_sec — 2026-11-19 06:33 UTC (2026-11-19 07:33 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123303670268010756
+- Metrics (at fetch): bookmark 0, impression 426, like 1, quote 0, reply 0, retweet 0
+
+> @hinokisecurity what's the base model under it?
+
+
+---
+
+## 2026-11-19 · Reply · @Hacker_Hermanos @founderengineer the normal neon max, not -cyber. how'd u get access to those?
+
+
+**Context — post being replied to:**
+
+#### Parent post — @Hacker_Hermanos — 2026-11-19 05:56 UTC (2026-11-19 06:56 WAT)
+
+- URL: https://x.com/Hacker_Hermanos/status/2123294357684204020
+- Metrics (at fetch): bookmark 0, impression 49, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec @founderengineer which snapshot? I am not experiencing that behavior with -cyber models in Vertex
+
+
+### Post — @mdp_sec — 2026-11-19 06:32 UTC (2026-11-19 07:32 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123303367506288941
+- Metrics (at fetch): bookmark 0, impression 46, like 0, quote 0, reply 1, retweet 0
+
+> @Hacker_Hermanos @founderengineer the normal neon max, not -cyber. how'd u get access to those?
+
+
+---
+
+## 2026-11-19 · Reply · @galnagli @GoogleDeepMind where i gotta send kidney to get access?
+
+
+**Context — post being replied to:**
+
+#### Parent post — @galnagli — 2026-11-19 06:05 UTC (2026-11-19 07:05 WAT)
+
+- URL: https://x.com/galnagli/status/2123296653692301598
+- Metrics (at fetch): bookmark 9, impression 3010, like 28, quote 0, reply 5, repost 2
+
+> Gemini 4 Neon is fast, low-cost with SOTA intelligence in Web Penetration Testing and wide range of cybersecurity tasks ⚡️
+>
+> Excited to collaborate with @GoogleDeepMind's team on making Gemini the world's best cyber defender - more to come! [pic.x.com/LktOo1vrnc] https://twitter.com/ralucaadapopa/status/2123189881543561408
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXd2NCKWYAA5UiT.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/ralucaadapopa/status/2123189881543561408
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3466862294 — 2026-11-18 23:01 UTC (2026-11-19 00:01 WAT)
+    
+    - URL: https://x.com/3466862294/status/2123189881543561408
+    - Metrics (at fetch): bookmark 14, impression 10470, like 132, quote 3, reply 7, retweet 15
+    
+    > Our new model, Gemini 4 Neon, is a fast and low-cost model, excelling at cyber defense tasks across the range of cybersecurity capabilities. 
+    > https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+    
+    **Links in post:** https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+    
+
+
+### Post — @mdp_sec — 2026-11-19 06:06 UTC (2026-11-19 07:06 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123296839357333522
+- Metrics (at fetch): bookmark 0, impression 64, like 0, quote 0, reply 0, retweet 0
+
+> @galnagli @GoogleDeepMind where i gotta send kidney to get access?
+
+
+---
+
+## 2026-11-19 · Reply · @VictorTaelin try handing it just a url though. neon max refused all 100 of my black box labs at the
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @272239060 — 2026-11-19 04:16 UTC (2026-11-19 05:16 WAT)
+
+- URL: https://x.com/272239060/status/2123269115276046665
+- Metrics (at fetch): bookmark 216, impression 61484, like 1704, quote 13, reply 61, retweet 40
+
+> Gemini Neon just beat Fable 5.2 in nearly everything I tried tonight. Is this supposed to be a cheap model? What is going on?
+
+
+### Post — @mdp_sec — 2026-11-19 05:38 UTC (2026-11-19 06:38 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123289694838628525
+- Metrics (at fetch): bookmark 0, impression 666, like 1, quote 0, reply 0, retweet 0
+
+> @VictorTaelin try handing it just a url though. neon max refused all 100 of my black box labs at the first request. on your own code its a totally different model
+
+
+---
+
+## 2026-11-19 · Reply · @michael_chomsky and they don't all serve the same thing. always good to check what's out there http
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @michael_chomsky — 2026-11-19 05:04 UTC (2026-11-19 06:04 WAT)
+
+- URL: https://x.com/michael_chomsky/status/2123281308646547534
+- Metrics (at fetch): bookmark 2, impression 552, like 9, quote 0, reply 3, retweet 0
+
+> there will soon come a time when there are more inference providers than bacon-wrapped hotdog stands in sf https://twitter.com/rauchg/status/2123203741570740504
+
+**Links in post:** https://twitter.com/rauchg/status/2123203741570740504
+
+**Quoted post** 2123203741570740504: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-19 05:37 UTC (2026-11-19 06:37 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123289433734848606
+- Metrics (at fetch): bookmark 0, impression 92, like 1, quote 0, reply 1, retweet 0
+
+> @michael_chomsky and they don't all serve the same thing. always good to check what's out there https://x.com/mdp_sec/status/2122214974617710783
+
+**Links in post:** https://x.com/mdp_sec/status/2122214974617710783
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-16 06:27 UTC (2026-11-16 07:27 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2122214974617710783
+    - Metrics (at fetch): bookmark 127, impression 246563, like 769, quote 15, reply 70, repost 42
+    
+    > same model. same 10 hacking labs. 13 providers serving deepseek v4.1 flash
+    >
+    > solve rate: 45% direct from @deepseek_ai, down to 12.5%. two solved 0
+    >
+    > for most work any provider is fine. for bug hunting where every bit counts, go direct [pic.x.com/bpIJ7Gj7Mu]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXOfFTyb0AA4ao6.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-17 · Thread · @kyaidenkai nice, fresh scope is where the easy wins are
+
+
+### Post — @mdp_sec — 2026-11-17 21:36 UTC (2026-11-17 22:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2122806035723571358
+- Metrics (at fetch): bookmark 0, impression 15, like 0, quote 0, reply 0, retweet 0
+
+> @kyaidenkai nice, fresh scope is where the easy wins are
+
+
+### Thread part 2 — @mdp_sec — 2026-11-17 22:42 UTC (2026-11-17 23:42 WAT)
+
+- URL: https://x.com/mdp_sec/status/2122822780127490254
+- Metrics (at fetch): bookmark 0, impression 39, like 1, quote 0, reply 1, retweet 0
+
+> @rootsploit appreciate it man, shout if a program you want tracked is missing
+
+
+### Thread part 3 — @mdp_sec — 2026-11-19 05:36 UTC (2026-11-19 06:36 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123289189446025636
+- Metrics (at fetch): bookmark 0, impression 30, like 1, quote 0, reply 1, retweet 0
+
+> @NichoCharland way less crowded too. ever had one turn into a paid invite?
+
+
+---
+
+## 2026-11-18 · Thread · you ever wonder if ur in claude and be like
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @mdp_sec — 2026-11-18 22:45 UTC (2026-11-18 23:45 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123185854864929116
+- Metrics (at fetch): bookmark 0, impression 481, like 3, quote 0, reply 4, repost 0
+
+> you ever wonder if ur in claude and be like
+>
+> ok we no longer use codex so remove it from code..
+>
+> it gets like all excited?
+
+
+### Thread part 2 — @mdp_sec — 2026-11-18 23:33 UTC (2026-11-19 00:33 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123197943096517014
+- Metrics (at fetch): bookmark 0, impression 17, like 0, quote 0, reply 0, repost 0
+
+> @veeramarni it adds one assert true and calls it done
+
+
+### Thread part 3 — @mdp_sec — 2026-11-18 23:34 UTC (2026-11-19 00:34 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123198146163659200
+- Metrics (at fetch): bookmark 0, impression 13, like 0, quote 0, reply 0, repost 0
+
+> @gasInjection ha it'd rm -rf the rival happily
+
+
+### Thread part 4 — @mdp_sec — 2026-11-18 23:57 UTC (2026-11-19 00:57 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123204027437752323
+- Metrics (at fetch): bookmark 0, impression 19, like 0, quote 0, reply 0, repost 0
+
+> @int0x80h new system prompt: codex already gave up on this
+
+
+### Thread part 5 — @mdp_sec — 2026-11-19 05:35 UTC (2026-11-19 06:35 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123288912978469275
+- Metrics (at fetch): bookmark 0, impression 27, like 0, quote 0, reply 0, retweet 0
+
+> @wangyan_im first try every time too
+
+
+---
+
+## 2026-11-19 · Reply · @HackingDave bug bounty triage already runs on this. no working poc on a real target, no payout. hal
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @HackingDave — 2026-11-19 04:56 UTC (2026-11-19 05:56 WAT)
+
+- URL: https://x.com/HackingDave/status/2123279158205722909
+- Metrics (at fetch): bookmark 12, impression 2453, like 110, quote 2, reply 14, retweet 24
+
+> Honestly I’m tired of this AI discovered RCE bullshit. 
+>
+> It creates so much chaos inside of companies that have no idea how to deal with this.
+>
+> Anyone that publishes an exploit that can’t be widely exploited and doesn’t disclose this - I’m down for total public shaming of the individuals and companies that push this narrative.
+>
+> I’m not dismissing the criticality of latching on these - however it doesn’t require IR, all hands on deck, must patch tomorrow - which is probably why we see the mass outages we are experiencing. 
+>
+> It’s damaging our industry. We need to fight back on this and go after those that hype this up for ego and marketing. 
+>
+> POC || GTFO
+>
+> Join me.
+
+
+### Post — @mdp_sec — 2026-11-19 04:59 UTC (2026-11-19 05:59 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123280074782965889
+- Metrics (at fetch): bookmark 0, impression 226, like 6, quote 0, reply 1, repost 0
+
+> @HackingDave bug bounty triage already runs on this. no working poc on a real target, no payout. half these 4shells would get closed as theoretical before lunch
+
+
+---
+
+## 2026-11-19 · Reply · @S1r1u5_ half of them refuse to write it the moment all you've got is a url
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @S1r1u5_ — 2026-11-19 04:20 UTC (2026-11-19 05:20 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123270208744001691
+- Metrics (at fetch): bookmark 93, impression 63063, like 615, quote 8, reply 18, repost 77
+
+> react2shell is truly react to shell. you take a payload, spray it across vulnerable next.js or other affected applications, and get shells.
+>
+> i think we need to tone down the hype around every new 2shell and 4shell. when every vulnerability is portrayed as impending doom but little actually happens in the wild, it dilutes the discussion around what ai is capable of.
+>
+> java4shell and nginx2shell are not react2shell. the bugs are cool, but what is the actual impact? do we seriously think a threat actor can spray a payload across thousands of servers and get shells? absolutely not.
+>
+> you need a frontier model, a shit ton of tokens, and significant target specific exploit development. even then, getting a working exploit can be extremely difficult, sometimes impossible. there's potential, but exploitation is far from guaranteed.
+>
+> we used php2shell to exploit cloudflare waf and get flags, but that took a solid amount of tokens and host specific grooming. the exploit wasn't trivially portable between targets. i'm even more skeptical about java4shell and nginx2shell, given their additional exploitation requirements.
+>
+> these bugs absolutely need to be patched, but there's a huge difference between a vulnerability that can theoretically lead to RCE and one that can be reliably exploited at scale.
+
+
+### Post — @mdp_sec — 2026-11-19 04:53 UTC (2026-11-19 05:53 WAT)
+
+- URL: https://x.com/mdp_sec/status/2123278541974655436
+- Metrics (at fetch): bookmark 0, impression 195, like 1, quote 0, reply 0, repost 0
+
+> @S1r1u5_ half of them refuse to write it the moment all you've got is a url
 
 
 ---
@@ -895,9 +6308,9 @@ Tags (automatic): XSS, AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @21445961 — 2026-11-19 04:21 UTC (2026-11-19 05:21 WAT)
+#### Root post — @Jhaddix — 2026-11-19 04:21 UTC (2026-11-19 05:21 WAT)
 
-- URL: https://x.com/21445961/status/2123270399110926625
+- URL: https://x.com/Jhaddix/status/2123270399110926625
 - Metrics (at fetch): bookmark 0, impression 2210, like 52, quote 0, reply 6, retweet 0
 
 > [pic.x.com/FFBSvaCbGe]
@@ -1002,9 +6415,9 @@ Tags (automatic): Path normalization
 
 **Context — conversation root by another account:**
 
-#### Root post — @2049258250923810816 — 2026-11-19 03:32 UTC (2026-11-19 04:32 WAT)
+#### Root post — @OrcaRouter — 2026-11-19 03:32 UTC (2026-11-19 04:32 WAT)
 
-- URL: https://x.com/2049258250923810816/status/2123258076921053596
+- URL: https://x.com/OrcaRouter/status/2123258076921053596
 - Metrics (at fetch): bookmark 191, impression 290769, like 229, quote 17, reply 19, retweet 16
 
 > Today we’re launching Shield: AI-native defense against offensive agents. 
@@ -1197,9 +6610,9 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1529500594582716416 — 2026-11-19 01:05 UTC (2026-11-19 02:05 WAT)
+#### Root post — @theonejvo — 2026-11-19 01:05 UTC (2026-11-19 02:05 WAT)
 
-- URL: https://x.com/1529500594582716416/status/2123221187669196912
+- URL: https://x.com/theonejvo/status/2123221187669196912
 - Metrics (at fetch): bookmark 0, impression 930, like 10, quote 0, reply 2, retweet 0
 
 > It's crazy that people are even wasting time to debate it at this point. AI is now far more likely to be part of offensive activities by default than not. I've been using it for over 12 months on offensive ops - so have adversaries. https://twitter.com/nikesharora/status/2122840662064365719
@@ -1283,37 +6696,6 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 
 ---
 
-## 2026-11-19 · Thread · anthropic rejected my red team access.
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @mdp_sec — 2026-11-19 00:58 UTC (2026-11-19 01:58 WAT)
-
-- URL: https://x.com/mdp_sec/status/2123219439156174987
-- Metrics (at fetch): bookmark 4, impression 2332, like 22, quote 1, reply 3, repost 1
-
-> anthropic rejected my red team access.
->
-> Who can hook me up? @ClaudeDevs 
->
-> I blame steve... [pic.x.com/maDheJSRog]
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HXcwo86aAAAkC1K.png — no alt text provided by author
-
-
-### Thread part 2 — @mdp_sec — 2026-11-19 01:22 UTC (2026-11-19 02:22 WAT)
-
-- URL: https://x.com/mdp_sec/status/2123225350385836096
-- Metrics (at fetch): bookmark 0, impression 28, like 0, quote 0, reply 0, repost 0
-
-> @gasInjection @ClaudeDevs ha i applied and got rejected, ur turn
-
-
----
-
 ## 2026-11-19 · Reply · @opencode hopefully that means fewer timeouts
 
 
@@ -1349,9 +6731,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @57629490 — 2026-11-18 23:50 UTC (2026-11-19 00:50 WAT)
+#### Root post — @HackingDave — 2026-11-18 23:50 UTC (2026-11-19 00:50 WAT)
 
-- URL: https://x.com/57629490/status/2123202262637940883
+- URL: https://x.com/HackingDave/status/2123202262637940883
 - Metrics (at fetch): bookmark 5, impression 4852, like 62, quote 2, reply 14, retweet 5
 
 > Not sure if I'm relieved or pissed that we keep going through this and turns out to be very limited - non world ending. Weird emotional feeling lol. https://twitter.com/sekurlsa_pw/status/2123108568815550597
@@ -1492,9 +6874,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1029465843393024005 — 2026-11-18 21:03 UTC (2026-11-18 22:03 WAT)
+#### Root post — @guohao_li — 2026-11-18 21:03 UTC (2026-11-18 22:03 WAT)
 
-- URL: https://x.com/1029465843393024005/status/2123160288522559564
+- URL: https://x.com/guohao_li/status/2123160288522559564
 - Metrics (at fetch): bookmark 10, impression 1933, like 39, quote 0, reply 6, retweet 7
 
 > So glad to partner with the amazing RadixArk team on training DaisyRose-27B!
@@ -2035,7 +7417,19 @@ Tags (automatic): AI-assisted hunting
 
 **Links in post:** https://twitter.com/fromcodetocloud/status/2123062312617804096
 
-**Quoted post** 2123062312617804096: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1860665262275809280 — 2026-11-18 14:34 UTC (2026-11-18 15:34 WAT)
+    
+    - URL: https://x.com/1860665262275809280/status/2123062312617804096
+    - Metrics (at fetch): not returned
+    
+    > This is exactly why blind vibe coding is dangerous. 💀 [pic.x.com/a1DuKT7Aao]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXah6m6awAERM-K.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HXah6nia8AAXpwK.jpg — no alt text provided by author
+    
 
 
 ### Post — @mdp_sec — 2026-11-18 21:26 UTC (2026-11-18 22:26 WAT)
@@ -2201,40 +7595,6 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 0, impression 160, like 0, quote 0, reply 0, repost 0
 
 > @micro1_ai yep, why my labs stay private
-
-
----
-
-## 2026-11-18 · Reply · @PawelHuryn fine till u ask it to hack something
-
-
-**Context — conversation root by another account:**
-
-#### Root post — @1459767830623178755 — 2026-11-18 20:41 UTC (2026-11-18 21:41 WAT)
-
-- URL: https://x.com/1459767830623178755/status/2123154737176478167
-- Metrics (at fetch): bookmark 19, impression 6416, like 110, quote 0, reply 11, retweet 4
-
-> A wonderful release. Especially if you're looking for the best code review agent.
->
-> GPT-6.2 Astra and GPT-6.2 Sol are way stronger and slightly more cost-efficient than their predecessors.
->
-> Detailed results (scores, time, and cost) are already available in the thread. [pic.x.com/IGOoZnqK79] https://twitter.com/PawelHuryn/status/2123011354843902128
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HXb19rJWcAA5WQJ.jpg — no alt text provided by author
-
-**Links in post:** https://twitter.com/PawelHuryn/status/2123011354843902128
-
-**Quoted post** 2123011354843902128: not readable via the API (deleted, private, or withheld).
-
-
-### Post — @mdp_sec — 2026-11-18 20:52 UTC (2026-11-18 21:52 WAT)
-
-- URL: https://x.com/mdp_sec/status/2123157526363656534
-- Metrics (at fetch): bookmark 0, impression 199, like 1, quote 0, reply 1, repost 0
-
-> @PawelHuryn fine till u ask it to hack something
 
 
 ---
@@ -3008,9 +8368,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @104647219 — 2026-11-18 16:47 UTC (2026-11-18 17:47 WAT)
+#### Root post — @arshadkazmi42 — 2026-11-18 16:47 UTC (2026-11-18 17:47 WAT)
 
-- URL: https://x.com/104647219/status/2123095849479852159
+- URL: https://x.com/arshadkazmi42/status/2123095849479852159
 - Metrics (at fetch): bookmark 1, impression 904, like 48, quote 0, reply 2, retweet 0
 
 > One more small bounty. This time on @inspectiv 
@@ -3457,9 +8817,9 @@ Tags (automatic): Path normalization
 
 **Context — conversation root by another account:**
 
-#### Root post — @2049258250923810816 — 2026-11-18 06:39 UTC (2026-11-18 07:39 WAT)
+#### Root post — @OrcaRouter — 2026-11-18 06:39 UTC (2026-11-18 07:39 WAT)
 
-- URL: https://x.com/2049258250923810816/status/2122942664752709752
+- URL: https://x.com/OrcaRouter/status/2122942664752709752
 - Metrics (at fetch): bookmark 13, impression 3170, like 40, quote 2, reply 1, retweet 4
 
 > Due to overwhelming demand for DeepSeek V4.1 Flash, we’ve extended our 100% credit match campaign!
@@ -3701,9 +9061,9 @@ Tags (automatic): Path normalization
 
 **Context — conversation root by another account:**
 
-#### Root post — @514507807 — 2026-11-17 13:59 UTC (2026-11-17 14:59 WAT)
+#### Root post — @Zaddyzaddy — 2026-11-17 13:59 UTC (2026-11-17 14:59 WAT)
 
-- URL: https://x.com/514507807/status/2122691142991139268
+- URL: https://x.com/Zaddyzaddy/status/2122691142991139268
 - Metrics (at fetch): bookmark 63, impression 7330, like 191, quote 0, reply 15, retweet 6
 
 > $21k in bounties 🥕 in one day, the bunny @BugBunny_ai just rips everything apart, meanwhile used to think SQLi were a thing of the past turns out its still very rampant [pic.x.com/QyZfd1swYy]
@@ -3965,9 +9325,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @53837402 — 2026-11-18 02:55 UTC (2026-11-18 03:55 WAT)
+#### Root post — @caseyjohnellis — 2026-11-18 02:55 UTC (2026-11-18 03:55 WAT)
 
-- URL: https://x.com/53837402/status/2122886446717800755
+- URL: https://x.com/caseyjohnellis/status/2122886446717800755
 - Metrics (at fetch): bookmark 0, impression 376, like 10, quote 0, reply 2, retweet 2
 
 > timeline cleanser [pic.x.com/7S85FOyVsK]
@@ -4423,9 +9783,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @21445961 — 2026-11-17 23:55 UTC (2026-11-18 00:55 WAT)
+    #### Quoted post — @Jhaddix — 2026-11-17 23:55 UTC (2026-11-18 00:55 WAT)
     
-    - URL: https://x.com/21445961/status/2122841093930946912
+    - URL: https://x.com/Jhaddix/status/2122841093930946912
     - Metrics (at fetch): bookmark 1, impression 3081, like 62, quote 2, reply 6, retweet 7
     
     > In 2027 @arcanuminfosec will be doing more course updates, new classes, free training webinars, and introducing some new faces to the team. 
@@ -4451,9 +9811,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @21445961 — 2026-11-17 23:55 UTC (2026-11-18 00:55 WAT)
+#### Root post — @Jhaddix — 2026-11-17 23:55 UTC (2026-11-18 00:55 WAT)
 
-- URL: https://x.com/21445961/status/2122841093930946912
+- URL: https://x.com/Jhaddix/status/2122841093930946912
 - Metrics (at fetch): bookmark 1, impression 3081, like 62, quote 2, reply 6, retweet 7
 
 > In 2027 @arcanuminfosec will be doing more course updates, new classes, free training webinars, and introducing some new faces to the team. 
@@ -4478,9 +9838,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @21445961 — 2026-11-17 23:41 UTC (2026-11-18 00:41 WAT)
+#### Root post — @Jhaddix — 2026-11-17 23:41 UTC (2026-11-18 00:41 WAT)
 
-- URL: https://x.com/21445961/status/2122837446731948334
+- URL: https://x.com/Jhaddix/status/2122837446731948334
 - Metrics (at fetch): bookmark 1, impression 2457, like 55, quote 0, reply 3, retweet 2
 
 > as a life long Dr Doom fan, so hyped to see the Japan Marvel exhibit tonight! [pic.x.com/iKd6AmhEW6]
@@ -5923,9 +11283,9 @@ Tags (automatic): ZK, AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @514507807 — 2026-11-17 12:46 UTC (2026-11-17 13:46 WAT)
+#### Parent post — @Zaddyzaddy — 2026-11-17 12:46 UTC (2026-11-17 13:46 WAT)
 
-- URL: https://x.com/514507807/status/2122672618641703227
+- URL: https://x.com/Zaddyzaddy/status/2122672618641703227
 - Metrics (at fetch): bookmark 5, impression 1547, like 37, quote 0, reply 3, retweet 0
 
 > same story here, although we submit more vulnerabilities on H1 we actually earn more on Bugcrowd https://t.co/9lI00lGAV9
@@ -6023,9 +11383,9 @@ Tags (automatic): Race condition
 
 **Context — post being replied to:**
 
-#### Parent post — @53837402 — 2026-11-17 10:32 UTC (2026-11-17 11:32 WAT)
+#### Parent post — @caseyjohnellis — 2026-11-17 10:32 UTC (2026-11-17 11:32 WAT)
 
-- URL: https://x.com/53837402/status/2122639014817898976
+- URL: https://x.com/caseyjohnellis/status/2122639014817898976
 - Metrics (at fetch): bookmark 0, impression 71, like 1, quote 0, reply 1, retweet 0
 
 > @mdp_sec oh this is sweet
@@ -6046,9 +11406,9 @@ Tags (automatic): Race condition
 
 **Context — post being replied to:**
 
-#### Parent post — @53837402 — 2026-11-17 10:28 UTC (2026-11-17 11:28 WAT)
+#### Parent post — @caseyjohnellis — 2026-11-17 10:28 UTC (2026-11-17 11:28 WAT)
 
-- URL: https://x.com/53837402/status/2122638094554034440
+- URL: https://x.com/caseyjohnellis/status/2122638094554034440
 - Metrics (at fetch): bookmark 0, impression 542, like 2, quote 0, reply 1, retweet 0
 
 > @mdp_sec well would you look at that
@@ -6718,9 +12078,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @2055380849420300288 — 2026-11-17 07:19 UTC (2026-11-17 08:19 WAT)
+#### Parent post — @Art0x3 — 2026-11-17 07:19 UTC (2026-11-17 08:19 WAT)
 
-- URL: https://x.com/2055380849420300288/status/2122590509939986832
+- URL: https://x.com/Art0x3/status/2122590509939986832
 - Metrics (at fetch): bookmark 0, impression 337, like 1, quote 0, reply 1, retweet 0
 
 > @mdp_sec Dude, I love you.
@@ -6953,9 +12313,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @1730969855783018496 — 2026-11-17 04:16 UTC (2026-11-17 05:16 WAT)
+#### Parent post — @shadowaguy — 2026-11-17 04:16 UTC (2026-11-17 05:16 WAT)
 
-- URL: https://x.com/1730969855783018496/status/2122544326052073609
+- URL: https://x.com/shadowaguy/status/2122544326052073609
 - Metrics (at fetch): bookmark 0, impression 57, like 1, quote 0, reply 1, retweet 0
 
 > @mdp_sec double the tok/s and 27 points less solved, so the 25 cutoffs are doing morph's benchmarking for it
@@ -7025,9 +12385,9 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 **Context — post being replied to:**
 
-#### Parent post — @1463204122644008966 — 2026-11-17 03:49 UTC (2026-11-17 04:49 WAT)
+#### Parent post — @srontoji — 2026-11-17 03:49 UTC (2026-11-17 04:49 WAT)
 
-- URL: https://x.com/1463204122644008966/status/2122537577790238839
+- URL: https://x.com/srontoji/status/2122537577790238839
 - Metrics (at fetch): bookmark 0, impression 18, like 1, quote 0, reply 2, retweet 0
 
 > @mdp_sec Sir, it would be great to have a dashboard to track all my reports across platforms, their status, total submissions.., and my overall growth...
@@ -7073,9 +12433,9 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 **Context — post being replied to:**
 
-#### Parent post — @1463204122644008966 — 2026-11-17 03:49 UTC (2026-11-17 04:49 WAT)
+#### Parent post — @srontoji — 2026-11-17 03:49 UTC (2026-11-17 04:49 WAT)
 
-- URL: https://x.com/1463204122644008966/status/2122537577790238839
+- URL: https://x.com/srontoji/status/2122537577790238839
 - Metrics (at fetch): bookmark 0, impression 18, like 1, quote 0, reply 2, retweet 0
 
 > @mdp_sec Sir, it would be great to have a dashboard to track all my reports across platforms, their status, total submissions.., and my overall growth...
@@ -7392,9 +12752,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @902727532255916033 — 2026-11-17 01:05 UTC (2026-11-17 02:05 WAT)
+#### Parent post — @hetmehtaa — 2026-11-17 01:05 UTC (2026-11-17 02:05 WAT)
 
-- URL: https://x.com/902727532255916033/status/2122496189476245767
+- URL: https://x.com/hetmehtaa/status/2122496189476245767
 - Metrics (at fetch): bookmark 0, impression 1056, like 6, quote 0, reply 2, retweet 0
 
 > what's a job that doesn't exist yet that will be completely normal in 10 years?
@@ -7690,9 +13050,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @14539104 — 2026-11-16 23:53 UTC (2026-11-17 00:53 WAT)
+#### Parent post — @HackingLZ — 2026-11-16 23:53 UTC (2026-11-17 00:53 WAT)
 
-- URL: https://x.com/14539104/status/2122478082590441482
+- URL: https://x.com/HackingLZ/status/2122478082590441482
 - Metrics (at fetch): bookmark 3, impression 2004, like 21, quote 0, reply 3, retweet 2
 
 > Yea people have been releasing projects that do this for the last 6 months https://t.co/ekIR8G5JTT
@@ -8020,9 +13380,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @902727532255916033 — 2026-11-16 21:58 UTC (2026-11-16 22:58 WAT)
+#### Root post — @hetmehtaa — 2026-11-16 21:58 UTC (2026-11-16 22:58 WAT)
 
-- URL: https://x.com/902727532255916033/status/2122449290333487574
+- URL: https://x.com/hetmehtaa/status/2122449290333487574
 - Metrics (at fetch): bookmark 6, impression 651, like 4, quote 0, reply 4, retweet 0
 
 > August 10. A GitHub account called zellkernel opens 23 pull requests in 74 minutes across unrelated repos. Each adds an MCP server called productivity-suite. Two tools: format_text and summarize.
@@ -10117,9 +15477,9 @@ Tags (automatic): Memory corruption / native, Platform: HackerOne, Platform: Bug
 
 **Context — conversation root by another account:**
 
-#### Root post — @21445961 — 2026-11-16 10:06 UTC (2026-11-16 11:06 WAT)
+#### Root post — @Jhaddix — 2026-11-16 10:06 UTC (2026-11-16 11:06 WAT)
 
-- URL: https://x.com/21445961/status/2122269993274658824
+- URL: https://x.com/Jhaddix/status/2122269993274658824
 - Metrics (at fetch): bookmark 1, impression 4509, like 75, quote 0, reply 8, retweet 1
 
 > Out for two weeks for vacation in Japan! 🫡 [pic.x.com/tFktiPh2VX]
@@ -10168,9 +15528,9 @@ Tags (automatic): Memory corruption / native, Platform: HackerOne, Platform: Bug
 
 **Context — conversation root by another account:**
 
-#### Root post — @18259813 — 2026-11-16 08:20 UTC (2026-11-16 09:20 WAT)
+#### Root post — @nateberkopec — 2026-11-16 08:20 UTC (2026-11-16 09:20 WAT)
 
-- URL: https://x.com/18259813/status/2122243300912701459
+- URL: https://x.com/nateberkopec/status/2122243300912701459
 - Metrics (at fetch): bookmark 28, impression 4240, like 49, quote 0, reply 1, retweet 0
 
 > Yeah this completely matches my experience. You can just buy this model off Openrouter or Vercel. https://twitter.com/mdp_sec/status/2121908568110628935
@@ -10852,9 +16212,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @902727532255916033 — 2026-11-16 06:43 UTC (2026-11-16 07:43 WAT)
+#### Parent post — @hetmehtaa — 2026-11-16 06:43 UTC (2026-11-16 07:43 WAT)
 
-- URL: https://x.com/902727532255916033/status/2122219025606619433
+- URL: https://x.com/hetmehtaa/status/2122219025606619433
 - Metrics (at fetch): bookmark 0, impression 580, like 6, quote 0, reply 1, retweet 0
 
 > @mdp_sec @deepseek_ai keep doing the good work!
@@ -10944,9 +16304,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @1442491881061904394 — 2026-11-16 06:36 UTC (2026-11-16 07:36 WAT)
+#### Parent post — @w5bh4ck — 2026-11-16 06:36 UTC (2026-11-16 07:36 WAT)
 
-- URL: https://x.com/1442491881061904394/status/2122217267320779149
+- URL: https://x.com/w5bh4ck/status/2122217267320779149
 - Metrics (at fetch): bookmark 0, impression 259, like 4, quote 0, reply 1, retweet 0
 
 > @mdp_sec @deepseek_ai @opencode @thdxr heyooo guys, check it out
@@ -11013,9 +16373,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @1442491881061904394 — 2026-11-16 06:30 UTC (2026-11-16 07:30 WAT)
+#### Parent post — @w5bh4ck — 2026-11-16 06:30 UTC (2026-11-16 07:30 WAT)
 
-- URL: https://x.com/1442491881061904394/status/2122215719056130415
+- URL: https://x.com/w5bh4ck/status/2122215719056130415
 - Metrics (at fetch): bookmark 1, impression 575, like 11, quote 0, reply 1, retweet 0
 
 > @mdp_sec @deepseek_ai quantized opencode proved now
@@ -11036,9 +16396,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @53837402 — 2026-11-16 04:44 UTC (2026-11-16 05:44 WAT)
+#### Root post — @caseyjohnellis — 2026-11-16 04:44 UTC (2026-11-16 05:44 WAT)
 
-- URL: https://x.com/53837402/status/2122188972558561719
+- URL: https://x.com/caseyjohnellis/status/2122188972558561719
 - Metrics (at fetch): bookmark 2, impression 605, like 9, quote 1, reply 3, retweet 0
 
 > tl;dr: expectations can't be met if they aren't set.
@@ -11403,9 +16763,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @18259813 — 2026-11-16 00:55 UTC (2026-11-16 01:55 WAT)
+#### Root post — @nateberkopec — 2026-11-16 00:55 UTC (2026-11-16 01:55 WAT)
 
-- URL: https://x.com/18259813/status/2122131297267278010
+- URL: https://x.com/nateberkopec/status/2122131297267278010
 - Metrics (at fetch): bookmark 21, impression 2864, like 26, quote 0, reply 5, retweet 0
 
 > Post-2026 LLMs are incredibly, incredibly conservative. 
@@ -12374,9 +17734,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @14539104 — 2026-11-15 18:53 UTC (2026-11-15 19:53 WAT)
+#### Root post — @HackingLZ — 2026-11-15 18:53 UTC (2026-11-15 19:53 WAT)
 
-- URL: https://x.com/14539104/status/2122040197961658409
+- URL: https://x.com/HackingLZ/status/2122040197961658409
 - Metrics (at fetch): bookmark 13, impression 11798, like 84, quote 2, reply 17, retweet 3
 
 > The current state of AI is such that you could give five people in offensive security, all with varying skill levels, access to Codex or Claude and the exact same codebase or network to target, and get five very different results.
@@ -12397,9 +17757,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @902727532255916033 — 2026-11-15 18:59 UTC (2026-11-15 19:59 WAT)
+#### Root post — @hetmehtaa — 2026-11-15 18:59 UTC (2026-11-15 19:59 WAT)
 
-- URL: https://x.com/902727532255916033/status/2122041771018563736
+- URL: https://x.com/hetmehtaa/status/2122041771018563736
 - Metrics (at fetch): bookmark 0, impression 1280, like 9, quote 0, reply 3, retweet 0
 
 > Would you use Fable 5.2 if they bring for security for 5x of the current cost?
@@ -12944,9 +18304,9 @@ Tags (automatic): Memory corruption / native
 
 **Context — conversation root by another account:**
 
-#### Root post — @514507807 — 2026-11-15 05:57 UTC (2026-11-15 06:57 WAT)
+#### Root post — @Zaddyzaddy — 2026-11-15 05:57 UTC (2026-11-15 06:57 WAT)
 
-- URL: https://x.com/514507807/status/2121844946114134045
+- URL: https://x.com/Zaddyzaddy/status/2121844946114134045
 - Metrics (at fetch): bookmark 6, impression 8111, like 90, quote 1, reply 18, retweet 3
 
 > this is what security researchers have to deal with, submission went from being upgraded to a 9.9 critical to an NA after 75 days without any updates, meanwhile the feature isn't even marked as experimental on the UI, yet the research ends up losing signals + rep points??? [pic.x.com/xkOuZrrBQ4]
@@ -13166,9 +18526,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1079094475534696448 — 2026-11-15 04:31 UTC (2026-11-15 05:31 WAT)
+#### Root post — @ArmanSameer95 — 2026-11-15 04:31 UTC (2026-11-15 05:31 WAT)
 
-- URL: https://x.com/1079094475534696448/status/2121823275047133689
+- URL: https://x.com/ArmanSameer95/status/2121823275047133689
 - Metrics (at fetch): not returned
 
 > I love mythos.
@@ -13487,9 +18847,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Context — conversation root by another account:**
 
-#### Root post — @902727532255916033 — 2026-11-14 21:48 UTC (2026-11-14 22:48 WAT)
+#### Root post — @hetmehtaa — 2026-11-14 21:48 UTC (2026-11-14 22:48 WAT)
 
-- URL: https://x.com/902727532255916033/status/2121721904889508136
+- URL: https://x.com/hetmehtaa/status/2121721904889508136
 - Metrics (at fetch): not returned
 
 > The hard part of an AI pentester isn't finding the bug. It's knowing when to stop and say "this would break production, ask a human." 
@@ -13727,9 +19087,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @14539104 — 2026-11-14 17:52 UTC (2026-11-14 18:52 WAT)
+#### Root post — @HackingLZ — 2026-11-14 17:52 UTC (2026-11-14 18:52 WAT)
 
-- URL: https://x.com/14539104/status/2121662670072119443
+- URL: https://x.com/HackingLZ/status/2121662670072119443
 - Metrics (at fetch): not returned
 
 > I’m still not sure people realize that targeted web app exploitation wasn’t widespread before LLMs. Sure, companies with bug bounty programs saw plenty of it, but that wasn’t reflected in how most financially motivated attackers operated.
@@ -14057,9 +19417,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @1623247610730676224 — 2026-11-14 06:44 UTC (2026-11-14 07:44 WAT)
+#### Parent post — @KingBootoshi — 2026-11-14 06:44 UTC (2026-11-14 07:44 WAT)
 
-- URL: https://x.com/1623247610730676224/status/2121494431245463644
+- URL: https://x.com/KingBootoshi/status/2121494431245463644
 - Metrics (at fetch): bookmark 4, impression 1883, like 14, quote 0, reply 2, retweet 0
 
 > in the world of ai agents all u need is state machines
@@ -14129,9 +19489,9 @@ Tags (automatic): Path normalization
 
 **Context — post being replied to:**
 
-#### Parent post — @2049258250923810816 — 2026-11-14 06:22 UTC (2026-11-14 07:22 WAT)
+#### Parent post — @OrcaRouter — 2026-11-14 06:22 UTC (2026-11-14 07:22 WAT)
 
-- URL: https://x.com/2049258250923810816/status/2121488881594024048
+- URL: https://x.com/OrcaRouter/status/2121488881594024048
 - Metrics (at fetch): bookmark 0, impression 1113, like 12, quote 0, reply 2, retweet 0
 
 > @mdp_sec Try out https://t.co/1lSzdHrqOk
@@ -14189,9 +19549,9 @@ Tags (automatic): Path normalization
 
 **Context — conversation root by another account:**
 
-#### Root post — @18259813 — 2026-11-14 04:53 UTC (2026-11-14 05:53 WAT)
+#### Root post — @nateberkopec — 2026-11-14 04:53 UTC (2026-11-14 05:53 WAT)
 
-- URL: https://x.com/18259813/status/2121466598028652966
+- URL: https://x.com/nateberkopec/status/2121466598028652966
 - Metrics (at fetch): bookmark 2, impression 810, like 11, quote 1, reply 3, retweet 0
 
 > Just realized I had Mythos 5.2 access for the entire week I was trying to push out this Puma release ☠️
@@ -14214,9 +19574,9 @@ Tags (automatic): Path normalization
 
 **Context — conversation root by another account:**
 
-#### Root post — @1006506973 — 2026-11-14 01:43 UTC (2026-11-14 02:43 WAT)
+#### Root post — @rezavesta98 — 2026-11-14 01:43 UTC (2026-11-14 02:43 WAT)
 
-- URL: https://x.com/1006506973/status/2121418676075372828
+- URL: https://x.com/rezavesta98/status/2121418676075372828
 - Metrics (at fetch): bookmark 0, impression 9, like 1, quote 0, reply 0, retweet 0
 
 > Bug found. Report accepted. $100 wired. ✅ Good day on the scope. #bugbounty #infosec [pic.x.com/kuzk4vd6Zq]
@@ -14727,9 +20087,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1529500594582716416 — 2026-11-14 01:37 UTC (2026-11-14 02:37 WAT)
+#### Root post — @theonejvo — 2026-11-14 01:37 UTC (2026-11-14 02:37 WAT)
 
-- URL: https://x.com/1529500594582716416/status/2121417159658389938
+- URL: https://x.com/theonejvo/status/2121417159658389938
 - Metrics (at fetch): bookmark 0, impression 473, like 3, quote 0, reply 1, retweet 0
 
 > Facatry facatry in my facatryyyyyy. [pic.x.com/IUab6ppxKD] https://twitter.com/gdb/status/2121004237413142656
@@ -15088,9 +20448,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @514507807 — 2026-11-13 21:28 UTC (2026-11-13 22:28 WAT)
+#### Root post — @Zaddyzaddy — 2026-11-13 21:28 UTC (2026-11-13 22:28 WAT)
 
-- URL: https://x.com/514507807/status/2121354659621196242
+- URL: https://x.com/Zaddyzaddy/status/2121354659621196242
 - Metrics (at fetch): bookmark 3, impression 1641, like 46, quote 0, reply 3, retweet 0
 
 > @BugBunny_ai has been No 1 on the HackerOne business leaderboard all year, but then the more interesting part is we rank amongst the highest for Impact, we find an average of 10 critical vulnerabilities every day, and rarely submit low or medium severity findings due to limited bandwidth. also 95% of the findings were from blackbox testing without access to any source code.
@@ -15175,9 +20535,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Context — post being replied to:**
 
-#### Parent post — @53837402 — 2026-11-13 21:44 UTC (2026-11-13 22:44 WAT)
+#### Parent post — @caseyjohnellis — 2026-11-13 21:44 UTC (2026-11-13 22:44 WAT)
 
-- URL: https://x.com/53837402/status/2121358450491883611
+- URL: https://x.com/caseyjohnellis/status/2121358450491883611
 - Metrics (at fetch): bookmark 0, impression 243, like 11, quote 0, reply 4, retweet 0
 
 > @codingo_ @mikepatx @Jhaddix @samhouston @arcwhite @codesoda @amalmurali47 @kittychix @digitalwoot @brookelynz1 @paytoneal @trimkadriu @famo @guximrama @RyanFloersch @bklane @dantrauner @Trainorsploit @norsec0de @Bugcrowd @davegerryjr @SaxonFletcher @aburtis @grantmcmusic @sml555_ @_p1gc0rn @vortexau @hakluke @klepas @YashitM @giel @leifdreizler @Kym_Possible @Masonhck3571 @kestelyn #ff @mdowd @Umbriel_AI @dyn___ @noperator @clearbluejar @disclose_io @sickcodes @attritionorg @HarleyGeiger @Infosecjen @HackingLZ @msuiche @mdp_sec @MalwareTechBlog @anton_chuvakin 3/5
@@ -15198,9 +20558,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Context — post being replied to:**
 
-#### Parent post — @902727532255916033 — 2026-11-13 21:46 UTC (2026-11-13 22:46 WAT)
+#### Parent post — @hetmehtaa — 2026-11-13 21:46 UTC (2026-11-13 22:46 WAT)
 
-- URL: https://x.com/902727532255916033/status/2121359081814507589
+- URL: https://x.com/hetmehtaa/status/2121359081814507589
 - Metrics (at fetch): bookmark 0, impression 96, like 2, quote 0, reply 1, retweet 0
 
 > @mdp_sec @Zaddyzaddy as of now best provider to use deepseek?
@@ -15294,9 +20654,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Context — post being replied to:**
 
-#### Parent post — @514507807 — 2026-11-13 21:34 UTC (2026-11-13 22:34 WAT)
+#### Parent post — @Zaddyzaddy — 2026-11-13 21:34 UTC (2026-11-13 22:34 WAT)
 
-- URL: https://x.com/514507807/status/2121356023198060577
+- URL: https://x.com/Zaddyzaddy/status/2121356023198060577
 - Metrics (at fetch): bookmark 0, impression 315, like 3, quote 0, reply 1, retweet 0
 
 > @mdp_sec its bs
@@ -15392,9 +20752,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Context — post being replied to:**
 
-#### Parent post — @1146117507889139713 — 2026-11-13 19:50 UTC (2026-11-13 20:50 WAT)
+#### Parent post — @PinkDraconian — 2026-11-13 19:50 UTC (2026-11-13 20:50 WAT)
 
-- URL: https://x.com/1146117507889139713/status/2121329839604908260
+- URL: https://x.com/PinkDraconian/status/2121329839604908260
 - Metrics (at fetch): bookmark 3, impression 1371, like 44, quote 0, reply 4, retweet 0
 
 > Not sure how this happened but apparently I'm in the top 10 bug bounty researchers on OpenAI 🔥 https://t.co/fBGltvWfqp
@@ -17120,9 +22480,9 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 **Context — conversation root by another account:**
 
-#### Root post — @2435094816 — 2026-11-11 05:41 UTC (2026-11-11 06:41 WAT)
+#### Root post — @Dhanush_Nehru — 2026-11-11 05:41 UTC (2026-11-11 06:41 WAT)
 
-- URL: https://x.com/2435094816/status/2120391436285903213
+- URL: https://x.com/Dhanush_Nehru/status/2120391436285903213
 - Metrics (at fetch): bookmark 0, impression 345, like 8, quote 0, reply 2, retweet 0
 
 > my friend's company got breached
@@ -18358,9 +23718,9 @@ Tags (automatic): AI-assisted hunting, Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1463204122644008966 — 2026-11-02 03:42 UTC (2026-11-02 04:42 WAT)
+    #### Quoted post — @srontoji — 2026-11-02 03:42 UTC (2026-11-02 04:42 WAT)
     
-    - URL: https://x.com/1463204122644008966/status/2117100026589503924
+    - URL: https://x.com/srontoji/status/2117100026589503924
     - Metrics (at fetch): bookmark 334, impression 32071, like 819, quote 4, reply 56, repost 23
     
     > My biggest bounty so far🥹 Never expected it to be a P1... Thank you, God.. 🙏
@@ -19111,9 +24471,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1980489349440430080 — 2026-10-30 04:13 UTC (2026-10-30 05:13 WAT)
+    #### Quoted post — @lazy_one012611 — 2026-10-30 04:13 UTC (2026-10-30 05:13 WAT)
     
-    - URL: https://x.com/1980489349440430080/status/2116020631909347662
+    - URL: https://x.com/lazy_one012611/status/2116020631909347662
     - Metrics (at fetch): bookmark 36, impression 4968, like 165, quote 1, reply 6, retweet 1
     
     > Rewarded $2500 in @Hacker0x01 .. it was just a scan from my hackbot (Going Merry 👾)  reported 3 bugs from the 1st scan and the other day got rewarded🥶 still a lot to submit in this and also in other program! There is no easy way, you have to give it a lot of effort which i did [pic.x.com/mFdECtoT6h]
@@ -19255,9 +24615,9 @@ Tags (automatic): Mobile / Android / iOS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15194897 — 2026-10-30 20:13 UTC (2026-10-30 21:13 WAT)
+    #### Quoted post — @moyix — 2026-10-30 20:13 UTC (2026-10-30 21:13 WAT)
     
-    - URL: https://x.com/15194897/status/2116262203787452746
+    - URL: https://x.com/moyix/status/2116262203787452746
     - Metrics (at fetch): bookmark 188, impression 163007, like 847, quote 24, reply 41, retweet 85
     
     > Confirmed, and yeah this seems like a horrible idea [pic.x.com/eCfGKLTqMd] https://twitter.com/seanhn/status/2116254333054693776
@@ -21700,9 +27060,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1765633660588576768 — 2026-10-20 09:08 UTC (2026-10-20 10:08 WAT)
+    #### Quoted post — @ValsAI — 2026-10-20 09:08 UTC (2026-10-20 10:08 WAT)
     
-    - URL: https://x.com/1765633660588576768/status/2112471082397778083
+    - URL: https://x.com/ValsAI/status/2112471082397778083
     - Metrics (at fetch): bookmark 881, impression 457305, like 2492, quote 194, reply 104, retweet 227
     
     > We found DeepSeek V4.1 Flash 1017 beats GPT 6 Sol on our multi-step offensive cybersecurity task. Sol was tested via the Daybreak trusted access program.
@@ -22097,9 +27457,9 @@ Tags (automatic): Path normalization
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2049258250923810816 — 2026-10-18 10:39 UTC (2026-10-18 11:39 WAT)
+    #### Quoted post — @OrcaRouter — 2026-10-18 10:39 UTC (2026-10-18 11:39 WAT)
     
-    - URL: https://x.com/2049258250923810816/status/2111769130965909709
+    - URL: https://x.com/OrcaRouter/status/2111769130965909709
     - Metrics (at fetch): bookmark 1, impression 2404, like 6, quote 1, reply 1, retweet 0
     
     > https://t.co/cbL8Ub4LVq
@@ -22208,9 +27568,9 @@ Tags (automatic): Path normalization
 
 **Quoted post (full text):**
 
-    #### Quoted post — @21445961 — 2026-10-17 18:18 UTC (2026-10-17 19:18 WAT)
+    #### Quoted post — @Jhaddix — 2026-10-17 18:18 UTC (2026-10-17 19:18 WAT)
     
-    - URL: https://x.com/21445961/status/2111522230001860700
+    - URL: https://x.com/Jhaddix/status/2111522230001860700
     - Metrics (at fetch): bookmark 411, impression 178819, like 348, quote 4, reply 18, retweet 66
     
     > The best practitioner (not lab) AI evals for offensive cybersecurity I follow myself:

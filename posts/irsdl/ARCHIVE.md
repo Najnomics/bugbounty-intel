@@ -1,11 +1,104 @@
 # @irsdl — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 614
-- Conversations/threads: 533
+- Posts in this file: 618
+- Conversations/threads: 537
 - Oldest post captured: 2010-05-25
-- Newest post captured: 2026-11-18
+- Newest post captured: 2026-11-20
+
+
+---
+
+## 2026-11-20 · Post · The latest Sharpener release fixes a compatibility issue introduced in a recent Burp Suite updates.
+
+
+### Post — @irsdl — 2026-11-20 20:51 UTC (2026-11-20 21:51 WAT)
+
+- URL: https://x.com/irsdl/status/2123881918378770753
+- Metrics (at fetch): not returned
+
+> The latest Sharpener release fixes a compatibility issue introduced in a recent Burp Suite updates.
+>
+> https://github.com/irsdl/BurpSuiteSharpenerEx/releases/tag/main_4.94
+>
+> Codex is now handling UI testing for me, helping catch issues early before they reach users. [pic.x.com/QCBTrRz3QV]
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2123881888280408064/img/NzxL1Ha_PeB2c6Jq.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/irsdl/BurpSuiteSharpenerEx/releases/tag/main_4.94
+
+
+---
+
+## 2026-11-20 · Reply · @garethheyes It is never easy for some of us no matter what. I enjoyed it and you did great as alway
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @garethheyes — 2026-11-19 19:01 UTC (2026-11-19 20:01 WAT)
+
+- URL: https://x.com/garethheyes/status/2123491918889746885
+- Metrics (at fetch): bookmark 1, impression 2359, like 56, quote 0, reply 7, retweet 1
+
+> Going on a podcast is so outside my comfort zone. I get nervous just attending conferences. Normally I would turn down these opportunities. But I'm really proud of myself for doing it.
+
+
+### Post — @irsdl — 2026-11-20 10:52 UTC (2026-11-20 11:52 WAT)
+
+- URL: https://x.com/irsdl/status/2123731258014413299
+- Metrics (at fetch): bookmark 0, impression 195, like 4, quote 0, reply 0, retweet 0
+
+> @garethheyes It is never easy for some of us no matter what. I enjoyed it and you did great as always 💙
+
+
+---
+
+## 2026-11-19 · Post · @lcamtuf bash4shell! 🥳
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @44666078 — 2026-11-19 17:10 UTC (2026-11-19 18:10 WAT)
+
+- URL: https://x.com/44666078/status/2123463876109091219
+- Metrics (at fetch): bookmark 10, impression 9070, like 378, quote 3, reply 9, retweet 32
+
+> If Shellshock was discovered today, they'd have called it shell2shell
+
+
+### Post — @irsdl — 2026-11-19 22:13 UTC (2026-11-19 23:13 WAT)
+
+- URL: https://x.com/irsdl/status/2123540130518687937
+- Metrics (at fetch): bookmark 0, impression 140, like 4, quote 0, reply 0, retweet 0
+
+> @lcamtuf bash4shell! 🥳
+
+
+---
+
+## 2026-11-19 · Post · This is the true face of the Islamic Republic of Iran: a brutal dictatorship, not a democracy. 😔
+
+
+### Post — @irsdl — 2026-11-19 10:46 UTC (2026-11-19 11:46 WAT)
+
+- URL: https://x.com/irsdl/status/2123367289248453019
+- Metrics (at fetch): bookmark 2, impression 1196, like 12, quote 0, reply 0, retweet 1
+
+> This is the true face of the Islamic Republic of Iran: a brutal dictatorship, not a democracy. 😔
+>
+> Those who support this regime are complicit in its cruelty and the torture of innocent people. https://t.co/CdRkkTlaWY
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1191839812229255170 — 2026-11-19 04:38 UTC (2026-11-19 05:38 WAT)
+    
+    - URL: https://x.com/1191839812229255170/status/2123274583365042515
+    - Metrics (at fetch): bookmark 306, impression 372773, like 6797, quote 247, reply 1031, retweet 1717
+    
+    > سلام دوستان عزیزم، من سپیده قلیانم و ممکن است این آخرین توییت من برای شما باشد.روز دوشنبه به خانهٔ ما حمله کردند، من حضور نداشتم به همین‌ خاطر طهورا، برادرزاده‌ی هفده‌ساله‌ام، و پدرم را بازداشت کردند تا من خودم را معرفی کنم. طهورا و پدرم فقط کتک نخوردند؛ در واقع در مدت جلب و
+    
 
 
 ---
@@ -3868,9 +3961,9 @@ Tags (automatic): XSS
         
         **Quoted post (full text):**
         
-            #### Quoted post — @21445961 — 2023-11-13 16:05 UTC (2023-11-13 17:05 WAT)
+            #### Quoted post — @Jhaddix — 2023-11-13 16:05 UTC (2023-11-13 17:05 WAT)
             
-            - URL: https://x.com/21445961/status/1724096197240008965
+            - URL: https://x.com/Jhaddix/status/1724096197240008965
             - Metrics (at fetch): not returned
             
             > Ok fam. I’m giving away TWO free tickets to my course which takes place in two/three weeks. 
@@ -3920,9 +4013,9 @@ Tags (automatic): XSS
     
     **Quoted post (full text):**
     
-        #### Quoted post — @21445961 — 2023-11-13 16:05 UTC (2023-11-13 17:05 WAT)
+        #### Quoted post — @Jhaddix — 2023-11-13 16:05 UTC (2023-11-13 17:05 WAT)
         
-        - URL: https://x.com/21445961/status/1724096197240008965
+        - URL: https://x.com/Jhaddix/status/1724096197240008965
         - Metrics (at fetch): not returned
         
         > Ok fam. I’m giving away TWO free tickets to my course which takes place in two/three weeks. 
@@ -3956,9 +4049,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @21445961 — 2023-11-13 16:05 UTC (2023-11-13 17:05 WAT)
+    #### Quoted post — @Jhaddix — 2023-11-13 16:05 UTC (2023-11-13 17:05 WAT)
     
-    - URL: https://x.com/21445961/status/1724096197240008965
+    - URL: https://x.com/Jhaddix/status/1724096197240008965
     - Metrics (at fetch): not returned
     
     > Ok fam. I’m giving away TWO free tickets to my course which takes place in two/three weeks. 
@@ -7115,9 +7208,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @21445961 — 2020-06-13 01:34 UTC (2020-06-13 02:34 WAT)
+    #### Quoted post — @Jhaddix — 2020-06-13 01:34 UTC (2020-06-13 02:34 WAT)
     
-    - URL: https://x.com/21445961/status/1271616882940866563
+    - URL: https://x.com/Jhaddix/status/1271616882940866563
     - Metrics (at fetch): not returned
     
     > Impostor syndrome is hard tonight while I finish up the bug hunter's methodology v4 but I'm excited to present on Sunday at @NahamSec 's NahamCon!  http://nahamcon.com [pic.x.com/4UTSel15E4]

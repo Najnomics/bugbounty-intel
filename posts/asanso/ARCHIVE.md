@@ -1,11 +1,79 @@
 # @asanso — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 186
-- Conversations/threads: 174
+- Posts in this file: 189
+- Conversations/threads: 177
 - Oldest post captured: 2011-01-30
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-20
+
+
+---
+
+## 2026-11-20 · Reply · @bwesterb wait for 2027...
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @bwesterb — 2026-11-20 20:18 UTC (2026-11-20 21:18 WAT)
+
+- URL: https://x.com/bwesterb/status/2123873756271808914
+- Metrics (at fetch): not returned
+
+> Still 41 days left in 2026. What a crazy year!
+
+
+### Post — @asanso — 2026-11-20 20:49 UTC (2026-11-20 21:49 WAT)
+
+- URL: https://x.com/asanso/status/2123881480132694041
+- Metrics (at fetch): not returned
+
+> @bwesterb wait for 2027...
+
+
+---
+
+## 2026-11-20 · Post · Random Friday thought: We live in unprecedented times, but remember, history is a guide.
+
+
+### Post — @asanso — 2026-11-20 16:44 UTC (2026-11-20 17:44 WAT)
+
+- URL: https://x.com/asanso/status/2123819792138371559
+- Metrics (at fetch): not returned
+
+> Random Friday thought: We live in unprecedented times, but remember, history is a guide.
+>
+> Giambattista Vico's concept of corsi e ricorsi suggests that history follows recurring patterns, even centuries apart, and not by chance.
+>
+> Every technological revolution feels unprecedented to those living through it. Yet the same human patterns emerge: excitement, fear, resistance, disruption, and adaptation. #holdtight
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXlSzgIWsAA5Czv.png — no alt text provided by author
+
+
+---
+
+## 2026-11-19 · Reply · @P3b7_ @Ledger @DonjonLedger Good luck with your new endeavor, Charles! You rock! 🚀
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1041276721759043584 — 2026-11-19 14:08 UTC (2026-11-19 15:08 WAT)
+
+- URL: https://x.com/1041276721759043584/status/2123418046165381317
+- Metrics (at fetch): bookmark 197, impression 152328, like 1501, quote 34, reply 222, retweet 94
+
+> Personal update: I’ll be leaving @ledger at the end of 2026. After nine years, those words are strange to type.
+>
+> I joined as CSO in December 2017. No desks, no team, just a blank page. I built the @DonjonLedger, our attack lab. Since then it has broken smartphone secure-boot
+
+
+### Post — @asanso — 2026-11-19 15:34 UTC (2026-11-19 16:34 WAT)
+
+- URL: https://x.com/asanso/status/2123439769271066734
+- Metrics (at fetch): bookmark 0, impression 102, like 0, quote 0, reply 0, retweet 0
+
+> @P3b7_ @Ledger @DonjonLedger Good luck with your new endeavor, Charles! You rock! 🚀
 
 
 ---

@@ -1,37 +1,30 @@
 # @saxenism — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1182
-- Conversations/threads: 899
+- Posts in this file: 1188
+- Conversations/threads: 903
 - Oldest post captured: 2020-03-15
-- Newest post captured: 2026-11-18
+- Newest post captured: 2026-11-21
 
 
 ---
 
-## 2026-11-18 · Reply · @fiveoutofnine wait till they find your Strava
+## 2026-11-21 · Post · It was a pleasure speaking at @summit_defi and sharing my understanding of the real nature of TEEs, 
 
 
-**Context — conversation root by another account:**
+### Post — @saxenism — 2026-11-21 05:36 UTC (2026-11-21 06:36 WAT)
 
-#### Root post — @1269561030272643076 — 2026-11-18 18:19 UTC (2026-11-18 19:19 WAT)
+- URL: https://x.com/saxenism/status/2124014069644701728
+- Metrics (at fetch): bookmark 0, impression 42, like 1, quote 0, reply 0, retweet 0
 
-- URL: https://x.com/1269561030272643076/status/2123118797209149588
-- Metrics (at fetch): bookmark 0, impression 1562, like 35, quote 0, reply 3, retweet 0
+> It was a pleasure speaking at @summit_defi and sharing my understanding of the real nature of TEEs, the actual guarantees they provide and secure ways of leveraging TEEs in your web3 protocols.
+>
+> Enjoy :)
+>
+> https://defisecuritysummit.org/2026/videos?watch=WoXWnORKZSs
 
-> internet stranger went through my typeracer profile and called me "GOAT among Korean typists" [pic.x.com/VZMte0RgHy]
-
-**Media:**
-- photo: https://pbs.twimg.com/media/HXbVIB0aQAAlcgL.png — no alt text provided by author
-
-
-### Post — @saxenism — 2026-11-18 18:48 UTC (2026-11-18 19:48 WAT)
-
-- URL: https://x.com/saxenism/status/2123126175119909262
-- Metrics (at fetch): bookmark 0, impression 60, like 3, quote 0, reply 0, repost 0
-
-> @fiveoutofnine wait till they find your Strava
+**Links in post:** https://defisecuritysummit.org/2026/videos?watch=WoXWnORKZSs
 
 
 ---
@@ -311,6 +304,110 @@ _Generated 2026-11-19 from the X API (full-archive search + timeline). Every pos
 > https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-9hq5-pfgc-cx5h
 
 **Links in post:** https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-9hq5-pfgc-cx5h
+
+
+### Thread part 11 — @saxenism — 2026-11-20 21:54 UTC (2026-11-20 22:54 WAT)
+
+- URL: https://x.com/saxenism/status/2123897866594951670
+- Metrics (at fetch): not returned
+
+> @jevonearth @Zcash @bluethroat_labs Thank you ser!! 
+>
+> I appreciate the promptness and the professionalism of the @ecadlabs team as well. Teams like yours are much rare these days :)
+
+
+---
+
+## 2026-11-20 · Thread · @BruceLegacyy 💯
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @BruceLegacyy — 2026-11-19 20:23 UTC (2026-11-19 21:23 WAT)
+
+- URL: https://x.com/BruceLegacyy/status/2123512473198399532
+- Metrics (at fetch): not returned
+
+> I'm numb sitting at the table thinking how this one friend would've made 100mil $ overnight.... For anyone doing a white collar job this usually meant atleast 20 years of insane hustle with shit ton of luck. Not anymore
+
+
+### Post — @saxenism — 2026-11-20 07:09 UTC (2026-11-20 08:09 WAT)
+
+- URL: https://x.com/saxenism/status/2123675200969728437
+- Metrics (at fetch): bookmark 0, impression 48, like 0, quote 0, reply 0, retweet 0
+
+> @BruceLegacyy 💯
+
+
+### Thread part 2 — @saxenism — 2026-11-20 07:11 UTC (2026-11-20 08:11 WAT)
+
+- URL: https://x.com/saxenism/status/2123675697118056834
+- Metrics (at fetch): bookmark 0, impression 60, like 0, quote 0, reply 1, retweet 0
+
+> @BruceLegacyy Back there I happened to casually grab lunch with a person (who along with her husband) sold their AI company (synthetic data for physical AI) to a listed company for an arguably obscene amount :)
+
+
+---
+
+## 2026-11-19 · Post · @tpiliposian Absolute Chad Move!! 
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1535125881450029056 — 2026-11-18 15:04 UTC (2026-11-18 16:04 WAT)
+
+- URL: https://x.com/1535125881450029056/status/2123069818551312638
+- Metrics (at fetch): bookmark 36, impression 6191, like 262, quote 3, reply 56, retweet 10
+
+> i am 33 and became a bjj world champion after 3.5 years of training
+>
+> here's what i've learned that applies to sports and pretty much every other aspect of life: [pic.x.com/oUZ18Dd4mz] https://twitter.com/tpiliposian/status/2120865444437594270
+
+**Media:**
+- media `3_2123069810036912128` (details not returned by the API)
+
+**Links in post:** https://twitter.com/tpiliposian/status/2120865444437594270
+
+**Quoted post** 2120865444437594270: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @saxenism — 2026-11-19 09:58 UTC (2026-11-19 10:58 WAT)
+
+- URL: https://x.com/saxenism/status/2123355098135028197
+- Metrics (at fetch): bookmark 0, impression 55, like 1, quote 0, reply 1, retweet 0
+
+> @tpiliposian Absolute Chad Move!! 
+>
+> Congratulations!!
+
+
+---
+
+## 2026-11-18 · Reply · @fiveoutofnine wait till they find your Strava
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1269561030272643076 — 2026-11-18 18:19 UTC (2026-11-18 19:19 WAT)
+
+- URL: https://x.com/1269561030272643076/status/2123118797209149588
+- Metrics (at fetch): bookmark 0, impression 1562, like 35, quote 0, reply 3, retweet 0
+
+> internet stranger went through my typeracer profile and called me "GOAT among Korean typists" [pic.x.com/VZMte0RgHy]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXbVIB0aQAAlcgL.png — no alt text provided by author
+
+
+### Post — @saxenism — 2026-11-18 18:48 UTC (2026-11-18 19:48 WAT)
+
+- URL: https://x.com/saxenism/status/2123126175119909262
+- Metrics (at fetch): bookmark 0, impression 60, like 3, quote 0, reply 0, repost 0
+
+> @fiveoutofnine wait till they find your Strava
 
 
 ---
@@ -24975,6 +25072,29 @@ Tags (automatic): Smart contract / DeFi
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FvQneIQakAAUJJ8.jpg — no alt text provided by author
+
+
+---
+
+## 2023-05-03 · Post · This is not my code.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @saxenism — 2023-05-03 13:27 UTC (2023-05-03 14:27 WAT)
+
+- URL: https://x.com/saxenism/status/1653753147670552577
+- Metrics (at fetch): bookmark 0, impression 4314, like 20, quote 1, reply 5, retweet 0
+
+> This is not my code.
+>
+> This is code from a major DeFi protocol which I happen to be auditing at present.
+>
+> Looks like people are finally waking up to reality @pcaversaccio, @high_byte 🫂🫂🍻🍻 [pic.x.com/bEkbpoemUC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FvNPRLMaIAIztbO.jpg — no alt text provided by author
 
 
 ---

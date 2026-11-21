@@ -1,11 +1,162 @@
 # @0xriptide — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 221
-- Conversations/threads: 214
+- Posts in this file: 227
+- Conversations/threads: 220
 - Oldest post captured: 2014-07-21
-- Newest post captured: 2026-11-18
+- Newest post captured: 2026-11-20
+
+
+---
+
+## 2026-11-20 · Reply · @Jaxxx_eth SQ was pure comedy ... buckazoids
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Jaxxx_eth — 2026-11-20 08:46 UTC (2026-11-20 09:46 WAT)
+
+- URL: https://x.com/Jaxxx_eth/status/2123699453358162046
+- Metrics (at fetch): bookmark 3, impression 1765, like 103, quote 0, reply 47, retweet 0
+
+> Okay, that’s actually scary.🤯 [pic.x.com/LYR5FKxZsw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXjlXI1a0AAVdnN.jpg — no alt text provided by author
+
+
+### Post — @0xriptide — 2026-11-20 13:30 UTC (2026-11-20 14:30 WAT)
+
+- URL: https://x.com/0xriptide/status/2123770861996130341
+- Metrics (at fetch): bookmark 0, impression 160, like 1, quote 0, reply 0, retweet 0
+
+> @Jaxxx_eth SQ was pure comedy ... buckazoids
+
+
+---
+
+## 2026-11-20 · Reply · @lonelysloth_sec would be blown away if apple shows it is capable at executing correctly
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @lonelysloth_sec — 2026-11-20 01:45 UTC (2026-11-20 02:45 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2123593611237593540
+- Metrics (at fetch): bookmark 0, impression 437, like 5, quote 0, reply 0, retweet 0
+
+> Apple probably can develop their “AI” thing with a tiny fraction of the investment the labs needed and make it run locally in Apple devices with Apple chips.
+>
+> But they have a very good shot at completely screwing it up if that’s what they are trying. Sometimes I think that’s their goal.
+
+**Links in post:** https://twitter.com/cointelegraph/status/2123567174543389127
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2207129125 — 2026-11-20 00:00 UTC (2026-11-20 01:00 WAT)
+    
+    - URL: https://x.com/2207129125/status/2123567174543389127
+    - Metrics (at fetch): bookmark 9, impression 27872, like 118, quote 4, reply 27, retweet 7
+    
+    > 🚨 LATEST: Apple is developing its own AI agent that can code, browse the web and control apps for users, in a push to rival OpenAI and Anthropic. [pic.x.com/FAutFa6L7E]
+    
+    **Media:**
+    - media `3_2123567163407548416` (details not returned by the API)
+    - media `3_2123567167060721664` (details not returned by the API)
+    - media `3_2123567170634338304` (details not returned by the API)
+    
+
+
+### Post — @0xriptide — 2026-11-20 08:33 UTC (2026-11-20 09:33 WAT)
+
+- URL: https://x.com/0xriptide/status/2123696332548526129
+- Metrics (at fetch): bookmark 0, impression 88, like 1, quote 0, reply 0, retweet 0
+
+> @lonelysloth_sec would be blown away if apple shows it is capable at executing correctly
+>
+> using the past decade as an indicator i will bet they fuck it up
+
+
+---
+
+## 2026-11-20 · Reply · @philbugcatcher This is the way. Congrats man
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @philbugcatcher — 2026-11-20 01:44 UTC (2026-11-20 02:44 WAT)
+
+- URL: https://x.com/philbugcatcher/status/2123593204960497937
+- Metrics (at fetch): bookmark 2, impression 3067, like 186, quote 0, reply 36, retweet 2
+
+> Just had another child a few weeks ago btw
+>
+> Life is beautiful
+
+
+### Post — @0xriptide — 2026-11-20 08:10 UTC (2026-11-20 09:10 WAT)
+
+- URL: https://x.com/0xriptide/status/2123690417518498290
+- Metrics (at fetch): bookmark 0, impression 91, like 0, quote 0, reply 0, retweet 0
+
+> @philbugcatcher This is the way. Congrats man
+
+
+---
+
+## 2026-11-19 · Reply · @iphelix @pukerrainbrow @grok is he still on the run?
+
+
+**Context — post being replied to:**
+
+#### Parent post — @172530887 — 2026-11-19 16:41 UTC (2026-11-19 17:41 WAT)
+
+- URL: https://x.com/172530887/status/2123456584928182415
+- Metrics (at fetch): bookmark 0, impression 1626, like 5, quote 0, reply 1, retweet 0
+
+> @pukerrainbrow https://t.co/B3229Va4Gp
+
+
+### Post — @0xriptide — 2026-11-19 17:47 UTC (2026-11-19 18:47 WAT)
+
+- URL: https://x.com/0xriptide/status/2123473234230202489
+- Metrics (at fetch): bookmark 0, impression 274, like 0, quote 0, reply 3, retweet 0
+
+> @iphelix @pukerrainbrow @grok is he still on the run?
+
+
+---
+
+## 2026-11-19 · Post · yearning for back in the day style non-AI discovered exploits?
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @0xriptide — 2026-11-19 14:54 UTC (2026-11-19 15:54 WAT)
+
+- URL: https://x.com/0xriptide/status/2123429692824789066
+- Metrics (at fetch): bookmark 2, impression 1246, like 12, quote 0, reply 0, repost 1
+
+> yearning for back in the day style non-AI discovered exploits?
+>
+> embarrassing oversight https://twitter.com/MSNightmare2000/status/2123400798365430118
+
+**Links in post:** https://twitter.com/MSNightmare2000/status/2123400798365430118
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1141758206726803456 — 2026-11-19 12:59 UTC (2026-11-19 13:59 WAT)
+    
+    - URL: https://x.com/1141758206726803456/status/2123400798365430118
+    - Metrics (at fetch): bookmark 2697, impression 202315, like 5445, quote 77, reply 63, retweet 670
+    
+    > Windows 11 26H2 lockscreen has been bypassed, this allows a full bitlocker bypass.
+    > https://github.com/MSNightmare/FastUnlock
+    
+    **Links in post:** https://github.com/MSNightmare/FastUnlock
+    
 
 
 ---
@@ -4043,6 +4194,19 @@ Tags (automatic): Platform: Immunefi
 > TVL of 8 billion dollars
 >
 > they must sincerely believe it is, and always will be impenetrable
+
+
+---
+
+## 2023-05-01 · Post · pro tip: do not assume the contract in github matches what has been deployed on chain
+
+
+### Post — @0xriptide — 2023-05-01 09:41 UTC (2023-05-01 10:41 WAT)
+
+- URL: https://x.com/0xriptide/status/1652971463207419905
+- Metrics (at fetch): bookmark 7, impression 17105, like 107, quote 2, reply 6, retweet 11
+
+> pro tip: do not assume the contract in github matches what has been deployed on chain
 
 
 ---

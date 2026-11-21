@@ -1,11 +1,110 @@
 # @zksecurityXYZ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 457
-- Conversations/threads: 378
+- Posts in this file: 460
+- Conversations/threads: 381
 - Oldest post captured: 2023-05-16
-- Newest post captured: 2026-11-18
+- Newest post captured: 2026-11-21
+
+
+---
+
+## 2026-11-21 · Post · https://zk.golf and https://better.codes have basically become immune benchmarks for new models http
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2026-11-21 03:37 UTC (2026-11-21 04:37 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2123984029829501049
+- Metrics (at fetch): not returned
+
+> https://zk.golf and https://better.codes have basically become immune benchmarks for new models https://twitter.com/kobigurk/status/2123566253889454296
+
+**Links in post:** https://zk.golf, https://better.codes, https://twitter.com/kobigurk/status/2123566253889454296
+
+**Quoted post (full text):**
+
+    #### Quoted post — @kobigurk — 2026-11-19 23:57 UTC (2026-11-20 00:57 WAT)
+    
+    - URL: https://x.com/kobigurk/status/2123566253889454296
+    - Metrics (at fetch): bookmark 0, impression 569, like 12, quote 0, reply 0, repost 1
+    
+    > https://zk.golf and https://better.codes have seen significant improvements in the last few days
+    >
+    > The models are smarter for the math around us? https://twitter.com/rotn256/status/2123343338300428779
+    
+    **Links in post:** https://zk.golf, https://better.codes, https://twitter.com/rotn256/status/2123343338300428779
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @2072955966341914624 — 2026-11-19 09:11 UTC (2026-11-19 10:11 WAT)
+        
+        - URL: https://x.com/2072955966341914624/status/2123343338300428779
+        - Metrics (at fetch): bookmark 0, impression 752, like 10, quote 1, reply 0, retweet 2
+        
+        > Don't get the controversy, Astra 6.2 is a perfectly cromulent model. Its https://zk.golf improvements last 24 hours: [pic.x.com/6X1cKf1KSl]
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/HXeg2y3WEAAKojy.jpg — no alt text provided by author
+        
+        **Links in post:** https://zk.golf
+        
+    
+
+
+---
+
+## 2026-11-20 · Post · verify it on https://collisions.zksecurity.xyz/ https://twitter.com/omergoldz/status/211731441629965
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2026-11-20 20:55 UTC (2026-11-20 21:55 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2123882976547377591
+- Metrics (at fetch): not returned
+
+> verify it on https://collisions.zksecurity.xyz/ https://twitter.com/omergoldz/status/2117314416299659735
+
+**Links in post:** https://collisions.zksecurity.xyz/, https://twitter.com/omergoldz/status/2117314416299659735
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2089280157756338176 — 2026-11-02 17:54 UTC (2026-11-02 18:54 WAT)
+    
+    - URL: https://x.com/2089280157756338176/status/2117314416299659735
+    - Metrics (at fetch): not returned
+    
+    > hey guys, so this was a little harder but these two messages collide for 38-step SHA-256:
+    >
+    > m1 = 33ee28ac5f8ef994c787777c079d17e11198d1beb527c8554bfeff014ab531951cf31bd2bbfc637e122da4f948e6e447d5a6b8b6ea9e7af5aac1aeabeeaceb0dbd07668b833fe88e689ffe8da52259da14b9855eee5138ba88355f4806d5cf5d161c50014c6b7d7e0e7eb888747559fc990a7af69dd8e59f57d7f6a3c0fbd03b
+    >
+    > m2 = 33ee28ac5f8ef994c787777c079d17e11198d1beb527c8554bfeff014ab531951cf31bd2bbfc637e122da4f948e6e447d5a6b8b6ea9e7af5aac1aeabeeaceb0dbd07668b833fe88e689ffe8da52259da14b9855eee5138ba88355f4838b3d19d161c4ffd4c6b7d7e0e813888747559fc990a7af69dd8e59f57d7f6a3c0fbd03f
+    
+    **Links in post:** https://twitter.com/omergoldz/status/2108212557647675608
+    
+    **Quoted post** 2108212557647675608: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2026-11-20 · Post · IYKYK [pic.x.com/qc5d3krDKh]
+
+
+### Post — @zksecurityXYZ — 2026-11-20 17:12 UTC (2026-11-20 18:12 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2123826724496617719
+- Metrics (at fetch): not returned
+
+> IYKYK [pic.x.com/qc5d3krDKh]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXlZIwhXoAEUax8.jpg — no alt text provided by author
 
 
 ---

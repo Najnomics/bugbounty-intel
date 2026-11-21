@@ -1,13 +1,13 @@
 # Backfill status (X full-archive search)
 
-Updated 2026-11-19 07:13 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
+Updated 2026-11-21 06:59 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
 
 | Handle | Before (d427256) | Now | Oldest captured |
 |---|---|---|---|
 | @iguardz | – | 0 | – |
 | @GuidoVranken | – | 0 | – |
-| @depi_ | – | 7 | 2026-11-11 |
 | @GuplerSaxanoid | 8 | 8 | 2026-11-01 |
+| @depi_ | – | 8 | 2026-11-11 |
 | @trust__90 | 10 | 10 | 2026-04-05 |
 | @nullity00 | 1 | 10 | 2023-05-23 |
 | @al_f4lc0n | 13 | 13 | 2026-03-15 |
@@ -19,9 +19,9 @@ Updated 2026-11-19 07:13 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @0xiczc | 45 | 45 | 2017-05-31 |
 | @0xteddav | 24 | 49 | 2022-06-24 |
 | @PwningEth | 53 | 53 | 2022-06-18 |
-| @Swartz068 | 44 | 59 | 2024-12-30 |
-| @usmannk | 48 | 61 | 2023-08-16 |
+| @Swartz068 | 44 | 61 | 2024-12-30 |
 | @keterka | 59 | 62 | 2025-10-25 |
+| @usmannk | 48 | 62 | 2023-08-16 |
 | @brandon_shi | 68 | 68 | 2021-06-04 |
 | @str4d | – | 71 | 2013-09-06 |
 | @lavados | 25 | 71 | 2014-06-13 |
@@ -32,7 +32,7 @@ Updated 2026-11-19 07:13 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @_bagipro | 84 | 84 | 2020-08-16 |
 | @_blockian | 86 | 87 | 2023-03-03 |
 | @csanuragjain | 53 | 88 | 2018-11-14 |
-| @naresh_1337 | 69 | 89 | 2026-05-22 |
+| @naresh_1337 | 69 | 90 | 2026-05-22 |
 | @Piki_eth | 49 | 95 | 2024-09-21 |
 | @Kiki_developer | 44 | 105 | 2023-01-26 |
 | @RootxRavi | 27 | 107 | 2022-10-11 |
@@ -40,49 +40,49 @@ Updated 2026-11-19 07:13 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @SuyashS91823422 | 82 | 124 | 2021-10-06 |
 | @orange_8361 | 45 | 125 | 2016-04-21 |
 | @infinitelogins | 33 | 128 | 2020-01-17 |
-| @kobigurk | 45 | 129 | 2014-01-16 |
+| @kobigurk | 45 | 137 | 2014-01-16 |
 | @asymmetric_re | 137 | 139 | 2024-01-29 |
-| @Assass1nmarcos | 45 | 140 | 2018-11-24 |
+| @Assass1nmarcos | 45 | 141 | 2018-11-24 |
 | @0xPARC | 25 | 146 | 2021-11-11 |
 | @bluethroat_labs | 146 | 147 | 2025-12-02 |
 | @farazsth98 | 78 | 158 | 2019-09-30 |
-| @ma1fan | 44 | 164 | 2018-07-19 |
+| @ma1fan | 44 | 166 | 2018-07-19 |
 | @kankodu | 57 | 169 | 2022-07-26 |
 | @fransrosen | 57 | 174 | 2011-06-29 |
-| @xssdoctor | 156 | 175 | 2023-07-10 |
+| @xssdoctor | 156 | 176 | 2023-07-10 |
 | @WhiteHatMage | 134 | 177 | 2025-11-29 |
-| @asanso | 67 | 186 | 2011-01-30 |
 | @krishnsec | 26 | 188 | 2021-08-17 |
-| @lonelysloth_sec | 50 | 191 | 2023-12-17 |
+| @asanso | 67 | 189 | 2011-01-30 |
 | @ryotkak | 161 | 200 | 2019-05-29 |
-| @samwcyo | 31 | 204 | 2017-02-12 |
+| @samwcyo | 31 | 205 | 2017-02-12 |
 | @Neodyme | 16 | 208 | 2021-08-21 |
+| @lonelysloth_sec | 50 | 209 | 2023-12-17 |
 | @0xacb | 109 | 219 | 2014-01-05 |
-| @0xriptide | 48 | 221 | 2014-07-21 |
+| @0xriptide | 48 | 227 | 2014-07-21 |
 | @cmichelio | 181 | 244 | 2016-07-31 |
 | @infosec_au | 51 | 251 | 2015-07-16 |
-| @samczsun | 53 | 259 | 2020-03-13 |
 | @ajxchapman | 26 | 293 | 2013-03-23 |
-| @galnagli | 68 | 309 | 2020-07-24 |
+| @galnagli | 68 | 313 | 2020-07-24 |
+| @samczsun | 53 | 317 | 2020-03-13 |
 | @albinowax | 59 | 346 | 2011-03-08 |
 | @osec_io | 22 | 384 | 2022-02-09 |
-| @DevDacian | 32 | 418 | 2023-02-23 |
+| @DevDacian | 32 | 422 | 2023-02-23 |
 | @zseano | 47 | 422 | 2015-08-11 |
-| @Rhynorater | 188 | 430 | 2017-06-13 |
-| @zksecurityXYZ | 121 | 457 | 2023-05-16 |
-| @anchabadze | 94 | 468 | 2025-02-05 |
-| @S1r1u5_ | 66 | 525 | 2017-02-26 |
-| @zellic_io | 27 | 546 | 2022-01-27 |
-| @garethheyes | 59 | 561 | 2008-10-22 |
-| @irsdl | 35 | 614 | 2010-05-25 |
-| @pcaversaccio | 37 | 1032 | 2022-06-18 |
-| @trailofbits | 65 | 1067 | 2012-04-03 |
+| @Rhynorater | 188 | 436 | 2017-06-13 |
+| @zksecurityXYZ | 121 | 460 | 2023-05-16 |
+| @anchabadze | 94 | 469 | 2025-02-05 |
+| @S1r1u5_ | 66 | 545 | 2017-02-26 |
+| @zellic_io | 27 | 548 | 2022-01-27 |
+| @garethheyes | 59 | 569 | 2008-10-22 |
+| @irsdl | 35 | 618 | 2010-05-25 |
 | @ChainLight_io | 150 | 1081 | 2022-11-05 |
-| @saxenism | 651 | 1182 | 2020-03-15 |
-| @NahamSec | 176 | 1184 | 2016-09-01 |
-| @mdp_sec | 586 | 1319 | 2026-07-22 |
+| @saxenism | 651 | 1188 | 2020-03-15 |
+| @NahamSec | 176 | 1196 | 2016-09-01 |
+| @pcaversaccio | 37 | 1397 | 2022-06-18 |
+| @trailofbits | 65 | 1466 | 2012-02-13 |
+| @mdp_sec | 586 | 1564 | 2026-07-22 |
 
-Total: 5581 → 18929
+Total: 5581 → 20111
 
 ## Search cursors (pass 5, until_id paging)
 
@@ -128,9 +128,9 @@ Each cursor pages backwards with `until_id` = oldest post id already fetched by 
 | sax5k | 373 | 2020-03-15 | 1239266311294701568 | DONE (reached account start (2020-03-15)) | `from:saxenism -is:retweet (-is:reply OR to:saxenism) (bug OR vuln OR exploit OR bounty OR CVE OR poc OR audit OR security OR attack OR hack OR zk OR circuit OR tee OR sgx OR solidity OR evm OR 🧵 OR thread OR critical OR immunefi OR code4rena OR finding)` |
 | n6a | 475 | 2021-08-21 | 1429086758172565511 | DONE | `(from:Neodyme OR from:osec_io) -is:retweet -is:reply` |
 | n6b | 355 | 2023-05-16 | 1658515564309118978 | DONE | `from:zksecurityXYZ -is:retweet -is:reply` |
-| n6c | 960 | 2018-09-18 | 1042156997200756737 | OPEN | `from:trailofbits -is:retweet -is:reply` |
+| n6c | 1392 | 2012-02-13 | 169174545574539267 | DONE | `from:trailofbits -is:retweet -is:reply` |
 | n6d | 23 | 2025-06-19 | 1935760517177675877 | DONE (closed after 1 page: 22/23 already archived (low yield)) | `(from:asymmetric_re OR from:zellic_io OR from:ChainLight_io) -is:retweet -is:reply (vulnerability OR bug OR exploit OR audit OR critical OR disclosure OR postmortem OR writeup OR blog)` |
-| n6e | 938 | 2023-09-25 | 1706213881020911963 | OPEN | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` |
+| n6e | 1413 | 2023-03-22 | 1638491598177595392 | OPEN | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` |
 
 ## Older cursors (passes 1–4, next_token paging) — superseded by pass-5 cursors above
 
@@ -171,7 +171,6 @@ Each cursor pages backwards with `until_id` = oldest post id already fetched by 
 1. For each OPEN pass-5 cursor above, call X full-archive search with the exact `query` and `until_id`, `max_results` 25, and ALWAYS include `post.fields` created_at,author_id,conversation_id,attachments,entities,note_post plus `expansions` author_id,attachments.media_keys,referenced_posts (omitting created_at/author_id drops them from the response).
 2. Ingest with `/workspace/raw/auto.py <cursor labels…>` (maps each result file to its cursor by author, advances until_id), then `/workspace/raw/push.sh "<msg>"` (regenerates ARCHIVE.md files + this status, commits, pushes).
 3. A cursor is DONE when a call returns zero results. cmi3 (cmichelio) was closed manually at 2016-07 (pre-security-era posts); xss3, ryo3, rhy3, g5b, g6b, t2b, g7b, g8b, g9b returned zero / reached account start.
-
 ## 2026-11-15 note
 Pass-5 keyword backfill cursors remain DONE. Fresh full-archive probe for `(from:iguardz OR from:GuidoVranken) -is:retweet -is:reply` returned **0** results; `(from:iguardz OR from:GuidoVranken OR from:depi_)` security-keyword query returned only the already-archived @depi_ Codex post. No open pass-5 cursors to advance today; daily quota reserved for new-post sweep + Telegram/CVE.
 
@@ -229,3 +228,13 @@ Advanced the two OPEN pass-6 cursors by **8 search calls (4 pages each), 128 new
 | n6e | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` | 61 | 2023-08-11 | 1689896815280177152 | OPEN |
 
 Resume n6c and n6e with the same query, `until_id` as shown, `max_results` 100 (API caps at 25/call). Ingest with `/workspace/raw/daily/bf20.py <label> <file>`.
+
+## 2026-11-21 note — pass 6 continued; n6c (trailofbits) COMPLETE
+Advanced the two OPEN pass-6 cursors by **31 search calls (16 n6c incl. 1 empty terminal page, 15 n6e), 686 newly archived posts** (331 trailofbits, 355 samczsun/pcaversaccio). n6c reached the start of @trailofbits' timeline (2012-02-13) and returned zero further results → **DONE**. 368 backfilled posts with long text or unexpanded links were re-read with `get_posts_by_ids` (4 calls) for entities/`note_post`.
+
+| Cursor | Query | New today | Oldest reached | until_id (resume) | State |
+|---|---|---|---|---|---|
+| n6c | `from:trailofbits -is:retweet -is:reply` | 331 | 2012-02-13 | 169174545574539267 | DONE |
+| n6e | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` | 355 | 2023-03-22 | 1638491598177595392 | OPEN |
+
+Resume n6e with the same query, `until_id` as shown, `max_results` 25. Ingest with `/workspace/raw/daily/bf21.py <label> <file>`. Next after n6e: older pass-1–5 next_token cursors (saxenism `sax*`, `g2`…`g12`, `nah`, `rhy`, `cmi`, `chl`, `ryo`, `xss`, `t1`–`t3`, `u1`) are still open.

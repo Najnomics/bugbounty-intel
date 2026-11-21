@@ -1,40 +1,40 @@
 {
- "generated": "2026-11-20 (Africa/Lagos)",
+ "generated": "2026-11-21 (Africa/Lagos)",
  "note": "Markers for the daily incremental CVE run. See cves/README.md \"Daily incremental procedure\".",
  "sources": {
   "cvelistV5": {
    "status": "complete",
-   "records": 429285,
+   "records": 430022,
    "years": "1999-2026",
-   "max_dateUpdated": "2026-11-20T04:57:31.238Z",
+   "max_dateUpdated": "2026-11-21T04:55:47.332Z",
    "source": "https://github.com/CVEProject/cvelistV5 (release zip)",
    "incremental": "download https://github.com/CVEProject/cvelistV5/releases latest *_delta_CVEs_at_*.zip or the daily cumulative delta since max_dateUpdated; re-run tools/intel-pipeline/cve_build.py"
   },
   "nvd": {
    "status": "complete",
-   "records": 429286,
-   "max_lastModified": "2026-11-20T05:18:57.930",
-   "api_timestamp": "2026-11-20T06:03:45.014",
+   "records": 430022,
+   "max_lastModified": "2026-11-21T05:18:23.937",
+   "api_timestamp": "2026-11-21T05:49:38.136",
    "incremental": "GET https://services.nvd.nist.gov/rest/json/cves/2.0?lastModStartDate=<max_lastModified>&lastModEndDate=<now> (max 120-day window, 2000/page, sleep 6s), then tools/intel-pipeline/nvd_build.py"
   },
   "cisa_kev": {
    "status": "complete",
-   "catalogVersion": "2026.11.18",
-   "dateReleased": "2026-11-18T19:17:41.0354Z",
-   "count": 1786,
+   "catalogVersion": "2026.11.20",
+   "dateReleased": "2026-11-20T17:48:39.1516Z",
+   "count": 1790,
    "source": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
   },
   "ghsa": {
    "status": "complete",
-   "records": 37984,
-   "max_modified": "2026-11-20T00:23:45Z",
+   "records": 38021,
+   "max_modified": "2026-11-20T23:55:07Z",
    "source": "https://github.com/github/advisory-database (reviewed)",
    "incremental": "GitHub REST GET /advisories?type=reviewed&sort=updated&direction=desc until modified <= max_modified"
   },
   "osv_non_ghsa": {
    "status": "complete",
-   "records": 23921,
-   "max_modified": "2026-11-20T05:00:03.118407672Z",
+   "records": 23933,
+   "max_modified": "2026-11-20T17:40:37.640192600Z",
    "source": "https://osv-vulnerabilities.storage.googleapis.com/<eco>/all.zip; skipped: GHSA dups, MAL- malicious-package records, GIT and Linux ecosystems (covered by cvelist/kernel CNA)",
    "incremental": "per ecosystem modified_id.csv at https://osv-vulnerabilities.storage.googleapis.com/<eco>/modified_id.csv, entries newer than max_modified"
   },
@@ -48,9 +48,9 @@
   },
   "linux_kernel_cna": {
    "status": "complete",
-   "records": 19070,
-   "vulns_git_head": "73eb6a583c36884834ffb3c74a72620e961c8de1",
-   "vulns_git_date": "2026-11-20T06:53:03+01:00",
+   "records": 19079,
+   "vulns_git_head": "144020080a9c41a4da6d92280c849c9b476a58f1",
+   "vulns_git_date": "2026-11-20T08:02:49+01:00",
    "source": "https://git.kernel.org/pub/scm/linux/security/vulns.git",
    "incremental": "git -C /workspace/raw/kvulns pull; re-run tools/intel-pipeline/kernel_cna_build.py"
   },
@@ -62,8 +62,8 @@
   },
   "zdi": {
    "status": "complete",
-   "advisories_indexed": 17445,
-   "full_text_pages": 17445,
+   "advisories_indexed": 17447,
+   "full_text_pages": 17447,
    "cursor": "fetch https://www.zerodayinitiative.com/advisories/<ZDI-ID>/ for every id in data/zdi/*.jsonl whose \"text\" is null (status \"page not yet fetched\"); raw pages cached in /workspace/raw/zdi/pages; then re-run tools/intel-pipeline/zdi_build.py",
    "incremental": "https://www.zerodayinitiative.com/advisories/published/<year>/ table"
   },

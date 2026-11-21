@@ -1,11 +1,40 @@
 # @Assass1nmarcos — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 140
-- Conversations/threads: 106
+- Posts in this file: 141
+- Conversations/threads: 107
 - Oldest post captured: 2018-11-24
-- Newest post captured: 2026-11-16
+- Newest post captured: 2026-11-21
+
+
+---
+
+## 2026-11-21 · Reply · @ArmanSameer95 [pic.x.com/aiOvyx3dRw]
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @ArmanSameer95 — 2026-11-21 03:18 UTC (2026-11-21 04:18 WAT)
+
+- URL: https://x.com/ArmanSameer95/status/2123979421657026914
+- Metrics (at fetch): not returned
+
+> 🤔 [pic.x.com/AvNCu1NJ9s]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXnkBvQaYAAxf72.jpg — no alt text provided by author
+
+
+### Post — @Assass1nmarcos — 2026-11-21 03:46 UTC (2026-11-21 04:46 WAT)
+
+- URL: https://x.com/Assass1nmarcos/status/2123986315654115470
+- Metrics (at fetch): not returned
+
+> @ArmanSameer95 [pic.x.com/aiOvyx3dRw]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/HXnqSqMaoAA13qb.jpg — no alt text provided by author
 
 
 ---

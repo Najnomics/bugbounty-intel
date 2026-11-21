@@ -1,11 +1,44 @@
 # @usmannk — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-19 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 61
-- Conversations/threads: 58
+- Posts in this file: 62
+- Conversations/threads: 59
 - Oldest post captured: 2023-08-16
-- Newest post captured: 2026-11-16
+- Newest post captured: 2026-11-21
+
+
+---
+
+## 2026-11-21 · Reply · @iismallcombe missing hila and bi-rite
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @iismallcombe — 2026-11-20 21:38 UTC (2026-11-20 22:38 WAT)
+
+- URL: https://x.com/iismallcombe/status/2123893814549225511
+- Metrics (at fetch): not returned
+
+> this is my official ice cream recommendation list in sf 
+> - garden creamery: best ice cream in the city and lots of unique flavors that i've only seen here
+> - philmore creamery: great gelato but limited amount of flavors (get the banana macademia)
+> - gio's gelateria (temporarily closed :((( ): incredible gelato and lot's of unique seasonal sorbet flavors 
+> - ice cream bar: 1950s ice cream bar themed, best place to get a banana split in the city
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXmWDLoaoAAHPgu.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXmWF8ia0AAuBd4.jpg — no alt text provided by author
+
+
+### Post — @usmannk — 2026-11-21 00:42 UTC (2026-11-21 01:42 WAT)
+
+- URL: https://x.com/usmannk/status/2123939957631070707
+- Metrics (at fetch): not returned
+
+> @iismallcombe missing hila and bi-rite
+>
+> but plus points for leaving out salt&amp;straw mitchells smitten and humphrey slocombe
 
 
 ---

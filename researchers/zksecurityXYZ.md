@@ -52,3 +52,8 @@ _No single post in this capture describes a specific vulnerability in enough det
 - **How it was found:** N/A
 - **Takeaways / harness:** Full dataset in [writeups/zksecurityXYZ/collision-atlas-2026-11-16.md](../writeups/zksecurityXYZ/collision-atlas-2026-11-16.md); use MD5/SHA-1 pairs as test vectors against dedupe/integrity/allowlist logic.
 
+
+
+### Update 2026-11-21
+
+- **38-step SHA-256 collision verifier** — https://x.com/zksecurityXYZ/status/2123882976547377591 — [`posts/zksecurityXYZ/2026-11-20-2123882976547377591.md`](../posts/zksecurityXYZ/2026-11-20-2123882976547377591.md), [`writeups/zksecurityXYZ/sha256-collisions-verifier.md`](../writeups/zksecurityXYZ/sha256-collisions-verifier.md); zk.golf / better.codes as model benchmarks — /2123984029829501049.
