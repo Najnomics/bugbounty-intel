@@ -1,4 +1,4 @@
-# HackerOne disclosed reports by weakness (12768 reports)
+# HackerOne disclosed reports by weakness (12770 reports)
 
 
 ## Unspecified (1279)
@@ -3946,7 +3946,7 @@
 - [3665151](reports/2026/3665151.md) Brave Shields Domain Reordering Leads to Origin Confusion — brave — low —  — Violation of Secure Design Principles
 - [3829030](reports/2026/3829030.md) Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption — yelp — low —  — Violation of Secure Design Principles
 
-## Improper Access Control - Generic (707)
+## Improper Access Control - Generic (708)
 
 - [2293343](reports/2025/2293343.md) Account Takeover via Password Reset without user interactions — gitlab — critical — $35,000 — Improper Access Control - Generic
 - [1685822](reports/2022/1685822.md) RepositoryPipeline allows importing of local git repos — gitlab — medium — $22,300 — Improper Access Control - Generic
@@ -4655,6 +4655,7 @@
 - [3417759](reports/2026/3417759.md) Broken Access Control on **healthwatch.trellix.com** Leading to Unauthorized Access and Sensitive Data Exposure — trellix — medium —  — Improper Access Control - Generic
 - [4062639](reports/2026/4062639.md) Unauthenticated UCP/MCP catalog access on a password-protected dev store — shopify — none —  — Improper Access Control - Generic
 - [4059370](reports/2026/4059370.md) Mass assignment in chat.sendMessage allows unprivileged users to forge message state: persistent room DoS, stored HTML injection, and cross-user write — rocket_chat — medium —  — Improper Access Control - Generic
+- [4119675](reports/2026/4119675.md) Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creating site-wide Language rows without language.add — weblate — medium —  — Improper Access Control - Generic
 
 ## Improper Authentication - Generic (673)
 
@@ -8325,7 +8326,7 @@
 - [1813453](reports/2025/1813453.md) [MK8DX] Improper ranking/replay file parsing — nintendo — critical —  — Memory Corruption - Generic
 - [3871977](reports/2026/3871977.md) Connector/ODBC: malicious server's long version string wraps size_t PrefixLen via negative _snprintf return, causing heap out-of-bounds write — mariadb — medium —  — Memory Corruption - Generic
 
-## Code Injection (299)
+## Code Injection (300)
 
 - [925585](reports/2021/925585.md) RCE via npm misconfig -- installing internal libraries from the public registry — paypal — critical — $30,000 — Code Injection
 - [1125425](reports/2021/1125425.md) RCE via unsafe inline Kramdown options when rendering certain Wiki pages — gitlab — critical — $20,000 — Code Injection
@@ -8348,6 +8349,7 @@
 - [1044716](reports/2021/1044716.md) SQL Injection in www.hyperpure.com — eternal — critical — $2,000 — Code Injection
 - [402362](reports/2021/402362.md) RCE due to ImageTragick v2 — pixiv — critical — $2,000 — Code Injection
 - [1652042](reports/2022/1652042.md) CVE-2022-21831: Possible code injection vulnerability in Rails / Active Storage — ibb — high — $2,000 — Code Injection
+- [2119149](reports/2026/2119149.md) Evernote(WindowsApp) XSS to RCE — evernote — high — $2,000 — Code Injection
 - [98259](reports/2015/98259.md) 'Limited' RCE in certain places where Liquid is accepted — shopify — - — $1,500 — Code Injection
 - [113928](reports/2016/113928.md) Remote code execution using render :inline — rails — - — $1,500 — Code Injection
 - [106548](reports/2016/106548.md) Format string vulnerability in zend_throw_or_error() — ibb — - — $1,000 — Code Injection

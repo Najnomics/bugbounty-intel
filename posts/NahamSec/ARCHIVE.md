@@ -1,16 +1,139 @@
 # @NahamSec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1196
-- Conversations/threads: 1013
+- Posts in this file: 1203
+- Conversations/threads: 1019
 - Oldest post captured: 2016-09-01
 - Newest post captured: 2026-11-21
 
 
 ---
 
-## 2026-11-21 · Post · nahamcon2026 x Prompt2Pwn day 1 was an absolute success. 
+## 2026-11-21 · Post · Going live from nahamcon2026 / Prompt2Pwn with the @ctbbpodcast homies in 20 minutes on https://Yo
+
+
+### Post — @NahamSec — 2026-11-21 23:07 UTC (2026-11-22 00:07 WAT)
+
+- URL: https://x.com/NahamSec/status/2124278672123433259
+- Metrics (at fetch): bookmark 3, impression 2211, like 14, quote 0, reply 0, repost 1
+
+> Going live from #nahamcon2026 / #Prompt2Pwn with the @ctbbpodcast homies in 20 minutes on https://YouTube.com/nahamsec [pic.x.com/CvgGKvpkLr]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXr0Mc8a8AANUSE.jpg — no alt text provided by author
+
+**Links in post:** https://YouTube.com/nahamsec
+
+
+---
+
+## 2026-11-21 · Post · We are live with @0xLupin! [pic.x.com/8Ql9WvKaP0]
+
+
+### Post — @NahamSec — 2026-11-21 21:03 UTC (2026-11-21 22:03 WAT)
+
+- URL: https://x.com/NahamSec/status/2124247332388733006
+- Metrics (at fetch): bookmark 1, impression 3125, like 31, quote 0, reply 0, repost 1
+
+> We are live with @0xLupin! [pic.x.com/8Ql9WvKaP0]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXrXsHhaoAAUav_.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-21 · Post · Quick lunch break and we’ll return at 1:00 PM for “Running Supply Chain Attacks in the AI Era: C2, P
+
+
+Tags (automatic): Dependency confusion / supply chain, AI-assisted hunting
+
+
+### Post — @NahamSec — 2026-11-21 20:21 UTC (2026-11-21 21:21 WAT)
+
+- URL: https://x.com/NahamSec/status/2124236837715870172
+- Metrics (at fetch): bookmark 4, impression 3284, like 17, quote 1, reply 2, repost 0
+
+> Quick lunch break and we’ll return at 1:00 PM for “Running Supply Chain Attacks in the AI Era: C2, Package Poisoning and Backdoored AI Agents” with @0xLupin followed by “Many Agents, One Surface” from @prebenve 
+>
+> https://YouTube.com/nahamsec [pic.x.com/leWDFb2ajW]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXrOJTva0AA8bY8.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXrOJTubwAA6wf9.jpg — no alt text provided by author
+
+**Links in post:** https://YouTube.com/nahamsec
+
+
+---
+
+## 2026-11-21 · Post · Quick little break but we’ll be going live at 11:30 with @monkehack’s talk “Weird Ways to Hack Gemin
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @NahamSec — 2026-11-21 19:24 UTC (2026-11-21 20:24 WAT)
+
+- URL: https://x.com/NahamSec/status/2124222442466091367
+- Metrics (at fetch): bookmark 3, impression 2709, like 13, quote 0, reply 0, repost 0
+
+> Quick little break but we’ll be going live at 11:30 with @monkehack’s talk “Weird Ways to Hack Gemini”  on https://YouTube.com/nahamsec [pic.x.com/mGaQ28wEKG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXrBDdUbcAAoBjg.jpg — no alt text provided by author
+
+**Links in post:** https://YouTube.com/nahamsec
+
+
+---
+
+## 2026-11-21 · Post · Live with @_JohnHammond on YouTube. 
+
+
+### Post — @NahamSec — 2026-11-21 18:01 UTC (2026-11-21 19:01 WAT)
+
+- URL: https://x.com/NahamSec/status/2124201576432877989
+- Metrics (at fetch): bookmark 2, impression 3960, like 39, quote 0, reply 0, repost 0
+
+> Live with @_JohnHammond on YouTube. 
+>
+> https://YouTube.com/nahamsec [pic.x.com/woWN9Bi7yO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXquEw9aEAAd3ai.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXquExAaYAAipLi.jpg — no alt text provided by author
+
+**Links in post:** https://YouTube.com/nahamsec
+
+
+---
+
+## 2026-11-21 · Post · Day 2 kicks off in just ONE hour!
+
+
+### Post — @NahamSec — 2026-11-21 17:02 UTC (2026-11-21 18:02 WAT)
+
+- URL: https://x.com/NahamSec/status/2124186641640411336
+- Metrics (at fetch): bookmark 3, impression 3429, like 26, quote 0, reply 1, repost 2
+
+> Day 2 kicks off in just ONE hour!
+>
+> @_JohnHammond is bringing today’s keynote: “Robots Take Over the World (Well, At Least My World)”
+>
+> Tune in live 👉🏼 https://youtube.com/nahamsec [pic.x.com/pCoLceK6MR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXqge6PbsAEKeeK.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXqgL2baAAASoQF.jpg — no alt text provided by author
+
+**Links in post:** https://youtube.com/nahamsec
+
+
+---
+
+## 2026-11-21 · Thread · nahamcon2026 x Prompt2Pwn day 1 was an absolute success. 
 
 
 ### Post — @NahamSec — 2026-11-21 05:07 UTC (2026-11-21 06:07 WAT)
@@ -27,6 +150,14 @@ _Generated 2026-11-21 from the X API (full-archive search + timeline). Every pos
 - photo: https://pbs.twimg.com/media/HXn84PIaUAEsIeB.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/HXn84PCaYAA74zY.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/HXn84PAaoAAVrjp.jpg — no alt text provided by author
+
+
+### Thread part 2 — @NahamSec — 2026-11-21 06:36 UTC (2026-11-21 07:36 WAT)
+
+- URL: https://x.com/NahamSec/status/2124029246951903482
+- Metrics (at fetch): bookmark 0, impression 210, like 1, quote 0, reply 0, repost 0
+
+> @mdp_sec Next one!
 
 
 ---

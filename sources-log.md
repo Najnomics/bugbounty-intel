@@ -520,6 +520,18 @@ session-feed: apex-hunter/thegraph 2026-11-16 — 3 technique rows appended
 - Backfill: n6c (trailofbits) +67 → 2017-11-09; n6e (samczsun/pcaversaccio) +61 → 2023-08-11; both OPEN.
 - mdpsec.com checked (unchanged: 591 reports / 150 critical).
 
+## 2026-11-22 daily run (Africa/Lagos)
+- X (connector `x`, `search_posts_all`): 3 grouped handle queries since 2026-11-21T05:00Z (+ pagination, 10 calls), `get_posts_by_ids` ×2 (194 ids) for note_post/entities; backfill n6e ×~14 pages; 1 call for Telegram-linked X posts. **193 new posts** (sweep) + **~375** backfill (n6e → 2022-12-02 OPEN). ARCHIVE TOTAL 20,603.
+  - https://x.com/PaulosYibelo/status/2124203995329933441 (Upload2Shell / CVE-2026-125396) + research https://pwn.ai/upload2shell/research.html
+  - https://x.com/mdp_sec/status/2124052695359381521 (OTP ATO $5k) · /2124233889270939950 (`/./metrics` bypass) · /2124022496446017575 (HuntDeck $/hr) · /2124240867590549887 · /2124374055747043600 (abliterated benchmarks) · /2124303479737049222 (harness pack)
+  - https://x.com/pcaversaccio/status/2124077434697846817 (Zama FHE walkaway)
+- Writeups fetched: pwn.ai/upload2shell + research.html (CVE-2026-125396); blackboxarena compare page refreshed; huntdeck.io/disclosed **403**. Telegram Medium RSS (+6) + Wayback backlog +152 (43 fail) → pending 9,963.
+- Telegram previews: https://t.me/s/defendor_eng (+4: 2370-2373), https://t.me/s/dailybountywriteup (+1: 14995). X posts linked from defendor fetched via X API.
+- HackerOne: GraphQL disclosed_at:[2026-11-20 TO 2026-11-22] → +2 (4119675, 2119149). Inventory 12,770.
+- CVE: cvelistV5 28 delta zips since 2026-11-21T03:00Z (404 new / 42 updated); NVD lastModStartDate=2026-11-21.. (406 new / 36 updated → 430,428); KEV unchanged 2026.11.20; github/advisory-database pull (687827b9); OSV re-pull; kernel vulns.git (74837062); ZDI unchanged 17,447; Project Zero 258.
+- Repo advisories: 0 new on tracked Zcash/Ethereum/Solana repos. mdpsec.com unchanged (591/150/267).
+- Backfill: n6e (samczsun/pcaversaccio) +~375 → 2022-12-02 OPEN (ARCHIVE 20,603).
+
 ## 2026-11-21 daily run (Africa/Lagos)
 - X (connector `x`, `search_posts_all`): 3 grouped handle queries since 2026-11-20T05:00Z (+ pagination, 10 calls), `get_posts_by_ids` ×3 (262 ids: new posts + referenced posts) for note_post/entities; backfill n6c ×16 / n6e ×15 pages + `get_posts_by_ids` ×4 (368 backfilled ids); 2 reads for Telegram-linked X posts. ~55 reads of 1000. **177 new posts** (sweep) + **686** backfill.
   - https://x.com/mdp_sec/status/2123871501539783102 (side-action cross-tenant IDOR) · /2123660108425035820 (provider drift) · /2123710445458505848 (payout thread) · /2123946567359197319 · /2123921694746448236 · /2124005878571696338

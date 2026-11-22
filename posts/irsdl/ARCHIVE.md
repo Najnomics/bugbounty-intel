@@ -1,16 +1,16 @@
 # @irsdl — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 618
+- Posts in this file: 619
 - Conversations/threads: 537
 - Oldest post captured: 2010-05-25
-- Newest post captured: 2026-11-20
+- Newest post captured: 2026-11-21
 
 
 ---
 
-## 2026-11-20 · Post · The latest Sharpener release fixes a compatibility issue introduced in a recent Burp Suite updates.
+## 2026-11-20 · Thread · The latest Sharpener release fixes a compatibility issue introduced in a recent Burp Suite updates.
 
 
 ### Post — @irsdl — 2026-11-20 20:51 UTC (2026-11-20 21:51 WAT)
@@ -28,6 +28,15 @@ _Generated 2026-11-21 from the X API (full-archive search + timeline). Every pos
 - video: https://pbs.twimg.com/amplify_video_thumb/2123881888280408064/img/NzxL1Ha_PeB2c6Jq.jpg — no alt text provided by author
 
 **Links in post:** https://github.com/irsdl/BurpSuiteSharpenerEx/releases/tag/main_4.94
+
+
+### Thread part 2 — @irsdl — 2026-11-21 13:56 UTC (2026-11-21 14:56 WAT)
+
+- URL: https://x.com/irsdl/status/2124139913511587851
+- Metrics (at fetch): bookmark 0, impression 64, like 1, quote 0, reply 0, repost 0
+
+> @PentesterG Yes, it also controls the screen too if you want to. I was using it for extension development.
+> BurpMcp for web testing is good but you will need to remove its size limit to get better results.
 
 
 ---

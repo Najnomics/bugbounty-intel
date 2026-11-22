@@ -1,11 +1,187 @@
 # @anchabadze — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 469
-- Conversations/threads: 463
+- Posts in this file: 471
+- Conversations/threads: 465
 - Oldest post captured: 2025-02-05
-- Newest post captured: 2026-11-20
+- Newest post captured: 2026-11-22
+
+
+---
+
+## 2026-11-22 · Post · 🎯 Day 573 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-11-22 01:11 UTC (2026-11-22 02:11 WAT)
+
+- URL: https://x.com/anchabadze/status/2124309851467546828
+- Metrics (at fetch): bookmark 0, impression 41, like 1, quote 0, reply 0, repost 0
+
+> 🎯 Day 573 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 1 hour
+> 🔎 Focus: Learning
+> 🛠️ Practical work:
+> - Read an AI sec articles
+> - Read and studied several reports from past audit contest https://twitter.com/i/status/2124053228966863035
+
+**Links in post:** https://twitter.com/i/status/2124053228966863035
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-11-21 08:12 UTC (2026-11-21 09:12 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2124053228966863035
+    - Metrics (at fetch): bookmark 0, impression 161, like 2, quote 1, reply 0, repost 0
+    
+    > 🎯 Day 572 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 5 hours
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Private audit
+    > - Read several AI web3 sec articles https://twitter.com/i/status/2123591197989929161
+    
+    **Links in post:** https://twitter.com/i/status/2123591197989929161
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-11-20 01:36 UTC (2026-11-20 02:36 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2123591197989929161
+        - Metrics (at fetch): bookmark 0, impression 98, like 2, quote 0, reply 0, repost 0
+        
+        > 🎯 Day 571 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 4 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Private audit https://twitter.com/anchabadze/status/2123215651921686694
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2123215651921686694
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-11-19 00:43 UTC (2026-11-19 01:43 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2123215651921686694
+            - Metrics (at fetch): bookmark 0, impression 41, like 0, quote 0, reply 0, repost 0
+            
+            > 🎯 Day 570 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 6 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Private audit
+            > - Building AI Agent for smart contract audits
+            > - Made some fixes to the Solidity Flowboard extension for smart contract audits https://twitter.com/anchabadze/status/2122848370653900865
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2122848370653900865
+            
+            **Quoted post (full text):**
+            
+                #### Quoted post — @anchabadze — 2026-11-18 00:24 UTC (2026-11-18 01:24 WAT)
+                
+                - URL: https://x.com/anchabadze/status/2122848370653900865
+                - Metrics (at fetch): bookmark 0, impression 112, like 0, quote 1, reply 0, retweet 0
+                
+                > 🎯 Day 569 of my #RoadToWeb3SecurityJobChallenge
+                >
+                > 🕰️ Hours worked: 5 hours 30 min
+                > 🔎 Focus: Auditing
+                > 🛠️ Practical work:
+                > - Private audit https://twitter.com/anchabadze/status/2122645406676844946
+                
+                **Links in post:** https://twitter.com/anchabadze/status/2122645406676844946
+                
+                **Quoted post** 2122645406676844946: not readable via the API (deleted, private, or withheld).
+                
+            
+        
+    
+
+
+---
+
+## 2026-11-21 · Post · 🎯 Day 572 of my RoadToWeb3SecurityJobChallenge
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @anchabadze — 2026-11-21 08:12 UTC (2026-11-21 09:12 WAT)
+
+- URL: https://x.com/anchabadze/status/2124053228966863035
+- Metrics (at fetch): bookmark 0, impression 161, like 2, quote 1, reply 0, repost 0
+
+> 🎯 Day 572 of my #RoadToWeb3SecurityJobChallenge
+>
+> 🕰️ Hours worked: 5 hours
+> 🔎 Focus: Auditing
+> 🛠️ Practical work:
+> - Private audit
+> - Read several AI web3 sec articles https://twitter.com/i/status/2123591197989929161
+
+**Links in post:** https://twitter.com/i/status/2123591197989929161
+
+**Quoted post (full text):**
+
+    #### Quoted post — @anchabadze — 2026-11-20 01:36 UTC (2026-11-20 02:36 WAT)
+    
+    - URL: https://x.com/anchabadze/status/2123591197989929161
+    - Metrics (at fetch): bookmark 0, impression 98, like 2, quote 0, reply 0, repost 0
+    
+    > 🎯 Day 571 of my #RoadToWeb3SecurityJobChallenge
+    >
+    > 🕰️ Hours worked: 4 hours 30 min
+    > 🔎 Focus: Auditing
+    > 🛠️ Practical work:
+    > - Private audit https://twitter.com/anchabadze/status/2123215651921686694
+    
+    **Links in post:** https://twitter.com/anchabadze/status/2123215651921686694
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @anchabadze — 2026-11-19 00:43 UTC (2026-11-19 01:43 WAT)
+        
+        - URL: https://x.com/anchabadze/status/2123215651921686694
+        - Metrics (at fetch): bookmark 0, impression 41, like 0, quote 0, reply 0, repost 0
+        
+        > 🎯 Day 570 of my #RoadToWeb3SecurityJobChallenge
+        >
+        > 🕰️ Hours worked: 6 hours 30 min
+        > 🔎 Focus: Auditing
+        > 🛠️ Practical work:
+        > - Private audit
+        > - Building AI Agent for smart contract audits
+        > - Made some fixes to the Solidity Flowboard extension for smart contract audits https://twitter.com/anchabadze/status/2122848370653900865
+        
+        **Links in post:** https://twitter.com/anchabadze/status/2122848370653900865
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @anchabadze — 2026-11-18 00:24 UTC (2026-11-18 01:24 WAT)
+            
+            - URL: https://x.com/anchabadze/status/2122848370653900865
+            - Metrics (at fetch): bookmark 0, impression 112, like 0, quote 1, reply 0, retweet 0
+            
+            > 🎯 Day 569 of my #RoadToWeb3SecurityJobChallenge
+            >
+            > 🕰️ Hours worked: 5 hours 30 min
+            > 🔎 Focus: Auditing
+            > 🛠️ Practical work:
+            > - Private audit https://twitter.com/anchabadze/status/2122645406676844946
+            
+            **Links in post:** https://twitter.com/anchabadze/status/2122645406676844946
+            
+            **Quoted post** 2122645406676844946: not readable via the API (deleted, private, or withheld).
+            
+        
+    
 
 
 ---

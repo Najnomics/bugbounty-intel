@@ -345,13 +345,6 @@ https://attacker.com?@www.periscope.tv
 --------\ hostname /-\     query     /
 ```
 
-## #246897 Open Redirect — x — - — Open Redirect
-Source: `hackerone/reports/2017/246897.md` (https://hackerone.com/reports/246897)
-
-```
-- by clicking on this link you will get redirect to https://google.com  as you can see it on  
-```
-
 ## #1579374 Browser is not following proper flow for redirection cause open redirect  — brave — - — None
 Source: `hackerone/reports/2022/1579374.md` (https://hackerone.com/reports/1579374)
 
@@ -440,6 +433,13 @@ startActivity(intent)
     <a href="intent://app/feedback#Intent;scheme=chdr;package=███;S.URL=https://URL;end">Open URL - ███</a>
 
 </body>
+```
+
+## #246897 Open Redirect — x — - — Open Redirect
+Source: `hackerone/reports/2017/246897.md` (https://hackerone.com/reports/246897)
+
+```
+- by clicking on this link you will get redirect to https://google.com  as you can see it on  
 ```
 
 ## #840736 Open Redirect filter bypass through '\' character via URL parameter — myndr — - — Open Redirect
@@ -658,6 +658,21 @@ Connection: close
 4. The response is Content-Type: text/plain (with a bogus ; x=html parameter) containing a <meta http-equiv="refresh"> redirect. Despite the non-renderable text/plain type, the Follow redirection button appears.
 ```
 
+## #158019 Host Header Injection/Redirection in: https://www.instacart.com/ — instacart — - — Open Redirect
+Source: `hackerone/reports/2016/158019.md` (https://hackerone.com/reports/158019)
+
+```
+GET / HTTP/1.1
+Host: google.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+
+HTTP/1.1 301 Moved Permanently
+```
+
 ## #1050193 [intensedebate.com] Open Redirect — automattic — - — Open Redirect
 Source: `hackerone/reports/2021/1050193.md` (https://hackerone.com/reports/1050193)
 
@@ -698,21 +713,6 @@ Connection: close
 Cookie: y=y;
 Upgrade-Insecure-Requests: 1
 '''
-```
-
-## #158019 Host Header Injection/Redirection in: https://www.instacart.com/ — instacart — - — Open Redirect
-Source: `hackerone/reports/2016/158019.md` (https://hackerone.com/reports/158019)
-
-```
-GET / HTTP/1.1
-Host: google.com
-User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: close
-
-HTTP/1.1 301 Moved Permanently
 ```
 
 ## #309058 Open Redirect on the nl.wordpress.net — wordpress — - — Open Redirect

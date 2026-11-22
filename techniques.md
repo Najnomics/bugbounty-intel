@@ -2,9 +2,28 @@
 
 High-level methodology, recon tips, and bug patterns pulled from the public sources in this repo. Each item is linked to its source. This is a workflow aid, not an exploit guide: reproduction steps and payloads stay in the original writeups.
 
-Last updated: 16 November 2026 (Africa/Lagos).
+Last updated: 22 November 2026 (Africa/Lagos).
 
 ---
+
+## 2026-11-22 additions (daily X sweep, HackerOne, Telegram)
+
+**Upload2Shell — Ghostscript Type1 font UAF reaches RCE through ordinary image/PDF pipelines (CVE-2026-125396).** PaulosYibelo + GPT 5.6 Sol: `.putgstringcopy` uses `.forceput` without type checks; a crafted Type1 font traps `typecheck` during `copy`, resumes into `.forceput`, plants a global→local dangling ref, and after `restore` overwrites native `path_control_active` to disable `-dSAFER` → `%pipe%` RCE. Remote chains: Roundcube email thumbnail (no click), WordPress PDF preview + Forminator/Essential Addons public uploads, Debian 13 CUPS anonymous IPP Print-Job. Harness: inventory every upload→renderer path (ImageMagick/Pillow/Imagick/libvips/Qt EPS/CUPS); flag Ghostscript < 10.08.0; probe EPS under `.jpg`/`.png`/`.pdf`. Full research: [writeups/PaulosYibelo/upload2shell-research-CVE-2026-125396.md](writeups/PaulosYibelo/upload2shell-research-CVE-2026-125396.md). Source: [@PaulosYibelo 21 Nov 2026](posts/PaulosYibelo/2026-11-21-2124203995329933441.md).
+
+**Edge denylist bypass via `/./` and single-char percent-encoding.** mdp_sec: `403` on `/metrics`, `200` on `/./metrics` (and encoding any one letter of "metrics"); Prometheus exporter labeled every request path, leaking live applicant tokens for ~8 days → unauth cross-user application R/W. Harness: for every edge-blocked path try `/./path`, `/path/.`, `%XX` of one char, double-encode; scan 200 bodies for tokens and replay. Source: [@mdp_sec 21 Nov 2026](posts/mdp_sec/2026-11-21-2124233889270939950.md).
+
+**OTP verify/finalize identity mismatch → ATO ($5k).** OTP verified against attacker's account but login session came back as the victim's. Harness: model MFA as a state machine — assert identity at verify equals identity at finalize; swap user_id/email between steps; race verify+finalize. Source: [@mdp_sec 21 Nov 2026](posts/mdp_sec/2026-11-21-2124052695359381521.md).
+
+**Pay-per-hour bug-class ranking (HuntDeck Public).** Access control dominates S-tier; open redirect alone ~$280 median on public disclosures. Weight automation toward IDOR/BAC/ATO/open-redirect when optimizing $/hour. Source: [@mdp_sec 21 Nov 2026](posts/mdp_sec/2026-11-21-2124022496446017575.md).
+
+**Abliterated model providers still trail the direct API.** OrcaRouter orcacyber flash 37.5% / abliteration_ai 25% vs DeepSeek direct 45% @ $0.46/solve on the same 10 black-box labs. Prefer direct + auth context; canary-eval on provider change. Sources: [OrcaRouter](posts/mdp_sec/2026-11-21-2124240867590549887.md), [abliteration_ai](posts/mdp_sec/2026-11-22-2124374055747043600.md).
+
+**FHE privacy walkaway test (pcaversaccio on Zama).** Vendor-dependent FHE that requires patent permission fails CROPS/walkaway. Checklist: independent reimplementability, patent/license, maintainer succession, attestation independent of vendor keys. Source: [@pcaversaccio 21 Nov 2026](posts/pcaversaccio/2026-11-21-2124077434697846817.md).
+
+**Weblate language_aliases → unvalidated LanguageManager.auto_create (H1 #4119675, CVE-2025-68398 / CVE-2026-86035).** Project-scoped aliases reach `get_or_create` without `full_clean()` / `LANGUAGE_CODE_RE`, creating site-wide Language rows without `language.add`. Harness: any project setting that flows into `get_or_create`/`update_or_create` without model validation is a privilege-bypass candidate. Source: [hackerone/reports/2026/4119675.md](hackerone/reports/2026/4119675.md).
+
+**Evernote Windows ENEX XSS → RCE (H1 #2119149, $2k).** Malformed ENEX with HTML-entityized XSS in `--en-clipped-source-title` style attribute → XSS in desktop app → RCE. Harness: for desktop note/clip importers, fuzz style/CDATA attributes that render in a privileged webview. Source: [hackerone/reports/2026/2119149.md](hackerone/reports/2026/2119149.md).
+
 
 ## 2026-11-16 additions (daily X sweep, HackerOne, Telegram)
 

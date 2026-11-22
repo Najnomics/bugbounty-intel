@@ -1307,6 +1307,48 @@ Source: `hackerone/reports/2022/1434056.md` (https://hackerone.com/reports/14340
     Apache web server will crash.
 ```
 
+## #3575245 Integer Overflow in curl_multi_get_handles() Leading to Heap Buffer Overflow — curl — - — Classic Buffer Overflow
+Source: `hackerone/reports/2026/3575245.md` (https://hackerone.com/reports/3575245)
+
+```
+// lib/multi.c:3728-3729
+unsigned int count = Curl_uint32_tbl_count(&multi->xfers);
+CURL **a = curlx_malloc(sizeof(struct Curl_easy *) * (count + 1));  // OVERFLOW when count == UINT_MAX
+// When count == 0xFFFFFFFF: count + 1 = 0, malloc(0) returns non-NULL
+// Subsequent a[i++] = data writes to undersized buffer
+```
+
+```
+curl 8.18.0 (x86_64-pc-linux-gnu) libcurl/8.18.0 OpenSSL/3.0.0 zlib/1.2.13
+Release-Date: 2026-01-07
+Protocols: dict file ftp ftps gopher gophers http https imap imaps ldap ldaps mqtt pop3 pop3s rtsp scp sftp smb smbs smtp smtps telnet tftp ws wss
+Features: alt-svc AsynchDNS brotli GSS-API HSTS HTTP2 HTTP3 HTTPS-proxy IDN IPv6 Kerberos Largefile libz NTLM NTLM_WB PSL SPNEGO SSL TLS-SRP UnixSockets zstd
+```
+
+```
+CURL **curl_multi_get_handles(CURLM *m)
+{
+  struct Curl_multi *multi = m;
+  void *entry;
+  unsigned int count = Curl_uint32_tbl_count(&multi->xfers);
+  CURL **a = curlx_malloc(sizeof(struct Curl_easy *) * (count + 1));  // VULNERABLE
+  if(a) {
+    unsigned int i = 0;
+    uint32_t mid;
+    if(Curl_uint32_tbl_first(&multi->xfers, &mid, &entry)) {
+      do {
+        struct Curl_easy *data = entry;
+        DEBUGASSERT(i < count);
+        if(!data->state.internal)
+          a[i++] = data;  // Write to potentially undersized buffer
+      } while(Curl_uint32_tbl_next(&multi->xfers, mid, &mid, &entry));
+    }
+    a[i] = NULL;
+  }
+  return a;
+}
+```
+
 ## #3294999 CVE-2025-9086: Out of bounds read for cookie path — curl — - — Buffer Over-read
 Source: `hackerone/reports/2025/3294999.md` (https://hackerone.com/reports/3294999)
 
@@ -1415,48 +1457,6 @@ static char *sanitize_cookie_path(const char *cookie_path)
     len--;
 
   return Curl_memdup0(cookie_path, len);
-}
-```
-
-## #3575245 Integer Overflow in curl_multi_get_handles() Leading to Heap Buffer Overflow — curl — - — Classic Buffer Overflow
-Source: `hackerone/reports/2026/3575245.md` (https://hackerone.com/reports/3575245)
-
-```
-// lib/multi.c:3728-3729
-unsigned int count = Curl_uint32_tbl_count(&multi->xfers);
-CURL **a = curlx_malloc(sizeof(struct Curl_easy *) * (count + 1));  // OVERFLOW when count == UINT_MAX
-// When count == 0xFFFFFFFF: count + 1 = 0, malloc(0) returns non-NULL
-// Subsequent a[i++] = data writes to undersized buffer
-```
-
-```
-curl 8.18.0 (x86_64-pc-linux-gnu) libcurl/8.18.0 OpenSSL/3.0.0 zlib/1.2.13
-Release-Date: 2026-01-07
-Protocols: dict file ftp ftps gopher gophers http https imap imaps ldap ldaps mqtt pop3 pop3s rtsp scp sftp smb smbs smtp smtps telnet tftp ws wss
-Features: alt-svc AsynchDNS brotli GSS-API HSTS HTTP2 HTTP3 HTTPS-proxy IDN IPv6 Kerberos Largefile libz NTLM NTLM_WB PSL SPNEGO SSL TLS-SRP UnixSockets zstd
-```
-
-```
-CURL **curl_multi_get_handles(CURLM *m)
-{
-  struct Curl_multi *multi = m;
-  void *entry;
-  unsigned int count = Curl_uint32_tbl_count(&multi->xfers);
-  CURL **a = curlx_malloc(sizeof(struct Curl_easy *) * (count + 1));  // VULNERABLE
-  if(a) {
-    unsigned int i = 0;
-    uint32_t mid;
-    if(Curl_uint32_tbl_first(&multi->xfers, &mid, &entry)) {
-      do {
-        struct Curl_easy *data = entry;
-        DEBUGASSERT(i < count);
-        if(!data->state.internal)
-          a[i++] = data;  // Write to potentially undersized buffer
-      } while(Curl_uint32_tbl_next(&multi->xfers, mid, &mid, &entry));
-    }
-    a[i] = NULL;
-  }
-  return a;
 }
 ```
 

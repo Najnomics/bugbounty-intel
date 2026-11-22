@@ -1,6 +1,6 @@
 # Backfill status (X full-archive search)
 
-Updated 2026-11-21 06:59 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
+Updated 2026-11-22 ~07:00 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
 
 | Handle | Before (d427256) | Now | Oldest captured |
 |---|---|---|---|
@@ -238,3 +238,7 @@ Advanced the two OPEN pass-6 cursors by **31 search calls (16 n6c incl. 1 empty 
 | n6e | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` | 355 | 2023-03-22 | 1638491598177595392 | OPEN |
 
 Resume n6e with the same query, `until_id` as shown, `max_results` 25. Ingest with `/workspace/raw/daily/bf21.py <label> <file>`. Next after n6e: older pass-1–5 next_token cursors (saxenism `sax*`, `g2`…`g12`, `nah`, `rhy`, `cmi`, `chl`, `ryo`, `xss`, `t1`–`t3`, `u1`) are still open.
+
+## 2026-11-22 backfill
+- n6c (trailofbits): already DONE 2026-11-21.
+- n6e (samczsun/pcaversaccio): +~325 archive posts today → oldest ~2022-12-02 (until_id 1598679658488217601); OPEN. Extra jumped pages also landed Nov–Dec 2022 posts in store. ARCHIVE TOTAL after rebuild: 20,482.

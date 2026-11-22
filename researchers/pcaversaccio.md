@@ -12,3 +12,7 @@ Index of captured posts and analysis (already-watched handle; index file created
 - **How it was found:** GitHub comment on ethereum/pm#2299 (saved: [writeups/pcaversaccio/ethereum-pm-2299-eip-8037-8038-discussion.md](../writeups/pcaversaccio/ethereum-pm-2299-eip-8037-8038-discussion.md)).
 - **Takeaways / harness:** Flag contracts relying on gas stipends, `gasleft()` thresholds or refunds; fork-test under proposed schedules.
 
+### 2026-11-21 — Zama FHE walkaway / CROPS critique
+- **Signal:** Vendor-dependent FHE privacy fails walkaway when license grants no patent rights and commercial use needs vendor permission.
+- **Takeaways:** Audit FHE/TEE privacy stacks for independent reimplementability, patent/license walkaway, maintainer succession, attestation independent of vendor keys.
+- **Local:** [posts/pcaversaccio/2026-11-21-2124077434697846817.md](../posts/pcaversaccio/2026-11-21-2124077434697846817.md)

@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **12963**
+Total distinct URLs: **12971**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -12969,3 +12969,11 @@ Total distinct URLs: **12963**
 | [14994](https://t.me/dailybountywriteup/14994) | 2026-11-20 09:57:23 | P2 Password Reset Token Not Invalidated After Successful Password Change | https://medium.com/@akashmotkar001/p2-password-reset-token-not-invalidated-after-successful-password-change-ad251de19a39 |
 | [14994](https://t.me/dailybountywriteup/14994) | 2026-11-20 09:57:23 | 1.31.8 Is Vulnerable. 1.30.7 Is Not. Try Counting That. | https://meetcyber.net/1-31-8-is-vulnerable-1-30-7-is-not-try-counting-that-d10cf7d7c22e |
 | [14994](https://t.me/dailybountywriteup/14994) | 2026-11-20 09:57:23 | Lab | https://medium.com/@Geetanjalijhade/lab-basic-ssrf-against-the-local-server-walkthrough-044727d2c087 |
+| [14995](https://t.me/dailybountywriteup/14995) | 2026-11-21 09:39:20 | Null Byte Injection in Token Name Blocks Admin From Deleting It | https://medium.com/@islmhmdymhmed/null-byte-injection-in-token-name-blocks-admin-from-deleting-it-25a4c1c24069 |
+| [14995](https://t.me/dailybountywriteup/14995) | 2026-11-21 09:39:20 | Mass assignment simplified | https://tonettao.medium.com/mass-assignment-simplified-c4bf5b9ca1b1 |
+| [14995](https://t.me/dailybountywriteup/14995) | 2026-11-21 09:39:20 | Critical Linux KVM Vulnerability CVE-2026-99312 Exposes 127GB of Host Memory | https://medium.com/@asadmohsin760/critical-linux-kvm-vulnerability-cve-2026-99312-exposes-127gb-of-host-memory-bug-bounty-researcher-0929a4584860 |
+| [14995](https://t.me/dailybountywriteup/14995) | 2026-11-21 09:39:20 | The $1000 IDOR Hiding Behind a Shared AI Chat | https://medium.com/@kianoosh.9944/the-1000-idor-hiding-behind-a-shared-ai-chat-158bf4bd0a93 |
+| [14995](https://t.me/dailybountywriteup/14995) | 2026-11-21 09:39:20 | How I Find Cross-Site Scripting (XSS) Vulnerabilities During Bug Bounty Hunting \| By Samadhan… | https://samadhanshimple.medium.com/how-i-find-cross-site-scripting-xss-vulnerabilities-during-bug-bounty-hunting-by-samadhan-562278fa0872 |
+| [14995](https://t.me/dailybountywriteup/14995) | 2026-11-21 09:39:20 | IDOR Explained | https://medium.com/@vigneshkumaroffsec/idor-explained-the-types-where-it-hides-and-how-to-find-it-4adfe01b9023 |
+| [14995](https://t.me/dailybountywriteup/14995) | 2026-11-21 09:39:20 | OpenSSL Said Low. The Aggregators Said 9.8. The Kernel Said 131 KB. | https://medium.com/codetodeploy/openssl-said-low-the-aggregators-said-9-8-the-kernel-said-131-kb-1e8e02aedf20 |
+| [14995](https://t.me/dailybountywriteup/14995) | 2026-11-21 09:39:20 | How I Discovered a Session Management Vulnerability That Could Lead to Account Takeover \| By… | https://samadhanshimple.medium.com/how-i-discovered-a-session-management-vulnerability-that-could-lead-to-account-takeover-by-887ba9f199de |

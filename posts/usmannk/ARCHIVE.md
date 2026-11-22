@@ -1,11 +1,34 @@
 # @usmannk — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 62
-- Conversations/threads: 59
+- Posts in this file: 63
+- Conversations/threads: 60
 - Oldest post captured: 2023-08-16
-- Newest post captured: 2026-11-21
+- Newest post captured: 2026-11-22
+
+
+---
+
+## 2026-11-22 · Reply · @dunkhippo33 RT Rotisserie (of Rich Table) is remarkably affordable even delivered, salad/rice bowl/
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @14756283 — 2026-11-21 22:32 UTC (2026-11-21 23:32 WAT)
+
+- URL: https://x.com/14756283/status/2124269730001514692
+- Metrics (at fetch): bookmark 58, impression 10415, like 24, quote 0, reply 30, repost 0
+
+> what are people’s favorite restaurants / food places on DoorDash in SF that are both good (not necessarily great) AND also “affordable” (e.g. not crazy ridiculous after paying for the delivery fees / taxes / other fees / etc)?
+
+
+### Post — @usmannk — 2026-11-22 01:01 UTC (2026-11-22 02:01 WAT)
+
+- URL: https://x.com/usmannk/status/2124307208238415944
+- Metrics (at fetch): bookmark 0, impression 463, like 11, quote 0, reply 0, repost 0
+
+> @dunkhippo33 RT Rotisserie (of Rich Table) is remarkably affordable even delivered, salad/rice bowl/soup all travel great
 
 
 ---

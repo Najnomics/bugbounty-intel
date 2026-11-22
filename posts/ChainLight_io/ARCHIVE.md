@@ -1,6 +1,6 @@
 # @ChainLight_io — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 1081
 - Conversations/threads: 322
@@ -2407,9 +2407,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @963767159536209921 — 2024-12-02 04:48 UTC (2024-12-02 05:48 WAT)
+    #### Quoted post — @TheBlockCo — 2024-12-02 04:48 UTC (2024-12-02 05:48 WAT)
     
-    - URL: https://x.com/963767159536209921/status/1863445008151425099
+    - URL: https://x.com/TheBlockCo/status/1863445008151425099
     - Metrics (at fetch): bookmark 1, impression 16141, like 37, quote 2, reply 4, retweet 13
     
     > Japanese exchange DMM Bitcoin to shut down, transfer assets to SBI Group unit after $300 million hack https://www.theblock.co/post/328890/japanese-exchange-dmm-bitcoin-to-shut-down-transfer-assets-to-sbi-group-unit-after-300-million-hack?utm_source=twitter&utm_medium=social
@@ -2743,9 +2743,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
 
 **Quoted post (full text):**
 
-    #### Quoted post — @963767159536209921 — 2024-12-02 04:48 UTC (2024-12-02 05:48 WAT)
+    #### Quoted post — @TheBlockCo — 2024-12-02 04:48 UTC (2024-12-02 05:48 WAT)
     
-    - URL: https://x.com/963767159536209921/status/1863445008151425099
+    - URL: https://x.com/TheBlockCo/status/1863445008151425099
     - Metrics (at fetch): bookmark 1, impression 16141, like 37, quote 2, reply 4, retweet 13
     
     > Japanese exchange DMM Bitcoin to shut down, transfer assets to SBI Group unit after $300 million hack https://www.theblock.co/post/328890/japanese-exchange-dmm-bitcoin-to-shut-down-transfer-assets-to-sbi-group-unit-after-300-million-hack?utm_source=twitter&utm_medium=social
@@ -7164,9 +7164,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @963767159536209921 — 2024-05-15 07:43 UTC (2024-05-15 08:43 WAT)
+    #### Quoted post — @TheBlockCo — 2024-05-15 07:43 UTC (2024-05-15 08:43 WAT)
     
-    - URL: https://x.com/963767159536209921/status/1790649129607070119
+    - URL: https://x.com/TheBlockCo/status/1790649129607070119
     - Metrics (at fetch): bookmark 2, impression 9784, like 20, quote 1, reply 6, retweet 2
     
     > BlockTower Capital's main hedge fund 'partially drained' in attack: Bloomberg https://t.co/OZYYiOSoaW
@@ -10423,9 +10423,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @963767159536209921 — 2024-01-29 02:08 UTC (2024-01-29 03:08 WAT)
+    #### Quoted post — @TheBlockCo — 2024-01-29 02:08 UTC (2024-01-29 03:08 WAT)
     
-    - URL: https://x.com/963767159536209921/status/1751789299551322278
+    - URL: https://x.com/TheBlockCo/status/1751789299551322278
     - Metrics (at fetch): not returned
     
     > South Korea’s crypto karaoke platform hacked for over $11.5 million https://www.theblock.co/post/274766/south-koreas-crypto-karaoke-platform-hacked-for-over-11-5-million?utm_source=twitter&utm_medium=social
@@ -12164,9 +12164,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @963767159536209921 — 2023-12-13 18:26 UTC (2023-12-13 19:26 WAT)
+    #### Quoted post — @TheBlockCo — 2023-12-13 18:26 UTC (2023-12-13 19:26 WAT)
     
-    - URL: https://x.com/963767159536209921/status/1735003252796641669
+    - URL: https://x.com/TheBlockCo/status/1735003252796641669
     - Metrics (at fetch): bookmark 1, impression 11001, like 17, quote 3, reply 4, retweet 4
     
     > Correction: Yearn Finance says faulty script wiped out $1.4 million from treasury
@@ -18064,9 +18064,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @963767159536209921 — 2023-08-29 14:42 UTC (2023-08-29 15:42 WAT)
+    #### Quoted post — @TheBlockCo — 2023-08-29 14:42 UTC (2023-08-29 15:42 WAT)
     
-    - URL: https://x.com/963767159536209921/status/1696533774794940576
+    - URL: https://x.com/TheBlockCo/status/1696533774794940576
     - Metrics (at fetch): not returned
     
     > Court hands Grayscale win in long-running suit against SEC https://www.theblock.co/post/246115/court-hands-grayscale-win-in-long-running-suit-against-sec?utm_source=twitter&utm_medium=social
@@ -18365,9 +18365,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @963767159536209921 — 2023-08-25 09:13 UTC (2023-08-25 10:13 WAT)
+    #### Quoted post — @TheBlockCo — 2023-08-25 09:13 UTC (2023-08-25 10:13 WAT)
     
-    - URL: https://x.com/963767159536209921/status/1695001478203605144
+    - URL: https://x.com/TheBlockCo/status/1695001478203605144
     - Metrics (at fetch): not returned
     
     > Magnate Finance disappears with over $6 million in apparent 'rug pull' https://www.theblock.co/post/247375/magnate-finance-rug?utm_source=twitter&utm_medium=social
@@ -19784,9 +19784,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1123403704323805184 — 2023-07-10 09:44 UTC (2023-07-10 10:44 WAT)
+    #### Quoted post — @arkham — 2023-07-10 09:44 UTC (2023-07-10 10:44 WAT)
     
-    - URL: https://x.com/1123403704323805184/status/1678339355314900992
+    - URL: https://x.com/arkham/status/1678339355314900992
     - Metrics (at fetch): bookmark 739, impression 3871311, like 9885, quote 1384, reply 12769, retweet 4992
     
     > Announcing The World’s First On-Chain Intelligence Exchange

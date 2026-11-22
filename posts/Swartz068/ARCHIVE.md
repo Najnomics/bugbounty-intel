@@ -1,11 +1,54 @@
 # @Swartz068 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 61
-- Conversations/threads: 43
+- Posts in this file: 63
+- Conversations/threads: 45
 - Oldest post captured: 2024-12-30
-- Newest post captured: 2026-11-19
+- Newest post captured: 2026-11-21
+
+
+---
+
+## 2026-11-21 · Reply · @LoopandPixels Hii
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1790387576794492928 — 2026-11-21 15:38 UTC (2026-11-21 16:38 WAT)
+
+- URL: https://x.com/1790387576794492928/status/2124165641548800023
+- Metrics (at fetch): bookmark 11, impression 10156, like 174, quote 0, reply 269, repost 2
+
+> Hey guys! I’m making a little tech group. If you’d like to join, just say hi and I’ll add you 🫶
+
+
+### Post — @Swartz068 — 2026-11-21 16:51 UTC (2026-11-21 17:51 WAT)
+
+- URL: https://x.com/Swartz068/status/2124183825781797355
+- Metrics (at fetch): bookmark 0, impression 30, like 0, quote 0, reply 0, repost 0
+
+> @LoopandPixels Hii
+
+
+---
+
+## 2026-11-21 · Post · Hi, I'm Swartz068, an 11th-grade student from India and a Top 3,600 Bugcrowd researcher.
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-11-21 09:31 UTC (2026-11-21 10:31 WAT)
+
+- URL: https://x.com/Swartz068/status/2124073159607693641
+- Metrics (at fetch): bookmark 4, impression 788, like 31, quote 0, reply 3, repost 0
+
+> Hi, I'm Swartz068, an 11th-grade student from India and a Top 3,600 Bugcrowd researcher.
+>
+> Contributed to securing NASA, EPA, Stryker, Mercedes-Benz, Linktree, Zola, Kohl's + more.
+>
+> Interested in connecting with people in Cybersecurity, Bug Bounty, Security Engineering &amp; Startups.
 
 
 ---

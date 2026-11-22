@@ -306,3 +306,28 @@ _Auto-maintained from `harness/findings.jsonl`. 8 finding(s). Full verbatim post
 - **Provider drift for one model** — https://x.com/mdp_sec/status/2123660108425035820 — 15 hosts of DeepSeek v4.1 Flash solve 5–18/40 labs; one host swapped weights. [`posts/mdp_sec/2026-11-20-2123660108425035820.md`](../posts/mdp_sec/2026-11-20-2123660108425035820.md), [`writeups/mdp_sec/blackboxarena-deepseek-v4-1-flash-providers.md`](../writeups/mdp_sec/blackboxarena-deepseek-v4-1-flash-providers.md).
 - **Weekly payout thread (bounty evidence, details undisclosed)** — https://x.com/mdp_sec/status/2123710445458505848 — $10k critical, $6k+120% quality bonus, $5,789 for @Assass1nmarcos, cost-per-solve $1.59 vs $41.97. [`posts/mdp_sec/2026-11-20-2123710445458505848.md`](../posts/mdp_sec/2026-11-20-2123710445458505848.md).
 - **Black-box eval pack / provider challenges** — https://x.com/mdp_sec/status/2123946567359197319 · /2123921694746448236 (Boundless 40% vs 45% direct; abliterated 27.5%) · /2124005878571696338 (OrcaRouter 25%). [`writeups/mdp_sec/blackboxarena-labs.md`](../writeups/mdp_sec/blackboxarena-labs.md). Site check 2026-11-21: mdpsec.com unchanged (591 reports / 150 critical); no new public disclosures.
+
+### 2026-11-21 — OTP verify/finalize identity mismatch ATO ($5k)
+- **Bug / class:** Account takeover — OTP checked against attacker account, login session returned as victim.
+- **Root cause:** MFA state-machine binding failure between verify and finalize identities.
+- **How found:** AI-assisted (mdp_sec: "my ai found it, i just did the report"); platform undisclosed.
+- **Takeaways:** Assert every field used at OTP verify equals identity committed at finalize; swap user_id/email between steps; race verify+finalize.
+- **Local:** [posts/mdp_sec/2026-11-21-2124052695359381521.md](../posts/mdp_sec/2026-11-21-2124052695359381521.md)
+
+### 2026-11-21 — Edge `/./metrics` path-rule bypass → applicant-token leak
+- **Bug / class:** WAF/edge exact-path denylist bypass via `/./` and single-char percent-encoding; Prometheus metrics exporter labeled request paths with live applicant tokens → unauth cross-user R/W.
+- **Root cause:** Edge matched exact path; origin app normalized `/./` away; metrics labels retained raw paths including tokens for ~8 days.
+- **Takeaways:** Path-normalization bypass corpus next to every edge denylist; treat metrics exporters as credential sinks.
+- **Local:** [posts/mdp_sec/2026-11-21-2124233889270939950.md](../posts/mdp_sec/2026-11-21-2124233889270939950.md)
+
+### 2026-11-21 — HuntDeck pay-per-hour bug-class ranking
+- **Signal:** 24 classes ranked by $/hour; S-tier mostly access control; open redirect $280 median on public disclosures.
+- **Local:** [posts/mdp_sec/2026-11-21-2124022496446017575.md](../posts/mdp_sec/2026-11-21-2124022496446017575.md); huntdeck.io/disclosed fetch 403 on 2026-11-22.
+
+### 2026-11-21/22 — Abliterated DeepSeek provider benchmarks (OrcaRouter 37.5%, abliteration_ai 25%)
+- **Signal:** Abliterated builds still trail DeepSeek direct API (45% @ $0.46/solve).
+- **Local:** [2124240867590549887](../posts/mdp_sec/2026-11-21-2124240867590549887.md), [2124374055747043600](../posts/mdp_sec/2026-11-22-2124374055747043600.md); blackboxarena compare page refreshed.
+
+### 2026-11-22 — "Test your own harness" Black Box Arena pack (next week)
+- **Local:** [posts/mdp_sec/2026-11-22-2124303479737049222.md](../posts/mdp_sec/2026-11-22-2124303479737049222.md)
+

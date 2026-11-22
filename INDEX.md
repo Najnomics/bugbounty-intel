@@ -2,6 +2,16 @@
 
 Generated 11 Nov 2026 (WAT), Telegram sources added 12 Nov 2026 (Africa/Lagos). Every link points to a file inside this repo that holds **full verbatim text** — no X or Telegram access needed.
 
+## Daily update — 22 November 2026 (Africa/Lagos)
+
+- **X:** +193 new posts (29 security-relevant verbatim files). Highlights: [@PaulosYibelo Upload2Shell / CVE-2026-125396](posts/PaulosYibelo/2026-11-21-2124203995329933441.md) (Ghostscript Type1 UAF→RCE via ImageMagick/Pillow/CUPS; full research in [writeups/PaulosYibelo/](writeups/PaulosYibelo/)); [@mdp_sec](posts/mdp_sec/) OTP ATO $5k, `/./metrics` edge bypass→applicant-token leak, HuntDeck $/hour ranking, abliterated DeepSeek benchmarks, Black Box Arena harness pack next week; [@pcaversaccio](posts/pcaversaccio/2026-11-21-2124077434697846817.md) Zama FHE walkaway/CROPS critique. Backfill n6e (samczsun/pcaversaccio) +~375 → 2022-12-02 OPEN (ARCHIVE TOTAL 20,603).
+- **Telegram:** @defendor_eng +4 (2370–2373: Chainflip $4.86M vault drain, SEC Colorado crypto suit, Arkham Ledger drain $95.35M, Cyber bridge $1.1M); @dailybountywriteup +1 (14995). Writeups: dailybounty +6 new-msg (Medium RSS) +1 retry +152 Wayback (43 fail) → pending 9,963; defendor pending 0.
+- **HackerOne:** +2 — [#4119675](hackerone/reports/2026/4119675.md) Weblate language_aliases→unvalidated LanguageManager.auto_create (CVE-2025-68398/CVE-2026-86035); [#2119149](hackerone/reports/2026/2119149.md) Evernote Windows ENEX XSS→RCE ($2k). Inventory 12,770.
+- **CVE:** cvelistV5 +404 new / 42 updated → 430,426; NVD +406/36 → 430,428; KEV unchanged (2026.11.20, 1,790); GHSA 38,021; OSV 23,938; kernel CNA 19,079; ZDI 17,447; Project Zero 258.
+- **Projects:** No new Zcash/Ethereum/Solana advisories since prior capture. mdpsec.com unchanged (591/150/267).
+- **Harness:** [`harness/bug-classes/2026-11-22-upload2shell-metrics-path-otp-ato.md`](harness/bug-classes/2026-11-22-upload2shell-metrics-path-otp-ato.md) (5 check-specs).
+- **New researchers:** none (PaulosYibelo already watched; researcher page + index expanded).
+
 ## Daily update — 21 November 2026 (Africa/Lagos)
 
 - **X:** 3 grouped full-archive searches of all watched handles since the 20 Nov run (+ pagination to the window boundary); all new posts and their referenced posts re-read with `get_posts_by_ids` for long-form text/links. **177** new posts captured from 16 accounts (mdp_sec 127, NahamSec 8, lonelysloth_sec 7, S1r1u5_ 7, kobigurk 5, saxenism 4, garethheyes 4, 0xriptide 3, zksecurityXYZ 3, irsdl 2, asanso 2, DevDacian/pcaversaccio/samwcyo/usmannk/Assass1nmarcos 1 each); **15** verbatim files + analysis under `posts/<handle>/` (mdp_sec side-action IDOR, provider drift, payout thread, BB Arena evals; saxenism taquito Sapling GHSA + DSS TEE talk; DevDacian rejection-auditor agents; S1r1u5_ 2shell exploitability / MFA-bypass; irsdl Sharpener 4.94; zksecurity 38-step SHA-256 collision).

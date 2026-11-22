@@ -1,11 +1,218 @@
 # @pcaversaccio — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1397
-- Conversations/threads: 1325
+- Posts in this file: 1675
+- Conversations/threads: 1599
 - Oldest post captured: 2022-06-18
-- Newest post captured: 2026-11-20
+- Newest post captured: 2026-11-21
+
+
+---
+
+## 2026-11-21 · Thread · @mr_ligi 🤝
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @96750314 — 2026-11-21 12:53 UTC (2026-11-21 13:53 WAT)
+
+- URL: https://x.com/96750314/status/2124124029254861101
+- Metrics (at fetch): bookmark 1, impression 2142, like 36, quote 1, reply 4, repost 2
+
+> So great to have such people in the EF! https://twitter.com/pcaversaccio/status/2124098594764460134
+
+**Links in post:** https://twitter.com/pcaversaccio/status/2124098594764460134
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-11-21 11:12 UTC (2026-11-21 12:12 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2124098594764460134
+    - Metrics (at fetch): bookmark 1, impression 5061, like 174, quote 3, reply 8, repost 4
+    
+    > @r4nk0X when i see wrong i call it out, idgaf if it's from an EF account or something else. you probably forget that am an independently thinking guy.
+    
+
+
+### Post — @pcaversaccio — 2026-11-21 12:56 UTC (2026-11-21 13:56 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2124124849161351201
+- Metrics (at fetch): bookmark 0, impression 676, like 9, quote 1, reply 2, repost 1
+
+> @mr_ligi 🤝
+
+
+### Thread part 2 — @pcaversaccio — 2026-11-21 13:52 UTC (2026-11-21 14:52 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2124138934334619841
+- Metrics (at fetch): bookmark 0, impression 104, like 2, quote 0, reply 1, repost 0
+
+> @Citrullin @mr_ligi https://x.com/ethereumfndn/status/2082437165233951223 https://twitter.com/ethereumfndn/status/2082437165233951223
+
+**Links in post:** https://x.com/ethereumfndn/status/2082437165233951223, https://twitter.com/ethereumfndn/status/2082437165233951223
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1529875152460193794 — 2026-07-29 12:04 UTC (2026-07-29 13:04 WAT)
+    
+    - URL: https://x.com/1529875152460193794/status/2082437165233951223
+    - Metrics (at fetch): bookmark 57, impression 248205, like 1414, quote 87, reply 228, retweet 181
+    
+    > We’re pleased to welcome @pcaversaccio to the EF Board. 
+    >
+    > A longtime Ethereum contributor, co-founder of SEAL 911, Silviculture Society member, and privacy and security maximalist, pc has consistently championed the values at Ethereum’s core. We look forward to working together to help steward Ethereum’s long-term future. 
+    >
+    > Read more: https://blog.ethereum.org/2026/07/29/ef-board-update
+    
+    **Links in post:** https://blog.ethereum.org/2026/07/29/ef-board-update
+    
+
+
+---
+
+## 2026-11-21 · Thread · @r4nk0X when i see wrong i call it out, idgaf if it's from an EF account or something else. you prob
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1729432687260377088 — 2026-11-21 11:08 UTC (2026-11-21 12:08 WAT)
+
+- URL: https://x.com/1729432687260377088/status/2124097593974427781
+- Metrics (at fetch): bookmark 21, impression 14269, like 92, quote 2, reply 13, repost 3
+
+> help me get this straight:
+>
+> @pcaversaccio joined the EF Board
+>
+> EF chooses Zama for privacy
+>
+> Zama got bullied by a new EF board member [pic.x.com/JY2sBp9ILh] https://twitter.com/pcaversaccio/status/2124077434697846817
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXpPgJBaMAA-prP.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXpPgI_bUAE5vBb.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/pcaversaccio/status/2124077434697846817
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-11-21 09:48 UTC (2026-11-21 10:48 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2124077434697846817
+    - Metrics (at fetch): bookmark 24, impression 27866, like 304, quote 13, reply 16, repost 26
+    
+    > stop the clownshow guys, this is _not_ cypherpunk privacy. it's vendor-dependent privacy. your code license grants no patent rights, so commercial deployments need Zama's permission. permissionless systems require independent implementations, but a patent moat actively discourages them. if Zama disappears, who maintains & upgrades the stack? you currently fail the walkaway test and are nowhere near CROPS-aligned. you can do better.
+    
+
+
+### Post — @pcaversaccio — 2026-11-21 11:12 UTC (2026-11-21 12:12 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2124098594764460134
+- Metrics (at fetch): bookmark 1, impression 5061, like 174, quote 3, reply 8, repost 4
+
+> @r4nk0X when i see wrong i call it out, idgaf if it's from an EF account or something else. you probably forget that am an independently thinking guy.
+
+
+### Thread part 2 — @pcaversaccio — 2026-11-21 11:20 UTC (2026-11-21 12:20 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2124100606067417544
+- Metrics (at fetch): bookmark 1, impression 891, like 33, quote 0, reply 1, repost 0
+
+> @r4nk0X "it shouldn't be promoted initially." Yup agreed, and that's what i try to revert here.
+
+
+---
+
+## 2026-11-21 · Thread · stop the clownshow guys, this is _not_ cypherpunk privacy. it's vendor-dependent privacy. your code 
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1103585776619741184 — 2026-11-20 21:16 UTC (2026-11-20 22:16 WAT)
+
+- URL: https://x.com/1103585776619741184/status/2123888189043621897
+- Metrics (at fetch): bookmark 28, impression 23501, like 284, quote 2, reply 11, repost 45
+
+> Ethereum needs its HTTPS layer. Now it has one. https://twitter.com/ethereum/status/2123853168140230951
+
+**Links in post:** https://twitter.com/ethereum/status/2123853168140230951
+
+**Quoted post** 2123853168140230951: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @pcaversaccio — 2026-11-21 09:48 UTC (2026-11-21 10:48 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2124077434697846817
+- Metrics (at fetch): bookmark 24, impression 27866, like 304, quote 13, reply 16, repost 26
+
+> stop the clownshow guys, this is _not_ cypherpunk privacy. it's vendor-dependent privacy. your code license grants no patent rights, so commercial deployments need Zama's permission. permissionless systems require independent implementations, but a patent moat actively discourages them. if Zama disappears, who maintains & upgrades the stack? you currently fail the walkaway test and are nowhere near CROPS-aligned. you can do better.
+
+
+### Thread part 2 — @pcaversaccio — 2026-11-21 09:51 UTC (2026-11-21 10:51 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2124078197109329940
+- Metrics (at fetch): bookmark 1, impression 1992, like 29, quote 0, reply 0, repost 0
+
+> @zama also ... https://x.com/pcaversaccio/status/2061567394716528959
+
+**Links in post:** https://x.com/pcaversaccio/status/2061567394716528959
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-06-01 21:55 UTC (2026-06-01 22:55 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2061567394716528959
+    - Metrics (at fetch): bookmark 32, impression 12068, like 154, quote 6, reply 16, retweet 12
+    
+    > so circle unblocklisted zama 2hrs ago via tx `0x138894c10f7fe17fda87c5ff7799085a8cb3261d2c7c2491d6fe75d0abf814d7`. 8hrs ago zama upgraded the implementation contract for cUSDC via tx `0x468f9a1433f795da68b88d6adb33f7180e86937d3f3437ec001173c52e7f35f4` which adds _an owner-controlled denylist_, i.e. blocked addresses cannot participate in confidential transfers, wraps, and unwraps. this is _conditional_ privacy as its best. it's a censoring, centralised stablecoin wrapper now that might or might not allow you to transact in private. it's basically _compliance infra_ wrapped in cryptography.
+    >
+    > i mean, we have other projects in this space that build on top of viewing keys for privacy pools. i won't stop yelling here that the only _unconditional_ privacy protocol you should use is Tornado Cash. you must not ask for permission. all of these privacy tokens & protocols become a clownshow with backdoors.
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HJwjgQGb0AIoPB9.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-21 · Reply · @unhappyben @zama @ethereum https://x.com/pcaversaccio/status/2124077434697846817
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @2866020121 — 2026-11-20 20:24 UTC (2026-11-20 21:24 WAT)
+
+- URL: https://x.com/2866020121/status/2123875193600811057
+- Metrics (at fetch): bookmark 38, impression 11189, like 200, quote 6, reply 31, repost 13
+
+> @zama isn’t private, it’s a product where sender and recipients are public, where onchain analysts can easily decrypt balances, and has privileged insiders who can see everything 
+>
+> why is it being shilled by @ethereum https://twitter.com/ethereum/status/2123853168140230951
+
+**Links in post:** https://twitter.com/ethereum/status/2123853168140230951
+
+**Quoted post** 2123853168140230951: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @pcaversaccio — 2026-11-21 09:50 UTC (2026-11-21 10:50 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2124078052355559759
+- Metrics (at fetch): bookmark 0, impression 503, like 11, quote 0, reply 1, repost 0
+
+> @unhappyben @zama @ethereum https://x.com/pcaversaccio/status/2124077434697846817
+
+**Links in post:** https://x.com/pcaversaccio/status/2124077434697846817
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-11-21 09:48 UTC (2026-11-21 10:48 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2124077434697846817
+    - Metrics (at fetch): bookmark 24, impression 27866, like 304, quote 13, reply 16, repost 26
+    
+    > stop the clownshow guys, this is _not_ cypherpunk privacy. it's vendor-dependent privacy. your code license grants no patent rights, so commercial deployments need Zama's permission. permissionless systems require independent implementations, but a patent moat actively discourages them. if Zama disappears, who maintains & upgrades the stack? you currently fail the walkaway test and are nowhere near CROPS-aligned. you can do better.
+    
 
 
 ---
@@ -867,9 +1074,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1981269826497892352 — 2026-08-23 07:09 UTC (2026-08-23 08:09 WAT)
+    #### Quoted post — @DefimonAlerts — 2026-08-23 07:09 UTC (2026-08-23 08:09 WAT)
     
-    - URL: https://x.com/1981269826497892352/status/2091422624249217259
+    - URL: https://x.com/DefimonAlerts/status/2091422624249217259
     - Metrics (at fetch): bookmark 40, impression 24904, like 56, quote 3, reply 0, retweet 7
     
     > Defimon detected an exploit on Term Finance @term_labs that drained ~$8.5M on Ethereum
@@ -1735,7 +1942,9 @@ Tags (automatic): Memory corruption / native
 - URL: https://x.com/pcaversaccio/status/2061567394716528959
 - Metrics (at fetch): bookmark 32, impression 12068, like 154, quote 6, reply 16, retweet 12
 
-> so circle unblocklisted zama 2hrs ago via tx `0x138894c10f7fe17fda87c5ff7799085a8cb3261d2c7c2491d6fe75d0abf814d7`. 8hrs ago zama upgraded the implementation contract for cUSDC via tx `0x468f9a1433f795da68b88d6adb33f7180e86937d3f3437ec001173c52e7f35f4` which adds _an [pic.x.com/IXK24zeAjc]
+> so circle unblocklisted zama 2hrs ago via tx `0x138894c10f7fe17fda87c5ff7799085a8cb3261d2c7c2491d6fe75d0abf814d7`. 8hrs ago zama upgraded the implementation contract for cUSDC via tx `0x468f9a1433f795da68b88d6adb33f7180e86937d3f3437ec001173c52e7f35f4` which adds _an owner-controlled denylist_, i.e. blocked addresses cannot participate in confidential transfers, wraps, and unwraps. this is _conditional_ privacy as its best. it's a censoring, centralised stablecoin wrapper now that might or might not allow you to transact in private. it's basically _compliance infra_ wrapped in cryptography.
+>
+> i mean, we have other projects in this space that build on top of viewing keys for privacy pools. i won't stop yelling here that the only _unconditional_ privacy protocol you should use is Tornado Cash. you must not ask for permission. all of these privacy tokens & protocols become a clownshow with backdoors.
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HJwjgQGb0AIoPB9.jpg — no alt text provided by author
@@ -4910,9 +5119,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @963767159536209921 — 2025-07-12 14:32 UTC (2025-07-12 15:32 WAT)
+    #### Quoted post — @TheBlockCo — 2025-07-12 14:32 UTC (2025-07-12 15:32 WAT)
     
-    - URL: https://x.com/963767159536209921/status/1944042280291033169
+    - URL: https://x.com/TheBlockCo/status/1944042280291033169
     - Metrics (at fetch): bookmark 6, impression 99193, like 79, quote 7, reply 23, retweet 10
     
     > http://Pump.fun raises $500 million in 12 minutes as PUMP tokens fully sell out https://www.theblock.co/post/362320/pump-fun-raises-500-million-in-12-minutes-as-pump-tokens-fully-sell-out?utm_source=twitter&utm_medium=social
@@ -16130,7 +16339,7 @@ Tags (automatic): Smart contract / DeFi
     #### Quoted post — @pcaversaccio — 2023-02-20 11:27 UTC (2023-02-20 12:27 WAT)
     
     - URL: https://x.com/pcaversaccio/status/1627631035017052163
-    - Metrics (at fetch): bookmark 44, impression 68528, like 214, quote 9, reply 11, retweet 40
+    - Metrics (at fetch): bookmark 45, impression 68528, like 214, quote 9, reply 11, retweet 40
     
     > Kinda crazy to me that Bitcoin maintainers &amp; researchers can patch a security vulnerability and keep it secret for two years. I understand the reasoning behind this, but it implies that the development/disclosure process contains single points of failure. 
     > https://invdos.net/paper/CVE-2018-17145.pdf [pic.x.com/ExjigmqMM5]
@@ -29295,13 +29504,440 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 ---
 
+## 2023-03-21 · Post · Maxis will say this never happened... https://t.co/YbfToHzoi9
+
+
+### Post — @pcaversaccio — 2023-03-21 11:32 UTC (2023-03-21 12:32 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1638141606732656640
+- Metrics (at fetch): bookmark 0, impression 2497, like 25, quote 0, reply 1, retweet 0
+
+> Maxis will say this never happened... https://t.co/YbfToHzoi9
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1281552337006399489 — 2023-03-21 08:17 UTC (2023-03-21 09:17 WAT)
+    
+    - URL: https://x.com/1281552337006399489/status/1638092413070712833
+    - Metrics (at fetch): bookmark 1, impression 58066, like 121, quote 15, reply 5, retweet 25
+    
+    > Geth v1.11.5 (Erszbat) is out, enabling the Shanghai mainnet upgrade on April 12 #golang #ethereum 
+    >  https://t.co/3IlSzSpdgU
+    
+
+
+---
+
+## 2023-03-20 · Post · https://t.co/BG5sKs9e53 https://t.co/zmegFRgQIK https://t.co/dpmKswhyAk
+
+
+### Post — @pcaversaccio — 2023-03-20 19:16 UTC (2023-03-20 20:16 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1637895881545379841
+- Metrics (at fetch): bookmark 0, impression 6421, like 31, quote 1, reply 1, retweet 2
+
+> https://t.co/BG5sKs9e53 https://t.co/zmegFRgQIK https://t.co/dpmKswhyAk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Frr5n8vXwAAANqd.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2023-03-20 17:17 UTC (2023-03-20 18:17 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1637866001915076626
+    - Metrics (at fetch): bookmark 6, impression 42467, like 190, quote 7, reply 14, retweet 14
+    
+    > Euler exploiter wants to return the funds https://t.co/tl572iDETE https://t.co/dCtkj1FsTq
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FrrectOWYCYPaQz.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2023-03-20 · Post · Euler exploiter wants to return the funds https://t.co/tl572iDETE https://t.co/dCtkj1FsTq
+
+
+### Post — @pcaversaccio — 2023-03-20 17:17 UTC (2023-03-20 18:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1637866001915076626
+- Metrics (at fetch): bookmark 6, impression 42467, like 190, quote 7, reply 14, retweet 14
+
+> Euler exploiter wants to return the funds https://t.co/tl572iDETE https://t.co/dCtkj1FsTq
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrrectOWYCYPaQz.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-20 · Post · Part of a healthy capitalism is that struggling companies should be allowed to crash. I would have s
+
+
+### Post — @pcaversaccio — 2023-03-20 10:21 UTC (2023-03-20 11:21 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1637761167761235969
+- Metrics (at fetch): bookmark 0, impression 2068, like 22, quote 0, reply 3, retweet 1
+
+> Part of a healthy capitalism is that struggling companies should be allowed to crash. I would have sent Credit Suisse into resolution. Period.
+
+
+---
+
+## 2023-03-19 · Post · Deploying more capital. Steady lads. https://t.co/NH2FjoTXVx
+
+
+### Post — @pcaversaccio — 2023-03-19 21:28 UTC (2023-03-19 22:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1637566757316558848
+- Metrics (at fetch): bookmark 0, impression 3303, like 38, quote 1, reply 2, retweet 4
+
+> Deploying more capital. Steady lads. https://t.co/NH2FjoTXVx
+
+**Quoted post (full text):**
+
+    #### Quoted post — @83466368 — 2023-03-19 21:00 UTC (2023-03-19 22:00 WAT)
+    
+    - URL: https://x.com/83466368/status/1637559761976664064
+    - Metrics (at fetch): bookmark 240, impression 2685637, like 2641, quote 968, reply 639, retweet 1265
+    
+    > Press release: Coordinated central bank action to enhance the provision of US dollar liquidity https://t.co/eOjI4tBRPz https://t.co/Zvz0yJg1Mr
+    
+    **Media:**
+    - media `3_1637559285960900610` (details not returned by the API)
+    
+
+
+---
+
+## 2023-03-19 · Post · https://t.co/w3fSXXf7Ug https://t.co/fbGc61ARJW
+
+
+### Post — @pcaversaccio — 2023-03-19 20:42 UTC (2023-03-19 21:42 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1637555147160027137
+- Metrics (at fetch): bookmark 1, impression 1312, like 5, quote 0, reply 0, retweet 0
+
+> https://t.co/w3fSXXf7Ug https://t.co/fbGc61ARJW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrnDukcWIAEVDNL.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @83466368 — 2023-03-19 19:33 UTC (2023-03-19 20:33 WAT)
+    
+    - URL: https://x.com/83466368/status/1637537772264194048
+    - Metrics (at fetch): bookmark 30, impression 765784, like 707, quote 244, reply 272, retweet 345
+    
+    > Statement by ECB President Christine Lagarde https://t.co/eOjI4tBRPz https://t.co/3KeymqdfVr
+    
+    **Media:**
+    - media `3_1637537430013083649` (details not returned by the API)
+    
+
+
+---
+
+## 2023-03-19 · Post · New logo just dropped https://t.co/DPVlFR4WiO
+
+
+### Post — @pcaversaccio — 2023-03-19 20:17 UTC (2023-03-19 21:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1637548938340311045
+- Metrics (at fetch): bookmark 1, impression 7118, like 81, quote 1, reply 3, retweet 8
+
+> New logo just dropped https://t.co/DPVlFR4WiO
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Frm-FMBXsAEtMTq.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-19 · Post · Another fact many folks aren't aware of: Ethereum uses only uncompressed public keys and thus the by
+
+
+### Post — @pcaversaccio — 2023-03-19 09:24 UTC (2023-03-19 10:24 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1637384529378783232
+- Metrics (at fetch): bookmark 12, impression 9000, like 45, quote 0, reply 2, retweet 2
+
+> Another fact many folks aren't aware of: Ethereum uses only uncompressed public keys and thus the byte prefix 0x04 is only relevant (for Bitcoin this is different). That means public keys are actually 520 bits and not 512 bits (prefix + 256bit x coordinate + 256bit y coordinate). https://t.co/KgOSpNY2xB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrkojHDWwAELrWG.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-18 · Post · So everyone is talking about @balajis' USD hyperinflation thesis. Let me remind you that Bitcoin exp
+
+
+### Post — @pcaversaccio — 2023-03-18 19:52 UTC (2023-03-18 20:52 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1637180097223327744
+- Metrics (at fetch): bookmark 4, impression 8292, like 56, quote 1, reply 4, retweet 7
+
+> So everyone is talking about @balajis' USD hyperinflation thesis. Let me remind you that Bitcoin experienced its hyperinflation moment in 2010 🙃. https://t.co/r3celbNSQs https://t.co/BAMRUKTQFU
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrhunpVWAAEK7CP.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-18 · Post · https://t.co/beNOSLtdLE https://t.co/cKx6VGmaub https://t.co/5Dk1yqgXX0
+
+
+### Post — @pcaversaccio — 2023-03-18 12:16 UTC (2023-03-18 13:16 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1637065315669385221
+- Metrics (at fetch): bookmark 1, impression 2774, like 16, quote 0, reply 2, retweet 0
+
+> https://t.co/beNOSLtdLE https://t.co/cKx6VGmaub https://t.co/5Dk1yqgXX0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrgGOdgWwAIJ-OR.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2023-03-18 07:02 UTC (2023-03-18 08:02 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1636986518186147840
+    - Metrics (at fetch): bookmark 1, impression 14505, like 35, quote 2, reply 1, retweet 1
+    
+    > Wow 👀👀https://t.co/PU2YLCdcdW https://t.co/XlwhblHKpC
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/Fre-j4cWYAAgc3k.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2023-03-18 · Post · TLDR: Euler exploiter sent 3k back to Euler so far. https://t.co/5Dk1yqgXX0
+
+
+### Post — @pcaversaccio — 2023-03-18 07:09 UTC (2023-03-18 08:09 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1636988058040934413
+- Metrics (at fetch): bookmark 1, impression 5257, like 23, quote 0, reply 4, retweet 1
+
+> TLDR: Euler exploiter sent 3k back to Euler so far. https://t.co/5Dk1yqgXX0
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2023-03-18 07:02 UTC (2023-03-18 08:02 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1636986518186147840
+    - Metrics (at fetch): bookmark 1, impression 14505, like 35, quote 2, reply 1, retweet 1
+    
+    > Wow 👀👀https://t.co/PU2YLCdcdW https://t.co/XlwhblHKpC
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/Fre-j4cWYAAgc3k.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2023-03-18 · Post · Wow 👀👀https://t.co/PU2YLCdcdW https://t.co/XlwhblHKpC
+
+
+### Post — @pcaversaccio — 2023-03-18 07:02 UTC (2023-03-18 08:02 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1636986518186147840
+- Metrics (at fetch): bookmark 1, impression 14505, like 35, quote 2, reply 1, retweet 1
+
+> Wow 👀👀https://t.co/PU2YLCdcdW https://t.co/XlwhblHKpC
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fre-j4cWYAAgc3k.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-17 · Post · Not sure everyone is aware of the benefits of a 1-of-1 multisig for cold storage. This setup allows 
+
+
+### Post — @pcaversaccio — 2023-03-17 12:05 UTC (2023-03-17 13:05 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1636700188470390784
+- Metrics (at fetch): bookmark 13, impression 11678, like 92, quote 2, reply 7, retweet 7
+
+> Not sure everyone is aware of the benefits of a 1-of-1 multisig for cold storage. This setup allows you to rotate the signer keys without changing your address!
+
+
+---
+
+## 2023-03-16 · Post · puff is the new huff 😅- any Lisp pros go and help @0xz80 to help to build, now is your time to shine
+
+
+### Post — @pcaversaccio — 2023-03-16 09:34 UTC (2023-03-16 10:34 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1636299770556760064
+- Metrics (at fetch): bookmark 1, impression 2088, like 27, quote 0, reply 3, retweet 1
+
+> puff is the new huff 😅- any Lisp pros go and help @0xz80 to help to build, now is your time to shine!
+> https://t.co/HJDvTstH63 https://t.co/igUDy3ETW8
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrVNfVJX0AA_bQ1.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-16 · Post · If you want to easily test for all cursed ERC20 tokens mentioned in the shared repo by @pashov use t
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-03-16 08:35 UTC (2023-03-16 09:35 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1636285024956825601
+- Metrics (at fetch): bookmark 59, impression 9327, like 89, quote 1, reply 3, retweet 18
+
+> If you want to easily test for all cursed ERC20 tokens mentioned in the shared repo by @pashov use the following `token-tester` tool in your Foundry tests built by @saucepoint and @plotchy. Everything is one modifier away!
+> https://t.co/l1cGMUuWNP https://t.co/0JCO4GcLDQ https://t.co/Any15ukjAc
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrVADr5XgAET886.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1546814146385268737 — 2023-03-15 15:49 UTC (2023-03-15 16:49 WAT)
+    
+    - URL: https://x.com/1546814146385268737/status/1636031922580119554
+    - Metrics (at fetch): bookmark 166, impression 26667, like 248, quote 4, reply 13, retweet 43
+    
+    > This is the best checklist on ERC20 token integration I have used. You easily get Mediums on code4rena with it and also on solo audits. Stay safe when integrating ERC20 into your contracts, it's dangerous✌️
+    >
+    > https://t.co/J3aQLgV57L
+    
+
+
+---
+
+## 2023-03-15 · Post · Hear me out, the greatest danger of the current tools like GPT is that it learns people how to unlea
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2023-03-15 19:59 UTC (2023-03-15 20:59 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1636094740402692096
+- Metrics (at fetch): bookmark 6, impression 19440, like 134, quote 6, reply 18, retweet 20
+
+> Hear me out, the greatest danger of the current tools like GPT is that it learns people how to unlearn. Read for yourself. Write for yourself. Think for yourself.
+
+
+---
+
+## 2023-03-14 · Post · https://t.co/muyyvcMH0j https://t.co/v7v6U53LpQ
+
+
+### Post — @pcaversaccio — 2023-03-14 22:59 UTC (2023-03-14 23:59 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1635777603402444803
+- Metrics (at fetch): bookmark 1, impression 5162, like 40, quote 1, reply 5, retweet 3
+
+> https://t.co/muyyvcMH0j https://t.co/v7v6U53LpQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrNzCiaWwAIoVsL.png — no alt text provided by author
+
+
+---
+
+## 2023-03-14 · Post · CertiK soon out of business https://t.co/oWRG5suZbx
+
+
+### Post — @pcaversaccio — 2023-03-14 21:27 UTC (2023-03-14 22:27 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1635754467944431617
+- Metrics (at fetch): bookmark 3, impression 6508, like 59, quote 0, reply 7, retweet 1
+
+> CertiK soon out of business https://t.co/oWRG5suZbx
+
+**Quoted post (full text):**
+
+    #### Quoted post — @OpenAI — 2023-03-14 17:00 UTC (2023-03-14 18:00 WAT)
+    
+    - URL: https://x.com/OpenAI/status/1635687373060317185
+    - Metrics (at fetch): bookmark 3598, impression 12484174, like 59543, quote 5348, reply 2003, retweet 15919
+    
+    > Announcing GPT-4, a large multimodal model, with our best-ever results on capabilities and alignment: https://t.co/TwLFssyALF https://t.co/lYWwPjZbSg
+    
+    **Media:**
+    - media `7_1635681138533634048` (details not returned by the API)
+    
+
+
+---
+
+## 2023-03-14 · Post · ok that hurts Solidity ;-) https://t.co/7sUhoNKRMp
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-03-14 18:53 UTC (2023-03-14 19:53 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1635715735832887309
+- Metrics (at fetch): bookmark 1, impression 4605, like 30, quote 0, reply 6, retweet 0
+
+> ok that hurts Solidity ;-) https://t.co/7sUhoNKRMp
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrM6x-TWAA4O7iA.png — no alt text provided by author
+
+
+---
+
+## 2023-03-13 · Post · 1/ Today I discovered that the `CREATE` and `CREATE2` behavior on @zksync Era differs from what you 
+
+
+Tags (automatic): ZK
+
+
+### Post — @pcaversaccio — 2023-03-13 18:27 UTC (2023-03-13 19:27 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1635346927465406465
+- Metrics (at fetch): bookmark 60, impression 44569, like 179, quote 4, reply 3, retweet 21
+
+> 1/ Today I discovered that the `CREATE` and `CREATE2` behavior on @zksync Era differs from what you would actually expect. I will try to get as specific as possible - it's not a security issue as-is but it's important to be aware of since it can lead to unexpected outcomes.
+
+
+---
+
+## 2023-03-13 · Post · https://t.co/4XpKr2QNqL https://t.co/vKp5PcTgL0
+
+
+### Post — @pcaversaccio — 2023-03-13 13:25 UTC (2023-03-13 14:25 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1635270947661025280
+- Metrics (at fetch): bookmark 9, impression 14222, like 94, quote 2, reply 10, retweet 8
+
+> https://t.co/4XpKr2QNqL https://t.co/vKp5PcTgL0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrGmEazaAAAs7vM.jpg — no alt text provided by author
+
+
+---
+
 ## 2023-03-13 · Post · All attack transactions from Euler Finance exploit this morning that am aware of:
 
 
 ### Post — @pcaversaccio — 2023-03-13 13:00 UTC (2023-03-13 14:00 WAT)
 
 - URL: https://x.com/pcaversaccio/status/1635264570129551360
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 4, impression 6494, like 16, quote 1, reply 0, retweet 3
 
 > All attack transactions from Euler Finance exploit this morning that am aware of:
 > - https://etherscan.io/tx/0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d
@@ -29312,6 +29948,478 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 > - https://etherscan.io/tx/0x47ac3527d02e6b9631c77fad1cdee7bfa77a8a7bfd4880dccbda5146ace4088f
 
 **Links in post:** https://etherscan.io/tx/0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d, https://etherscan.io/tx/0x71a908be0bef6174bccc3d493becdfd28395d78898e355d451cb52f7bac38617, https://etherscan.io/tx/0x62bd3d31a7b75c098ccf28bc4d4af8c4a191b4b9e451fab4232258079e8b18c4, https://etherscan.io/tx/0x465a6780145f1efe3ab52f94c006065575712d2003d83d85481f3d110ed131d9, https://etherscan.io/tx/0x3097830e9921e4063d334acb82f6a79374f76f0b1a8f857e89b89bc58df1f311, https://etherscan.io/tx/0x47ac3527d02e6b9631c77fad1cdee7bfa77a8a7bfd4880dccbda5146ace4088f
+
+
+---
+
+## 2023-03-13 · Post · TL;DR @eulerfinance got exploited for ~$200m around 1hr ago. Will help in whatever I can. https://t.
+
+
+### Post — @pcaversaccio — 2023-03-13 10:06 UTC (2023-03-13 11:06 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1635220896263868416
+- Metrics (at fetch): bookmark 5, impression 15955, like 69, quote 3, reply 4, retweet 8
+
+> TL;DR @eulerfinance got exploited for ~$200m around 1hr ago. Will help in whatever I can. https://t.co/v16woMldrL https://t.co/f4Sc0S3q80
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrF4iGEWIAAz0Yx.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2023-03-13 09:28 UTC (2023-03-13 10:28 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1635211152576880642
+    - Metrics (at fetch): bookmark 0, impression 17319, like 9, quote 2, reply 0, retweet 0
+    
+    > around $178M so far
+    > https://t.co/w2MpMW06J3 https://t.co/7EknoTbOIb https://t.co/cHSDpd0isA
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FrFvyv_WYAAM6eW.jpg — no alt text provided by author
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @pcaversaccio — 2023-03-13 09:26 UTC (2023-03-13 10:26 WAT)
+        
+        - URL: https://x.com/pcaversaccio/status/1635210680130486272
+        - Metrics (at fetch): bookmark 1, impression 5033, like 11, quote 1, reply 0, retweet 2
+        
+        > Stolen funds currently sitting here: https://etherscan.io/address/0xb66cd966670d962C227B3EABA30a872DbFb995db. At least $175M lost. https://twitter.com/pcaversaccio/status/1635208428091240448
+        
+        **Links in post:** https://etherscan.io/address/0xb66cd966670d962C227B3EABA30a872DbFb995db, https://twitter.com/pcaversaccio/status/1635208428091240448
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @pcaversaccio — 2023-03-13 09:17 UTC (2023-03-13 10:17 WAT)
+            
+            - URL: https://x.com/pcaversaccio/status/1635208428091240448
+            - Metrics (at fetch): not returned
+            
+            > Euler finance was attacked via a flash loan: https://etherscan.io/tx/0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d.  We got around 8.9M DAI &amp; 8.1k WETH loss. [pic.x.com/8D8X5CcIzN]
+            
+            **Media:**
+            - photo: https://pbs.twimg.com/media/FrFs962XsAAzRub.png — no alt text provided by author
+            
+            **Links in post:** https://etherscan.io/tx/0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d
+            
+        
+    
+
+
+---
+
+## 2023-03-13 · Post · around $178M so far
+
+
+### Post — @pcaversaccio — 2023-03-13 09:28 UTC (2023-03-13 10:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1635211152576880642
+- Metrics (at fetch): bookmark 0, impression 17319, like 9, quote 2, reply 0, retweet 0
+
+> around $178M so far
+> https://t.co/w2MpMW06J3 https://t.co/7EknoTbOIb https://t.co/cHSDpd0isA
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrFvyv_WYAAM6eW.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2023-03-13 09:26 UTC (2023-03-13 10:26 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1635210680130486272
+    - Metrics (at fetch): bookmark 1, impression 5033, like 11, quote 1, reply 0, retweet 2
+    
+    > Stolen funds currently sitting here: https://etherscan.io/address/0xb66cd966670d962C227B3EABA30a872DbFb995db. At least $175M lost. https://twitter.com/pcaversaccio/status/1635208428091240448
+    
+    **Links in post:** https://etherscan.io/address/0xb66cd966670d962C227B3EABA30a872DbFb995db, https://twitter.com/pcaversaccio/status/1635208428091240448
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @pcaversaccio — 2023-03-13 09:17 UTC (2023-03-13 10:17 WAT)
+        
+        - URL: https://x.com/pcaversaccio/status/1635208428091240448
+        - Metrics (at fetch): not returned
+        
+        > Euler finance was attacked via a flash loan: https://etherscan.io/tx/0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d.  We got around 8.9M DAI &amp; 8.1k WETH loss. [pic.x.com/8D8X5CcIzN]
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/FrFs962XsAAzRub.png — no alt text provided by author
+        
+        **Links in post:** https://etherscan.io/tx/0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d
+        
+    
+
+
+---
+
+## 2023-03-13 · Post · Stolen funds currently sitting here: https://etherscan.io/address/0xb66cd966670d962C227B3EABA30a872D
+
+
+### Post — @pcaversaccio — 2023-03-13 09:26 UTC (2023-03-13 10:26 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1635210680130486272
+- Metrics (at fetch): bookmark 1, impression 5033, like 11, quote 1, reply 0, retweet 2
+
+> Stolen funds currently sitting here: https://etherscan.io/address/0xb66cd966670d962C227B3EABA30a872DbFb995db. At least $175M lost. https://twitter.com/pcaversaccio/status/1635208428091240448
+
+**Links in post:** https://etherscan.io/address/0xb66cd966670d962C227B3EABA30a872DbFb995db, https://twitter.com/pcaversaccio/status/1635208428091240448
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2023-03-13 09:17 UTC (2023-03-13 10:17 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1635208428091240448
+    - Metrics (at fetch): not returned
+    
+    > Euler finance was attacked via a flash loan: https://etherscan.io/tx/0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d.  We got around 8.9M DAI &amp; 8.1k WETH loss. [pic.x.com/8D8X5CcIzN]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FrFs962XsAAzRub.png — no alt text provided by author
+    
+    **Links in post:** https://etherscan.io/tx/0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d
+    
+
+
+---
+
+## 2023-03-13 · Post · Euler finance was attacked via a flash loan: https://etherscan.io/tx/0xc310a0affe2169d1f6feec1c63dbc
+
+
+### Post — @pcaversaccio — 2023-03-13 09:17 UTC (2023-03-13 10:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1635208428091240448
+- Metrics (at fetch): not returned
+
+> Euler finance was attacked via a flash loan: https://etherscan.io/tx/0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d.  We got around 8.9M DAI &amp; 8.1k WETH loss. [pic.x.com/8D8X5CcIzN]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrFs962XsAAzRub.png — no alt text provided by author
+
+**Links in post:** https://etherscan.io/tx/0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d
+
+
+---
+
+## 2023-03-13 · Post · Right, so ur all happy about the re-peg? I don't fucking care honestly - this whole episode has show
+
+
+### Post — @pcaversaccio — 2023-03-13 07:43 UTC (2023-03-13 08:43 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1635184684069183488
+- Metrics (at fetch): not returned
+
+> Right, so ur all happy about the re-peg? I don't fucking care honestly - this whole episode has shown the fragility of 'not-so' centralised stablecoins. Hear me out, USDC will depeg again, maybe not today nor tomorrow but it will happen. Don't come cry at me if it happens again.
+
+
+---
+
+## 2023-03-12 · Post · Rugged [pic.x.com/4g1A5joRLZ]
+
+
+### Post — @pcaversaccio — 2023-03-12 21:08 UTC (2023-03-12 22:08 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1635024951156838400
+- Metrics (at fetch): not returned
+
+> Rugged [pic.x.com/4g1A5joRLZ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrDGhwXXsAIQkPd.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-12 · Post · Seriously, how is it possible that SBF still uses TG? [pic.x.com/ZO4toNzPSS]
+
+
+### Post — @pcaversaccio — 2023-03-12 12:45 UTC (2023-03-12 13:45 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1634898527066390529
+- Metrics (at fetch): not returned
+
+> Seriously, how is it possible that SBF still uses TG? [pic.x.com/ZO4toNzPSS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FrBTi9JWwAAo3NL.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-12 · Post · The biggest threat in crypto is trust. NEVER TRUST ANYTHING! The point of why we're all building thi
+
+
+### Post — @pcaversaccio — 2023-03-12 07:56 UTC (2023-03-12 08:56 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1634825708563316736
+- Metrics (at fetch): not returned
+
+> The biggest threat in crypto is trust. NEVER TRUST ANYTHING! The point of why we're all building this is to enable trustlessness. That's the power of cryptography &amp; distributed systems. Don't cry because ur stablecoin bags are depegged. Cry because u trusted them in first place!
+
+
+---
+
+## 2023-03-11 · Post · ☀️☀️☀️☀️ https://twitter.com/delete_shitcoin/status/1541669352684269569
+
+
+### Post — @pcaversaccio — 2023-03-11 18:00 UTC (2023-03-11 19:00 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1634615184575610881
+- Metrics (at fetch): not returned
+
+> ☀️☀️☀️☀️ https://twitter.com/delete_shitcoin/status/1541669352684269569
+
+**Links in post:** https://twitter.com/delete_shitcoin/status/1541669352684269569
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1516853888124608512 — 2022-06-28 06:26 UTC (2022-06-28 07:26 WAT)
+    
+    - URL: https://x.com/1516853888124608512/status/1541669352684269569
+    - Metrics (at fetch): not returned
+    
+    > Once again, if USDC implodes, then that will simply be a chance to teach people about the mechanism used by Rai to withstand shocks to the collateral base. Everyone will see that, in fact, the currently deployed comtracts Maker were designed to enable it for *exactly that reason*
+    
+
+
+---
+
+## 2023-03-11 · Post · I hope the 48-72hrs until deployment are enough time. In any case, I support that proposal.
+
+
+### Post — @pcaversaccio — 2023-03-11 16:27 UTC (2023-03-11 17:27 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1634591963277041665
+- Metrics (at fetch): not returned
+
+> I hope the 48-72hrs until deployment are enough time. In any case, I support that proposal.
+>
+> - Proposal: https://forum.makerdao.com/t/emergency-proposal-risk-and-governance-parameter-changes-11-march-2023/20125
+> - Vote: https://vote.makerdao.com/executive/template-executive-vote-emergency-parameter-changes-march-11-2023#proposal-detail [pic.x.com/UaF6qYfsOo]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fq87cWMWAAIzgmU.jpg — no alt text provided by author
+
+**Links in post:** https://forum.makerdao.com/t/emergency-proposal-risk-and-governance-parameter-changes-11-march-2023/20125, https://vote.makerdao.com/executive/template-executive-vote-emergency-parameter-changes-march-11-2023#proposal-detail
+
+
+---
+
+## 2023-03-11 · Post · stats don't lie (unfortunately)... [pic.x.com/hGKDzgNhcQ]
+
+
+### Post — @pcaversaccio — 2023-03-11 12:32 UTC (2023-03-11 13:32 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1634532655722110977
+- Metrics (at fetch): not returned
+
+> stats don't lie (unfortunately)... [pic.x.com/hGKDzgNhcQ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fq8Gr0-WIAAiEtB.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-11 · Post · 🐍 snekmate v0.0.1 made it to this week's @WeekInEthNews edition 🔥 - the sneeek is coming after you :
+
+
+### Post — @pcaversaccio — 2023-03-11 12:24 UTC (2023-03-11 13:24 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1634530785792339970
+- Metrics (at fetch): not returned
+
+> 🐍 snekmate v0.0.1 made it to this week's @WeekInEthNews edition 🔥 - the sneeek is coming after you :)
+>
+> https://github.com/pcaversaccio/snekmate/releases/tag/v0.0.1 [pic.x.com/5WsDib5Thx]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fq8ExPgWIAAHIqn.png — no alt text provided by author
+
+**Links in post:** https://github.com/pcaversaccio/snekmate/releases/tag/v0.0.1
+
+
+---
+
+## 2023-03-11 · Post · gm 🫡 stay strong and touch grass [pic.x.com/DcOvQo1d6m]
+
+
+### Post — @pcaversaccio — 2023-03-11 10:08 UTC (2023-03-11 11:08 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1634496631109238784
+- Metrics (at fetch): not returned
+
+> gm 🫡 stay strong and touch grass [pic.x.com/DcOvQo1d6m]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fq7mBjvWAAALvF6.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-10 · Post · Ok that's bad... https://www.circle.com/hubfs/USDCAttestationReports/2023%20USDC_Circle%20Examinatio
+
+
+Tags (automatic): TEE / enclave
+
+
+### Post — @pcaversaccio — 2023-03-10 21:34 UTC (2023-03-10 22:34 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1634306872537763840
+- Metrics (at fetch): not returned
+
+> Ok that's bad... https://www.circle.com/hubfs/USDCAttestationReports/2023%20USDC_Circle%20Examination%20Report%20January%202023.pdf [pic.x.com/fhTSSVaX76]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fq45cGxX0AEB7ot.jpg — no alt text provided by author
+
+**Links in post:** https://www.circle.com/hubfs/USDCAttestationReports/2023%20USDC_Circle%20Examination%20Report%20January%202023.pdf
+
+
+---
+
+## 2023-03-10 · Post · Lmfaoooo https://twitter.com/SVB_Financial/status/1632818336391213059
+
+
+### Post — @pcaversaccio — 2023-03-10 20:54 UTC (2023-03-10 21:54 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1634296577404665862
+- Metrics (at fetch): not returned
+
+> Lmfaoooo https://twitter.com/SVB_Financial/status/1632818336391213059
+
+**Links in post:** https://twitter.com/SVB_Financial/status/1632818336391213059
+
+**Quoted post** 1632818336391213059: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-03-10 · Post · I guess what Silvergate and SVB showcase well are the benefits of self-custody. To push that even fu
+
+
+### Post — @pcaversaccio — 2023-03-10 20:38 UTC (2023-03-10 21:38 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1634292698998775813
+- Metrics (at fetch): not returned
+
+> I guess what Silvergate and SVB showcase well are the benefits of self-custody. To push that even further, I would argue that any self-custodial solution is superior to any fucking tradfi centralised clown services.
+
+
+---
+
+## 2023-03-10 · Post · one of the virtues of 🐍Vyper 😉 [pic.x.com/d1pWV8XzjJ] https://twitter.com/solidity_lang/status/16341
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-03-10 15:08 UTC (2023-03-10 16:08 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1634209582372323329
+- Metrics (at fetch): not returned
+
+> one of the virtues of 🐍Vyper 😉 [pic.x.com/d1pWV8XzjJ] https://twitter.com/solidity_lang/status/1634197823469101060
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fq3gvOcXsAAWow8.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/solidity_lang/status/1634197823469101060
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1240237444945121280 — 2023-03-10 14:21 UTC (2023-03-10 15:21 WAT)
+    
+    - URL: https://x.com/1240237444945121280/status/1634197823469101060
+    - Metrics (at fetch): not returned
+    
+    > 𝗥𝗲𝗰𝘂𝗿𝗿𝗶𝗻𝗴 𝗜𝘀𝘀𝘂𝗲𝘀
+    > 60% of respondents don’t encounter the same/similar issues multiple times when developing in Solidity.
+    >
+    > Amongst the 40% that do, debugging issues are encountered most frequently, followed by stack-too-deep errors and bytecode size limitations. 🛑 [pic.x.com/yKuiIUtOfb]
+    
+    **Media:**
+    - media `3_1634196447066243074` (details not returned by the API)
+    
+
+
+---
+
+## 2023-03-10 · Post · translation: so around 5% don't know what they're doing [pic.x.com/J25sNZBUxP] https://twitter.com/s
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-03-10 15:02 UTC (2023-03-10 16:02 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1634208118497214469
+- Metrics (at fetch): not returned
+
+> translation: so around 5% don't know what they're doing [pic.x.com/J25sNZBUxP] https://twitter.com/solidity_lang/status/1634197780200669185
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fq3fOqIWAAAIBFR.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/solidity_lang/status/1634197780200669185
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1240237444945121280 — 2023-03-10 14:21 UTC (2023-03-10 15:21 WAT)
+    
+    - URL: https://x.com/1240237444945121280/status/1634197780200669185
+    - Metrics (at fetch): not returned
+    
+    > The results of the Solidity Developer Survey 2022 are live! 🥳 
+    >
+    > The 1st conclusion from it is that our community is awesome! We received a smashing 1.4k responses from 100 different countries. 🌍
+    >
+    > Link to full report + thread for highlights 🧵👇
+    >
+    > 📖: https://blog.soliditylang.org/2023/03/10/solidity-developer-survey-2022-results/ [pic.x.com/M8TO9c1guo]
+    
+    **Media:**
+    - media `3_1634194640202002432` (details not returned by the API)
+    
+    **Links in post:** https://blog.soliditylang.org/2023/03/10/solidity-developer-survey-2022-results/
+    
+
+
+---
+
+## 2023-03-10 · Post · Friday is merge day - just added `wad_ln` and `wad_exp` functions to 🐍 snekmate 🫡 Also, I improved t
+
+
+### Post — @pcaversaccio — 2023-03-10 09:43 UTC (2023-03-10 10:43 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1634127721813901313
+- Metrics (at fetch): not returned
+
+> Friday is merge day - just added `wad_ln` and `wad_exp` functions to 🐍 snekmate 🫡 Also, I improved the `wad_cbrt` function which now only consumes 1,450 to 1,650 gas. Happy weekend and keep shipping hard! https://github.com/pcaversaccio/snekmate/pull/91 [pic.x.com/RXb7VTE95t]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fq2WFJCWIAIqToD.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/pcaversaccio/snekmate/pull/91
+
+
+---
+
+## 2023-03-09 · Post · Hedera pulls the plug. Welcome to 2023, where blockchains and DAGs are centralised monsters. [pic.x.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-03-09 22:05 UTC (2023-03-09 23:05 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1633952115381944327
+- Metrics (at fetch): not returned
+
+> Hedera pulls the plug. Welcome to 2023, where blockchains and DAGs are centralised monsters. [pic.x.com/CJYPcx4EHD]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fqz2yjUXoAYMCfz.jpg — no alt text provided by author
 
 
 ---
@@ -29361,6 +30469,85 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 ---
 
+## 2023-03-08 · Post · Please consider donating to my 🐍snekmate project for the @optimismFND retro public goods funding htt
+
+
+### Post — @pcaversaccio — 2023-03-08 19:50 UTC (2023-03-08 20:50 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1633555819160653825
+- Metrics (at fetch): not returned
+
+> Please consider donating to my 🐍snekmate project for the @optimismFND retro public goods funding https://app.optimism.io/retropgf-discovery/0x07bF3CDA34aA78d92949bbDce31520714AB5b228
+
+**Links in post:** https://app.optimism.io/retropgf-discovery/0x07bF3CDA34aA78d92949bbDce31520714AB5b228
+
+
+---
+
+## 2023-03-08 · Post · anon, which GitPOAPs did you mint in the first quarter of 2023? [pic.x.com/YXkGY4PzNO]
+
+
+### Post — @pcaversaccio — 2023-03-08 16:24 UTC (2023-03-08 17:24 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1633503968159465472
+- Metrics (at fetch): not returned
+
+> anon, which GitPOAPs did you mint in the first quarter of 2023? [pic.x.com/YXkGY4PzNO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FqterjfXoAw0w4q.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-07 · Post · 🐍🫡 https://twitter.com/CurveCap/status/1633133814393315330
+
+
+### Post — @pcaversaccio — 2023-03-07 16:04 UTC (2023-03-07 17:04 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1633136596693274625
+- Metrics (at fetch): not returned
+
+> 🐍🫡 https://twitter.com/CurveCap/status/1633133814393315330
+
+**Links in post:** https://twitter.com/CurveCap/status/1633133814393315330
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1326211445978144768 — 2023-03-07 15:53 UTC (2023-03-07 16:53 WAT)
+    
+    - URL: https://x.com/1326211445978144768/status/1633133814393315330
+    - Metrics (at fetch): not returned
+    
+    > March 7, 2023: Snekmate! 🐍♟️
+    > Vyper gets smart contract building blocks with release of Snekmate 0.0.1
+    >
+    > https://open.substack.com/pub/curve/p/march-7-2023-snekmate?r=br6us&utm_campaign=3-7
+    >
+    > 🧵1/10👇
+    
+    **Links in post:** https://open.substack.com/pub/curve/p/march-7-2023-snekmate?r=br6us&utm_campaign=3-7
+    
+
+
+---
+
+## 2023-03-07 · Post · [pic.x.com/yJ6RxD6deO]
+
+
+### Post — @pcaversaccio — 2023-03-07 12:49 UTC (2023-03-07 13:49 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1633087426586451970
+- Metrics (at fetch): not returned
+
+> [pic.x.com/yJ6RxD6deO]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FqnkUjBWYAA-kXx.png — no alt text provided by author
+
+
+---
+
 ## 2023-03-07 · Post · In ECDSA signing the main security risk is in how nonces are generated (simplified):
 
 
@@ -29380,18 +30567,300 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 ---
 
+## 2023-03-06 · Post · Ok thanks for having me @elonmusk @Twitter. Can you please hardcore engineer working links. https://
+
+
+### Post — @pcaversaccio — 2023-03-06 17:28 UTC (2023-03-06 18:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1632795393376280576
+- Metrics (at fetch): bookmark 0, impression 4927, like 22, quote 1, reply 2, retweet 1
+
+> Ok thanks for having me @elonmusk @Twitter. Can you please hardcore engineer working links. https://t.co/ISAikEfzjF
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FqjawgFWIAQGP4R.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-06 · Post · 1/ I am just fucking proud and so happy to release the first official version of 🐍 snekmate 🥳! Hones
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-03-06 10:47 UTC (2023-03-06 11:47 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1632694471874732034
+- Metrics (at fetch): bookmark 65, impression 98997, like 390, quote 8, reply 24, retweet 54
+
+> 1/ I am just fucking proud and so happy to release the first official version of 🐍 snekmate 🥳! Honestly, what a feat:
+> - 582 commits
+> - 6,471 source lines of 🐍Vyper code
+> - 15,137 source lines of Solidity test code
+> https://t.co/lrP5L33Fon https://t.co/POl7c5EXtx
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fqh9QDDWYAE-3wU.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fqh9R59XoAERT8b.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fqh9TAKWAAAV9SD.png — no alt text provided by author
+
+
+---
+
+## 2023-03-05 · Post · Complexity is the enemy of security. - @delete_shitcoin 
+
+
+### Post — @pcaversaccio — 2023-03-05 13:07 UTC (2023-03-05 14:07 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1632367274387488773
+- Metrics (at fetch): bookmark 1, impression 5664, like 61, quote 0, reply 2, retweet 6
+
+> Complexity is the enemy of security. - @delete_shitcoin 
+>
+> Nikolai you are missed very much!
+
+
+---
+
 ## 2023-03-04 · Post · I repeat: `uint` as an alias for `uint256` is a bug, not a feature! Ok, fair enough, I added some sp
 
 
 ### Post — @pcaversaccio — 2023-03-04 10:08 UTC (2023-03-04 11:08 WAT)
 
 - URL: https://x.com/pcaversaccio/status/1631959889881837570
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 14, impression 12692, like 87, quote 2, reply 13, retweet 6
 
 > I repeat: `uint` as an alias for `uint256` is a bug, not a feature! Ok, fair enough, I added some spicy stuff in this contract (lol), but I will open an issue to remove the alias. Global aliases in the area of user-defined types and operators decrease the readability imho. [pic.x.com/UVeOgiDOVh]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FqXiOTVWYAEArd9.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-03 · Post · anon, we all know you love cube roots, but you were checking Solmate &amp; Solady and couldn't find 
+
+
+### Post — @pcaversaccio — 2023-03-03 14:06 UTC (2023-03-03 15:06 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1631657338137346052
+- Metrics (at fetch): bookmark 4, impression 15451, like 52, quote 2, reply 6, retweet 8
+
+> anon, we all know you love cube roots, but you were checking Solmate &amp; Solady and couldn't find a function. Check 🐍 snekmate now, where u can calculate the cbrt &amp; wad cbrt for under 2,000 gas! Credit goes to @_bout3fiddy_, @newmichwill &amp; @CurveFinance! 
+> https://t.co/XtoJwPf1jy https://t.co/M4Qtr3v02c
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FqTOd4sWIAAk-6Y.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FqTOeP1XgAA1muQ.png — no alt text provided by author
+
+
+---
+
+## 2023-03-03 · Post · So we got the following types of reentrancy attacks:
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-03-03 08:56 UTC (2023-03-03 09:56 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1631579198518181888
+- Metrics (at fetch): bookmark 61, impression 19470, like 147, quote 1, reply 4, retweet 22
+
+> So we got the following types of reentrancy attacks:
+> - Single-Function Reentrancy
+> - Cross-Function Reentrancy
+> - Cross-Contract Reentrancy
+> - Read-Only Reentrancy
+>
+> BUT, given cross-chain messaging protocols like LayerZero &amp; co., cross-chain reentrancy attacks can be conducted. 🫡
+
+
+---
+
+## 2023-03-02 · Post · Since I still get numerous requests per week about a proper collection of Ethereum security toolings
+
+
+### Post — @pcaversaccio — 2023-03-02 09:20 UTC (2023-03-02 10:20 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1631222967739854849
+- Metrics (at fetch): bookmark 57, impression 6787, like 118, quote 2, reply 3, retweet 31
+
+> Since I still get numerous requests per week about a proper collection of Ethereum security toolings, I want to again highlight that I maintain a curated list of Ethereum security references, guidance, tools, etc. on GH. I recommend starting from there 🫡 https://t.co/AEjyjaS7NL
+
+
+---
+
+## 2023-03-02 · Post · We got new math functions added to 🐍 snekmate 🫡.
+
+
+### Post — @pcaversaccio — 2023-03-02 08:55 UTC (2023-03-02 09:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1631216661452693505
+- Metrics (at fetch): bookmark 0, impression 966, like 6, quote 0, reply 0, retweet 0
+
+> We got new math functions added to 🐍 snekmate 🫡.
+> https://t.co/lPoPB3c2df https://t.co/CKogmdM12W
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FqM-oT3WwAI4JCw.jpg — no alt text provided by author
+
+
+---
+
+## 2023-03-01 · Post · Ffs @CoinDesk - Ethereum did NOT activate Account Abstraction. The linked contract in the article is
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-03-01 21:41 UTC (2023-03-01 22:41 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1631047123411116032
+- Metrics (at fetch): bookmark 0, impression 4068, like 32, quote 1, reply 0, retweet 3
+
+> Ffs @CoinDesk - Ethereum did NOT activate Account Abstraction. The linked contract in the article is a smart contract wallet and not more. https://t.co/BLTNy2cjib
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1333467482 — 2023-03-01 18:47 UTC (2023-03-01 19:47 WAT)
+    
+    - URL: https://x.com/1333467482/status/1631003353130958876
+    - Metrics (at fetch): bookmark 19, impression 187290, like 307, quote 31, reply 23, retweet 70
+    
+    > SCOOP: @Ethereum will announce that Account Abstraction is already live on the blockchain at #ETHDenver, @cryptauxmargaux reports
+    >
+    > https://t.co/5ixDFpY3sB
+    
+
+
+---
+
+## 2023-03-01 · Post · Math was (and still is) patentable - makes me pretty sad. There is (a now expired) patent on how to 
+
+
+### Post — @pcaversaccio — 2023-03-01 08:47 UTC (2023-03-01 09:47 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1630852365585727490
+- Metrics (at fetch): bookmark 9, impression 5932, like 66, quote 0, reply 8, retweet 4
+
+> Math was (and still is) patentable - makes me pretty sad. There is (a now expired) patent on how to efficiently calculate the average of two signed or unsigned integer numbers. I mean WTF!  https://t.co/ylJwLYhMiF https://t.co/fVJsSw5WvM
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FqHwtxFXwAAYJtT.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FqHwuvlXgAIDcDY.png — no alt text provided by author
+
+
+---
+
+## 2023-02-28 · Post · controversial take: Ordinals make Bitcoin interesting again (for builders in particular).
+
+
+### Post — @pcaversaccio — 2023-02-28 17:55 UTC (2023-02-28 18:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1630627657808265236
+- Metrics (at fetch): bookmark 0, impression 3518, like 36, quote 1, reply 6, retweet 1
+
+> controversial take: Ordinals make Bitcoin interesting again (for builders in particular).
+
+
+---
+
+## 2023-02-28 · Post · Good user experience is not about the average case, it is about the worst case. https://t.co/lpoQ57t
+
+
+### Post — @pcaversaccio — 2023-02-28 10:37 UTC (2023-02-28 11:37 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1630517555524775936
+- Metrics (at fetch): bookmark 0, impression 2434, like 14, quote 0, reply 1, retweet 2
+
+> Good user experience is not about the average case, it is about the worst case. https://t.co/lpoQ57tMQK
+
+**Quoted post (full text):**
+
+    #### Quoted post — @VitalikButerin — 2023-02-28 00:43 UTC (2023-02-28 01:43 WAT)
+    
+    - URL: https://x.com/VitalikButerin/status/1630368034308214784
+    - Metrics (at fetch): bookmark 306, impression 1220469, like 4000, quote 220, reply 1472, retweet 1279
+    
+    > Some personal user experiences:
+    >
+    > https://t.co/PhahJFiNVe
+    
+
+
+---
+
+## 2023-02-27 · Post · 1/ Talk is cheap, show me the code. I just merged a kickass PR into 🐍 snekmate that entails not 1 bu
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @pcaversaccio — 2023-02-27 08:12 UTC (2023-02-27 09:12 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1630118549774630915
+- Metrics (at fetch): bookmark 15, impression 9770, like 50, quote 1, reply 3, retweet 6
+
+> 1/ Talk is cheap, show me the code. I just merged a kickass PR into 🐍 snekmate that entails not 1 but 2 Vyper gems:
+> - ERC-4626 tokenised vault implementation
+> - Math function `mul_div` to calculate "(x * y) / denominator" in 512-bit precision! 
+> https://t.co/236jNXpAnn https://t.co/gRDeQFDlvI
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fp9SNoRWYAAZz3-.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fp9ShEaXgAAZErR.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fp9XryzWYAEvvtP.png — no alt text provided by author
+
+
+---
+
+## 2023-02-26 · Post · Apparently, some people are trying to impersonate me and schedule meetings in Denver. To clarify: I 
+
+
+### Post — @pcaversaccio — 2023-02-26 18:31 UTC (2023-02-26 19:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1629911938800013315
+- Metrics (at fetch): bookmark 0, impression 7133, like 23, quote 1, reply 6, retweet 4
+
+> Apparently, some people are trying to impersonate me and schedule meetings in Denver. To clarify: I am not in Denver, and please do not take appointments with people who ask you to bring their computer. Stay safe!
+
+
+---
+
+## 2023-02-26 · Post · For the ones that want to use `CREATE2` on the new Coinbase Goerli Base testnet, I just released my 
+
+
+### Post — @pcaversaccio — 2023-02-26 12:14 UTC (2023-02-26 13:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1629817223014498307
+- Metrics (at fetch): bookmark 1, impression 1700, like 14, quote 0, reply 0, retweet 1
+
+> For the ones that want to use `CREATE2` on the new Coinbase Goerli Base testnet, I just released my latest `xdeployer` version:
+> https://t.co/BRNAZS8rnb. As usual, if you use another tool (e.g. Foundry), you can call the contract here: https://t.co/GJtpThydlI.
+
+
+---
+
+## 2023-02-25 · Post · Welcome to Solana where you are required to read a Google doc to coordinate a network restart. https
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-02-25 15:31 UTC (2023-02-25 16:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1629504315416014850
+- Metrics (at fetch): bookmark 5, impression 10533, like 69, quote 1, reply 4, retweet 6
+
+> Welcome to Solana where you are required to read a Google doc to coordinate a network restart. https://t.co/3Qpql3zRxt https://t.co/86jWR3lQ5b
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fp0pDvHWwAEFgf1.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fp0pEzsWcAA8ueK.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fp0pGAPXwAQARjN.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fp0pHPGX0AMQZ6a.png — no alt text provided by author
 
 
 ---
@@ -29402,7 +30871,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 ### Post — @pcaversaccio — 2023-02-25 08:19 UTC (2023-02-25 09:19 WAT)
 
 - URL: https://x.com/pcaversaccio/status/1629395662763614208
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 14, impression 38981, like 144, quote 4, reply 19, retweet 20
 
 > Upgradability is a bug not a feature. In that case it was exploited for the 'good', but this should also highlight how much harm it can create. You can't achieve trustlessness if you always have to worry that a multisig upgrades its implementation contract. Full stop. https://twitter.com/CSBastiat/status/1629241395469844481
 
@@ -29413,7 +30882,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
     #### Quoted post — @247973359 — 2023-02-24 22:06 UTC (2023-02-24 23:06 WAT)
     
     - URL: https://x.com/247973359/status/1629241395469844481
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 97, impression 401321, like 886, quote 107, reply 81, retweet 187
     
     > It was only a matter of time.
     >
@@ -29436,13 +30905,211 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 ---
 
+## 2023-02-24 · Post · It's happening - bye bye `ERC-777`, you won't be missed https://t.co/GB5m4xjSWk
+
+
+### Post — @pcaversaccio — 2023-02-24 14:53 UTC (2023-02-24 15:53 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1629132299198513154
+- Metrics (at fetch): bookmark 3, impression 13552, like 100, quote 3, reply 7, retweet 13
+
+> It's happening - bye bye `ERC-777`, you won't be missed https://t.co/GB5m4xjSWk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpvXHuoXoAAihz3.png — no alt text provided by author
+
+
+---
+
+## 2023-02-24 · Post · So we got a 157 block reorg on Polygon &gt; 24hr ago and there is still no detailed explanation of w
+
+
+### Post — @pcaversaccio — 2023-02-24 09:00 UTC (2023-02-24 10:00 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1629043597759717377
+- Metrics (at fetch): bookmark 30, impression 116676, like 313, quote 13, reply 17, retweet 33
+
+> So we got a 157 block reorg on Polygon &gt; 24hr ago and there is still no detailed explanation of what exactly happened. This is not how such incidents should be handled wrt comms. https://t.co/3HLrPkRLIR
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpuFusUXEAEnCmw.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-23 · Post · Optimism Stack = L2 as a Service https://t.co/ztzYpTix5L
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-02-23 14:57 UTC (2023-02-23 15:57 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1628771020294311939
+- Metrics (at fetch): bookmark 0, impression 2164, like 15, quote 0, reply 0, retweet 1
+
+> Optimism Stack = L2 as a Service https://t.co/ztzYpTix5L
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1628067904083181570 — 2023-02-23 14:03 UTC (2023-02-23 15:03 WAT)
+    
+    - URL: https://x.com/1628067904083181570/status/1628757381457883136
+    - Metrics (at fetch): bookmark 182, impression 2131138, like 13280, quote 549, reply 2740, retweet 6172
+    
+    > 🔵 All your Base are belong to you. https://t.co/LAqs8rEWuJ
+    
+    **Media:**
+    - media `7_1628751686784192514` (details not returned by the API)
+    
+
+
+---
+
+## 2023-02-23 · Post · How not to use the new Solidity features - I'm sorry but I had to do it :-) https://t.co/IyVavFYV9q
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-02-23 14:43 UTC (2023-02-23 15:43 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1628767475113361412
+- Metrics (at fetch): bookmark 18, impression 17821, like 85, quote 2, reply 15, retweet 7
+
+> How not to use the new Solidity features - I'm sorry but I had to do it :-) https://t.co/IyVavFYV9q
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpqLIplXEAEe_Td.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-23 · Post · Another issue worth noting got fixed with Solidity version `0.8.19` https://t.co/2izchbIFMa
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-02-23 08:31 UTC (2023-02-23 09:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1628673924149002240
+- Metrics (at fetch): bookmark 7, impression 2442, like 32, quote 0, reply 1, retweet 2
+
+> Another issue worth noting got fixed with Solidity version `0.8.19` https://t.co/2izchbIFMa
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fpo2TNRXsAI1arF.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fpo2GSoX0AIhZFP.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-23 · Post · gm https://t.co/7UQ5LW5WRY
+
+
+### Post — @pcaversaccio — 2023-02-23 08:13 UTC (2023-02-23 09:13 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1628669316269854720
+- Metrics (at fetch): bookmark 6, impression 3659, like 46, quote 0, reply 4, retweet 1
+
+> gm https://t.co/7UQ5LW5WRY
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fpox-BGXsAEHrTo.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FpoyBPuXwAARbep.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-22 · Post · Custom operators for user defined value types, aka big footguns https://t.co/RuWrj56OXD
+
+
+### Post — @pcaversaccio — 2023-02-22 22:03 UTC (2023-02-22 23:03 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1628515752910245893
+- Metrics (at fetch): bookmark 9, impression 8754, like 47, quote 2, reply 12, retweet 4
+
+> Custom operators for user defined value types, aka big footguns https://t.co/RuWrj56OXD
+
+
+---
+
+## 2023-02-22 · Post · To all the Goerli ETH sellers, this might disappoint you but Goerli will be replaced by Holesovice i
+
+
+### Post — @pcaversaccio — 2023-02-22 14:29 UTC (2023-02-22 15:29 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1628401534076592128
+- Metrics (at fetch): bookmark 1, impression 1359, like 13, quote 1, reply 1, retweet 2
+
+> To all the Goerli ETH sellers, this might disappoint you but Goerli will be replaced by Holesovice in September 2023. https://t.co/tLrmskxIhd
+
+
+---
+
+## 2023-02-22 · Post · Believe me or not, I've got 20+ messages like that over the last 3 months... My 2 cents on this issu
+
+
+### Post — @pcaversaccio — 2023-02-22 10:27 UTC (2023-02-22 11:27 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1628340581410668548
+- Metrics (at fetch): bookmark 3, impression 11156, like 50, quote 2, reply 7, retweet 2
+
+> Believe me or not, I've got 20+ messages like that over the last 3 months... My 2 cents on this issue: Goerli as a testnet is broken. Use Sepolia. https://t.co/DXJyAycA6U
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpkHIPyX0AUVGJ5.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-21 · Post · WARNING: There is an email circulating that looks very official from @tether, but it's a pure scam. 
+
+
+### Post — @pcaversaccio — 2023-02-21 09:27 UTC (2023-02-21 10:27 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1627963173943877639
+- Metrics (at fetch): bookmark 0, impression 6163, like 28, quote 1, reply 3, retweet 11
+
+> WARNING: There is an email circulating that looks very official from @tether, but it's a pure scam. DO NOT follow any of the steps - it makes you approve all of your USDT to the malicious address: https://t.co/hqDd7jDpTL. https://t.co/dKi3C0CvbL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpeunalWYAABZnu.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FpeuoedWAAAdREl.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FpeupePX0AAhZM4.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FpeuqX2XgAE36UQ.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-21 · Post · A still underrated feature of the Solidity versions `&gt;=0.8.8` (no, it's not a typo, I don't mean 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-02-21 08:35 UTC (2023-02-21 09:35 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1627950062335664129
+- Metrics (at fetch): bookmark 8, impression 5532, like 43, quote 0, reply 4, retweet 2
+
+> A still underrated feature of the Solidity versions `&gt;=0.8.8` (no, it's not a typo, I don't mean `0.8.18`) is that it no longer needs an override for functions of interfaces. This behaviour seemed very odd to me. Btw that's why all OZ base implementations use `override`. https://t.co/Rn5NrZ65sR
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fpeh4esXwAAPdg4.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FpejrUfXwAIHu5n.jpg — no alt text provided by author
+
+
+---
+
 ## 2023-02-20 · Post · Kinda crazy to me that Bitcoin maintainers &amp; researchers can patch a security vulnerability and 
 
 
 ### Post — @pcaversaccio — 2023-02-20 11:27 UTC (2023-02-20 12:27 WAT)
 
 - URL: https://x.com/pcaversaccio/status/1627631035017052163
-- Metrics (at fetch): bookmark 44, impression 68528, like 214, quote 9, reply 11, retweet 40
+- Metrics (at fetch): bookmark 45, impression 68528, like 214, quote 9, reply 11, retweet 40
 
 > Kinda crazy to me that Bitcoin maintainers &amp; researchers can patch a security vulnerability and keep it secret for two years. I understand the reasoning behind this, but it implies that the development/disclosure process contains single points of failure. 
 > https://invdos.net/paper/CVE-2018-17145.pdf [pic.x.com/ExjigmqMM5]
@@ -29457,13 +31124,150 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 ---
 
+## 2023-02-20 · Post · Now they get finally time to learn some big boys linear algebra https://t.co/G2xjHagisA https://t.co
+
+
+### Post — @pcaversaccio — 2023-02-20 08:49 UTC (2023-02-20 09:49 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1627591234742108160
+- Metrics (at fetch): bookmark 11, impression 62849, like 269, quote 2, reply 14, retweet 21
+
+> Now they get finally time to learn some big boys linear algebra https://t.co/G2xjHagisA https://t.co/X9EDcBjoTM
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpZdiivWIAAIvBp.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @862457408773160961 — 2023-02-20 08:01 UTC (2023-02-20 09:01 WAT)
+    
+    - URL: https://x.com/862457408773160961/status/1627579151052902400
+    - Metrics (at fetch): bookmark 68, impression 906083, like 1540, quote 67, reply 212, retweet 76
+    
+    > I appreciate the outpouring of support today when the FT article came out.  Thank you all for the kind words.  Yes, it is true that our flagship fund is shutting down.
+    
+
+
+---
+
+## 2023-02-18 · Post · How my review process currently works at🐍 snekmate 🫡 https://t.co/2M6ZYdjgKL
+
+
+### Post — @pcaversaccio — 2023-02-18 16:25 UTC (2023-02-18 17:25 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1626981233409286144
+- Metrics (at fetch): bookmark 3, impression 5106, like 62, quote 0, reply 3, retweet 0
+
+> How my review process currently works at🐍 snekmate 🫡 https://t.co/2M6ZYdjgKL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpQyQGnX0AIlRpz.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FpQydiKXoAIECby.png — no alt text provided by author
+
+
+---
+
+## 2023-02-18 · Post · I just realised that solc `0.8.18` added a new (technically the binary `eld` must be available in th
+
+
+### Post — @pcaversaccio — 2023-02-18 10:25 UTC (2023-02-18 11:25 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1626890718017978369
+- Metrics (at fetch): bookmark 1, impression 2771, like 28, quote 0, reply 2, retweet 0
+
+> I just realised that solc `0.8.18` added a new (technically the binary `eld` must be available in the system ) SMT solver called Eldarica. Now we got 4 solvers: `cvc4,eld,smtlib2,z3`. @leonardoalt is the mastermind behind this🫡 ok got nerdsniped https://t.co/Px1L5siLcZ https://t.co/lgL8Ii3Roc
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpPe17iXwAEO4ri.png — no alt text provided by author
+
+
+---
+
+## 2023-02-18 · Post · ... SMS-based 2FA is anyways a security risk (sim hijacking), but I feel Elon is making the wrong de
+
+
+### Post — @pcaversaccio — 2023-02-18 08:59 UTC (2023-02-18 09:59 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1626868929976041474
+- Metrics (at fetch): bookmark 1, impression 1420, like 5, quote 0, reply 1, retweet 1
+
+> ... SMS-based 2FA is anyways a security risk (sim hijacking), but I feel Elon is making the wrong decisions here. Never save money (in this case sms costs) by disincentive security. Wrong move imho. https://t.co/X1mNfghBvM https://t.co/tgoPFv0xy7
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpPMq61WYAEYHO9.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @808464904575299584 — 2023-02-17 21:44 UTC (2023-02-17 22:44 WAT)
+    
+    - URL: https://x.com/808464904575299584/status/1626699135012446208
+    - Metrics (at fetch): bookmark 460, impression 8994213, like 8887, quote 3528, reply 771, retweet 1632
+    
+    > NEW: Twitter is planning to unveil a new policy as soon as this afternoon that only Blue subscribers will be able to use SMS-based two-factor authentication, according to company sources.
+    
+
+
+---
+
+## 2023-02-18 · Post · At the end it's not about the knowledge one person has, but the willingness to spread it imho. We're
+
+
+### Post — @pcaversaccio — 2023-02-18 08:44 UTC (2023-02-18 09:44 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1626865133539454976
+- Metrics (at fetch): bookmark 0, impression 3718, like 26, quote 0, reply 4, retweet 0
+
+> At the end it's not about the knowledge one person has, but the willingness to spread it imho. We're all in it together 🖖 https://t.co/ND5oaB4zJT
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1573656924994048001 — 2023-02-17 21:14 UTC (2023-02-17 22:14 WAT)
+    
+    - URL: https://x.com/1573656924994048001/status/1626691584455761920
+    - Metrics (at fetch): bookmark 0, impression 10295, like 23, quote 2, reply 3, retweet 1
+    
+    > just an appreciation tweet
+    >
+    > @pcaversaccio is a 🐐
+    >
+    > glad that i am able to learn things from him.
+    
+
+
+---
+
+## 2023-02-17 · Post · Read and digest 👇 https://t.co/ATNUv5Euym
+
+
+### Post — @pcaversaccio — 2023-02-17 18:54 UTC (2023-02-17 19:54 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1626656391644561410
+- Metrics (at fetch): bookmark 0, impression 1192, like 3, quote 0, reply 0, retweet 1
+
+> Read and digest 👇 https://t.co/ATNUv5Euym
+
+**Quoted post (full text):**
+
+    #### Quoted post — @16333384 — 2023-02-17 16:52 UTC (2023-02-17 17:52 WAT)
+    
+    - URL: https://x.com/16333384/status/1626625748952928256
+    - Metrics (at fetch): bookmark 559, impression 230080, like 899, quote 31, reply 19, retweet 217
+    
+    > Before he passed, Nikolai Mushegian, aka @delete_shitcoin sent me a link to a set of principles he had written up for his latest project. The link isn't available from the main site, so I want to share it here so that it is not lost to time. 
+    >
+    > 🧵
+    
+
+
+---
+
 ## 2023-02-17 · Post · "There's no excuse for an exploit, but these things happen." - are you fucking kidding me https://tw
 
 
 ### Post — @pcaversaccio — 2023-02-17 15:19 UTC (2023-02-17 16:19 WAT)
 
 - URL: https://x.com/pcaversaccio/status/1626602329595080704
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 10597, like 35, quote 0, reply 7, retweet 1
 
 > "There's no excuse for an exploit, but these things happen." - are you fucking kidding me https://twitter.com/DexibleApp/status/1626577013002670080
 
@@ -29474,7 +31278,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
     #### Quoted post — @1339306228023963655 — 2023-02-17 13:39 UTC (2023-02-17 14:39 WAT)
     
     - URL: https://x.com/1339306228023963655/status/1626577013002670080
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 0, impression 12762, like 1, quote 1, reply 2, retweet 0
     
     > There's no excuse for an exploit, but these things happen. Help us remedy the situation in our Discord where we're chatting with all affected members. Upcoming info will be posted ASAP.
     >
@@ -29482,6 +31286,72 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
     >
     > 5/5
     
+
+
+---
+
+## 2023-02-17 · Post · So there have been a lot of questions about why Vyper does it like that. Here is my explanation: We 
+
+
+### Post — @pcaversaccio — 2023-02-17 09:28 UTC (2023-02-17 10:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1626514029094047747
+- Metrics (at fetch): bookmark 2, impression 2879, like 12, quote 0, reply 3, retweet 1
+
+> So there have been a lot of questions about why Vyper does it like that. Here is my explanation: We can see that each value is represented in an active bit. And this is where the idea of ​​numbering the values ​​with the power of 2 came from. https://t.co/Fbo1uRPQqt https://t.co/KjqtCz42NG
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpKJrmyXwAAT4QT.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2023-02-16 12:33 UTC (2023-02-16 13:33 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1626198186653102080
+    - Metrics (at fetch): bookmark 8, impression 9201, like 49, quote 1, reply 7, retweet 1
+    
+    > If I'm reading this correctly, Enums are treated differently in Solidity and Vyper. `uint8` (in Solidity) vs. `uint256` (in Vyper) &amp; simple increments and starting from 0 (in Solidity) vs. `2**n` and starting from 1 (in Vyper). That much about standard behaviors... fml https://t.co/OoPEcsqVJq
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FpFoyyAWAAAtYR4.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/FpFo0GeWIAAXdNu.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2023-02-16 · Post · AI has its FOMO moment right now. Don't buy the hype. Just because you see the perfect picture on In
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2023-02-16 21:34 UTC (2023-02-16 22:34 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1626334315641544705
+- Metrics (at fetch): bookmark 1, impression 2509, like 14, quote 1, reply 2, retweet 2
+
+> AI has its FOMO moment right now. Don't buy the hype. Just because you see the perfect picture on Instagram, it doesn't mean it's the reality. The same applies to AI. Focus on signal over noise. We've seen a lot of engineering feats, but way too much shilling.
+
+
+---
+
+## 2023-02-16 · Post · If I'm reading this correctly, Enums are treated differently in Solidity and Vyper. `uint8` (in Soli
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-02-16 12:33 UTC (2023-02-16 13:33 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1626198186653102080
+- Metrics (at fetch): bookmark 8, impression 9201, like 49, quote 1, reply 7, retweet 1
+
+> If I'm reading this correctly, Enums are treated differently in Solidity and Vyper. `uint8` (in Solidity) vs. `uint256` (in Vyper) &amp; simple increments and starting from 0 (in Solidity) vs. `2**n` and starting from 1 (in Vyper). That much about standard behaviors... fml https://t.co/OoPEcsqVJq
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpFoyyAWAAAtYR4.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FpFo0GeWIAAXdNu.jpg — no alt text provided by author
 
 
 ---
@@ -29495,12 +31365,221 @@ Tags (automatic): Platform: Immunefi
 ### Post — @pcaversaccio — 2023-02-15 18:25 UTC (2023-02-15 19:25 WAT)
 
 - URL: https://x.com/pcaversaccio/status/1625924340230328320
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 6, impression 16907, like 176, quote 2, reply 17, retweet 7
 
 > Ok, I made it into the hall of fame of people who found a (medium severity) issue within @OpenZeppelin contracts. To be clear it's an unreleased feature &amp; has already been patched. I'd to thank @OpenZeppelin for the swift &amp; professional comms &amp; @immunefi for the coordination. 🫡 [pic.x.com/7OQwioMiB4]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FpBwrFrXsAIen7d.png — no alt text provided by author
+
+
+---
+
+## 2023-02-14 · Post · The first smart contract language on Ethereum was called Mutan. It was deprecated in March 2015 in f
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-02-14 20:44 UTC (2023-02-14 21:44 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1625596979505139713
+- Metrics (at fetch): bookmark 6, impression 11748, like 67, quote 3, reply 6, retweet 2
+
+> The first smart contract language on Ethereum was called Mutan. It was deprecated in March 2015 in favour of Solidity. https://t.co/kNaabPlkbZ
+
+
+---
+
+## 2023-02-14 · Post · 1/ If you don't understand the importance of the block header in Ethereum, you miss a central point.
+
+
+### Post — @pcaversaccio — 2023-02-14 10:47 UTC (2023-02-14 11:47 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1625446667129331713
+- Metrics (at fetch): bookmark 37, impression 10717, like 87, quote 0, reply 1, retweet 16
+
+> 1/ If you don't understand the importance of the block header in Ethereum, you miss a central point. The block header is composed of 16 distinct fields (forget about `WithdrawalsHash` for the moment), of which one is ignored in legacy headers (`BaseFee`). https://t.co/ieoI61disu https://t.co/y9p4oi3zw2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fo6258JWIAELJyu.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fo6285MXwAIH3Ck.png — no alt text provided by author
+
+
+---
+
+## 2023-02-14 · Post · https://t.co/1DiP6wH4up https://t.co/4ci1MV76u6
+
+
+### Post — @pcaversaccio — 2023-02-14 07:45 UTC (2023-02-14 08:45 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1625400708311678978
+- Metrics (at fetch): bookmark 0, impression 841, like 3, quote 0, reply 0, retweet 0
+
+> https://t.co/1DiP6wH4up https://t.co/4ci1MV76u6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fo6VUNGXsAIYUVe.png — no alt text provided by author
+
+**Quoted post** 1625239032518115330: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-02-14 · Post · literally my 🐍 snekmate contribution guidelines https://t.co/n4mx68dk4s https://t.co/7M3LblZD2c
+
+
+### Post — @pcaversaccio — 2023-02-14 07:06 UTC (2023-02-14 08:06 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1625391037429456898
+- Metrics (at fetch): bookmark 0, impression 1692, like 5, quote 1, reply 1, retweet 0
+
+> literally my 🐍 snekmate contribution guidelines https://t.co/n4mx68dk4s https://t.co/7M3LblZD2c
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fo6MfcoXwAIm7MA.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1413556220955332610 — 2023-02-13 23:37 UTC (2023-02-14 00:37 WAT)
+    
+    - URL: https://x.com/1413556220955332610/status/1625278094335684609
+    - Metrics (at fetch): bookmark 2, impression 12030, like 86, quote 2, reply 7, retweet 7
+    
+    > i don't rule the evm, i just live in it https://t.co/eozm5C6Qmy
+    
+    **Media:**
+    - media `3_1625277931131146241` (details not returned by the API)
+    
+
+
+---
+
+## 2023-02-13 · Post · My general advice is to NEVER EVER click on any email sent from MM or any other crypto wallet. For f
+
+
+### Post — @pcaversaccio — 2023-02-13 12:41 UTC (2023-02-13 13:41 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1625112805706719232
+- Metrics (at fetch): bookmark 0, impression 1186, like 8, quote 0, reply 1, retweet 0
+
+> My general advice is to NEVER EVER click on any email sent from MM or any other crypto wallet. For further context on this incident, see here: https://t.co/LlAjMbjvss https://t.co/WgKSXiySsZ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3278906401 — 2023-02-13 05:37 UTC (2023-02-13 06:37 WAT)
+    
+    - URL: https://x.com/3278906401/status/1625006237023866880
+    - Metrics (at fetch): bookmark 9, impression 167526, like 855, quote 93, reply 1, retweet 341
+    
+    > ⚠️MetaMask does not collect KYC info and will never email you about your account!
+    > Do not enter your Secret Recovery Phrase on a website EVER.
+    > If you got an email today from MetaMask or Namecheap or anyone else like this, ignore it &amp; do not click its links!
+    > https://t.co/EP0HGZFOfo https://t.co/4CDtne24OK
+    
+    **Media:**
+    - media `3_1625005830067335171` (details not returned by the API)
+    
+
+
+---
+
+## 2023-02-13 · Post · gm https://t.co/3yIbF02Zm5
+
+
+### Post — @pcaversaccio — 2023-02-13 09:15 UTC (2023-02-13 10:15 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1625061082782920704
+- Metrics (at fetch): bookmark 0, impression 2147, like 13, quote 0, reply 2, retweet 0
+
+> gm https://t.co/3yIbF02Zm5
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1039833297751302144 — 2023-02-13 08:56 UTC (2023-02-13 09:56 WAT)
+    
+    - URL: https://x.com/1039833297751302144/status/1625056235723661312
+    - Metrics (at fetch): bookmark 14, impression 515051, like 878, quote 165, reply 117, retweet 142
+    
+    > 💵 💵 💵 💵 💵 💵 💵 💵 💵 💵  1,000,000,000 #USDT (1,000,556,075 USD) minted at Tether Treasury
+    >
+    > https://t.co/9VF62nLr5z
+    
+
+
+---
+
+## 2023-02-12 · Post · Verkle trees will be a key ingredient to scale Ethereum. They were introduced only 5 years ago. So w
+
+
+### Post — @pcaversaccio — 2023-02-12 17:31 UTC (2023-02-12 18:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1624823586207801347
+- Metrics (at fetch): bookmark 27, impression 17827, like 99, quote 1, reply 6, retweet 15
+
+> Verkle trees will be a key ingredient to scale Ethereum. They were introduced only 5 years ago. So what's the difference? In a Merkle Tree, a parent node is the hash of its children. In a Verkle Tree, a parent node is the Vector Commitment of its children. https://t.co/MOaIaFRRRA
+
+
+---
+
+## 2023-02-10 · Post · I guess that was not entirely right lol https://t.co/Xp6qTB628I https://t.co/phBU7MbuCg
+
+
+### Post — @pcaversaccio — 2023-02-10 22:58 UTC (2023-02-10 23:58 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1624181146799034370
+- Metrics (at fetch): bookmark 1, impression 2501, like 12, quote 0, reply 0, retweet 2
+
+> I guess that was not entirely right lol https://t.co/Xp6qTB628I https://t.co/phBU7MbuCg
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FopAJEmX0AA3DKU.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1346525072811585537 — 2023-02-10 20:40 UTC (2023-02-10 21:40 WAT)
+    
+    - URL: https://x.com/1346525072811585537/status/1624146322906394624
+    - Metrics (at fetch): bookmark 96, impression 126587, like 325, quote 20, reply 21, retweet 74
+    
+    > Heads up: the Dedaub team has discovered a Solidity compiler bug impacting a *large* number of smart contracts.
+    >
+    > The bug results in up to 90% of the deployed bytecode being "dead code", significantly increasing gas costs when deploying and operating smart contracts.
+    >
+    > 🧵 👇 https://t.co/NA8CxDgXX2
+    
+    **Media:**
+    - media `3_1624145601121161229` (details not returned by the API)
+    
+
+
+---
+
+## 2023-02-10 · Post · ok that can't be right lol - @harithk17 @EnigmaticUnreal  https://t.co/3H0PGczITF https://t.co/3ADjx
+
+
+### Post — @pcaversaccio — 2023-02-10 12:06 UTC (2023-02-10 13:06 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1624017066255687684
+- Metrics (at fetch): bookmark 0, impression 2268, like 11, quote 0, reply 2, retweet 0
+
+> ok that can't be right lol - @harithk17 @EnigmaticUnreal  https://t.co/3H0PGczITF https://t.co/3ADjxTUYwn
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fomqw1iXwAQ5mgc.png — no alt text provided by author
+
+
+---
+
+## 2023-02-10 · Post · Reminder: Alexey Pertsev is in prison for writing privacy-focused open-source code while SBF is enjo
+
+
+### Post — @pcaversaccio — 2023-02-10 10:01 UTC (2023-02-10 11:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1623985563379310599
+- Metrics (at fetch): bookmark 3, impression 38141, like 450, quote 6, reply 7, retweet 96
+
+> Reminder: Alexey Pertsev is in prison for writing privacy-focused open-source code while SBF is enjoying life at his parent's home &amp; Kyle Davies and Su Zhu are launching a new fraud project, and Do Kwon is hiding in Serbia... Life isn't fair but we can still fight 4 justice!
 
 
 ---
@@ -29514,7 +31593,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @pcaversaccio — 2023-02-10 07:34 UTC (2023-02-10 08:34 WAT)
 
 - URL: https://x.com/pcaversaccio/status/1623948627403063297
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 8, impression 4899, like 35, quote 0, reply 4, retweet 6
 
 > Another read-only reentrancy attack... https://twitter.com/dForcenet/status/1623904209161830401
 
@@ -29525,12 +31604,101 @@ Tags (automatic): Smart contract / DeFi
     #### Quoted post — @1080347969432432640 — 2023-02-10 04:38 UTC (2023-02-10 05:38 WAT)
     
     - URL: https://x.com/1080347969432432640/status/1623904209161830401
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 4, impression 54192, like 28, quote 18, reply 6, retweet 7
     
     > wstETH/ETH Curve gauge vaults on Arbitrum &amp; Optimism were exploited a few hours ago, and we immediately paused the dForce Vaults - other parts of the protocol remain intact and user funds are SAFE with dForce Lending. 
     >
     > We will come back with a detailed report and remedies soon.
     
+
+
+---
+
+## 2023-02-09 · Post · for context, this is @zhusu &amp; @KyleLDavies new endeavour. It seems we haven't had enough until n
+
+
+### Post — @pcaversaccio — 2023-02-09 17:46 UTC (2023-02-09 18:46 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1623740124730195971
+- Metrics (at fetch): bookmark 0, impression 1842, like 2, quote 1, reply 1, retweet 0
+
+> for context, this is @zhusu &amp; @KyleLDavies new endeavour. It seems we haven't had enough until now... https://t.co/Cd6LUsEFCK
+
+**Quoted post** 1623728281127202823: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-02-09 · Post · 🫡 https://t.co/wiEKGdgdTR
+
+
+### Post — @pcaversaccio — 2023-02-09 16:33 UTC (2023-02-09 17:33 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1623721667020161029
+- Metrics (at fetch): bookmark 0, impression 664, like 4, quote 0, reply 0, retweet 0
+
+> 🫡 https://t.co/wiEKGdgdTR
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1451590808466071564 — 2023-02-09 16:23 UTC (2023-02-09 17:23 WAT)
+    
+    - URL: https://x.com/1451590808466071564/status/1623719288036118528
+    - Metrics (at fetch): bookmark 4, impression 4241, like 12, quote 2, reply 1, retweet 2
+    
+    > 60/ SnekMate is a repository for state-of-the-art, highly opinionated, hyper-optimised, and secure Vyper smart contract building blocks. By @pcaversaccio
+    >
+    > See contracts here https://t.co/kBF5QeSnqK
+    
+
+
+---
+
+## 2023-02-09 · Post · Wait, we're seriously discussing removing `payable` modifier for solc `0.9.0`? Is this really worth 
+
+
+### Post — @pcaversaccio — 2023-02-09 16:05 UTC (2023-02-09 17:05 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1623714804560015360
+- Metrics (at fetch): bookmark 6, impression 15024, like 48, quote 2, reply 14, retweet 3
+
+> Wait, we're seriously discussing removing `payable` modifier for solc `0.9.0`? Is this really worth the 24 gas savings? https://t.co/FRZZndPqHZ
+
+
+---
+
+## 2023-02-08 · Post · 👀 https://t.co/4dq0XF6wQ3
+
+
+### Post — @pcaversaccio — 2023-02-08 23:23 UTC (2023-02-09 00:23 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1623462604839550976
+- Metrics (at fetch): bookmark 0, impression 968, like 5, quote 0, reply 0, retweet 1
+
+> 👀 https://t.co/4dq0XF6wQ3
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14379660 — 2023-02-08 23:10 UTC (2023-02-09 00:10 WAT)
+    
+    - URL: https://x.com/14379660/status/1623459203150131201
+    - Metrics (at fetch): bookmark 560, impression 6419205, like 13124, quote 1430, reply 1370, retweet 3195
+    
+    > 1/ We're hearing rumors that the SEC would like to get rid of crypto staking in the U.S. for retail customers. I hope that's not the case as I believe it would be a terrible path for the U.S. if that was allowed to happen.
+    
+
+
+---
+
+## 2023-02-08 · Post · Many projects use `msg.sender.code.length &gt; 0` to check whether it's a contract or not. It's comm
+
+
+### Post — @pcaversaccio — 2023-02-08 09:20 UTC (2023-02-08 10:20 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1623250421643894788
+- Metrics (at fetch): bookmark 45, impression 17683, like 89, quote 0, reply 11, retweet 6
+
+> Many projects use `msg.sender.code.length &gt; 0` to check whether it's a contract or not. It's commonly known that this check has multiple security issues. I still think `assert(tx.origin == msg.sender)` is the most secure check. Yeah, I know EIP-3074, but I don't think it comes.
 
 
 ---
@@ -29599,6 +31767,22 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2023-02-06 · Post · Hello ChatGPT, may I introduce myself, my name is Bard https://t.co/TqmFoOdyHA
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2023-02-06 20:34 UTC (2023-02-06 21:34 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1622695292914257921
+- Metrics (at fetch): bookmark 3, impression 817, like 3, quote 0, reply 0, retweet 1
+
+> Hello ChatGPT, may I introduce myself, my name is Bard https://t.co/TqmFoOdyHA
+
+
+---
+
 ## 2023-02-06 · Post · recommend adding something like that to certain tests where u fuzz addresses &amp; don't want to mes
 
 
@@ -29632,6 +31816,141 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2023-02-06 · Post · Monday morning and I managed to upgrade to ethers `6.0.2` (yes, I use it for certain Merkle proof te
+
+
+### Post — @pcaversaccio — 2023-02-06 12:08 UTC (2023-02-06 13:08 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1622567974711316481
+- Metrics (at fetch): bookmark 3, impression 2513, like 18, quote 0, reply 2, retweet 1
+
+> Monday morning and I managed to upgrade to ethers `6.0.2` (yes, I use it for certain Merkle proof tests). Could have gone worse :) Recommend reading https://t.co/fPdPZklpnY https://t.co/PFQgD3Y9Ah
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FoSEmhQWcAE4n6M.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-06 · Post · https://t.co/Zw4S6sJHvD https://t.co/eLhcdAgAD7
+
+
+### Post — @pcaversaccio — 2023-02-06 08:31 UTC (2023-02-06 09:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1622513190935400448
+- Metrics (at fetch): bookmark 0, impression 1770, like 10, quote 0, reply 2, retweet 0
+
+> https://t.co/Zw4S6sJHvD https://t.co/eLhcdAgAD7
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/FoRTJLbXEAQ_3M0.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @950915985422221312 — 2023-02-06 01:02 UTC (2023-02-06 02:02 WAT)
+    
+    - URL: https://x.com/950915985422221312/status/1622400356176232448
+    - Metrics (at fetch): bookmark 6, impression 56342, like 107, quote 10, reply 24, retweet 11
+    
+    > Hi @Livecryptoparty, you may want to take a look:  https://t.co/eKRfPUasF9 https://t.co/aCxKNCIkQe
+    
+    **Media:**
+    - media `3_1622400345078128640` (details not returned by the API)
+    
+
+
+---
+
+## 2023-02-06 · Post · another small change in solc `0.8.18` - `selfdestruct` is now deprecated. https://t.co/Ioda9dOqay
+
+
+### Post — @pcaversaccio — 2023-02-06 00:08 UTC (2023-02-06 01:08 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1622386610351312899
+- Metrics (at fetch): bookmark 1, impression 5678, like 31, quote 3, reply 5, retweet 4
+
+> another small change in solc `0.8.18` - `selfdestruct` is now deprecated. https://t.co/Ioda9dOqay
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FoPf2BRWQAEHK5P.png — no alt text provided by author
+
+
+---
+
+## 2023-02-05 · Post · 👀 https://t.co/gigInhiIIb
+
+
+### Post — @pcaversaccio — 2023-02-05 20:48 UTC (2023-02-05 21:48 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1622336446316122117
+- Metrics (at fetch): bookmark 0, impression 1391, like 7, quote 0, reply 0, retweet 1
+
+> 👀 https://t.co/gigInhiIIb
+
+**Quoted post (full text):**
+
+    #### Quoted post — @815297463695327234 — 2023-02-05 13:36 UTC (2023-02-05 14:36 WAT)
+    
+    - URL: https://x.com/815297463695327234/status/1622227650386214913
+    - Metrics (at fetch): bookmark 55, impression 551165, like 1232, quote 220, reply 33, retweet 575
+    
+    > ⚠️ Confirmed: #Italy is in the midst of a major internet outage with high impact to leading operator Telecom Italia; real-time network data show national connectivity at 26% of ordinary levels; incident ongoing 📉 #TIMDown https://t.co/Ypo8UBuxeV
+    
+    **Media:**
+    - media `3_1622227147275358209` (details not returned by the API)
+    
+
+
+---
+
+## 2023-02-05 · Post · I'm still convinced that numerous profanity vulnerabilities are exploitable (in particular in many u
+
+
+Tags (automatic): Race condition
+
+
+### Post — @pcaversaccio — 2023-02-05 15:04 UTC (2023-02-05 16:04 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1622249701490688006
+- Metrics (at fetch): bookmark 6, impression 6411, like 36, quote 0, reply 3, retweet 0
+
+> I'm still convinced that numerous profanity vulnerabilities are exploitable (in particular in many unverified contracts). It's a white vs black hat race rn.
+
+
+---
+
+## 2023-02-04 · Post · Sure, ChatGPT or DALL-E are great engineering feats. But listen, guys, the greatest danger posed by 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2023-02-04 17:22 UTC (2023-02-04 18:22 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1621922030059765760
+- Metrics (at fetch): bookmark 4, impression 6059, like 61, quote 1, reply 7, retweet 3
+
+> Sure, ChatGPT or DALL-E are great engineering feats. But listen, guys, the greatest danger posed by AI is that we forget how to think for ourselves. Don't learn to delegate the learning. Learn it yourself! Do what you want with it, but I'm now digging into RISC-V architecture :)
+
+
+---
+
+## 2023-02-03 · Post · Some 🐍Vyper insight. As you might know, you can't use function overloading in Vyper. However, you ca
+
+
+### Post — @pcaversaccio — 2023-02-03 19:11 UTC (2023-02-03 20:11 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1621587151254163462
+- Metrics (at fetch): bookmark 3, impression 4806, like 31, quote 2, reply 0, retweet 4
+
+> Some 🐍Vyper insight. As you might know, you can't use function overloading in Vyper. However, you can define a function that uses default parameters at function declaration. The Vyper compiler will generate N+1 overloaded function selectors based on N default arguments. Sweet! https://t.co/EfFDXFvon8
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FoEI2BDXgAIymj_.jpg — no alt text provided by author
+
+
+---
+
 ## 2023-02-03 · Post · why tf am I listed here now... just because I talked about trusted setups within zk-SNARKs? https://
 
 
@@ -29650,6 +31969,143 @@ Tags (automatic): ZK
 
 ---
 
+## 2023-02-02 · Post · It had to be done @jadler0 https://t.co/hbhbIpCELV https://t.co/nUCi43a4xt
+
+
+### Post — @pcaversaccio — 2023-02-02 23:33 UTC (2023-02-03 00:33 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1621290851912585218
+- Metrics (at fetch): bookmark 0, impression 5872, like 18, quote 1, reply 5, retweet 0
+
+> It had to be done @jadler0 https://t.co/hbhbIpCELV https://t.co/nUCi43a4xt
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fn_7EhxXkAMVKYj.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1057793902336466944 — 2023-02-02 22:23 UTC (2023-02-02 23:23 WAT)
+    
+    - URL: https://x.com/1057793902336466944/status/1621273133759205377
+    - Metrics (at fetch): bookmark 0, impression 7004, like 5, quote 1, reply 1, retweet 0
+    
+    > @pcaversaccio https://t.co/4T8FzV5YXI
+    
+    **Quoted post** 1619321355211776000: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-02-02 · Post · wait did @a16z just release a symbolic bounded model checker for Ethereum smart contracts bytecode? 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-02-02 23:16 UTC (2023-02-03 00:16 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1621286398824251394
+- Metrics (at fetch): bookmark 55, impression 26189, like 143, quote 2, reply 4, retweet 30
+
+> wait did @a16z just release a symbolic bounded model checker for Ethereum smart contracts bytecode? Why is nobody talking about this? https://t.co/x1YqafzaH7
+>
+> https://t.co/BEIxPDBayn
+
+
+---
+
+## 2023-02-02 · Post · to clarify - I quickly talked to the Binance team and the source of the Binance transaction is @Simp
+
+
+### Post — @pcaversaccio — 2023-02-02 17:43 UTC (2023-02-02 18:43 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1621202593274888196
+- Metrics (at fetch): bookmark 1, impression 8327, like 10, quote 2, reply 1, retweet 1
+
+> to clarify - I quickly talked to the Binance team and the source of the Binance transaction is @SimpleSwap_io. https://t.co/nzyqcKz3jq
+
+**Quoted post (full text):**
+
+    #### Quoted post — @130266161 — 2023-02-02 16:22 UTC (2023-02-02 17:22 WAT)
+    
+    - URL: https://x.com/130266161/status/1621182282722672643
+    - Metrics (at fetch): bookmark 0, impression 7806, like 15, quote 1, reply 1, retweet 0
+    
+    > @orion_protocol funded by binance, probably stolen account but fyi just in case @cz_binance https://t.co/LrCI1oEvcY
+    
+    **Media:**
+    - media `3_1621182205241221120` (details not returned by the API)
+    
+
+
+---
+
+## 2023-02-02 · Post · So I just discovered today that GLIBC broke some backwards compatibility and therefore if you want t
+
+
+### Post — @pcaversaccio — 2023-02-02 15:49 UTC (2023-02-02 16:49 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1621173923227344896
+- Metrics (at fetch): bookmark 1, impression 1095, like 6, quote 0, reply 2, retweet 1
+
+> So I just discovered today that GLIBC broke some backwards compatibility and therefore if you want to install solc `0.8.18` via e.g. `solc-select` on a Ubuntu 20.04.5 LTS version it will not work. https://t.co/cVit8ZM8kU
+
+
+---
+
+## 2023-02-02 · Post · - A 10-year old child has heard ~100 million words;
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2023-02-02 11:35 UTC (2023-02-02 12:35 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1621110031499530242
+- Metrics (at fetch): bookmark 1, impression 1937, like 14, quote 0, reply 1, retweet 1
+
+> - A 10-year old child has heard ~100 million words;
+> - If you read around the clock at a rate of 250 words/min for a year, you'd read about 130 million words a year;
+> - GPT-3 was trained on ~500'000 million words;
+> TL;DR: LLM learn from more words than any individual human can.
+
+
+---
+
+## 2023-02-02 · Post · it's called a friendly takeover since am a white hat :-D https://t.co/pOwSo4miSg
+
+
+### Post — @pcaversaccio — 2023-02-02 10:52 UTC (2023-02-02 11:52 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1621099224216608768
+- Metrics (at fetch): bookmark 4, impression 17082, like 70, quote 1, reply 8, retweet 0
+
+> it's called a friendly takeover since am a white hat :-D https://t.co/pOwSo4miSg
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fn9MrTWXkAAyAZ0.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fn9M5ICX0AUpf3J.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-01 · Post · does this ring a bell @BonqDAO https://t.co/SOt4EsF70U - seems that you guys carried over a now fixe
+
+
+### Post — @pcaversaccio — 2023-02-01 23:54 UTC (2023-02-02 00:54 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1620933518288363521
+- Metrics (at fetch): bookmark 3, impression 4095, like 13, quote 2, reply 2, retweet 4
+
+> does this ring a bell @BonqDAO https://t.co/SOt4EsF70U - seems that you guys carried over a now fixed vulnerability of @LiquityProtocol. If you would have talked to @WeAreTellor previously, you would be $88m richer... https://t.co/ySKQGWkJTP
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fn616cBX0AI9hNx.png — no alt text provided by author
+
+
+---
+
 ## 2023-02-01 · Post · Exploit tx: https://t.co/wAXkcnepsX https://t.co/fZD0YNjf71
 
 
@@ -29662,13 +32118,91 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @963767159536209921 — 2023-02-01 22:05 UTC (2023-02-01 23:05 WAT)
+    #### Quoted post — @TheBlockCo — 2023-02-01 22:05 UTC (2023-02-01 23:05 WAT)
     
-    - URL: https://x.com/963767159536209921/status/1620906236924370945
+    - URL: https://x.com/TheBlockCo/status/1620906236924370945
     - Metrics (at fetch): bookmark 2, impression 8761, like 12, quote 1, reply 0, retweet 6
     
     > BonqDAO exploited for $88 million, Allianceblock tokens stolen during the exploit https://t.co/ulBEwIqzRQ
     
+
+
+---
+
+## 2023-02-01 · Post · With solc `0.8.18` you can now disable this: https://t.co/Q013VFc0o9. MEV bot builders will like it 
+
+
+### Post — @pcaversaccio — 2023-02-01 18:10 UTC (2023-02-01 19:10 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1620847001914195968
+- Metrics (at fetch): bookmark 4, impression 5204, like 14, quote 0, reply 1, retweet 3
+
+> With solc `0.8.18` you can now disable this: https://t.co/Q013VFc0o9. MEV bot builders will like it :) https://t.co/nVvP2f91x0 https://t.co/f7CbldiVxV
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fn5npmBWAAwz0s1.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @5678 — 2023-01-25 19:31 UTC (2023-01-25 20:31 WAT)
+    
+    - URL: https://x.com/5678/status/1618330824814006272
+    - Metrics (at fetch): bookmark 63, impression 27132, like 302, quote 4, reply 7, retweet 32
+    
+    > FYI: The version of solidity used to compile the contract is hidden near the the end of the contract bytecode (since solidity 0.5.9).
+    >
+    > Fun way to help track your favorite MEVbot writers. https://t.co/Qa6NaREfJp
+    
+    **Media:**
+    - media `3_1618329341917597698` (details not returned by the API)
+    
+
+
+---
+
+## 2023-02-01 · Post · With solc `0.8.18` the following is possible now https://t.co/fQsjVhTMaE https://t.co/0pHBiXsKsS
+
+
+### Post — @pcaversaccio — 2023-02-01 17:55 UTC (2023-02-01 18:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1620843232132497408
+- Metrics (at fetch): bookmark 3, impression 11193, like 50, quote 0, reply 4, retweet 9
+
+> With solc `0.8.18` the following is possible now https://t.co/fQsjVhTMaE https://t.co/0pHBiXsKsS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fn5kUfaWABEMLPx.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2023-02-01 16:34 UTC (2023-02-01 17:34 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1620822925392871424
+    - Metrics (at fetch): bookmark 2, impression 14644, like 25, quote 1, reply 2, retweet 3
+    
+    > solc v0.8.18 just got released - am mostly interested in the improvements wrt to the IR pipeline
+    > https://t.co/Q013VFc0o9 https://t.co/hKqKh7N6xS
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/Fn5Rla4XEAIUUfC.png — no alt text provided by author
+    
+
+
+---
+
+## 2023-02-01 · Post · solc v0.8.18 just got released - am mostly interested in the improvements wrt to the IR pipeline
+
+
+### Post — @pcaversaccio — 2023-02-01 16:34 UTC (2023-02-01 17:34 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1620822925392871424
+- Metrics (at fetch): bookmark 2, impression 14644, like 25, quote 1, reply 2, retweet 3
+
+> solc v0.8.18 just got released - am mostly interested in the improvements wrt to the IR pipeline
+> https://t.co/Q013VFc0o9 https://t.co/hKqKh7N6xS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fn5Rla4XEAIUUfC.png — no alt text provided by author
 
 
 ---
@@ -29702,6 +32236,22 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2023-01-31 · Post · please, please, if we define a standard, we should also try to implement it. I still don't understan
+
+
+### Post — @pcaversaccio — 2023-01-31 08:54 UTC (2023-01-31 09:54 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1620344840918827009
+- Metrics (at fetch): bookmark 0, impression 4397, like 33, quote 1, reply 2, retweet 7
+
+> please, please, if we define a standard, we should also try to implement it. I still don't understand why the hell @0xPolygon &amp; @BNBCHAIN do not implement EIP-1559 correctly! The link to the issue where we're discussing this: https://t.co/9CJMCXqlEo... https://t.co/7ti32yYfZ2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FnyevnLXwAEnsKo.jpg — no alt text provided by author
+
+
+---
+
 ## 2023-01-30 · Post · There seems to be a widespread misconception that zk-SNARKs require a trusted setup (e.g. to generat
 
 
@@ -29714,6 +32264,31 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 3, impression 3208, like 26, quote 1, reply 0, retweet 7
 
 > There seems to be a widespread misconception that zk-SNARKs require a trusted setup (e.g. to generate a common reference string) and zk-STARKs do not. This is _not_ true. You should check out Halo from Zcash as an example that eliminates the trusted setup. https://t.co/RSTQiB0OUT
+
+
+---
+
+## 2023-01-29 · Post · I'm convinced that it's pivotal to have globally diversified DCs for the Ethereum bootnodes to circu
+
+
+### Post — @pcaversaccio — 2023-01-29 17:59 UTC (2023-01-29 18:59 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1619757078079492096
+- Metrics (at fetch): bookmark 1, impression 4272, like 14, quote 0, reply 2, retweet 2
+
+> I'm convinced that it's pivotal to have globally diversified DCs for the Ethereum bootnodes to circumvent supranational but still local censoring attacks. It's one important angle to ensure censorship-resistance. Please provide feedback about possible solutions in my post thread. https://t.co/2EwnC9AuAh
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1464413881418362886 — 2023-01-29 14:13 UTC (2023-01-29 15:13 WAT)
+    
+    - URL: https://x.com/1464413881418362886/status/1619700159184605188
+    - Metrics (at fetch): bookmark 0, impression 5369, like 3, quote 1, reply 0, retweet 2
+    
+    > @superphiz @ethStaker Hm what about EL boot nodes? See this post from @pcaversaccio 
+    >
+    > https://t.co/zLTnfME39k
+    
 
 
 ---
@@ -29735,6 +32310,132 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 0, impression 31, like 1, quote 0, reply 1, retweet 0
 
 > @reimao42 @jtriley_eth That's the name of the footgun itself
+
+
+---
+
+## 2023-01-26 · Post · Always remember that spaces can destroy your life in Solidity https://t.co/upJHdrMXAu
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-01-26 18:24 UTC (2023-01-26 19:24 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1618676376466518017
+- Metrics (at fetch): bookmark 32, impression 59992, like 248, quote 8, reply 34, retweet 7
+
+> Always remember that spaces can destroy your life in Solidity https://t.co/upJHdrMXAu
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FnaxlftXEA08eyJ.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-25 · Post · Spot the difference in the effort... https://t.co/5hoyoBxEjP
+
+
+### Post — @pcaversaccio — 2023-01-25 17:39 UTC (2023-01-25 18:39 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1618302453476392961
+- Metrics (at fetch): bookmark 3, impression 12197, like 45, quote 1, reply 4, retweet 2
+
+> Spot the difference in the effort... https://t.co/5hoyoBxEjP
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FnVczlMXEAU-r6C.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FnVc36wXEBIU0Il.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-25 · Post · pretty bullish to see a uint256 type for the timestamp - that's called long-term thinking https://t.
+
+
+### Post — @pcaversaccio — 2023-01-25 14:43 UTC (2023-01-25 15:43 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1618258344711708675
+- Metrics (at fetch): bookmark 1, impression 12713, like 70, quote 0, reply 10, retweet 2
+
+> pretty bullish to see a uint256 type for the timestamp - that's called long-term thinking https://t.co/8ZZgHJxk65
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FnU0cjEXgAE3xkU.png — no alt text provided by author
+
+
+---
+
+## 2023-01-24 · Post · I've noticed in recent discussions that there is still a great lack of understanding of the internal
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-01-24 09:17 UTC (2023-01-24 10:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1617813733816033281
+- Metrics (at fetch): bookmark 156, impression 28045, like 238, quote 4, reply 7, retweet 40
+
+> I've noticed in recent discussions that there is still a great lack of understanding of the internals of event logging. Sure, emitting an event is easy in Solidity, but do you know that the secret to how indexed items enable faster lookup is Bloom filters? https://t.co/NJXshwDvfJ
+
+
+---
+
+## 2023-01-23 · Post · gm - remember that Git ignores `.gitignore` with `.gitignore` in `.gitignore`! Or rephrased, git ign
+
+
+### Post — @pcaversaccio — 2023-01-23 11:51 UTC (2023-01-23 12:51 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1617490209712791555
+- Metrics (at fetch): bookmark 2, impression 4182, like 44, quote 0, reply 8, retweet 1
+
+> gm - remember that Git ignores `.gitignore` with `.gitignore` in `.gitignore`! Or rephrased, git ignores `.gitignore` because it's in `.gitignore`, which means it didn't ignore `.gitignore` for instructions. Thanks for having me.
+
+
+---
+
+## 2023-01-22 · Post · Zero-Knowledge Proof = I know the secret. I can't tell you the secret. But I can prove to you that I
+
+
+### Post — @pcaversaccio — 2023-01-22 11:20 UTC (2023-01-22 12:20 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1617119890749509632
+- Metrics (at fetch): bookmark 25, impression 44205, like 365, quote 10, reply 21, retweet 57
+
+> Zero-Knowledge Proof = I know the secret. I can't tell you the secret. But I can prove to you that I know the secret.
+
+
+---
+
+## 2023-01-21 · Post · I feel that the current security ecosystem in Ethereum is too asymmetrically distributed in terms of
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-01-21 16:06 UTC (2023-01-21 17:06 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1616829587303923713
+- Metrics (at fetch): bookmark 16, impression 16375, like 88, quote 1, reply 9, retweet 2
+
+> I feel that the current security ecosystem in Ethereum is too asymmetrically distributed in terms of focus. How many of you guys have looked under the hood of the Gossip protocol? Do you know what an ENR is? Guys, please don't forget what ultimately secures the smart contracts!
+
+
+---
+
+## 2023-01-21 · Post · For anyone that is running an Ethereum validator, you can now start testing withdrawals and prepare 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-01-21 13:45 UTC (2023-01-21 14:45 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1616794072558993412
+- Metrics (at fetch): bookmark 1, impression 1358, like 11, quote 0, reply 0, retweet 2
+
+> For anyone that is running an Ethereum validator, you can now start testing withdrawals and prepare for withdrawals to go live on mainnet. To clarify, Shanghai is the EL fork name while Capella is the CL upgrade name. I recommend reading the FAQs https://t.co/4gpkQOxfrE
 
 
 ---
@@ -29792,6 +32493,38 @@ Tags (automatic): ZK
 
 ---
 
+## 2023-01-20 · Post · The reason why I'm building 🐍snekmate. Those are the moments as a builder which you appreciate most 
+
+
+### Post — @pcaversaccio — 2023-01-20 16:31 UTC (2023-01-20 17:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1616473547160920064
+- Metrics (at fetch): bookmark 3, impression 1787, like 11, quote 0, reply 1, retweet 0
+
+> The reason why I'm building 🐍snekmate. Those are the moments as a builder which you appreciate most 💙 https://t.co/CtZdblKRXK https://t.co/rtTBtZEJ5s
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fm7eIAgWAAYNNws.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-20 · Post · anon, how many times have you deployed the same ECDSA library already? The way how we currently link
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-01-20 15:03 UTC (2023-01-20 16:03 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1616451288002183172
+- Metrics (at fetch): bookmark 5, impression 13532, like 68, quote 2, reply 15, retweet 2
+
+> anon, how many times have you deployed the same ECDSA library already? The way how we currently link external libraries is a pain-in-the-ass and gas-inefficient (due to call/delegatecall overhead). This must be fixed. What can be referenced on-chain, should be referenced.
+
+
+---
+
 ## 2023-01-20 · Post · so @real_philogy nerd-sniped me into BLS signature aggregation - it's amazing how to get there so fa
 
 
@@ -29818,6 +32551,168 @@ Tags (automatic): ZK
 
 ---
 
+## 2023-01-20 · Post · aaaaannd the next one - we should try our best to give all the fired folks from Microsoft, Google &a
+
+
+### Post — @pcaversaccio — 2023-01-20 12:57 UTC (2023-01-20 13:57 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1616419716746051587
+- Metrics (at fetch): bookmark 0, impression 1087, like 6, quote 0, reply 0, retweet 0
+
+> aaaaannd the next one - we should try our best to give all the fired folks from Microsoft, Google &amp; co a hand to restart in the Ethereum ecosystem. It's gonna be a win-win-win situation (on a personal level, on the project level, and on an ecosystem level)
+> https://t.co/Rdmd3P4nxA https://t.co/SDwkQ6IV5l
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fm6sTavXEAYMtB1.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-19 · Post · If you want to use a single variable to track the total supply of an ERC1155 contract across all `id
+
+
+### Post — @pcaversaccio — 2023-01-19 12:14 UTC (2023-01-19 13:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1616046462235705346
+- Metrics (at fetch): bookmark 6, impression 4600, like 36, quote 0, reply 5, retweet 2
+
+> If you want to use a single variable to track the total supply of an ERC1155 contract across all `ids`, this would actually require a `uint512` type, as you can have a maximum of 2**256-1 `ids` with a maximum total supply of 2**256-1 each.
+
+
+---
+
+## 2023-01-19 · Post · To be clear - GPT-3, ChatGPT and any other generative models are not magic but rely on vast supply c
+
+
+Tags (automatic): Dependency confusion / supply chain, AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2023-01-19 08:28 UTC (2023-01-19 09:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1615989585615495168
+- Metrics (at fetch): bookmark 3, impression 1672, like 27, quote 0, reply 0, retweet 3
+
+> To be clear - GPT-3, ChatGPT and any other generative models are not magic but rely on vast supply chains of human labor &amp; scraped data, much of which is unattributed and used without consent! Be careful what you wish for! https://t.co/4p4NghjwhL
+
+
+---
+
+## 2023-01-18 · Post · could someone explain to me why Maker's token uses `bytes32` for the token name? The EIP-20 standard
+
+
+### Post — @pcaversaccio — 2023-01-18 16:33 UTC (2023-01-18 17:33 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1615749156441653248
+- Metrics (at fetch): bookmark 2, impression 6007, like 19, quote 1, reply 8, retweet 1
+
+> could someone explain to me why Maker's token uses `bytes32` for the token name? The EIP-20 standard defines a `string` return type (I know I know, it's written "MUST NOT expect these values" ;-))
+> https://t.co/MHKWYEsOmy https://t.co/T5vEsnPdb1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FmxKuDOWQAAUSHP.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FmxLIHBWYAAVeWv.png — no alt text provided by author
+
+
+---
+
+## 2023-01-18 · Post · a quick reminder about the "trust" part of the trustless Uniswap protocol https://t.co/FXNYdSI42v
+
+
+### Post — @pcaversaccio — 2023-01-18 09:58 UTC (2023-01-18 10:58 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1615649906357592064
+- Metrics (at fetch): bookmark 13, impression 18562, like 76, quote 0, reply 4, retweet 4
+
+> a quick reminder about the "trust" part of the trustless Uniswap protocol https://t.co/FXNYdSI42v
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fmvwjg_XgAA9xae.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FmvwkuPWAAEebQz.png — no alt text provided by author
+
+
+---
+
+## 2023-01-17 · Post · Since still too many folks didn't get it: please please do NOT use signatures as unique identifiers.
+
+
+### Post — @pcaversaccio — 2023-01-17 22:14 UTC (2023-01-17 23:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1615472630143885338
+- Metrics (at fetch): bookmark 7, impression 8449, like 46, quote 0, reply 3, retweet 4
+
+> Since still too many folks didn't get it: please please do NOT use signatures as unique identifiers. Period.
+
+
+---
+
+## 2023-01-17 · Post · 24 decimals... https://t.co/RY0AtcqiHE
+
+
+### Post — @pcaversaccio — 2023-01-17 18:46 UTC (2023-01-17 19:46 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1615420425185689600
+- Metrics (at fetch): bookmark 1, impression 7316, like 23, quote 0, reply 13, retweet 0
+
+> 24 decimals... https://t.co/RY0AtcqiHE
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FmsgIGBXEBg9ddg.png — no alt text provided by author
+
+
+---
+
+## 2023-01-17 · Post · found the pitch deck... everything in this pitch deck is diabolical. But hey you got time until the 
+
+
+### Post — @pcaversaccio — 2023-01-17 18:12 UTC (2023-01-17 19:12 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1615411739658444805
+- Metrics (at fetch): bookmark 0, impression 1226, like 3, quote 0, reply 1, retweet 0
+
+> found the pitch deck... everything in this pitch deck is diabolical. But hey you got time until the end of February to invest LMFAO https://t.co/8I343qiHHC https://t.co/M7uh0fotmT https://t.co/yLHXRFpHBb
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FmsWn1xWQAAVB2x.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FmsWoziXoAA7U97.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FmsWpvXXEAIib37.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FmsWq05XEAYRw6U.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @TheBlockCo — 2023-01-16 14:01 UTC (2023-01-16 15:01 WAT)
+    
+    - URL: https://x.com/TheBlockCo/status/1614986186870734848
+    - Metrics (at fetch): bookmark 26, impression 359409, like 420, quote 145, reply 111, retweet 76
+    
+    > EXCLUSIVE: 3AC founders Zhu and Davies pitch to raise $25 million for new crypto exchange https://t.co/xfxjIVUbQz
+    
+
+
+---
+
+## 2023-01-16 · Post · You can't make shit like this up... https://t.co/exBAyAImZZ
+
+
+### Post — @pcaversaccio — 2023-01-16 19:41 UTC (2023-01-16 20:41 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1615071728371220480
+- Metrics (at fetch): bookmark 0, impression 2589, like 20, quote 0, reply 2, retweet 0
+
+> You can't make shit like this up... https://t.co/exBAyAImZZ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1387497871751196672 — 2023-01-16 14:34 UTC (2023-01-16 15:34 WAT)
+    
+    - URL: https://x.com/1387497871751196672/status/1614994517475659777
+    - Metrics (at fetch): bookmark 40, impression 1681835, like 4325, quote 407, reply 941, retweet 593
+    
+    > JUST IN: 3AC founders to raise $25 million for a new #crypto exchange, GTX.
+    
+
+
+---
+
 ## 2023-01-16 · Post · Another read-only reentrancy exploit. https://t.co/7tAgjZgCeL
 
 
@@ -29827,11 +32722,219 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @pcaversaccio — 2023-01-16 09:01 UTC (2023-01-16 10:01 WAT)
 
 - URL: https://x.com/pcaversaccio/status/1614910671476375552
-- Metrics (at fetch): bookmark 15, impression 9246, like 46, quote 1, reply 3, retweet 5
+- Metrics (at fetch): bookmark 15, impression 9246, like 47, quote 1, reply 3, retweet 5
 
 > Another read-only reentrancy exploit. https://t.co/7tAgjZgCeL
 
 **Quoted post** 1614705804468424704: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2023-01-15 · Post · 1/ anons, this is how you build in a bear market. @jtriley_eth reached out about how he could contri
+
+
+### Post — @pcaversaccio — 2023-01-15 12:01 UTC (2023-01-15 13:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1614593520467152896
+- Metrics (at fetch): bookmark 18, impression 20659, like 120, quote 1, reply 4, retweet 15
+
+> 1/ anons, this is how you build in a bear market. @jtriley_eth reached out about how he could contribute to my Vyper repo 🐍snekmate. Around 3 weeks later, the most modern and gas-efficient ERC-1155 implementation is ready: https://t.co/lGUG7P8O3l. https://t.co/cM1G9QwdEJ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fmgs48cX0AInA0D.png — no alt text provided by author
+
+
+---
+
+## 2023-01-14 · Post · Since still too many folks didn't get it: PoS or PoW are NOT consensus protocols by themselves. They
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-01-14 09:48 UTC (2023-01-14 10:48 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1614197720478093314
+- Metrics (at fetch): bookmark 18, impression 30852, like 215, quote 2, reply 14, retweet 24
+
+> Since still too many folks didn't get it: PoS or PoW are NOT consensus protocols by themselves. They're actually Sybil resistance mechanisms &amp; block author selectors. It's this Sybil resistance mechanism combined w/ a chain selection rule that makes up a consensus mechanism.
+
+
+---
+
+## 2023-01-13 · Post · it's time to offload further chores to the compiler https://t.co/eYDkQIBJRl https://t.co/OrwfcwCoAv
+
+
+### Post — @pcaversaccio — 2023-01-13 15:31 UTC (2023-01-13 16:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1613921723513962498
+- Metrics (at fetch): bookmark 0, impression 2820, like 32, quote 0, reply 2, retweet 0
+
+> it's time to offload further chores to the compiler https://t.co/eYDkQIBJRl https://t.co/OrwfcwCoAv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FmXMxwOXkAIHmm2.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-12 · Post · SBF starting a paid substack to pay his lawyers. https://t.co/jQcDvxeyWm
+
+
+### Post — @pcaversaccio — 2023-01-12 18:37 UTC (2023-01-12 19:37 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1613605984802574339
+- Metrics (at fetch): bookmark 0, impression 1159, like 4, quote 0, reply 1, retweet 0
+
+> SBF starting a paid substack to pay his lawyers. https://t.co/jQcDvxeyWm
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1110877798820777986 — 2023-01-12 13:04 UTC (2023-01-12 14:04 WAT)
+    
+    - URL: https://x.com/1110877798820777986/status/1613522399269650434
+    - Metrics (at fetch): bookmark 271, impression 4699411, like 1570, quote 1090, reply 0, retweet 432
+    
+    > https://t.co/XVd0BPHxEU
+    
+
+
+---
+
+## 2023-01-11 · Reply · @trailofbits just added codex to Slither 🔥 what happens 2 mins later, I hit the quota limit lol. Nee
+
+
+### Post — @pcaversaccio — 2023-01-11 18:31 UTC (2023-01-11 19:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1613242202897125376
+- Metrics (at fetch): bookmark 2, impression 2203, like 15, quote 0, reply 1, retweet 2
+
+> @trailofbits just added codex to Slither 🔥 what happens 2 mins later, I hit the quota limit lol. Need to consider upgrading I guess https://t.co/1jXEdPxXXU https://t.co/gbUpV2iRyh
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FmNikYtWYAEF9ay.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FmNjJgIWYAIymcI.png — no alt text provided by author
+
+
+---
+
+## 2023-01-10 · Post · For anyone that missed it, here's the EIP draft https://t.co/ndOpUH3PAA https://t.co/ufYsavVWCw
+
+
+### Post — @pcaversaccio — 2023-01-10 20:49 UTC (2023-01-10 21:49 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1612914486934921216
+- Metrics (at fetch): bookmark 0, impression 920, like 6, quote 0, reply 0, retweet 0
+
+> For anyone that missed it, here's the EIP draft https://t.co/ndOpUH3PAA https://t.co/ufYsavVWCw
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1221927642850611203 — 2023-01-10 20:46 UTC (2023-01-10 21:46 WAT)
+    
+    - URL: https://x.com/1221927642850611203/status/1612913918447329281
+    - Metrics (at fetch): bookmark 0, impression 8537, like 8, quote 2, reply 1, retweet 5
+    
+    > #MuchClicked
+    >
+    > * @pcaversaccio canonize evm equivalence
+    > * @trueblocks find all code produced by factory
+    > * @johnrising_ 4337 call notes
+    > * @groupeaubay enforced NFT royalties
+    > * @CoinbaseWallet 1.5m collected @ensdomains https://t.co/3IRrGEWm3U
+    > * @sendwyre winding down https://t.co/Y2yXYRziTd
+    
+    **Quoted post** 1611554043943616512: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2023-01-10 · Post · Having looked in depth at the dependency of bootnodes, I would like to express my concerns about the
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-01-10 15:43 UTC (2023-01-10 16:43 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1612837634224656385
+- Metrics (at fetch): not returned
+
+> Having looked in depth at the dependency of bootnodes, I would like to express my concerns about the centralisation and reliance on third-party cloud services that current bootnodes exhibit. Please share your input or further information in this thread
+> https://ethresear.ch/t/execution-consensus-client-bootnodes/14588
+
+**Links in post:** https://ethresear.ch/t/execution-consensus-client-bootnodes/14588
+
+
+---
+
+## 2023-01-10 · Post · A period of 2048 epochs (~9.1 days) is called an eek ("Ethereum week"). Operations that take a long 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-01-10 09:30 UTC (2023-01-10 10:30 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1612743561417555969
+- Metrics (at fetch): not returned
+
+> A period of 2048 epochs (~9.1 days) is called an eek ("Ethereum week"). Operations that take a long time can be measured in eeks 🫡https://github.com/ethereum/annotated-spec/blob/master/phase0/beacon-chain.md#how-does-eth2-proof-of-stake-work
+
+**Links in post:** https://github.com/ethereum/annotated-spec/blob/master/phase0/beacon-chain.md#how-does-eth2-proof-of-stake-work
+
+
+---
+
+## 2023-01-10 · Post · Just found this randomly - so @SBF was leading on its own a Series B round of $580m?! [pic.x.com/wmf
+
+
+### Post — @pcaversaccio — 2023-01-10 08:21 UTC (2023-01-10 09:21 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1612726329035612160
+- Metrics (at fetch): not returned
+
+> Just found this randomly - so @SBF was leading on its own a Series B round of $580m?! [pic.x.com/wmfWvnlqal] https://twitter.com/AnthropicAI/status/1520074475202482180
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FmGOC_GXwAE_LLm.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/AnthropicAI/status/1520074475202482180
+
+**Quoted post (full text):**
+
+    #### Quoted post — @AnthropicAI — 2022-04-29 16:16 UTC (2022-04-29 17:16 WAT)
+    
+    - URL: https://x.com/AnthropicAI/status/1520074475202482180
+    - Metrics (at fetch): not returned
+    
+    > We’ve raised $580 million in a Series B. This will help us further develop our research to build usable, reliable AI systems. Find out more: https://www.anthropic.com/news/announcement#series-b
+    
+    **Links in post:** https://www.anthropic.com/news/announcement#series-b
+    
+
+
+---
+
+## 2023-01-09 · Post · wait whaaat? so arguments are sometimes evaluated from right to left and sometimes from left to righ
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2023-01-09 09:27 UTC (2023-01-09 10:27 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1612380654573916161
+- Metrics (at fetch): not returned
+
+> wait whaaat? so arguments are sometimes evaluated from right to left and sometimes from left to right? can we please document for which operations is this the case? https://docs.soliditylang.org/en/v0.8.17/control-structures.html#order-of-evaluation-of-expressions [pic.x.com/KYffiDkaDU]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FmBSnCMXEAAhtFU.jpg — no alt text provided by author
+
+**Links in post:** https://docs.soliditylang.org/en/v0.8.17/control-structures.html#order-of-evaluation-of-expressions
 
 
 ---
@@ -29848,6 +32951,254 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 5, impression 17815, like 36, quote 0, reply 32, retweet 3
 
 > What's the difference between zk-SNARKs and zk-STARKs? Only wrong answers.
+
+
+---
+
+## 2023-01-07 · Post · Drafted and submitted my first EIP on Full EVM Equivalence 🖖. Feedback is welcome in the linked Ethe
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-01-07 11:28 UTC (2023-01-07 12:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1611686217799847941
+- Metrics (at fetch): not returned
+
+> Drafted and submitted my first EIP on Full EVM Equivalence 🖖. Feedback is welcome in the linked Ethereum Magicians thread. https://github.com/ethereum/EIPs/pull/6269
+
+**Links in post:** https://github.com/ethereum/EIPs/pull/6269
+
+
+---
+
+## 2023-01-06 · Post · No safety net anymore for crypto degens... [pic.x.com/hCZyU5ucSv]
+
+
+### Post — @pcaversaccio — 2023-01-06 22:29 UTC (2023-01-06 23:29 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1611490058149953538
+- Metrics (at fetch): not returned
+
+> No safety net anymore for crypto degens... [pic.x.com/hCZyU5ucSv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fl0pqj_WQAE7hdE.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-06 · Post · Zero token transfers via `transferFrom` can be invoked usually by anyone. That's not an on-chain ris
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-01-06 16:28 UTC (2023-01-06 17:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1611399369571319815
+- Metrics (at fetch): not returned
+
+> Zero token transfers via `transferFrom` can be invoked usually by anyone. That's not an on-chain risk but can be used off-chain for e.g. phishing. Question: should zero `transferFrom` calls be reverted? This will potentially break some stuff tho!
+
+
+---
+
+## 2023-01-06 · Post · so AWS, Azure, and Hetzner are running the Ethereum mainnet Go bootnodes. It would be an understatem
+
+
+### Post — @pcaversaccio — 2023-01-06 10:37 UTC (2023-01-06 11:37 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1611310912715071488
+- Metrics (at fetch): not returned
+
+> so AWS, Azure, and Hetzner are running the Ethereum mainnet Go bootnodes. It would be an understatement to say that I am only mildly concerned.... [pic.x.com/blSatZO9zb] https://twitter.com/high_byte/status/1611079456466034695
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FlyGQ2lWAAASdM-.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/high_byte/status/1611079456466034695
+
+**Quoted post (full text):**
+
+    #### Quoted post — @706491515527364610 — 2023-01-05 19:17 UTC (2023-01-05 20:17 WAT)
+    
+    - URL: https://x.com/706491515527364610/status/1611079456466034695
+    - Metrics (at fetch): not returned
+    
+    > The list of bootstrap nodes can be found here if anyone interested:
+    >
+    > https://github.com/ethereum/go-ethereum/blob/master/params/bootnodes.go
+    
+    **Links in post:** https://github.com/ethereum/go-ethereum/blob/master/params/bootnodes.go
+    
+
+
+---
+
+## 2023-01-05 · Post · Welcome to 2023 where founders are subpoenaed by tweets https://twitter.com/3ACLiq/status/1611018579
+
+
+### Post — @pcaversaccio — 2023-01-05 18:29 UTC (2023-01-05 19:29 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1611067349175607297
+- Metrics (at fetch): not returned
+
+> Welcome to 2023 where founders are subpoenaed by tweets https://twitter.com/3ACLiq/status/1611018579532742657
+
+**Links in post:** https://twitter.com/3ACLiq/status/1611018579532742657
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1601322722570764290 — 2023-01-05 15:15 UTC (2023-01-05 16:15 WAT)
+    
+    - URL: https://x.com/1601322722570764290/status/1611018579532742657
+    - Metrics (at fetch): not returned
+    
+    > @KyleLDavies jpg copies of the subpoena are attached to this tweet by way of service. An unredacted copy of the subpoena was served via email and can be provided upon request. [pic.x.com/XAYzQ4Oveo]
+    
+    **Media:**
+    - media `3_1611018561895518210` (details not returned by the API)
+    - media `3_1611018561891229698` (details not returned by the API)
+    - media `3_1611018562126086146` (details not returned by the API)
+    - media `3_1611018561870336008` (details not returned by the API)
+    
+
+
+---
+
+## 2023-01-05 · Post · wait anon, I hear you want `Base64` encoding and decoding in Vyper 🐍? Well, I made it a reality now.
+
+
+### Post — @pcaversaccio — 2023-01-05 10:12 UTC (2023-01-05 11:12 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1610942338972499968
+- Metrics (at fetch): not returned
+
+> wait anon, I hear you want `Base64` encoding and decoding in Vyper 🐍? Well, I made it a reality now. Tbh it was pretty painful since there are some current shortcomings in the Vyper design that prevents a more elegant solution. But it works 🫡
+> https://github.com/pcaversaccio/snekmate/blob/main/src/utils/Base64.vy [pic.x.com/HfOwpM39aH]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fls07lsXwAYbUdW.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fls08tkWAAAyL2K.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fls09igXwAAszjx.png — no alt text provided by author
+
+**Links in post:** https://github.com/pcaversaccio/snekmate/blob/main/src/utils/Base64.vy
+
+
+---
+
+## 2023-01-04 · Post · 🫡my keyboard is one fire these days https://twitter.com/OpenZeppelin/status/1610697568345899013
+
+
+### Post — @pcaversaccio — 2023-01-04 18:06 UTC (2023-01-04 19:06 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1610699148881465351
+- Metrics (at fetch): not returned
+
+> 🫡my keyboard is one fire these days https://twitter.com/OpenZeppelin/status/1610697568345899013
+
+**Links in post:** https://twitter.com/OpenZeppelin/status/1610697568345899013
+
+**Quoted post (full text):**
+
+    #### Quoted post — @OpenZeppelin — 2023-01-04 18:00 UTC (2023-01-04 19:00 WAT)
+    
+    - URL: https://x.com/OpenZeppelin/status/1610697568345899013
+    - Metrics (at fetch): not returned
+    
+    > The first @GitPOAP for contributing to OpenZeppelin Contracts in 2023 has been minted by @pcaversaccio! 🚀
+    >
+    > We invite you to contribute in 2023 to receive a POAP.
+    > https://www.gitpoap.io/gp/866 [pic.x.com/Dn5q67MR3o]
+    
+    **Media:**
+    - media `3_1610674654242574336` (details not returned by the API)
+    
+    **Links in post:** https://www.gitpoap.io/gp/866
+    
+
+
+---
+
+## 2023-01-04 · Post · my daily struggle [pic.x.com/mBUnpt6sKp]
+
+
+### Post — @pcaversaccio — 2023-01-04 14:42 UTC (2023-01-04 15:42 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1610647982310924289
+- Metrics (at fetch): not returned
+
+> my daily struggle [pic.x.com/mBUnpt6sKp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FlorxRRXkAEnYUI.png — no alt text provided by author
+
+
+---
+
+## 2023-01-04 · Post · ChatGPT will take phishing and social engineering capabilities to a new level. Be careful, all virtu
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2023-01-04 08:51 UTC (2023-01-04 09:51 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1610559531087437826
+- Metrics (at fetch): not returned
+
+> ChatGPT will take phishing and social engineering capabilities to a new level. Be careful, all virtues also have drawbacks.
+
+
+---
+
+## 2023-01-03 · Post · Keep in mind, @DCGco, i.e. @BarrySilbert, owns @CoinDesk. Will be interesting to watch the coverage 
+
+
+### Post — @pcaversaccio — 2023-01-03 17:39 UTC (2023-01-03 18:39 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1610329923176079360
+- Metrics (at fetch): not returned
+
+> Keep in mind, @DCGco, i.e. @BarrySilbert, owns @CoinDesk. Will be interesting to watch the coverage over the next days...
+
+
+---
+
+## 2023-01-03 · Post · well, that I call a cool start into 2023 🫡 @gitpoap are a really cool use case of NFTs. [pic.x.com/x
+
+
+### Post — @pcaversaccio — 2023-01-03 09:02 UTC (2023-01-03 10:02 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1610199910581665792
+- Metrics (at fetch): not returned
+
+> well, that I call a cool start into 2023 🫡 @gitpoap are a really cool use case of NFTs. [pic.x.com/x4NcTffZiw]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FliTajZXkAAghYR.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-02 · Post · I'm so fed up with these scammers and get-rich-quick morons - 'coincidentally' exactly the same amou
+
+
+### Post — @pcaversaccio — 2023-01-02 18:48 UTC (2023-01-02 19:48 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1609984983476719618
+- Metrics (at fetch): not returned
+
+> I'm so fed up with these scammers and get-rich-quick morons - 'coincidentally' exactly the same amount they both earned over the last two years. I will call out all of you scumbags from now on. [pic.x.com/1OrjUgovm8] https://twitter.com/duken_eth/status/1609614025536712704
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FlfQzmQWYAM0keW.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/duken_eth/status/1609614025536712704
+
+**Quoted post** 1609614025536712704: not readable via the API (deleted, private, or withheld).
 
 
 ---
@@ -29888,6 +33239,99 @@ Tags (automatic): ZK
 
 ---
 
+## 2023-01-01 · Post · I think it's time to rename the EVM opcode `COINBASE` to `FEERECIPIENT`. https://github.com/ethereum
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2023-01-01 15:28 UTC (2023-01-01 16:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1609572170660982784
+- Metrics (at fetch): not returned
+
+> I think it's time to rename the EVM opcode `COINBASE` to `FEERECIPIENT`. https://github.com/ethereum/consensus-specs/pull/2728
+
+**Links in post:** https://github.com/ethereum/consensus-specs/pull/2728
+
+
+---
+
+## 2022-12-31 · Post · was a pretty busy year for me - I kept building despite the huge amount of bad noise in our space 🫡.
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-12-31 09:36 UTC (2022-12-31 10:36 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1609121220653420550
+- Metrics (at fetch): not returned
+
+> was a pretty busy year for me - I kept building despite the huge amount of bad noise in our space 🫡. It's all about signal over noise, anon. 
+>
+> 3 repos I would like to highlight - go check them out:
+> - https://github.com/pcaversaccio/reentrancy-attacks
+> - https://github.com/pcaversaccio/snekmate
+> - https://github.com/pcaversaccio/xdeployer [pic.x.com/eFfyrkpJAv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FlS-Fb9XEAEh3mN.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FlS-HiFXgAI31_h.png — no alt text provided by author
+
+**Links in post:** https://github.com/pcaversaccio/reentrancy-attacks, https://github.com/pcaversaccio/snekmate, https://github.com/pcaversaccio/xdeployer
+
+
+---
+
+## 2022-12-31 · Post · I'm trying to stack deep for my New Year's resolution. My goal is to find simply a hash collision fo
+
+
+### Post — @pcaversaccio — 2022-12-31 08:32 UTC (2022-12-31 09:32 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1609105277550305281
+- Metrics (at fetch): not returned
+
+> I'm trying to stack deep for my New Year's resolution. My goal is to find simply a hash collision for keccak256. Sounds feasible lmfao
+
+
+---
+
+## 2022-12-30 · Post · Yo @elonmusk you're hardcore engineering doesn't pay off so far wrt spam - sorry to tell you, but wh
+
+
+### Post — @pcaversaccio — 2022-12-30 13:05 UTC (2022-12-30 14:05 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1608811495038779393
+- Metrics (at fetch): not returned
+
+> Yo @elonmusk you're hardcore engineering doesn't pay off so far wrt spam - sorry to tell you, but what have you achieved wrt spam over the last months? pretty nothing tbh. Just examples of my current notifications... [pic.x.com/oGEKWUbLDe]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FlOk4HVXoAAEBvk.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FlOk5LuXwAA0cQj.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FlOk6AhXgAAJeZw.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FlOk7CgWIAM70mS.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-30 · Post · gm Andrew, it's me GRETA [pic.x.com/r8q9sFvugR]
+
+
+### Post — @pcaversaccio — 2022-12-30 08:52 UTC (2022-12-30 09:52 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1608747851391332353
+- Metrics (at fetch): not returned
+
+> gm Andrew, it's me GRETA [pic.x.com/r8q9sFvugR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FlNrpSVXkAIqhMv.jpg — no alt text provided by author
+
+
+---
+
 ## 2022-12-29 · Post · I repeat: the math behind zk-proofs is still under appreciated
 
 
@@ -29900,6 +33344,757 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 11, impression 30664, like 244, quote 3, reply 18, retweet 11
 
 > I repeat: the math behind zk-proofs is still under appreciated
+
+
+---
+
+## 2022-12-29 · Post · RIP to the GOAT - Pelé [pic.x.com/B3nZ49crPb]
+
+
+### Post — @pcaversaccio — 2022-12-29 19:45 UTC (2022-12-29 20:45 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1608549851595427840
+- Metrics (at fetch): not returned
+
+> RIP to the GOAT - Pelé [pic.x.com/B3nZ49crPb]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FlK3kMsWAAANsOj.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-28 · Post · 1/ Some (yet) undocumented 🐍Vyper behaviour I discovered just recently: Vyper interfaces that implem
+
+
+### Post — @pcaversaccio — 2022-12-28 20:29 UTC (2022-12-28 21:29 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1608198586709454848
+- Metrics (at fetch): not returned
+
+> 1/ Some (yet) undocumented 🐍Vyper behaviour I discovered just recently: Vyper interfaces that implement functions with return values that require an upper bound (e.g. ``Bytes``, ``DynArray``, or ``String``), the upper bound defined in the interface represents the lower bound...
+
+
+---
+
+## 2022-12-27 · Post · That tweet didn't age well lmfao [pic.x.com/6r7uEha9cZ] https://twitter.com/SummersThings/status/160
+
+
+### Post — @pcaversaccio — 2022-12-27 22:49 UTC (2022-12-27 23:49 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1607871385757417473
+- Metrics (at fetch): not returned
+
+> That tweet didn't age well lmfao [pic.x.com/6r7uEha9cZ] https://twitter.com/SummersThings/status/1607861933322952709
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FlBOgTXWQAIqpvN.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/SummersThings/status/1607861933322952709
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1471998857894666245 — 2022-12-27 22:12 UTC (2022-12-27 23:12 WAT)
+    
+    - URL: https://x.com/1471998857894666245/status/1607861933322952709
+    - Metrics (at fetch): not returned
+    
+    > Avraham "Avi" Eisenberg @avi_eisen was arrested yesterday in Puerto Rico and charged with market manipulation offenses. [pic.x.com/Vwmnbowll0]
+    
+    **Media:**
+    - media `3_1607861684969902082` (details not returned by the API)
+    
+
+
+---
+
+## 2022-12-27 · Post · Due to recent zkEVM announcements of various projects &amp; the ongoing discussion/confusion on how 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, ZK
+
+
+### Post — @pcaversaccio — 2022-12-27 16:16 UTC (2022-12-27 17:16 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1607772439634710530
+- Metrics (at fetch): not returned
+
+> Due to recent zkEVM announcements of various projects &amp; the ongoing discussion/confusion on how EVM Equivalence is defined, I proposed around 6 months ago to create an informational EIP that defines properly EVM Equivalence &amp; Ethereum Stack Compatibility.
+> https://ethereum-magicians.org/t/evm-equivalence-and-ethereum-stack-compatibility-definition-future-informational-eip/10044
+
+**Links in post:** https://ethereum-magicians.org/t/evm-equivalence-and-ethereum-stack-compatibility-definition-future-informational-eip/10044
+
+
+---
+
+## 2022-12-27 · Post · Some rather unknown facts:
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-12-27 08:56 UTC (2022-12-27 09:56 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1607661809213018112
+- Metrics (at fetch): not returned
+
+> Some rather unknown facts:
+> 1. The ABI encoding is not part of the Ethereum core protocol.
+> 2. The compilers of smart contract languages are responsible for the serialisation &amp; deserialisation of data.
+> 3. The compilers should implement the ABI specification, but they don't have to.
+
+
+---
+
+## 2022-12-26 · Post · Some history: the first verified contract (solc version `v0.1.1+commit.6ff4cd6`) on Etherscan is the
+
+
+### Post — @pcaversaccio — 2022-12-26 12:17 UTC (2022-12-26 13:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1607349786331516928
+- Metrics (at fetch): not returned
+
+> Some history: the first verified contract (solc version `v0.1.1+commit.6ff4cd6`) on Etherscan is the following: https://etherscan.io/address/0xa3483b08C8A0F33eB07afF3A66fbcaf5C9018CDC. It's a simple contract that creates a read function called `go()` that prints "Hello Ethereum!". The contract was deployed by "Linagee".
+
+**Links in post:** https://etherscan.io/address/0xa3483b08C8A0F33eB07afF3A66fbcaf5C9018CDC
+
+
+---
+
+## 2022-12-25 · Post · Just a reminder: Alexey Pertsev is in prison for writing privacy-focused open-source code while SBF 
+
+
+### Post — @pcaversaccio — 2022-12-25 13:03 UTC (2022-12-25 14:03 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1606998988103864321
+- Metrics (at fetch): not returned
+
+> Just a reminder: Alexey Pertsev is in prison for writing privacy-focused open-source code while SBF is spending xmas with his family &amp; Do Kwon enjoys life (most probably) in Serbia. Ah and the 3AC guy's enjoy the sun in Bali... Life is not fair but we can still fight 4 justice!
+
+
+---
+
+## 2022-12-25 · Post · Also shipping on xmas for 🐍Vyper. TLDR: Interfaces that implement functions with return values that 
+
+
+### Post — @pcaversaccio — 2022-12-25 12:56 UTC (2022-12-25 13:56 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1606997332264124416
+- Metrics (at fetch): not returned
+
+> Also shipping on xmas for 🐍Vyper. TLDR: Interfaces that implement functions with return values that require an upper bound (e.g. `Bytes`, `DynArray`, or `String`), the upper bound defined in the interface represents the lower bound of the implementation! [pic.x.com/uYrtG6XVjD]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fk0zjL6WIAAcqgQ.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fk0zjjuWQAIhn1g.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-24 · Post · That smile when you realise that any polynomial that equals zero across some set is a (polynomial) m
+
+
+### Post — @pcaversaccio — 2022-12-24 15:50 UTC (2022-12-24 16:50 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1606678703592833032
+- Metrics (at fetch): not returned
+
+> That smile when you realise that any polynomial that equals zero across some set is a (polynomial) multiple of the simplest (lowest-degree) polynomial that equals zero across that same set. [pic.x.com/xEHRqQ8Tn8]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkwRxBcWAAYjE-L.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-23 · Post · for any anon dev, security researcher, or anyone interested in Ethereum security. I maintain a curat
+
+
+### Post — @pcaversaccio — 2022-12-23 15:18 UTC (2022-12-23 16:18 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1606308153636823040
+- Metrics (at fetch): not returned
+
+> for any anon dev, security researcher, or anyone interested in Ethereum security. I maintain a curated list of Ethereum security references, guidance, tools, and more on GH. For me personally, it's the go-to source. I hope it provides value to u as well!
+> https://github.com/stars/pcaversaccio/lists/ethereum-security
+
+**Links in post:** https://github.com/stars/pcaversaccio/lists/ethereum-security
+
+
+---
+
+## 2022-12-23 · Post · Has there ever been a reported keccak256 hash collision in the wild?
+
+
+### Post — @pcaversaccio — 2022-12-23 14:23 UTC (2022-12-23 15:23 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1606294409644896257
+- Metrics (at fetch): not returned
+
+> Has there ever been a reported keccak256 hash collision in the wild?
+
+
+---
+
+## 2022-12-23 · Post · So in simple words: it's an uncollateralised loan issued by the state... https://twitter.com/innerci
+
+
+### Post — @pcaversaccio — 2022-12-23 09:25 UTC (2022-12-23 10:25 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1606219382102835201
+- Metrics (at fetch): not returned
+
+> So in simple words: it's an uncollateralised loan issued by the state... https://twitter.com/innercitypress/status/1606010703449427968
+
+**Links in post:** https://twitter.com/innercitypress/status/1606010703449427968
+
+**Quoted post (full text):**
+
+    #### Quoted post — @14795451 — 2022-12-22 19:36 UTC (2022-12-22 20:36 WAT)
+    
+    - URL: https://x.com/14795451/status/1606010703449427968
+    - Metrics (at fetch): not returned
+    
+    > He wasn't required to put up any money at all. Just have his parents sign over a lien against their home in Palo Alto by January 12. But if he flees, US could go after him, parents and still unknown non-family co-signer for the $250 million https://twitter.com/tlego19/status/1606010083631980545
+    
+    **Links in post:** https://twitter.com/tlego19/status/1606010083631980545
+    
+    **Quoted post** 1606010083631980545: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2022-12-23 · Post · Let me clarify some information re the @LastPass incident.
+
+
+### Post — @pcaversaccio — 2022-12-23 09:17 UTC (2022-12-23 10:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1606217475301031936
+- Metrics (at fetch): not returned
+
+> Let me clarify some information re the @LastPass incident.
+> 1. The stolen vault data includes both unencrypted data, such as website URLs, as well as _fully-encrypted_ sensitive fields such as website usernames &amp; passwords, secure notes, &amp; form-filled data
+>
+> https://www.bleepingcomputer.com/news/security/lastpass-hackers-stole-customer-vault-data-in-cloud-storage-breach/
+
+**Links in post:** https://www.bleepingcomputer.com/news/security/lastpass-hackers-stole-customer-vault-data-in-cloud-storage-breach/
+
+
+---
+
+## 2022-12-22 · Post · How can you go from $100k in your bank account to $250m in 2 weeks?
+
+
+### Post — @pcaversaccio — 2022-12-22 19:15 UTC (2022-12-22 20:15 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1606005471080353792
+- Metrics (at fetch): not returned
+
+> How can you go from $100k in your bank account to $250m in 2 weeks?
+
+
+---
+
+## 2022-12-22 · Post · Wait what https://twitter.com/markets/status/1605998244751884303
+
+
+### Post — @pcaversaccio — 2022-12-22 19:00 UTC (2022-12-22 20:00 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1606001741664702464
+- Metrics (at fetch): not returned
+
+> Wait what https://twitter.com/markets/status/1605998244751884303
+
+**Links in post:** https://twitter.com/markets/status/1605998244751884303
+
+**Quoted post (full text):**
+
+    #### Quoted post — @69620713 — 2022-12-22 18:46 UTC (2022-12-22 19:46 WAT)
+    
+    - URL: https://x.com/69620713/status/1605998244751884303
+    - Metrics (at fetch): not returned
+    
+    > BREAKING: A federal judge approved a bail package for FTX co-founder Sam Bankman-Fried that includes a $250 million personal recognizance bond secured by his parents’ house in California https://trib.al/Te3EViq
+    
+    **Links in post:** https://trib.al/Te3EViq
+    
+
+
+---
+
+## 2022-12-22 · Post · For the low-level geeks: Usually, if you write pure Yul contracts, you can't use opcodes that are no
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-12-22 10:47 UTC (2022-12-22 11:47 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1605877633564098560
+- Metrics (at fetch): not returned
+
+> For the low-level geeks: Usually, if you write pure Yul contracts, you can't use opcodes that are not known to the Yul compiler. However, there is a specific group of functions called "verbatim" that would allow you to directly write code in opcodes: https://docs.soliditylang.org/en/latest/yul.html#verbatim
+
+**Links in post:** https://docs.soliditylang.org/en/latest/yul.html#verbatim
+
+
+---
+
+## 2022-12-21 · Post · sometimes people want to build an address-based Merkle tree. I think it's important to quickly show 
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-12-21 23:44 UTC (2022-12-22 00:44 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1605710728777699328
+- Metrics (at fetch): not returned
+
+> sometimes people want to build an address-based Merkle tree. I think it's important to quickly show how you can achieve the same result for Solidity &amp; 🐍Vyper wrt to hashes. Yes, I walk the talk and push the notion of language diversity whenever I can!🫡https://gist.github.com/pcaversaccio/49c2ddf04dc438b04b5817b1b1ff9d84 [pic.x.com/MQJxE1arPR]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkigdzXXgAE616k.jpg — no alt text provided by author
+
+**Links in post:** https://gist.github.com/pcaversaccio/49c2ddf04dc438b04b5817b1b1ff9d84
+
+
+---
+
+## 2022-12-21 · Post · Remember how IOTA wanted to get rid of the coordinator? Just quickly checked their docs now: https:/
+
+
+### Post — @pcaversaccio — 2022-12-21 16:02 UTC (2022-12-21 17:02 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1605594621488218112
+- Metrics (at fetch): not returned
+
+> Remember how IOTA wanted to get rid of the coordinator? Just quickly checked their docs now: https://wiki.iota.org/learn/about-iota/coordinator 
+>
+> "The Coordinator is a _temporary_ solution." lmfaoooo [pic.x.com/XfAuybICCk]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fkg3XaeWYAYntx3.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fkg3qMpXEAAGM2w.png — no alt text provided by author
+
+**Links in post:** https://wiki.iota.org/learn/about-iota/coordinator
+
+
+---
+
+## 2022-12-21 · Post · So yesterday I realised that calling `selfdestruct` as part of a forge test function has no effect o
+
+
+### Post — @pcaversaccio — 2022-12-21 09:01 UTC (2022-12-21 10:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1605488735444905984
+- Metrics (at fetch): not returned
+
+> So yesterday I realised that calling `selfdestruct` as part of a forge test function has no effect on the bytecode &amp; storage since each forge test is one big tx. 2 ways to resolve it:
+> 1) use `setUp` as a separate call itself
+> 2) see below
+>
+> related issue: https://github.com/foundry-rs/foundry/issues/1543
+
+**Links in post:** https://github.com/foundry-rs/foundry/issues/1543
+
+
+---
+
+## 2022-12-21 · Post · I think the year 2022 is actually a reminder why we're all here. Bitcoin is producing blocks without
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2022-12-21 08:07 UTC (2022-12-21 09:07 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1605475058398351360
+- Metrics (at fetch): not returned
+
+> I think the year 2022 is actually a reminder why we're all here. Bitcoin is producing blocks without interruptions, real DeFi protocols are still running, and Ethereum PoS hasn't seen any deep reorgs. Don't build for centralised failure. Build for decentralised consensus.
+
+
+---
+
+## 2022-12-20 · Post · interestingly, in Solidity's "old codegen" (Solidity -&gt; opcodes) it was possible to overflow the 
+
+
+Tags (automatic): Smart contract / DeFi, Memory corruption / native
+
+
+### Post — @pcaversaccio — 2022-12-20 08:36 UTC (2022-12-20 09:36 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1605119821305167872
+- Metrics (at fetch): not returned
+
+> interestingly, in Solidity's "old codegen" (Solidity -&gt; opcodes) it was possible to overflow the free memory pointer, whilst the "new codegen" (Solidity -&gt; Yul -&gt; opcodes) imposes a hard limit of `type(uint64).max`. Have we seen any exploits on this?
+> https://github.com/ethereum/solidity/blob/develop/docs/ir-breaking-changes.rst [pic.x.com/12gBk6dXWo]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkaGx6cXwAMyGl0.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/ethereum/solidity/blob/develop/docs/ir-breaking-changes.rst
+
+
+---
+
+## 2022-12-19 · Post · so after 12 hours on Mastodon got my first impersonation that I had to report lol [pic.x.com/CTkm4tX
+
+
+### Post — @pcaversaccio — 2022-12-19 22:16 UTC (2022-12-19 23:16 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1604963967801077760
+- Metrics (at fetch): not returned
+
+> so after 12 hours on Mastodon got my first impersonation that I had to report lol [pic.x.com/CTkm4tXqkY] https://twitter.com/pcaversaccio/status/1604791681479491584
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkX6IkBX0A0s4_7.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/pcaversaccio/status/1604791681479491584
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2022-12-19 10:52 UTC (2022-12-19 11:52 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1604791681479491584
+    - Metrics (at fetch): not returned
+    
+    > Let's start the experiment - who is around? [pic.x.com/2qgdnj15g1]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FkVdXfEXkAIr87O.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2022-12-19 · Post · The same moves as FTX earlier this year... https://twitter.com/business/status/1604829518040113152
+
+
+### Post — @pcaversaccio — 2022-12-19 14:39 UTC (2022-12-19 15:39 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1604848827613200385
+- Metrics (at fetch): not returned
+
+> The same moves as FTX earlier this year... https://twitter.com/business/status/1604829518040113152
+
+**Links in post:** https://twitter.com/business/status/1604829518040113152
+
+**Quoted post (full text):**
+
+    #### Quoted post — @34713362 — 2022-12-19 13:22 UTC (2022-12-19 14:22 WAT)
+    
+    - URL: https://x.com/34713362/status/1604829518040113152
+    - Metrics (at fetch): not returned
+    
+    > BREAKING: Binance's US arm is buying Voyager Digital, the bankrupt crypto broker that had originally been auctioned off to FTX https://trib.al/AmYhEMM [pic.x.com/i1CwcYLERu]
+    
+    **Media:**
+    - media `16_1604829498490363911` (details not returned by the API)
+    
+    **Links in post:** https://trib.al/AmYhEMM
+    
+
+
+---
+
+## 2022-12-19 · Post · Let's start the experiment - who is around? [pic.x.com/2qgdnj15g1]
+
+
+### Post — @pcaversaccio — 2022-12-19 10:52 UTC (2022-12-19 11:52 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1604791681479491584
+- Metrics (at fetch): not returned
+
+> Let's start the experiment - who is around? [pic.x.com/2qgdnj15g1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkVdXfEXkAIr87O.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-19 · Post · Who should be the new Twitter CEO? Twitter will abide by the results of this poll.
+
+
+### Post — @pcaversaccio — 2022-12-19 00:59 UTC (2022-12-19 01:59 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1604642468011524097
+- Metrics (at fetch): not returned
+
+> Who should be the new Twitter CEO? Twitter will abide by the results of this poll.
+
+
+---
+
+## 2022-12-18 · Post · I respect that move tho [pic.x.com/C9lSxsY1ae]
+
+
+### Post — @pcaversaccio — 2022-12-18 23:43 UTC (2022-12-19 00:43 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1604623429784723456
+- Metrics (at fetch): not returned
+
+> I respect that move tho [pic.x.com/C9lSxsY1ae]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkTEdjwWYAE5gHy.png — no alt text provided by author
+
+
+---
+
+## 2022-12-18 · Post · this is getting so ridiculous here https://twitter.com/Snowden/status/1604606914372984832
+
+
+### Post — @pcaversaccio — 2022-12-18 23:33 UTC (2022-12-19 00:33 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1604620936925233152
+- Metrics (at fetch): not returned
+
+> this is getting so ridiculous here https://twitter.com/Snowden/status/1604606914372984832
+
+**Links in post:** https://twitter.com/Snowden/status/1604606914372984832
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2916305152 — 2022-12-18 22:37 UTC (2022-12-18 23:37 WAT)
+    
+    - URL: https://x.com/2916305152/status/1604606914372984832
+    - Metrics (at fetch): not returned
+    
+    > Twitter seemingly banned @paulg for this tweet. A major account that was obviously not "solely created to promote other social media platforms." And he didn't even post the link!
+    >
+    > As @balajis said, this is a bad policy and should be reversed. [pic.x.com/vfIG1Wzlkq]
+    
+    **Media:**
+    - media `3_1604605089565515777` (details not returned by the API)
+    - media `3_1604605115360579584` (details not returned by the API)
+    
+
+
+---
+
+## 2022-12-18 · Post · 👀 https://twitter.com/elonmusk/status/1604616863673208832
+
+
+### Post — @pcaversaccio — 2022-12-18 23:31 UTC (2022-12-19 00:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1604620302201327620
+- Metrics (at fetch): not returned
+
+> 👀 https://twitter.com/elonmusk/status/1604616863673208832
+
+**Links in post:** https://twitter.com/elonmusk/status/1604616863673208832
+
+**Quoted post (full text):**
+
+    #### Quoted post — @44196397 — 2022-12-18 23:17 UTC (2022-12-19 00:17 WAT)
+    
+    - URL: https://x.com/44196397/status/1604616863673208832
+    - Metrics (at fetch): not returned
+    
+    > Going forward, there will be a vote for major policy changes. My apologies. Won’t happen again.
+    
+
+
+---
+
+## 2022-12-18 · Post · VHdpdHRlcjogVml0YWxpa0J1dGVyaW4KVGVsZWdyYW06IHZidXRlcmluCkVOUzogdmJ1dGVyaW4KUmVkZGl0OiAvdS92YnV0ZXJp
+
+
+### Post — @pcaversaccio — 2022-12-18 22:31 UTC (2022-12-18 23:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1604605311947624448
+- Metrics (at fetch): not returned
+
+> VHdpdHRlcjogVml0YWxpa0J1dGVyaW4KVGVsZWdyYW06IHZidXRlcmluCkVOUzogdmJ1dGVyaW4KUmVkZGl0OiAvdS92YnV0ZXJpbgpNYXN0b2RvbjogaHR0cHM6Ly9jcnlwdG9kb24ubG9sL0B2YnV0ZXJpbgpGYXJjYXN0ZXI6IHZidXRlcmluCkxlbnM6IHZpdGFsaWsubGVucw== https://twitter.com/VitalikButerin/status/1593726411335925763
+
+**Links in post:** https://twitter.com/VitalikButerin/status/1593726411335925763
+
+**Quoted post (full text):**
+
+    #### Quoted post — @VitalikButerin — 2022-11-18 22:02 UTC (2022-11-18 23:02 WAT)
+    
+    - URL: https://x.com/VitalikButerin/status/1593726411335925763
+    - Metrics (at fetch): not returned
+    
+    > My new socials page:
+    >
+    > https://vitalik.ca/files/misc_files/socials.txt
+    >
+    > I'm eagerly trying out Mastodon, Farcaster, Lens and others, and I'll bow to Lord Elon and pay his $8/month too... but only when it's available on a non-iOS platform.
+    >
+    > Let the best socials win! *
+    >
+    > * there will be multiple winners [pic.x.com/F2HqYbp8z6]
+    
+    **Media:**
+    - media `3_1593723922243063811` (details not returned by the API)
+    
+    **Links in post:** https://vitalik.ca/files/misc_files/socials.txt
+    
+
+
+---
+
+## 2022-12-18 · Post · 0x4675636b20796f7521 https://twitter.com/TwitterSupport/status/1604531261791522817
+
+
+### Post — @pcaversaccio — 2022-12-18 22:02 UTC (2022-12-18 23:02 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1604597956136542215
+- Metrics (at fetch): not returned
+
+> 0x4675636b20796f7521 https://twitter.com/TwitterSupport/status/1604531261791522817
+
+**Links in post:** https://twitter.com/TwitterSupport/status/1604531261791522817
+
+**Quoted post** 1604531261791522817: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-12-18 · Post · 🇦🇷
+
+
+### Post — @pcaversaccio — 2022-12-18 17:55 UTC (2022-12-18 18:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1604535914775973891
+- Metrics (at fetch): bookmark 0, impression 722, like 6, quote 0, reply 0, retweet 0
+
+> 🇦🇷
+
+
+---
+
+## 2022-12-17 · Post · ouch - big red flag code. If u see something like this it's most probably a honeypot. Always remembe
+
+
+### Post — @pcaversaccio — 2022-12-17 09:12 UTC (2022-12-17 10:12 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1604041961761308673
+- Metrics (at fetch): bookmark 62, impression 28593, like 173, quote 2, reply 12, retweet 19
+
+> ouch - big red flag code. If u see something like this it's most probably a honeypot. Always remember that `address(this).balance` includes also `msg.value` of the current transaction (the if statement will only be true if balance=0 &amp; transfer will fail since too little funds). https://t.co/Hm9bVOTJWW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkKzqe4WIAAEW2-.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-16 · Post · another random Solidity hint: if you want to check whether there is a revert reason (=string) in the
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-12-16 16:09 UTC (2022-12-16 17:09 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1603784487283740675
+- Metrics (at fetch): bookmark 60, impression 13191, like 118, quote 2, reply 4, retweet 15
+
+> another random Solidity hint: if you want to check whether there is a revert reason (=string) in the return data of a low-level call (call, delegatecall, staticcall) you must check whether the return data is smaller than 68 bytes or not. Why? Here you go: https://t.co/JzjM2TSodb https://t.co/RmB2KstUKz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkHJN0QXEAAm0Sz.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FkHJRKGWAAAKp9l.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-16 · Post · let's say - suspending accounts on Twitter is not a sustainable solution... https://t.co/f6MG7wAHj3
+
+
+### Post — @pcaversaccio — 2022-12-16 10:34 UTC (2022-12-16 11:34 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1603700036445081602
+- Metrics (at fetch): bookmark 0, impression 1317, like 10, quote 0, reply 0, retweet 0
+
+> let's say - suspending accounts on Twitter is not a sustainable solution... https://t.co/f6MG7wAHj3
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkF8gvNWQAERmJO.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FkF8lWoWYAE0uMq.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-16 · Post · now it's the time when you can say: "am taking FTX private" - happy bidding LMFAO https://t.co/C3oa0
+
+
+### Post — @pcaversaccio — 2022-12-16 10:03 UTC (2022-12-16 11:03 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1603692385514721280
+- Metrics (at fetch): bookmark 0, impression 1574, like 5, quote 0, reply 1, retweet 1
+
+> now it's the time when you can say: "am taking FTX private" - happy bidding LMFAO https://t.co/C3oa0VLOwW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkF1l2SXwAAftDV.png — no alt text provided by author
+
+
+---
+
+## 2022-12-16 · Post · Simple: read, digest and learn. https://t.co/Cx6PEEPCzl
+
+
+### Post — @pcaversaccio — 2022-12-16 08:00 UTC (2022-12-16 09:00 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1603661368846163969
+- Metrics (at fetch): bookmark 0, impression 980, like 9, quote 0, reply 1, retweet 0
+
+> Simple: read, digest and learn. https://t.co/Cx6PEEPCzl
+
+**Quoted post (full text):**
+
+    #### Quoted post — @493540838 — 2022-12-15 15:08 UTC (2022-12-15 16:08 WAT)
+    
+    - URL: https://x.com/493540838/status/1603406715168464897
+    - Metrics (at fetch): bookmark 234, impression 0, like 450, quote 29, reply 15, retweet 136
+    
+    > Did you read all of the post-mortems of 2022? Well, I did it for you and tried to boil it down into a single article. 
+    > Made for web3 auditors and bug hunters.
+    > No SEO/marketing bs, just one giant blogpost for you to review at your own pace. Merry christmas! https://t.co/BPYo7QZUYF
+    
+
+
+---
+
+## 2022-12-15 · Post · I really wish this was a fake video. Spoiler it is real. https://t.co/O3X5hW9sAR
+
+
+### Post — @pcaversaccio — 2022-12-15 18:21 UTC (2022-12-15 19:21 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1603455173640491008
+- Metrics (at fetch): bookmark 2, impression 7118, like 22, quote 2, reply 10, retweet 1
+
+> I really wish this was a fake video. Spoiler it is real. https://t.co/O3X5hW9sAR
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1603455130799685683/pu/img/Gx8S_JxGFK5VQnBc.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-15 · Post · just to remind you that ChatGPT does not give you superpowers ;-) - you still need to do the hard wo
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @pcaversaccio — 2022-12-15 16:02 UTC (2022-12-15 17:02 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1603420137729802240
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 0, reply 2, retweet 0
+
+> just to remind you that ChatGPT does not give you superpowers ;-) - you still need to do the hard work yourself, and that's actually good! https://t.co/5WRRNkR48L
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkB-FeNXoAAbbYC.jpg — no alt text provided by author
 
 
 ---
@@ -29933,13 +34128,36 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2022-12-13 · Post · @AlamedaTrabucco u? https://t.co/FQZzVndajT
+
+
+### Post — @pcaversaccio — 2022-12-13 23:48 UTC (2022-12-14 00:48 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1602812622985986049
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @AlamedaTrabucco u? https://t.co/FQZzVndajT
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2933805082 — 2022-12-13 22:02 UTC (2022-12-13 23:02 WAT)
+    
+    - URL: https://x.com/2933805082/status/1602786009867079684
+    - Metrics (at fetch): bookmark 29, impression 0, like 473, quote 62, reply 69, retweet 39
+    
+    > SEC Awards More Than $20 Million to Whistleblower https://t.co/nUlpjxU7On
+    
+
+
+---
+
 ## 2022-12-13 · Thread · so let me share an interesting scenario (not sure whether I should call it an attack):
 
 
 ### Post — @pcaversaccio — 2022-12-13 15:35 UTC (2022-12-13 16:35 WAT)
 
 - URL: https://x.com/pcaversaccio/status/1602688558753513475
-- Metrics (at fetch): bookmark 17, impression 0, like 43, quote 0, reply 4, retweet 5
+- Metrics (at fetch): bookmark 17, impression 0, like 44, quote 0, reply 4, retweet 5
 
 > so let me share an interesting scenario (not sure whether I should call it an attack):
 > - deploy a new implementation contract including a `selfdestruct` possibility;
@@ -29980,6 +34198,102 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2022-12-13 · Post · not at all sad seeing this happening. ERC-777 has always been a bad practice to follow IMHO https://
+
+
+### Post — @pcaversaccio — 2022-12-13 12:16 UTC (2022-12-13 13:16 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1602638473395068931
+- Metrics (at fetch): bookmark 0, impression 0, like 46, quote 2, reply 4, retweet 1
+
+> not at all sad seeing this happening. ERC-777 has always been a bad practice to follow IMHO https://t.co/zUEjPWORbI https://t.co/hQxk6kZWka
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fj22uGwXoAIzbQ7.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-13 · Post · a slow news day so far looool
+
+
+### Post — @pcaversaccio — 2022-12-13 11:40 UTC (2022-12-13 12:40 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1602629468727963649
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 0, retweet 1
+
+> a slow news day so far looool
+> https://t.co/ovIqdcIt5K https://t.co/9TMOq5aVVR
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fj2u770XwAEgOiP.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-13 · Post · who is up to defining constants in a Solidity interface - I think that would be a nice feature to ha
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-12-13 10:06 UTC (2022-12-13 11:06 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1602605842779570176
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 8, retweet 0
+
+> who is up to defining constants in a Solidity interface - I think that would be a nice feature to have.
+
+
+---
+
+## 2022-12-13 · Post · gm - just woke up https://t.co/Sf49XH7iAp
+
+
+### Post — @pcaversaccio — 2022-12-13 08:15 UTC (2022-12-13 09:15 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1602577950171402242
+- Metrics (at fetch): bookmark 0, impression 0, like 34, quote 1, reply 4, retweet 1
+
+> gm - just woke up https://t.co/Sf49XH7iAp
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fj2AJBQXgAAL5Xy.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-12 · Post · The transient storage opcodes EIP was created on June 15, 2018. 4.5 years later, we have the discuss
+
+
+### Post — @pcaversaccio — 2022-12-12 22:09 UTC (2022-12-12 23:09 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1602425336855150593
+- Metrics (at fetch): bookmark 0, impression 0, like 27, quote 0, reply 1, retweet 1
+
+> The transient storage opcodes EIP was created on June 15, 2018. 4.5 years later, we have the discussion we should have had a long time ago. There is never a dull moment.
+
+
+---
+
+## 2022-12-12 · Post · never forget, VCs are not the only ones that do not conduct any proper due diligence - conferences d
+
+
+### Post — @pcaversaccio — 2022-12-12 09:40 UTC (2022-12-12 10:40 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1602236963943235584
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 0, retweet 0
+
+> never forget, VCs are not the only ones that do not conduct any proper due diligence - conferences don't care too. You even have to apply to listen to fraudsters - lmfaooo. Just fuck conferences like these, such a shitshow honestly https://t.co/1JOeMRT9Z9
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjxJMWYXgAABI3c.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FjxJSwfWAAAqMmH.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FjxJwZwXkAA8SJD.png — no alt text provided by author
+
+
+---
+
 ## 2022-12-11 · Post · Who remembers... it's important to ask the right questions now and be generally critical... Not impl
 
 
@@ -29996,6 +34310,435 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2022-12-11 · Post · The claims continue and continue but Twitter got worse for me! I will wait until tomorrow to check. 
+
+
+### Post — @pcaversaccio — 2022-12-11 09:30 UTC (2022-12-11 10:30 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1601872149265907714
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 5, retweet 0
+
+> The claims continue and continue but Twitter got worse for me! I will wait until tomorrow to check. But sorry Elon to tell you, you didn't improve anything until now wrt to spam/bots... https://t.co/IOzw0mXmfh https://t.co/uoleOI2mgC
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fjr-OjPXwAISNM_.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fjr-OvJXoAE1h9v.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @44196397 — 2022-12-11 08:09 UTC (2022-12-11 09:09 WAT)
+    
+    - URL: https://x.com/44196397/status/1601851685915095040
+    - Metrics (at fetch): bookmark 1097, impression 0, like 504956, quote 15440, reply 28646, retweet 45758
+    
+    > The bots are in for a surprise tomorrow
+    
+
+
+---
+
+## 2022-12-11 · Post · 👀 https://t.co/brEjevMgcB
+
+
+### Post — @pcaversaccio — 2022-12-11 08:44 UTC (2022-12-11 09:44 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1601860491256676352
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 1, retweet 0
+
+> 👀 https://t.co/brEjevMgcB
+
+**Quoted post (full text):**
+
+    #### Quoted post — @823748518972010496 — 2022-12-11 04:46 UTC (2022-12-11 05:46 WAT)
+    
+    - URL: https://x.com/823748518972010496/status/1601800521798799361
+    - Metrics (at fetch): bookmark 2336, impression 0, like 6205, quote 342, reply 241, retweet 981
+    
+    > As a trader, there is barely a time that you can transparently share edge, but since FTX has gone down, it is clear that this strategy is never coming back, and I thought I would share insight on how i extracted round 5000% of value from the incompetency off SBF  (1/x)
+    
+
+
+---
+
+## 2022-12-10 · Post · 🫡thank you @ethchris &amp; @alexberegszaszi https://t.co/nY5eSaJ5Et https://t.co/3BC4CSbKgU
+
+
+### Post — @pcaversaccio — 2022-12-10 10:45 UTC (2022-12-10 11:45 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1601528418461310976
+- Metrics (at fetch): bookmark 1, impression 0, like 25, quote 0, reply 0, retweet 2
+
+> 🫡thank you @ethchris &amp; @alexberegszaszi https://t.co/nY5eSaJ5Et https://t.co/3BC4CSbKgU
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjnFVPPXEAIoUR7.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-10 · Post · some very interesting stats:
+
+
+### Post — @pcaversaccio — 2022-12-10 10:32 UTC (2022-12-10 11:32 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1601525167783837696
+- Metrics (at fetch): bookmark 3, impression 0, like 27, quote 0, reply 1, retweet 1
+
+> some very interesting stats:
+> - A total of 2,058,022 existing selfdestructable contracts were created by creators with only CREATE2 in their bytecode.
+> - A total of 2070 contracts deployed at previously-reinited addresses. 2065 are selfdestructable!
+> https://hackmd.io/X-waAY49SrW9i36SKOVuGQ
+
+**Links in post:** https://hackmd.io/X-waAY49SrW9i36SKOVuGQ
+
+
+---
+
+## 2022-12-09 · Post · WTF https://twitter.com/tier10k/status/1601293357564698625
+
+
+### Post — @pcaversaccio — 2022-12-09 20:40 UTC (2022-12-09 21:40 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1601315847556845568
+- Metrics (at fetch): bookmark 0, impression 0, like 5, quote 0, reply 1, retweet 0
+
+> WTF https://twitter.com/tier10k/status/1601293357564698625
+
+**Links in post:** https://twitter.com/tier10k/status/1601293357564698625
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2361601055 — 2022-12-09 19:11 UTC (2022-12-09 20:11 WAT)
+    
+    - URL: https://x.com/2361601055/status/1601293357564698625
+    - Metrics (at fetch): bookmark 52, impression 0, like 2786, quote 366, reply 363, retweet 438
+    
+    > [DB] The Block Has Been Secretly Funded for Over a Year With Money Funneled to the Block's CEO From SBF, Sources Told Axios.
+    
+
+
+---
+
+## 2022-12-09 · Post · there is an ongoing discussion about deactivating `selfdestruct`. Not sure how many people are aware
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-12-09 15:54 UTC (2022-12-09 16:54 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1601243795521122304
+- Metrics (at fetch): bookmark 1, impression 0, like 19, quote 0, reply 2, retweet 1
+
+> there is an ongoing discussion about deactivating `selfdestruct`. Not sure how many people are aware of it, but there is one use case that disabled `selfdestruct` already (Solidity version &gt;=`0.4.20`): libraries! It is not possible to destroy a library. https://ethereum-magicians.org/t/eip-4758-deactivate-selfdestruct/8710 [pic.x.com/WRwDiwgUBB]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjjCAHOXoAEoDPB.jpg — no alt text provided by author
+
+**Links in post:** https://ethereum-magicians.org/t/eip-4758-deactivate-selfdestruct/8710
+
+
+---
+
+## 2022-12-09 · Post · don't worry - you can discuss that "matter" soon between you three [pic.x.com/aVX5FtRutK] https://tw
+
+
+### Post — @pcaversaccio — 2022-12-09 09:32 UTC (2022-12-09 10:32 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1601147691450630146
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 0, reply 1, retweet 0
+
+> don't worry - you can discuss that "matter" soon between you three [pic.x.com/aVX5FtRutK] https://twitter.com/SBF_FTX/status/1601127930356453376
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjhrQFbXgAAxdat.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/SBF_FTX/status/1601127930356453376
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1110877798820777986 — 2022-12-09 08:13 UTC (2022-12-09 09:13 WAT)
+    
+    - URL: https://x.com/1110877798820777986/status/1601127930356453376
+    - Metrics (at fetch): bookmark 43, impression 0, like 745, quote 373, reply 0, retweet 205
+    
+    > I made a lot of big mistakes this year.
+    >
+    > But this wasn't one of them.  There's no evidence, because it didn't happen.  Please, please, focus on your own house. https://twitter.com/zhusu/status/1601026984586653697
+    
+    **Links in post:** https://twitter.com/zhusu/status/1601026984586653697
+    
+    **Quoted post** 1601026984586653697: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2022-12-09 · Post · Oh boy https://twitter.com/bariweiss/status/1601007575633305600
+
+
+### Post — @pcaversaccio — 2022-12-09 07:31 UTC (2022-12-09 08:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1601117202715115520
+- Metrics (at fetch): bookmark 0, impression 0, like 3, quote 0, reply 0, retweet 0
+
+> Oh boy https://twitter.com/bariweiss/status/1601007575633305600
+
+**Links in post:** https://twitter.com/bariweiss/status/1601007575633305600
+
+**Quoted post (full text):**
+
+    #### Quoted post — @289548939 — 2022-12-09 00:15 UTC (2022-12-09 01:15 WAT)
+    
+    - URL: https://x.com/289548939/status/1601007575633305600
+    - Metrics (at fetch): bookmark 17341, impression 0, like 213473, quote 14174, reply 10946, retweet 72824
+    
+    > THREAD: THE TWITTER FILES PART TWO. 
+    >
+    > TWITTER’S SECRET BLACKLISTS.
+    
+
+
+---
+
+## 2022-12-08 · Post · Btw, integrating JS-generated Merkle trees &amp; proofs with Foundry tests is a pain - but I managed
+
+
+### Post — @pcaversaccio — 2022-12-08 12:41 UTC (2022-12-08 13:41 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1600832819307368450
+- Metrics (at fetch): bookmark 1, impression 0, like 16, quote 0, reply 0, retweet 1
+
+> Btw, integrating JS-generated Merkle trees &amp; proofs with Foundry tests is a pain - but I managed to do it :-D. So I guess my repo manifests a good copypasta for other folks who want to follow the same path. https://twitter.com/pcaversaccio/status/1600792689783365632
+
+**Links in post:** https://twitter.com/pcaversaccio/status/1600792689783365632
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2022-12-08 10:01 UTC (2022-12-08 11:01 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1600792689783365632
+    - Metrics (at fetch): bookmark 1, impression 0, like 10, quote 1, reply 1, retweet 1
+    
+    > 3/ All my unit tests can be found here: https://github.com/pcaversaccio/snekmate/blob/main/test/utils/MerkleProofVerification.t.sol
+    >
+    > As you will observe, I use foundry combined with the new @OpenZeppelin library `merkle-tree` (https://github.com/OpenZeppelin/merkle-tree) - which was somehow a pain to make it work :). But I hope my setup can help others as well.
+    
+    **Links in post:** https://github.com/pcaversaccio/snekmate/blob/main/test/utils/MerkleProofVerification.t.sol, https://github.com/OpenZeppelin/merkle-tree
+    
+
+
+---
+
+## 2022-12-08 · Thread · 1/ So, since nobody asked for it (lol), I still made it a reality: Merkle tree multiproofs in 🐍Vyper
+
+
+### Post — @pcaversaccio — 2022-12-08 10:01 UTC (2022-12-08 11:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1600792680459513862
+- Metrics (at fetch): bookmark 8, impression 0, like 87, quote 2, reply 5, retweet 9
+
+> 1/ So, since nobody asked for it (lol), I still made it a reality: Merkle tree multiproofs in 🐍Vyper! This makes it possible to simultaneously prove that some `leaves` are part of a Merkle tree defined by `root` (given a set of `proof_flags`).
+> https://github.com/pcaversaccio/snekmate/blob/main/src/utils/MerkleProofVerification.vy#L61 [pic.x.com/dat0gbeEyD]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjcmEIBWQAIJHoy.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FjcmFibWQAUbx3Y.png — no alt text provided by author
+
+**Links in post:** https://github.com/pcaversaccio/snekmate/blob/main/src/utils/MerkleProofVerification.vy#L61
+
+
+### Thread part 2 — @pcaversaccio — 2022-12-08 10:01 UTC (2022-12-08 11:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1600792689783365632
+- Metrics (at fetch): bookmark 1, impression 0, like 10, quote 1, reply 1, retweet 1
+
+> 3/ All my unit tests can be found here: https://github.com/pcaversaccio/snekmate/blob/main/test/utils/MerkleProofVerification.t.sol
+>
+> As you will observe, I use foundry combined with the new @OpenZeppelin library `merkle-tree` (https://github.com/OpenZeppelin/merkle-tree) - which was somehow a pain to make it work :). But I hope my setup can help others as well.
+
+**Links in post:** https://github.com/pcaversaccio/snekmate/blob/main/test/utils/MerkleProofVerification.t.sol, https://github.com/OpenZeppelin/merkle-tree
+
+
+---
+
+## 2022-12-07 · Post · Twitter - in its current state - is a reinforcement engine for existing beliefs and tribes. Facts.
+
+
+### Post — @pcaversaccio — 2022-12-07 09:40 UTC (2022-12-07 10:40 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1600425067329921026
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 0, reply 4, retweet 1
+
+> Twitter - in its current state - is a reinforcement engine for existing beliefs and tribes. Facts.
+
+
+---
+
+## 2022-12-06 · Post · At least some improvement https://twitter.com/MetaMask/status/1600115118439817216
+
+
+### Post — @pcaversaccio — 2022-12-06 15:14 UTC (2022-12-06 16:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1600146781198635008
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
+
+> At least some improvement https://twitter.com/MetaMask/status/1600115118439817216
+
+**Links in post:** https://twitter.com/MetaMask/status/1600115118439817216
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3278906401 — 2022-12-06 13:09 UTC (2022-12-06 14:09 WAT)
+    
+    - URL: https://x.com/3278906401/status/1600115118439817216
+    - Metrics (at fetch): bookmark 1, impression 0, like 100, quote 2, reply 5, retweet 5
+    
+    > @infura_io @ConsenSys One change we are working on is narrowing this window to 7 days and we will add these retention policies to our privacy policy in an upcoming update.
+    
+
+
+---
+
+## 2022-12-05 · Reply · @ArweaveTeam your standard gateway gets blocked by multiple ISPs in Switzerland. For the moment the 
+
+
+### Post — @pcaversaccio — 2022-12-05 23:01 UTC (2022-12-06 00:01 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1599901835044659200
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 0
+
+> @ArweaveTeam your standard gateway gets blocked by multiple ISPs in Switzerland. For the moment the only option is to use a VPN to circumvent it (is anyways my recommended setup by default). I encourage you to reach out to @Swisscom [pic.x.com/V32MQ6OccE]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjP9yF1WIBA7Xum.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-05 · Post · 1/ As the boundaries between what is perceived as real human interaction and what a generative trans
+
+
+### Post — @pcaversaccio — 2022-12-05 12:19 UTC (2022-12-05 13:19 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1599740158097571842
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 2, retweet 1
+
+> 1/ As the boundaries between what is perceived as real human interaction and what a generative transformer model outputs blur, real reflection and deliberation become more important. While everyone is praising the benefits of the new language models, on the other hand,...
+
+
+---
+
+## 2022-12-04 · Post · yo optimizoooors, not sure you are aware of it but I was surprised (or maybe not that much lol) that
+
+
+Tags (automatic): Smart contract / DeFi, Memory corruption / native
+
+
+### Post — @pcaversaccio — 2022-12-04 16:52 UTC (2022-12-04 17:52 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1599446628317818880
+- Metrics (at fetch): bookmark 15, impression 0, like 70, quote 1, reply 6, retweet 3
+
+> yo optimizoooors, not sure you are aware of it but I was surprised (or maybe not that much lol) that even with Solidity version `0.8.17` the following gas optimisation still exists! The usage of `!=` over `&lt;` is 3 GAS cheaper. [pic.x.com/xhq6R5ENCS]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjJe4s8XgAAEEoA.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-03 · Post · 1/ Let me clarify a gas optimisation misconception: assigned operations for `constant` variables in 
+
+
+Tags (automatic): Smart contract / DeFi, Memory corruption / native
+
+
+### Post — @pcaversaccio — 2022-12-03 11:46 UTC (2022-12-03 12:46 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1599007126160277504
+- Metrics (at fetch): bookmark 9, impression 0, like 57, quote 0, reply 2, retweet 6
+
+> 1/ Let me clarify a gas optimisation misconception: assigned operations for `constant` variables in Solidity are re-evaluated every time &amp; therefore `immutable` variables are cheaper (evaluated once at construction). This rule does _NOT_ hold for `keccak256` of string literals.
+
+
+---
+
+## 2022-12-03 · Post · anon, did u know if you call a precompile that the calldata does not contain any function signatures
+
+
+### Post — @pcaversaccio — 2022-12-03 10:28 UTC (2022-12-03 11:28 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1598987651717419008
+- Metrics (at fetch): bookmark 2, impression 0, like 29, quote 1, reply 4, retweet 2
+
+> anon, did u know if you call a precompile that the calldata does not contain any function signatures! It's simply a byte array that gets parsed to extract the values.
+
+
+---
+
+## 2022-12-03 · Post · I think the terminology L2 is confusing since Ethereum itself is a four-layer architecture: applicat
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2022-12-03 09:50 UTC (2022-12-03 10:50 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1598977883464007680
+- Metrics (at fetch): bookmark 18, impression 0, like 85, quote 0, reply 12, retweet 15
+
+> I think the terminology L2 is confusing since Ethereum itself is a four-layer architecture: application, data, consensus, and network layers. I understand why the L2 semantics seems handy, but I rather prefer calling it what it is: eg an optimistic rollup on top of Ethereum. [pic.x.com/6knGXwgpZp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjC16UiXwAUkDYX.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-02 · Post · It doesn't usually end well when you hire people to tell the world how great you are... there is no 
+
+
+### Post — @pcaversaccio — 2022-12-02 15:21 UTC (2022-12-02 16:21 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1598698944065847302
+- Metrics (at fetch): not returned
+
+> It doesn't usually end well when you hire people to tell the world how great you are... there is no exception for @a16z https://www.businessinsider.com/a16z-future-closes-staff-exit-2022-11?r=US&IR=T [pic.x.com/wqX0YJdgr1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fi-33H3X0AEYnQI.jpg — no alt text provided by author
+
+**Links in post:** https://www.businessinsider.com/a16z-future-closes-staff-exit-2022-11?r=US&IR=T
+
+
+---
+
+## 2022-12-02 · Post · Serious question: what is the purpose of the other chapters? I mean, I just read that anyone files f
+
+
+### Post — @pcaversaccio — 2022-12-02 14:14 UTC (2022-12-02 15:14 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1598681917565681668
+- Metrics (at fetch): not returned
+
+> Serious question: what is the purpose of the other chapters? I mean, I just read that anyone files for Chapter 11 but nobody for eg Chapter 1 😅 https://twitter.com/WatcherGuru/status/1598669280823869442
+
+**Links in post:** https://twitter.com/WatcherGuru/status/1598669280823869442
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1387497871751196672 — 2022-12-02 13:23 UTC (2022-12-02 14:23 WAT)
+    
+    - URL: https://x.com/1387497871751196672/status/1598669280823869442
+    - Metrics (at fetch): not returned
+    
+    > JUST IN: Alex Jones files for Chapter 11 Bankruptcy.
+    
+
+
+---
+
 ## 2022-11-30 · Post · 🫡a reminder that there are many bugs still out there (that one was not a critical one tho, but still
 
 
@@ -30004,10 +34747,1017 @@ Tags (automatic): Smart contract / DeFi
 - URL: https://x.com/pcaversaccio/status/1597955647727075329
 - Metrics (at fetch): bookmark 4, impression 0, like 77, quote 1, reply 2, retweet 2
 
-> 🫡a reminder that there are many bugs still out there (that one was not a critical one tho, but still important to report); you should give it a try and learn a lot by doing it :) https://t.co/y7V1iwYIgW
+> 🫡a reminder that there are many bugs still out there (that one was not a critical one tho, but still important to report); you should give it a try and learn a lot by doing it :) [pic.x.com/y7V1iwYIgW]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Fi0TYyNXgAE5dLp.png — no alt text provided by author
+
+
+---
+
+## 2022-11-30 · Post · Because I was struggling this morning with it: an important reminder that HashMaps in Vyper (i.e. ma
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @pcaversaccio — 2022-11-30 12:17 UTC (2022-11-30 13:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1597927788262354944
+- Metrics (at fetch): not returned
+
+> Because I was struggling this morning with it: an important reminder that HashMaps in Vyper (i.e. mappings in Solidity) are only allowed as state variables! This means you cannot declare a HashMap inside a struct. Either use enum or multiple HashMaps to solve it.
+
+
+---
+
+## 2022-11-30 · Post · These days, it is hard to know what due diligence actually means...
+
+
+### Post — @pcaversaccio — 2022-11-30 09:44 UTC (2022-11-30 10:44 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1597889221918101504
+- Metrics (at fetch): not returned
+
+> These days, it is hard to know what due diligence actually means...
+
+
+---
+
+## 2022-11-29 · Post · 💯 https://twitter.com/jack/status/1595864501437583367
+
+
+### Post — @pcaversaccio — 2022-11-29 11:17 UTC (2022-11-29 12:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1597550405097226240
+- Metrics (at fetch): not returned
+
+> 💯 https://twitter.com/jack/status/1595864501437583367
+
+**Links in post:** https://twitter.com/jack/status/1595864501437583367
+
+**Quoted post (full text):**
+
+    #### Quoted post — @12 — 2022-11-24 19:38 UTC (2022-11-24 20:38 WAT)
+    
+    - URL: https://x.com/12/status/1595864501437583367
+    - Metrics (at fetch): not returned
+    
+    > We need a new mobile OS that’s web-only.
+    
+
+
+---
+
+## 2022-11-29 · Post · Test in prod lmfaoooo [pic.x.com/O2nCHOGI89]
+
+
+### Post — @pcaversaccio — 2022-11-29 08:23 UTC (2022-11-29 09:23 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1597506613661028352
+- Metrics (at fetch): not returned
+
+> Test in prod lmfaoooo [pic.x.com/O2nCHOGI89]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fit7zKLVUAAcKme.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-28 · Post · I would like to quickly highlight that Polygon has still an enforced minimum 30 gwei priority fee - 
+
+
+### Post — @pcaversaccio — 2022-11-28 23:05 UTC (2022-11-29 00:05 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1597365974365532160
+- Metrics (at fetch): not returned
+
+> I would like to quickly highlight that Polygon has still an enforced minimum 30 gwei priority fee - i.e. if you send a transaction with e.g. the default 1.5 gwei priority fee you are essentially screwed because the tx is underpriced. @Mudit__Gupta wen fix? https://github.com/maticnetwork/bor/blob/develop/builder/files/config.toml#L56 [pic.x.com/ttkGIArjdf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fir7xbhWQAADPPp.png — no alt text provided by author
+
+**Links in post:** https://github.com/maticnetwork/bor/blob/develop/builder/files/config.toml#L56
+
+
+---
+
+## 2022-11-28 · Post · 🫡 https://twitter.com/ReutersLegal/status/1597252560221802496
+
+
+### Post — @pcaversaccio — 2022-11-28 15:40 UTC (2022-11-28 16:40 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1597254208993959937
+- Metrics (at fetch): not returned
+
+> 🫡 https://twitter.com/ReutersLegal/status/1597252560221802496
+
+**Links in post:** https://twitter.com/ReutersLegal/status/1597252560221802496
+
+**Quoted post (full text):**
+
+    #### Quoted post — @334944709 — 2022-11-28 15:34 UTC (2022-11-28 16:34 WAT)
+    
+    - URL: https://x.com/334944709/status/1597252560221802496
+    - Metrics (at fetch): not returned
+    
+    > Cryptocurrency lender BlockFi said it was filing for bankruptcy protection in the United States, becoming the latest casualty of the instability in the crypto market after FTX collapsed earlier this month https://reut.rs/3UfFYAP [pic.x.com/wnUTXEIzdm]
+    
+    **Media:**
+    - media `3_1597252345574096896` (details not returned by the API)
+    
+    **Links in post:** https://reut.rs/3UfFYAP
+    
+
+
+---
+
+## 2022-11-28 · Reply · @elonmusk bragging about how everything is bright, meanwhile my notifications... fix that shit pleas
+
+
+### Post — @pcaversaccio — 2022-11-28 10:10 UTC (2022-11-28 11:10 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1597171165927477249
+- Metrics (at fetch): not returned
+
+> @elonmusk bragging about how everything is bright, meanwhile my notifications... fix that shit please [pic.x.com/f0YNQLNsow] https://twitter.com/elonmusk/status/1596718851097755648
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FipKooeWYAAMoFY.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FipKpegWYAACyTR.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FipKqZ5XgAAfCZ3.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/elonmusk/status/1596718851097755648
+
+**Quoted post (full text):**
+
+    #### Quoted post — @44196397 — 2022-11-27 04:13 UTC (2022-11-27 05:13 WAT)
+    
+    - URL: https://x.com/44196397/status/1596718851097755648
+    - Metrics (at fetch): not returned
+    
+    > Slides from my Twitter company talk [pic.x.com/8LLXrwylta]
+    
+    **Media:**
+    - media `3_1596718837344378880` (details not returned by the API)
+    - media `3_1596718837348663297` (details not returned by the API)
+    - media `3_1596718837365440517` (details not returned by the API)
+    - media `3_1596718837348671490` (details not returned by the API)
+    
+
+
+---
+
+## 2022-11-28 · Post · As a funny anecdote, Seaport from @opensea holds 1 wei more than it owes via listings. Why exactly? 
+
+
+### Post — @pcaversaccio — 2022-11-28 08:04 UTC (2022-11-28 09:04 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1597139315271692288
+- Metrics (at fetch): not returned
+
+> As a funny anecdote, Seaport from @opensea holds 1 wei more than it owes via listings. Why exactly? Well, to tell everyone 'that's the wei'! https://etherscan.io/address/0x00000000006c3852cbef3e08e8df289169ede581 [pic.x.com/uVTNbvtv6f] https://twitter.com/bantg/status/1597030784619028483
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FiotvjOXgAAvxDO.jpg — no alt text provided by author
+
+**Links in post:** https://etherscan.io/address/0x00000000006c3852cbef3e08e8df289169ede581, https://twitter.com/bantg/status/1597030784619028483
+
+**Quoted post (full text):**
+
+    #### Quoted post — @108172903 — 2022-11-28 00:53 UTC (2022-11-28 01:53 WAT)
+    
+    - URL: https://x.com/108172903/status/1597030784619028483
+    - Metrics (at fetch): not returned
+    
+    > it appears the contract holds 1 wei more than it owes. how is it possible?
+    >
+    > the contract mints a token when you send ether to it. it doesn't track the token supply, using its own ether balance instead.
+    >
+    > but there are two ways to send ether without triggering a contract.
+    
+
+
+---
+
+## 2022-11-27 · Post · 1/ Let me start a public discussion here wrt the WBTC multisig controller upgrade: the new MultSig c
+
+
+### Post — @pcaversaccio — 2022-11-27 11:37 UTC (2022-11-27 12:37 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1596830511439151104
+- Metrics (at fetch): not returned
+
+> 1/ Let me start a public discussion here wrt the WBTC multisig controller upgrade: the new MultSig contract is an old 4-year-old Kyber multisig contract! It's the exact same contract as the Maker Multisig except they copied the Etherscan verification notes:https://etherscan.io/address/0xB33f8879d4608711cEBb623F293F8Da13B8A37c5#code [pic.x.com/4b1fIWv6iw] https://twitter.com/pcaversaccio/status/1596179831829721089
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FikQ2uGXkAEEQc3.png — no alt text provided by author
+
+**Links in post:** https://etherscan.io/address/0xB33f8879d4608711cEBb623F293F8Da13B8A37c5#code, https://twitter.com/pcaversaccio/status/1596179831829721089
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2022-11-25 16:31 UTC (2022-11-25 17:31 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1596179831829721089
+    - Metrics (at fetch): not returned
+    
+    > So apparently some signers of the WBTC multisig lost their keys. That's more than just slightly concerning IMHO... https://github.com/WrappedBTC/DAO/pull/12 [pic.x.com/tv1m1j875g]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FibFF83WYAEKes1.jpg — no alt text provided by author
+    
+    **Links in post:** https://github.com/WrappedBTC/DAO/pull/12
+    
+
+
+---
+
+## 2022-11-25 · Post · So apparently some signers of the WBTC multisig lost their keys. That's more than just slightly conc
+
+
+### Post — @pcaversaccio — 2022-11-25 16:31 UTC (2022-11-25 17:31 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1596179831829721089
+- Metrics (at fetch): not returned
+
+> So apparently some signers of the WBTC multisig lost their keys. That's more than just slightly concerning IMHO... https://github.com/WrappedBTC/DAO/pull/12 [pic.x.com/tv1m1j875g]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FibFF83WYAEKes1.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/WrappedBTC/DAO/pull/12
+
+
+---
+
+## 2022-11-25 · Post · that's the true spirit we need! https://twitter.com/emilianobonassi/status/1596169493893771265
+
+
+### Post — @pcaversaccio — 2022-11-25 15:56 UTC (2022-11-25 16:56 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1596170984620449792
+- Metrics (at fetch): not returned
+
+> that's the true spirit we need! https://twitter.com/emilianobonassi/status/1596169493893771265
+
+**Links in post:** https://twitter.com/emilianobonassi/status/1596169493893771265
+
+**Quoted post (full text):**
+
+    #### Quoted post — @emilianobonassi — 2022-11-25 15:50 UTC (2022-11-25 16:50 WAT)
+    
+    - URL: https://x.com/emilianobonassi/status/1596169493893771265
+    - Metrics (at fetch): not returned
+    
+    > Reading a lot these days about privacy concerns and performance challenges for Ethereum RPCs
+    >
+    > Welcome Loadbalanceeeer ⚖️🔏
+    >
+    > https://github.com/emilianobonassi/loadbalanceeeer
+    >
+    > a local JSON-RPC load-balancer with opt-in anonymizer via Tor
+    >
+    > 🧵
+    
+    **Links in post:** https://github.com/emilianobonassi/loadbalanceeeer
+    
+
+
+---
+
+## 2022-11-25 · Post · Just received that email. Be careful out there - folks want to get access to your computer via a sim
+
+
+### Post — @pcaversaccio — 2022-11-25 11:04 UTC (2022-11-25 12:04 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1596097522593931268
+- Metrics (at fetch): not returned
+
+> Just received that email. Be careful out there - folks want to get access to your computer via a simple Upwork account sale. Do never let access someone your local computer. [pic.x.com/KTX8RZBCRv]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FiZ6N8bWAAISo_K.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FiZ6OpFXgAIEbis.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-24 · Post · No more metamorphic contracts https://twitter.com/vdWijden/status/1595792080651124737
+
+
+### Post — @pcaversaccio — 2022-11-24 17:38 UTC (2022-11-24 18:38 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1595834132982120454
+- Metrics (at fetch): not returned
+
+> No more metamorphic contracts https://twitter.com/vdWijden/status/1595792080651124737
+
+**Links in post:** https://twitter.com/vdWijden/status/1595792080651124737
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1011915644600799232 — 2022-11-24 14:50 UTC (2022-11-24 15:50 WAT)
+    
+    - URL: https://x.com/1011915644600799232/status/1595792080651124737
+    - Metrics (at fetch): not returned
+    
+    > PSA: WE ARE GOING TO REMOVE SELFDESTRUCT!
+    >
+    > PLEASE DON'T USE SELFDESTRUCT IN NEW CONTRACTS MOVING FORWARD!
+    >
+    > If your contract is broken by this, come and complain here: https://ethereum-magicians.org/t/eip-4758-deactivate-selfdestruct/8710/22
+    
+    **Links in post:** https://ethereum-magicians.org/t/eip-4758-deactivate-selfdestruct/8710/22
+    
+
+
+---
+
+## 2022-11-24 · Post · please don't make any approvals to this contract https://etherscan.io/address/0xdbe2dca9d99adde4b72c
+
+
+### Post — @pcaversaccio — 2022-11-24 10:58 UTC (2022-11-24 11:58 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1595733501369876480
+- Metrics (at fetch): not returned
+
+> please don't make any approvals to this contract https://etherscan.io/address/0xdbe2dca9d99adde4b72c19213b2776c99f6212db#code [pic.x.com/CcNk3drgXt] https://twitter.com/emilianobonassi/status/1595729191323959298
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FiUvKWtXEAA-Qf5.jpg — no alt text provided by author
+
+**Links in post:** https://etherscan.io/address/0xdbe2dca9d99adde4b72c19213b2776c99f6212db#code, https://twitter.com/emilianobonassi/status/1595729191323959298
+
+**Quoted post (full text):**
+
+    #### Quoted post — @emilianobonassi — 2022-11-24 10:41 UTC (2022-11-24 11:41 WAT)
+    
+    - URL: https://x.com/emilianobonassi/status/1595729191323959298
+    - Metrics (at fetch): not returned
+    
+    > .@centre_io $USDC migration, is this legit?
+    >
+    > mandatory after 23 Dec 2022
+    >
+    > email from support@convertkit.com [pic.x.com/yKDWQkUGIi]
+    
+    **Media:**
+    - media `3_1595729185921765377` (details not returned by the API)
+    
+
+
+---
+
+## 2022-11-24 · Post · Sorry but that's a no-go. Will switch now and/or use my own RPC providers. Very uncool! https://twit
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2022-11-24 06:49 UTC (2022-11-24 07:49 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1595670839340539904
+- Metrics (at fetch): not returned
+
+> Sorry but that's a no-go. Will switch now and/or use my own RPC providers. Very uncool! https://twitter.com/WuBlockchain/status/1595615644720173059
+
+**Links in post:** https://twitter.com/WuBlockchain/status/1595615644720173059
+
+**Quoted post (full text):**
+
+    #### Quoted post — @111533746 — 2022-11-24 03:09 UTC (2022-11-24 04:09 WAT)
+    
+    - URL: https://x.com/111533746/status/1595615644720173059
+    - Metrics (at fetch): not returned
+    
+    > ConsenSys announced an update to its privacy policy on November 23 (including metamask infura and more): When you use Infura as your default RPC provider in MetaMask, Infura will collect your IP address and your Ethereum wallet address when you send a transaction. [pic.x.com/cBsqU2374o]
+    
+    **Media:**
+    - media `3_1595615429309132800` (details not returned by the API)
+    
+
+
+---
+
+## 2022-11-23 · Reply · @paradigm did u just kill Akula? [pic.x.com/DYQTKngzjj] https://twitter.com/ErigonEth/status/1595479
+
+
+### Post — @pcaversaccio — 2022-11-23 19:17 UTC (2022-11-23 20:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1595496662201499649
+- Metrics (at fetch): not returned
+
+> @paradigm did u just kill Akula? [pic.x.com/DYQTKngzjj] https://twitter.com/ErigonEth/status/1595479897220055041
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FiRXwjBXEAEqYkW.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/ErigonEth/status/1595479897220055041
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1394239854754549760 — 2022-11-23 18:10 UTC (2022-11-23 19:10 WAT)
+    
+    - URL: https://x.com/1394239854754549760/status/1595479897220055041
+    - Metrics (at fetch): not returned
+    
+    > We are winding the support for Akula project, explanation in the blog post: https://erigon.substack.com/p/winding-down-support-for-akula-project
+    
+    **Links in post:** https://erigon.substack.com/p/winding-down-support-for-akula-project
+    
+
+
+---
+
+## 2022-11-23 · Post · Not sure you are aware of it but two opcodes decide whether the EVM is Turing-complete or not: witho
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2022-11-23 12:17 UTC (2022-11-23 13:17 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1595391154689818625
+- Metrics (at fetch): not returned
+
+> Not sure you are aware of it but two opcodes decide whether the EVM is Turing-complete or not: without JUMP and JUMPI the EVM would be Turing-incomplete (ie only one copy of each contract is allowed to exist in the call stack at any given time).
+
+
+---
+
+## 2022-11-22 · Post · Today Alexey Pertsev has been ordered to stay in jail until Feb. 20 after 103 days already in jail. 
+
+
+### Post — @pcaversaccio — 2022-11-22 21:20 UTC (2022-11-22 22:20 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1595165434965131264
+- Metrics (at fetch): not returned
+
+> Today Alexey Pertsev has been ordered to stay in jail until Feb. 20 after 103 days already in jail. For what exactly? For writing open-source code. @zhusu, @stablekwon, @SBF_FTX &amp; co. are still on the run and nobody got charged. You ask me why I hate legal systems, that's why! [pic.x.com/5JWciNkJvB]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FiMqgkQXEAQdLnI.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-22 · Post · Bye bye 👋 https://twitter.com/tier10k/status/1595140468450410498
+
+
+### Post — @pcaversaccio — 2022-11-22 20:11 UTC (2022-11-22 21:11 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1595148040180203520
+- Metrics (at fetch): not returned
+
+> Bye bye 👋 https://twitter.com/tier10k/status/1595140468450410498
+
+**Links in post:** https://twitter.com/tier10k/status/1595140468450410498
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2361601055 — 2022-11-22 19:41 UTC (2022-11-22 20:41 WAT)
+    
+    - URL: https://x.com/2361601055/status/1595140468450410498
+    - Metrics (at fetch): not returned
+    
+    > [DB] Genesis Has $2.8 Billion in Outstanding Loans on Its Balance Sheet, With About 30% of Its Lending Made to Related Parties Including Its Parent Company DCG: Bloomberg Sources
+    
+
+
+---
+
+## 2022-11-22 · Post · I recently had a vital discussion w/ some BTC maxis about the Ethereum premine. Let me ask the centr
+
+
+### Post — @pcaversaccio — 2022-11-22 17:19 UTC (2022-11-22 18:19 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1595104652491907072
+- Metrics (at fetch): not returned
+
+> I recently had a vital discussion w/ some BTC maxis about the Ethereum premine. Let me ask the central question: Was BTC really a fair launch, given how few people had the chance to even hear about it when a quarter of the supply had already been distributed by the end of 2010?
+
+
+---
+
+## 2022-11-22 · Post · Hacking is binary search by hand.
+
+
+### Post — @pcaversaccio — 2022-11-22 14:04 UTC (2022-11-22 15:04 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1595055541365137411
+- Metrics (at fetch): not returned
+
+> Hacking is binary search by hand.
+
+
+---
+
+## 2022-11-20 · Post · 👀https://github.com/NomicFoundation/slang [pic.x.com/az19tDFlpP]
+
+
+### Post — @pcaversaccio — 2022-11-20 19:29 UTC (2022-11-20 20:29 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1594412605233418245
+- Metrics (at fetch): not returned
+
+> 👀https://github.com/NomicFoundation/slang [pic.x.com/az19tDFlpP]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FiB9xhkXgAEh7-V.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/NomicFoundation/slang
+
+
+---
+
+## 2022-11-18 · Reply · @SBF_FTX https://twitter.com/WatcherGuru/status/1593729946249207811
+
+
+### Post — @pcaversaccio — 2022-11-18 22:25 UTC (2022-11-18 23:25 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1593732074828988416
+- Metrics (at fetch): not returned
+
+> @SBF_FTX https://twitter.com/WatcherGuru/status/1593729946249207811
+
+**Links in post:** https://twitter.com/WatcherGuru/status/1593729946249207811
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1387497871751196672 — 2022-11-18 22:16 UTC (2022-11-18 23:16 WAT)
+    
+    - URL: https://x.com/1387497871751196672/status/1593729946249207811
+    - Metrics (at fetch): not returned
+    
+    > JUST IN: Theranos founder Elizabeth Holmes sentenced to 11 years in prison for fraud.
+    
+
+
+---
+
+## 2022-11-18 · Post · [pic.x.com/jv0tGgr1IA] https://twitter.com/WSJ/status/1593689018763546624
+
+
+### Post — @pcaversaccio — 2022-11-18 22:00 UTC (2022-11-18 23:00 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1593725926273064966
+- Metrics (at fetch): not returned
+
+> [pic.x.com/jv0tGgr1IA] https://twitter.com/WSJ/status/1593689018763546624
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fh4NQspWIAISjwD.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/WSJ/status/1593689018763546624
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3108351 — 2022-11-18 19:34 UTC (2022-11-18 20:34 WAT)
+    
+    - URL: https://x.com/3108351/status/1593689018763546624
+    - Metrics (at fetch): not returned
+    
+    > Breaking: Sam Bankman-Fried sold $300 million FTX shares in a fundraising spree last year, people familiar with the matter say. He told investors it was a reimbursement. https://on.wsj.com/3EGces9
+    
+    **Links in post:** https://on.wsj.com/3EGces9
+    
+
+
+---
+
+## 2022-11-18 · Post · oh boy - really looking forward to the movie. can @netflix do something!? https://twitter.com/Fxhedg
+
+
+### Post — @pcaversaccio — 2022-11-18 11:03 UTC (2022-11-18 12:03 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1593560415065235456
+- Metrics (at fetch): not returned
+
+> oh boy - really looking forward to the movie. can @netflix do something!? https://twitter.com/Fxhedgers/status/1593376360260435968
+
+**Links in post:** https://twitter.com/Fxhedgers/status/1593376360260435968
+
+**Quoted post (full text):**
+
+    #### Quoted post — @31064165 — 2022-11-17 22:51 UTC (2022-11-17 23:51 WAT)
+    
+    - URL: https://x.com/31064165/status/1593376360260435968
+    - Metrics (at fetch): not returned
+    
+    > BAHAMAS GOVT ORDERED BANKMAN-FRIED TO HACK FTX SYSTEM AND TRANSFER ASSETS TO THE BAHAMAS GOVT ACCOUNT: COURT FILING
+    
+
+
+---
+
+## 2022-11-17 · Post · Ok FTX is fraud, but what about all the VCs that invested? Either they are completely stupid or just
+
+
+### Post — @pcaversaccio — 2022-11-17 18:33 UTC (2022-11-17 19:33 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1593311368828145673
+- Metrics (at fetch): not returned
+
+> Ok FTX is fraud, but what about all the VCs that invested? Either they are completely stupid or just vastly incompetent - in either case, this proves that there is no smart money. Investing billions in such a shitshow w/o proper due diligence - can't believe that... https://twitter.com/GRDecter/status/1593272102047580161
+
+**Links in post:** https://twitter.com/GRDecter/status/1593272102047580161
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1281457267582177280 — 2022-11-17 15:57 UTC (2022-11-17 16:57 WAT)
+    
+    - URL: https://x.com/1281457267582177280/status/1593272102047580161
+    - Metrics (at fetch): not returned
+    
+    > I read the 30 page FTX Bankruptcy court filing. 
+    >
+    > How bad were FTX's internal controls?
+    >
+    > Here are the worst examples 👇
+    
+
+
+---
+
+## 2022-11-17 · Post · WTF [pic.x.com/Haw3aFw074]
+
+
+### Post — @pcaversaccio — 2022-11-17 15:59 UTC (2022-11-17 16:59 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1593272561986670593
+- Metrics (at fetch): not returned
+
+> WTF [pic.x.com/Haw3aFw074]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fhxw85aWQAAooJB.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-17 · Post · ☠️💀 https://twitter.com/DeItaone/status/1593227306411048960
+
+
+### Post — @pcaversaccio — 2022-11-17 13:05 UTC (2022-11-17 14:05 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1593228863009886209
+- Metrics (at fetch): not returned
+
+> ☠️💀 https://twitter.com/DeItaone/status/1593227306411048960
+
+**Links in post:** https://twitter.com/DeItaone/status/1593227306411048960
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2704294333 — 2022-11-17 12:59 UTC (2022-11-17 13:59 WAT)
+    
+    - URL: https://x.com/2704294333/status/1593227306411048960
+    - Metrics (at fetch): not returned
+    
+    > FTX TRADING'S NEW CEO JOHN RAY SAYS 'NEVER IN MY CAREER HAVE I SEEN SUCH A COMPLETE FAILURE OF CORPORATE CONTROLS AND SUCH A COMPLETE ABSENCE OF TRUSTWORTHY FINANCIAL INFORMATION AS OCCURRED HERE' -- COURT FILING
+    
+
+
+---
+
+## 2022-11-16 · Post · 👀 [pic.x.com/Qay4SfJyEA]
+
+
+### Post — @pcaversaccio — 2022-11-16 17:07 UTC (2022-11-16 18:07 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1592927231944581124
+- Metrics (at fetch): not returned
+
+> 👀 [pic.x.com/Qay4SfJyEA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fhs21mJXgAAWcJp.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-16 · Post · I mean, that can't be true ... or can it? [pic.x.com/UwJlhaIj1F]
+
+
+### Post — @pcaversaccio — 2022-11-16 15:46 UTC (2022-11-16 16:46 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1592906972634165248
+- Metrics (at fetch): not returned
+
+> I mean, that can't be true ... or can it? [pic.x.com/UwJlhaIj1F]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FhskSzWXgAcNrOy.png — no alt text provided by author
+
+
+---
+
+## 2022-11-16 · Post · Let me add: Actually, there are 2**96 private keys for each Ethereum address. So 2**96 chances to br
+
+
+### Post — @pcaversaccio — 2022-11-16 15:05 UTC (2022-11-16 16:05 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1592896661382393856
+- Metrics (at fetch): not returned
+
+> Let me add: Actually, there are 2**96 private keys for each Ethereum address. So 2**96 chances to break it :)
+>
+> Caveat: For the nitpicking cryptographer, let's assume everything is really random and a pre-image always exists 😉. https://twitter.com/pcaversaccio/status/1592843725210017792
+
+**Links in post:** https://twitter.com/pcaversaccio/status/1592843725210017792
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2022-11-16 11:35 UTC (2022-11-16 12:35 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/1592843725210017792
+    - Metrics (at fetch): not returned
+    
+    > Due to many recent misconceptions on quantum computers, let me clarify: Assuming a working Shor algorithm, this will break elliptic curves completely. However, hashing functions like keccak256 will be fine!
+    
+
+
+---
+
+## 2022-11-16 · Post · 🫡 https://twitter.com/GenesisTrading/status/1592867206722859008
+
+
+### Post — @pcaversaccio — 2022-11-16 14:00 UTC (2022-11-16 15:00 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1592880351021395968
+- Metrics (at fetch): not returned
+
+> 🫡 https://twitter.com/GenesisTrading/status/1592867206722859008
+
+**Links in post:** https://twitter.com/GenesisTrading/status/1592867206722859008
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2709931398 — 2022-11-16 13:08 UTC (2022-11-16 14:08 WAT)
+    
+    - URL: https://x.com/2709931398/status/1592867206722859008
+    - Metrics (at fetch): not returned
+    
+    > However, FTX has created unprecedented market turmoil, resulting in abnormal withdrawal requests which have exceeded our current liquidity.
+    
+
+
+---
+
+## 2022-11-16 · Post · the first contagion waves are hitting https://twitter.com/lawmaster/status/1592870524941922305
+
+
+### Post — @pcaversaccio — 2022-11-16 13:58 UTC (2022-11-16 14:58 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1592879878709604359
+- Metrics (at fetch): not returned
+
+> the first contagion waves are hitting https://twitter.com/lawmaster/status/1592870524941922305
+
+**Links in post:** https://twitter.com/lawmaster/status/1592870524941922305
+
+**Quoted post (full text):**
+
+    #### Quoted post — @16709601 — 2022-11-16 13:21 UTC (2022-11-16 14:21 WAT)
+    
+    - URL: https://x.com/16709601/status/1592870524941922305
+    - Metrics (at fetch): not returned
+    
+    > Gemini Earn also pausing withdrawals
+    >
+    > https://www.gemini.com/blog/an-important-message-regarding-gemini-earn [pic.x.com/T7QORxZkQh]
+    
+    **Media:**
+    - media `3_1592870260692193282` (details not returned by the API)
+    
+    **Links in post:** https://www.gemini.com/blog/an-important-message-regarding-gemini-earn
+    
+
+
+---
+
+## 2022-11-16 · Post · Due to many recent misconceptions on quantum computers, let me clarify: Assuming a working Shor algo
+
+
+### Post — @pcaversaccio — 2022-11-16 11:35 UTC (2022-11-16 12:35 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1592843725210017792
+- Metrics (at fetch): not returned
+
+> Due to many recent misconceptions on quantum computers, let me clarify: Assuming a working Shor algorithm, this will break elliptic curves completely. However, hashing functions like keccak256 will be fine!
+
+
+---
+
+## 2022-11-16 · Post · just discovered this bridge transactions explorer: https://socketscan.io. Pretty neat - give it a tr
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @pcaversaccio — 2022-11-16 09:30 UTC (2022-11-16 10:30 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1592812438943981568
+- Metrics (at fetch): not returned
+
+> just discovered this bridge transactions explorer: https://socketscan.io. Pretty neat - give it a try.
+
+**Links in post:** https://socketscan.io
+
+
+---
+
+## 2022-11-15 · Post · You can't make that shit up - Sam talking about the latest shitshows &amp; Enron being a bad example
+
+
+### Post — @pcaversaccio — 2022-11-15 23:10 UTC (2022-11-16 00:10 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1592656227372498944
+- Metrics (at fetch): not returned
+
+> You can't make that shit up - Sam talking about the latest shitshows &amp; Enron being a bad example lmfaoo. @cobie &amp; @ledgerstatus you will love that!
+>
+> This is actually a real video: https://www.youtube.com/watch?v=0_hq3I7qv2g
+>
+> PS: sorry for my bad clipping - the first time a did this [pic.x.com/8m3g2exP2N]
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1592655705189875712/pu/img/rFSSkHdJZ4eR-Hvd.jpg — no alt text provided by author
+
+**Links in post:** https://www.youtube.com/watch?v=0_hq3I7qv2g
+
+
+---
+
+## 2022-11-15 · Post · ... [pic.x.com/bGihHynHwL] https://twitter.com/disclosetv/status/1592577851651686400
+
+
+### Post — @pcaversaccio — 2022-11-15 21:55 UTC (2022-11-15 22:55 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1592637377415385090
+- Metrics (at fetch): not returned
+
+> ... [pic.x.com/bGihHynHwL] https://twitter.com/disclosetv/status/1592577851651686400
+
+**Media:**
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1592637326307606528/pu/img/kPEt2nrxR3UPhRxi.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/disclosetv/status/1592577851651686400
+
+**Quoted post (full text):**
+
+    #### Quoted post — @15392486 — 2022-11-15 17:58 UTC (2022-11-15 18:58 WAT)
+    
+    - URL: https://x.com/15392486/status/1592577851651686400
+    - Metrics (at fetch): not returned
+    
+    > JUST IN - Crypto lender BlockFi prepares for possible bankruptcy — WSJ
+    
+
+
+---
+
+## 2022-11-15 · Post · Ok for once I make a prediction - by end of this week BlockFi will have filed for bankruptcy.
+
+
+### Post — @pcaversaccio — 2022-11-15 21:19 UTC (2022-11-15 22:19 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1592628343492718594
+- Metrics (at fetch): not returned
+
+> Ok for once I make a prediction - by end of this week BlockFi will have filed for bankruptcy.
+
+
+---
+
+## 2022-11-15 · Post · You still used fucking customer funds for Alameda dude https://twitter.com/SBF_FTX/status/1592567502
+
+
+### Post — @pcaversaccio — 2022-11-15 17:39 UTC (2022-11-15 18:39 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1592573103032631297
+- Metrics (at fetch): not returned
+
+> You still used fucking customer funds for Alameda dude https://twitter.com/SBF_FTX/status/1592567502911205377
+
+**Links in post:** https://twitter.com/SBF_FTX/status/1592567502911205377
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1110877798820777986 — 2022-11-15 17:17 UTC (2022-11-15 18:17 WAT)
+    
+    - URL: https://x.com/1110877798820777986/status/1592567502911205377
+    - Metrics (at fetch): not returned
+    
+    > 12) To the best of my knowledge, as of post-11/7, with the potential for errors:
+    >
+    > a) Alameda had more assets than liabilities M2M (but not liquid!)
+    > b) Alameda had margin position on FTX Intl
+    > c) FTX US had enough to repay all customers
+    >
+    > Not everyone necessarily agrees with this
+    
+
+
+---
+
+## 2022-11-14 · Post · so everyone is talking about proof of reserves via Merkle trees. Fine, but what about proof of liabi
+
+
+### Post — @pcaversaccio — 2022-11-14 15:11 UTC (2022-11-14 16:11 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1592173393457344512
+- Metrics (at fetch): not returned
+
+> so everyone is talking about proof of reserves via Merkle trees. Fine, but what about proof of liabilities? I mean the reserves mean nothing if the liabilities are just devastating. @cz_binance mentioned today that @VitalikButerin is working on a new approach. Your thoughts?
+
+
+---
+
+## 2022-11-14 · Post · while you were whining, I was building. You know anon, talk is cheap, show me the code. So I am happ
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @pcaversaccio — 2022-11-14 10:43 UTC (2022-11-14 11:43 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1592105964253028353
+- Metrics (at fetch): not returned
+
+> while you were whining, I was building. You know anon, talk is cheap, show me the code. So I am happy to release today my ♻️Vyper version of a modern and gas-efficient ERC-721 + EIP-4494 (also known as permit for NFTs) implementation. https://github.com/pcaversaccio/snekmate/blob/main/src/tokens/ERC721.vy [pic.x.com/rm33LGNtYT]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FhhL725UoAAE115.jpg — no alt text provided by author
+
+**Links in post:** https://github.com/pcaversaccio/snekmate/blob/main/src/tokens/ERC721.vy
+
+
+---
+
+## 2022-11-13 · Post · A FUCKING IMPORTANT REMINDER! Ethereum hot swapped an entire network in production 2 months ago and 
+
+
+### Post — @pcaversaccio — 2022-11-13 10:46 UTC (2022-11-13 11:46 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1591744307215605764
+- Metrics (at fetch): not returned
+
+> A FUCKING IMPORTANT REMINDER! Ethereum hot swapped an entire network in production 2 months ago and I'm sorry for you if you can't understand that feat.
+
+
+---
+
+## 2022-11-13 · Post · STFU https://twitter.com/KyleLDavies/status/1591704172600397824
+
+
+### Post — @pcaversaccio — 2022-11-13 09:50 UTC (2022-11-13 10:50 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1591730163003592705
+- Metrics (at fetch): not returned
+
+> STFU https://twitter.com/KyleLDavies/status/1591704172600397824
+
+**Links in post:** https://twitter.com/KyleLDavies/status/1591704172600397824
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1479436486957322244 — 2022-11-13 08:07 UTC (2022-11-13 09:07 WAT)
+    
+    - URL: https://x.com/1479436486957322244/status/1591704172600397824
+    - Metrics (at fetch): not returned
+    
+    > The universe works in mysterious ways. Over the past year, I’ve seen the highest high and lowest low of my life. I know many reading this have as well.
+    >
+    > Humanity, community, happiness are worth it. Love.
+    
+
+
+---
+
+## 2022-11-13 · Post · Wait WHAT? https://twitter.com/kris/status/1591605600638881792
+
+
+### Post — @pcaversaccio — 2022-11-13 09:35 UTC (2022-11-13 10:35 WAT)
+
+- URL: https://x.com/pcaversaccio/status/1591726557214965760
+- Metrics (at fetch): not returned
+
+> Wait WHAT? https://twitter.com/kris/status/1591605600638881792
+
+**Links in post:** https://twitter.com/kris/status/1591605600638881792
+
+**Quoted post (full text):**
+
+    #### Quoted post — @84850888 — 2022-11-13 01:35 UTC (2022-11-13 02:35 WAT)
+    
+    - URL: https://x.com/84850888/status/1591605600638881792
+    - Metrics (at fetch): not returned
+    
+    > @ledgerstatus @jconorgrogan It was supposed to be a move to a new cold storage address, but was sent to a whitelisted external exchange address. We worked with Gate team and the funds were subsequently returned to our cold storage. New process and features were implemented to prevent this from reoccurring.
+    
 
 
 ---

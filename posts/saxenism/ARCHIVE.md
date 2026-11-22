@@ -1,6 +1,6 @@
 # @saxenism — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 1188
 - Conversations/threads: 903
@@ -16,7 +16,7 @@ _Generated 2026-11-21 from the X API (full-archive search + timeline). Every pos
 ### Post — @saxenism — 2026-11-21 05:36 UTC (2026-11-21 06:36 WAT)
 
 - URL: https://x.com/saxenism/status/2124014069644701728
-- Metrics (at fetch): bookmark 0, impression 42, like 1, quote 0, reply 0, retweet 0
+- Metrics (at fetch): bookmark 4, impression 643, like 19, quote 0, reply 0, retweet 0
 
 > It was a pleasure speaking at @summit_defi and sharing my understanding of the real nature of TEEs, the actual guarantees they provide and secure ways of leveraging TEEs in your web3 protocols.
 >
@@ -7938,9 +7938,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1981269826497892352 — 2026-04-29 11:45 UTC (2026-04-29 12:45 WAT)
+    #### Quoted post — @DefimonAlerts — 2026-04-29 11:45 UTC (2026-04-29 12:45 WAT)
     
-    - URL: https://x.com/1981269826497892352/status/2049454912962977815
+    - URL: https://x.com/DefimonAlerts/status/2049454912962977815
     - Metrics (at fetch): bookmark 23, impression 12597, like 92, quote 4, reply 7, retweet 10
     
     > 💬 Onchain Message:
@@ -8256,9 +8256,9 @@ Tags (automatic): Smart contract / DeFi, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1981269826497892352 — 2026-04-27 09:40 UTC (2026-04-27 10:40 WAT)
+    #### Quoted post — @DefimonAlerts — 2026-04-27 09:40 UTC (2026-04-27 10:40 WAT)
     
-    - URL: https://x.com/1981269826497892352/status/2048698708309705069
+    - URL: https://x.com/DefimonAlerts/status/2048698708309705069
     - Metrics (at fetch): bookmark 41, impression 14208, like 49, quote 14, reply 5, retweet 3
     
     > 🚨 @Singularity_Fi  - Loss ~$413K (2026-04-26)

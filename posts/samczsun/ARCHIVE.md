@@ -1,9 +1,9 @@
 # @samczsun — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 317
-- Conversations/threads: 222
+- Posts in this file: 364
+- Conversations/threads: 269
 - Oldest post captured: 2020-03-13
 - Newest post captured: 2026-11-04
 
@@ -4892,7 +4892,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2023-03-18 22:43 UTC (2023-03-18 23:43 WAT)
 
 - URL: https://x.com/samczsun/status/1637223103255441408
-- Metrics (at fetch): bookmark 88, impression 115582, like 775, quote 17, reply 20, retweet 69
+- Metrics (at fetch): bookmark 88, impression 115586, like 775, quote 17, reply 20, retweet 69
 
 > &gt;ask gpt4 to audit contract
 > &gt;cant find bug
@@ -4908,13 +4908,152 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2023-03-05 · Post · come say hi https://t.co/ZV6cgcf5ob
+
+
+### Post — @samczsun — 2023-03-05 08:03 UTC (2023-03-05 09:03 WAT)
+
+- URL: https://x.com/samczsun/status/1632290748858261504
+- Metrics (at fetch): bookmark 2, impression 42704, like 181, quote 0, reply 10, retweet 10
+
+> come say hi https://t.co/ZV6cgcf5ob
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FqcPx_AakAIXSun.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-22 · Post · it's important to document your code https://t.co/QxW2xq2ISM
+
+
+### Post — @samczsun — 2023-02-22 15:25 UTC (2023-02-22 16:25 WAT)
+
+- URL: https://x.com/samczsun/status/1628415735331446784
+- Metrics (at fetch): bookmark 2, impression 25578, like 132, quote 1, reply 2, retweet 11
+
+> it's important to document your code https://t.co/QxW2xq2ISM
+
+**Quoted post (full text):**
+
+    #### Quoted post — @980750130931552256 — 2023-02-22 09:59 UTC (2023-02-22 10:59 WAT)
+    
+    - URL: https://x.com/980750130931552256/status/1628333715712516097
+    - Metrics (at fetch): bookmark 6, impression 28012, like 45, quote 6, reply 4, retweet 2
+    
+    > @samczsun @avalancheavax Nice of them to use console.log when they attack.
+    > Maybe we can use that to revert the next time: https://t.co/a3dgchpSJk
+    
+    **Media:**
+    - media `3_1628333597659697153` (details not returned by the API)
+    
+
+
+---
+
+## 2023-02-21 · Post · Thank you to the @avalancheavax team for both re-introducing JS Tracers and for providing an archive
+
+
+### Post — @samczsun — 2023-02-21 23:08 UTC (2023-02-22 00:08 WAT)
+
+- URL: https://x.com/samczsun/status/1628169925289463810
+- Metrics (at fetch): bookmark 13, impression 20573, like 140, quote 1, reply 6, retweet 16
+
+> Thank you to the @avalancheavax team for both re-introducing JS Tracers and for providing an archive node to trace against. Transactions on Avalanche are now fully supported on OpenChain! Try it out here:
+>
+> https://t.co/wFltWxm20H
+
+
+---
+
+## 2023-02-21 · Post · monetizing testnet eth https://t.co/h9RuPWtwAv
+
+
+### Post — @samczsun — 2023-02-21 18:56 UTC (2023-02-21 19:56 WAT)
+
+- URL: https://x.com/samczsun/status/1628106457856999446
+- Metrics (at fetch): bookmark 2, impression 20300, like 101, quote 3, reply 4, retweet 10
+
+> monetizing testnet eth https://t.co/h9RuPWtwAv
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FpgyMg4WAAcFMrO.jpg — no alt text provided by author
+
+
+---
+
+## 2023-02-13 · Post · I've released a new tool for working with ABI-encoded data! Just paste in any transaction data and i
+
+
+### Post — @samczsun — 2023-02-13 09:25 UTC (2023-02-13 10:25 WAT)
+
+- URL: https://x.com/samczsun/status/1625063659981647875
+- Metrics (at fetch): bookmark 118, impression 45751, like 428, quote 5, reply 14, retweet 73
+
+> I've released a new tool for working with ABI-encoded data! Just paste in any transaction data and it'll look up the function signature, or provide you with a best-effort reconstruction. Try it out: https://t.co/dyqo4pMkpM https://t.co/VG6TeWTLyd
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fo1ioKWaQAAdwlv.png — no alt text provided by author
+
+
+---
+
+## 2023-02-09 · Post · your move, @gakonst https://t.co/Zqn4LR3KoA
+
+
+### Post — @samczsun — 2023-02-09 06:44 UTC (2023-02-09 07:44 WAT)
+
+- URL: https://x.com/samczsun/status/1623573547225608192
+- Metrics (at fetch): bookmark 1, impression 21524, like 56, quote 0, reply 5, retweet 1
+
+> your move, @gakonst https://t.co/Zqn4LR3KoA
+
+**Quoted post (full text):**
+
+    #### Quoted post — @709822647652196353 — 2023-02-09 04:26 UTC (2023-02-09 05:26 WAT)
+    
+    - URL: https://x.com/709822647652196353/status/1623538784016175104
+    - Metrics (at fetch): bookmark 31, impression 125664, like 518, quote 17, reply 22, retweet 18
+    
+    > my brother, who is a dev of some sort but has never stepped foot anywhere near crypto, remarked to me yesterday offhandedly that every single person person he knew that knew rust was either a catgirl or a femboy
+    
+
+
+---
+
+## 2023-02-06 · Post · The transaction tracer has moved! The new frontend is hosted at https://t.co/7ryx3DIYrR, and old URL
+
+
+### Post — @samczsun — 2023-02-06 04:40 UTC (2023-02-06 05:40 WAT)
+
+- URL: https://x.com/samczsun/status/1622455250467831808
+- Metrics (at fetch): bookmark 39, impression 23162, like 125, quote 1, reply 5, retweet 29
+
+> The transaction tracer has moved! The new frontend is hosted at https://t.co/7ryx3DIYrR, and old URLs should redirect until my infra goes down. If you link out to the old host, please consider updating to use the new one!
+
+
+---
+
+## 2023-02-05 · Post · kinda wild to see someone do the sideshow bob steps on rakes meme in real time
+
+
+### Post — @samczsun — 2023-02-05 10:26 UTC (2023-02-05 11:26 WAT)
+
+- URL: https://x.com/samczsun/status/1622179941457559553
+- Metrics (at fetch): bookmark 1, impression 24027, like 30, quote 0, reply 3, retweet 1
+
+> kinda wild to see someone do the sideshow bob steps on rakes meme in real time
+
+
+---
+
 ## 2023-02-01 · Thread · It appears that BonqDAO was hit by an extremely sophisticated attack in which the attacker said "btw
 
 
 ### Post — @samczsun — 2023-02-01 22:54 UTC (2023-02-01 23:54 WAT)
 
 - URL: https://x.com/samczsun/status/1620918455468982272
-- Metrics (at fetch): bookmark 42, impression 117023, like 375, quote 11, reply 26, retweet 56
+- Metrics (at fetch): bookmark 42, impression 117025, like 376, quote 11, reply 26, retweet 56
 
 > It appears that BonqDAO was hit by an extremely sophisticated attack in which the attacker said "btw 1 ALBT = 5 billion MATIC now" and Bonq said "ok" [pic.x.com/WwdYAn9EL4]
 
@@ -4952,7 +5091,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2023-01-28 08:44 UTC (2023-01-28 09:44 WAT)
 
 - URL: https://x.com/samczsun/status/1619255000546557953
-- Metrics (at fetch): bookmark 0, impression 22777, like 108, quote 0, reply 11, retweet 2
+- Metrics (at fetch): bookmark 0, impression 22778, like 108, quote 0, reply 11, retweet 2
 
 > new season of attack on titan looks great https://t.co/mzFME9qImL
 
@@ -4970,6 +5109,72 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2023-01-27 · Post · what the fuck are verified views lmao
+
+
+### Post — @samczsun — 2023-01-27 18:37 UTC (2023-01-27 19:37 WAT)
+
+- URL: https://x.com/samczsun/status/1619041848714223616
+- Metrics (at fetch): bookmark 1, impression 42803, like 89, quote 1, reply 21, retweet 5
+
+> what the fuck are verified views lmao
+
+
+---
+
+## 2023-01-25 · Post · Major update to the signature database!
+
+
+### Post — @samczsun — 2023-01-25 08:19 UTC (2023-01-25 09:19 WAT)
+
+- URL: https://x.com/samczsun/status/1618161664624594945
+- Metrics (at fetch): bookmark 36, impression 30702, like 184, quote 3, reply 9, retweet 26
+
+> Major update to the signature database!
+>
+> First of all, it has a new home here: https://t.co/HORVU0KLs1
+>
+> It's also entirely open source! The code is on GitHub (https://t.co/WsguK7DVTp
+> ), while the database can be exported (https://t.co/A3WWJcMvWd). https://t.co/BkHrROCXWg
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FnTdIfcaMAEnmhD.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FnTdL2PaMAApkxa.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-18 · Post · https://t.co/Gw0GAa3syD https://t.co/LO6SFM3iNf
+
+
+### Post — @samczsun — 2023-01-18 22:22 UTC (2023-01-18 23:22 WAT)
+
+- URL: https://x.com/samczsun/status/1615837023243493376
+- Metrics (at fetch): bookmark 3, impression 33783, like 194, quote 0, reply 7, retweet 13
+
+> https://t.co/Gw0GAa3syD https://t.co/LO6SFM3iNf
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FmybNZiXoCUhWMz.jpg — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @116328126 — 2023-01-18 22:20 UTC (2023-01-18 23:20 WAT)
+    
+    - URL: https://x.com/116328126/status/1615836519637610496
+    - Metrics (at fetch): bookmark 11, impression 79147, like 166, quote 11, reply 92, retweet 6
+    
+    > 268/268
+    >
+    > Time to go before the thread consumes me along with spending way too much time generating AI art ahhhhh I'm threaddddinnng! https://t.co/rIAmAJwN8H
+    
+    **Media:**
+    - media `3_1615836511278333953` (details not returned by the API)
+    
+
+
+---
+
 ## 2023-01-16 · Reply · @pendle_fi @nansen_intern @nansen_ai @ASvanevik not me but would be nice if it were the case 🥲
 
 
@@ -4983,7 +5188,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2023-01-09 · Post · when im trying to figure out which vpn server will bypass the geoblock https://t.co/0bJPeAycYu
+## 2023-01-09 · Post · when im trying to figure out which vpn server will bypass the geoblock [pic.x.com/0bJPeAycYu]
 
 
 ### Post — @samczsun — 2023-01-09 22:46 UTC (2023-01-09 23:46 WAT)
@@ -4991,10 +5196,200 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/samczsun/status/1612581586733781002
 - Metrics (at fetch): bookmark 16, impression 37692, like 411, quote 1, reply 18, retweet 45
 
-> when im trying to figure out which vpn server will bypass the geoblock https://t.co/0bJPeAycYu
+> when im trying to figure out which vpn server will bypass the geoblock [pic.x.com/0bJPeAycYu]
 
 **Media:**
-- video:  — no alt text provided by author
+- video: https://pbs.twimg.com/ext_tw_video_thumb/1612581523756306438/pu/img/zCYjpbOij13vMoN7.jpg — no alt text provided by author
+
+
+---
+
+## 2023-01-06 · Post · does reviewing solana programs just require more context switching than ethereum contracts or does i
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2023-01-06 03:27 UTC (2023-01-06 04:27 WAT)
+
+- URL: https://x.com/samczsun/status/1611202679988178944
+- Metrics (at fetch): not returned
+
+> does reviewing solana programs just require more context switching than ethereum contracts or does it get better with time because holy shit i feel like im juggling 8 different files just to follow a single function
+
+
+---
+
+## 2023-01-02 · Post · if you buy the cybertruck you're gonna get cyberbullied https://twitter.com/wholemars/status/1609421
+
+
+### Post — @samczsun — 2023-01-02 01:04 UTC (2023-01-02 02:04 WAT)
+
+- URL: https://x.com/samczsun/status/1609717243927232512
+- Metrics (at fetch): not returned
+
+> if you buy the cybertruck you're gonna get cyberbullied https://twitter.com/wholemars/status/1609421824605184000
+
+**Links in post:** https://twitter.com/wholemars/status/1609421824605184000
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1263491240336769026 — 2023-01-01 05:30 UTC (2023-01-01 06:30 WAT)
+    
+    - URL: https://x.com/1263491240336769026/status/1609421824605184000
+    - Metrics (at fetch): not returned
+    
+    > For the first time in 100 years, the competition is coming for legacy auto 
+    >
+    > Welcome to the year of the Cybertruck
+    >
+    > [pic.x.com/tE7QBqPfDm]
+    
+    **Media:**
+    - media `7_1583819030489493506` (details not returned by the API)
+    
+
+
+---
+
+## 2022-12-27 · Post · https://www.courtlistener.com/docket/66683000/united-states-v-eisenberg/ [pic.x.com/L4CtZWdIf5] http
+
+
+### Post — @samczsun — 2022-12-27 22:26 UTC (2022-12-27 23:26 WAT)
+
+- URL: https://x.com/samczsun/status/1607865463421407232
+- Metrics (at fetch): not returned
+
+> https://www.courtlistener.com/docket/66683000/united-states-v-eisenberg/ [pic.x.com/L4CtZWdIf5] https://twitter.com/SummersThings/status/1607861933322952709
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FlBJGv5aEAAnW6u.jpg — no alt text provided by author
+
+**Links in post:** https://www.courtlistener.com/docket/66683000/united-states-v-eisenberg/, https://twitter.com/SummersThings/status/1607861933322952709
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1471998857894666245 — 2022-12-27 22:12 UTC (2022-12-27 23:12 WAT)
+    
+    - URL: https://x.com/1471998857894666245/status/1607861933322952709
+    - Metrics (at fetch): not returned
+    
+    > Avraham "Avi" Eisenberg @avi_eisen was arrested yesterday in Puerto Rico and charged with market manipulation offenses. [pic.x.com/Vwmnbowll0]
+    
+    **Media:**
+    - media `3_1607861684969902082` (details not returned by the API)
+    
+
+
+---
+
+## 2022-12-27 · Post · [pic.x.com/a2pNXQ4JVI] https://twitter.com/dril/status/831805955402776576
+
+
+### Post — @samczsun — 2022-12-27 10:22 UTC (2022-12-27 11:22 WAT)
+
+- URL: https://x.com/samczsun/status/1607683347291176964
+- Metrics (at fetch): not returned
+
+> [pic.x.com/a2pNXQ4JVI] https://twitter.com/dril/status/831805955402776576
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fk-jd82aAAIXYqE.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/dril/status/831805955402776576
+
+**Quoted post (full text):**
+
+    #### Quoted post — @16298441 — 2017-02-15 10:02 UTC (2017-02-15 11:02 WAT)
+    
+    - URL: https://x.com/16298441/status/831805955402776576
+    - Metrics (at fetch): not returned
+    
+    > issuing correction on a previous post of mine, regarding the terror group ISIL. you do not, under any circumstances, "gotta hand it to them"
+    
+
+
+---
+
+## 2022-12-25 · Post · the haters simply do not understand [pic.x.com/Na2Jt3mlKu]
+
+
+### Post — @samczsun — 2022-12-25 07:04 UTC (2022-12-25 08:04 WAT)
+
+- URL: https://x.com/samczsun/status/1606908622466068480
+- Metrics (at fetch): not returned
+
+> the haters simply do not understand [pic.x.com/Na2Jt3mlKu]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkzizGbaEAEUTFg.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-24 · Post · oh this was actually really helpful thank you for explaining [pic.x.com/Rjgy0a1kD5] https://twitter.
+
+
+### Post — @samczsun — 2022-12-24 04:20 UTC (2022-12-24 05:20 WAT)
+
+- URL: https://x.com/samczsun/status/1606505120224931842
+- Metrics (at fetch): not returned
+
+> oh this was actually really helpful thank you for explaining [pic.x.com/Rjgy0a1kD5] https://twitter.com/samczsun/status/1606497518954905600
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fktz0PFUAAAwoum.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/samczsun/status/1606497518954905600
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2022-12-24 03:50 UTC (2022-12-24 04:50 WAT)
+    
+    - URL: https://x.com/samczsun/status/1606497518954905600
+    - Metrics (at fetch): not returned
+    
+    > the very first tweet in my timeline is always an ad now. new tweets get inserted below it. what in the absolute fuck
+    
+
+
+---
+
+## 2022-12-24 · Post · the very first tweet in my timeline is always an ad now. new tweets get inserted below it. what in t
+
+
+### Post — @samczsun — 2022-12-24 03:50 UTC (2022-12-24 04:50 WAT)
+
+- URL: https://x.com/samczsun/status/1606497518954905600
+- Metrics (at fetch): not returned
+
+> the very first tweet in my timeline is always an ad now. new tweets get inserted below it. what in the absolute fuck
+
+
+---
+
+## 2022-12-23 · Post · "why are you still awake it's almost 1am" sorry i dont go to sleep until at least 14pm
+
+
+### Post — @samczsun — 2022-12-23 10:45 UTC (2022-12-23 11:45 WAT)
+
+- URL: https://x.com/samczsun/status/1606239671544999937
+- Metrics (at fetch): not returned
+
+> "why are you still awake it's almost 1am" sorry i dont go to sleep until at least 14pm
+
+
+---
+
+## 2022-12-21 · Post · my favorite part about working with @transmissions11 is when he goes "it's transmittin' time" and tr
+
+
+### Post — @samczsun — 2022-12-21 08:26 UTC (2022-12-21 09:26 WAT)
+
+- URL: https://x.com/samczsun/status/1605479894401445890
+- Metrics (at fetch): not returned
+
+> my favorite part about working with @transmissions11 is when he goes "it's transmittin' time" and transmits all over my codebase
 
 
 ---
@@ -5008,6 +5403,488 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): not returned
 
 > no one tell elon about tweet-to-earn
+
+
+---
+
+## 2022-12-21 · Post · elon will say something like "we need to cut costs to increase runway or we're dead" and you'll be l
+
+
+### Post — @samczsun — 2022-12-21 06:21 UTC (2022-12-21 07:21 WAT)
+
+- URL: https://x.com/samczsun/status/1605448235891363840
+- Metrics (at fetch): not returned
+
+> elon will say something like "we need to cut costs to increase runway or we're dead" and you'll be like "wow hey that sounds pretty reasonable" and then you find out the way he's cutting costs is by refusing to pay rent
+
+
+---
+
+## 2022-12-21 · Post · also its so weird hearing elon and geohot describing what is essentially turning off a feature flag 
+
+
+### Post — @samczsun — 2022-12-21 06:14 UTC (2022-12-21 07:14 WAT)
+
+- URL: https://x.com/samczsun/status/1605446586196033536
+- Metrics (at fetch): not returned
+
+> also its so weird hearing elon and geohot describing what is essentially turning off a feature flag as a huge engineering lift. like the login modal or surfacing liked tweets in the timeline. or existing feature like tweet view counts (analytics?)
+
+
+---
+
+## 2022-12-21 · Post · why does this space sound like geohot doing standup with elon like "oh yeah we just deprecated timel
+
+
+### Post — @samczsun — 2022-12-21 06:11 UTC (2022-12-21 07:11 WAT)
+
+- URL: https://x.com/samczsun/status/1605445812179177472
+- Metrics (at fetch): not returned
+
+> why does this space sound like geohot doing standup with elon like "oh yeah we just deprecated timeline mixer"
+
+
+---
+
+## 2022-12-19 · Post · option for autocorrect that keeps stuff in lowercase and doesnt put apostrophes in contractions
+
+
+### Post — @samczsun — 2022-12-19 23:51 UTC (2022-12-20 00:51 WAT)
+
+- URL: https://x.com/samczsun/status/1604987944170708993
+- Metrics (at fetch): not returned
+
+> option for autocorrect that keeps stuff in lowercase and doesnt put apostrophes in contractions
+
+
+---
+
+## 2022-12-18 · Post · this is some "you're gonna miss me when im gone" shit https://twitter.com/elonmusk/status/1604623424
+
+
+### Post — @samczsun — 2022-12-18 23:55 UTC (2022-12-19 00:55 WAT)
+
+- URL: https://x.com/samczsun/status/1604626552234250240
+- Metrics (at fetch): not returned
+
+> this is some "you're gonna miss me when im gone" shit https://twitter.com/elonmusk/status/1604623424164282368
+
+**Links in post:** https://twitter.com/elonmusk/status/1604623424164282368
+
+**Quoted post (full text):**
+
+    #### Quoted post — @44196397 — 2022-12-18 23:43 UTC (2022-12-19 00:43 WAT)
+    
+    - URL: https://x.com/44196397/status/1604623424164282368
+    - Metrics (at fetch): not returned
+    
+    > As the saying goes, be careful what you wish, as you might get it
+    
+
+
+---
+
+## 2022-12-18 · Post · elon should do an episode of undercover boss before he leaves
+
+
+### Post — @samczsun — 2022-12-18 23:26 UTC (2022-12-19 00:26 WAT)
+
+- URL: https://x.com/samczsun/status/1604619225360125954
+- Metrics (at fetch): not returned
+
+> elon should do an episode of undercover boss before he leaves
+
+
+---
+
+## 2022-12-18 · Post · everyone that votes yes is getting permabanned https://twitter.com/elonmusk/status/16046176439731240
+
+
+### Post — @samczsun — 2022-12-18 23:25 UTC (2022-12-19 00:25 WAT)
+
+- URL: https://x.com/samczsun/status/1604618846991630336
+- Metrics (at fetch): not returned
+
+> everyone that votes yes is getting permabanned https://twitter.com/elonmusk/status/1604617643973124097
+
+**Links in post:** https://twitter.com/elonmusk/status/1604617643973124097
+
+**Quoted post (full text):**
+
+    #### Quoted post — @44196397 — 2022-12-18 23:20 UTC (2022-12-19 00:20 WAT)
+    
+    - URL: https://x.com/44196397/status/1604617643973124097
+    - Metrics (at fetch): not returned
+    
+    > Should I step down as head of Twitter? I will abide by the results of this poll.
+    
+
+
+---
+
+## 2022-12-18 · Post · what are the other people who co-bought twitter doing right now? is there a group chat where they're
+
+
+### Post — @samczsun — 2022-12-18 23:00 UTC (2022-12-19 00:00 WAT)
+
+- URL: https://x.com/samczsun/status/1604612566721843201
+- Metrics (at fetch): not returned
+
+> what are the other people who co-bought twitter doing right now? is there a group chat where they're all telling elon that things are going great?
+
+
+---
+
+## 2022-12-18 · Post · elon defenders trying to rationalize everything that's happened so far [pic.x.com/jAPVqRK0Z2]
+
+
+### Post — @samczsun — 2022-12-18 22:32 UTC (2022-12-18 23:32 WAT)
+
+- URL: https://x.com/samczsun/status/1604605520018493440
+- Metrics (at fetch): not returned
+
+> elon defenders trying to rationalize everything that's happened so far [pic.x.com/jAPVqRK0Z2]
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/FkS0NkyUAAAJYK9.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-18 · Post · NO FUCKING WAY [pic.x.com/Ts1IZrJ0kT] https://twitter.com/samczsun/status/1604558251596558336
+
+
+### Post — @samczsun — 2022-12-18 22:22 UTC (2022-12-18 23:22 WAT)
+
+- URL: https://x.com/samczsun/status/1604602962835226625
+- Metrics (at fetch): not returned
+
+> NO FUCKING WAY [pic.x.com/Ts1IZrJ0kT] https://twitter.com/samczsun/status/1604558251596558336
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FkSx5BWVUAAb6L0.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/samczsun/status/1604558251596558336
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2022-12-18 19:24 UTC (2022-12-18 20:24 WAT)
+    
+    - URL: https://x.com/samczsun/status/1604558251596558336
+    - Metrics (at fetch): bookmark 4, impression 59903, like 108, quote 1, reply 13, retweet 4
+    
+    > holy shit imagine losing paul graham https://twitter.com/paulg/status/1604556563338887168
+    
+    **Links in post:** https://twitter.com/paulg/status/1604556563338887168
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @183749519 — 2022-12-18 19:17 UTC (2022-12-18 20:17 WAT)
+        
+        - URL: https://x.com/183749519/status/1604556563338887168
+        - Metrics (at fetch): bookmark 333, impression 4041791, like 7573, quote 571, reply 691, retweet 705
+        
+        > This is the last straw. I give up. You can find a link to my new Mastodon profile on my site.
+        >
+        > https://t.co/bbmZ4yvAJH
+        
+    
+
+
+---
+
+## 2022-12-18 · Post · holy shit imagine losing paul graham https://twitter.com/paulg/status/1604556563338887168
+
+
+### Post — @samczsun — 2022-12-18 19:24 UTC (2022-12-18 20:24 WAT)
+
+- URL: https://x.com/samczsun/status/1604558251596558336
+- Metrics (at fetch): bookmark 4, impression 59903, like 108, quote 1, reply 13, retweet 4
+
+> holy shit imagine losing paul graham https://twitter.com/paulg/status/1604556563338887168
+
+**Links in post:** https://twitter.com/paulg/status/1604556563338887168
+
+**Quoted post (full text):**
+
+    #### Quoted post — @183749519 — 2022-12-18 19:17 UTC (2022-12-18 20:17 WAT)
+    
+    - URL: https://x.com/183749519/status/1604556563338887168
+    - Metrics (at fetch): bookmark 333, impression 4041791, like 7573, quote 571, reply 691, retweet 705
+    
+    > This is the last straw. I give up. You can find a link to my new Mastodon profile on my site.
+    >
+    > https://t.co/bbmZ4yvAJH
+    
+
+
+---
+
+## 2022-12-18 · Post · elon running twitter the same way a 13yo kid runs a minecraft server
+
+
+### Post — @samczsun — 2022-12-18 18:52 UTC (2022-12-18 19:52 WAT)
+
+- URL: https://x.com/samczsun/status/1604550168577159169
+- Metrics (at fetch): bookmark 26, impression 333836, like 2653, quote 23, reply 77, retweet 256
+
+> elon running twitter the same way a 13yo kid runs a minecraft server
+
+
+---
+
+## 2022-12-18 · Post · please don't check my contact page (https://t.co/8HJZrFHbS1) for other platforms im on because that 
+
+
+### Post — @samczsun — 2022-12-18 18:17 UTC (2022-12-18 19:17 WAT)
+
+- URL: https://x.com/samczsun/status/1604541457292881920
+- Metrics (at fetch): bookmark 1, impression 45505, like 154, quote 2, reply 9, retweet 16
+
+> please don't check my contact page (https://t.co/8HJZrFHbS1) for other platforms im on because that would make elon musk very sad https://t.co/YjSfeT38Nx
+
+**Quoted post** 1604531261791522817: not readable via the API (deleted, private, or withheld).
+
+
+---
+
+## 2022-12-13 · Post · gonna need a recap for all the recaps im getting
+
+
+### Post — @samczsun — 2022-12-13 21:09 UTC (2022-12-13 22:09 WAT)
+
+- URL: https://x.com/samczsun/status/1602772601310306305
+- Metrics (at fetch): bookmark 0, impression 0, like 106, quote 0, reply 3, retweet 6
+
+> gonna need a recap for all the recaps im getting
+
+
+---
+
+## 2022-12-10 · Post · some new features:
+
+
+### Post — @samczsun — 2022-12-10 03:12 UTC (2022-12-10 04:12 WAT)
+
+- URL: https://x.com/samczsun/status/1601414504696324096
+- Metrics (at fetch): bookmark 18, impression 0, like 149, quote 2, reply 6, retweet 20
+
+> some new features:
+> - sort value change
+> - responsive design on mobile
+> - supports pending transactions with basic confirmation time estimation
+>
+> sample tx: https://tx.eth.samczsun.com/ethereum/0x3ed75df83d907412af874b7998d911fdf990704da87c2b1a8cf95ca5d21504cf [pic.x.com/1ZbTG1IKls]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjleAT5VQAA7MoN.jpg — no alt text provided by author
+
+**Links in post:** https://tx.eth.samczsun.com/ethereum/0x3ed75df83d907412af874b7998d911fdf990704da87c2b1a8cf95ca5d21504cf
+
+
+---
+
+## 2022-12-06 · Post · did you know there's a secret version of chatgpt called codespace? with a little tinkering on the fr
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @samczsun — 2022-12-06 19:23 UTC (2022-12-06 20:23 WAT)
+
+- URL: https://x.com/samczsun/status/1600209368376430593
+- Metrics (at fetch): bookmark 69, impression 0, like 375, quote 7, reply 16, retweet 34
+
+> did you know there's a secret version of chatgpt called codespace? with a little tinkering on the frontend, we can see what the ui looks like for those who have access to it (unfortunately, i do not) [pic.x.com/YQrdQSNAqr]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjUUyLcUUAAOwKP.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-06 · Post · got some abi-encoded data that you can't make any sense of? this new library i just released should 
+
+
+### Post — @samczsun — 2022-12-06 02:12 UTC (2022-12-06 03:12 WAT)
+
+- URL: https://x.com/samczsun/status/1599949811947835393
+- Metrics (at fetch): bookmark 86, impression 0, like 322, quote 5, reply 19, retweet 57
+
+> got some abi-encoded data that you can't make any sense of? this new library i just released should help. i also left lots of comments in case you wanted to understand the dark magic happening inside
+>
+> https://github.com/samczsun/abi-guesser [pic.x.com/j12k1eNEJY]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjQpnnaVIAAEnGY.png — no alt text provided by author
+
+**Links in post:** https://github.com/samczsun/abi-guesser
+
+
+---
+
+## 2022-12-03 · Post · this explains a lot [pic.x.com/pERwOWfxmy]
+
+
+### Post — @samczsun — 2022-12-03 22:11 UTC (2022-12-03 23:11 WAT)
+
+- URL: https://x.com/samczsun/status/1599164332402954240
+- Metrics (at fetch): bookmark 1, impression 0, like 122, quote 0, reply 8, retweet 17
+
+> this explains a lot [pic.x.com/pERwOWfxmy]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjFfeJUVIAEO2sB.png — no alt text provided by author
+
+
+---
+
+## 2022-12-03 · Post · hah gottem [pic.x.com/Ly6hgn6Z0N]
+
+
+### Post — @samczsun — 2022-12-03 22:06 UTC (2022-12-03 23:06 WAT)
+
+- URL: https://x.com/samczsun/status/1599163089601318913
+- Metrics (at fetch): bookmark 2, impression 0, like 211, quote 0, reply 10, retweet 7
+
+> hah gottem [pic.x.com/Ly6hgn6Z0N]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjFeVmiUUAEx_pU.png — no alt text provided by author
+
+
+---
+
+## 2022-12-02 · Post · seems like the best jailbreak for chatgpt is literally to hit try again once [pic.x.com/8pbse5isUJ]
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @samczsun — 2022-12-02 21:43 UTC (2022-12-02 22:43 WAT)
+
+- URL: https://x.com/samczsun/status/1598794912735952896
+- Metrics (at fetch): bookmark 45, impression 0, like 604, quote 8, reply 13, retweet 33
+
+> seems like the best jailbreak for chatgpt is literally to hit try again once [pic.x.com/8pbse5isUJ]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FjAPJVCVQAAusZb.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FjAPfOxVIAAEXxY.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-02 · Post · yo
+
+
+### Post — @samczsun — 2022-12-02 18:43 UTC (2022-12-02 19:43 WAT)
+
+- URL: https://x.com/samczsun/status/1598749761695232000
+- Metrics (at fetch): not returned
+
+> yo
+>
+> uh
+>
+> hmm [pic.x.com/GKE2bOHoNf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fi_lcALVEAAnuw-.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fi_leAfUUAU0_jN.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fi_l62ZVUAAD-JL.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/Fi_l8G7VIAERHoG.jpg — no alt text provided by author
+
+
+---
+
+## 2022-12-02 · Post · uh oh [pic.x.com/RxW79Kg4Yq]
+
+
+### Post — @samczsun — 2022-12-02 14:05 UTC (2022-12-02 15:05 WAT)
+
+- URL: https://x.com/samczsun/status/1598679658488217601
+- Metrics (at fetch): not returned
+
+> uh oh [pic.x.com/RxW79Kg4Yq]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fi-mqvtUAAAUYpn.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-28 · Post · looking for beta testers :) [pic.x.com/zx0AG3UyVG]
+
+
+### Post — @samczsun — 2022-11-28 21:54 UTC (2022-11-28 22:54 WAT)
+
+- URL: https://x.com/samczsun/status/1597348129137131520
+- Metrics (at fetch): not returned
+
+> looking for beta testers :) [pic.x.com/zx0AG3UyVG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Firq90ZVUAEZY5W.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-24 · Post · time to graduate from doing audits in etherscan and remix [pic.x.com/sFD1OxO4pF]
+
+
+### Post — @samczsun — 2022-11-24 02:44 UTC (2022-11-24 03:44 WAT)
+
+- URL: https://x.com/samczsun/status/1595609279343435776
+- Metrics (at fetch): not returned
+
+> time to graduate from doing audits in etherscan and remix [pic.x.com/sFD1OxO4pF]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FiS91gLUcAExbEu.jpg — no alt text provided by author
+
+
+---
+
+## 2022-11-19 · Post · i wish solc would shut the fuck up about overrides
+
+
+### Post — @samczsun — 2022-11-19 03:44 UTC (2022-11-19 04:44 WAT)
+
+- URL: https://x.com/samczsun/status/1593812429342810115
+- Metrics (at fetch): not returned
+
+> i wish solc would shut the fuck up about overrides
+
+
+---
+
+## 2022-11-18 · Post · if this site goes down you can find me @samczsun@infosec.exchange
+
+
+### Post — @samczsun — 2022-11-18 02:45 UTC (2022-11-18 03:45 WAT)
+
+- URL: https://x.com/samczsun/status/1593435277447426048
+- Metrics (at fetch): not returned
+
+> if this site goes down you can find me @samczsun@infosec.exchange
+
+
+---
+
+## 2022-11-13 · Post · Separately, consider that when a Certificate Authority (the companies responsible for issuing SSL ce
+
+
+### Post — @samczsun — 2022-11-13 06:27 UTC (2022-11-13 07:27 WAT)
+
+- URL: https://x.com/samczsun/status/1591679220039704577
+- Metrics (at fetch): not returned
+
+> Separately, consider that when a Certificate Authority (the companies responsible for issuing SSL certs) makes even a single mistake, they're required to make a detailed and public incident report. Maybe exchanges should be held to the same standard?
+>
+> https://wiki.mozilla.org/CA/Responding_To_An_Incident#Incident_Report
+
+**Links in post:** https://wiki.mozilla.org/CA/Responding_To_An_Incident#Incident_Report
 
 
 ---

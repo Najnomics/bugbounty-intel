@@ -268,6 +268,27 @@ Source: `hackerone/reports/2022/1562515.md` (https://hackerone.com/reports/15625
     Withdrawing 1 dollar from an account with a balance of 0 could cause an integer underflow and yield a new balance of 4,294,967,295.
 ```
 
+## #3516186 Cookie Max-Age Integer Overflow Vulnerability — curl — - — Integer Overflow
+Source: `hackerone/reports/2026/3516186.md` (https://hackerone.com/reports/3516186)
+
+```
+else if(CURL_OFF_T_MAX - now < co->expires)
+    /* would overflow */
+    co->expires = CURL_OFF_T_MAX;
+else
+    co->expires += now;
+```
+
+```
+   if(CURL_OFF_T_MAX - now < co->expires)
+   
+```
+
+```
+   co->expires += now;
+   
+```
+
 ## #3282709 Integer Overflow in schannel.c TLS Data Transmission — curl — - — Integer Overflow
 Source: `hackerone/reports/2025/3282709.md` (https://hackerone.com/reports/3282709)
 
@@ -318,27 +339,6 @@ in curl's schannel.c by sending crafted TLS responses
 ```
 curl -k https://localhost:4433/
 curl: (35) schannel: next InitializeSecurityContext failed: SEC_E_INVALID_TOKEN (0x80090308) - The token supplied to the function is invalid
-```
-
-## #3516186 Cookie Max-Age Integer Overflow Vulnerability — curl — - — Integer Overflow
-Source: `hackerone/reports/2026/3516186.md` (https://hackerone.com/reports/3516186)
-
-```
-else if(CURL_OFF_T_MAX - now < co->expires)
-    /* would overflow */
-    co->expires = CURL_OFF_T_MAX;
-else
-    co->expires += now;
-```
-
-```
-   if(CURL_OFF_T_MAX - now < co->expires)
-   
-```
-
-```
-   co->expires += now;
-   
 ```
 
 ## #3344663 Security Analysis Report: CURL Integer Overflow Vulnerability — curl — - — Integer Overflow
@@ -1146,36 +1146,6 @@ tool_cb_prg.c:135:22: runtime error: signed integer overflow: 922337203685477580
     #11 0x409fe9 in _start (/root/curl/src/curl+0x409fe9)
 ```
 
-## #3238249 Integer Overflow Risk in HTTP/2 Proxy Window Size Calculations — curl — - — Integer Overflow
-Source: `hackerone/reports/2025/3238249.md` (https://hackerone.com/reports/3238249)
-
-```
-                                     PROXY_HTTP2_HUGE_WINDOW_SIZE);
-```
-
-## #600359 Integer overflow in the source code tool_cb_prg.c — curl — - — Integer Overflow
-Source: `hackerone/reports/2021/600359.md` (https://hackerone.com/reports/600359)
-
-```
-69 static void fly(struct ProgressData *bar, bool moved)
-70 {
-71   char buf[256];
-72   int pos;
-73   int check = bar->width - 2;
-74 
-75   msnprintf(buf, sizeof(buf), "%*s\r", bar->width-1, " ");
-76   memcpy(&buf[bar->bar], "-=O=-", 5);
-77
-78  pos = sinus[bar->tick%200] / (10000 / check);
-79  buf[pos] = '#';
-80  pos = sinus[(bar->tick + 5)%200] / (10000 / check);
-81  buf[pos] = '#';
-82  pos = sinus[(bar->tick + 10)%200] / (10000 / check);
-83  buf[pos] = '#';
-84  pos = sinus[(bar->tick + 15)%200] / (10000 / check);
-85  buf[pos] = '#';
-```
-
 ## #167512 CVE-2016-7163 OpenJPEG opj_pi_create_decode Integer Overflow Vulnerability — ibb — - — Memory Corruption - Generic
 Source: `hackerone/reports/2019/167512.md` (https://hackerone.com/reports/167512)
 
@@ -1227,47 +1197,34 @@ opj_pi_iterator_t *opj_pi_create_decode(opj_image_t *p_image,
 }
 ```
 
-## #627245 Integer overlow in "header_append" function — curl — - — Integer Overflow
-Source: `hackerone/reports/2021/627245.md` (https://hackerone.com/reports/627245)
+## #600359 Integer overflow in the source code tool_cb_prg.c — curl — - — Integer Overflow
+Source: `hackerone/reports/2021/600359.md` (https://hackerone.com/reports/600359)
 
 ```
-static CURLcode header_append(struct Curl_easy *data,
-                              struct SingleRequest *k,
-                              size_t length)
-{
-  size_t newsize = k->hbuflen + length; // <-- here there is the point of the integer overflow (length is user controllable)
-// the value of "newsize" will be small and minor than CURL_MAX_HTTP_HEADER
-  if(newsize > CURL_MAX_HTTP_HEADER) {
-    /* The reason to have a max limit for this is to avoid the risk of a bad
-       server feeding libcurl with a never-ending header that will cause
-       reallocs infinitely */
-    failf(data, "Rejected %zu bytes header (max is %d)!", newsize,
-          CURL_MAX_HTTP_HEADER);
-    return CURLE_OUT_OF_MEMORY;
-  }
-...
-// here the length is a big number, and it can lead in a heap overflow
-  memcpy(k->hbufp, k->str_start, length);
-  k->hbufp += length;
-  k->hbuflen += length;
-  *k->hbufp = 0;
-
-  return CURLE_OK;
-}
+69 static void fly(struct ProgressData *bar, bool moved)
+70 {
+71   char buf[256];
+72   int pos;
+73   int check = bar->width - 2;
+74 
+75   msnprintf(buf, sizeof(buf), "%*s\r", bar->width-1, " ");
+76   memcpy(&buf[bar->bar], "-=O=-", 5);
+77
+78  pos = sinus[bar->tick%200] / (10000 / check);
+79  buf[pos] = '#';
+80  pos = sinus[(bar->tick + 5)%200] / (10000 / check);
+81  buf[pos] = '#';
+82  pos = sinus[(bar->tick + 10)%200] / (10000 / check);
+83  buf[pos] = '#';
+84  pos = sinus[(bar->tick + 15)%200] / (10000 / check);
+85  buf[pos] = '#';
 ```
 
-```
-                              struct SingleRequest *k,
-                              size_t length)
-```
+## #3238249 Integer Overflow Risk in HTTP/2 Proxy Window Size Calculations — curl — - — Integer Overflow
+Source: `hackerone/reports/2025/3238249.md` (https://hackerone.com/reports/3238249)
 
 ```
-    /* The reason to have a max limit for this is to avoid the risk of a bad
-       server feeding libcurl with a never-ending header that will cause
-       reallocs infinitely */
-    failf(data, "Rejected %zu bytes header (max is %d)!", newsize,
-          CURL_MAX_HTTP_HEADER);
-    return CURLE_OUT_OF_MEMORY;
+                                     PROXY_HTTP2_HUGE_WINDOW_SIZE);
 ```
 
 ## #28640 Ericsson Erlang OTP Core Allocation Subsystem Integer Overflow (All Versions) — ibb — - — Memory Corruption - Generic
@@ -1313,6 +1270,49 @@ Source: `hackerone/reports/2019/227344.md` (https://hackerone.com/reports/227344
           * UPNP_Delete*
           * UPNP_Update*
           * UPNP_Add*
+```
+
+## #627245 Integer overlow in "header_append" function — curl — - — Integer Overflow
+Source: `hackerone/reports/2021/627245.md` (https://hackerone.com/reports/627245)
+
+```
+static CURLcode header_append(struct Curl_easy *data,
+                              struct SingleRequest *k,
+                              size_t length)
+{
+  size_t newsize = k->hbuflen + length; // <-- here there is the point of the integer overflow (length is user controllable)
+// the value of "newsize" will be small and minor than CURL_MAX_HTTP_HEADER
+  if(newsize > CURL_MAX_HTTP_HEADER) {
+    /* The reason to have a max limit for this is to avoid the risk of a bad
+       server feeding libcurl with a never-ending header that will cause
+       reallocs infinitely */
+    failf(data, "Rejected %zu bytes header (max is %d)!", newsize,
+          CURL_MAX_HTTP_HEADER);
+    return CURLE_OUT_OF_MEMORY;
+  }
+...
+// here the length is a big number, and it can lead in a heap overflow
+  memcpy(k->hbufp, k->str_start, length);
+  k->hbufp += length;
+  k->hbuflen += length;
+  *k->hbufp = 0;
+
+  return CURLE_OK;
+}
+```
+
+```
+                              struct SingleRequest *k,
+                              size_t length)
+```
+
+```
+    /* The reason to have a max limit for this is to avoid the risk of a bad
+       server feeding libcurl with a never-ending header that will cause
+       reallocs infinitely */
+    failf(data, "Rejected %zu bytes header (max is %d)!", newsize,
+          CURL_MAX_HTTP_HEADER);
+    return CURLE_OUT_OF_MEMORY;
 ```
 
 ## #73260 Integer overflow in _json_encode_unicode leads to crash — ibb — - — None

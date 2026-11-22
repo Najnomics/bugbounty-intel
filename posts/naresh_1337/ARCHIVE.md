@@ -1,11 +1,37 @@
 # @naresh_1337 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 90
+- Posts in this file: 91
 - Conversations/threads: 51
 - Oldest post captured: 2026-05-22
-- Newest post captured: 2026-11-19
+- Newest post captured: 2026-11-21
+
+
+---
+
+## 2026-11-18 · Thread · A friend just joined me on @immunefi Studio. I have 4 invites left. Reply if you want in. https://im
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @naresh_1337 — 2026-11-18 22:59 UTC (2026-11-18 23:59 WAT)
+
+- URL: https://x.com/naresh_1337/status/2123189427979862187
+- Metrics (at fetch): bookmark 0, impression 134, like 3, quote 0, reply 0, repost 2
+
+> A friend just joined me on @immunefi Studio. I have 4 invites left. Reply if you want in. https://immunefi.com/s/studio/?card=friend_joined&u=Naresh_Kandula&f=1&i=4&t=1795042561&sig=4434c58e15e1a90683bececf88e31a9857ace7c5dccdbe77f2e65f13d6555d26
+
+**Links in post:** https://immunefi.com/s/studio/?card=friend_joined&u=Naresh_Kandula&f=1&i=4&t=1795042561&sig=4434c58e15e1a90683bececf88e31a9857ace7c5dccdbe77f2e65f13d6555d26
+
+
+### Thread part 2 — @naresh_1337 — 2026-11-21 07:47 UTC (2026-11-21 08:47 WAT)
+
+- URL: https://x.com/naresh_1337/status/2124047051793334515
+- Metrics (at fetch): bookmark 0, impression 9, like 1, quote 0, reply 0, repost 0
+
+> @Sanove_devasia @immunefi Check DM
 
 
 ---
@@ -68,24 +94,6 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting, Platform: Immunefi
 - Metrics (at fetch): bookmark 0, impression 19, like 0, quote 0, reply 0, repost 0
 
 > @theBliz_ @ChatGPT 😂 Will do! If I go silent, assume Rockstar found a Critical vulnerability in my productivity. 💀🎮
-
-
----
-
-## 2026-11-18 · Post · A friend just joined me on @immunefi Studio. I have 4 invites left. Reply if you want in. https://im
-
-
-Tags (automatic): Platform: Immunefi
-
-
-### Post — @naresh_1337 — 2026-11-18 22:59 UTC (2026-11-18 23:59 WAT)
-
-- URL: https://x.com/naresh_1337/status/2123189427979862187
-- Metrics (at fetch): bookmark 0, impression 134, like 3, quote 0, reply 0, repost 2
-
-> A friend just joined me on @immunefi Studio. I have 4 invites left. Reply if you want in. https://immunefi.com/s/studio/?card=friend_joined&u=Naresh_Kandula&f=1&i=4&t=1795042561&sig=4434c58e15e1a90683bececf88e31a9857ace7c5dccdbe77f2e65f13d6555d26
-
-**Links in post:** https://immunefi.com/s/studio/?card=friend_joined&u=Naresh_Kandula&f=1&i=4&t=1795042561&sig=4434c58e15e1a90683bececf88e31a9857ace7c5dccdbe77f2e65f13d6555d26
 
 
 ---

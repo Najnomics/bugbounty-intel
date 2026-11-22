@@ -1,11 +1,109 @@
 # @S1r1u5_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 545
-- Conversations/threads: 415
+- Posts in this file: 548
+- Conversations/threads: 416
 - Oldest post captured: 2017-02-26
 - Newest post captured: 2026-11-21
+
+
+---
+
+## 2026-11-21 · Post · sounds pretty cool!
+
+
+Tags (automatic): ZK
+
+
+### Post — @S1r1u5_ — 2026-11-21 16:46 UTC (2026-11-21 17:46 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2124182649103434215
+- Metrics (at fetch): bookmark 1, impression 1676, like 14, quote 0, reply 1, repost 0
+
+> sounds pretty cool!
+>
+> congrats @__alpoge__ https://twitter.com/leanprover/status/2124159121645801562
+
+**Links in post:** https://twitter.com/leanprover/status/2124159121645801562
+
+**Quoted post (full text):**
+
+    #### Quoted post — @984707304191856640 — 2026-11-21 15:12 UTC (2026-11-21 16:12 WAT)
+    
+    - URL: https://x.com/984707304191856640/status/2124159121645801562
+    - Metrics (at fetch): bookmark 4348, impression 2612700, like 25631, quote 1861, reply 447, repost 4783
+    
+    > The Lean FRO and Mathlib Initiative have released a joint statement on the Lean verification of the Riemann Hypothesis.
+    >
+    > On November 20, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library of 17 million lines of code. Over the past day, the Lean and Mathlib communities worked together to verify it. The statement certifies the proof as correct and describes how it meets all necessary verification criteria.
+    >
+    > Congratulations to Levent on this achievement, and thank you to everyone in the community who contributed to the verification.
+    >
+    > Full statement: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXqGwBnaUAA8Pvd.png — no alt text provided by author
+    
+    **Links in post:** https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
+    
+
+
+---
+
+## 2026-11-21 · Thread · i don't think dave is overhyping this. speed of lateral movement with no guardrail open models is pr
+
+
+### Post — @S1r1u5_ — 2026-11-21 04:41 UTC (2026-11-21 05:41 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2124000246531568088
+- Metrics (at fetch): not returned
+
+> i don't think dave is overhyping this. speed of lateral movement with no guardrail open models is pretty crazy, they wouldn't say no to anything, thankfully, frontier models are much harder to use post foothold.
+>
+> also, silly to think "mfa bypass" means breaking the underlying mfa mechanism, it usually refers to an application specific bypass.
+
+**Links in post:** https://twitter.com/HackingDave/status/2123798085683863632
+
+**Quoted post (full text):**
+
+    #### Quoted post — @HackingDave — 2026-11-20 15:18 UTC (2026-11-20 16:18 WAT)
+    
+    - URL: https://x.com/HackingDave/status/2123798085683863632
+    - Metrics (at fetch): not returned
+    
+    > These comments from @Paul__Walsh  are things I have never stated or are conflated. I never stated AI found a vulnerability in MFA thus rendering MFA vulnerable for everyone. This segments theme was based on the time and speed it took. Defenders are not capable today of responding in 14 minutes and it's deeply my largest concern as these attacks move so fast from what we're seeing.
+    >
+    > He seems to be highly confused that by me referencing attackers were able to circumvent MFA - that it immediately is a flaw in cryptography. Never stated that, never stated that MFA was insecure - just that this customer had an issue that allowed them to gain access without MFA. 
+    >
+    > I'm not a regular talking head, I've been in the cybersecurity industry for 25 years - I've written widely popular exploitation frameworks, wrote the book Metasploit: The Penetration Testers Guide, I'm extremely technical and have worked all spectrums of cybersecurity including heavy red teaming and incident response. 
+    >
+    > I can't provide the evidence (yet) because it is an active investigation. The customer would have to allow me to share this or I breach NDA and my companies reputation. The customer did give me approval to talk about the high level of this when I approached them as long as their names weren't used, as they are concerned also. 
+    >
+    > This wasn't meant to be a scare tactic on TV, and I probably could have been clearer that the issue was a configuration flaw - but the MFA that your honing in on wasn't even the main point of the discussion.
+    >
+    > This segment was 4 minutes, 33 seconds - and we covered three completely different topics in those four minutes. I don't have in-depth time to explain each component and trying to bring an overall theme that people can take with them from listening each time I'm on.
+    
+    **Links in post:** https://twitter.com/Paul__Walsh/status/2123734614292222031
+    
+    **Quoted post** 2123734614292222031: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Thread part 2 — @S1r1u5_ — 2026-11-21 05:51 UTC (2026-11-21 06:51 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2124017746572898722
+- Metrics (at fetch): bookmark 0, impression 242, like 1, quote 0, reply 0, repost 0
+
+> @0xTib3rius yea agree
+
+
+### Thread part 3 — @S1r1u5_ — 2026-11-21 06:45 UTC (2026-11-21 07:45 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2124031471254216861
+- Metrics (at fetch): bookmark 0, impression 181, like 1, quote 0, reply 0, repost 0
+
+> @dinodaizovi true
 
 
 ---
@@ -54,47 +152,6 @@ Tags (automatic): AI-assisted hunting
 > @MalwareTechBlog &gt;vulnerability researchers just keep way overestimating either the actor's capabilities, the capabilities of the LLMs they have access to
 >
 > hmm yeah, seems like it!
-
-
----
-
-## 2026-11-21 · Post · i don't think dave is overhyping this. speed of lateral movement with no guardrail open models is pr
-
-
-### Post — @S1r1u5_ — 2026-11-21 04:41 UTC (2026-11-21 05:41 WAT)
-
-- URL: https://x.com/S1r1u5_/status/2124000246531568088
-- Metrics (at fetch): not returned
-
-> i don't think dave is overhyping this. speed of lateral movement with no guardrail open models is pretty crazy, they wouldn't say no to anything, thankfully, frontier models are much harder to use post foothold.
->
-> also, silly to think "mfa bypass" means breaking the underlying mfa mechanism, it usually refers to an application specific bypass.
-
-**Links in post:** https://twitter.com/HackingDave/status/2123798085683863632
-
-**Quoted post (full text):**
-
-    #### Quoted post — @HackingDave — 2026-11-20 15:18 UTC (2026-11-20 16:18 WAT)
-    
-    - URL: https://x.com/HackingDave/status/2123798085683863632
-    - Metrics (at fetch): not returned
-    
-    > These comments from @Paul__Walsh  are things I have never stated or are conflated. I never stated AI found a vulnerability in MFA thus rendering MFA vulnerable for everyone. This segments theme was based on the time and speed it took. Defenders are not capable today of responding in 14 minutes and it's deeply my largest concern as these attacks move so fast from what we're seeing.
-    >
-    > He seems to be highly confused that by me referencing attackers were able to circumvent MFA - that it immediately is a flaw in cryptography. Never stated that, never stated that MFA was insecure - just that this customer had an issue that allowed them to gain access without MFA. 
-    >
-    > I'm not a regular talking head, I've been in the cybersecurity industry for 25 years - I've written widely popular exploitation frameworks, wrote the book Metasploit: The Penetration Testers Guide, I'm extremely technical and have worked all spectrums of cybersecurity including heavy red teaming and incident response. 
-    >
-    > I can't provide the evidence (yet) because it is an active investigation. The customer would have to allow me to share this or I breach NDA and my companies reputation. The customer did give me approval to talk about the high level of this when I approached them as long as their names weren't used, as they are concerned also. 
-    >
-    > This wasn't meant to be a scare tactic on TV, and I probably could have been clearer that the issue was a configuration flaw - but the MFA that your honing in on wasn't even the main point of the discussion.
-    >
-    > This segment was 4 minutes, 33 seconds - and we covered three completely different topics in those four minutes. I don't have in-depth time to explain each component and trying to bring an overall theme that people can take with them from listening each time I'm on.
-    
-    **Links in post:** https://twitter.com/Paul__Walsh/status/2123734614292222031
-    
-    **Quoted post** 2123734614292222031: not readable via the API (deleted, private, or withheld).
-    
 
 
 ---

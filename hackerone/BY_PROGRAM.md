@@ -5712,7 +5712,7 @@
 - [3198980](reports/2025/3198980.md) Woocommerce SQL Injection in WC_Report_Coupon_Usage — automattic — medium —  — SQL Injection
 - [3447021](reports/2026/3447021.md) XSS Vulnerability on Pressable/Atomic Hosting Platform via unescaped admin notices leads to code execution — automattic — - —  — 
 
-## weblate (164)
+## weblate (165)
 
 - [223350](reports/2017/223350.md) Web server is vulnerable to Beast Attack — weblate — low —  — Cryptographic Issues - Generic
 - [225100](reports/2017/225100.md) CSRF to Connect third party Account — weblate — medium —  — Cross-Site Request Forgery (CSRF)
@@ -5878,6 +5878,7 @@
 - [4117330](reports/2026/4117330.md) Anonymous Translation Suggestion IP Address Exposure Through Change API — weblate — low —  — Information Disclosure
 - [4059744](reports/2026/4059744.md) Anonymous API Rate Limit Bypass via X-Forwarded-For — weblate — medium —  — Uncontrolled Resource Consumption
 - [4105212](reports/2026/4105212.md) CPU Exhaustion via Crafted TOML Files in translation-finder — weblate — medium —  — Uncontrolled Resource Consumption
+- [4119675](reports/2026/4119675.md) Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creating site-wide Language rows without language.add — weblate — medium —  — Improper Access Control - Generic
 
 ## shopify-scripts (161)
 
@@ -12534,6 +12535,19 @@
 - [416123](reports/2018/416123.md) MemeCTF serial exploitation to local file read to Papertrail access via API-token leakage and more — h1-5411-ctf — high —  — Improper Access Control - Generic
 - [415275](reports/2018/415275.md) CTF Writeup flag{cha1n1ng_bugs_f0r_fun_4nd_pr0f1t?_or_rep0rt_an_LF1} — h1-5411-ctf — critical —  — Deserialization of Untrusted Data
 
+## evernote (10)
+
+- [757281](reports/2020/757281.md) Reflected + Stored XSS - https://discussion.evernote.com — evernote — medium —  — Cross-site Scripting (XSS) - Reflected
+- [822609](reports/2020/822609.md) One Click Code Execution via File — evernote — high —  — Execution with Unnecessary Privileges
+- [742808](reports/2020/742808.md) Non-production Open Database In Combination With XXE Leads To SSRF — evernote — critical —  — XML External Entities (XXE)
+- [1121990](reports/2021/1121990.md) CSRF leads to account deactivation of users — evernote — medium — $300 — 
+- [1189367](reports/2021/1189367.md) Full read SSRF in www.evernote.com that can leak aws metadata and local file inclusion — evernote — critical —  — Server-Side Request Forgery (SSRF)
+- [1398270](reports/2021/1398270.md) [34.96.80.155] Server Logs Disclosure lead to Information Leakage — evernote — low — $150 — Privilege Escalation
+- [1377748](reports/2022/1377748.md) 2 click Remote Code execution in Evernote Android — evernote — high —  — Path Traversal: '.../...//'
+- [1518343](reports/2022/1518343.md) Reflected XSS in the shared note view on https://evernote.com — evernote — medium — $500 — Cross-site Scripting (XSS) - Reflected
+- [1394984](reports/2022/1394984.md) Email Verification Bypass by bruteforcing when setting up 2FA — evernote — low — $150 — Improper Restriction of Authentication Attempts
+- [2119149](reports/2026/2119149.md) Evernote(WindowsApp) XSS to RCE — evernote — high — $2,000 — Code Injection
+
 ## fetlife (10)
 
 - [1065041](reports/2021/1065041.md) Google API key leaked to Public — fetlife — low —  — Information Disclosure
@@ -12608,18 +12622,6 @@
 - [1031644](reports/2021/1031644.md) DOM XSS on http://talks.lystit.com — lyst — low — $100 — Cross-site Scripting (XSS) - DOM
 - [537047](reports/2022/537047.md) [https://█████████/]&&[https://█████████/] Open Redirection — lyst — medium —  — Open Redirect
 - [631589](reports/2022/631589.md) Web Cache poisoning attack leads to User information Disclosure and more — lyst — medium —  — Violation of Secure Design Principles
-
-## evernote (9)
-
-- [757281](reports/2020/757281.md) Reflected + Stored XSS - https://discussion.evernote.com — evernote — medium —  — Cross-site Scripting (XSS) - Reflected
-- [822609](reports/2020/822609.md) One Click Code Execution via File — evernote — high —  — Execution with Unnecessary Privileges
-- [742808](reports/2020/742808.md) Non-production Open Database In Combination With XXE Leads To SSRF — evernote — critical —  — XML External Entities (XXE)
-- [1121990](reports/2021/1121990.md) CSRF leads to account deactivation of users — evernote — medium — $300 — 
-- [1189367](reports/2021/1189367.md) Full read SSRF in www.evernote.com that can leak aws metadata and local file inclusion — evernote — critical —  — Server-Side Request Forgery (SSRF)
-- [1398270](reports/2021/1398270.md) [34.96.80.155] Server Logs Disclosure lead to Information Leakage — evernote — low — $150 — Privilege Escalation
-- [1377748](reports/2022/1377748.md) 2 click Remote Code execution in Evernote Android — evernote — high —  — Path Traversal: '.../...//'
-- [1518343](reports/2022/1518343.md) Reflected XSS in the shared note view on https://evernote.com — evernote — medium — $500 — Cross-site Scripting (XSS) - Reflected
-- [1394984](reports/2022/1394984.md) Email Verification Bypass by bruteforcing when setting up 2FA — evernote — low — $150 — Improper Restriction of Authentication Attempts
 
 ## palo_alto_software (9)
 

@@ -1,11 +1,24 @@
 # @0xriptide — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-21 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 227
-- Conversations/threads: 220
+- Posts in this file: 228
+- Conversations/threads: 221
 - Oldest post captured: 2014-07-21
-- Newest post captured: 2026-11-20
+- Newest post captured: 2026-11-21
+
+
+---
+
+## 2026-11-21 · Post · carpe diem
+
+
+### Post — @0xriptide — 2026-11-21 14:07 UTC (2026-11-21 15:07 WAT)
+
+- URL: https://x.com/0xriptide/status/2124142572935282701
+- Metrics (at fetch): bookmark 0, impression 1070, like 22, quote 0, reply 1, repost 0
+
+> carpe diem
 
 
 ---

