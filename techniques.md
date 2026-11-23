@@ -2,9 +2,29 @@
 
 High-level methodology, recon tips, and bug patterns pulled from the public sources in this repo. Each item is linked to its source. This is a workflow aid, not an exploit guide: reproduction steps and payloads stay in the original writeups.
 
-Last updated: 22 November 2026 (Africa/Lagos).
+Last updated: 23 November 2026 (Africa/Lagos).
 
 ---
+
+## 2026-11-23 additions (daily X sweep, HackerOne, Telegram)
+
+**CMS media-library listing → public PII file (Sitecore, Medium → High).** mdp_sec: a normal self-registered account could call Sitecore's SOAP API to list media folders; a `testing` folder held a 15k-signup-email CSV served at a public `/-/media/` URL with no login; a random `?v=` forced the origin (not a CDN cache) to answer. Harness: low-priv listing APIs × public-by-path file serving; prioritise `testing/export/backup/delete` folders; verify unauthenticated with a cache-buster. Source: [@mdp_sec 22 Nov 2026](posts/mdp_sec/2026-11-22-2124626476397916632.md).
+
+**Same-origin proxy to permissionless storage → one-click ATO (Next.js `rewrites()`).** `/cdn/arweave/:path*` → `arweave.net`; `/raw/<txid>` skipped Arweave's sandbox redirect so attacker HTML ran on the app origin; CSP `'self' 'unsafe-inline'` allowed it; tokens in `localStorage` exfiltrated with `window.location` (navigation is not covered by `connect-src`). CVSS 9.3. Source: [r3dd404 via @dailybountywriteup 14996](writeups/telegram-dailybountywriteup/r3dd404-how-a-next-js-cdn-proxy-turned-into-a-one-click-account-takeover-dd8bc8dd9fde-b9cf7cc7.md).
+
+**Permission gate checks one param, writer honours its alias (BuddyPress, H1 #3892948, bounty).** `update_item_permissions_check()` only looks at `member_type`; `prepare_item_for_database()` later maps legacy `types` → `member_type` → subscriber self-assigns any member type. Harness: retry every refused privileged field under plural/legacy/camelCase aliases. Source: [hackerone/reports/2026/3892948.md](hackerone/reports/2026/3892948.md).
+
+**RNG cache baked into startup snapshots (Node.js, H1 #4059814, CVE-2026-106074).** `randomUUID()`/`randomInt()` caches filled during `--build-snapshot`/SEA `useSnapshot` repeat in every process (≤127 UUIDs, ~1,000 ints). Harness: spawn N fresh instances of snapshot/prefork/SnapStart apps and diff first generated IDs/tokens. Source: [hackerone/reports/2026/4059814.md](hackerone/reports/2026/4059814.md).
+
+**Ghostscript in thumbnailers: characterise the sandbox.** After Upload2Shell (CVE-2026-125396), mdp_sec: "every pdf thumbnailer on a bounty scope just became a target"; "most scopes let u sign up — login doesn't stop it". @brutecat: Google runs Ghostscript in per-request gVisor VMs (no prod impact). Report impact in terms of the worker's isolation. Sources: [mdp_sec](posts/mdp_sec/2026-11-22-2124468750242255159.md), [brutecat](posts/brutecat/2026-11-22-2124451394686251188.md).
+
+**AI-hunting model ops.** One model across 21 providers: 10–55% solved on the same labs (self-host 55% @ 236 tok/s, direct 45%); abliterated builds bring no benefit (stock refused 0 tasks; edits reasoned up to 45% less, 2× time-outs); per-agent speed 143→236 tok/s lifted solves 16→22/40 under a 25-min clock; scope enforced by an out-of-scope-dropping MITM proxy; Dragos canary study shows routers/resellers stealing prompts. Sources: [providers](posts/mdp_sec/2026-11-22-2124653323940937754.md), [abliteration](posts/mdp_sec/2026-11-23-2124707206306427126.md) + [writeup](writeups/mdp_sec/blackboxarena-deepseek-v4-1-flash-abliteration.md), [speed](posts/mdp_sec/2026-11-22-2124414813296279647.md), [scope proxy](posts/mdp_sec/2026-11-22-2124600258223300633.md), [Dragos](writeups/S1r1u5_/dragos-ai-supply-chain-canary-tokens.md).
+
+**Bridge minter mints unbacked tokens (Fusionist, BSC, ~$1.04M).** A privileged token-bridge minter minted unbacked ACE and sold for USDT. Audit check: enumerate minter roles, require verified cross-chain proofs + mint caps + supply-vs-collateral monitoring. Source: [Blockaid via @defendor_eng 2376](writeups/telegram-defendor_eng/blockaid-fusionist-bsc-bridge-minter-unbacked-ace-mint.md).
+
+**Proof checkers take adversarial input (Lean / ZK).** lonelysloth_sec: a machine-generated proof can carry payloads for checker bugs; multi-implementation checking reduces but does not remove risk. Kobi Gurkan: Aeneas (Rust→Lean) + EthLib specs for crypto/encoding code. Sources: [lonelysloth_sec](posts/lonelysloth_sec/2026-11-22-2124592826969428054.md), [kobigurk](posts/kobigurk/2026-11-23-2124712979723874790.md) + [Aeneas post](writeups/kobigurk/aeneas-proving-rust-in-lean-ethereum-encoding.md).
+
+- Harness digest: [`harness/bug-classes/2026-11-23-cms-media-listing-cdn-proxy-param-alias.md`](harness/bug-classes/2026-11-23-cms-media-listing-cdn-proxy-param-alias.md).
 
 ## 2026-11-22 additions (daily X sweep, HackerOne, Telegram)
 

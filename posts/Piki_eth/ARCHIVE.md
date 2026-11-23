@@ -1,11 +1,67 @@
 # @Piki_eth — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 95
-- Conversations/threads: 69
+- Posts in this file: 97
+- Conversations/threads: 71
 - Oldest post captured: 2024-09-21
-- Newest post captured: 2026-11-18
+- Newest post captured: 2026-11-23
+
+
+---
+
+## 2026-11-23 · Reply · @mdp_sec self hosting?
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @mdp_sec — 2026-11-23 02:52 UTC (2026-11-23 03:52 WAT)
+
+- URL: https://x.com/mdp_sec/status/2124697634455916702
+- Metrics (at fetch): bookmark 0, impression 412, like 3, quote 0, reply 2, repost 0
+
+> id love this speed none stop... [pic.x.com/WZSEgadqPp]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXxxOjMboAIGzFv.png — no alt text provided by author
+
+
+### Post — @Piki_eth — 2026-11-23 05:26 UTC (2026-11-23 06:26 WAT)
+
+- URL: https://x.com/Piki_eth/status/2124736430077571203
+- Metrics (at fetch): bookmark 0, impression 3, like 0, quote 0, reply 0, repost 0
+
+> @mdp_sec self hosting?
+
+
+---
+
+## 2026-11-22 · Reply · @HackenProof sleep whenever you want 
+
+
+Tags (automatic): Platform: HackenProof
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @HackenProof — 2026-11-22 15:04 UTC (2026-11-22 16:04 WAT)
+
+- URL: https://x.com/HackenProof/status/2124519270394822725
+- Metrics (at fetch): bookmark 6, impression 3562, like 124, quote 1, reply 4, repost 12
+
+> [pic.x.com/tJHECcVMPo]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HWrf9Z7WoAA4Td5.jpg — no alt text provided by author
+
+
+### Post — @Piki_eth — 2026-11-22 15:06 UTC (2026-11-22 16:06 WAT)
+
+- URL: https://x.com/Piki_eth/status/2124520008395157758
+- Metrics (at fetch): bookmark 0, impression 60, like 2, quote 0, reply 0, repost 0
+
+> @HackenProof sleep whenever you want 
+> automate hunting
 
 
 ---

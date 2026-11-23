@@ -1,0 +1,131 @@
+# hibana-sharar-project-readme
+
+- **Source URL:** https://github.com/sharar-project/hibana
+- **Fetched:** 2026-11-23
+- **Researcher:** mdp_sec
+- **Method:** curl + trafilatura readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
+
+---
+
+**Tailored to the model. Tuned to the machine. Built for agents.**
+
+Hibana (formerly Sharar) runs open models on your own NVIDIA GB10 (DGX Spark) and serves them through OpenAI- and Anthropic-compatible APIs, so Claude Code, opencode, aider or any OpenAI client can use them. It brings speculative decoding, prefix caching (with an optional SSD tier for agent sessions) and a 262K context.
+
+You need one DGX Spark (or another NVIDIA GB10 machine) with DGX OS and about 135 GB of free disk for this model.
+
+```
+curl -LsSf https://astral.sh/uv/install.sh | sh     # install uv, if you don't have it
+git clone https://github.com/sharar-project/hibana && cd hibana
+uv sync                                             # set up Python (about a minute)
+uv run hibana serve nemotron                        # serve Nemotron 3.5 Super on http://127.0.0.1:30005
+```
+The first launch downloads the model and builds the GPU kernels; later launches start in under a minute. Ctrl-C stops the server. In a second terminal:
+
+```
+uv run hibana chat              # chat in the terminal
+uv run hibana launch claude     # Claude Code on the local model (also opencode, aider)
+```
+Any OpenAI client works against `http://127.0.0.1:30005/v1` and Anthropic clients against `http://127.0.0.1:30005`
+([API](/sharar-project/hibana/blob/main/docs/api.md)).
+
+Pick a model and run its command. Hibana downloads the publisher's checkpoint from Hugging Face at a pinned revision,
+and for the Qwen models and Super a calibrated 3-bit copy that the default `fast` profile decodes with.
+
+Qwen's 125B mixture-of-experts model, on one Spark or two.
+
+```
+uv run hibana serve flashnext           # http://127.0.0.1:30004
+uv run hibana serve flashnext --tp 2    # on two Sparks linked by their ConnectX ports
+```
+- **Download:** 186 GB, the model (135 GB) and its 3-bit copy (51 GB)
+- **Input:** text
+- **Draft:** its own MTP head, or the DFlash2 drafter on one Spark (`HIBANA_PROPOSER=dflash2`)
+- **Checkpoints:** [RadixArk/Qwen3.8-Flash-Next-NVFP4](https://huggingface.co/RadixArk/Qwen3.8-Flash-Next-NVFP4), [3-bit copy](https://huggingface.co/yemara/Qwen3.8-Flash-Next-NVFP4-sharar-w3-qad)
+- **More:** [Flash-Next](/sharar-project/hibana/blob/main/docs/flashnext.md), [tensor parallel](/sharar-project/hibana/blob/main/docs/tensor-parallel.md)
+
+Qwen's 27B dense model, on one Spark or two.
+
+```
+uv run hibana serve 27b                 # http://127.0.0.1:30001
+uv run hibana serve 27b --tp 2          # on two Sparks linked by their ConnectX ports
+```
+- **Download:** 36 GB, the model (26 GB) and its 3-bit copy (10 GB)
+- **Input:** text
+- **Draft:** the DFlash2 drafter ([incoai/Qwen3.8-27B-DFlash2](https://huggingface.co/incoai/Qwen3.8-27B-DFlash2))
+- **Checkpoints:** [RadixArk/Qwen3.8-27B-NVFP4](https://huggingface.co/RadixArk/Qwen3.8-27B-NVFP4), [3-bit copy](https://huggingface.co/yemara/Qwen3.8-27B-NVFP4-sharar-w3)
+- **More:** [operations](/sharar-project/hibana/blob/main/docs/operations.md), [tensor parallel](/sharar-project/hibana/blob/main/docs/tensor-parallel.md)
+
+NVIDIA's 120B mixture-of-experts model (12B active), a Mamba-2 hybrid that also reads images, on one Spark.
+
+`uv run hibana serve nemotron            # http://127.0.0.1:30005`
+- **Download:** 124 GB, the model (75 GB) and its 3-bit copy (49 GB)
+- **Input:** text and images ([images](/sharar-project/hibana/blob/main/docs/api.md#images))
+- **Draft:** its own MTP head
+- **Checkpoints:** [nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4), [3-bit copy](https://huggingface.co/shadowpa0327/NVIDIA-Nemotron-3.5-Super-NVFP4-sharar-w3)
+- **More:** [Nemotron](/sharar-project/hibana/blob/main/docs/nemotron.md)
+
+NVIDIA's 74B mixture-of-experts model (9B active), packed to 24 GB, that also reads images, on one Spark.
+
+`uv run hibana serve bolt                # http://127.0.0.1:30006`
+- **Download:** 25 GB
+- **Input:** text and images ([images](/sharar-project/hibana/blob/main/docs/api.md#images))
+- **Draft:** NVIDIA's companion LiLiCorr checkpoint, seven tokens at a time
+- **Checkpoints:** [nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB), [LiLiCorr draft](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-LiLiCorr)
+- **More:** [Nemotron Bolt](/sharar-project/hibana/blob/main/docs/bolt.md)
+
+Not sure which to pick? Side by side:
+
+| Model | Size | Download | Sparks | Images | Command | 
+|---|---|---|---|---|---|
+| Qwen3.8-Flash-Next | 125B MoE | 186 GB | 1 or 2 |  | `hibana serve flashnext` | 
+| Qwen3.8-27B | 27B dense | 36 GB | 1 or 2 |  | `hibana serve 27b` | 
+| Nemotron 3.5 Super | 120B MoE, 12B active | 124 GB | 1 | yes | `hibana serve nemotron` | 
+| Nemotron 3.5 Bolt | 74B MoE, 9B active | 25 GB | 1 | yes | `hibana serve bolt` | 
+
+- One NVIDIA GB10 (SM 12.1, a DGX Spark; two linked by their ConnectX ports for
+[tensor parallel](/sharar-project/hibana/blob/main/docs/tensor-parallel.md)), `aarch64`, about 128 GB unified memory.
+- NVIDIA driver 580 or newer and the CUDA 13 toolkit in `/usr/local/cuda` (DGX OS ships it; the GB10 kernels compile
+on first use, about 2.5 minutes once).
+- [uv](https://docs.astral.sh/uv/), which installs the tested Python 3.12.
+- Disk for the model (above), plus 10 GiB that the download check keeps spare
+([operations](/sharar-project/hibana/blob/main/docs/operations.md#prerequisites)).
+
+| `hibana serve <model>` | Serve a model in the foreground ( `27b`, `flashnext`, `nemotron`, `bolt`) | 
+| `hibana serve <model> --detach` | The same as a background service; `hibana stop`, `hibana logs -f` | 
+| `hibana serve <model> --exact` | The model's own outputs, for benchmarks (the default `fast` profile is faster and slightly lossy; also `--throughput`) | 
+| `hibana serve <model> --tp 2` | The Qwen models on two Sparks linked by their ConnectX ports ( [tensor parallel](/sharar-project/hibana/blob/main/docs/tensor-parallel.md)) | 
+| `hibana status` | What is serving, with which settings | 
+| `hibana cache` | What is cached on the GPU and on the SSD tier ( `$HIBANA_RESULTS/ssd/<target>`, up to `HIBANA_SSD_GIB`) | 
+| `hibana chat`, `hibana launch claude\|opencode\|aider\|show` | Use the serving model | 
+
+`hibana <command> --help` lists the options. Settings (cache and results locations, profiles, ports) are flags, then
+`HIBANA_*` environment variables, then an optional `config/gb10.env` ([example](/sharar-project/hibana/blob/main/config/gb10.env.example),
+[operations](/sharar-project/hibana/blob/main/docs/operations.md)).
+
+For more details:
+
+- [Operations](/sharar-project/hibana/blob/main/docs/operations.md): settings, serving profiles and the SSD tier
+- [API](/sharar-project/hibana/blob/main/docs/api.md): endpoints, tool calls, images and constrained output
+- [Tensor parallel](/sharar-project/hibana/blob/main/docs/tensor-parallel.md): serving on two Sparks
+- Models: [Flash-Next](/sharar-project/hibana/blob/main/docs/flashnext.md), [Nemotron Super](/sharar-project/hibana/blob/main/docs/nemotron.md), [Nemotron Bolt](/sharar-project/hibana/blob/main/docs/bolt.md)
+- [Evaluation](/sharar-project/hibana/blob/main/docs/evaluation.md): measuring quality and speed
+- [All documentation](/sharar-project/hibana/blob/main/docs/README.md) and [contributing](/sharar-project/hibana/blob/main/CONTRIBUTING.md)
+
+If you use Hibana for your research, please cite our [paper](https://arxiv.org/abs/2611.10469):
+
+```
+@article{emara2026hibana,
+  title={Hibana: Fast Agentic Inference on Unified-Memory Devices},
+  author={Emara, Yahya and Chang, Chi-Chih and Fei, Anthony and AbouElhamayed, Ahmed F. and Chen, Chong-Yan and
+          Chiang, Hung-Yueh and Wu, Kai-Chiang and Abdelfattah, Mohamed S.},
+  journal={arXiv preprint arXiv:2611.10469},
+  year={2026}
+}
+```
+Hibana learned the design and reused code from the following projects:
+[SGLang](https://github.com/sgl-project/sglang), [vLLM](https://github.com/vllm-project/vllm),
+[FlashInfer](https://github.com/flashinfer-ai/flashinfer),
+[flash-linear-attention](https://github.com/fla-org/flash-linear-attention),
+[Mamba](https://github.com/state-spaces/mamba), [causal-conv1d](https://github.com/Dao-AILab/causal-conv1d),
+[llama.cpp](https://github.com/ggml-org/llama.cpp), [b12x](https://pypi.org/project/b12x/) and
+[DFlash](https://github.com/z-lab/dflash). [THIRD\_PARTY\_NOTICES.md](/sharar-project/hibana/blob/main/THIRD_PARTY_NOTICES.md) lists what came from where.

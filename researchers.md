@@ -81,7 +81,7 @@ Compiled 12 November 2026 (Africa/Lagos); last daily update applied 21 November 
 These appeared in Disclosed or Immunefi shoutouts during this pass. They may be elite, but this pass did not pull a year of their posts or enough of their own technical writeups to document them properly:
 
 - [@PaulosYibelo](researchers/PaulosYibelo.md) ([X](https://x.com/PaulosYibelo)) — PwnEscape / pwn.ai; Vercel sandbox KVM escape (CVE-2026-99999); **Upload2Shell / CVE-2026-125396** Ghostscript Type1 UAF→RCE via ImageMagick/Pillow/CUPS (2026-11-21)
-- [@brutecat](https://x.com/brutecat) — Google GFile, $100k, cited in Disclosed
+- [@brutecat](researchers/brutecat.md) ([X](https://x.com/brutecat)) — Google GFile, $100k, cited in Disclosed; 2026-11-22 Ghostscript-in-gVisor note on Upload2Shell
 - [@SLCyberSec](https://x.com/SLCyberSec) — AEM Cloud pre-auth RCE chain, cited in Disclosed
 - [@spaceraccoon](https://x.com/spaceraccoon) — patch-diff monitoring project, cited by infinitelogins
 - [@depi_](https://x.com/depi_) — OpenAI Codex prompt-injection → npm supply chain (writeup saved under writeups/Rhynorater/depi-backdooring-codex.md; quoted by Rhynorater 11 Nov 2026)

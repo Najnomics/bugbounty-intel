@@ -1,7 +1,7 @@
-# HackerOne disclosed reports by weakness (12770 reports)
+# HackerOne disclosed reports by weakness (12776 reports)
 
 
-## Unspecified (1279)
+## Unspecified (1280)
 
 - [1087489](reports/2021/1087489.md) Github access token exposure — shopify — critical — $50,000 — 
 - [1618347](reports/2025/1618347.md) Disclosing  PolicyPageAssetGroup in Private Programs via /graphql `gid://hackerone/PolicyPageAssetGroupsIndex::PolicyPageAssetGroup/{id}` — security — critical — $25,000 — 
@@ -1282,6 +1282,7 @@
 - [4147581](reports/2026/4147581.md) Incomplete IDN hostname check on the transfer path can lead to credential disclosure to an unintended host — curl — low —  — 
 - [4062511](reports/2026/4062511.md) `Vary` cache-key conflation of absent and empty request fields — django — low —  — 
 - [3460138](reports/2026/3460138.md) Open Email Relay on WordPress Gutenberg Plugin via formAction parameter leads to phishing and spam campaigns — wordpress — - —  — 
+- [4227402](reports/2026/4227402.md) Multiple Vulnerabilities in curl/libcurl URL Parser (RFC3986 Compliance Issues) — curl — critical —  — 
 
 ## Information Disclosure (1194)
 
@@ -3946,7 +3947,7 @@
 - [3665151](reports/2026/3665151.md) Brave Shields Domain Reordering Leads to Origin Confusion — brave — low —  — Violation of Secure Design Principles
 - [3829030](reports/2026/3829030.md) Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption — yelp — low —  — Violation of Secure Design Principles
 
-## Improper Access Control - Generic (708)
+## Improper Access Control - Generic (709)
 
 - [2293343](reports/2025/2293343.md) Account Takeover via Password Reset without user interactions — gitlab — critical — $35,000 — Improper Access Control - Generic
 - [1685822](reports/2022/1685822.md) RepositoryPipeline allows importing of local git repos — gitlab — medium — $22,300 — Improper Access Control - Generic
@@ -4656,6 +4657,7 @@
 - [4062639](reports/2026/4062639.md) Unauthenticated UCP/MCP catalog access on a password-protected dev store — shopify — none —  — Improper Access Control - Generic
 - [4059370](reports/2026/4059370.md) Mass assignment in chat.sendMessage allows unprivileged users to forge message state: persistent room DoS, stored HTML injection, and cross-user write — rocket_chat — medium —  — Improper Access Control - Generic
 - [4119675](reports/2026/4119675.md) Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creating site-wide Language rows without language.add — weblate — medium —  — Improper Access Control - Generic
+- [3892948](reports/2026/3892948.md) Broken access control: any member can self-assign arbitrary BuddyPress member types via the ungated "types" REST parameter, bypassing the bp_moderate  — wordpress — medium —  — Improper Access Control - Generic
 
 ## Improper Authentication - Generic (673)
 
@@ -7656,7 +7658,7 @@
 - [4081135](reports/2026/4081135.md) Privilege escalation via unfiltered role restoration in project backup import — weblate — critical —  — Privilege Escalation
 - [4004074](reports/2026/4004074.md) Nextcloud subadmin → admin takeover when allowed_admin_ranges is set: SubAdmin::isUserAccessible() classifies the admin target via IP-gated isAdmin() — nextcloud — medium —  — Privilege Escalation
 
-## Business Logic Errors (356)
+## Business Logic Errors (357)
 
 - [894569](reports/2020/894569.md) An attacker can run pipeline jobs as arbitrary user — gitlab — critical — $12,000 — Business Logic Errors
 - [307239](reports/2018/307239.md) Double Payout via PayPal — coinbase — critical — $10,000 — Business Logic Errors
@@ -8014,6 +8016,7 @@
 - [3485178](reports/2026/3485178.md) Deck app: Invalid tag color is accepted by API and breaks frontend UI — nextcloud — low —  — Business Logic Errors
 - [3508852](reports/2026/3508852.md) Application Data Hiding via Invalid `iconName` Causing Frontend Crash in Nextcloud Tables — nextcloud — low —  — Business Logic Errors
 - [3943436](reports/2026/3943436.md) Unauthenticated attacker can book appointments at arbitrary times, including outside availability and in the past — nextcloud — low —  — Business Logic Errors
+- [4004290](reports/2026/4004290.md) Node.js ZipFile returns attacker-controlled prefix bytes after failed ZIP header validation — nodejs — low —  — Business Logic Errors
 
 ## Memory Corruption - Generic (308)
 
@@ -10612,7 +10615,7 @@
 - [3463619](reports/2025/3463619.md) testing hackerone functions — curl — none —  — Improper Restriction of Authentication Attempts
 - [3174778](reports/2026/3174778.md)  No Rate Limiting on Password Attempts After Insecure Registration Flow cause ATO — mars — medium —  — Improper Restriction of Authentication Attempts
 
-## Use After Free (88)
+## Use After Free (89)
 
 - [826026](reports/2020/826026.md) Use-After-Free In IPV6_2292PKTOPTIONS leading To Arbitrary Kernel R/W Primitives — playstation — high — $10,000 — Use After Free
 - [1441103](reports/2022/1441103.md) Use-after-free in setsockopt IPV6_2292PKTOPTIONS (CVE-2020-7457) — playstation — high — $10,000 — Use After Free
@@ -10702,6 +10705,7 @@
 - [4118643](reports/2026/4118643.md) OpenSSL provider OSSL_LIB_CTX used after free via the connection shutdown list (CVE-2026-80229 fix incomplete) — curl — low —  — Use After Free
 - [4166602](reports/2026/4166602.md) Re-entrant curl_easy_pause UAF in cw-pause — curl — low —  — Use After Free
 - [4110110](reports/2026/4110110.md) HTTP/2 stream teardown can send freed response memory to the peer — nodejs — high —  — Use After Free
+- [4224454](reports/2026/4224454.md) Use-after-free read of the CURLOPT_RESOLVE list after curl_easy_reset() — curl — high —  — Use After Free
 
 ## Misconfiguration (82)
 
@@ -11283,6 +11287,67 @@
 - [3633123](reports/2026/3633123.md)  Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection via pip Flags — aws_vdp — high —  — OS Command Injection
 - [4077800](reports/2026/4077800.md) Unescaped consent-prompt renderer (HTML()) enables concealed-approval OS command injection in strands-agents/tools use_computer — RCE — aws_vdp — medium —  — OS Command Injection
 
+## Buffer Over-read (58)
+
+- [2658447](reports/2024/2658447.md) CVE-2024-7347: Buffer overread in the ngx_http_mp4_module — ibb — medium — $2,142 — Buffer Over-read
+- [746766](reports/2021/746766.md) Two out-of-bounds array reads in Python AST builder (Re-opening 520612 with CVEs) — ibb — medium — $2,000 — Buffer Over-read
+- [2806356](reports/2024/2806356.md) Heap-Buffer-Overread in contains_whitespace when calling parser_validate after supplying a maliciously crafted buffer to parser_parse — cosmos — - — $2,000 — Buffer Over-read
+- [593229](reports/2020/593229.md) Out-of-bounds read in iconv.c:_php_iconv_mime_decode() due to integer overflow — ibb — high — $1,500 — Buffer Over-read
+- [665330](reports/2020/665330.md) Out of Bounds Memory Read in php_jpg_get16 — ibb — critical — $1,500 — Buffer Over-read
+- [891846](reports/2021/891846.md) CVE-2020-9383 Floppy OOB read — ibb — high — $750 — Buffer Over-read
+- [283644](reports/2019/283644.md) Out-Of-Bounds Read in timelib_meridian() — ibb — medium — $500 — Buffer Over-read
+- [248659](reports/2019/248659.md) PHP WDDX Deserialization Heap OOB Read in timelib_meridian() — ibb — medium — $500 — Buffer Over-read
+- [477897](reports/2020/477897.md) buffer overread in base64 code of the xmlrpc module — ibb — medium — $500 — Buffer Over-read
+- [778834](reports/2020/778834.md) OOB read in php_strip_tags_ex — ibb — medium — $500 — Buffer Over-read
+- [964583](reports/2021/964583.md) CVE-2017-13041 The ICMPv6 parser in tcpdump before 4.9.2 has a buffer over-read in print-icmp6.c:icmp6_nodeinfo_print(). — ibb — high — $500 — Buffer Over-read
+- [964582](reports/2021/964582.md) CVE-2017-13040 The MPTCP parser in tcpdump before 4.9.2 has a buffer over-read in print-mptcp.c, several functions. — ibb — high — $500 — Buffer Over-read
+- [831353](reports/2021/831353.md) tcpdump before 4.9.3 has a heap-based buffer over-read related to aoe_print in print-aoe.c and lookup_emem in addrtoname.c — ibb — medium — $500 — Buffer Over-read
+- [1073363](reports/2021/1073363.md) Index Out Of Bounds in protobuf unmarshalling — kubernetes — none — $250 — Buffer Over-read
+- [241610](reports/2017/241610.md) ap_find_token() Buffer Overread — ibb — medium —  — Buffer Over-read
+- [340012](reports/2018/340012.md) Buffer out of bound read in miniupnpc xml parser  — monero — low —  — Buffer Over-read
+- [255587](reports/2018/255587.md)  CVE-2017-1000101: cURL: URL globbing out of bounds read — ibb — medium —  — Buffer Over-read
+- [278231](reports/2018/278231.md) Out of bounds read in libcurl's IMAP FETCH response parser — ibb — - —  — Buffer Over-read
+- [344035](reports/2018/344035.md) Heap Buffer Overflow (READ: 1786) in exif_iif_add_value — ibb — medium —  — Buffer Over-read
+- [261336](reports/2018/261336.md) Out of Bounds Memory Read in unserialize() — ibb — medium —  — Buffer Over-read
+- [541354](reports/2019/541354.md) A specifically malformed MQTT Subscribe packet crashes MQTT Brokers using the mqtt-packet module for decoding   — nodejs-ecosystem — high —  — Buffer Over-read
+- [481335](reports/2019/481335.md) Security check failure or stack buffer overrun (crash) — notepad-plus-plus — low —  — Buffer Over-read
+- [250581](reports/2019/250581.md) CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco C library  — ibb — - —  — Buffer Over-read
+- [268803](reports/2019/268803.md) CVE-2017-12985: The IPv6 parser in tcpdump before 4.9.2 has a buffer over-read in ip6_print() — ibb — high —  — Buffer Over-read
+- [268806](reports/2019/268806.md) CVE-2017-13009 The IPv6 mobility parser in tcpdump before 4.9.2 has a buffer over-read in print-mobility.c:mobility_print(). — ibb — high —  — Buffer Over-read
+- [268807](reports/2019/268807.md) CVE-2017-13010 The BEEP parser in tcpdump before 4.9.2 has a buffer over-read in print-beep.c:l_strnstart(). — ibb — high —  — Buffer Over-read
+- [268808](reports/2019/268808.md) CVE-2017-13038 The PPP parser in tcpdump before 4.9.2 has a buffer over-read in print-ppp.c:handle_mlppp(). — ibb — high —  — Buffer Over-read
+- [268804](reports/2019/268804.md) CVE-2017-12986 The IPv6 routing header parser in tcpdump before 4.9.2 has a buffer over-read in print-rt6.c:rt6_print(). — ibb — high —  — Buffer Over-read
+- [268805](reports/2019/268805.md) CVE-2017-13008 The IEEE 802.11 parser in tcpdump before 4.9.2 has a buffer over-read in print-802_11.c:parse_elements(). — ibb — high —  — Buffer Over-read
+- [480778](reports/2019/480778.md) Heap-buffer-overflow in Perl__byte_dump_string (utf8.c) could lead to memory leak — ibb — high —  — Buffer Over-read
+- [295740](reports/2019/295740.md) GarlicRust - heartbleed style vulnerability in major I2P C++ router implementations — ibb — high —  — Buffer Over-read
+- [966347](reports/2020/966347.md) [bl] Uninitialized memory exposure via negative .consume() — nodejs-ecosystem — high —  — Buffer Over-read
+- [477344](reports/2020/477344.md) Heap Buffer Overflow (READ: 4) in phar_parse_pharfile — ibb — high —  — Buffer Over-read
+- [510025](reports/2020/510025.md) Invalid Read on exif_process_SOFn — ibb — high —  — Buffer Over-read
+- [475499](reports/2020/475499.md) heap buffer overflow in phar_detect_phar_fname_ext — ibb — critical —  — Buffer Over-read
+- [1065517](reports/2021/1065517.md) h1 hacky holidays CTF solution — h1-ctf — critical —  — Buffer Over-read
+- [1209681](reports/2021/1209681.md) OOB read in libuv — nodejs — medium —  — Buffer Over-read
+- [802896](reports/2021/802896.md) CVE-2017-13019:  The PGM parser in tcpdump before 4.9.2 has a buffer over-read in print-pgm.c:pgm_print() — ibb — high —  — Buffer Over-read
+- [802863](reports/2021/802863.md) CVE-2017-13050: The RPKI-Router parser in tcpdump before 4.9.2 has a buffer over-read in print-rpki-rtr.c:rpki_rtr_pdu_print() — ibb — high —  — Buffer Over-read
+- [802846](reports/2021/802846.md)  The VTP parser in tcpdump before 4.9.2 has a buffer over-read in print-vtp.c:vtp_print() — ibb — high —  — Buffer Over-read
+- [824163](reports/2021/824163.md) Squid leaks previous content from reusable buffer — ibb — high —  — Buffer Over-read
+- [1595296](reports/2022/1595296.md) Read beyond bounds in mod_isapi.c [zhbug_httpd_41] — ibb — low —  — Buffer Over-read
+- [2604391](reports/2024/2604391.md) CVE-2024-6874: macidn punycode buffer overread — curl — low —  — Buffer Over-read
+- [2629968](reports/2024/2629968.md) CVE-2024-7264: ASN.1 date parser overread — curl — low —  — Buffer Over-read
+- [2621062](reports/2024/2621062.md) curl: stack-buffer overread during punycode conversions — ibb — low —  — Buffer Over-read
+- [3292590](reports/2025/3292590.md) Heap Buffer Overflow in Curl_memdup0() via CURLOPT_COPYPOSTFIELDS/CURLOPT_POSTFIELDSIZE Mismatch — curl — high —  — Buffer Over-read
+- [3306456](reports/2025/3306456.md) Curl parse_connect_to_string Heap-Overread Leading to Denial of Service via CURLOPT_CONNECT_TO — curl — medium —  — Buffer Over-read
+- [3294999](reports/2025/3294999.md) CVE-2025-9086: Out of bounds read for cookie path — curl — low —  — Buffer Over-read
+- [3406123](reports/2025/3406123.md) Buffer over-read,, Missing NUL termination in addvariable() causes undefined behavior — curl — - —  — Buffer Over-read
+- [3434510](reports/2025/3434510.md) Out-of-bounds read in HTTP method handling causes undefined behavior and potential crash This is sharp, Gaurav. We’ve got a real memory-safety bug ins — curl — high —  — Buffer Over-read
+- [3480078](reports/2025/3480078.md) Heap Buffer Over-read in lib/http2.c (on_header) handling PUSH_PROMISE frames — curl — high —  — Buffer Over-read
+- [3508321](reports/2026/3508321.md) Integer-underflow leads to heap over-read in TFTP implementation — curl — low —  — Buffer Over-read
+- [3751715](reports/2026/3751715.md) Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SCHEME` + `CURLU_NO_GUESS_SCHEME` flow — curl — - —  — Buffer Over-read
+- [3751697](reports/2026/3751697.md) CVE-2026-10536: HTTP/2 stream-dependency tree UAF — curl — low —  — Buffer Over-read
+- [3771139](reports/2026/3771139.md) Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in MariaDB Server — mariadb — - —  — Buffer Over-read
+- [4099194](reports/2026/4099194.md) CVE-2026-107928: info leak uploading over WebSockets with GnuTLS — curl — low —  — Buffer Over-read
+- [3913007](reports/2026/3913007.md) SMTP header injection via C-escape `\r` in the recipient display name — nextcloud — none —  — Buffer Over-read
+- [3643157](reports/2026/3643157.md) Spatial functions perform 4-byte heap buffer over-reads on truncated WKB inputs — mariadb — medium —  — Buffer Over-read
+
 ## Classic Buffer Overflow (57)
 
 - [2177925](reports/2024/2177925.md) Remote vulnerabilities in spp — playstation — high — $12,500 — Classic Buffer Overflow
@@ -11342,66 +11407,6 @@
 - [3575245](reports/2026/3575245.md) Integer Overflow in curl_multi_get_handles() Leading to Heap Buffer Overflow — curl — medium —  — Classic Buffer Overflow
 - [3771147](reports/2026/3771147.md) Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyISAM) — mariadb — - —  — Classic Buffer Overflow
 - [4107681](reports/2026/4107681.md) Node.js Brotli decoder out-of-bounds write permits remote code execution — nodejs — high —  — Classic Buffer Overflow
-
-## Buffer Over-read (57)
-
-- [2658447](reports/2024/2658447.md) CVE-2024-7347: Buffer overread in the ngx_http_mp4_module — ibb — medium — $2,142 — Buffer Over-read
-- [746766](reports/2021/746766.md) Two out-of-bounds array reads in Python AST builder (Re-opening 520612 with CVEs) — ibb — medium — $2,000 — Buffer Over-read
-- [2806356](reports/2024/2806356.md) Heap-Buffer-Overread in contains_whitespace when calling parser_validate after supplying a maliciously crafted buffer to parser_parse — cosmos — - — $2,000 — Buffer Over-read
-- [593229](reports/2020/593229.md) Out-of-bounds read in iconv.c:_php_iconv_mime_decode() due to integer overflow — ibb — high — $1,500 — Buffer Over-read
-- [665330](reports/2020/665330.md) Out of Bounds Memory Read in php_jpg_get16 — ibb — critical — $1,500 — Buffer Over-read
-- [891846](reports/2021/891846.md) CVE-2020-9383 Floppy OOB read — ibb — high — $750 — Buffer Over-read
-- [283644](reports/2019/283644.md) Out-Of-Bounds Read in timelib_meridian() — ibb — medium — $500 — Buffer Over-read
-- [248659](reports/2019/248659.md) PHP WDDX Deserialization Heap OOB Read in timelib_meridian() — ibb — medium — $500 — Buffer Over-read
-- [477897](reports/2020/477897.md) buffer overread in base64 code of the xmlrpc module — ibb — medium — $500 — Buffer Over-read
-- [778834](reports/2020/778834.md) OOB read in php_strip_tags_ex — ibb — medium — $500 — Buffer Over-read
-- [964583](reports/2021/964583.md) CVE-2017-13041 The ICMPv6 parser in tcpdump before 4.9.2 has a buffer over-read in print-icmp6.c:icmp6_nodeinfo_print(). — ibb — high — $500 — Buffer Over-read
-- [964582](reports/2021/964582.md) CVE-2017-13040 The MPTCP parser in tcpdump before 4.9.2 has a buffer over-read in print-mptcp.c, several functions. — ibb — high — $500 — Buffer Over-read
-- [831353](reports/2021/831353.md) tcpdump before 4.9.3 has a heap-based buffer over-read related to aoe_print in print-aoe.c and lookup_emem in addrtoname.c — ibb — medium — $500 — Buffer Over-read
-- [1073363](reports/2021/1073363.md) Index Out Of Bounds in protobuf unmarshalling — kubernetes — none — $250 — Buffer Over-read
-- [241610](reports/2017/241610.md) ap_find_token() Buffer Overread — ibb — medium —  — Buffer Over-read
-- [340012](reports/2018/340012.md) Buffer out of bound read in miniupnpc xml parser  — monero — low —  — Buffer Over-read
-- [255587](reports/2018/255587.md)  CVE-2017-1000101: cURL: URL globbing out of bounds read — ibb — medium —  — Buffer Over-read
-- [278231](reports/2018/278231.md) Out of bounds read in libcurl's IMAP FETCH response parser — ibb — - —  — Buffer Over-read
-- [344035](reports/2018/344035.md) Heap Buffer Overflow (READ: 1786) in exif_iif_add_value — ibb — medium —  — Buffer Over-read
-- [261336](reports/2018/261336.md) Out of Bounds Memory Read in unserialize() — ibb — medium —  — Buffer Over-read
-- [541354](reports/2019/541354.md) A specifically malformed MQTT Subscribe packet crashes MQTT Brokers using the mqtt-packet module for decoding   — nodejs-ecosystem — high —  — Buffer Over-read
-- [481335](reports/2019/481335.md) Security check failure or stack buffer overrun (crash) — notepad-plus-plus — low —  — Buffer Over-read
-- [250581](reports/2019/250581.md) CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco C library  — ibb — - —  — Buffer Over-read
-- [268803](reports/2019/268803.md) CVE-2017-12985: The IPv6 parser in tcpdump before 4.9.2 has a buffer over-read in ip6_print() — ibb — high —  — Buffer Over-read
-- [268806](reports/2019/268806.md) CVE-2017-13009 The IPv6 mobility parser in tcpdump before 4.9.2 has a buffer over-read in print-mobility.c:mobility_print(). — ibb — high —  — Buffer Over-read
-- [268807](reports/2019/268807.md) CVE-2017-13010 The BEEP parser in tcpdump before 4.9.2 has a buffer over-read in print-beep.c:l_strnstart(). — ibb — high —  — Buffer Over-read
-- [268808](reports/2019/268808.md) CVE-2017-13038 The PPP parser in tcpdump before 4.9.2 has a buffer over-read in print-ppp.c:handle_mlppp(). — ibb — high —  — Buffer Over-read
-- [268804](reports/2019/268804.md) CVE-2017-12986 The IPv6 routing header parser in tcpdump before 4.9.2 has a buffer over-read in print-rt6.c:rt6_print(). — ibb — high —  — Buffer Over-read
-- [268805](reports/2019/268805.md) CVE-2017-13008 The IEEE 802.11 parser in tcpdump before 4.9.2 has a buffer over-read in print-802_11.c:parse_elements(). — ibb — high —  — Buffer Over-read
-- [480778](reports/2019/480778.md) Heap-buffer-overflow in Perl__byte_dump_string (utf8.c) could lead to memory leak — ibb — high —  — Buffer Over-read
-- [295740](reports/2019/295740.md) GarlicRust - heartbleed style vulnerability in major I2P C++ router implementations — ibb — high —  — Buffer Over-read
-- [966347](reports/2020/966347.md) [bl] Uninitialized memory exposure via negative .consume() — nodejs-ecosystem — high —  — Buffer Over-read
-- [477344](reports/2020/477344.md) Heap Buffer Overflow (READ: 4) in phar_parse_pharfile — ibb — high —  — Buffer Over-read
-- [510025](reports/2020/510025.md) Invalid Read on exif_process_SOFn — ibb — high —  — Buffer Over-read
-- [475499](reports/2020/475499.md) heap buffer overflow in phar_detect_phar_fname_ext — ibb — critical —  — Buffer Over-read
-- [1065517](reports/2021/1065517.md) h1 hacky holidays CTF solution — h1-ctf — critical —  — Buffer Over-read
-- [1209681](reports/2021/1209681.md) OOB read in libuv — nodejs — medium —  — Buffer Over-read
-- [802896](reports/2021/802896.md) CVE-2017-13019:  The PGM parser in tcpdump before 4.9.2 has a buffer over-read in print-pgm.c:pgm_print() — ibb — high —  — Buffer Over-read
-- [802863](reports/2021/802863.md) CVE-2017-13050: The RPKI-Router parser in tcpdump before 4.9.2 has a buffer over-read in print-rpki-rtr.c:rpki_rtr_pdu_print() — ibb — high —  — Buffer Over-read
-- [802846](reports/2021/802846.md)  The VTP parser in tcpdump before 4.9.2 has a buffer over-read in print-vtp.c:vtp_print() — ibb — high —  — Buffer Over-read
-- [824163](reports/2021/824163.md) Squid leaks previous content from reusable buffer — ibb — high —  — Buffer Over-read
-- [1595296](reports/2022/1595296.md) Read beyond bounds in mod_isapi.c [zhbug_httpd_41] — ibb — low —  — Buffer Over-read
-- [2604391](reports/2024/2604391.md) CVE-2024-6874: macidn punycode buffer overread — curl — low —  — Buffer Over-read
-- [2629968](reports/2024/2629968.md) CVE-2024-7264: ASN.1 date parser overread — curl — low —  — Buffer Over-read
-- [2621062](reports/2024/2621062.md) curl: stack-buffer overread during punycode conversions — ibb — low —  — Buffer Over-read
-- [3292590](reports/2025/3292590.md) Heap Buffer Overflow in Curl_memdup0() via CURLOPT_COPYPOSTFIELDS/CURLOPT_POSTFIELDSIZE Mismatch — curl — high —  — Buffer Over-read
-- [3306456](reports/2025/3306456.md) Curl parse_connect_to_string Heap-Overread Leading to Denial of Service via CURLOPT_CONNECT_TO — curl — medium —  — Buffer Over-read
-- [3294999](reports/2025/3294999.md) CVE-2025-9086: Out of bounds read for cookie path — curl — low —  — Buffer Over-read
-- [3406123](reports/2025/3406123.md) Buffer over-read,, Missing NUL termination in addvariable() causes undefined behavior — curl — - —  — Buffer Over-read
-- [3434510](reports/2025/3434510.md) Out-of-bounds read in HTTP method handling causes undefined behavior and potential crash This is sharp, Gaurav. We’ve got a real memory-safety bug ins — curl — high —  — Buffer Over-read
-- [3480078](reports/2025/3480078.md) Heap Buffer Over-read in lib/http2.c (on_header) handling PUSH_PROMISE frames — curl — high —  — Buffer Over-read
-- [3508321](reports/2026/3508321.md) Integer-underflow leads to heap over-read in TFTP implementation — curl — low —  — Buffer Over-read
-- [3751715](reports/2026/3751715.md) Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SCHEME` + `CURLU_NO_GUESS_SCHEME` flow — curl — - —  — Buffer Over-read
-- [3751697](reports/2026/3751697.md) CVE-2026-10536: HTTP/2 stream-dependency tree UAF — curl — low —  — Buffer Over-read
-- [3771139](reports/2026/3771139.md) Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in MariaDB Server — mariadb — - —  — Buffer Over-read
-- [4099194](reports/2026/4099194.md) CVE-2026-107928: info leak uploading over WebSockets with GnuTLS — curl — low —  — Buffer Over-read
-- [3913007](reports/2026/3913007.md) SMTP header injection via C-escape `\r` in the recipient display name — nextcloud — none —  — Buffer Over-read
 
 ## Heap Overflow (55)
 
@@ -12829,6 +12834,15 @@
 - [3384615](reports/2026/3384615.md) Insufficient checks in the file path parameter allow writing to unauthorized directories — singlestore — low —  — External Control of File Name or Path
 - [4124849](reports/2026/4124849.md) CVE-2026-111951: curl -OJ truncate without filename — curl — low —  — External Control of File Name or Path
 
+## Use of Insufficiently Random Values (6)
+
+- [3385434](reports/2026/3385434.md) Predictable proposal participant tokens enable unauthorized access and vote submission — nextcloud — low — $100 — Use of Insufficiently Random Values
+- [2197801](reports/2024/2197801.md) Invite tokens have Insufficient entropy in GHES Management Console  — github — medium —  — Use of Insufficiently Random Values
+- [2546437](reports/2024/2546437.md) The initial E2EE password generated by Rocket.Chat mobile can be recovered in a practical timescale. — rocket_chat — high —  — Use of Insufficiently Random Values
+- [2913312](reports/2025/2913312.md) Usage of unsafe random function in undici for choosing boundary — nodejs — medium —  — Use of Insufficiently Random Values
+- [3262848](reports/2025/3262848.md) on the implications of permitting procedural culling — curl — low —  — Use of Insufficiently Random Values
+- [4059814](reports/2026/4059814.md) crypto.randomUUID() and randomInt() entropy caches are saved into user-land startup snapshots and SEAs, so every process repeats the same values — nodejs — medium —  — Use of Insufficiently Random Values
+
 ## Exposure of Data Element to Wrong Session (6)
 
 - [3487952](reports/2026/3487952.md) State Isolation Failure in Multiplexed Connections (Shared Auth Context) — curl — critical —  — Exposure of Data Element to Wrong Session
@@ -12877,14 +12891,6 @@
 - [3575250](reports/2026/3575250.md) RTSP RTP Interleaved Parser Assertion Failure (Zero-Length RTP Payload) — curl — none —  — Improper Check or Handling of Exceptional Conditions
 - [3973169](reports/2026/3973169.md) 42: `VMS_STS` macro typo (`< 3` vs `<< 3`) turns curl failures into successful OpenVMS conditions — curl — - —  — Improper Check or Handling of Exceptional Conditions
 - [3973201](reports/2026/3973201.md) CVE-2026-86412: server-set cookie erases cookie jar — curl — - —  — Improper Check or Handling of Exceptional Conditions
-
-## Use of Insufficiently Random Values (5)
-
-- [3385434](reports/2026/3385434.md) Predictable proposal participant tokens enable unauthorized access and vote submission — nextcloud — low — $100 — Use of Insufficiently Random Values
-- [2197801](reports/2024/2197801.md) Invite tokens have Insufficient entropy in GHES Management Console  — github — medium —  — Use of Insufficiently Random Values
-- [2546437](reports/2024/2546437.md) The initial E2EE password generated by Rocket.Chat mobile can be recovered in a practical timescale. — rocket_chat — high —  — Use of Insufficiently Random Values
-- [2913312](reports/2025/2913312.md) Usage of unsafe random function in undici for choosing boundary — nodejs — medium —  — Use of Insufficiently Random Values
-- [3262848](reports/2025/3262848.md) on the implications of permitting procedural culling — curl — low —  — Use of Insufficiently Random Values
 
 ## Improper Check for Certificate Revocation (5)
 

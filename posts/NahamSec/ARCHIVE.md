@@ -1,11 +1,157 @@
 # @NahamSec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1203
-- Conversations/threads: 1019
+- Posts in this file: 1211
+- Conversations/threads: 1025
 - Oldest post captured: 2016-09-01
-- Newest post captured: 2026-11-21
+- Newest post captured: 2026-11-22
+
+
+---
+
+## 2026-11-22 · Reply · @rez0__ @zenitysec_labs Thank you man! Thanks for hosting an episode live and being open to out craz
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @260411518 — 2026-11-22 17:37 UTC (2026-11-22 18:37 WAT)
+
+- URL: https://x.com/260411518/status/2124557957169852724
+- Metrics (at fetch): bookmark 3, impression 4050, like 104, quote 0, reply 9, retweet 5
+
+> The prompt2pwn nahamcon by @NahamSec and @zenitysec_labs was epic. 5 huge targets for the hacking event, world class speakers, the funnest ctf I’ve ever done, etc. great stuff 😊 [pic.x.com/dlA2TYpHgu]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXvyMl1XIAAaObK.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXvyMl7XgAAwsw4.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXvyMmNWYAE8Iip.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXvyMl2XsAAmZ25.jpg — no alt text provided by author
+
+
+### Post — @NahamSec — 2026-11-22 23:59 UTC (2026-11-23 00:59 WAT)
+
+- URL: https://x.com/NahamSec/status/2124653931460759994
+- Metrics (at fetch): bookmark 0, impression 367, like 2, quote 0, reply 1, repost 0
+
+> @rez0__ @zenitysec_labs Thank you man! Thanks for hosting an episode live and being open to out crazy ideas.
+
+
+---
+
+## 2026-11-22 · Reply · @monkehack @zenitysec_labs Thank you 🙏🏼 good to see and thanks for being a part of this year’s speak
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1367644064498282500 — 2026-11-22 21:02 UTC (2026-11-22 22:02 WAT)
+
+- URL: https://x.com/1367644064498282500/status/2124609435095953760
+- Metrics (at fetch): bookmark 0, impression 1172, like 37, quote 0, reply 5, retweet 0
+
+> Prompt2Pwn was one of the best events I attended all year. Thank you so much @NahamSec and @zenitysec_labs, it was superb
+
+
+### Post — @NahamSec — 2026-11-22 23:58 UTC (2026-11-23 00:58 WAT)
+
+- URL: https://x.com/NahamSec/status/2124653723272229076
+- Metrics (at fetch): bookmark 0, impression 303, like 3, quote 0, reply 1, repost 0
+
+> @monkehack @zenitysec_labs Thank you 🙏🏼 good to see and thanks for being a part of this year’s speaker lineup!
+
+
+---
+
+## 2026-11-22 · Reply · @ech0d3lta @zenitysec_labs Thank you for coming!
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1742978376070225922 — 2026-11-22 21:22 UTC (2026-11-22 22:22 WAT)
+
+- URL: https://x.com/1742978376070225922/status/2124614507679072390
+- Metrics (at fetch): bookmark 0, impression 150, like 5, quote 0, reply 1, retweet 0
+
+> Thank you @NahamSec and @zenitysec_labs for a memorable event! I had a blast!
+
+
+### Post — @NahamSec — 2026-11-22 23:57 UTC (2026-11-23 00:57 WAT)
+
+- URL: https://x.com/NahamSec/status/2124653561665712430
+- Metrics (at fetch): bookmark 0, impression 152, like 2, quote 0, reply 0, repost 0
+
+> @ech0d3lta @zenitysec_labs Thank you for coming!
+
+
+---
+
+## 2026-11-22 · Reply · @Rhynorater @zenitysec_labs Great to see you! Thank you for making the trip, dude!
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Rhynorater — 2026-11-22 22:43 UTC (2026-11-22 23:43 WAT)
+
+- URL: https://x.com/Rhynorater/status/2124634965002649790
+- Metrics (at fetch): bookmark 2, impression 1968, like 54, quote 0, reply 2, repost 0
+
+> Amazing time in person at Nahamcon this year! Shout-out to @NahamSec and the @zenitysec_labs team for an outstanding event!
+
+
+### Post — @NahamSec — 2026-11-22 23:57 UTC (2026-11-23 00:57 WAT)
+
+- URL: https://x.com/NahamSec/status/2124653445005353073
+- Metrics (at fetch): bookmark 0, impression 241, like 3, quote 0, reply 0, repost 0
+
+> @Rhynorater @zenitysec_labs Great to see you! Thank you for making the trip, dude!
+
+
+---
+
+## 2026-11-22 · Post · Day 2 was absolutely a blast. 🫶 [pic.x.com/1VjB2D8AlC]
+
+
+### Post — @NahamSec — 2026-11-22 09:51 UTC (2026-11-22 10:51 WAT)
+
+- URL: https://x.com/NahamSec/status/2124440615316574380
+- Metrics (at fetch): bookmark 2, impression 6801, like 94, quote 0, reply 2, repost 4
+
+> Day 2 was absolutely a blast. 🫶 [pic.x.com/1VjB2D8AlC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXuHethagAALRxf.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXuHetiacAEUO5a.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXuHetkbgAAiMHK.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HXuHethbkAAQd2Q.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-22 · Thread · This was absolutely a dream coming true. THANK YOU
+
+
+### Post — @NahamSec — 2026-11-22 09:26 UTC (2026-11-22 10:26 WAT)
+
+- URL: https://x.com/NahamSec/status/2124434333104853330
+- Metrics (at fetch): bookmark 1, impression 14370, like 172, quote 0, reply 5, retweet 0
+
+> This was absolutely a dream coming true. THANK YOU
+
+
+### Thread part 2 — @NahamSec — 2026-11-22 09:49 UTC (2026-11-22 10:49 WAT)
+
+- URL: https://x.com/NahamSec/status/2124440078961516774
+- Metrics (at fetch): bookmark 0, impression 1191, like 3, quote 0, reply 0, repost 0
+
+> @stokfredrik 🫶
+
+
+### Thread part 3 — @NahamSec — 2026-11-22 09:49 UTC (2026-11-22 10:49 WAT)
+
+- URL: https://x.com/NahamSec/status/2124440157134967037
+- Metrics (at fetch): bookmark 0, impression 932, like 1, quote 0, reply 0, repost 0
+
+> @mdp_sec I sure am!
 
 
 ---

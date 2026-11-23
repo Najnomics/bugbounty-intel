@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **12971**
+Total distinct URLs: **12981**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -12977,3 +12977,13 @@ Total distinct URLs: **12971**
 | [14995](https://t.me/dailybountywriteup/14995) | 2026-11-21 09:39:20 | IDOR Explained | https://medium.com/@vigneshkumaroffsec/idor-explained-the-types-where-it-hides-and-how-to-find-it-4adfe01b9023 |
 | [14995](https://t.me/dailybountywriteup/14995) | 2026-11-21 09:39:20 | OpenSSL Said Low. The Aggregators Said 9.8. The Kernel Said 131 KB. | https://medium.com/codetodeploy/openssl-said-low-the-aggregators-said-9-8-the-kernel-said-131-kb-1e8e02aedf20 |
 | [14995](https://t.me/dailybountywriteup/14995) | 2026-11-21 09:39:20 | How I Discovered a Session Management Vulnerability That Could Lead to Account Takeover \| By… | https://samadhanshimple.medium.com/how-i-discovered-a-session-management-vulnerability-that-could-lead-to-account-takeover-by-887ba9f199de |
+| [14996](https://t.me/dailybountywriteup/14996) | 2026-11-22 09:36:28 | How a Next.js CDN Proxy Turned Into a One-Click Account Takeover | https://medium.com/@r3dd404/how-a-next-js-cdn-proxy-turned-into-a-one-click-account-takeover-dd8bc8dd9fde |
+| [14996](https://t.me/dailybountywriteup/14996) | 2026-11-22 09:36:28 | Inside Android’s Storage | https://medium.com/@mohaba746/inside-androids-storage-24ef44b71c0f |
+| [14996](https://t.me/dailybountywriteup/14996) | 2026-11-22 09:36:28 | The Attackers Only Knocked. We Broke the Door Ourselves. | https://wiiwrite.medium.com/the-attackers-only-knocked-we-broke-the-door-ourselves-05812288c394 |
+| [14996](https://t.me/dailybountywriteup/14996) | 2026-11-22 09:36:28 | JWT Attacks Explained | https://medium.com/@vigneshkumaroffsec/jwt-attacks-explained-how-json-web-tokens-get-forged-and-how-to-secure-them-b47eeb5ac00d |
+| [14996](https://t.me/dailybountywriteup/14996) | 2026-11-22 09:36:28 | SSRF in AI-Powered Applications | https://osintteam.blog/ssrf-in-ai-powered-applications-the-bug-most-bug-hunters-should-start-understanding-in-2026-f218fdb69cb5 |
+| [14996](https://t.me/dailybountywriteup/14996) | 2026-11-22 09:36:28 | I built a free, open-source Burp Suite alternative with an AI agent inside | https://infosecwriteups.com/i-built-a-free-open-source-burp-suite-alternative-with-an-ai-agent-inside-9df89971f8c9 |
+| [14996](https://t.me/dailybountywriteup/14996) | 2026-11-22 09:36:28 | Give Gemini 4 Neon the bug nobody has reported yet | https://medium.com/@secops-vti/give-gemini-4-neon-the-bug-nobody-has-reported-yet-0408d05e3e20 |
+| [14996](https://t.me/dailybountywriteup/14996) | 2026-11-22 09:36:28 | A Simple Dirsearch Tool Led Me to an Information Disclosure Vulnerability! | https://medium.com/@adarshnair135/a-simple-dirsearch-tool-led-me-to-an-information-disclosure-vulnerability-35c7831a3d09 |
+| [14996](https://t.me/dailybountywriteup/14996) | 2026-11-22 09:36:28 | Java4Shell, Reproduced on a CPU That Doesn’t Exist | https://rajnamdev.medium.com/java4shell-reproduced-on-a-cpu-that-doesnt-exist-02f40a4e5ba7 |
+| [14996](https://t.me/dailybountywriteup/14996) | 2026-11-22 09:36:28 | P2 Server-Side Request Forgery (SSRF) Leading to Internal Network Resource Access | https://medium.com/@akashmotkar001/p2-server-side-request-forgery-ssrf-leading-to-internal-network-resource-access-a45a587518d6 |

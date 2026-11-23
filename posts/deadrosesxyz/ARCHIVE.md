@@ -1,11 +1,42 @@
 # @deadrosesxyz — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 81
-- Conversations/threads: 70
+- Posts in this file: 82
+- Conversations/threads: 71
 - Oldest post captured: 2023-03-14
-- Newest post captured: 2026-11-14
+- Newest post captured: 2026-11-22
+
+
+---
+
+## 2026-11-22 · Reply · @sjdedic surely syrup has to be on the list???
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1600230048572792846 — 2026-11-22 16:59 UTC (2026-11-22 17:59 WAT)
+
+- URL: https://x.com/1600230048572792846/status/2124548356571590812
+- Metrics (at fetch): bookmark 20, impression 8427, like 103, quote 0, reply 39, retweet 4
+
+> I'm currently accumulating 3 badly overlooked onchain businesses.
+>
+> look at their charts and all you see is a dead token.
+>
+> talk to the teams and you realize the fundamentals are stronger than ever. record revenues, most of it offchain, which is exactly why you have to put in the work to find it.
+>
+> so while you're crying over the market and debating whether crypto ever comes back, I'm out here in onchain Disneyland putting together the best portfolio of my life.
+>
+> we are not the same.
+
+
+### Post — @deadrosesxyz — 2026-11-22 18:01 UTC (2026-11-22 19:01 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/2124563904928141732
+- Metrics (at fetch): bookmark 0, impression 324, like 0, quote 0, reply 0, repost 0
+
+> @sjdedic surely syrup has to be on the list???
 
 
 ---

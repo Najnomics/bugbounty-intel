@@ -331,3 +331,17 @@ _Auto-maintained from `harness/findings.jsonl`. 8 finding(s). Full verbatim post
 ### 2026-11-22 — "Test your own harness" Black Box Arena pack (next week)
 - **Local:** [posts/mdp_sec/2026-11-22-2124303479737049222.md](../posts/mdp_sec/2026-11-22-2124303479737049222.md)
 
+
+### 2026-11-22 — Sitecore media-folder listing → public 15k-email CSV (Medium → High)
+- **Bug / class:** Unauthenticated PII file exposure via CMS media-library enumeration (CWE-548/CWE-552).
+- **Root cause:** Sitecore SOAP API let any signed-up account list media folders; files under `/-/media/` served publicly by path; stale `testing` export never deleted.
+- **How found:** low-priv listing → `testing` folder → CSV opened with no login; random `?v=` to hit origin (not CDN cache).
+- **Takeaways:** pair every authenticated listing API with unauthenticated fetch of listed paths; prioritise test/export/backup folders.
+- **Local:** [posts/mdp_sec/2026-11-22-2124626476397916632.md](../posts/mdp_sec/2026-11-22-2124626476397916632.md); harness [2026-11-23 check-specs](../harness/bug-classes/2026-11-23-cms-media-listing-cdn-proxy-param-alias.md).
+
+### 2026-11-22/23 — Provider bench v2 (self-host 55%), abliteration study, latency vs solves
+- **Signal:** 21 providers + self-host: 10–55% solved; abliterated builds no benefit (0 refusals on stock; −45% reasoning, 2× time-outs); 143→236 tok/s per agent = 16→22/40 solves.
+- **Local:** [providers](../posts/mdp_sec/2026-11-22-2124653323940937754.md), [abliteration](../posts/mdp_sec/2026-11-23-2124707206306427126.md), [speed thread](../posts/mdp_sec/2026-11-22-2124414813296279647.md); writeups [abliteration](../writeups/mdp_sec/blackboxarena-deepseek-v4-1-flash-abliteration.md), [providers 2026-11-23](../writeups/mdp_sec/blackboxarena-deepseek-v4-1-flash-providers-2026-11-23.md).
+
+### 2026-11-22 — Ops notes (scope proxy, thumbnailer targets, dupes, HuntDeck OSS)
+- Agents run on an overseas Linux box behind a MITM proxy that drops out-of-scope traffic ([post](../posts/mdp_sec/2026-11-22-2124600258223300633.md)); "every pdf thumbnailer on a bounty scope just became a target" after Upload2Shell ([post](../posts/mdp_sec/2026-11-22-2124468750242255159.md)); ~4 in 10 of his reports end up dupes ([x.com](https://x.com/mdp_sec/status/2124599244342563095)); HuntDeck open-sourced ([post](../posts/mdp_sec/2026-11-22-2124467610263965976.md), [README](../writeups/mdp_sec/huntdeck-github-2026-11-23.md)); CVSS-10 triage meme (bounty-meta, [post](../posts/mdp_sec/2026-11-22-2124384884265488887.md)).

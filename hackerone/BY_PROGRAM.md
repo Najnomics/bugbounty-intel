@@ -1720,7 +1720,7 @@
 - [3078856](reports/2025/3078856.md) Apache Airflow Sql injection by authenticated user — ibb — low — $505 — SQL Injection
 - [3073507](reports/2025/3073507.md) Apache Airflow Fab Provider: Application does not invalidate session after password change via Airflow cli — ibb — low —  — Insufficient Session Expiration
 
-## curl (689)
+## curl (691)
 
 - [545052](reports/2019/545052.md) Github wikis are editable by anyone #Githubwikistakeover — curl — low —  — Improper Access Control - Generic
 - [550696](reports/2019/550696.md) CVE-2019-5436: Heap Buffer Overflow at lib/tftp.c — curl — low —  — Heap Overflow
@@ -2411,6 +2411,8 @@
 - [4177724](reports/2026/4177724.md) curl 8.23.0 keeps sending requests to an HTTP/3 backend after Alt-Svc: clear — curl — high —  — Improper Access Control - Generic
 - [4199917](reports/2026/4199917.md) SFTP connection reuse skips the host-key pin of a later transfer — curl — low —  — Missing Critical Step in Authentication
 - [4218369](reports/2026/4218369.md) Cross-IP Cookie Disclosure via Empty Custom Host Header Truncation — curl — medium —  — Information Disclosure
+- [4224454](reports/2026/4224454.md) Use-after-free read of the CURLOPT_RESOLVE list after curl_easy_reset() — curl — high —  — Use After Free
+- [4227402](reports/2026/4227402.md) Multiple Vulnerabilities in curl/libcurl URL Parser (RFC3986 Compliance Issues) — curl — critical —  — 
 
 ## nextcloud (624)
 
@@ -5194,6 +5196,182 @@
 - [1790444](reports/2023/1790444.md) HTML injection via insecure parameter [https://www.ubercarshare.com/] — uber — medium —  — Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS)
 - [1883806](reports/2023/1883806.md) Complete Admin account takeover due to PhpDebugBar turned on in Uber's production server — uber — medium —  — Misconfiguration
 
+## nodejs (173)
+
+- [340580](reports/2018/340580.md) registry.nodejs.org Subdomain Takeover — nodejs — - —  — Man-in-the-Middle
+- [365968](reports/2018/365968.md) Your page has 2 blocking CSS resources. This causes a delay in rendering your page. — nodejs — critical —  — Array Index Underflow
+- [589739](reports/2019/589739.md) Multiple HTTP/2 DOS Issues — nodejs — high —  — Uncontrolled Resource Consumption
+- [678487](reports/2020/678487.md) Hostname spoofing — nodejs — - —  — 
+- [771596](reports/2020/771596.md) CRLF Injection in legacy url API (url.parse().hostname) — nodejs — medium —  — CRLF Injection
+- [409943](reports/2020/409943.md) Http request splitting — nodejs — medium —  — HTTP Response Splitting
+- [340053](reports/2020/340053.md) Use After Free in crypto.randomFill — nodejs — - —  — Use After Free
+- [395845](reports/2020/395845.md) url.parse() hostname spoofing via javascript: URIs — nodejs — medium —  — Cross-site Scripting (XSS) - Generic
+- [676710](reports/2020/676710.md) Http response is not ended although underlying socket is already destroyed — nodejs — - —  — Uncontrolled Resource Consumption
+- [746733](reports/2020/746733.md) Remotely trigger an assertion on a TLS server with a malformed certificate string — nodejs — critical —  — Improper Certificate Validation
+- [536954](reports/2020/536954.md) Vulnerability in http-parser & embedded NULL header handling — nodejs — high —  — Improper Null Termination
+- [335533](reports/2020/335533.md) HTTP/2 Denial of Service Vulnerability — nodejs — high —  — Memory Corruption - Generic
+- [335608](reports/2020/335608.md) Denial of Service: nghttp2 use of uninitialized pointer — nodejs — critical —  — NULL Pointer Dereference
+- [335495](reports/2020/335495.md) Out of order TLS handshake / application data messages lead to segmentation fault — nodejs — high —  — Heap Overflow
+- [415329](reports/2020/415329.md) Pull Request #12949 - Security Implications without CVE assignment — nodejs — medium —  — Command Injection - Generic
+- [453513](reports/2020/453513.md) Fix for CVE-2018-12122 can be bypassed via keep-alive requests — nodejs — medium —  — Uncontrolled Resource Consumption
+- [730779](reports/2020/730779.md) HTTP header values do not have trailing OWS trimmed — nodejs — high —  — Improper Input Validation
+- [735748](reports/2020/735748.md) HTTP request smuggling using malformed Transfer-Encoding header — nodejs — critical —  — HTTP Request Smuggling
+- [811502](reports/2020/811502.md) Node.js: TLS session reuse can lead to hostname verification bypass — nodejs — high —  — Man-in-the-Middle
+- [629879](reports/2020/629879.md) loader.js is not secure — nodejs — - —  — Code Injection
+- [784186](reports/2020/784186.md) napi_get_value_string_X allow various kinds of memory corruption — nodejs — high — $250 — Memory Corruption - Generic
+- [446662](reports/2020/446662.md) Node.js HTTP/2 Large Settings Frame DoS — nodejs — low —  — Uncontrolled Resource Consumption
+- [800140](reports/2020/800140.md) Malformed HTTP/2 SETTINGS frame leads to reachable assert — nodejs — critical — $250 — Uncontrolled Resource Consumption
+- [878181](reports/2020/878181.md) Child process environment injection via prototype pollution — nodejs — - —  — Code Injection
+- [922597](reports/2020/922597.md) HTTP Request Smuggling due to CR-to-Hyphen conversion — nodejs — high —  — HTTP Request Smuggling
+- [965914](reports/2020/965914.md) `fs.realpath.native` on darwin may cause buffer overflow — nodejs — medium —  — Classic Buffer Overflow
+- [868834](reports/2020/868834.md) Denial of Service by resource exhaustion CWE-400 due to unfinished HTTP/1.1 requests — nodejs — critical — $250 — Uncontrolled Resource Consumption
+- [799072](reports/2020/799072.md) Slowloris, body parsing — nodejs — low — $250 — Uncontrolled Resource Consumption
+- [1033107](reports/2020/1033107.md) DNS Max Responses for DOS — nodejs — high — $250 — Uncontrolled Resource Consumption
+- [988103](reports/2021/988103.md) Node.js: use-after-free in TLSWrap — nodejs — high —  — Use After Free
+- [1002188](reports/2021/1002188.md) Potential HTTP Request Smuggling in nodejs — nodejs — low — $250 — HTTP Request Smuggling
+- [1069487](reports/2021/1069487.md) DNS rebinding in --inspect (insufficient fix of CVE-2018-7160) — nodejs — high — $500 — Improper Access Control - Generic
+- [1043360](reports/2021/1043360.md) HTTP2 'unknownProtocol' cause Denial of Service by resource exhaustion — nodejs — critical —  — Uncontrolled Resource Consumption
+- [1141623](reports/2021/1141623.md) Unexpected input validation of octal literals in nodejs v15.12.0 and below returns defined values for all undefined octal literals. — nodejs — critical —  — Use of Inherently Dangerous Function
+- [1211160](reports/2021/1211160.md) Node Installer Local Privilege Escalation  — nodejs — medium —  — Privilege Escalation
+- [1209681](reports/2021/1209681.md) OOB read in libuv — nodejs — medium —  — Buffer Over-read
+- [1178337](reports/2021/1178337.md) Improper handling of untypical characters in domain names — nodejs — high —  — Improper Null Termination
+- [1278254](reports/2021/1278254.md) Built-in TLS module unexpectedly treats "rejectUnauthorized: undefined" as "rejectUnauthorized: false", disabling all certificate validation — nodejs — low — $150 — Improper Certificate Validation
+- [1238709](reports/2021/1238709.md) HTTP Request Smuggling due to accepting space before colon — nodejs — medium — $250 — HTTP Request Smuggling
+- [1238099](reports/2021/1238099.md) HTTP Request Smuggling due to ignoring chunk extensions — nodejs — medium — $250 — HTTP Request Smuggling
+- [1431042](reports/2022/1431042.md) Prototype pollution via console.table properties — nodejs — low —  — Modification of Assumed-Immutable Data (MAID)
+- [1429694](reports/2022/1429694.md) Node.js Certificate Verification Bypass via String Injection — nodejs — medium —  — Improper Following of a Certificate's Chain of Trust
+- [1501679](reports/2022/1501679.md) HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding — nodejs — medium —  — HTTP Request Smuggling
+- [1524692](reports/2022/1524692.md) HTTP Request Smuggling Due To Improper Delimiting of Header Fields — nodejs — medium —  — HTTP Request Smuggling
+- [1524555](reports/2022/1524555.md) HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding  — nodejs — medium —  — HTTP Request Smuggling
+- [1583680](reports/2022/1583680.md) Undici does not use CONNECT or otherwise validate upstream HTTPS certificates when using a proxy — nodejs — high —  — Improper Certificate Validation
+- [1631350](reports/2022/1631350.md) Off-by-slash vulnerability in nodejs.org and iojs.org — nodejs — medium —  — Path Traversal
+- [1632921](reports/2022/1632921.md) DNS rebinding in --inspect (insufficient fix of CVE-2022-32212 affecting macOS devices) — nodejs — high —  — Improper Access Control - Generic
+- [1665156](reports/2022/1665156.md) HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding (improper fix for CVE-2022-32215) — nodejs — medium —  — HTTP Request Smuggling
+- [1695596](reports/2022/1695596.md) Node 18 reads openssl.cnf from /home/iojs/build/... upon startup on MacOS — nodejs — medium —  — Cryptographic Issues - Generic
+- [1630336](reports/2022/1630336.md) CVE-2022-32213 bypass via obs-fold mechanic — nodejs — medium —  — HTTP Request Smuggling
+- [1675191](reports/2022/1675191.md) HTTP Request Smuggling Due to Incorrect Parsing of Header Fields — nodejs — medium —  — HTTP Request Smuggling
+- [1690000](reports/2022/1690000.md) Weak randomness in WebCrypto keygen — nodejs — high —  — Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG)
+- [1710652](reports/2022/1710652.md) DNS rebinding in --inspect via invalid octal IP address — nodejs — medium —  — OS Command Injection
+- [1763817](reports/2023/1763817.md) Take over subdomain undici.nodejs.org.cdn.cloudflare.net — nodejs — medium —  — Array Index Underflow
+- [1808596](reports/2023/1808596.md) Multiple OpenSSL error handling issues in nodejs crypto library — nodejs — medium —  — Cryptographic Issues - Generic
+- [1820955](reports/2023/1820955.md) CRLF Injection in Nodejs ‘undici’ via host — nodejs — medium —  — CRLF Injection
+- [1625036](reports/2023/1625036.md) Insecure loading of ICU data through ICU_DATA environment variable — nodejs — low —  — 
+- [1784449](reports/2023/1784449.md) Regular Expression Denial of Service in Headers — nodejs — low —  — Uncontrolled Resource Consumption
+- [1747642](reports/2023/1747642.md) Permissions policies can be bypassed via process.mainModule — nodejs — high —  — Privilege Escalation
+- [2001873](reports/2023/2001873.md) HTTP Request Smuggling via Empty headers separated by CR — nodejs — medium —  — HTTP Request Smuggling
+- [1954535](reports/2023/1954535.md) OpenSSL engines can be used to bypass and/or disable the permission model — nodejs — medium —  — Privilege Escalation
+- [1877919](reports/2023/1877919.md) The use of __proto__ in process.mainModule.__proto__.require() bypasses the permission system in Node v19.6.1 — nodejs — high —  — Privilege Escalation
+- [1966499](reports/2023/1966499.md) fs module's file watching is not restricted by --allow-fs-read — nodejs — medium —  — Improper Access Control - Generic
+- [1966492](reports/2023/1966492.md) fs.openAsBlob() bypasses permission system — nodejs — medium —  — Improper Access Control - Generic
+- [1952978](reports/2023/1952978.md) Filesystem experimental permissions policy does not handle path traversal cases. — nodejs — high —  — Path Traversal
+- [1962701](reports/2023/1962701.md) Process-based permissions can be bypassed with the "inspector" module.   — nodejs — high —  — Improper Access Control - Generic
+- [1884159](reports/2023/1884159.md) node.js process aborts when processing x509 certs with invalid public key information — nodejs — medium —  — Uncontrolled Resource Consumption
+- [1927480](reports/2023/1927480.md) DiffieHellman doesn't generate keys after setting a key — nodejs — medium —  — Inconsistency Between Implementation and Documented Design
+- [1623175](reports/2023/1623175.md) Node 18 reads openssl.cnf from /home/iojs/build/... upon startup. — nodejs — medium —  — Cryptographic Issues - Generic
+- [1574078](reports/2023/1574078.md) DNS rebinding in --inspect (again) via invalid IP addresses  — nodejs — high —  — OS Command Injection
+- [2043807](reports/2023/2043807.md) Policy-restricted modules can escalate to higher privileges by impersonating other modules in a policy list using module.constructor.createRequire() — nodejs — medium —  — Privilege Escalation
+- [2038134](reports/2023/2038134.md) Permission model bypass by specifying a path traversal sequence in a buffer,  — nodejs — high —  — Path Traversal
+- [2037887](reports/2023/2037887.md) fs.mkdtemp() and fs.mkdtempSync() are missing getValidatedPath() checks. — nodejs — low —  — Path Traversal
+- [1961655](reports/2023/1961655.md) Renaming/aliasing relative symbolic links potentially redirects them to supposedly inaccessible locations — nodejs — medium —  — Privilege Escalation
+- [1960870](reports/2023/1960870.md) Permissions policies can be bypassed via Module._load. — nodejs — high —  — Privilege Escalation
+- [1946470](reports/2023/1946470.md) Dependency Policy Bypass via process.binding — nodejs — medium —  — Privilege Escalation
+- [2051224](reports/2023/2051224.md) fs.statfs bypasses Permission Model — nodejs — low —  — Improper Access Control - Generic
+- [2051257](reports/2023/2051257.md) process.binding() can bypass the permission model through path traversal — nodejs — high —  — Path Traversal
+- [2094235](reports/2023/2094235.md) Integrity checks according to policies can be circumvented — nodejs — medium —  — Insufficient Verification of Data Authenticity
+- [2092852](reports/2023/2092852.md) Permission model improperly protects against path traversal — nodejs — high —  — Path Traversal
+- [2199818](reports/2023/2199818.md) Path traversal through path stored in Uint8Array — nodejs — high —  — Path Traversal
+- [2259914](reports/2024/2259914.md) Multiple permission model bypasses due to improper path traversal sequence sanitization — nodejs — high —  — Path Traversal
+- [2233486](reports/2024/2233486.md) http: Reading unprocessed HTTP request with unbounded chunk extension allows DoS attacks — nodejs — high —  — Uncontrolled Resource Consumption
+- [2269177](reports/2024/2269177.md) Node.js is vulnerable to the Marvin Attack (timing variant of the Bleichenbacher attack against PKCS#1 v1.5 padding) — nodejs — medium —  — Use of a Broken or Risky Cryptographic Algorithm
+- [2237545](reports/2024/2237545.md) Code injection and privilege escalation through Linux capabilities — nodejs — high —  — Privilege Escalation
+- [2257156](reports/2024/2257156.md) Improper handling of wildcards in --allow-fs-read and --allow-fs-write — nodejs — medium —  — Improper Access Control - Generic
+- [2218653](reports/2024/2218653.md) Path traversal by monkey-patching Buffer internals — nodejs — high —  — Path Traversal
+- [2352957](reports/2024/2352957.md) Proxy-Authorization header is not cleared in cross-domain redirect in undici — nodejs — low —  — Information Disclosure
+- [2170226](reports/2024/2170226.md) setuid() does not drop all privileges due to io_uring — nodejs — high —  — Privilege Escalation
+- [2284065](reports/2024/2284065.md) Denial of Service by resource exhaustion in fetch() brotli decoding — nodejs — medium —  — Uncontrolled Resource Consumption
+- [2319584](reports/2024/2319584.md) "Assertion failed" in node::http2::Http2Session::~Http2Session() leads to HTTP/2 server crash — nodejs — high —  — Uncontrolled Resource Consumption
+- [2237099](reports/2024/2237099.md) HTTP Request Smuggling via Content Length Obfuscation — nodejs — medium —  — HTTP Request Smuggling
+- [2408074](reports/2024/2408074.md) Proxy-Authorization header not cleared on cross-origin redirect in undici.request — nodejs — low —  — Insufficiently Protected Credentials
+- [2377760](reports/2024/2377760.md) fetch with integrity option is too lax when algorithm is specified but hash value is in incorrect — nodejs — - —  — Violation of Secure Design Principles
+- [2092749](reports/2024/2092749.md) Bypass network import restriction via data URL — nodejs — medium —  — Improper Access Control - Generic
+- [2472071](reports/2024/2472071.md) fs.fchown/fchmod bypasses permission model — nodejs — low —  — Improper Access Control - Generic
+- [2461831](reports/2024/2461831.md) Bypass incomplete fix of CVE-2024-27980 — nodejs — high —  — Command Injection - Generic
+- [2145862](reports/2024/2145862.md) fs.lstat bypasses permission model — nodejs — low —  — Privilege Escalation
+- [2079103](reports/2024/2079103.md) Permission model improperly processes UNC paths — nodejs — low —  — Privilege Escalation
+- [2260337](reports/2024/2260337.md) Permissions can be bypassed via arbitrary code execution through abusing libuv signal pipes — nodejs — - —  — Privilege Escalation
+- [2575105](reports/2025/2575105.md) Worker permission bypass via InternalWorker leak in diagnostics — nodejs — high —  — Improper Access Control - Generic
+- [2913312](reports/2025/2913312.md) Usage of unsafe random function in undici for choosing boundary — nodejs — medium —  — Use of Insufficiently Random Values
+- [2307225](reports/2025/2307225.md) Path traversal by drive name in Windows environment — nodejs — medium —  — Path Traversal
+- [2841362](reports/2025/2841362.md) GOAWAY HTTP/2 frames cause memory leak outside heap — nodejs — medium —  — Uncontrolled Resource Consumption
+- [2817648](reports/2025/2817648.md) Improper error handling in async cryptographic operations crashes process — nodejs — high —  — Cryptographic Issues - Generic
+- [3083428](reports/2025/3083428.md) Corrupted pointer in node::fs::ReadFileUtf8(const FunctionCallbackInfo<Value>& args) when args[0] is a string. — nodejs — low —  — Memory Corruption - Generic
+- [2084280](reports/2025/2084280.md) WASI sandbox escape via symlink — nodejs — medium —  — Privilege Escalation
+- [2054283](reports/2025/2054283.md) Improper HTTP header block termination in llhttp — nodejs — medium —  — HTTP Request Smuggling
+- [3160912](reports/2025/3160912.md) Windows Device Names (CON, PRN, AUX) Bypass Path Traversal Protection in path.normalize() — nodejs — high —  — Path Traversal
+- [3131758](reports/2025/3131758.md) HashDoS in V8 — nodejs — high —  — Cryptographic Issues - Generic
+- [3255707](reports/2025/3255707.md) Windows Device Names Still Allow Path Traversal in UNC Paths After CVE-2025-27210 Fix — nodejs — high —  — Path Traversal
+- [3302484](reports/2025/3302484.md) CWE-195 in ExternalMemoryAccounter::Increase() — nodejs — - —  — 
+- [3463949](reports/2025/3463949.md) Missing AES-GCM Authentication Tag Validation and Improper Deprecation Handling — nodejs — high —  — Missing Required Cryptographic Step
+- [3390084](reports/2026/3390084.md) fs.futimes() Bypasses Read-Only Permission Model — nodejs — low —  — Improper Access Control - Generic
+- [3417819](reports/2026/3417819.md) FS Permissions Bypass — nodejs — high —  — Violation of Secure Design Principles
+- [3405778](reports/2026/3405778.md) Timeout-based race conditions make Uint8Array/Buffer.alloc non-zerofilled — nodejs — high —  — Improper Initialization
+- [3357723](reports/2026/3357723.md) Memory leak that enables remote Denial of Service against applications processing TLS client certificates — nodejs — medium —  — Uncontrolled Resource Consumption
+- [3456295](reports/2026/3456295.md) Uncatchable "Maximum call stack size exceeded" error on Node.js via async_hooks leads to process crashes bypassing error handlers — nodejs — medium —  — Improper Handling of Exceptional Conditions
+- [3465156](reports/2026/3465156.md) Node.js permission model bypass via unchecked Unix Domain Socket connections (UDS) — nodejs — medium —  — Server-Side Request Forgery (SSRF)
+- [3473882](reports/2026/3473882.md) TLS PSK/ALPN Callback Exceptions Bypass Error Handlers, Causing DoS and FD Leak — nodejs — medium —  — Uncontrolled Resource Consumption
+- [3456148](reports/2026/3456148.md) Unbounded decompression chain in HTTP responses on Node.js Fetch API via Content-Encoding leads to resource exhaustion — nodejs — - —  — 
+- [3546390](reports/2026/3546390.md) Assertion error in node_url.cc via malformed URL format leads to Node.js crash — nodejs — medium —  — Reachable Assertion
+- [3531737](reports/2026/3531737.md) Memory leak in Node.js HTTP/2 server via WINDOW_UPDATE on stream 0 leads to resource exhaustion — nodejs — medium —  — Missing Release of Memory after Effective Lifetime
+- [3449392](reports/2026/3449392.md) CVE-2024-36137 Patch Bypass - FileHandle.chmod/chown — nodejs — low —  — Improper Access Control - Generic
+- [3560402](reports/2026/3560402.md) Denial of Service via `__proto__` header name in `req.headersDistinct` (Uncaught `TypeError` crashes Node.js process) — nodejs — high —  — Uncontrolled Resource Consumption
+- [3559715](reports/2026/3559715.md) Node.js Permission Model bypass: UDS server bind/listen works without `--allow-net` — nodejs — medium —  — Improper Access Control - Generic
+- [3533945](reports/2026/3533945.md) Timing side-channel in HMAC verification via memcmp() in crypto_hmac.cc leads to potential MAC forgery — nodejs — medium —  — Cryptographic Issues - Generic
+- [3480841](reports/2026/3480841.md) Permission Model Bypass in realpathSync.native Allows File Existence Disclosure — nodejs — low —  — Information Disclosure
+- [3511792](reports/2026/3511792.md) HashDoS in V8 — nodejs — medium —  — Cryptographic Issues - Generic
+- [3556769](reports/2026/3556769.md) Incomplete fix for CVE-2026-21637: loadSNI() in _tls_wrap.js lacks try/catch leading to Remote DoS — nodejs — high —  — 
+- [3752489](reports/2026/3752489.md) Memory Corruption via TOCTOU Race in SharedArrayBuffer UTF-8 Decode (`StringBytes::Encode`) — nodejs — high —  — Time-of-check Time-of-use (TOCTOU) Race Condition
+- [3736889](reports/2026/3736889.md) NULL pointer dereference in node:sqlite DatabaseSync#applyChangeset() via malformed SQLite changeset — nodejs — high —  — NULL Pointer Dereference
+- [3781015](reports/2026/3781015.md)  Incomplete Fix for CVE-2026-21637: OCSPRequest and resumeSession Events Crash Node.js TLS Server via Unhandled Synchronous Exceptions — nodejs — high —  — Uncontrolled Resource Consumption
+- [3692858](reports/2026/3692858.md) Permission Model Bypass via `process.report.writeReport()` Path Misvalidation — nodejs — low —  — Improper Access Control - Generic
+- [3658225](reports/2026/3658225.md) HTTP/2 sessions never clean up after GOAWAY on invalid protocol errors — nodejs — medium —  — Uncontrolled Resource Consumption
+- [3817602](reports/2026/3817602.md) Node --run POSIX positional argument escaping allows shell command injection — nodejs — high —  — OS Command Injection
+- [3760016](reports/2026/3760016.md) Node.js WebCrypto AES Integer Overflow Leads to Remote Process Abort (DoS) — nodejs — high —  — Integer Overflow
+- [3656716](reports/2026/3656716.md) Embedded-nul hostnames can lead to silent authority rebinding due to c-string truncation in resolver bindings — nodejs — medium —  — Improper Access Control - Generic
+- [3676863](reports/2026/3676863.md) Unbounded memory growth in `node:http2` clients via attacker-controlled ORIGIN frames — nodejs — medium —  — Uncontrolled Resource Consumption
+- [3720313](reports/2026/3720313.md) Proxy credentials leaked in ERR_PROXY_TUNNEL error message — nodejs — medium —  — Privacy Violation
+- [3625987](reports/2026/3625987.md) Permission Model bypass via FileHandle.utimes() in the promises API — nodejs — low —  — Incorrect Default Permissions
+- [3649802](reports/2026/3649802.md) TLS host identity verification bypass via session reuse with different servername leads to unauthorized connections — nodejs — medium —  — Exploiting Incorrectly Configured SSL/TLS
+- [3656869](reports/2026/3656869.md) Uppercase sni context matching can lead to mtls authorization bypass due to case-sensitive hostname matching — nodejs — medium —  — Improper Access Control - Generic
+- [3688064](reports/2026/3688064.md) Node.js unicode dot separator handling can lead to tls wildcard-depth authentication bypass due to resolver and verifier hostname normalization mismat — nodejs — high —  — Improper Handling of Unicode Encoding
+- [3618831](reports/2026/3618831.md) Unix domain socket server bypasses --permission network restrictions (incomplete CVE-2026-21636 fix) — nodejs — low —  — Improper Access Control - Generic
+- [3582376](reports/2026/3582376.md) HTTP Response Queue Poisoning via TOCTOU Race Condition in `http.Agent` — nodejs — low —  — Time-of-check Time-of-use (TOCTOU) Race Condition
+- [3648681](reports/2026/3648681.md) Improper Input Validation — HTTP Response Parser Unconditionally Accepts Bare CR in Status Line — nodejs — medium —  — HTTP Request Smuggling
+- [3838601](reports/2026/3838601.md) Permission Model Bypass: `trace_events.createTracing().enable()` Writes Trace Logs Outside `--allow-fs-write` — nodejs — low —  — Improper Access Control - Generic
+- [3816840](reports/2026/3816840.md) HTTPS Agent PFX object-array key collision allows mTLS client identity reuse across different per-request certificates — nodejs — medium —  — Improper Authentication - Generic
+- [3761342](reports/2026/3761342.md) Permission Model: --allow-fs-read/--allow-fs-write radix-tree prefix-boundary over-grant — nodejs — high —  — Improper Access Control - Generic
+- [3812439](reports/2026/3812439.md) HTTPS Agent TLS session reuse skips hostname verification across identity policies (incomplete fix of CVE-2026-48934) — nodejs — medium —  — Exploiting Incorrectly Configured SSL/TLS
+- [3815767](reports/2026/3815767.md) Permission Model bypass: process.report writes (and overwrites) files outside --allow-fs-write paths — nodejs — low —  — Improper Access Control - Generic
+- [3723248](reports/2026/3723248.md) HTTP Request Smuggling via Connection: close<TAB> in Node.js llhttp parser — nodejs — medium —  — HTTP Request Smuggling
+- [3846922](reports/2026/3846922.md) HTTP/2 retained header blocks evade maxSessionMemory and enable remote memory exhaustion — nodejs — high —  — Uncontrolled Resource Consumption
+- [3833629](reports/2026/3833629.md) Re-entrant `nghttp2_session_mem_send()` during `nghttp2_session_mem_recv()` causes heap-use-after-free in Node.js HTTP/2 — nodejs — high —  — Use After Free
+- [3795900](reports/2026/3795900.md) node:sqlite SQLTagStore Iterator Replay Lets Attacker Re-Execute Victim-Bound Writes Indefinitely — nodejs — medium —  — Time-of-check Time-of-use (TOCTOU) Race Condition
+- [3795657](reports/2026/3795657.md) dns.resolveAny() Aborts the Node.js Process When a DNS Response Contains More Than 256 A Records — nodejs — medium —  — Uncontrolled Resource Consumption
+- [3564941](reports/2026/3564941.md) HTTP Request Smuggling via Silent Header Truncation in Node.js HTTP Parser — nodejs — low —  — HTTP Request Smuggling
+- [3857258](reports/2026/3857258.md) Reachable assertion in node:zlib sync API crashes the entire process via spoofed TypedArray byteLength (all 11 *Sync functions affected) — nodejs — medium —  — Uncontrolled Resource Consumption
+- [4038342](reports/2026/4038342.md) dns.resolve truncates names containing NUL char — nodejs — high —  — Improper Access Control - Generic
+- [4006744](reports/2026/4006744.md) TLS certificate hostname bypass when the host loosely resolves to an IP address — nodejs — high —  — Improper Certificate Validation
+- [4038361](reports/2026/4038361.md) Keep-alive socket process a response that was written before the request was sent — nodejs — medium —  — Time-of-check Time-of-use (TOCTOU) Race Condition
+- [4038287](reports/2026/4038287.md) TLS certificate hostname bypass when the IP is written fullwidth digits — nodejs — high —  — Improper Certificate Validation
+- [3962304](reports/2026/3962304.md) Improper certificate validation for non-canonical IPv4 hostnames allows DNS SANs to authenticate IP endpoints — nodejs — medium —  — Improper Certificate Validation
+- [3838675](reports/2026/3838675.md) Permission Model bypass with fs.realpathSync — nodejs — low —  — Improper Access Control - Generic
+- [3824331](reports/2026/3824331.md) Null Dereference in X509ToObject — nodejs — medium —  — NULL Pointer Dereference
+- [3996423](reports/2026/3996423.md) Permission Model filesystem over-grant via wildcard radix lookup — nodejs — low —  — Improper Access Control - Generic
+- [3908163](reports/2026/3908163.md) HTTPS Agent reuses TLS authentication state across distinct secureContext policies — nodejs — medium —  — Improper Certificate Validation
+- [4110110](reports/2026/4110110.md) HTTP/2 stream teardown can send freed response memory to the peer — nodejs — high —  — Use After Free
+- [4107681](reports/2026/4107681.md) Node.js Brotli decoder out-of-bounds write permits remote code execution — nodejs — high —  — Classic Buffer Overflow
+- [4059814](reports/2026/4059814.md) crypto.randomUUID() and randomInt() entropy caches are saved into user-land startup snapshots and SEAs, so every process repeats the same values — nodejs — medium —  — Use of Insufficiently Random Values
+- [4004290](reports/2026/4004290.md) Node.js ZipFile returns attacker-controlled prefix bytes after failed ZIP header validation — nodejs — low —  — Business Logic Errors
+
 ## vkcom (172)
 
 - [65324](reports/2015/65324.md) XSS on added name album on videos. — vkcom — - —  — Cross-site Scripting (XSS) - Generic
@@ -5368,180 +5546,6 @@
 - [1354452](reports/2021/1354452.md) Выполнение API-методов при открытии сообщества/приложения — vkcom — high — $2,000 — Privilege Escalation
 - [1454359](reports/2022/1454359.md) Reflected Xss On https://vk.com/search — vkcom — medium — $500 — Cross-site Scripting (XSS) - Reflected
 - [1343528](reports/2022/1343528.md) Уязвимость в приложении для Android — vkcom — high — $3,000 — Improper Authentication - Generic
-
-## nodejs (171)
-
-- [340580](reports/2018/340580.md) registry.nodejs.org Subdomain Takeover — nodejs — - —  — Man-in-the-Middle
-- [365968](reports/2018/365968.md) Your page has 2 blocking CSS resources. This causes a delay in rendering your page. — nodejs — critical —  — Array Index Underflow
-- [589739](reports/2019/589739.md) Multiple HTTP/2 DOS Issues — nodejs — high —  — Uncontrolled Resource Consumption
-- [678487](reports/2020/678487.md) Hostname spoofing — nodejs — - —  — 
-- [771596](reports/2020/771596.md) CRLF Injection in legacy url API (url.parse().hostname) — nodejs — medium —  — CRLF Injection
-- [409943](reports/2020/409943.md) Http request splitting — nodejs — medium —  — HTTP Response Splitting
-- [340053](reports/2020/340053.md) Use After Free in crypto.randomFill — nodejs — - —  — Use After Free
-- [395845](reports/2020/395845.md) url.parse() hostname spoofing via javascript: URIs — nodejs — medium —  — Cross-site Scripting (XSS) - Generic
-- [676710](reports/2020/676710.md) Http response is not ended although underlying socket is already destroyed — nodejs — - —  — Uncontrolled Resource Consumption
-- [746733](reports/2020/746733.md) Remotely trigger an assertion on a TLS server with a malformed certificate string — nodejs — critical —  — Improper Certificate Validation
-- [536954](reports/2020/536954.md) Vulnerability in http-parser & embedded NULL header handling — nodejs — high —  — Improper Null Termination
-- [335533](reports/2020/335533.md) HTTP/2 Denial of Service Vulnerability — nodejs — high —  — Memory Corruption - Generic
-- [335608](reports/2020/335608.md) Denial of Service: nghttp2 use of uninitialized pointer — nodejs — critical —  — NULL Pointer Dereference
-- [335495](reports/2020/335495.md) Out of order TLS handshake / application data messages lead to segmentation fault — nodejs — high —  — Heap Overflow
-- [415329](reports/2020/415329.md) Pull Request #12949 - Security Implications without CVE assignment — nodejs — medium —  — Command Injection - Generic
-- [453513](reports/2020/453513.md) Fix for CVE-2018-12122 can be bypassed via keep-alive requests — nodejs — medium —  — Uncontrolled Resource Consumption
-- [730779](reports/2020/730779.md) HTTP header values do not have trailing OWS trimmed — nodejs — high —  — Improper Input Validation
-- [735748](reports/2020/735748.md) HTTP request smuggling using malformed Transfer-Encoding header — nodejs — critical —  — HTTP Request Smuggling
-- [811502](reports/2020/811502.md) Node.js: TLS session reuse can lead to hostname verification bypass — nodejs — high —  — Man-in-the-Middle
-- [629879](reports/2020/629879.md) loader.js is not secure — nodejs — - —  — Code Injection
-- [784186](reports/2020/784186.md) napi_get_value_string_X allow various kinds of memory corruption — nodejs — high — $250 — Memory Corruption - Generic
-- [446662](reports/2020/446662.md) Node.js HTTP/2 Large Settings Frame DoS — nodejs — low —  — Uncontrolled Resource Consumption
-- [800140](reports/2020/800140.md) Malformed HTTP/2 SETTINGS frame leads to reachable assert — nodejs — critical — $250 — Uncontrolled Resource Consumption
-- [878181](reports/2020/878181.md) Child process environment injection via prototype pollution — nodejs — - —  — Code Injection
-- [922597](reports/2020/922597.md) HTTP Request Smuggling due to CR-to-Hyphen conversion — nodejs — high —  — HTTP Request Smuggling
-- [965914](reports/2020/965914.md) `fs.realpath.native` on darwin may cause buffer overflow — nodejs — medium —  — Classic Buffer Overflow
-- [868834](reports/2020/868834.md) Denial of Service by resource exhaustion CWE-400 due to unfinished HTTP/1.1 requests — nodejs — critical — $250 — Uncontrolled Resource Consumption
-- [799072](reports/2020/799072.md) Slowloris, body parsing — nodejs — low — $250 — Uncontrolled Resource Consumption
-- [1033107](reports/2020/1033107.md) DNS Max Responses for DOS — nodejs — high — $250 — Uncontrolled Resource Consumption
-- [988103](reports/2021/988103.md) Node.js: use-after-free in TLSWrap — nodejs — high —  — Use After Free
-- [1002188](reports/2021/1002188.md) Potential HTTP Request Smuggling in nodejs — nodejs — low — $250 — HTTP Request Smuggling
-- [1069487](reports/2021/1069487.md) DNS rebinding in --inspect (insufficient fix of CVE-2018-7160) — nodejs — high — $500 — Improper Access Control - Generic
-- [1043360](reports/2021/1043360.md) HTTP2 'unknownProtocol' cause Denial of Service by resource exhaustion — nodejs — critical —  — Uncontrolled Resource Consumption
-- [1141623](reports/2021/1141623.md) Unexpected input validation of octal literals in nodejs v15.12.0 and below returns defined values for all undefined octal literals. — nodejs — critical —  — Use of Inherently Dangerous Function
-- [1211160](reports/2021/1211160.md) Node Installer Local Privilege Escalation  — nodejs — medium —  — Privilege Escalation
-- [1209681](reports/2021/1209681.md) OOB read in libuv — nodejs — medium —  — Buffer Over-read
-- [1178337](reports/2021/1178337.md) Improper handling of untypical characters in domain names — nodejs — high —  — Improper Null Termination
-- [1278254](reports/2021/1278254.md) Built-in TLS module unexpectedly treats "rejectUnauthorized: undefined" as "rejectUnauthorized: false", disabling all certificate validation — nodejs — low — $150 — Improper Certificate Validation
-- [1238709](reports/2021/1238709.md) HTTP Request Smuggling due to accepting space before colon — nodejs — medium — $250 — HTTP Request Smuggling
-- [1238099](reports/2021/1238099.md) HTTP Request Smuggling due to ignoring chunk extensions — nodejs — medium — $250 — HTTP Request Smuggling
-- [1431042](reports/2022/1431042.md) Prototype pollution via console.table properties — nodejs — low —  — Modification of Assumed-Immutable Data (MAID)
-- [1429694](reports/2022/1429694.md) Node.js Certificate Verification Bypass via String Injection — nodejs — medium —  — Improper Following of a Certificate's Chain of Trust
-- [1501679](reports/2022/1501679.md) HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding — nodejs — medium —  — HTTP Request Smuggling
-- [1524692](reports/2022/1524692.md) HTTP Request Smuggling Due To Improper Delimiting of Header Fields — nodejs — medium —  — HTTP Request Smuggling
-- [1524555](reports/2022/1524555.md) HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding  — nodejs — medium —  — HTTP Request Smuggling
-- [1583680](reports/2022/1583680.md) Undici does not use CONNECT or otherwise validate upstream HTTPS certificates when using a proxy — nodejs — high —  — Improper Certificate Validation
-- [1631350](reports/2022/1631350.md) Off-by-slash vulnerability in nodejs.org and iojs.org — nodejs — medium —  — Path Traversal
-- [1632921](reports/2022/1632921.md) DNS rebinding in --inspect (insufficient fix of CVE-2022-32212 affecting macOS devices) — nodejs — high —  — Improper Access Control - Generic
-- [1665156](reports/2022/1665156.md) HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding (improper fix for CVE-2022-32215) — nodejs — medium —  — HTTP Request Smuggling
-- [1695596](reports/2022/1695596.md) Node 18 reads openssl.cnf from /home/iojs/build/... upon startup on MacOS — nodejs — medium —  — Cryptographic Issues - Generic
-- [1630336](reports/2022/1630336.md) CVE-2022-32213 bypass via obs-fold mechanic — nodejs — medium —  — HTTP Request Smuggling
-- [1675191](reports/2022/1675191.md) HTTP Request Smuggling Due to Incorrect Parsing of Header Fields — nodejs — medium —  — HTTP Request Smuggling
-- [1690000](reports/2022/1690000.md) Weak randomness in WebCrypto keygen — nodejs — high —  — Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG)
-- [1710652](reports/2022/1710652.md) DNS rebinding in --inspect via invalid octal IP address — nodejs — medium —  — OS Command Injection
-- [1763817](reports/2023/1763817.md) Take over subdomain undici.nodejs.org.cdn.cloudflare.net — nodejs — medium —  — Array Index Underflow
-- [1808596](reports/2023/1808596.md) Multiple OpenSSL error handling issues in nodejs crypto library — nodejs — medium —  — Cryptographic Issues - Generic
-- [1820955](reports/2023/1820955.md) CRLF Injection in Nodejs ‘undici’ via host — nodejs — medium —  — CRLF Injection
-- [1625036](reports/2023/1625036.md) Insecure loading of ICU data through ICU_DATA environment variable — nodejs — low —  — 
-- [1784449](reports/2023/1784449.md) Regular Expression Denial of Service in Headers — nodejs — low —  — Uncontrolled Resource Consumption
-- [1747642](reports/2023/1747642.md) Permissions policies can be bypassed via process.mainModule — nodejs — high —  — Privilege Escalation
-- [2001873](reports/2023/2001873.md) HTTP Request Smuggling via Empty headers separated by CR — nodejs — medium —  — HTTP Request Smuggling
-- [1954535](reports/2023/1954535.md) OpenSSL engines can be used to bypass and/or disable the permission model — nodejs — medium —  — Privilege Escalation
-- [1877919](reports/2023/1877919.md) The use of __proto__ in process.mainModule.__proto__.require() bypasses the permission system in Node v19.6.1 — nodejs — high —  — Privilege Escalation
-- [1966499](reports/2023/1966499.md) fs module's file watching is not restricted by --allow-fs-read — nodejs — medium —  — Improper Access Control - Generic
-- [1966492](reports/2023/1966492.md) fs.openAsBlob() bypasses permission system — nodejs — medium —  — Improper Access Control - Generic
-- [1952978](reports/2023/1952978.md) Filesystem experimental permissions policy does not handle path traversal cases. — nodejs — high —  — Path Traversal
-- [1962701](reports/2023/1962701.md) Process-based permissions can be bypassed with the "inspector" module.   — nodejs — high —  — Improper Access Control - Generic
-- [1884159](reports/2023/1884159.md) node.js process aborts when processing x509 certs with invalid public key information — nodejs — medium —  — Uncontrolled Resource Consumption
-- [1927480](reports/2023/1927480.md) DiffieHellman doesn't generate keys after setting a key — nodejs — medium —  — Inconsistency Between Implementation and Documented Design
-- [1623175](reports/2023/1623175.md) Node 18 reads openssl.cnf from /home/iojs/build/... upon startup. — nodejs — medium —  — Cryptographic Issues - Generic
-- [1574078](reports/2023/1574078.md) DNS rebinding in --inspect (again) via invalid IP addresses  — nodejs — high —  — OS Command Injection
-- [2043807](reports/2023/2043807.md) Policy-restricted modules can escalate to higher privileges by impersonating other modules in a policy list using module.constructor.createRequire() — nodejs — medium —  — Privilege Escalation
-- [2038134](reports/2023/2038134.md) Permission model bypass by specifying a path traversal sequence in a buffer,  — nodejs — high —  — Path Traversal
-- [2037887](reports/2023/2037887.md) fs.mkdtemp() and fs.mkdtempSync() are missing getValidatedPath() checks. — nodejs — low —  — Path Traversal
-- [1961655](reports/2023/1961655.md) Renaming/aliasing relative symbolic links potentially redirects them to supposedly inaccessible locations — nodejs — medium —  — Privilege Escalation
-- [1960870](reports/2023/1960870.md) Permissions policies can be bypassed via Module._load. — nodejs — high —  — Privilege Escalation
-- [1946470](reports/2023/1946470.md) Dependency Policy Bypass via process.binding — nodejs — medium —  — Privilege Escalation
-- [2051224](reports/2023/2051224.md) fs.statfs bypasses Permission Model — nodejs — low —  — Improper Access Control - Generic
-- [2051257](reports/2023/2051257.md) process.binding() can bypass the permission model through path traversal — nodejs — high —  — Path Traversal
-- [2094235](reports/2023/2094235.md) Integrity checks according to policies can be circumvented — nodejs — medium —  — Insufficient Verification of Data Authenticity
-- [2092852](reports/2023/2092852.md) Permission model improperly protects against path traversal — nodejs — high —  — Path Traversal
-- [2199818](reports/2023/2199818.md) Path traversal through path stored in Uint8Array — nodejs — high —  — Path Traversal
-- [2259914](reports/2024/2259914.md) Multiple permission model bypasses due to improper path traversal sequence sanitization — nodejs — high —  — Path Traversal
-- [2233486](reports/2024/2233486.md) http: Reading unprocessed HTTP request with unbounded chunk extension allows DoS attacks — nodejs — high —  — Uncontrolled Resource Consumption
-- [2269177](reports/2024/2269177.md) Node.js is vulnerable to the Marvin Attack (timing variant of the Bleichenbacher attack against PKCS#1 v1.5 padding) — nodejs — medium —  — Use of a Broken or Risky Cryptographic Algorithm
-- [2237545](reports/2024/2237545.md) Code injection and privilege escalation through Linux capabilities — nodejs — high —  — Privilege Escalation
-- [2257156](reports/2024/2257156.md) Improper handling of wildcards in --allow-fs-read and --allow-fs-write — nodejs — medium —  — Improper Access Control - Generic
-- [2218653](reports/2024/2218653.md) Path traversal by monkey-patching Buffer internals — nodejs — high —  — Path Traversal
-- [2352957](reports/2024/2352957.md) Proxy-Authorization header is not cleared in cross-domain redirect in undici — nodejs — low —  — Information Disclosure
-- [2170226](reports/2024/2170226.md) setuid() does not drop all privileges due to io_uring — nodejs — high —  — Privilege Escalation
-- [2284065](reports/2024/2284065.md) Denial of Service by resource exhaustion in fetch() brotli decoding — nodejs — medium —  — Uncontrolled Resource Consumption
-- [2319584](reports/2024/2319584.md) "Assertion failed" in node::http2::Http2Session::~Http2Session() leads to HTTP/2 server crash — nodejs — high —  — Uncontrolled Resource Consumption
-- [2237099](reports/2024/2237099.md) HTTP Request Smuggling via Content Length Obfuscation — nodejs — medium —  — HTTP Request Smuggling
-- [2408074](reports/2024/2408074.md) Proxy-Authorization header not cleared on cross-origin redirect in undici.request — nodejs — low —  — Insufficiently Protected Credentials
-- [2377760](reports/2024/2377760.md) fetch with integrity option is too lax when algorithm is specified but hash value is in incorrect — nodejs — - —  — Violation of Secure Design Principles
-- [2092749](reports/2024/2092749.md) Bypass network import restriction via data URL — nodejs — medium —  — Improper Access Control - Generic
-- [2472071](reports/2024/2472071.md) fs.fchown/fchmod bypasses permission model — nodejs — low —  — Improper Access Control - Generic
-- [2461831](reports/2024/2461831.md) Bypass incomplete fix of CVE-2024-27980 — nodejs — high —  — Command Injection - Generic
-- [2145862](reports/2024/2145862.md) fs.lstat bypasses permission model — nodejs — low —  — Privilege Escalation
-- [2079103](reports/2024/2079103.md) Permission model improperly processes UNC paths — nodejs — low —  — Privilege Escalation
-- [2260337](reports/2024/2260337.md) Permissions can be bypassed via arbitrary code execution through abusing libuv signal pipes — nodejs — - —  — Privilege Escalation
-- [2575105](reports/2025/2575105.md) Worker permission bypass via InternalWorker leak in diagnostics — nodejs — high —  — Improper Access Control - Generic
-- [2913312](reports/2025/2913312.md) Usage of unsafe random function in undici for choosing boundary — nodejs — medium —  — Use of Insufficiently Random Values
-- [2307225](reports/2025/2307225.md) Path traversal by drive name in Windows environment — nodejs — medium —  — Path Traversal
-- [2841362](reports/2025/2841362.md) GOAWAY HTTP/2 frames cause memory leak outside heap — nodejs — medium —  — Uncontrolled Resource Consumption
-- [2817648](reports/2025/2817648.md) Improper error handling in async cryptographic operations crashes process — nodejs — high —  — Cryptographic Issues - Generic
-- [3083428](reports/2025/3083428.md) Corrupted pointer in node::fs::ReadFileUtf8(const FunctionCallbackInfo<Value>& args) when args[0] is a string. — nodejs — low —  — Memory Corruption - Generic
-- [2084280](reports/2025/2084280.md) WASI sandbox escape via symlink — nodejs — medium —  — Privilege Escalation
-- [2054283](reports/2025/2054283.md) Improper HTTP header block termination in llhttp — nodejs — medium —  — HTTP Request Smuggling
-- [3160912](reports/2025/3160912.md) Windows Device Names (CON, PRN, AUX) Bypass Path Traversal Protection in path.normalize() — nodejs — high —  — Path Traversal
-- [3131758](reports/2025/3131758.md) HashDoS in V8 — nodejs — high —  — Cryptographic Issues - Generic
-- [3255707](reports/2025/3255707.md) Windows Device Names Still Allow Path Traversal in UNC Paths After CVE-2025-27210 Fix — nodejs — high —  — Path Traversal
-- [3302484](reports/2025/3302484.md) CWE-195 in ExternalMemoryAccounter::Increase() — nodejs — - —  — 
-- [3463949](reports/2025/3463949.md) Missing AES-GCM Authentication Tag Validation and Improper Deprecation Handling — nodejs — high —  — Missing Required Cryptographic Step
-- [3390084](reports/2026/3390084.md) fs.futimes() Bypasses Read-Only Permission Model — nodejs — low —  — Improper Access Control - Generic
-- [3417819](reports/2026/3417819.md) FS Permissions Bypass — nodejs — high —  — Violation of Secure Design Principles
-- [3405778](reports/2026/3405778.md) Timeout-based race conditions make Uint8Array/Buffer.alloc non-zerofilled — nodejs — high —  — Improper Initialization
-- [3357723](reports/2026/3357723.md) Memory leak that enables remote Denial of Service against applications processing TLS client certificates — nodejs — medium —  — Uncontrolled Resource Consumption
-- [3456295](reports/2026/3456295.md) Uncatchable "Maximum call stack size exceeded" error on Node.js via async_hooks leads to process crashes bypassing error handlers — nodejs — medium —  — Improper Handling of Exceptional Conditions
-- [3465156](reports/2026/3465156.md) Node.js permission model bypass via unchecked Unix Domain Socket connections (UDS) — nodejs — medium —  — Server-Side Request Forgery (SSRF)
-- [3473882](reports/2026/3473882.md) TLS PSK/ALPN Callback Exceptions Bypass Error Handlers, Causing DoS and FD Leak — nodejs — medium —  — Uncontrolled Resource Consumption
-- [3456148](reports/2026/3456148.md) Unbounded decompression chain in HTTP responses on Node.js Fetch API via Content-Encoding leads to resource exhaustion — nodejs — - —  — 
-- [3546390](reports/2026/3546390.md) Assertion error in node_url.cc via malformed URL format leads to Node.js crash — nodejs — medium —  — Reachable Assertion
-- [3531737](reports/2026/3531737.md) Memory leak in Node.js HTTP/2 server via WINDOW_UPDATE on stream 0 leads to resource exhaustion — nodejs — medium —  — Missing Release of Memory after Effective Lifetime
-- [3449392](reports/2026/3449392.md) CVE-2024-36137 Patch Bypass - FileHandle.chmod/chown — nodejs — low —  — Improper Access Control - Generic
-- [3560402](reports/2026/3560402.md) Denial of Service via `__proto__` header name in `req.headersDistinct` (Uncaught `TypeError` crashes Node.js process) — nodejs — high —  — Uncontrolled Resource Consumption
-- [3559715](reports/2026/3559715.md) Node.js Permission Model bypass: UDS server bind/listen works without `--allow-net` — nodejs — medium —  — Improper Access Control - Generic
-- [3533945](reports/2026/3533945.md) Timing side-channel in HMAC verification via memcmp() in crypto_hmac.cc leads to potential MAC forgery — nodejs — medium —  — Cryptographic Issues - Generic
-- [3480841](reports/2026/3480841.md) Permission Model Bypass in realpathSync.native Allows File Existence Disclosure — nodejs — low —  — Information Disclosure
-- [3511792](reports/2026/3511792.md) HashDoS in V8 — nodejs — medium —  — Cryptographic Issues - Generic
-- [3556769](reports/2026/3556769.md) Incomplete fix for CVE-2026-21637: loadSNI() in _tls_wrap.js lacks try/catch leading to Remote DoS — nodejs — high —  — 
-- [3752489](reports/2026/3752489.md) Memory Corruption via TOCTOU Race in SharedArrayBuffer UTF-8 Decode (`StringBytes::Encode`) — nodejs — high —  — Time-of-check Time-of-use (TOCTOU) Race Condition
-- [3736889](reports/2026/3736889.md) NULL pointer dereference in node:sqlite DatabaseSync#applyChangeset() via malformed SQLite changeset — nodejs — high —  — NULL Pointer Dereference
-- [3781015](reports/2026/3781015.md)  Incomplete Fix for CVE-2026-21637: OCSPRequest and resumeSession Events Crash Node.js TLS Server via Unhandled Synchronous Exceptions — nodejs — high —  — Uncontrolled Resource Consumption
-- [3692858](reports/2026/3692858.md) Permission Model Bypass via `process.report.writeReport()` Path Misvalidation — nodejs — low —  — Improper Access Control - Generic
-- [3658225](reports/2026/3658225.md) HTTP/2 sessions never clean up after GOAWAY on invalid protocol errors — nodejs — medium —  — Uncontrolled Resource Consumption
-- [3817602](reports/2026/3817602.md) Node --run POSIX positional argument escaping allows shell command injection — nodejs — high —  — OS Command Injection
-- [3760016](reports/2026/3760016.md) Node.js WebCrypto AES Integer Overflow Leads to Remote Process Abort (DoS) — nodejs — high —  — Integer Overflow
-- [3656716](reports/2026/3656716.md) Embedded-nul hostnames can lead to silent authority rebinding due to c-string truncation in resolver bindings — nodejs — medium —  — Improper Access Control - Generic
-- [3676863](reports/2026/3676863.md) Unbounded memory growth in `node:http2` clients via attacker-controlled ORIGIN frames — nodejs — medium —  — Uncontrolled Resource Consumption
-- [3720313](reports/2026/3720313.md) Proxy credentials leaked in ERR_PROXY_TUNNEL error message — nodejs — medium —  — Privacy Violation
-- [3625987](reports/2026/3625987.md) Permission Model bypass via FileHandle.utimes() in the promises API — nodejs — low —  — Incorrect Default Permissions
-- [3649802](reports/2026/3649802.md) TLS host identity verification bypass via session reuse with different servername leads to unauthorized connections — nodejs — medium —  — Exploiting Incorrectly Configured SSL/TLS
-- [3656869](reports/2026/3656869.md) Uppercase sni context matching can lead to mtls authorization bypass due to case-sensitive hostname matching — nodejs — medium —  — Improper Access Control - Generic
-- [3688064](reports/2026/3688064.md) Node.js unicode dot separator handling can lead to tls wildcard-depth authentication bypass due to resolver and verifier hostname normalization mismat — nodejs — high —  — Improper Handling of Unicode Encoding
-- [3618831](reports/2026/3618831.md) Unix domain socket server bypasses --permission network restrictions (incomplete CVE-2026-21636 fix) — nodejs — low —  — Improper Access Control - Generic
-- [3582376](reports/2026/3582376.md) HTTP Response Queue Poisoning via TOCTOU Race Condition in `http.Agent` — nodejs — low —  — Time-of-check Time-of-use (TOCTOU) Race Condition
-- [3648681](reports/2026/3648681.md) Improper Input Validation — HTTP Response Parser Unconditionally Accepts Bare CR in Status Line — nodejs — medium —  — HTTP Request Smuggling
-- [3838601](reports/2026/3838601.md) Permission Model Bypass: `trace_events.createTracing().enable()` Writes Trace Logs Outside `--allow-fs-write` — nodejs — low —  — Improper Access Control - Generic
-- [3816840](reports/2026/3816840.md) HTTPS Agent PFX object-array key collision allows mTLS client identity reuse across different per-request certificates — nodejs — medium —  — Improper Authentication - Generic
-- [3761342](reports/2026/3761342.md) Permission Model: --allow-fs-read/--allow-fs-write radix-tree prefix-boundary over-grant — nodejs — high —  — Improper Access Control - Generic
-- [3812439](reports/2026/3812439.md) HTTPS Agent TLS session reuse skips hostname verification across identity policies (incomplete fix of CVE-2026-48934) — nodejs — medium —  — Exploiting Incorrectly Configured SSL/TLS
-- [3815767](reports/2026/3815767.md) Permission Model bypass: process.report writes (and overwrites) files outside --allow-fs-write paths — nodejs — low —  — Improper Access Control - Generic
-- [3723248](reports/2026/3723248.md) HTTP Request Smuggling via Connection: close<TAB> in Node.js llhttp parser — nodejs — medium —  — HTTP Request Smuggling
-- [3846922](reports/2026/3846922.md) HTTP/2 retained header blocks evade maxSessionMemory and enable remote memory exhaustion — nodejs — high —  — Uncontrolled Resource Consumption
-- [3833629](reports/2026/3833629.md) Re-entrant `nghttp2_session_mem_send()` during `nghttp2_session_mem_recv()` causes heap-use-after-free in Node.js HTTP/2 — nodejs — high —  — Use After Free
-- [3795900](reports/2026/3795900.md) node:sqlite SQLTagStore Iterator Replay Lets Attacker Re-Execute Victim-Bound Writes Indefinitely — nodejs — medium —  — Time-of-check Time-of-use (TOCTOU) Race Condition
-- [3795657](reports/2026/3795657.md) dns.resolveAny() Aborts the Node.js Process When a DNS Response Contains More Than 256 A Records — nodejs — medium —  — Uncontrolled Resource Consumption
-- [3564941](reports/2026/3564941.md) HTTP Request Smuggling via Silent Header Truncation in Node.js HTTP Parser — nodejs — low —  — HTTP Request Smuggling
-- [3857258](reports/2026/3857258.md) Reachable assertion in node:zlib sync API crashes the entire process via spoofed TypedArray byteLength (all 11 *Sync functions affected) — nodejs — medium —  — Uncontrolled Resource Consumption
-- [4038342](reports/2026/4038342.md) dns.resolve truncates names containing NUL char — nodejs — high —  — Improper Access Control - Generic
-- [4006744](reports/2026/4006744.md) TLS certificate hostname bypass when the host loosely resolves to an IP address — nodejs — high —  — Improper Certificate Validation
-- [4038361](reports/2026/4038361.md) Keep-alive socket process a response that was written before the request was sent — nodejs — medium —  — Time-of-check Time-of-use (TOCTOU) Race Condition
-- [4038287](reports/2026/4038287.md) TLS certificate hostname bypass when the IP is written fullwidth digits — nodejs — high —  — Improper Certificate Validation
-- [3962304](reports/2026/3962304.md) Improper certificate validation for non-canonical IPv4 hostnames allows DNS SANs to authenticate IP endpoints — nodejs — medium —  — Improper Certificate Validation
-- [3838675](reports/2026/3838675.md) Permission Model bypass with fs.realpathSync — nodejs — low —  — Improper Access Control - Generic
-- [3824331](reports/2026/3824331.md) Null Dereference in X509ToObject — nodejs — medium —  — NULL Pointer Dereference
-- [3996423](reports/2026/3996423.md) Permission Model filesystem over-grant via wildcard radix lookup — nodejs — low —  — Improper Access Control - Generic
-- [3908163](reports/2026/3908163.md) HTTPS Agent reuses TLS authentication state across distinct secureContext policies — nodejs — medium —  — Improper Certificate Validation
-- [4110110](reports/2026/4110110.md) HTTP/2 stream teardown can send freed response memory to the peer — nodejs — high —  — Use After Free
-- [4107681](reports/2026/4107681.md) Node.js Brotli decoder out-of-bounds write permits remote code execution — nodejs — high —  — Classic Buffer Overflow
 
 ## automattic (166)
 
@@ -7465,7 +7469,7 @@
 - [1920908](reports/2025/1920908.md) Access to the business emails of Rockstar Support agents through the support platform — rockstargames — low — $550 — Improper Access Control - Generic
 - [1534465](reports/2026/1534465.md) Ticket Trick Attack allows access to ████████' workspaces — rockstargames — high —  — Improper Access Control - Generic
 
-## wordpress (100)
+## wordpress (101)
 
 - [221734](reports/2017/221734.md) Administrator(s) Information disclosure via JSON on wordpress.org — wordpress — medium —  — Information Disclosure
 - [224214](reports/2017/224214.md) Lack of Password Confirmation when Changing Password and Email — wordpress — - —  — 
@@ -7567,6 +7571,7 @@
 - [3460138](reports/2026/3460138.md) Open Email Relay on WordPress Gutenberg Plugin via formAction parameter leads to phishing and spam campaigns — wordpress — - —  — 
 - [4100259](reports/2026/4100259.md) Stored XSS in the Classic block element path — wordpress — none —  — Cross-site Scripting (XSS) - Stored
 - [3863343](reports/2026/3863343.md) DOM-based XSS in playground.wordpress.net (/scope:*/wp-includes/empty.html) lets any attacker run JavaScript on the origin via a single crafted link — wordpress — low —  — Cross-site Scripting (XSS) - DOM
+- [3892948](reports/2026/3892948.md) Broken access control: any member can self-assign arbitrary BuddyPress member types via the ungated "types" REST parameter, bypassing the bp_moderate  — wordpress — medium —  — Improper Access Control - Generic
 
 ## ui (98)
 
@@ -9519,6 +9524,72 @@
 - [3287060](reports/2025/3287060.md) Double Clickjacking Attack on WakaTime OAuth Authorization Flow at https://wakatime.com/oauth/authorize — wakatime — medium —  — Violation of Secure Design Principles
 - [3304704](reports/2025/3304704.md) Invalid — wakatime — low —  — Improper Access Control - Generic
 
+## mariadb (63)
+
+- [392761](reports/2018/392761.md) vulnerable to Cross-site Request Forgery | Jira — mariadb — low —  — Cross-Site Request Forgery (CSRF)
+- [386160](reports/2018/386160.md) xmlrpc.php on mariadb.org can lead to DDOS and brute force attacks — mariadb — low —  — Uncontrolled Resource Consumption
+- [397402](reports/2018/397402.md) SSRF on jira.mariadb.org — mariadb — medium —  — Server-Side Request Forgery (SSRF)
+- [392701](reports/2018/392701.md) Vulnerability Report - Missing Certificate Authority Authorization rule — mariadb — low —  — Cryptographic Issues - Generic
+- [394861](reports/2018/394861.md) Incorrect Permission Assignment for Critical Resource — mariadb — medium —  — Privilege Escalation
+- [457009](reports/2018/457009.md) Github wiki is editable by anyone — mariadb — medium —  — Improper Access Control - Generic
+- [481512](reports/2019/481512.md) CRLF injection on https://buildbot.mariadb.org — mariadb — medium —  — CRLF Injection
+- [490997](reports/2019/490997.md) [downloads.mariadb.org] CRLF injection in case of encoded query mark — mariadb — medium —  — CRLF Injection
+- [476257](reports/2019/476257.md) CRLF injection at https://mariadb.org/. — mariadb — medium —  — CRLF Injection
+- [514421](reports/2019/514421.md) smtp service vulnerable to POODLE SSLv3 — mariadb — low —  — Cryptographic Issues - Generic
+- [775504](reports/2020/775504.md) Exposed debug.log file leads to information disclosure — mariadb — medium —  — Information Disclosure
+- [639473](reports/2020/639473.md) Ubuntu/Debian installation method allows key poisoning and code execution for network attacker — mariadb — medium —  — Cryptographic Issues - Generic
+- [690330](reports/2020/690330.md) scripts loader (denial of service) vulnerability — mariadb — low —  — Uncontrolled Resource Consumption
+- [637840](reports/2020/637840.md) Path traversal in command line client — mariadb — medium —  — Path Traversal
+- [1019891](reports/2020/1019891.md) Named pipe connection inteception — mariadb — high —  — Business Logic Errors
+- [1176174](reports/2021/1176174.md) Git Config — mariadb — medium —  — 
+- [1369288](reports/2021/1369288.md) Path Traversal CVE-2021-26086 CVE-2021-26085 — mariadb — medium —  — Path Traversal
+- [1419213](reports/2022/1419213.md) Grafana LFI on https://grafana.mariadb.org — mariadb — medium —  — Remote File Inclusion
+- [3769676](reports/2026/3769676.md) Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire Server — mariadb — medium —  — Stack Overflow
+- [3889667](reports/2026/3889667.md) ACL cache collision lets a role inherit privileges from a same-named socket user — mariadb — medium —  — Improper Authentication - Generic
+- [3897588](reports/2026/3897588.md) KILL authorization trusts the presented login name instead of the authenticated anonymous account — mariadb — - —  — Incorrect Calculation of Buffer Size
+- [3909248](reports/2026/3909248.md) MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash the server via CSV row deletion — mariadb — medium —  — Heap Overflow
+- [3876430](reports/2026/3876430.md) MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account takeover — mariadb — high —  — Improper Access Control - Generic
+- [3897914](reports/2026/3897914.md) Out-of-bounds read in MariaDB .frm parsing enables RCE via vtable hijacking — mariadb — high —  — Out-of-bounds Read
+- [3788482](reports/2026/3788482.md) Stack Buffer Overflow in mariadb-dump quote_name() Allows Malicious Server to Execute Arbitrary Code on Client — mariadb — critical —  — Stack Overflow
+- [3771144](reports/2026/3771144.md) Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB Server — mariadb — - —  — Use After Free
+- [3771147](reports/2026/3771147.md) Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyISAM) — mariadb — - —  — Classic Buffer Overflow
+- [3771139](reports/2026/3771139.md) Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in MariaDB Server — mariadb — - —  — Buffer Over-read
+- [3782405](reports/2026/3782405.md) Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert_or_replace() — mariadb — - —  — Stack Overflow
+- [3872239](reports/2026/3872239.md) Connector/J: malicious server crashes client JVM via unbounded result-set field-count allocation in ClientMessage.readPacket — mariadb — medium —  — Uncontrolled Resource Consumption
+- [3896671](reports/2026/3896671.md) Connector/C Out-of-bounds read in `unpack_fields()` from short metadata field — mariadb — - —  — Out-of-bounds Read
+- [3678395](reports/2026/3678395.md) Path Traversal in mbstream Extract — mariadb — high —  — Path Traversal
+- [3766217](reports/2026/3766217.md) libmariadb ( mariadb-connector-c ): stack overflow via server-controlled field->length in prepared-statement codec — mariadb — medium —  — Stack Overflow
+- [3915935](reports/2026/3915935.md) Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSOR Array Reallocation — mariadb — high —  — Use After Free
+- [3856148](reports/2026/3856148.md) Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-after-free chained with an ST_Area heap over-read — mariadb — critical —  — Use After Free
+- [3849040](reports/2026/3849040.md) #mysql50# legacy alias / stale table cache identity mismatch — mariadb — - —  — 
+- [3849051](reports/2026/3849051.md) #mysql50# legacy alias / internal table collisions — mariadb — - —  — 
+- [3880451](reports/2026/3880451.md) Privilege escalation via user controlled usernames / roles and views — mariadb — - —  — 
+- [3848978](reports/2026/3848978.md) `SHOW [CREATE|GRANTS] ...` / `mariadb-dump` Unescaped SQL Generation — mariadb — - —  — SQL Injection
+- [3849025](reports/2026/3849025.md) DATA / INDEX DIRECTORY Abuse — mariadb — - —  — 
+- [3836021](reports/2026/3836021.md) Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and write — mariadb — high —  — Improper Access Control - Generic
+- [3781201](reports/2026/3781201.md) Pre-authentication `size_t` integer underflow → out-of-bounds read / server crash in MariaDB `caching_sha2_password` (auth_mysql_sha2) via an RSA-OAEP — mariadb — medium —  — Integer Underflow
+- [3908943](reports/2026/3908943.md) DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation — mariadb — high —  — Improper Access Control - Generic
+- [3867358](reports/2026/3867358.md) MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the Service — mariadb — medium —  — Uncontrolled Resource Consumption
+- [3867363](reports/2026/3867363.md) MariaDB HandlerSocket Improper Request Field-Count Validation Causes Server Crash — mariadb — medium —  — Uncontrolled Resource Consumption
+- [3896507](reports/2026/3896507.md) Server crash (stack-overflow DoS) via unbounded recursion in MariaDB WKB GEOMETRYCOLLECTION parser — mariadb — medium —  — 
+- [3871740](reports/2026/3871740.md) r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteration count causes CPU-exhaustion DoS ( regression from b7766de ) — mariadb — medium —  — Uncontrolled Resource Consumption
+- [3872248](reports/2026/3872248.md) Connector/C++: heap out-of-bounds read when malicious server field length exceeds declared column length in binary result path — mariadb — medium —  — Out-of-bounds Read
+- [3871977](reports/2026/3871977.md) Connector/ODBC: malicious server's long version string wraps size_t PrefixLen via negative _snprintf return, causing heap out-of-bounds write — mariadb — medium —  — Memory Corruption - Generic
+- [3910393](reports/2026/3910393.md) Stack Buffer Overflow in MariaDB CONNECT storage engine when reading DOUBLE columns from TABLE_TYPE=DOS tables — mariadb — - —  — Stack Overflow
+- [3890289](reports/2026/3890289.md) Connector/C++ string escaper re-escapes its own output, enabling SQL injection — mariadb — medium —  — SQL Injection
+- [3890352](reports/2026/3890352.md) Connector/C++ aborts client process on server session-tracking packet via std::stoi — mariadb — medium —  — Uncontrolled Resource Consumption
+- [3890329](reports/2026/3890329.md) Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL — mariadb — medium —  — SQL Injection
+- [3891319](reports/2026/3891319.md) Stack buffer overflow in 9 of 10 Connector/ODBC catalog functions via unbounded name — mariadb — medium —  — Stack Overflow
+- [3891337](reports/2026/3891337.md) Connector/ODBC SQLGetDescRec treats descriptor handle as statement handle, heap OOB write on every call — mariadb — medium —  — Type Confusion
+- [3891779](reports/2026/3891779.md) Connector/ODBC injects unquoted column names into positioned DELETE and UPDATE via MADB_DynStrGetWhere — mariadb — medium —  — SQL Injection
+- [3920629](reports/2026/3920629.md) r2dbc-mariadb: server message accepted with no command in flight desynchronises the connection and serves one user's rows to another — mariadb — medium —  — Information Disclosure
+- [3920633](reports/2026/3920633.md) Connector/ODBC: SqlwcsOctetLen sizes UTF-16 with a byte-oriented helper, reading past the caller's buffer and sending client memory to the server — mariadb — medium —  — Out-of-bounds Read
+- [3920647](reports/2026/3920647.md) Connector/ODBC: MADB_Stmt::ArrayOffset is not reset when an exception unwinds out of MADB_StmtExecute, so the next paramset reads out of bounds — mariadb — medium —  — Out-of-bounds Read
+- [3896684](reports/2026/3896684.md) Connector/C Out-of-bounds read from unterminated GSSAPI SPN in `parse_server_packet()` — mariadb — - —  — Out-of-bounds Read
+- [3896617](reports/2026/3896617.md) Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification failure — mariadb — - —  — Improper Certificate Validation
+- [3849007](reports/2026/3849007.md) MariaDB CLI Utility Issues — mariadb — - —  — SQL Injection
+- [3643157](reports/2026/3643157.md) Spatial functions perform 4-byte heap buffer over-reads on truncated WKB inputs — mariadb — medium —  — Buffer Over-read
+
 ## aws_vdp (63)
 
 - [2731133](reports/2024/2731133.md) External service interaction (HTTP) — aws_vdp — high —  — Server-Side Request Forgery (SSRF)
@@ -9649,71 +9720,6 @@
 - [19363](reports/2015/19363.md) PHP PDOException and Full Path Disclosure — localize — - —  — Information Disclosure
 - [30787](reports/2015/30787.md) PHP reveals potentially sensitive information via certain HTTP requests that contain specific QUERY strings. — localize — - —  — 
 - [31255](reports/2015/31255.md) files likes of README.md is public — localize — - —  — Information Disclosure
-
-## mariadb (62)
-
-- [392761](reports/2018/392761.md) vulnerable to Cross-site Request Forgery | Jira — mariadb — low —  — Cross-Site Request Forgery (CSRF)
-- [386160](reports/2018/386160.md) xmlrpc.php on mariadb.org can lead to DDOS and brute force attacks — mariadb — low —  — Uncontrolled Resource Consumption
-- [397402](reports/2018/397402.md) SSRF on jira.mariadb.org — mariadb — medium —  — Server-Side Request Forgery (SSRF)
-- [392701](reports/2018/392701.md) Vulnerability Report - Missing Certificate Authority Authorization rule — mariadb — low —  — Cryptographic Issues - Generic
-- [394861](reports/2018/394861.md) Incorrect Permission Assignment for Critical Resource — mariadb — medium —  — Privilege Escalation
-- [457009](reports/2018/457009.md) Github wiki is editable by anyone — mariadb — medium —  — Improper Access Control - Generic
-- [481512](reports/2019/481512.md) CRLF injection on https://buildbot.mariadb.org — mariadb — medium —  — CRLF Injection
-- [490997](reports/2019/490997.md) [downloads.mariadb.org] CRLF injection in case of encoded query mark — mariadb — medium —  — CRLF Injection
-- [476257](reports/2019/476257.md) CRLF injection at https://mariadb.org/. — mariadb — medium —  — CRLF Injection
-- [514421](reports/2019/514421.md) smtp service vulnerable to POODLE SSLv3 — mariadb — low —  — Cryptographic Issues - Generic
-- [775504](reports/2020/775504.md) Exposed debug.log file leads to information disclosure — mariadb — medium —  — Information Disclosure
-- [639473](reports/2020/639473.md) Ubuntu/Debian installation method allows key poisoning and code execution for network attacker — mariadb — medium —  — Cryptographic Issues - Generic
-- [690330](reports/2020/690330.md) scripts loader (denial of service) vulnerability — mariadb — low —  — Uncontrolled Resource Consumption
-- [637840](reports/2020/637840.md) Path traversal in command line client — mariadb — medium —  — Path Traversal
-- [1019891](reports/2020/1019891.md) Named pipe connection inteception — mariadb — high —  — Business Logic Errors
-- [1176174](reports/2021/1176174.md) Git Config — mariadb — medium —  — 
-- [1369288](reports/2021/1369288.md) Path Traversal CVE-2021-26086 CVE-2021-26085 — mariadb — medium —  — Path Traversal
-- [1419213](reports/2022/1419213.md) Grafana LFI on https://grafana.mariadb.org — mariadb — medium —  — Remote File Inclusion
-- [3769676](reports/2026/3769676.md) Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire Server — mariadb — medium —  — Stack Overflow
-- [3889667](reports/2026/3889667.md) ACL cache collision lets a role inherit privileges from a same-named socket user — mariadb — medium —  — Improper Authentication - Generic
-- [3897588](reports/2026/3897588.md) KILL authorization trusts the presented login name instead of the authenticated anonymous account — mariadb — - —  — Incorrect Calculation of Buffer Size
-- [3909248](reports/2026/3909248.md) MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash the server via CSV row deletion — mariadb — medium —  — Heap Overflow
-- [3876430](reports/2026/3876430.md) MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account takeover — mariadb — high —  — Improper Access Control - Generic
-- [3897914](reports/2026/3897914.md) Out-of-bounds read in MariaDB .frm parsing enables RCE via vtable hijacking — mariadb — high —  — Out-of-bounds Read
-- [3788482](reports/2026/3788482.md) Stack Buffer Overflow in mariadb-dump quote_name() Allows Malicious Server to Execute Arbitrary Code on Client — mariadb — critical —  — Stack Overflow
-- [3771144](reports/2026/3771144.md) Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB Server — mariadb — - —  — Use After Free
-- [3771147](reports/2026/3771147.md) Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyISAM) — mariadb — - —  — Classic Buffer Overflow
-- [3771139](reports/2026/3771139.md) Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in MariaDB Server — mariadb — - —  — Buffer Over-read
-- [3782405](reports/2026/3782405.md) Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert_or_replace() — mariadb — - —  — Stack Overflow
-- [3872239](reports/2026/3872239.md) Connector/J: malicious server crashes client JVM via unbounded result-set field-count allocation in ClientMessage.readPacket — mariadb — medium —  — Uncontrolled Resource Consumption
-- [3896671](reports/2026/3896671.md) Connector/C Out-of-bounds read in `unpack_fields()` from short metadata field — mariadb — - —  — Out-of-bounds Read
-- [3678395](reports/2026/3678395.md) Path Traversal in mbstream Extract — mariadb — high —  — Path Traversal
-- [3766217](reports/2026/3766217.md) libmariadb ( mariadb-connector-c ): stack overflow via server-controlled field->length in prepared-statement codec — mariadb — medium —  — Stack Overflow
-- [3915935](reports/2026/3915935.md) Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSOR Array Reallocation — mariadb — high —  — Use After Free
-- [3856148](reports/2026/3856148.md) Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-after-free chained with an ST_Area heap over-read — mariadb — critical —  — Use After Free
-- [3849040](reports/2026/3849040.md) #mysql50# legacy alias / stale table cache identity mismatch — mariadb — - —  — 
-- [3849051](reports/2026/3849051.md) #mysql50# legacy alias / internal table collisions — mariadb — - —  — 
-- [3880451](reports/2026/3880451.md) Privilege escalation via user controlled usernames / roles and views — mariadb — - —  — 
-- [3848978](reports/2026/3848978.md) `SHOW [CREATE|GRANTS] ...` / `mariadb-dump` Unescaped SQL Generation — mariadb — - —  — SQL Injection
-- [3849025](reports/2026/3849025.md) DATA / INDEX DIRECTORY Abuse — mariadb — - —  — 
-- [3836021](reports/2026/3836021.md) Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and write — mariadb — high —  — Improper Access Control - Generic
-- [3781201](reports/2026/3781201.md) Pre-authentication `size_t` integer underflow → out-of-bounds read / server crash in MariaDB `caching_sha2_password` (auth_mysql_sha2) via an RSA-OAEP — mariadb — medium —  — Integer Underflow
-- [3908943](reports/2026/3908943.md) DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation — mariadb — high —  — Improper Access Control - Generic
-- [3867358](reports/2026/3867358.md) MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the Service — mariadb — medium —  — Uncontrolled Resource Consumption
-- [3867363](reports/2026/3867363.md) MariaDB HandlerSocket Improper Request Field-Count Validation Causes Server Crash — mariadb — medium —  — Uncontrolled Resource Consumption
-- [3896507](reports/2026/3896507.md) Server crash (stack-overflow DoS) via unbounded recursion in MariaDB WKB GEOMETRYCOLLECTION parser — mariadb — medium —  — 
-- [3871740](reports/2026/3871740.md) r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteration count causes CPU-exhaustion DoS ( regression from b7766de ) — mariadb — medium —  — Uncontrolled Resource Consumption
-- [3872248](reports/2026/3872248.md) Connector/C++: heap out-of-bounds read when malicious server field length exceeds declared column length in binary result path — mariadb — medium —  — Out-of-bounds Read
-- [3871977](reports/2026/3871977.md) Connector/ODBC: malicious server's long version string wraps size_t PrefixLen via negative _snprintf return, causing heap out-of-bounds write — mariadb — medium —  — Memory Corruption - Generic
-- [3910393](reports/2026/3910393.md) Stack Buffer Overflow in MariaDB CONNECT storage engine when reading DOUBLE columns from TABLE_TYPE=DOS tables — mariadb — - —  — Stack Overflow
-- [3890289](reports/2026/3890289.md) Connector/C++ string escaper re-escapes its own output, enabling SQL injection — mariadb — medium —  — SQL Injection
-- [3890352](reports/2026/3890352.md) Connector/C++ aborts client process on server session-tracking packet via std::stoi — mariadb — medium —  — Uncontrolled Resource Consumption
-- [3890329](reports/2026/3890329.md) Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL — mariadb — medium —  — SQL Injection
-- [3891319](reports/2026/3891319.md) Stack buffer overflow in 9 of 10 Connector/ODBC catalog functions via unbounded name — mariadb — medium —  — Stack Overflow
-- [3891337](reports/2026/3891337.md) Connector/ODBC SQLGetDescRec treats descriptor handle as statement handle, heap OOB write on every call — mariadb — medium —  — Type Confusion
-- [3891779](reports/2026/3891779.md) Connector/ODBC injects unquoted column names into positioned DELETE and UPDATE via MADB_DynStrGetWhere — mariadb — medium —  — SQL Injection
-- [3920629](reports/2026/3920629.md) r2dbc-mariadb: server message accepted with no command in flight desynchronises the connection and serves one user's rows to another — mariadb — medium —  — Information Disclosure
-- [3920633](reports/2026/3920633.md) Connector/ODBC: SqlwcsOctetLen sizes UTF-16 with a byte-oriented helper, reading past the caller's buffer and sending client memory to the server — mariadb — medium —  — Out-of-bounds Read
-- [3920647](reports/2026/3920647.md) Connector/ODBC: MADB_Stmt::ArrayOffset is not reset when an exception unwinds out of MADB_StmtExecute, so the next paramset reads out of bounds — mariadb — medium —  — Out-of-bounds Read
-- [3896684](reports/2026/3896684.md) Connector/C Out-of-bounds read from unterminated GSSAPI SPN in `parse_server_packet()` — mariadb — - —  — Out-of-bounds Read
-- [3896617](reports/2026/3896617.md) Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification failure — mariadb — - —  — Improper Certificate Validation
-- [3849007](reports/2026/3849007.md) MariaDB CLI Utility Issues — mariadb — - —  — SQL Injection
 
 ## basecamp (60)
 

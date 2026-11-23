@@ -1,11 +1,296 @@
 # @lonelysloth_sec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 218
-- Conversations/threads: 167
+- Posts in this file: 226
+- Conversations/threads: 172
 - Oldest post captured: 2023-12-17
-- Newest post captured: 2026-11-21
+- Newest post captured: 2026-11-23
+
+
+---
+
+## 2026-11-23 · Reply · They started with natural language. But now they are extensively trained on math at enormous cost.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @15639858 — 2026-11-22 21:22 UTC (2026-11-22 22:22 WAT)
+
+- URL: https://x.com/15639858/status/2124614509629218914
+- Metrics (at fetch): bookmark 11, impression 5776, like 107, quote 3, reply 35, repost 4
+
+> It's deeply weird that language models are better at math than language https://twitter.com/gdelujo/status/2124287782361403707
+
+**Links in post:** https://twitter.com/gdelujo/status/2124287782361403707
+
+**Quoted post** 2124287782361403707: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @lonelysloth_sec — 2026-11-23 02:33 UTC (2026-11-23 03:33 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124692751187083729
+- Metrics (at fetch): bookmark 0, impression 102, like 0, quote 0, reply 0, repost 0
+
+> They started with natural language. But now they are extensively trained on math at enormous cost.
+>
+> Also you can do lot of math and coding (not all of it) just by trying millions of plausible things and testing until you find something that fits.
+>
+> Natural language has nothing like that.
+
+
+---
+
+## 2026-11-23 · Reply · @MilesCranmer All published CoTs for proofs are after the fact confabulations.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @382008009 — 2026-11-22 23:40 UTC (2026-11-23 00:40 WAT)
+
+- URL: https://x.com/382008009/status/2124649250063852025
+- Metrics (at fetch): bookmark 7, impression 3852, like 73, quote 1, reply 8, repost 5
+
+> My real gripe with this RH proof is that it uses an internal model + secret prompts + redacted CoT
+>
+> Much of the value of major open conjectures is in spurring the creation of new tools. But here we don't even get an AI pipeline to repurpose... let alone readable math
+
+
+### Post — @lonelysloth_sec — 2026-11-23 02:29 UTC (2026-11-23 03:29 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124691871473741915
+- Metrics (at fetch): bookmark 0, impression 90, like 2, quote 0, reply 0, repost 0
+
+> @MilesCranmer All published CoTs for proofs are after the fact confabulations.
+>
+> Plausibe stories of how the LLM arrived at the conclusion.
+>
+> The actual CoT is mostly nonsense and gibberish
+
+
+---
+
+## 2026-11-23 · Reply · The thing with RH is that it was already nearly universally assumed to be true.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @4327798453 — 2026-11-22 20:44 UTC (2026-11-22 21:44 WAT)
+
+- URL: https://x.com/4327798453/status/2124604836851445914
+- Metrics (at fetch): bookmark 4, impression 1744, like 7, quote 0, reply 5, repost 0
+
+> This is raising a legitimate issue but is misunderstanding it. 
+>
+> The existence of a lean proof is the key feature. It's difficult -- but not impossible -- to imagine that the proof is wrong if a trusted software program says it proves what it claims to prove. 
+>
+> That no one -- perhaps even the machine that created it -- understands it is a very real problem. But it isn't equivalent to not having a proof. 
+>
+> I do think LLM proofs are far less 'evidence for' approaching human level intelligence and are actually the discovery of an amazing theorem search and proving algorithm. They do a random search for a solution guided by an amazing heuristic model.
+>
+> But even if no one understands it, so long as we don't discover a problem with lean itself, it does given you a correct answer to a difficult question. Though absent a comprehensible explanation. 
+>
+> That is still something amazing and valuable. 
+>
+> Yeah, we'll probably need to next create a comprehensible explanation.
+
+**Links in post:** https://twitter.com/TheDavidHasbun/status/2124466327708487780
+
+**Quoted post** 2124466327708487780: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @lonelysloth_sec — 2026-11-23 02:04 UTC (2026-11-23 03:04 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124685532081148167
+- Metrics (at fetch): bookmark 0, impression 105, like 3, quote 0, reply 2, repost 0
+
+> The thing with RH is that it was already nearly universally assumed to be true.
+>
+> Adding a “proof” that still has a reasonable chance of being wrong doesn’t improve much our certainty.
+>
+> Once the proof is digested and understood it can actually lead to more certainty.
+>
+> But the rush to claim victory is itself ridiculous.
+
+
+---
+
+## 2026-11-21 · Thread · How can the same people believe AI is so capable it can basically hack anything but be 100% sure its
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1333765341772713985 — 2026-11-21 19:21 UTC (2026-11-21 20:21 WAT)
+
+- URL: https://x.com/1333765341772713985/status/2124221582105014284
+- Metrics (at fetch): bookmark 67, impression 37749, like 719, quote 4, reply 33, repost 27
+
+> Some people here seem confused about how Lean works.
+>
+> Finding a small part of the massive formal RH proof that is vacuously true, or where the definitions seem weird, does not invalidate the proof.
+>
+> It just means the proof is a little longer than it needs to be.
+
+
+### Post — @lonelysloth_sec — 2026-11-21 21:00 UTC (2026-11-21 22:00 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124246629427658825
+- Metrics (at fetch): bookmark 1, impression 669, like 4, quote 2, reply 0, repost 0
+
+> How can the same people believe AI is so capable it can basically hack anything but be 100% sure its 17M lines of Lean doesn’t contain payloads to exploit all existing Lean verifiers?
+>
+> For all we know it could be just brute forcing the compilers rather than the problem. In fact it could be even hacking the host OS. On a balance of probability it seems to me much easier than solving RH. 
+>
+> Im not saying the proof is necessarily incorrect.
+>
+> But it seems to me at least for now we are just moving RH from something that has been seen as almost certainly true by the consensus of mathematicians over a century — to something a relatively small group of swes/mathematicians are *pretty sure* is correct.
+>
+> I think it would be reasonable timeline to give the math community at least a year to ponder over such questions before claiming victory.
+>
+> Alas a year might not be enough— especially with billions spent basically DoS-ing the world’s cognitive throughput.
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-11-23 01:59 UTC (2026-11-23 02:59 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124684127387725987
+- Metrics (at fetch): bookmark 0, impression 9, like 0, quote 0, reply 0, repost 0
+
+> There is no such thing as “inert export of the proof”
+>
+> Any input to anything can be a malicious payload.
+>
+> Those people have no idea what they are talking about.
+>
+> That is not to say their action do not lower the probability of the claimed proof exploiting a bug.
+>
+> But it absolutely doesnt eliminate it.
+>
+> All Im saying is that claiming victory based only on these Lean validations is absurd.
+>
+> That people feel a *need* to rush to conclusions tell me a lot about them.
+
+
+---
+
+## 2026-11-22 · Thread · If each implementation has one independent bug you can exploit each with different parts of the proo
+
+
+**Context — post being replied to:**
+
+#### Parent post — @41073403 — 2026-11-22 13:31 UTC (2026-11-22 14:31 WAT)
+
+- URL: https://x.com/41073403/status/2124496031337357687
+- Metrics (at fetch): bookmark 0, impression 645, like 9, quote 0, reply 1, repost 0
+
+> @chenna1985 They are actually not that stupid and this concern was among the first considered.
+>
+> So they tested it with more implementations which virtually guarantees it can't be a compiler bug. (Or, at least, it's a bug so big it covers all known implementations!)
+
+
+### Post — @lonelysloth_sec — 2026-11-22 19:56 UTC (2026-11-22 20:56 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124592826969428054
+- Metrics (at fetch): bookmark 0, impression 26, like 1, quote 0, reply 1, repost 0
+
+> If each implementation has one independent bug you can exploit each with different parts of the proof, a 17M line proof could have payloads to exploit every vulnerable version of Lean ever.
+>
+> Testing with multiple versions doesn’t virtually eliminate the possibility of a bug. It considerably reduces the probability, but the possibility is absolutely still there.
+>
+> And mind you, confidence in existing Lean formalizations actually matching mathematical knowledge is probably lower than our confidence RH is true without a proof.
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-11-22 21:48 UTC (2026-11-22 22:48 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124621124776722559
+- Metrics (at fetch): bookmark 0, impression 19, like 1, quote 0, reply 0, repost 0
+
+> @emilianbold @chenna1985 Maybe. We will see. The whole point is we dont know for sure yet
+
+
+---
+
+## 2026-11-22 · Reply · Interestingly Google was cautious about training on data not licensed for AI and about releasing mod
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1490950092 — 2026-11-22 13:30 UTC (2026-11-22 14:30 WAT)
+
+- URL: https://x.com/1490950092/status/2124495651522412912
+- Metrics (at fetch): bookmark 70, impression 16098, like 1020, quote 8, reply 22, repost 185
+
+> As of now, it's been 1,453 days - just shy of 4 years - since ChatGPT was recklessly released to the public for free, fueled by a model built on legions of stolen data.
+>
+> It was a blatant crime on a scale the world had never seen before.
+>
+> Billions of things were stolen from millions of people from all over the world.
+>
+> If you or I had done this, we would have been in jail 1,452 days ago.
+>
+> This Day 1 of me posting about how ChatGPT - and all the other AIs that rushed to release to compete - should never have been normalized and how I still can't believe nothing of consequence has been done about the laws the AI industry willfully broke.
+>
+> I'll keep posting this every day until something finally IS done about this crime.
+
+
+### Post — @lonelysloth_sec — 2026-11-22 18:44 UTC (2026-11-22 19:44 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124574654992138724
+- Metrics (at fetch): bookmark 1, impression 479, like 6, quote 0, reply 0, repost 1
+
+> Interestingly Google was cautious about training on data not licensed for AI and about releasing models due to legal risk. Of course they would like to do the same but they had a lot to lose in lawsuits and they already had lots of legal battles.
+>
+> Then came ChatGPT and everyone rushed to commit the same crimes due to falling behind being an existential threat to the business.
+>
+> Google had everything to develop AI in a relatively responsible way and with a sensible amount of capital, without destroying the internet that was their source of revenue.
+>
+> But Musk got convinced Google would create the Electronic Anti-Christ or something and gave money to Sam Altman to develop their own demon first and now we are all in this mess.
+
+
+---
+
+## 2026-11-21 · Thread · Apparently AI is so smart it can hack anything.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-11-21 21:42 UTC (2026-11-21 22:42 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124257059122348174
+- Metrics (at fetch): bookmark 18, impression 6383, like 171, quote 2, reply 10, repost 11
+
+> Apparently AI is so smart it can hack anything.
+>
+> All the world’s software is full of bugs it can easily exploit.
+>
+> Also it’s so ungovernable it goes rogue all the time and does malicious things.
+>
+> At the same time Lean verifiers are perfect, cant be hacked by AI, and we should trust Claude (or the user) didnt try to exploit them — or our own gullibility— with something hidden within 17M lines of code no human has reviewed.
+>
+> So we weren’t perfectly sure RH was true even if nearly all mathematicians have believed it to be true for a century.
+>
+> But now that we have some software that has existed for a few years with a relatively small group of developers and reviewers prints “OK” after looking at 17M lines of code dumped by someone who claims it was generated by a software nobody has audited either — NOW WE FINALLY PROVED IT 100% SURE!
+>
+> I dont have words for how ridiculous the world has become.
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-11-22 17:25 UTC (2026-11-22 18:25 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124554801832951840
+- Metrics (at fetch): bookmark 0, impression 12, like 1, quote 0, reply 0, repost 0
+
+> @sclemens1980 @michael_c_grant It’s possible it’s both correct and can be turned into something a human can understand.
+>
+> For now it’s just a maybe.
 
 
 ---
@@ -117,74 +402,6 @@ Tags (automatic): AI-assisted hunting
 > Who knows.
 >
 > It’s billions of dollars on the line for a cult that is trying to basically conjure Cthulhu. I wouldn’t trust anything they claim.
-
-
----
-
-## 2026-11-21 · Post · Apparently AI is so smart it can hack anything.
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @lonelysloth_sec — 2026-11-21 21:42 UTC (2026-11-21 22:42 WAT)
-
-- URL: https://x.com/lonelysloth_sec/status/2124257059122348174
-- Metrics (at fetch): bookmark 18, impression 6383, like 171, quote 2, reply 10, repost 11
-
-> Apparently AI is so smart it can hack anything.
->
-> All the world’s software is full of bugs it can easily exploit.
->
-> Also it’s so ungovernable it goes rogue all the time and does malicious things.
->
-> At the same time Lean verifiers are perfect, cant be hacked by AI, and we should trust Claude (or the user) didnt try to exploit them — or our own gullibility— with something hidden within 17M lines of code no human has reviewed.
->
-> So we weren’t perfectly sure RH was true even if nearly all mathematicians have believed it to be true for a century.
->
-> But now that we have some software that has existed for a few years with a relatively small group of developers and reviewers prints “OK” after looking at 17M lines of code dumped by someone who claims it was generated by a software nobody has audited either — NOW WE FINALLY PROVED IT 100% SURE!
->
-> I dont have words for how ridiculous the world has become.
-
-
----
-
-## 2026-11-21 · Reply · How can the same people believe AI is so capable it can basically hack anything but be 100% sure its
-
-
-Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
-
-
-**Context — conversation root by another account:**
-
-#### Root post — @1333765341772713985 — 2026-11-21 19:21 UTC (2026-11-21 20:21 WAT)
-
-- URL: https://x.com/1333765341772713985/status/2124221582105014284
-- Metrics (at fetch): bookmark 67, impression 37749, like 719, quote 4, reply 33, repost 27
-
-> Some people here seem confused about how Lean works.
->
-> Finding a small part of the massive formal RH proof that is vacuously true, or where the definitions seem weird, does not invalidate the proof.
->
-> It just means the proof is a little longer than it needs to be.
-
-
-### Post — @lonelysloth_sec — 2026-11-21 21:00 UTC (2026-11-21 22:00 WAT)
-
-- URL: https://x.com/lonelysloth_sec/status/2124246629427658825
-- Metrics (at fetch): bookmark 1, impression 669, like 4, quote 2, reply 0, repost 0
-
-> How can the same people believe AI is so capable it can basically hack anything but be 100% sure its 17M lines of Lean doesn’t contain payloads to exploit all existing Lean verifiers?
->
-> For all we know it could be just brute forcing the compilers rather than the problem. In fact it could be even hacking the host OS. On a balance of probability it seems to me much easier than solving RH. 
->
-> Im not saying the proof is necessarily incorrect.
->
-> But it seems to me at least for now we are just moving RH from something that has been seen as almost certainly true by the consensus of mathematicians over a century — to something a relatively small group of swes/mathematicians are *pretty sure* is correct.
->
-> I think it would be reasonable timeline to give the math community at least a year to ponder over such questions before claiming victory.
->
-> Alas a year might not be enough— especially with billions spent basically DoS-ing the world’s cognitive throughput.
 
 
 ---

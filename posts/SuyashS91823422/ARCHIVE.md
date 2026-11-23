@@ -1,11 +1,30 @@
 # @SuyashS91823422 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 124
-- Conversations/threads: 106
+- Posts in this file: 125
+- Conversations/threads: 107
 - Oldest post captured: 2021-10-06
-- Newest post captured: 2026-11-18
+- Newest post captured: 2026-11-23
+
+
+---
+
+## 2026-11-23 · Post · Can anyone explain what is this ? is this some new changes in bugcrowd? [pic.x.com/iNa2gfsCI2]
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2026-11-23 05:31 UTC (2026-11-23 06:31 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2124737552083042799
+- Metrics (at fetch): bookmark 0, impression 59, like 3, quote 0, reply 0, repost 0
+
+> Can anyone explain what is this ? is this some new changes in bugcrowd? [pic.x.com/iNa2gfsCI2]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXyVY6aWUAAPiEs.png — alt text: "Image (described by archiver; no alt text): Bugcrowd submission Activity panel: "suyash_TECHNORAT created the submission — 35 minutes ago (22 Nov 2026 23:55:05 GMT-5)"; then "Bugcrowd Staff sent a team note to Bugcrowd Staff — 34 minutes ago (22 Nov 2026 23:56:26 GMT-5)"."
 
 
 ---

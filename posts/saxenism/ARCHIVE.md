@@ -1,11 +1,122 @@
 # @saxenism — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1188
-- Conversations/threads: 903
+- Posts in this file: 1191
+- Conversations/threads: 904
 - Oldest post captured: 2020-03-15
-- Newest post captured: 2026-11-21
+- Newest post captured: 2026-11-23
+
+
+---
+
+## 2026-11-22 · Thread · I meet a lot of people, both online and IRL, who tell me they appreciate the work we've been doing a
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @saxenism — 2026-11-22 12:18 UTC (2026-11-22 13:18 WAT)
+
+- URL: https://x.com/saxenism/status/2124477725687623923
+- Metrics (at fetch): bookmark 26, impression 2416, like 46, quote 1, reply 2, repost 2
+
+> I meet a lot of people, both online and IRL, who tell me they appreciate the work we've been doing at @bluethroat_labs and then ask how they can get involved.
+>
+> And I've been thinking about this quite a bit.
+>
+> At this point in time, both considering the stage @bluethroat_labs is at and what AI is doing to the software security industry as a whole, I genuinely couldn't care nearly as much about your exact expertise, your years of experience, your credentials, or the names on your résumé as I do about what the fuck have you actually achieved in the recent past?
+>
+> What have you built? What have you broken? What have you figured out that you couldn't have figured out three months ago? How much better have you gotten, and how quickly?
+>
+> Because increasingly, I think it all comes down to whether you have that dawg in you or not.
+>
+> Do you wake up thinking about how you can make your harness better? Do you keep coming up with ideas every single day, every fucking hour, about how to squeeze more intelligence, more useful work, more signal out of every token you expend?
+>
+> Can you make your assessments faster, more accurate, deeper, more parallelised, more autonomous, without losing the edge that made your work valuable in the first place?
+>
+> And when you achieve that, does it satisfy you? Or does it immediately make you wonder why you aren't doing twice as much with half the resources?
+>
+> Are you willing to tear down something you've spent MONTHS building because someone else came along with an entirely different harness, an alien stack, an approach that makes yours look primitive?
+>
+> Would your ego allow that?
+>
+> Would you be willing to admit that the thing you've been obsessively perfecting might not even be the right thing to perfect anymore?
+>
+> Can you trust an agent enough to let it do genuinely deep, autonomous work without constantly interfering with it, while simultaneously being paranoid enough to build deterministic mechanisms that tell you when it's hallucinating, drifting, getting stuck, taking shortcuts, or simply becoming suboptimal?
+>
+> Do you understand the difference between an agent that looks busy and one that's actually making progress?
+>
+> Can you build systems that don't just scale the amount of work being done, but scale the amount of useful, verifiable, high-quality work being done?
+>
+> Can you look at your own workflow and ruthlessly identify everything that you're still doing manually simply because that's how you've always done it?
+>
+> And perhaps more importantly, can you challenge me?
+>
+> Can you tell me that I'm wrong? That the approach I'm convinced is the future is actually stupid? Can you bring evidence, experiments, benchmarks, or a working implementation that proves your point?
+>
+> Can you produce 10x more useful output than you've ever produced in your life and then start brainstorming how to 10x THAT?
+>
+> Can you do all of this without getting emotionally attached to your tools, your architecture, your previous achievements, or even your own ideas?
+>
+> And when the frontier moves again next week, can you do it all over again?
+>
+> I know this sounds like a fucking ridiculous standard. It probably is.
+>
+> But I think we're living through a period where the ceiling on what a single sufficiently motivated, technically capable, relentlessly curious person can accomplish is being rewritten almost every week.
+>
+> And I don't think most people have even begun to internalise what that means.
+>
+> I certainly haven't. I'm figuring this shit out every day myself.
+>
+> But I want to work with people who are just as restless about it. People who aren't merely excited about AI, but are actively reorganising the way they think, work, experiment, and build around what is now possible.
+>
+> People who aren't waiting for someone to tell them what to learn next, what to automate next, what to question next.
+>
+> People who are genuinely uncomfortable with how much better they could be.
+>
+> If you've got that dawg in you, then sure, we can definitely work together.
+
+**Links in post:** https://twitter.com/gakonst/status/2123839118409109853
+
+**Quoted post (full text):**
+
+    #### Quoted post — @804029200315334656 — 2026-11-20 18:01 UTC (2026-11-20 19:01 WAT)
+    
+    - URL: https://x.com/804029200315334656/status/2123839118409109853
+    - Metrics (at fetch): bookmark 4098, impression 215262, like 1971, quote 67, reply 64, repost 142
+    
+    > EFFECTIVE SWARM RIDING FOR ENGINEERS
+    >
+    > I think we are entering an era where software development feels a lot more like magic.
+    >
+    > But you need the right attitude, the right infra, and some incantations.
+    >
+    > These are some things that have worked well for me & I hope for you! 1/N
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXlizFwakAAmMfj.jpg — no alt text provided by author
+    
+
+
+### Thread part 2 — @saxenism — 2026-11-22 12:49 UTC (2026-11-22 13:49 WAT)
+
+- URL: https://x.com/saxenism/status/2124485366019408316
+- Metrics (at fetch): bookmark 0, impression 75, like 3, quote 0, reply 0, repost 0
+
+> @zaryab_eth @bluethroat_labs This is our Wild West.
+>
+> There are no rules.
+>
+> Pure hunger.
+
+
+### Thread part 3 — @saxenism — 2026-11-23 03:02 UTC (2026-11-23 04:02 WAT)
+
+- URL: https://x.com/saxenism/status/2124700182998847534
+- Metrics (at fetch): bookmark 0, impression 6, like 1, quote 0, reply 0, repost 0
+
+> @Viraz04 @bluethroat_labs 🫡🫡
 
 
 ---

@@ -1,11 +1,47 @@
 # @asanso — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 189
-- Conversations/threads: 177
+- Posts in this file: 191
+- Conversations/threads: 179
 - Oldest post captured: 2011-01-30
-- Newest post captured: 2026-11-20
+- Newest post captured: 2026-11-22
+
+
+---
+
+## 2026-11-22 · Post · Dumb wisdom of the day:
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @asanso — 2026-11-22 15:30 UTC (2026-11-22 16:30 WAT)
+
+- URL: https://x.com/asanso/status/2124525893309649183
+- Metrics (at fetch): bookmark 0, impression 588, like 8, quote 0, reply 2, repost 0
+
+> Dumb wisdom of the day:
+>
+> All AI discoveries are good. Some only once.
+>
+> The last one may be the one that drives humanity to extinction.
+
+
+---
+
+## 2026-11-22 · Post · Celebrating the end of mushroom season with one big cadeau 🍄🎁 [pic.x.com/iqR7Y7EfWV]
+
+
+### Post — @asanso — 2026-11-22 12:53 UTC (2026-11-22 13:53 WAT)
+
+- URL: https://x.com/asanso/status/2124486419456442531
+- Metrics (at fetch): bookmark 0, impression 918, like 38, quote 0, reply 3, repost 0
+
+> Celebrating the end of mushroom season with one big cadeau 🍄🎁 [pic.x.com/iqR7Y7EfWV]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXuw81eWAAACSKQ.jpg — no alt text provided by author
 
 
 ---

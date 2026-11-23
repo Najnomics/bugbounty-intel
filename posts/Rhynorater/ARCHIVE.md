@@ -1,11 +1,24 @@
 # @Rhynorater — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 436
-- Conversations/threads: 336
+- Posts in this file: 437
+- Conversations/threads: 337
 - Oldest post captured: 2017-06-13
-- Newest post captured: 2026-11-20
+- Newest post captured: 2026-11-22
+
+
+---
+
+## 2026-11-22 · Post · Amazing time in person at Nahamcon this year! Shout-out to @NahamSec and the @zenitysec_labs team fo
+
+
+### Post — @Rhynorater — 2026-11-22 22:43 UTC (2026-11-22 23:43 WAT)
+
+- URL: https://x.com/Rhynorater/status/2124634965002649790
+- Metrics (at fetch): bookmark 2, impression 1968, like 54, quote 0, reply 2, repost 0
+
+> Amazing time in person at Nahamcon this year! Shout-out to @NahamSec and the @zenitysec_labs team for an outstanding event!
 
 
 ---

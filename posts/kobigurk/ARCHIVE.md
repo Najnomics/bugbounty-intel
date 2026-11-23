@@ -1,11 +1,86 @@
 # @kobigurk — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 137
-- Conversations/threads: 119
+- Posts in this file: 139
+- Conversations/threads: 121
 - Oldest post captured: 2014-01-16
-- Newest post captured: 2026-11-20
+- Newest post captured: 2026-11-23
+
+
+---
+
+## 2026-11-23 · Reply · @kirancodes The convex hull can be a lot
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @kirancodes — 2026-11-23 04:05 UTC (2026-11-23 05:05 WAT)
+
+- URL: https://x.com/kirancodes/status/2124715826943049919
+- Metrics (at fetch): bookmark 1, impression 727, like 13, quote 0, reply 7, repost 0
+
+> I love the "convex hull" cope that mathematicians have come up with lol because it's entirely unfalsifiable lmaoo
+>
+> AI does an open problem? Nah bro it was in the convex hull bro, it was totes just thanks to us humans bro trust us
+
+
+### Post — @kobigurk — 2026-11-23 04:20 UTC (2026-11-23 05:20 WAT)
+
+- URL: https://x.com/kobigurk/status/2124719596988973182
+- Metrics (at fetch): bookmark 0, impression 108, like 1, quote 0, reply 1, repost 0
+
+> @kirancodes The convex hull can be a lot
+
+
+---
+
+## 2026-11-23 · Reply · @adust09 Check this out https://twitter.com/kobigurk/status/2118879245514780863
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @969814171033378816 — 2026-11-23 03:02 UTC (2026-11-23 04:02 WAT)
+
+- URL: https://x.com/969814171033378816/status/2124700134344691929
+- Metrics (at fetch): bookmark 6, impression 839, like 14, quote 0, reply 1, repost 1
+
+> New post: Proving Rust code in Lean with Aeneas.
+>
+> This post covers what worked on an Ethereum encoding library, where it got stuck, and what a human still has to check.
+>
+> https://wiki-92c.pages.dev/formal-verification/Bringing-Rust-into-Lean-with-Aeneas
+
+**Links in post:** https://wiki-92c.pages.dev/formal-verification/Bringing-Rust-into-Lean-with-Aeneas
+
+
+### Post — @kobigurk — 2026-11-23 03:53 UTC (2026-11-23 04:53 WAT)
+
+- URL: https://x.com/kobigurk/status/2124712979723874790
+- Metrics (at fetch): bookmark 0, impression 91, like 0, quote 0, reply 1, repost 0
+
+> @adust09 Check this out https://twitter.com/kobigurk/status/2118879245514780863
+
+**Links in post:** https://twitter.com/kobigurk/status/2118879245514780863
+
+**Quoted post (full text):**
+
+    #### Quoted post — @kobigurk — 2026-11-07 01:32 UTC (2026-11-07 02:32 WAT)
+    
+    - URL: https://x.com/kobigurk/status/2118879245514780863
+    - Metrics (at fetch): bookmark 24, impression 3790, like 64, quote 1, reply 4, retweet 8
+    
+    > Experimenting with conjuring proofs for cryptographic code
+    >
+    > arkworks (@arkworks_rs) is a comprehensive optimized toolkit for a wide range of snark-related cryptography
+    >
+    > EthLib is a Lean spec for Ethereum related algorithms, including cryptography, that was published recently
+    >
+    > 1/7 [pic.x.com/03FNjTOEnr]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HWfFca0WcAABVhq.jpg — no alt text provided by author
+    
 
 
 ---
@@ -353,7 +428,7 @@ Tags (automatic): ZK
 >
 > EthLib is a Lean spec for Ethereum related algorithms, including cryptography, that was published recently
 >
-> 1/7 https://t.co/03FNjTOEnr
+> 1/7 [pic.x.com/03FNjTOEnr]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HWfFca0WcAABVhq.jpg — no alt text provided by author

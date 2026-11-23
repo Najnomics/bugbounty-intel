@@ -1,11 +1,42 @@
 # @xssdoctor — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 176
-- Conversations/threads: 111
+- Posts in this file: 178
+- Conversations/threads: 112
 - Oldest post captured: 2023-07-10
-- Newest post captured: 2026-11-20
+- Newest post captured: 2026-11-23
+
+
+---
+
+## 2026-11-23 · Thread · @monkehack @NahamSec @zenitysec_labs It was so great seeing you!
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1367644064498282500 — 2026-11-22 21:02 UTC (2026-11-22 22:02 WAT)
+
+- URL: https://x.com/1367644064498282500/status/2124609435095953760
+- Metrics (at fetch): bookmark 0, impression 1172, like 37, quote 0, reply 5, retweet 0
+
+> Prompt2Pwn was one of the best events I attended all year. Thank you so much @NahamSec and @zenitysec_labs, it was superb
+
+
+### Post — @xssdoctor — 2026-11-23 00:29 UTC (2026-11-23 01:29 WAT)
+
+- URL: https://x.com/xssdoctor/status/2124661619359707559
+- Metrics (at fetch): bookmark 0, impression 99, like 2, quote 0, reply 1, repost 0
+
+> @monkehack @NahamSec @zenitysec_labs It was so great seeing you!
+
+
+### Thread part 2 — @xssdoctor — 2026-11-23 01:23 UTC (2026-11-23 02:23 WAT)
+
+- URL: https://x.com/xssdoctor/status/2124675109730259146
+- Metrics (at fetch): bookmark 0, impression 39, like 1, quote 0, reply 1, repost 0
+
+> @monkehack @NahamSec @zenitysec_labs By the way, I’ve been pouring over your talk all day. It blew my mind
 
 
 ---

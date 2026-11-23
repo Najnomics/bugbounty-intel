@@ -1,11 +1,29 @@
 # @naresh_1337 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 91
-- Conversations/threads: 51
+- Posts in this file: 92
+- Conversations/threads: 52
 - Oldest post captured: 2026-05-22
-- Newest post captured: 2026-11-21
+- Newest post captured: 2026-11-22
+
+
+---
+
+## 2026-11-22 · Post · I have 5 invites left for @immunefi Studio. Reply if you want in. https://immunefi.com/s/studio/?car
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @naresh_1337 — 2026-11-22 15:13 UTC (2026-11-22 16:13 WAT)
+
+- URL: https://x.com/naresh_1337/status/2124521545918018005
+- Metrics (at fetch): bookmark 0, impression 75, like 0, quote 0, reply 1, repost 0
+
+> I have 5 invites left for @immunefi Studio. Reply if you want in. https://immunefi.com/s/studio/?card=ambassador&u=Naresh_Kandula&i=5&t=1795360362&sig=a100f523fe9818d7b9e7f9d300da293188892db31005d918c945ebb57cb59e41
+
+**Links in post:** https://immunefi.com/s/studio/?card=ambassador&u=Naresh_Kandula&i=5&t=1795360362&sig=a100f523fe9818d7b9e7f9d300da293188892db31005d918c945ebb57cb59e41
 
 
 ---

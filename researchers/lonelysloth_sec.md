@@ -27,3 +27,6 @@ On 8 Mar 2026 he described planting a "very definitely critical," somewhat atypi
 **Takeaway:** Use models, but do not outsource judgment on atypical, comment-contradicting bugs.
 
 No program-named, root-cause-level bounty writeup was found in this pass.
+
+## 2026-11-22/23 — Proof checkers as attack surface (Lean RH "proof")
+- A 17M-line machine proof could carry payloads for checker bugs across Lean versions; "There is no such thing as 'inert export of the proof'." **Takeaway (ZK/FV):** treat proofs/circuits as adversarial checker input; differential-check kernels. Local: [post](../posts/lonelysloth_sec/2026-11-22-2124592826969428054.md).

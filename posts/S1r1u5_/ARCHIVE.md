@@ -1,11 +1,152 @@
 # @S1r1u5_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 548
-- Conversations/threads: 416
+- Posts in this file: 552
+- Conversations/threads: 420
 - Oldest post captured: 2017-02-26
-- Newest post captured: 2026-11-21
+- Newest post captured: 2026-11-22
+
+
+---
+
+## 2026-11-22 · Post · gpt-5.6 sol -- cyber expert! indeed
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-11-22 18:56 UTC (2026-11-22 19:56 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2124577832764584210
+- Metrics (at fetch): bookmark 16, impression 5046, like 46, quote 1, reply 3, repost 1
+
+> gpt-5.6 sol -- cyber expert! indeed
+>
+> also explains why gpt-5-5.5 were not great then, opus was our go to model. https://twitter.com/merettm/status/2124549218995949967
+
+**Links in post:** https://twitter.com/merettm/status/2124549218995949967
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1032406226502479872 — 2026-11-22 17:03 UTC (2026-11-22 18:03 WAT)
+    
+    - URL: https://x.com/1032406226502479872/status/2124549218995949967
+    - Metrics (at fetch): bookmark 5465, impression 6686884, like 11066, quote 1032, reply 692, repost 1211
+    
+    > We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior.
+    >
+    > https://openai.com/index/perplexity-and-intelligence
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXvptOTXIAAtrY0.jpg — no alt text provided by author
+    
+    **Links in post:** https://openai.com/index/perplexity-and-intelligence
+    
+
+
+---
+
+## 2026-11-22 · Post · incredible work! https://twitter.com/hdmoore/status/2123451306685661416
+
+
+### Post — @S1r1u5_ — 2026-11-22 18:48 UTC (2026-11-22 19:48 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2124575688154104287
+- Metrics (at fetch): bookmark 20, impression 3391, like 39, quote 0, reply 0, repost 0
+
+> incredible work! https://twitter.com/hdmoore/status/2123451306685661416
+
+**Links in post:** https://twitter.com/hdmoore/status/2123451306685661416
+
+**Quoted post (full text):**
+
+    #### Quoted post — @15590090 — 2026-11-19 16:20 UTC (2026-11-19 17:20 WAT)
+    
+    - URL: https://x.com/15590090/status/2123451306685661416
+    - Metrics (at fetch): bookmark 1840, impression 394127, like 2721, quote 161, reply 99, repost 583
+    
+    > We seeded 2m canaries into popular AI services and tracked where they were stolen and abused. 
+    >
+    > This identified:
+    > - Three compromised providers
+    > - Resellers stealing prompts via built-in logging
+    > - Providers ignoring ZDR &amp; privacy flags
+    >
+    > https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens?utm_campaign=hd-and-friends [pic.x.com/tpavTcUEAO]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXgDtd6XkAAzrku.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HXgDtdSXsAIDZtt.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HXgDteQXYAA82aM.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HXgDtfRXcAAP4wr.jpg — no alt text provided by author
+    
+    **Links in post:** https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens?utm_campaign=hd-and-friends
+    
+
+
+---
+
+## 2026-11-22 · Post · remember watching this
+
+
+### Post — @S1r1u5_ — 2026-11-22 15:19 UTC (2026-11-22 16:19 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2124523148330873076
+- Metrics (at fetch): bookmark 0, impression 1443, like 3, quote 0, reply 1, repost 0
+
+> remember watching this
+>
+> &gt; You've got to explain what it is to do. So, you know, if they prove the Riemann conjecture, then I'm wrong. I think they won't prove the Riemann conjecture or anything like it. But they may do amazing things in the course of trying. https://twitter.com/ToKTeacher/status/1732704106895347791
+
+**Links in post:** https://twitter.com/ToKTeacher/status/1732704106895347791
+
+**Quoted post (full text):**
+
+    #### Quoted post — @96071170 — 2023-12-07 10:10 UTC (2023-12-07 11:10 WAT)
+    
+    - URL: https://x.com/96071170/status/1732704106895347791
+    - Metrics (at fetch): bookmark 92, impression 85257, like 158, quote 8, reply 11, repost 24
+    
+    > Everyone agrees each new iteration of ChatGPT is getting better (as each new advance in AI more broadly is). 
+    >
+    > So is any of it getting closer to being a person?
+    >
+    > @DavidDeutschOxf weighs in along with @naval here. See next post for links, transcript and how babies learn! [pic.x.com/GFZZ0sWb9v]
+    
+    **Media:**
+    - video: https://pbs.twimg.com/amplify_video_thumb/1732703619328393216/img/YlB-kb1MzvrOaJZt.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-22 · Reply · @LiveOverflow you can still ask about much more powerful future ai and what kind of hacks they will 
+
+
+Tags (automatic): Memory corruption / native, AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @LiveOverflow — 2026-11-22 08:44 UTC (2026-11-22 09:44 WAT)
+
+- URL: https://x.com/LiveOverflow/status/2124423672865681535
+- Metrics (at fetch): bookmark 23, impression 11579, like 67, quote 1, reply 10, repost 1
+
+> I wish I had asked security researchers over the years about “what if AI could find the craziest vulnerabilities”. Too late now 😅
+>
+> https://youtu.be/zqzk43bSdDI?is=XkoPv3MTzvjhmhdW
+
+**Links in post:** https://youtu.be/zqzk43bSdDI?is=XkoPv3MTzvjhmhdW
+
+
+### Post — @S1r1u5_ — 2026-11-22 14:58 UTC (2026-11-22 15:58 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2124517788807254349
+- Metrics (at fetch): bookmark 0, impression 630, like 3, quote 0, reply 0, repost 0
+
+> @LiveOverflow you can still ask about much more powerful future ai and what kind of hacks they will be able to pull. could be about unaligned ai or human guided one.
 
 
 ---

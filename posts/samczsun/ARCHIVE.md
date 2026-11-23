@@ -1,9 +1,9 @@
 # @samczsun — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-22 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 364
-- Conversations/threads: 269
+- Posts in this file: 414
+- Conversations/threads: 319
 - Oldest post captured: 2020-03-13
 - Newest post captured: 2026-11-04
 
@@ -5814,13 +5814,63 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2022-12-02 · Post · respond with acknowledged to confirm [pic.x.com/3GK5VX1BQN] https://twitter.com/samczsun/status/1598
+
+
+### Post — @samczsun — 2022-12-02 13:04 UTC (2022-12-02 14:04 WAT)
+
+- URL: https://x.com/samczsun/status/1598664313367326720
+- Metrics (at fetch): bookmark 24, impression 0, like 202, quote 7, reply 9, retweet 12
+
+> respond with acknowledged to confirm [pic.x.com/3GK5VX1BQN] https://twitter.com/samczsun/status/1598564871653789696
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fi-YuH5UYAA6oy5.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/samczsun/status/1598564871653789696
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2022-12-02 06:28 UTC (2022-12-02 07:28 WAT)
+    
+    - URL: https://x.com/samczsun/status/1598564871653789696
+    - Metrics (at fetch): bookmark 1111, impression 0, like 10220, quote 185, reply 134, retweet 872
+    
+    > bypassing chatgpt's content filter [pic.x.com/RW9ZgaFhkU]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/Fi8-RE8WAAAxf0Y.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2022-12-02 · Post · bypassing chatgpt's content filter [pic.x.com/RW9ZgaFhkU]
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @samczsun — 2022-12-02 06:28 UTC (2022-12-02 07:28 WAT)
+
+- URL: https://x.com/samczsun/status/1598564871653789696
+- Metrics (at fetch): bookmark 1111, impression 0, like 10220, quote 185, reply 134, retweet 872
+
+> bypassing chatgpt's content filter [pic.x.com/RW9ZgaFhkU]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fi8-RE8WAAAxf0Y.jpg — no alt text provided by author
+
+
+---
+
 ## 2022-11-28 · Post · looking for beta testers :) [pic.x.com/zx0AG3UyVG]
 
 
 ### Post — @samczsun — 2022-11-28 21:54 UTC (2022-11-28 22:54 WAT)
 
 - URL: https://x.com/samczsun/status/1597348129137131520
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 49, impression 0, like 690, quote 3, reply 243, retweet 40
 
 > looking for beta testers :) [pic.x.com/zx0AG3UyVG]
 
@@ -5836,7 +5886,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2022-11-24 02:44 UTC (2022-11-24 03:44 WAT)
 
 - URL: https://x.com/samczsun/status/1595609279343435776
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 134, impression 0, like 722, quote 8, reply 38, retweet 57
 
 > time to graduate from doing audits in etherscan and remix [pic.x.com/sFD1OxO4pF]
 
@@ -5852,7 +5902,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2022-11-19 03:44 UTC (2022-11-19 04:44 WAT)
 
 - URL: https://x.com/samczsun/status/1593812429342810115
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 0, like 161, quote 1, reply 20, retweet 13
 
 > i wish solc would shut the fuck up about overrides
 
@@ -5865,7 +5915,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2022-11-18 02:45 UTC (2022-11-18 03:45 WAT)
 
 - URL: https://x.com/samczsun/status/1593435277447426048
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 13, impression 0, like 170, quote 2, reply 13, retweet 13
 
 > if this site goes down you can find me @samczsun@infosec.exchange
 
@@ -5878,13 +5928,244 @@ Tags (automatic): AI-assisted hunting
 ### Post — @samczsun — 2022-11-13 06:27 UTC (2022-11-13 07:27 WAT)
 
 - URL: https://x.com/samczsun/status/1591679220039704577
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 15, impression 0, like 235, quote 1, reply 12, retweet 21
 
 > Separately, consider that when a Certificate Authority (the companies responsible for issuing SSL certs) makes even a single mistake, they're required to make a detailed and public incident report. Maybe exchanges should be held to the same standard?
 >
 > https://wiki.mozilla.org/CA/Responding_To_An_Incident#Incident_Report
 
 **Links in post:** https://wiki.mozilla.org/CA/Responding_To_An_Incident#Incident_Report
+
+
+---
+
+## 2022-11-13 · Post · Just to be extra explicit, none of my tweets are endorsements of exchanges, their reports, or their 
+
+
+### Post — @samczsun — 2022-11-13 05:51 UTC (2022-11-13 06:51 WAT)
+
+- URL: https://x.com/samczsun/status/1591670022027591681
+- Metrics (at fetch): bookmark 2, impression 0, like 317, quote 0, reply 17, retweet 38
+
+> Just to be extra explicit, none of my tweets are endorsements of exchanges, their reports, or their solvency. I just want to make sure that rumors which are likely to be false are addressed so we can focus on what really matters.
+
+
+---
+
+## 2022-11-13 · Post · In this SPECIFIC instance, the funds in 0xCAc7...c3Fc mostly came from 0x1870...a12e, another Huobi 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2022-11-13 05:39 UTC (2022-11-13 06:39 WAT)
+
+- URL: https://x.com/samczsun/status/1591667154637959174
+- Metrics (at fetch): bookmark 4, impression 0, like 279, quote 22, reply 6, retweet 42
+
+> In this SPECIFIC instance, the funds in 0xCAc7...c3Fc mostly came from 0x1870...a12e, another Huobi address. Given that both addresses were in the snapshot, it's unlikely the funds were used to inflate the proof-of-reserves
+>
+> https://etherscan.io/tx/0x8762db6da94f9fd3a2187088aea513fa53d4052bf63a985ac0c6dfcf9b1d3cfc
+> https://archive.ph/q6aGs [pic.x.com/qNjMuX2pib] https://twitter.com/WuBlockchain/status/1591641783683133440
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fha7748VQAEJl65.jpg — no alt text provided by author
+
+**Links in post:** https://etherscan.io/tx/0x8762db6da94f9fd3a2187088aea513fa53d4052bf63a985ac0c6dfcf9b1d3cfc, https://archive.ph/q6aGs, https://twitter.com/WuBlockchain/status/1591641783683133440
+
+**Quoted post (full text):**
+
+    #### Quoted post — @111533746 — 2022-11-13 03:59 UTC (2022-11-13 04:59 WAT)
+    
+    - URL: https://x.com/111533746/status/1591641783683133440
+    - Metrics (at fetch): bookmark 107, impression 0, like 2417, quote 555, reply 229, retweet 632
+    
+    > After Huobi released the asset snapshot of the asset reserve, 10,000 ETH was transferred from 0xca...c3fc (Huobi 34) to Binance and OKX deposit wallets. The Huobi 34, which had 14,858 ETH at the time of the snapshot, currently has only 4,044 ETH left. https://etherscan.io/txs?a=0xcac725bef4f114f728cbcfd744a731c2a463c3fc [pic.x.com/B2lRXMF8su]
+    
+    **Media:**
+    - media `3_1591641641898889216` (details not returned by the API)
+    
+    **Links in post:** https://etherscan.io/txs?a=0xcac725bef4f114f728cbcfd744a731c2a463c3fc
+    
+
+
+---
+
+## 2022-11-13 · Post · The 320k ETH was sent on block 15793614 but the snapshot for the proof-of-reserve was taken on block
+
+
+### Post — @samczsun — 2022-11-13 05:16 UTC (2022-11-13 06:16 WAT)
+
+- URL: https://x.com/samczsun/status/1591661157219459073
+- Metrics (at fetch): bookmark 13, impression 0, like 507, quote 46, reply 30, retweet 76
+
+> The 320k ETH was sent on block 15793614 but the snapshot for the proof-of-reserve was taken on block 15778435. Assuming the report is truthful, then the ETH couldn't have been used as a top-up.
+>
+> https://etherscan.io/tx/0xb426efda7525776e856b414c87ec0d7859e9bccafe727c174c7b51ed7ada6bee
+> https://raw.githubusercontent.com/gateio/proof-of-reserves/master/assessment%20report/Gate.io%20Proof-of-Reserves%20Assessment%20Report%20%5BBTC%26ETH%5D%20%5BOct-28-2022%5D.pdf https://twitter.com/adamscochran/status/1591653327770906624
+
+**Links in post:** https://etherscan.io/tx/0xb426efda7525776e856b414c87ec0d7859e9bccafe727c174c7b51ed7ada6bee, https://raw.githubusercontent.com/gateio/proof-of-reserves/master/assessment%20report/Gate.io%20Proof-of-Reserves%20Assessment%20Report%20%5BBTC%26ETH%5D%20%5BOct-28-2022%5D.pdf, https://twitter.com/adamscochran/status/1591653327770906624
+
+**Quoted post (full text):**
+
+    #### Quoted post — @116328126 — 2022-11-13 04:44 UTC (2022-11-13 05:44 WAT)
+    
+    - URL: https://x.com/116328126/status/1591653327770906624
+    - Metrics (at fetch): bookmark 216, impression 0, like 4038, quote 267, reply 189, retweet 867
+    
+    > This is getting wild.
+    >
+    > The time that Crypto .com claims to have "accidently" sent user funds was during the Gate proof-of-reserve.
+    >
+    > And we just saw similar behavior with Huobi.
+    >
+    > Are exchanges passing around ETH loans to pass audits?! https://twitter.com/shegenerates/status/1591645956767883264
+    
+    **Links in post:** https://twitter.com/shegenerates/status/1591645956767883264
+    
+    **Quoted post** 1591645956767883264: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2022-11-13 · Post · same energy
+
+
+### Post — @samczsun — 2022-11-13 02:25 UTC (2022-11-13 03:25 WAT)
+
+- URL: https://x.com/samczsun/status/1591618325666500610
+- Metrics (at fetch): bookmark 1, impression 0, like 48, quote 0, reply 5, retweet 1
+
+> same energy
+>
+> https://www.youtube.com/watch?v=5a9rBGsZkL8 https://twitter.com/gabrielleydon/status/1591571770842435584
+
+**Links in post:** https://www.youtube.com/watch?v=5a9rBGsZkL8, https://twitter.com/gabrielleydon/status/1591571770842435584
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1397045616736276480 — 2022-11-12 23:20 UTC (2022-11-13 00:20 WAT)
+    
+    - URL: https://x.com/1397045616736276480/status/1591571770842435584
+    - Metrics (at fetch): bookmark 10, impression 0, like 1670, quote 100, reply 414, retweet 1173
+    
+    > .@mypethooligan x @DigiDaigaku 
+    >
+    > Coming soon! 💃🤣 [pic.x.com/G878uJpUfQ]
+    
+    **Media:**
+    - media `7_1591571627577602049` (details not returned by the API)
+    
+
+
+---
+
+## 2022-10-26 · Post · interesting https://t.co/emCnp0hoID
+
+
+### Post — @samczsun — 2022-10-26 07:59 UTC (2022-10-26 08:59 WAT)
+
+- URL: https://x.com/samczsun/status/1585179224130093056
+- Metrics (at fetch): bookmark 4, impression 0, like 165, quote 1, reply 11, retweet 7
+
+> interesting https://t.co/emCnp0hoID
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ff-wGjcX0AE-F8N.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-25 · Post · new qol feature: if the preimage is known, the data that was hashed will be shown. this works everyw
+
+
+### Post — @samczsun — 2022-10-25 14:01 UTC (2022-10-25 15:01 WAT)
+
+- URL: https://x.com/samczsun/status/1584908068324012035
+- Metrics (at fetch): bookmark 9, impression 0, like 81, quote 1, reply 4, retweet 12
+
+> new qol feature: if the preimage is known, the data that was hashed will be shown. this works everywhere (calldata, indexed dynamic types, and storage traces). will be useful when debugging signatures or optimized logs
+>
+> example: https://t.co/IUu8Im3fw2 https://t.co/71W1HKhy21
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ff65C6AagAQjh6_.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-24 · Post · if you inspect a transaction which calls an unverified contract, you'll get a best-effort recovery o
+
+
+### Post — @samczsun — 2022-10-24 15:06 UTC (2022-10-24 16:06 WAT)
+
+- URL: https://x.com/samczsun/status/1584561979229843456
+- Metrics (at fetch): bookmark 27, impression 0, like 236, quote 0, reply 17, retweet 14
+
+> if you inspect a transaction which calls an unverified contract, you'll get a best-effort recovery of the original function parameters. works as long as the contract uses the standard abi. no more hand-deciphering calldata! https://t.co/hxq0U58Vx0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ff1-Vc6UcAAqOQO.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-24 · Post · soon https://t.co/c4nU5lqXjS
+
+
+### Post — @samczsun — 2022-10-24 08:54 UTC (2022-10-24 09:54 WAT)
+
+- URL: https://x.com/samczsun/status/1584468392357994496
+- Metrics (at fetch): bookmark 14, impression 0, like 295, quote 1, reply 28, retweet 10
+
+> soon https://t.co/c4nU5lqXjS
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Ff0pUJ_X0AEncYl.png — no alt text provided by author
+
+
+---
+
+## 2022-10-22 · Post · neat and hopefully coming soon to a tx viewer near you https://t.co/wjfMHj9jgp
+
+
+### Post — @samczsun — 2022-10-22 21:18 UTC (2022-10-22 22:18 WAT)
+
+- URL: https://x.com/samczsun/status/1583930752601063425
+- Metrics (at fetch): bookmark 20, impression 0, like 130, quote 1, reply 9, retweet 11
+
+> neat and hopefully coming soon to a tx viewer near you https://t.co/wjfMHj9jgp
+
+**Quoted post (full text):**
+
+    #### Quoted post — @350229635 — 2022-10-22 19:22 UTC (2022-10-22 20:22 WAT)
+    
+    - URL: https://x.com/350229635/status/1583901648035860480
+    - Metrics (at fetch): bookmark 625, impression 0, like 1432, quote 63, reply 48, retweet 247
+    
+    > Ever found yourself lost in the dark forest, trying to decode transaction calldata of an unknown smart contract? 🤔😤
+    >
+    > Say no more!
+    >
+    > Using GPT-3 you can decode the calldata from any transaction and understand how to interact with the contract 🧵 https://t.co/bMhMNjOM0v
+    
+    **Media:**
+    - media `3_1583884218366582785` (details not returned by the API)
+    
+
+
+---
+
+## 2022-10-20 · Post · for the devs out there, what's the benefit of a public testnet like goerli vs just running a devnet 
+
+
+### Post — @samczsun — 2022-10-20 23:02 UTC (2022-10-21 00:02 WAT)
+
+- URL: https://x.com/samczsun/status/1583232245212491776
+- Metrics (at fetch): bookmark 32, impression 0, like 294, quote 4, reply 163, retweet 14
+
+> for the devs out there, what's the benefit of a public testnet like goerli vs just running a devnet locally? is it persistence? availability? easy access to something that just works? something else?
 
 
 ---
@@ -5898,6 +6179,58 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 1, impression 0, like 60, quote 0, reply 22, retweet 6
 
 > there is a critical bug that is only exploitable when the whitelist is turned off. when do you report it and why
+
+
+---
+
+## 2022-10-15 · Post · update is live! biggest new features:
+
+
+### Post — @samczsun — 2022-10-15 22:16 UTC (2022-10-15 23:16 WAT)
+
+- URL: https://x.com/samczsun/status/1581408661317918720
+- Metrics (at fetch): bookmark 35, impression 0, like 247, quote 3, reply 19, retweet 30
+
+> update is live! biggest new features:
+> - see a summary of how much value each address gained/lost (prices shown are at time of execution)
+> - custom labels on addresses!
+>
+> tx in screenshot: https://t.co/QYkUPlP8OD https://t.co/oGGAE5mDlX
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FfJKyBHUUAATVW7.png — no alt text provided by author
+
+
+---
+
+## 2022-10-15 · Post · took just a little over 100 loc to decode this https://t.co/6SH6H6AN7g
+
+
+### Post — @samczsun — 2022-10-15 21:52 UTC (2022-10-15 22:52 WAT)
+
+- URL: https://x.com/samczsun/status/1581402587978293248
+- Metrics (at fetch): bookmark 3, impression 0, like 76, quote 0, reply 4, retweet 5
+
+> took just a little over 100 loc to decode this https://t.co/6SH6H6AN7g
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FfJDTVzUoAA_xoy.png — no alt text provided by author
+
+
+---
+
+## 2022-10-15 · Post · also extremely cool to see people i respect somehow come to the conclusion that mango markets deserv
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2022-10-15 20:25 UTC (2022-10-15 21:25 WAT)
+
+- URL: https://x.com/samczsun/status/1581380871730257920
+- Metrics (at fetch): bookmark 13, impression 0, like 656, quote 4, reply 26, retweet 32
+
+> also extremely cool to see people i respect somehow come to the conclusion that mango markets deserved what happend to them. i guess its ok because they were built on solana? good thing no projects on eth ever used a price oracle incorrectly haha
 
 
 ---
@@ -5916,13 +6249,183 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2022-10-15 · Post · auto decoding calldata messages https://t.co/48E7mFGwpN
+
+
+### Post — @samczsun — 2022-10-15 10:46 UTC (2022-10-15 11:46 WAT)
+
+- URL: https://x.com/samczsun/status/1581235169838522369
+- Metrics (at fetch): bookmark 11, impression 0, like 199, quote 0, reply 9, retweet 12
+
+> auto decoding calldata messages https://t.co/48E7mFGwpN
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FfGs4ooVIAALv-4.png — no alt text provided by author
+
+
+---
+
+## 2022-10-15 · Post · coming soon https://t.co/hNps1snWV6
+
+
+### Post — @samczsun — 2022-10-15 03:29 UTC (2022-10-15 04:29 WAT)
+
+- URL: https://x.com/samczsun/status/1581125077793263616
+- Metrics (at fetch): bookmark 28, impression 0, like 595, quote 7, reply 39, retweet 49
+
+> coming soon https://t.co/hNps1snWV6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FfFIy98UYAAmzMA.png — no alt text provided by author
+
+
+---
+
+## 2022-10-12 · Post · riley literally said "i just don't think it's fully optimal yet", grinded on it for another two days
+
+
+### Post — @samczsun — 2022-10-12 05:40 UTC (2022-10-12 06:40 WAT)
+
+- URL: https://x.com/samczsun/status/1580070928213426177
+- Metrics (at fetch): bookmark 4, impression 0, like 77, quote 0, reply 3, retweet 1
+
+> riley literally said "i just don't think it's fully optimal yet", grinded on it for another two days, and came up with this. truly the chaddest of chads https://t.co/ieZpBQ6UAW
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1514075123170652160 — 2022-10-12 03:31 UTC (2022-10-12 04:31 WAT)
+    
+    - URL: https://x.com/1514075123170652160/status/1580038369132019712
+    - Metrics (at fetch): bookmark 36, impression 0, like 138, quote 3, reply 3, retweet 14
+    
+    > I made a website post about the @0xbeans IAmTheOptimizor challenge (a.k.a. the nerd-snipe that many of us devoted way too much time to). The post is here: https://t.co/kLKXmG9bJ7
+    
+
+
+---
+
+## 2022-10-11 · Post · fully implemented decoders for every operation on the uniswap v2 router! decoders are context-sensit
+
+
+Tags (automatic): Path normalization
+
+
+### Post — @samczsun — 2022-10-11 23:22 UTC (2022-10-12 00:22 WAT)
+
+- URL: https://x.com/samczsun/status/1579975733656838144
+- Metrics (at fetch): bookmark 29, impression 0, like 143, quote 0, reply 9, retweet 12
+
+> fully implemented decoders for every operation on the uniswap v2 router! decoders are context-sensitive so you'll see nested swaps or fee transfers. meanwhile, @haruxeETH also brought back dark mode support
+>
+> code: https://t.co/IlzCAoQqqU
+>
+> https://t.co/4U9b4pSIU6 https://t.co/TY0SH8HMV0
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fe0zLMVVUAAfiRE.png — no alt text provided by author
+
+
+---
+
+## 2022-10-11 · Post · Sorry everyone who tuned in and/or came in person to hear me on the panel - unfortunately it turns o
+
+
+### Post — @samczsun — 2022-10-11 19:13 UTC (2022-10-11 20:13 WAT)
+
+- URL: https://x.com/samczsun/status/1579913081290752000
+- Metrics (at fetch): bookmark 3, impression 0, like 91, quote 1, reply 11, retweet 5
+
+> Sorry everyone who tuned in and/or came in person to hear me on the panel - unfortunately it turns out video conferencing wasn't supported https://t.co/tcN0kVmGY4
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1013526003015184385 — 2022-10-11 19:04 UTC (2022-10-11 20:04 WAT)
+    
+    - URL: https://x.com/1013526003015184385/status/1579910823300173825
+    - Metrics (at fetch): bookmark 2, impression 0, like 7, quote 1, reply 1, retweet 0
+    
+    > 🔒Is Web3 security different than Web2 security?
+    >
+    > Head to the Flowers 🌸 room on the 3rd Floor for a panel on the topic with: 
+    >
+    > @Mudit__Gupta @0xPolygon
+    > Spencer Macdonald @SpearbitDAO
+    > @samczsun @paradigm
+    > @CoryHardman @Opensea
+    > @tayvano_ @metamask &amp;
+    > Nassim Eddequiouaq 
+    >
+    > #Devcon https://t.co/ltAVNPvmI9
+    
+    **Media:**
+    - media `3_1579910731780218893` (details not returned by the API)
+    
+
+
+---
+
+## 2022-10-10 · Post · the future is multichain, right? guess i gotta change the name now
+
+
+### Post — @samczsun — 2022-10-10 11:16 UTC (2022-10-10 12:16 WAT)
+
+- URL: https://x.com/samczsun/status/1579430617217130497
+- Metrics (at fetch): bookmark 33, impression 0, like 335, quote 3, reply 30, retweet 30
+
+> the future is multichain, right? guess i gotta change the name now
+>
+> https://t.co/DV9X15MS2Q https://t.co/ChIIrPv9H2
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FetDic7UoAEDO4W.png — no alt text provided by author
+
+
+---
+
+## 2022-10-10 · Post · pushed an update to the transaction viewer:
+
+
+### Post — @samczsun — 2022-10-10 02:58 UTC (2022-10-10 03:58 WAT)
+
+- URL: https://x.com/samczsun/status/1579305398204366848
+- Metrics (at fetch): bookmark 25, impression 0, like 223, quote 2, reply 16, retweet 24
+
+> pushed an update to the transaction viewer:
+> - new ui courtesy of @haruxeETH 
+> - transaction info and decoded actions (only supports v2 swaps right now)
+> - decodes revert reasons
+> - shows token prices
+>
+> todo:
+> - changes in balance
+> - reply with suggestions? https://t.co/dzB8Zu4MXw
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FerRTOdUcAAuEly.png — no alt text provided by author
+
+
+---
+
+## 2022-10-09 · Post · 🫡
+
+
+### Post — @samczsun — 2022-10-09 20:32 UTC (2022-10-09 21:32 WAT)
+
+- URL: https://x.com/samczsun/status/1579208246543675392
+- Metrics (at fetch): bookmark 12, impression 0, like 1362, quote 136, reply 317, retweet 72
+
+> 🫡
+
+
+---
+
 ## 2022-10-07 · Thread · this happens after literally every major hack and someone will inevitably think that just because so
 
 
 ### Post — @samczsun — 2022-10-07 03:51 UTC (2022-10-07 04:51 WAT)
 
 - URL: https://x.com/samczsun/status/1578231427463716864
-- Metrics (at fetch): bookmark 32, impression 0, like 333, quote 2, reply 12, retweet 25
+- Metrics (at fetch): bookmark 32, impression 0, like 334, quote 2, reply 12, retweet 25
 
 > this happens after literally every major hack and someone will inevitably think that just because some random person set a variable called "deployer" to the hacker's address that must mean the hacker was the deployer but no it's just some random grifter https://twitter.com/lorem___/status/1578206162494685185
 
@@ -5949,15 +6452,117 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2022-09-30 · Thread · exploring the nomad hack https://t.co/7lZ1fOcRlL
+## 2022-10-06 · Post · Five hours ago, an attacker stole 2 million BNB (~$566M USD) from the Binance Bridge. During that ti
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2022-10-06 23:35 UTC (2022-10-07 00:35 WAT)
+
+- URL: https://x.com/samczsun/status/1578167198203289600
+- Metrics (at fetch): bookmark 2519, impression 0, like 15555, quote 1154, reply 579, retweet 4949
+
+> Five hours ago, an attacker stole 2 million BNB (~$566M USD) from the Binance Bridge. During that time, I've been working closely with multiple parties to triage and resolve this issue. Here's how it all went down. https://t.co/E0885Dc3lW
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FebE6oqVIAAu0sT.jpg — no alt text provided by author
+
+
+---
+
+## 2022-10-06 · Post · I'm gonna need so many tweets to explain this one
+
+
+### Post — @samczsun — 2022-10-06 22:55 UTC (2022-10-06 23:55 WAT)
+
+- URL: https://x.com/samczsun/status/1578156973547081731
+- Metrics (at fetch): bookmark 23, impression 0, like 1163, quote 9, reply 56, retweet 48
+
+> I'm gonna need so many tweets to explain this one
+
+
+---
+
+## 2022-10-06 · Post · [pic.x.com/SD4VSxWApC]
+
+
+### Post — @samczsun — 2022-10-06 22:08 UTC (2022-10-06 23:08 WAT)
+
+- URL: https://x.com/samczsun/status/1578145135820357632
+- Metrics (at fetch): bookmark 8, impression 0, like 348, quote 0, reply 8, retweet 20
+
+> [pic.x.com/SD4VSxWApC]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeayUY5VUAAv7XE.png — no alt text provided by author
+
+
+---
+
+## 2022-10-06 · Post · Open sourced the frontend to https://tx.eth.samczsun.com! Now you can suggest features or changes or
+
+
+### Post — @samczsun — 2022-10-06 05:43 UTC (2022-10-06 06:43 WAT)
+
+- URL: https://x.com/samczsun/status/1577897234624028672
+- Metrics (at fetch): bookmark 67, impression 0, like 444, quote 0, reply 20, retweet 56
+
+> Open sourced the frontend to https://tx.eth.samczsun.com! Now you can suggest features or changes or report issues directly on GitHub.
+>
+> To any actual frontend devs reading my code - I'm so sorry.
+>
+> https://github.com/samczsun/ethereum-transaction-viewer-frontend
+
+**Links in post:** https://tx.eth.samczsun.com, https://github.com/samczsun/ethereum-transaction-viewer-frontend
+
+
+---
+
+## 2022-10-05 · Post · in case you wanted a general sense of everything that happened in a subcall [pic.x.com/4olJOlk2Ps]
+
+
+### Post — @samczsun — 2022-10-05 07:55 UTC (2022-10-05 08:55 WAT)
+
+- URL: https://x.com/samczsun/status/1577568170428092416
+- Metrics (at fetch): bookmark 13, impression 0, like 130, quote 1, reply 7, retweet 9
+
+> in case you wanted a general sense of everything that happened in a subcall [pic.x.com/4olJOlk2Ps]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FeSl4e-UYAAdpwi.png — no alt text provided by author
+
+
+---
+
+## 2022-10-05 · Post · Transaction viewer is live! Please be gentle, there are probably still lots of bugs.
+
+
+### Post — @samczsun — 2022-10-05 00:12 UTC (2022-10-05 01:12 WAT)
+
+- URL: https://x.com/samczsun/status/1577451505677762560
+- Metrics (at fetch): bookmark 206, impression 0, like 654, quote 9, reply 38, retweet 103
+
+> Transaction viewer is live! Please be gentle, there are probably still lots of bugs.
+>
+> If you want a complex transaction to play with, try 0x3443cd8f0c722fa9d83e12033f29eb590b177804ae625f2072625dfb79b329c2
+>
+> https://tx.eth.samczsun.com
+
+**Links in post:** https://tx.eth.samczsun.com
+
+
+---
+
+## 2022-09-30 · Thread · exploring the nomad hack [pic.x.com/7lZ1fOcRlL]
 
 
 ### Post — @samczsun — 2022-09-30 03:50 UTC (2022-09-30 04:50 WAT)
 
 - URL: https://x.com/samczsun/status/1575694525229432833
-- Metrics (at fetch): bookmark 74, impression 0, like 345, quote 2, reply 13, retweet 26
+- Metrics (at fetch): bookmark 73, impression 0, like 344, quote 2, reply 13, retweet 26
 
-> exploring the nomad hack https://t.co/7lZ1fOcRlL
+> exploring the nomad hack [pic.x.com/7lZ1fOcRlL]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/Fd39p4UVQAEueJm.png — no alt text provided by author
@@ -6031,6 +6636,22 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2022-09-29 · Post · owo whats this [pic.x.com/Od98wktVEd]
+
+
+### Post — @samczsun — 2022-09-29 20:16 UTC (2022-09-29 21:16 WAT)
+
+- URL: https://x.com/samczsun/status/1575580392991600642
+- Metrics (at fetch): bookmark 166, impression 0, like 526, quote 7, reply 24, retweet 40
+
+> owo whats this [pic.x.com/Od98wktVEd]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fd2VqWjUYAEM-R_.png — no alt text provided by author
+
+
+---
+
 ## 2022-09-27 · Post · me trying to figure out all the retroactive bug bounties and who would return how much to who in thi
 
 
@@ -6039,10 +6660,26 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/samczsun/status/1574885475575218179
 - Metrics (at fetch): bookmark 2, impression 0, like 86, quote 0, reply 3, retweet 4
 
-> me trying to figure out all the retroactive bug bounties and who would return how much to who in this 0xbadc0de bot hack https://t.co/DWCTe8kZpD
+> me trying to figure out all the retroactive bug bounties and who would return how much to who in this 0xbadc0de bot hack [pic.x.com/DWCTe8kZpD]
 
 **Media:**
-- animated_gif:  — no alt text provided by author
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/Fdsd_b0VIAAKetN.jpg — no alt text provided by author
+
+
+---
+
+## 2022-09-23 · Post · [pic.x.com/9fa4OKNA0R]
+
+
+### Post — @samczsun — 2022-09-23 21:53 UTC (2022-09-23 22:53 WAT)
+
+- URL: https://x.com/samczsun/status/1573430436466139143
+- Metrics (at fetch): bookmark 23, impression 0, like 239, quote 7, reply 16, retweet 16
+
+> [pic.x.com/9fa4OKNA0R]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FdXyoPeUAAEmyj-.png — no alt text provided by author
 
 
 ---
@@ -6063,19 +6700,313 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2022-08-17 · Thread · nice auction contract it would be a shame if there was a signature malleability bug in it https://t.
+## 2022-09-19 · Post · https://t.co/ZRNVImVVMX
+
+
+### Post — @samczsun — 2022-09-19 18:41 UTC (2022-09-19 19:41 WAT)
+
+- URL: https://x.com/samczsun/status/1571932547176886272
+- Metrics (at fetch): bookmark 3, impression 0, like 58, quote 1, reply 3, retweet 5
+
+> https://t.co/ZRNVImVVMX
+
+
+---
+
+## 2022-09-16 · Post · This year I wrote three challenges that exploited an 0day. If you didn't solve them during the CTF, 
+
+
+### Post — @samczsun — 2022-09-16 01:42 UTC (2022-09-16 02:42 WAT)
+
+- URL: https://x.com/samczsun/status/1570588906290290690
+- Metrics (at fetch): bookmark 19, impression 0, like 101, quote 0, reply 4, retweet 15
+
+> This year I wrote three challenges that exploited an 0day. If you didn't solve them during the CTF, now's your chance to check out the official solutions! https://t.co/60Rq7F5Oqa
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1334836889807958016 — 2022-09-16 01:37 UTC (2022-09-16 02:37 WAT)
+    
+    - URL: https://x.com/1334836889807958016/status/1570587599772995589
+    - Metrics (at fetch): bookmark 76, impression 0, like 234, quote 2, reply 9, retweet 63
+    
+    > Files for Paradigm CTF 2022 have been released! Thanks again to guest authors @0xGreg_, @Mauricio_0218, @Zellic_io, @osec_io, and @dumbcontract2!
+    >
+    > https://t.co/YxRFGfw6JX
+    
+
+
+---
+
+## 2022-09-14 · Post · https://t.co/ooEYzbC6QY
+
+
+### Post — @samczsun — 2022-09-14 07:00 UTC (2022-09-14 08:00 WAT)
+
+- URL: https://x.com/samczsun/status/1569944188447502337
+- Metrics (at fetch): bookmark 8, impression 0, like 282, quote 2, reply 16, retweet 16
+
+> https://t.co/ooEYzbC6QY
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FcmP2naakAIWgCb.png — no alt text provided by author
+
+
+---
+
+## 2022-09-12 · Post · gm from @rage_pit, @snoopy_mev, and myself https://t.co/TZ0Iltj48A https://t.co/b373vPZVXd
+
+
+### Post — @samczsun — 2022-09-12 18:13 UTC (2022-09-12 19:13 WAT)
+
+- URL: https://x.com/samczsun/status/1569388824865943553
+- Metrics (at fetch): bookmark 5, impression 0, like 91, quote 4, reply 7, retweet 7
+
+> gm from @rage_pit, @snoopy_mev, and myself https://t.co/TZ0Iltj48A https://t.co/b373vPZVXd
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FceWdPJaMAEAudZ.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1266652889197371393 — 2022-09-12 06:21 UTC (2022-09-12 07:21 WAT)
+    
+    - URL: https://x.com/1266652889197371393/status/1569209527345762304
+    - Metrics (at fetch): bookmark 4, impression 0, like 16, quote 1, reply 3, retweet 0
+    
+    > Quick sniped away by using @rileyholterhus alfa leak, switching out SELFBALANCE to PUSH1 0x60 to save 2 gas
+    >
+    > Is this... the end? https://t.co/wf0soHzADV https://t.co/3pz6J7r0u1
+    
+    **Media:**
+    - media `3_1569208989619208194` (details not returned by the API)
+    
+    **Quoted post** 1569195714806169602: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2022-09-12 · Post · optimization minigames are memetic cognitohazards
+
+
+### Post — @samczsun — 2022-09-12 03:54 UTC (2022-09-12 04:54 WAT)
+
+- URL: https://x.com/samczsun/status/1569172647401123842
+- Metrics (at fetch): bookmark 2, impression 0, like 104, quote 1, reply 6, retweet 6
+
+> optimization minigames are memetic cognitohazards
+
+
+---
+
+## 2022-09-11 · Post · gm https://t.co/9j8l35E8L3 https://t.co/xEDZXbiGxp
+
+
+### Post — @samczsun — 2022-09-11 04:24 UTC (2022-09-11 05:24 WAT)
+
+- URL: https://x.com/samczsun/status/1568817620014743553
+- Metrics (at fetch): bookmark 15, impression 0, like 264, quote 7, reply 26, retweet 8
+
+> gm https://t.co/9j8l35E8L3 https://t.co/xEDZXbiGxp
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FcWPS55aMAAda8q.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1044242451475632129 — 2022-09-11 01:52 UTC (2022-09-11 02:52 WAT)
+    
+    - URL: https://x.com/1044242451475632129/status/1568779472975036416
+    - Metrics (at fetch): bookmark 2, impression 0, like 57, quote 2, reply 2, retweet 1
+    
+    > I got it down to 29 bytes, 1812 total score 🙃 currently winning https://t.co/umNKdDsobp
+    
+    **Quoted post** 1568752689101819904: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2022-09-09 · Post · signature collisions really happen a lot more often than i thought https://t.co/5nGcKA7B7y
+
+
+### Post — @samczsun — 2022-09-09 02:09 UTC (2022-09-09 03:09 WAT)
+
+- URL: https://x.com/samczsun/status/1568058908882931712
+- Metrics (at fetch): bookmark 20, impression 0, like 231, quote 2, reply 12, retweet 23
+
+> signature collisions really happen a lot more often than i thought https://t.co/5nGcKA7B7y
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FcLdK4AacAEqqHT.png — no alt text provided by author
+
+
+---
+
+## 2022-09-08 · Post · catch us live on twitch right now! https://t.co/2sIKWBkTPY
+
+
+### Post — @samczsun — 2022-09-08 01:44 UTC (2022-09-08 02:44 WAT)
+
+- URL: https://x.com/samczsun/status/1567690279083462658
+- Metrics (at fetch): bookmark 1, impression 0, like 25, quote 0, reply 2, retweet 1
+
+> catch us live on twitch right now! https://t.co/2sIKWBkTPY
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1126385176467124224 — 2022-09-07 16:14 UTC (2022-09-07 17:14 WAT)
+    
+    - URL: https://x.com/1126385176467124224/status/1567546786306297859
+    - Metrics (at fetch): bookmark 7, impression 0, like 99, quote 2, reply 5, retweet 11
+    
+    > Let's defuse some bombs! Tonight, @samczsun and I will be streaming us playing Keep Talking and Nobody Explodes. Stay tuned!
+    >
+    > We'll be live at 9:30 PM Eastern (6:30 PM pacific). See you there!
+    >
+    > https://t.co/6P0o5ptelN https://t.co/3dGszcOH6z
+    
+    **Media:**
+    - media `3_1567546777926082561` (details not returned by the API)
+    
+
+
+---
+
+## 2022-09-08 · Post · i made the tags clickable and its so fun to click around and explore connections https://t.co/OJ3cBW
+
+
+### Post — @samczsun — 2022-09-08 00:57 UTC (2022-09-08 01:57 WAT)
+
+- URL: https://x.com/samczsun/status/1567678546121998339
+- Metrics (at fetch): bookmark 2, impression 0, like 55, quote 0, reply 1, retweet 4
+
+> i made the tags clickable and its so fun to click around and explore connections https://t.co/OJ3cBWPpvk
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FcGDKl8aIAAMaAE.png — no alt text provided by author
+
+
+---
+
+## 2022-09-06 · Post · tag discoverability https://t.co/7XD2vYJvq5
+
+
+### Post — @samczsun — 2022-09-06 18:31 UTC (2022-09-06 19:31 WAT)
+
+- URL: https://x.com/samczsun/status/1567218991109926912
+- Metrics (at fetch): bookmark 8, impression 0, like 88, quote 0, reply 3, retweet 10
+
+> tag discoverability https://t.co/7XD2vYJvq5
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fb_hTHhaAAEjuFG.jpg — no alt text provided by author
+
+
+---
+
+## 2022-09-06 · Post · I built a dead-simple website to tag and label addresses that anyone can contribute to! You can sear
+
+
+### Post — @samczsun — 2022-09-06 08:03 UTC (2022-09-06 09:03 WAT)
+
+- URL: https://x.com/samczsun/status/1567060948225261570
+- Metrics (at fetch): bookmark 227, impression 0, like 691, quote 30, reply 42, retweet 145
+
+> I built a dead-simple website to tag and label addresses that anyone can contribute to! You can search by address, by label (with wildcards), or by tag.
+>
+> https://t.co/M7hmOw0uBf
+
+
+---
+
+## 2022-09-06 · Post · idk about this guy https://t.co/Wl9fhTqz4R
+
+
+### Post — @samczsun — 2022-09-06 01:18 UTC (2022-09-06 02:18 WAT)
+
+- URL: https://x.com/samczsun/status/1566959086155239425
+- Metrics (at fetch): bookmark 2, impression 0, like 31, quote 0, reply 2, retweet 1
+
+> idk about this guy https://t.co/Wl9fhTqz4R
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fb70er2aUAAqx6n.png — no alt text provided by author
+
+
+---
+
+## 2022-09-05 · Post · seems legit to me https://t.co/qDfLZ4USkG
+
+
+### Post — @samczsun — 2022-09-05 19:40 UTC (2022-09-05 20:40 WAT)
+
+- URL: https://x.com/samczsun/status/1566873822094995456
+- Metrics (at fetch): bookmark 2, impression 0, like 69, quote 1, reply 5, retweet 0
+
+> seems legit to me https://t.co/qDfLZ4USkG
+
+**Media:**
+- photo: https://pbs.twimg.com/media/Fb6mm6aVsAA9VS2.png — no alt text provided by author
+
+
+---
+
+## 2022-09-02 · Post · please shill me your favorite tracks that go hard kinda like how this one does https://t.co/mAOsGljr
+
+
+### Post — @samczsun — 2022-09-02 22:16 UTC (2022-09-02 23:16 WAT)
+
+- URL: https://x.com/samczsun/status/1565826047051849728
+- Metrics (at fetch): bookmark 26, impression 0, like 88, quote 0, reply 38, retweet 1
+
+> please shill me your favorite tracks that go hard kinda like how this one does https://t.co/mAOsGljrb6
+
+
+---
+
+## 2022-08-31 · Post · drawing the paradigm logo from memory challenge (impossible edition)
+
+
+### Post — @samczsun — 2022-08-31 22:28 UTC (2022-08-31 23:28 WAT)
+
+- URL: https://x.com/samczsun/status/1565104215206383616
+- Metrics (at fetch): bookmark 1, impression 0, like 55, quote 0, reply 4, retweet 0
+
+> drawing the paradigm logo from memory challenge (impossible edition)
+
+
+---
+
+## 2022-08-30 · Post · now that i have twitter circles i can finally share my most valuable alpha (shitposts and catboys)
+
+
+### Post — @samczsun — 2022-08-30 22:05 UTC (2022-08-30 23:05 WAT)
+
+- URL: https://x.com/samczsun/status/1564736183342489601
+- Metrics (at fetch): bookmark 0, impression 0, like 202, quote 2, reply 21, retweet 5
+
+> now that i have twitter circles i can finally share my most valuable alpha (shitposts and catboys)
+
+
+---
+
+## 2022-08-17 · Thread · nice auction contract it would be a shame if there was a signature malleability bug in it [pic.x.com
 
 
 ### Post — @samczsun — 2022-08-17 19:17 UTC (2022-08-17 20:17 WAT)
 
 - URL: https://x.com/samczsun/status/1559982727482396672
-- Metrics (at fetch): bookmark 28, impression 0, like 166, quote 6, reply 10, retweet 21
+- Metrics (at fetch): bookmark 28, impression 0, like 167, quote 6, reply 10, retweet 21
 
-> nice auction contract it would be a shame if there was a signature malleability bug in it https://t.co/F38SXx67kx https://t.co/1DMjZARio6
+> nice auction contract it would be a shame if there was a signature malleability bug in it [pic.x.com/F38SXx67kx] https://twitter.com/Consensys/status/1559936395678031872
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FaYqoj2UYAEX_Lp.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/FaYr62ZVQAAB7oC.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/Consensys/status/1559936395678031872
 
 **Quoted post (full text):**
 
@@ -6087,7 +7018,9 @@ Tags (automatic): AI-assisted hunting
     > ⏰Our auction ends on Aug 20 at 4am UTC!
     >
     > Learn more about TURN in our FAQs👇
-    > https://t.co/2aNdfFYvZz https://t.co/IIQVVlYFw8
+    > https://turnplatform.bid/#what-is-turn https://twitter.com/Consensys/status/1557025944657096704
+    
+    **Links in post:** https://turnplatform.bid/#what-is-turn, https://twitter.com/Consensys/status/1557025944657096704
     
     **Quoted post** 1557025944657096704: not readable via the API (deleted, private, or withheld).
     
@@ -6103,13 +7036,58 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2022-08-09 · Post · 🚨🚨🚨
+
+
+### Post — @samczsun — 2022-08-09 20:25 UTC (2022-08-09 21:25 WAT)
+
+- URL: https://x.com/samczsun/status/1557100692518473728
+- Metrics (at fetch): bookmark 76, impression 0, like 3898, quote 375, reply 222, retweet 1703
+
+> 🚨🚨🚨
+>
+> @CurveFinance frontend is compromised, do not use it until further notice!
+
+
+---
+
+## 2022-08-09 · Post · Trying a little experiment: if you're a developer at a big protocol and you want to get that 'u up?'
+
+
+### Post — @samczsun — 2022-08-09 03:38 UTC (2022-08-09 04:38 WAT)
+
+- URL: https://x.com/samczsun/status/1556847274201714688
+- Metrics (at fetch): bookmark 57, impression 0, like 504, quote 9, reply 79, retweet 76
+
+> Trying a little experiment: if you're a developer at a big protocol and you want to get that 'u up?' without any delays, consider filling out this form so we can get connected quickly in case of an emergency
+>
+> https://t.co/sU7fQ51UO8
+
+
+---
+
+## 2022-08-07 · Post · i can only assume quantstamp used some of their ico money to buy a fleet of buses in case they ever 
+
+
+### Post — @samczsun — 2022-08-07 03:40 UTC (2022-08-07 04:40 WAT)
+
+- URL: https://x.com/samczsun/status/1556123063078592513
+- Metrics (at fetch): bookmark 9, impression 0, like 374, quote 5, reply 19, retweet 21
+
+> i can only assume quantstamp used some of their ico money to buy a fleet of buses in case they ever needed to throw a client under one https://t.co/mjyH1sC46J
+
+**Quoted post** 1555736886194290688: not readable via the API (deleted, private, or withheld).
+
+
+---
+
 ## 2022-08-03 · Post · Some updates on Nomad:
 
 
 ### Post — @samczsun — 2022-08-03 18:51 UTC (2022-08-03 19:51 WAT)
 
 - URL: https://x.com/samczsun/status/1554902825678815232
-- Metrics (at fetch): bookmark 24, impression 0, like 259, quote 9, reply 13, retweet 41
+- Metrics (at fetch): bookmark 24, impression 0, like 258, quote 9, reply 13, retweet 41
 
 > Some updates on Nomad:
 > 1. The upgrade did introduce the bug, but not through initializing the 0x00 root (that was there since deployment). Instead, it changed how messages were checked to be proven. This is my mistake
@@ -6123,12 +7101,12 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @samczsun — 2022-08-01 23:45 UTC (2022-08-02 00:45 WAT)
     
     - URL: https://x.com/samczsun/status/1554252024723546112
-    - Metrics (at fetch): bookmark 1573, impression 0, like 8224, quote 838, reply 307, retweet 2550
+    - Metrics (at fetch): bookmark 1570, impression 0, like 8220, quote 838, reply 307, retweet 2548
     
-    > 1/ Nomad just got drained for over $150M in one of the most chaotic hacks that Web3 has ever seen. How exactly did this happen, and what was the root cause? Allow me to take you behind the scenes 👇 https://t.co/Y7Q3fZ7ezm
+    > 1/ Nomad just got drained for over $150M in one of the most chaotic hacks that Web3 has ever seen. How exactly did this happen, and what was the root cause? Allow me to take you behind the scenes 👇 [pic.x.com/Y7Q3fZ7ezm]
     
     **Media:**
-    - media `3_1554251986463105024` (details not returned by the API)
+    - photo: https://pbs.twimg.com/media/FZHP8miUIAAQqlx.jpg — no alt text provided by author
     
 
 
@@ -6143,11 +7121,13 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @samczsun — 2022-08-03 07:01 UTC (2022-08-03 08:01 WAT)
 
 - URL: https://x.com/samczsun/status/1554724237151154176
-- Metrics (at fetch): bookmark 37, impression 0, like 1901, quote 73, reply 89, retweet 1512
+- Metrics (at fetch): bookmark 37, impression 0, like 1900, quote 73, reply 89, retweet 1512
 
 > If you were affected by the attack on certain Solana wallets today, please fill out the form below! If you weren't, please help share this tweet so those who were will see it. We need everyone's help in order to make sense of what happened.
 >
-> https://t.co/82EwnpRbXg
+> https://solanafoundation.typeform.com/to/Rxm8STIT
+
+**Links in post:** https://solanafoundation.typeform.com/to/Rxm8STIT
 
 
 ---
@@ -6161,12 +7141,12 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Post — @samczsun — 2022-08-01 23:45 UTC (2022-08-02 00:45 WAT)
 
 - URL: https://x.com/samczsun/status/1554252024723546112
-- Metrics (at fetch): bookmark 1573, impression 0, like 8224, quote 838, reply 307, retweet 2550
+- Metrics (at fetch): bookmark 1570, impression 0, like 8220, quote 838, reply 307, retweet 2548
 
-> 1/ Nomad just got drained for over $150M in one of the most chaotic hacks that Web3 has ever seen. How exactly did this happen, and what was the root cause? Allow me to take you behind the scenes 👇 https://t.co/Y7Q3fZ7ezm
+> 1/ Nomad just got drained for over $150M in one of the most chaotic hacks that Web3 has ever seen. How exactly did this happen, and what was the root cause? Allow me to take you behind the scenes 👇 [pic.x.com/Y7Q3fZ7ezm]
 
 **Media:**
-- media `3_1554251986463105024` (details not returned by the API)
+- photo: https://pbs.twimg.com/media/FZHP8miUIAAQqlx.jpg — no alt text provided by author
 
 
 ### Thread part 2 — @samczsun — 2022-08-01 23:50 UTC (2022-08-02 00:50 WAT)
