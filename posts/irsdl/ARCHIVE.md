@@ -1,11 +1,48 @@
 # @irsdl — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 619
-- Conversations/threads: 537
+- Posts in this file: 620
+- Conversations/threads: 538
 - Oldest post captured: 2010-05-25
-- Newest post captured: 2026-11-21
+- Newest post captured: 2026-11-23
+
+
+---
+
+## 2026-11-23 · Reply · @TheHackersNews Besides 3rd parties, there is a reason researchers don't send MS their .net framewor
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @209811713 — 2026-11-23 09:30 UTC (2026-11-23 10:30 WAT)
+
+- URL: https://x.com/209811713/status/2124797606379372722
+- Metrics (at fetch): bookmark 271, impression 62885, like 526, quote 11, reply 33, retweet 130
+
+> 🚨 Hackers are actively exploiting a critical flaw in a legacy ASP .NET anti-CSRF library to take over web servers.
+>
+> • CVE-2026-131914 (CVSS 9.3)
+> • No login required
+> • Just ONE HTTP POST request
+> • No official patch
+>
+> The vulnerable library hasn't been updated since 2008.
+>
+> Details ↓ https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html
+
+**Media:**
+- media `3_2124793464491737088` (details not returned by the API)
+
+**Links in post:** https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html
+
+
+### Post — @irsdl — 2026-11-23 11:19 UTC (2026-11-23 12:19 WAT)
+
+- URL: https://x.com/irsdl/status/2124825177221374226
+- Metrics (at fetch): bookmark 0, impression 1493, like 6, quote 0, reply 2, retweet 0
+
+> @TheHackersNews Besides 3rd parties, there is a reason researchers don't send MS their .net framework security holes anymore. It's been a while that they don't care much. They don't even pay a bounty so why should researchers spend their time convincing the triage who normally ignore the issues.
 
 
 ---
@@ -1749,7 +1786,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @PaulosYibelo — 2026-04-08 13:07 UTC (2026-04-08 14:07 WAT)
     
     - URL: https://x.com/PaulosYibelo/status/2041865536779239503
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 79, impression 13785, like 185, quote 2, reply 10, retweet 36
     
     > For people tweeting "cyber security is dead", are u ok? You think when everyone and everything is about to get hacked and the need for security goes through the roof, you think it's "dead" or "solved"? Bruh
     >

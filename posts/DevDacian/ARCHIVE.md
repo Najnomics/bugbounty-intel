@@ -1,11 +1,53 @@
 # @DevDacian — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 422
-- Conversations/threads: 371
+- Posts in this file: 424
+- Conversations/threads: 373
 - Oldest post captured: 2023-02-23
-- Newest post captured: 2026-11-20
+- Newest post captured: 2026-11-23
+
+
+---
+
+## 2026-11-23 · Post · Starting this week running 7 private audits in parallel engaging 19 top auditors!
+
+
+### Post — @DevDacian — 2026-11-23 11:54 UTC (2026-11-23 12:54 WAT)
+
+- URL: https://x.com/DevDacian/status/2124833996861497460
+- Metrics (at fetch): bookmark 3, impression 1142, like 40, quote 0, reply 2, retweet 2
+
+> Starting this week running 7 private audits in parallel engaging 19 top auditors!
+>
+> Been an epic year with huge audit volume &amp; daily hacks but our clients remained safe 🙏 
+>
+> Huge credit to our elite auditors &amp; professional protocols @cyfrin is working with 🫡
+
+
+---
+
+## 2026-11-23 · Reply · @0xCharlesWang In my testing I get way less refusals with sol-6.1 compared to way more refusals with
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1376152818004951041 — 2026-11-23 10:32 UTC (2026-11-23 11:32 WAT)
+
+- URL: https://x.com/1376152818004951041/status/2124813448316117165
+- Metrics (at fetch): bookmark 2, impression 3356, like 25, quote 0, reply 7, retweet 0
+
+> Does OpenAI flag legacy models (sol 5.6 without daybreak etc) for cyber security way more since 6.2 is out?
+
+
+### Post — @DevDacian — 2026-11-23 10:46 UTC (2026-11-23 11:46 WAT)
+
+- URL: https://x.com/DevDacian/status/2124816890258452673
+- Metrics (at fetch): bookmark 4, impression 458, like 3, quote 0, reply 0, retweet 0
+
+> @0xCharlesWang In my testing I get way less refusals with sol-6.1 compared to way more refusals with sol-6.2.
+>
+> I used opus-5.5 to implement automatic failover such that if I get a safety refusal, automatically retry using sol-6 with daybreak enabled and this is working pretty well.
 
 
 ---

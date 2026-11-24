@@ -1,11 +1,38 @@
 # @galnagli — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 313
-- Conversations/threads: 216
+- Posts in this file: 314
+- Conversations/threads: 217
 - Oldest post captured: 2020-07-24
-- Newest post captured: 2026-11-19
+- Newest post captured: 2026-11-23
+
+
+---
+
+## 2026-11-23 · Post · Going live now 🎧 https://twitter.com/MTSlive/status/2124927216664338728
+
+
+### Post — @galnagli — 2026-11-23 20:04 UTC (2026-11-23 21:04 WAT)
+
+- URL: https://x.com/galnagli/status/2124957327891878304
+- Metrics (at fetch): bookmark 2, impression 1715, like 13, quote 0, reply 0, repost 1
+
+> Going live now 🎧 https://twitter.com/MTSlive/status/2124927216664338728
+
+**Links in post:** https://twitter.com/MTSlive/status/2124927216664338728
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2029271146445848578 — 2026-11-23 18:05 UTC (2026-11-23 19:05 WAT)
+    
+    - URL: https://x.com/2029271146445848578/status/2124927216664338728
+    - Metrics (at fetch): bookmark 11, impression 22890, like 67, quote 8, reply 4, retweet 7
+    
+    > THE RETURN OF THE KING https://x.com/i/broadcasts/2EmYRbrPYamAXv
+    
+    **Links in post:** https://x.com/i/broadcasts/2EmYRbrPYamAXv
+    
 
 
 ---

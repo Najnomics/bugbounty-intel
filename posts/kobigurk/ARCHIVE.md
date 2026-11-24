@@ -1,11 +1,54 @@
 # @kobigurk — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 139
-- Conversations/threads: 121
+- Posts in this file: 140
+- Conversations/threads: 122
 - Oldest post captured: 2014-01-16
 - Newest post captured: 2026-11-23
+
+
+---
+
+## 2026-11-23 · Reply · @gakonst @ElevenLabs pro voice cloning captured my accent well here https://twitter.com/zksecurityxy
+
+
+Tags (automatic): ZK
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @804029200315334656 — 2026-11-23 18:26 UTC (2026-11-23 19:26 WAT)
+
+- URL: https://x.com/804029200315334656/status/2124932644454756602
+- Metrics (at fetch): bookmark 3, impression 5087, like 21, quote 0, reply 8, retweet 0
+
+> any voice cloning service i have tried FWIW completely fails at doing my accent properly, is there any voice cloner that works well for ESLs? would pay a lot for it
+
+
+### Post — @kobigurk — 2026-11-23 21:28 UTC (2026-11-23 22:28 WAT)
+
+- URL: https://x.com/kobigurk/status/2124978440214311028
+- Metrics (at fetch): bookmark 0, impression 133, like 1, quote 0, reply 0, repost 0
+
+> @gakonst @ElevenLabs pro voice cloning captured my accent well here https://twitter.com/zksecurityxyz/status/2110927385868571017
+
+**Links in post:** https://twitter.com/zksecurityxyz/status/2110927385868571017
+
+**Quoted post (full text):**
+
+    #### Quoted post — @zksecurityXYZ — 2026-10-16 02:54 UTC (2026-10-16 03:54 WAT)
+    
+    - URL: https://x.com/zksecurityXYZ/status/2110927385868571017
+    - Metrics (at fetch): bookmark 12, impression 5324, like 66, quote 4, reply 3, retweet 8
+    
+    > We're proud to announce the release of zkao version 3, the most powerful zkao update we've released so far. If you have a codebase that implements cryptography, now is the time to let zkao find bugs in it. Go to https://www.zkao.io to request access today. [pic.x.com/n2TM3Wd8e3]
+    
+    **Media:**
+    - video: https://pbs.twimg.com/amplify_video_thumb/2110926132686024704/img/qebXAZ-xeXfkkDGw.jpg — no alt text provided by author
+    
+    **Links in post:** https://www.zkao.io
+    
 
 
 ---

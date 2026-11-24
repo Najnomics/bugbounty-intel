@@ -1,4 +1,4 @@
-# HackerOne disclosed reports by weakness (12776 reports)
+# HackerOne disclosed reports by weakness (12778 reports)
 
 
 ## Unspecified (1280)
@@ -4659,7 +4659,7 @@
 - [4119675](reports/2026/4119675.md) Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creating site-wide Language rows without language.add — weblate — medium —  — Improper Access Control - Generic
 - [3892948](reports/2026/3892948.md) Broken access control: any member can self-assign arbitrary BuddyPress member types via the ungated "types" REST parameter, bypassing the bp_moderate  — wordpress — medium —  — Improper Access Control - Generic
 
-## Improper Authentication - Generic (673)
+## Improper Authentication - Generic (674)
 
 - [1328546](reports/2022/1328546.md) Incorrect authorization to the intelbot service leading to ticket information — tiktok — critical — $15,000 — Improper Authentication - Generic
 - [976603](reports/2021/976603.md) Ability to DOS any organization's SSO and open up the door to account takeovers — superhuman — high — $10,500 — Improper Authentication - Generic
@@ -5334,6 +5334,7 @@
 - [3955956](reports/2026/3955956.md) launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker redirect → full CIA triad on Basecamp API  — basecamp — high —  — Improper Authentication - Generic
 - [4043537](reports/2026/4043537.md) CampTix [camptix_private]: the view token is derived from the requester's own IP, so naming any attendee's e-mail unlocks the gated content — wordpress — medium —  — Improper Authentication - Generic
 - [2256569](reports/2026/2256569.md) Access and see `reactions recieved` on the notification of any user — discourse — high —  — Improper Authentication - Generic
+- [4180338](reports/2026/4180338.md) Unauthenticated API Writes  to Full IBM Software Access — ibm — critical —  — Improper Authentication - Generic
 
 ## Cross-site Scripting (XSS) - Reflected (523)
 
@@ -8632,7 +8633,7 @@
 - [3772818](reports/2026/3772818.md) Code injection allows unprivileged local attacker to execute arbitrary code in Nextcloud's OAuth/web renderer process — nextcloud — low —  — Code Injection
 - [3859000](reports/2026/3859000.md) Formula injection in conversion tracking report export — revive_adserver — medium —  — Code Injection
 
-## Insecure Direct Object Reference (IDOR) (292)
+## Insecure Direct Object Reference (IDOR) (293)
 
 - [767770](reports/2022/767770.md) Private objects exposed through project import — gitlab — critical — $20,000 — Insecure Direct Object Reference (IDOR)
 - [743953](reports/2022/743953.md) Steal private objects of other projects via project import — gitlab — critical — $20,000 — Insecure Direct Object Reference (IDOR)
@@ -8926,6 +8927,7 @@
 - [3958112](reports/2026/3958112.md) Missing campaign ownership check in zone bulk linking — revive_adserver — medium —  — Insecure Direct Object Reference (IDOR)
 - [3883840](reports/2026/3883840.md) Cross-agency disclosure in website listing — revive_adserver — medium —  — Insecure Direct Object Reference (IDOR)
 - [3929216](reports/2026/3929216.md) Cross-agency delivery rule set creation — revive_adserver — medium —  — Insecure Direct Object Reference (IDOR)
+- [4191937](reports/2026/4191937.md) IDOR: private ████████ post comments can be read and written by any authenticated user — essity — high —  — Insecure Direct Object Reference (IDOR)
 
 ## Open Redirect (273)
 

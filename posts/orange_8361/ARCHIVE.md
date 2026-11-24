@@ -1,6 +1,6 @@
 # @orange_8361 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 125
 - Conversations/threads: 122
@@ -456,7 +456,15 @@ Tags (automatic): Memory corruption / native
 
 > This is absolutely the greatest recognition for a researcher. Thank you all! https://t.co/bTbUepgKtc
 
-**Quoted post** 1886792856204959824: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1177545689460592640 — 2025-02-04 15:04 UTC (2025-02-04 16:04 WAT)
+    
+    - URL: https://x.com/1177545689460592640/status/1886792856204959824
+    - Metrics (at fetch): bookmark 506, impression 226524, like 866, quote 40, reply 24, retweet 291
+    
+    > The results are in! We're proud to announce the Top ten web hacking techniques of 2024! https://t.co/XHPEeqPQLR
+    
 
 
 ---
@@ -474,7 +482,15 @@ Tags (automatic): Memory corruption / native
 > &gt; Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server! 
 > &gt; WorstFit: Unveiling Hidden Transformers in Windows ANSI! https://t.co/mLRO6FPArq
 
-**Quoted post** 1879550220876599493: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @albinowax — 2025-01-15 15:24 UTC (2025-01-15 16:24 WAT)
+    
+    - URL: https://x.com/albinowax/status/1879550220876599493
+    - Metrics (at fetch): bookmark 114, impression 142516, like 271, quote 23, reply 7, retweet 63
+    
+    > Voting is now live for the Top Ten (New) Web Hacking Techniques of 2024! Browse the nominations &amp; cast your votes here: https://t.co/jnsqd0KvHT
+    
 
 
 ---

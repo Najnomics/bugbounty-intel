@@ -1,11 +1,48 @@
 # @osec_io — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 384
-- Conversations/threads: 343
+- Posts in this file: 385
+- Conversations/threads: 344
 - Oldest post captured: 2022-02-09
-- Newest post captured: 2026-11-05
+- Newest post captured: 2026-11-23
+
+
+---
+
+## 2026-11-23 · Post · We're hosting a meetup in Seoul with @FourPillarsFP and @DecipherGlobal on Thursday, Nov 26 🇰🇷
+
+
+### Post — @osec_io — 2026-11-23 07:59 UTC (2026-11-23 08:59 WAT)
+
+- URL: https://x.com/osec_io/status/2124774707149086780
+- Metrics (at fetch): bookmark 1, impression 1421, like 16, quote 0, reply 0, retweet 1
+
+> We're hosting a meetup in Seoul with @FourPillarsFP and @DecipherGlobal on Thursday, Nov 26 🇰🇷
+>
+> Spots are limited, please sign up here: https://luma.com/wtqzqmwf https://twitter.com/1563096240950165504/status/2124744657670426663
+
+**Links in post:** https://luma.com/wtqzqmwf, https://twitter.com/1563096240950165504/status/2124744657670426663
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1563096240950165504 — 2026-11-23 05:59 UTC (2026-11-23 06:59 WAT)
+    
+    - URL: https://x.com/1563096240950165504/status/2124744657670426663
+    - Metrics (at fetch): bookmark 8, impression 5505, like 58, quote 2, reply 4, retweet 6
+    
+    > PSA for Korean Hackers!!! (South only)
+    >
+    > 10+ of our security researchers are in Korea and we're hosting a private meetup. We'll be sharing some interesting bugs that we've found, doing a Q&A, and finishing off with a happy hour. 
+    >
+    > If you're in Korea, interested in security, and want to learn from/meet with some cracked otters, sign up.
+    >
+    > Capacity is limited, keeping this high signal/talent.
+    
+    **Links in post:** https://twitter.com/FourPillarsFP/status/2124728169987285056
+    
+    **Quoted post** 2124728169987285056: not readable via the API (deleted, private, or withheld).
+    
 
 
 ---

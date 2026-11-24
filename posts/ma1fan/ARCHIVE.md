@@ -1,11 +1,46 @@
 # @ma1fan — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 166
-- Conversations/threads: 152
+- Posts in this file: 167
+- Conversations/threads: 153
 - Oldest post captured: 2018-07-19
-- Newest post captured: 2026-11-20
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Reply · @SagivMooly Great Work, Happy Birthday @Certora
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @973201595965038592 — 2026-11-23 17:47 UTC (2026-11-23 18:47 WAT)
+
+- URL: https://x.com/973201595965038592/status/2124922904567541805
+- Metrics (at fetch): bookmark 4, impression 1048, like 57, quote 0, reply 4, retweet 1
+
+> Eight years ago, I felt it was time to step down from the ivory tower of academia to make formal verification a standard practice in software development. 
+>
+> I felt that the programming language community had contributed brilliant techniques, but our impact on the world was limited. 
+>
+> The first application of formal verification was to prevent bugs in smart contracts, small but logically tricky programs carrying billions of dollars. 
+>
+> Over the past 8 years, we have made formal verification of executable code feasible for general-purpose languages. 
+>
+> In the next two weeks, I plan to share with you lessons learned and fresh updates.
+
+**Links in post:** https://twitter.com/i/status/2124918403446231180
+
+**Quoted post** 2124918403446231180: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @ma1fan — 2026-11-24 01:59 UTC (2026-11-24 02:59 WAT)
+
+- URL: https://x.com/ma1fan/status/2125046544223416558
+- Metrics (at fetch): bookmark 0, impression 109, like 2, quote 0, reply 0, retweet 1
+
+> @SagivMooly Great Work, Happy Birthday @Certora
 
 
 ---

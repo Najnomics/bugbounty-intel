@@ -1,11 +1,64 @@
 # @zseano — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 422
-- Conversations/threads: 373
+- Posts in this file: 424
+- Conversations/threads: 374
 - Oldest post captured: 2015-08-11
-- Newest post captured: 2026-11-18
+- Newest post captured: 2026-11-23
+
+
+---
+
+## 2026-11-23 · Reply · @ChatGPT don't do this.... please.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1714438092655149056 — 2026-11-23 21:42 UTC (2026-11-23 22:42 WAT)
+
+- URL: https://x.com/1714438092655149056/status/2124981905380569283
+- Metrics (at fetch): bookmark 831, impression 926103, like 9918, quote 736, reply 1243, retweet 489
+
+> Every model has its day in the sun. For GPT-5.6, it's time to set.
+>
+> On December 23, we're deprecating GPT-5.6 Sol in Chat, and GPT-5.6 Sol and Terra in Work and Codex.
+>
+> There's always more on the horizon.
+
+
+### Post — @zseano — 2026-11-23 23:25 UTC (2026-11-24 00:25 WAT)
+
+- URL: https://x.com/zseano/status/2125007893292528033
+- Metrics (at fetch): bookmark 1, impression 1097, like 17, quote 0, reply 0, retweet 0
+
+> @ChatGPT don't do this.... please.
+
+
+---
+
+## 2026-10-28 · Thread · The new bugbountyhunter site is *hopefully* going to be publicly released next month as I do some fi
+
+
+### Post — @zseano — 2026-10-28 22:55 UTC (2026-10-28 23:55 WAT)
+
+- URL: https://x.com/zseano/status/2115578242338058575
+- Metrics (at fetch): bookmark 116, impression 11209, like 514, quote 0, reply 18, retweet 27
+
+> The new bugbountyhunter site is *hopefully* going to be publicly released next month as I do some final touches, which means yes, zseano methodology v2 will be dropping before Christmas ;)
+>
+> So much work has gone into this and I hope to continue helping people on their bb journey!
+
+
+### Thread part 2 — @zseano — 2026-11-23 07:16 UTC (2026-11-23 08:16 WAT)
+
+- URL: https://x.com/zseano/status/2124763884758450614
+- Metrics (at fetch): bookmark 0, impression 73, like 3, quote 0, reply 0, retweet 0
+
+> @keyswift_hunter @Venkywicky2 I’m working as quickly as I can :) I’m behind by a week or so because my kids were off school+nursery the other week with a sickness bug. I’m almost done 🙏🙏
 
 
 ---
@@ -371,21 +424,6 @@ Tags (automatic): AI-assisted hunting
 > @Zaddyzaddy Limited data is available on the old site: https://t.co/q4jrzi9RM4 
 >
 > New site will have more data (and maybe I should add an API now I think about it.. hmm 🤔)
-
-
----
-
-## 2026-10-28 · Post · The new bugbountyhunter site is *hopefully* going to be publicly released next month as I do some fi
-
-
-### Post — @zseano — 2026-10-28 22:55 UTC (2026-10-28 23:55 WAT)
-
-- URL: https://x.com/zseano/status/2115578242338058575
-- Metrics (at fetch): bookmark 116, impression 11209, like 514, quote 0, reply 18, retweet 27
-
-> The new bugbountyhunter site is *hopefully* going to be publicly released next month as I do some final touches, which means yes, zseano methodology v2 will be dropping before Christmas ;)
->
-> So much work has gone into this and I hope to continue helping people on their bb journey!
 
 
 ---

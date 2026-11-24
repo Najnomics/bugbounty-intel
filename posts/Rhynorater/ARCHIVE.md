@@ -1,11 +1,79 @@
 # @Rhynorater — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 437
-- Conversations/threads: 337
+- Posts in this file: 439
+- Conversations/threads: 339
 - Oldest post captured: 2017-06-13
-- Newest post captured: 2026-11-22
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Post · Please don't do this. We need this for Cyber https://twitter.com/ChatGPT/status/2124981905380569283
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @Rhynorater — 2026-11-24 01:40 UTC (2026-11-24 02:40 WAT)
+
+- URL: https://x.com/Rhynorater/status/2125041911744414065
+- Metrics (at fetch): bookmark 5, impression 3281, like 69, quote 0, reply 6, retweet 1
+
+> Please don't do this. We need this for Cyber https://twitter.com/ChatGPT/status/2124981905380569283
+
+**Links in post:** https://twitter.com/ChatGPT/status/2124981905380569283
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1714438092655149056 — 2026-11-23 21:42 UTC (2026-11-23 22:42 WAT)
+    
+    - URL: https://x.com/1714438092655149056/status/2124981905380569283
+    - Metrics (at fetch): bookmark 831, impression 926103, like 9918, quote 736, reply 1243, retweet 489
+    
+    > Every model has its day in the sun. For GPT-5.6, it's time to set.
+    >
+    > On December 23, we're deprecating GPT-5.6 Sol in Chat, and GPT-5.6 Sol and Terra in Work and Codex.
+    >
+    > There's always more on the horizon.
+    
+
+
+---
+
+## 2026-11-24 · Reply · @caseyjohnellis @rez0__ @NahamSec @zenitysec_labs @nmatt0 @mbrg0 Amazing time! Great to see you Case
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @caseyjohnellis — 2026-11-23 18:58 UTC (2026-11-23 19:58 WAT)
+
+- URL: https://x.com/caseyjohnellis/status/2124940707639312690
+- Metrics (at fetch): bookmark 4, impression 1116, like 35, quote 0, reply 2, retweet 2
+
+> had a hoot hanging with bounty and vulnresearch miscreants at #prompt2pwn last week - here are the slides from my talk: https://cje.io/2026/11/23/the-great-uncookening-slides-from-my-nahamcon-2026-keynote/
+>
+> (the tl;dr: not cooked, but only if we decide)
+>
+> @rez0__ @Rhynorater @NahamSec @zenitysec_labs @nmatt0 @0xmoose @mbrg0 et al 🫶🫶🫶 [pic.x.com/Q5SG19zpJX]
+
+**Media:**
+- media `3_2124938985558716416` (details not returned by the API)
+- media `3_2124939013631160320` (details not returned by the API)
+- media `3_2124939033923227649` (details not returned by the API)
+- media `3_2124939074414997504` (details not returned by the API)
+- media `3_2124939107914989568` (details not returned by the API)
+
+**Links in post:** https://cje.io/2026/11/23/the-great-uncookening-slides-from-my-nahamcon-2026-keynote/
+
+
+### Post — @Rhynorater — 2026-11-24 01:39 UTC (2026-11-24 02:39 WAT)
+
+- URL: https://x.com/Rhynorater/status/2125041597267992677
+- Metrics (at fetch): bookmark 0, impression 131, like 2, quote 0, reply 1, retweet 0
+
+> @caseyjohnellis @rez0__ @NahamSec @zenitysec_labs @nmatt0 @mbrg0 Amazing time! Great to see you Casey!
 
 
 ---
@@ -787,7 +855,18 @@ Tags (automatic): AI-assisted hunting
 
 > Legit cannot believe this existed, but ofc @PaulosYibelo would find it. Very excited to hear more https://t.co/DP8Q5X27yw
 
-**Quoted post** 2106378929158135903: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @PaulosYibelo — 2026-10-03 13:40 UTC (2026-10-03 14:40 WAT)
+    
+    - URL: https://x.com/PaulosYibelo/status/2106378929158135903
+    - Metrics (at fetch): bookmark 674, impression 581664, like 2837, quote 86, reply 137, retweet 221
+    
+    > Full VM escape zeroday (guest&gt;host root in industry standard hypervisors)! More soon [pic.x.com/dt9AsDO0De]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HTtcd1VW0AA3Cmh.jpg — no alt text provided by author
+    
 
 
 ---
@@ -1272,7 +1351,24 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 > insane... https://t.co/oNJtzhW5HJ
 
-**Quoted post** 2085703409160650985: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @1439534375058624513 — 2026-08-07 12:23 UTC (2026-08-07 13:23 WAT)
+    
+    - URL: https://x.com/1439534375058624513/status/2085703409160650985
+    - Metrics (at fetch): bookmark 746, impression 1662678, like 975, quote 35, reply 30, retweet 201
+    
+    > Introducing XSS2Shell ⛓️: WordPress Core preauth XSS→RCE vulnerability affecting 43% of the internet, discovered autonomously by pwn (using open-source models), affecting all WordPress versions.
+    >
+    > https://pwn.ai/blog/xss2shell
+    >
+    > Please patch CVE-2026-64638 as soon as possible! [pic.x.com/0EKwgonspE]
+    
+    **Media:**
+    - media `13_2085703360275951616` (details not returned by the API)
+    
+    **Links in post:** https://pwn.ai/blog/xss2shell
+    
 
 
 ---
@@ -3086,7 +3182,17 @@ Tags (automatic): IDOR / BOLA
 
 > Probably not reportable, but very creative bug and there is certainly risk, especially in the gaming space with the "space" use case. https://t.co/LpuICxHmzc
 
-**Quoted post** 1759270257045200991: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @PaulosYibelo — 2024-02-18 17:34 UTC (2024-02-18 18:34 WAT)
+    
+    - URL: https://x.com/PaulosYibelo/status/1759270257045200991
+    - Metrics (at fetch): bookmark 80, impression 24819, like 152, quote 1, reply 4, retweet 51
+    
+    > New blog alert! 🚨 Delve into an intriguing browser based web attack vector I stumbled upon that is widespread and can be used to perform ATO. I call it Cross Window Forgery. 🫧🌊🌪️🌀
+    >
+    > https://t.co/0bXTyl2JVH
+    
 
 
 ---
@@ -3101,7 +3207,17 @@ Tags (automatic): IDOR / BOLA
 
 > Probably not reportable, but very creative bug and there is certainly risk, especially in the gaming space with the "space" character. https://t.co/LpuICxHmzc
 
-**Quoted post** 1759270257045200991: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @PaulosYibelo — 2024-02-18 17:34 UTC (2024-02-18 18:34 WAT)
+    
+    - URL: https://x.com/PaulosYibelo/status/1759270257045200991
+    - Metrics (at fetch): bookmark 80, impression 24819, like 152, quote 1, reply 4, retweet 51
+    
+    > New blog alert! 🚨 Delve into an intriguing browser based web attack vector I stumbled upon that is widespread and can be used to perform ATO. I call it Cross Window Forgery. 🫧🌊🌪️🌀
+    >
+    > https://t.co/0bXTyl2JVH
+    
 
 
 ---

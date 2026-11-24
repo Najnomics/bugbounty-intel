@@ -1,8 +1,8 @@
 # @SuyashS91823422 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 125
+- Posts in this file: 133
 - Conversations/threads: 107
 - Oldest post captured: 2021-10-06
 - Newest post captured: 2026-11-23
@@ -10,7 +10,7 @@ _Generated 2026-11-23 from the X API (full-archive search + timeline). Every pos
 
 ---
 
-## 2026-11-23 · Post · Can anyone explain what is this ? is this some new changes in bugcrowd? [pic.x.com/iNa2gfsCI2]
+## 2026-11-23 · Thread · Can anyone explain what is this ? is this some new changes in bugcrowd? [pic.x.com/iNa2gfsCI2]
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -19,12 +19,82 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @SuyashS91823422 — 2026-11-23 05:31 UTC (2026-11-23 06:31 WAT)
 
 - URL: https://x.com/SuyashS91823422/status/2124737552083042799
-- Metrics (at fetch): bookmark 0, impression 59, like 3, quote 0, reply 0, repost 0
+- Metrics (at fetch): bookmark 2, impression 4241, like 48, quote 0, reply 6, retweet 0
 
 > Can anyone explain what is this ? is this some new changes in bugcrowd? [pic.x.com/iNa2gfsCI2]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HXyVY6aWUAAPiEs.png — alt text: "Image (described by archiver; no alt text): Bugcrowd submission Activity panel: "suyash_TECHNORAT created the submission — 35 minutes ago (22 Nov 2026 23:55:05 GMT-5)"; then "Bugcrowd Staff sent a team note to Bugcrowd Staff — 34 minutes ago (22 Nov 2026 23:56:26 GMT-5)"."
+- photo: https://pbs.twimg.com/media/HXyVY6aWUAAPiEs.png — no alt text provided by author
+
+
+### Thread part 2 — @SuyashS91823422 — 2026-11-23 05:56 UTC (2026-11-23 06:56 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2124743864041038137
+- Metrics (at fetch): bookmark 0, impression 468, like 3, quote 0, reply 1, retweet 0
+
+> @arth_bajpai 🥲
+
+
+### Thread part 3 — @SuyashS91823422 — 2026-11-23 06:03 UTC (2026-11-23 07:03 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2124745733664600214
+- Metrics (at fetch): bookmark 0, impression 372, like 3, quote 0, reply 1, retweet 1
+
+> @MrKaLi176442 Are you sure?
+
+
+### Thread part 4 — @SuyashS91823422 — 2026-11-23 07:41 UTC (2026-11-23 08:41 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2124770182421950527
+- Metrics (at fetch): bookmark 0, impression 97, like 1, quote 0, reply 1, retweet 0
+
+> @MrKaLi176442 Sorry brother you were wrong [pic.x.com/GVWLhlfsHU]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXyzNc8WQAAkZd_.jpg — alt text: "Image (described by archiver; no alt text): Bugcrowd activity — "Flo_Bugcrowd sent a message (23 Nov 2026 02:31:41 GMT-5): Hi suyash_TECHNORAT, Thank you for your submission. We have successfully validated your submission and confirmed that it can be replicated. We have marked this submission as 'Triaged' so that the customer team can have a closer look at your submission. Note that the final severity, and status of this submission are subject to change … - Flo_Bugcrowd"; then "Flo_Bugcrowd changed the state to Triaged"."
+
+
+### Thread part 5 — @SuyashS91823422 — 2026-11-23 07:41 UTC (2026-11-23 08:41 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2124770364022485051
+- Metrics (at fetch): bookmark 0, impression 424, like 3, quote 0, reply 1, retweet 0
+
+> @cyberx00t nope Triaged [pic.x.com/4JaHB4CpOt]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HXyzYJvXcAAO-eH.jpg — alt text: "Image (described by archiver; no alt text): same Bugcrowd "Triaged" activity screenshot as the sibling post (Flo_Bugcrowd validated and marked the submission Triaged, 23 Nov 2026 02:31 GMT-5)."
+
+
+### Thread part 6 — @SuyashS91823422 — 2026-11-23 08:21 UTC (2026-11-23 09:21 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2124780440531972456
+- Metrics (at fetch): bookmark 0, impression 161, like 2, quote 0, reply 1, retweet 0
+
+> @cyberx00t P3
+
+
+### Thread part 7 — @SuyashS91823422 — 2026-11-23 08:22 UTC (2026-11-23 09:22 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2124780503039615391
+- Metrics (at fetch): bookmark 0, impression 71, like 0, quote 0, reply 0, retweet 0
+
+> @MrKaLi176442 Ok 👍
+
+
+### Thread part 8 — @SuyashS91823422 — 2026-11-23 08:35 UTC (2026-11-23 09:35 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2124783891269796102
+- Metrics (at fetch): bookmark 0, impression 26, like 1, quote 0, reply 0, retweet 0
+
+> @arcwhite @arth_bajpai Thanks for clarification 👍
+
+
+### Thread part 9 — @SuyashS91823422 — 2026-11-23 11:03 UTC (2026-11-23 12:03 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2124821140921352397
+- Metrics (at fetch): bookmark 0, impression 24, like 0, quote 0, reply 0, retweet 0
+
+> @arcwhite @arth_bajpai Also i am been active and submitted many valid bugs in last few months, but not receiving any new private invites, can you please help me in that
 
 
 ---

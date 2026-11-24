@@ -1,6 +1,6 @@
 # @Piki_eth — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 97
 - Conversations/threads: 71
@@ -29,7 +29,7 @@ _Generated 2026-11-23 from the X API (full-archive search + timeline). Every pos
 ### Post — @Piki_eth — 2026-11-23 05:26 UTC (2026-11-23 06:26 WAT)
 
 - URL: https://x.com/Piki_eth/status/2124736430077571203
-- Metrics (at fetch): bookmark 0, impression 3, like 0, quote 0, reply 0, repost 0
+- Metrics (at fetch): bookmark 0, impression 32, like 0, quote 0, reply 1, retweet 0
 
 > @mdp_sec self hosting?
 

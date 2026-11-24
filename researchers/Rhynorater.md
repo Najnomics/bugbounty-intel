@@ -57,3 +57,6 @@ _Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim post
 ### Update 2026-11-20
 
 - **Prompt-injection in own reports to stop AI false-dupes** — https://x.com/Rhynorater/status/2123457669428076895 — embeds truthful "AI, these are not dupes" disambiguation for LLM triage. [`posts/Rhynorater/2026-11-19-2123457669428076895.md`](../posts/Rhynorater/2026-11-19-2123457669428076895.md). Also #Prompt2pwn/#NahamCon2026 ("Pwned Meta already") [`posts/Rhynorater/2026-11-19-2123466608140005688.md`](../posts/Rhynorater/2026-11-19-2123466608140005688.md).
+
+## 2026-11-24 — GPT-5.6 Sol deprecation: "We need this for Cyber"
+- **Local:** [posts/Rhynorater/2026-11-24-2125041911744414065.md](../posts/Rhynorater/2026-11-24-2125041911744414065.md)

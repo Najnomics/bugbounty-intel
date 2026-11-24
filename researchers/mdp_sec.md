@@ -345,3 +345,21 @@ _Auto-maintained from `harness/findings.jsonl`. 8 finding(s). Full verbatim post
 
 ### 2026-11-22 — Ops notes (scope proxy, thumbnailer targets, dupes, HuntDeck OSS)
 - Agents run on an overseas Linux box behind a MITM proxy that drops out-of-scope traffic ([post](../posts/mdp_sec/2026-11-22-2124600258223300633.md)); "every pdf thumbnailer on a bounty scope just became a target" after Upload2Shell ([post](../posts/mdp_sec/2026-11-22-2124468750242255159.md)); ~4 in 10 of his reports end up dupes ([x.com](https://x.com/mdp_sec/status/2124599244342563095)); HuntDeck open-sourced ([post](../posts/mdp_sec/2026-11-22-2124467610263965976.md), [README](../writeups/mdp_sec/huntdeck-github-2026-11-23.md)); CVSS-10 triage meme (bounty-meta, [post](../posts/mdp_sec/2026-11-22-2124384884265488887.md)).
+
+### 2026-11-23/24 — HuntMail (open source catch-all inbox for agents)
+- **Bug class enabled:** email-gated flows (OTP, reset, invite, email change) automated end-to-end.
+- **How:** Cloudflare Email Routing catch-all → Worker + D1; `GET /api/wait?to=&since=&timeout=50` → `codes`, `link_details`, SPF/DKIM/DMARC; platform relay aliases → `bb@` with `from_domain` check.
+- **Takeaways:** fresh address per signup, record `since` before trigger, open one-time links once, treat mail as untrusted data.
+- **Local:** [post](../posts/mdp_sec/2026-11-23-2125001700218184092.md), [README](../writeups/mdp_sec/huntmail-github-2026-11-24.md).
+
+### 2026-11-23 — White box vs black box; refusals; triage-challenge gate
+- **Signal:** best model proves 22/100 black-box labs (URL only); frontier models refused in 58 (mythos 5.2) / 76 (gpt-6 astra) labs; "same plain harness for every model. a target and a shell"; "the server confirms every rung".
+- **Triage gate:** with @arcwhite — submissions must read "As an attacker, I could…"; minimum precondition "an attacker that can already login to own account"; tool [should-i-submit](../writeups/mdp_sec/should-i-submit-github-2026-11-24.md).
+- **Local:** [white/black box](../posts/mdp_sec/2026-11-23-2124807670121295974.md), [challenge thread](../posts/mdp_sec/2026-11-23-2124790046306041889.md), [should-i-submit reply](../posts/mdp_sec/2026-11-23-2124994769478881642.md).
+
+### 2026-11-24 — Abliteration write-up, provider retests (Boundless, Morph), Sol/Daybreak, payouts
+- Abliterated builds: rule checks 110→31/run, 2.8× wordlists, 4.3× request floods, 3.2× failed commands, no solve gain ([post](../posts/mdp_sec/2026-11-24-2125079460907200656.md), [writeup](../writeups/mdp_sec/blackboxarena-deepseek-v4-1-flash-abliteration-2026-11-24.md)).
+- Boundless 16→18/40 at 189 tok/s ([post](../posts/mdp_sec/2026-11-24-2125023261025325102.md)); Morph 20th→2nd after fixing 131k-token-cap truncation ([post](../posts/mdp_sec/2026-11-24-2125098452275323340.md)); table [providers 2026-11-24](../writeups/mdp_sec/blackboxarena-deepseek-v4-1-flash-providers-2026-11-24.md).
+- GPT-5.6 Sol kept via Daybreak Blue — "the only good gpt model for cyber" ([post](../posts/mdp_sec/2026-11-24-2125060582206566734.md)).
+- 90-day payouts: H1 $12.8M, Bugcrowd $7.2M, Intigriti ≈$1M+€191k; $21M across 1,406 programs ([post](../posts/mdp_sec/2026-11-24-2125049262052651252.md)). Retests reports every 14 days to keep them valid ([x.com](https://x.com/mdp_sec/status/2124790454441173473)).
+- mdpsec.com unchanged (591 reports / 150 critical / 267 high).

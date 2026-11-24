@@ -85,3 +85,7 @@ _Auto-maintained from `harness/findings.jsonl`. 6 finding(s). Full verbatim post
 
 - **XSS in `innerHTML` without `=` via `<selectedcontent>` (Masato Kinugawa guest post, PortSwigger, 18 Nov 2026)** — https://x.com/garethheyes/status/2123063796839125030 — [`posts/garethheyes/2026-11-18-2123063796839125030.md`](../posts/garethheyes/2026-11-18-2123063796839125030.md); full writeup [`writeups/garethheyes/portswigger-xss-innerhtml-without-equals.md`](../writeups/garethheyes/portswigger-xss-innerhtml-without-equals.md).
   - Bug class: DOM XSS / filter & sanitizer bypass. Root cause: Chrome (<153) and Safari execute `<script>` children cloned by `<selectedcontent>` from the selected `<option>`; solves the 'innerHTML, no equals' impossible lab. Found by studying the new element after the DOMPurify `selectedcontent` bypass (GHSA-87xg-pxx2-7hvx). Takeaway: add `<select><selectedcontent></selectedcontent><option><svg><script>` payloads; verify in WebKit as well as Chromium.
+
+## 2026-11-23 — "CSS: the bomb inside your inbox" (OWASP London, 2 Dec 2026)
+- Outlook CSS-sanitiser bypass; CSS+HTML-only email account compromise past CSS sanitisation, hardened CSP and a popular HTML filter; deanonymisation of a privacy-first encrypted mail provider; ATO on multiple major webmail providers; open-source CSS weaponisation toolkit promised.
+- **Local:** [post](../posts/garethheyes/2026-11-23-2124868803670712723.md), [talk page](../writeups/garethheyes/portswigger-talk-css-bomb-inside-your-inbox.md)

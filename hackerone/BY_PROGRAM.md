@@ -9900,6 +9900,62 @@
 - [3709703](reports/2026/3709703.md)  Tor onion service INTRODUCE2 invalid-MAC cells permanently grow service replay cache — torproject — low —  — Uncontrolled Resource Consumption
 - [3709605](reports/2026/3709605.md) Conflux-queued zero-length RELAY_END triggers heap out-of-bounds read — torproject — medium —  — Out-of-bounds Read
 
+## ibm (53)
+
+- [1317236](reports/2021/1317236.md) Unauthorized Kubernetes to RCE (root) and found TEAMTNT Crypto Miner on it — ibm — critical —  — 
+- [1355817](reports/2021/1355817.md) SQL Injection in IBM access control panel & Broken access in admin panel — ibm — critical —  — SQL Injection
+- [1379130](reports/2021/1379130.md) Remote Code Execution at https://169.38.86.185/ (edst.ibm.com) — ibm — critical —  — Command Injection - Generic
+- [703819](reports/2022/703819.md) SQL Injection and plaintext passwords via User Search — ibm — high —  — SQL Injection
+- [410334](reports/2022/410334.md) Reflected XSS and Blind out of band command injection at subdomain dstuid-ww.dst.ibm.com — ibm — high —  — OS Command Injection
+- [1492447](reports/2022/1492447.md) Public Jenkins instance with /script enabled — ibm — critical —  — Improper Access Control - Generic
+- [938684](reports/2022/938684.md) CVE-2020-3452 Cisco ASA / Firepower Read-Only Path Traversal Vulnerability - https://esccvc.de.ibm.com — ibm — high —  — Path Traversal
+- [1527284](reports/2022/1527284.md) SQL injection in URL path processing on www.ibm.com — ibm — critical —  — SQL Injection
+- [1567516](reports/2022/1567516.md) sql injection via https://setup.p2p.ihost.com/ — ibm — critical —  — SQL Injection
+- [1089583](reports/2022/1089583.md) Insecure Object Permissions for Guest User leads to access to internal documents! — ibm — critical —  — Improper Authentication - Generic
+- [1670586](reports/2022/1670586.md) Cleartext storage of sensitive information at https://staging.status.ai-apps-comms.ibm.com/env can lead to account takeover  of several IBM employees — ibm — critical —  — Cleartext Storage of Sensitive Information
+- [1954364](reports/2023/1954364.md) Subdomain Takeover Affecting at  vex.weather.com — ibm — critical —  — Improper Authentication - Generic
+- [1848551](reports/2023/1848551.md) Moodle XSS on s-immerscio.comprehend.ibm.com — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
+- [1994227](reports/2023/1994227.md) response manipulation leads to bypass in register at employee website than 0 click account takeover — ibm — critical —  — Improper Authentication - Generic
+- [2083270](reports/2023/2083270.md) IDOR in channel ID leads to customer email disclosure on https://video.ibm.com — ibm — high —  — Information Disclosure
+- [2061826](reports/2023/2061826.md) Nginx Alias Traversal -  babel.bluetab.net — ibm — high —  — Path Traversal
+- [2085185](reports/2023/2085185.md) IDOR in upload videos of a Channel on https://video.ibm.com — ibm — critical —  — Insecure Direct Object Reference (IDOR)
+- [2192984](reports/2023/2192984.md) Unauthenticated Remote Access to Testing Endpoint — ibm — critical —  — Improper Access Control - Generic
+- [1933304](reports/2024/1933304.md) IBM Maximo Asset Management could allow a remote attacker to bypass authentication due to improper access controls — ibm — medium —  — Improper Access Control - Generic
+- [2139047](reports/2024/2139047.md) Jenkins server access due to weak password — ibm — high —  — Improper Authentication - Generic
+- [2292236](reports/2024/2292236.md) Improper Authentication on Alertmanager instance — ibm — medium —  — Improper Authentication - Generic
+- [2338285](reports/2024/2338285.md) XSS Refelected on jazz.net — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
+- [2090964](reports/2024/2090964.md) RXSS in hidden parameter — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
+- [2456603](reports/2024/2456603.md) Insecure Direct Object Reference Protection bypass by changing HTTP method in IBM Your Learning endpoint.  — ibm — critical —  — Insecure Direct Object Reference (IDOR)
+- [2308491](reports/2024/2308491.md) XSS in Aspera documentation website — ibm — medium —  — Cross-site Scripting (XSS) - DOM
+- [2498255](reports/2024/2498255.md) S3 Bucket Takeover on apptio endpoint — ibm — medium —  — Improper Access Control - Generic
+- [2343548](reports/2024/2343548.md) XSS in IBM InfoCenter — ibm — medium —  — Cross-site Scripting (XSS) - DOM
+- [2398335](reports/2024/2398335.md) jazz.net - publicly accessible .svn repositories — ibm — - —  — LLM06: Sensitive Information Disclosure
+- [2697601](reports/2024/2697601.md) SSRF and secret key disclosure found on Turbonomic endpoint — ibm — high —  — Server-Side Request Forgery (SSRF)
+- [2697592](reports/2024/2697592.md) SSRF and secret key disclosure found on Turbonomic endpoint — ibm — high —  — Server-Side Request Forgery (SSRF)
+- [2501986](reports/2024/2501986.md) IBM OpenPages vulnerable to exposure of sensitive information — ibm — medium —  — Improper Authentication - Generic
+- [2696271](reports/2024/2696271.md) SSRF via host header let access localhost via https://go.dialexa.com — ibm — medium —  — 
+- [2844797](reports/2024/2844797.md) Exposed Logs and Bearer Tokens on Test Endpoint — ibm — - —  — Information Disclosure
+- [2899380](reports/2025/2899380.md) POST based Cross-Site Scripting on IBM research endpoint — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
+- [2919623](reports/2025/2919623.md) There is a POST based CSRF issue over IBM endpoint leading to modification of contact information.  — ibm — medium —  — Cross-Site Request Forgery (CSRF)
+- [2954547](reports/2025/2954547.md) Weak credentials found in Jenkins endpoint — ibm — critical —  — 
+- [3051155](reports/2025/3051155.md) Information disclosure on IBM training service endpoint — ibm — - —  — Insecure Direct Object Reference (IDOR)
+- [3088290](reports/2025/3088290.md) Middleware Authentication Bypass on IBM Portal — ibm — critical —  — Command Injection - Generic
+- [3060373](reports/2025/3060373.md) Path Traversal Vulnerability found on IBM Cloud — ibm — critical —  — Path Traversal
+- [2402842](reports/2025/2402842.md) Information disclosure identified on IBM endpoint.  — ibm — medium —  — Information Disclosure
+- [3458235](reports/2025/3458235.md) [RCE] Remote Code Execution via  React Server Components Vulnerability CVE-2025-55182 — ibm — critical —  — Code Injection
+- [3463045](reports/2025/3463045.md) Remote Code Execution identified on IBM endpoint. — ibm — critical —  — 
+- [2830573](reports/2026/2830573.md) SQL injection identified on IBM endpoint.  — ibm — critical —  — SQL Injection
+- [3432159](reports/2026/3432159.md) Path Traversal vulnerability identified on IBM endpoint.  — ibm — high —  — 
+- [3578842](reports/2026/3578842.md) SQL Injection vulnerability found on ibm.com endpoint — ibm — critical —  — SQL Injection
+- [3592387](reports/2026/3592387.md) Potential Subdomain Takeover on IBM.com domain. — ibm — high —  — Improper Access Control - Generic
+- [3340797](reports/2026/3340797.md) IBM Aspera HTTP Gateway stores sensitive information in clear text in easily obtainable files which can be read by an unauthenticated user. — ibm — high —  — Information Disclosure
+- [3664261](reports/2026/3664261.md) Reflected Cross-Site Scripting (XSS) found on IBM.com domain — ibm — - —  — Cross-site Scripting (XSS) - Reflected
+- [3909372](reports/2026/3909372.md) Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint — ibm — - —  — Improper Access Control - Generic
+- [3662095](reports/2026/3662095.md) SQL Injection found on ibm.com subdomain — ibm — critical —  — SQL Injection
+- [3730301](reports/2026/3730301.md) SQL Injection vulnerability found on IBM.com subdomain — ibm — - —  — SQL Injection
+- [4152726](reports/2026/4152726.md) Blind SQL Injection — IBM Training Course Search API — ibm — critical —  — SQL Injection
+- [4180338](reports/2026/4180338.md) Unauthenticated API Writes  to Full IBM Software Access — ibm — critical —  — Improper Authentication - Generic
+
 ## chaturbate (52)
 
 - [394329](reports/2018/394329.md) Account Takeover via billing — chaturbate — critical — $8,000 — Improper Authorization
@@ -9954,61 +10010,6 @@
 - [514293](reports/2019/514293.md) Unrestricted POST request size on /customer_support/information_form/ endpoint — chaturbate — low —  — Violation of Secure Design Principles
 - [472026](reports/2019/472026.md) The auto login link does not expire on changing email id — chaturbate — low —  — Improper Access Control - Generic
 - [745953](reports/2019/745953.md) Camo Image Proxy Bypass with CSS Escape Sequences — chaturbate — low —  — Improper Neutralization of Escape, Meta, or Control Sequences
-
-## ibm (52)
-
-- [1317236](reports/2021/1317236.md) Unauthorized Kubernetes to RCE (root) and found TEAMTNT Crypto Miner on it — ibm — critical —  — 
-- [1355817](reports/2021/1355817.md) SQL Injection in IBM access control panel & Broken access in admin panel — ibm — critical —  — SQL Injection
-- [1379130](reports/2021/1379130.md) Remote Code Execution at https://169.38.86.185/ (edst.ibm.com) — ibm — critical —  — Command Injection - Generic
-- [703819](reports/2022/703819.md) SQL Injection and plaintext passwords via User Search — ibm — high —  — SQL Injection
-- [410334](reports/2022/410334.md) Reflected XSS and Blind out of band command injection at subdomain dstuid-ww.dst.ibm.com — ibm — high —  — OS Command Injection
-- [1492447](reports/2022/1492447.md) Public Jenkins instance with /script enabled — ibm — critical —  — Improper Access Control - Generic
-- [938684](reports/2022/938684.md) CVE-2020-3452 Cisco ASA / Firepower Read-Only Path Traversal Vulnerability - https://esccvc.de.ibm.com — ibm — high —  — Path Traversal
-- [1527284](reports/2022/1527284.md) SQL injection in URL path processing on www.ibm.com — ibm — critical —  — SQL Injection
-- [1567516](reports/2022/1567516.md) sql injection via https://setup.p2p.ihost.com/ — ibm — critical —  — SQL Injection
-- [1089583](reports/2022/1089583.md) Insecure Object Permissions for Guest User leads to access to internal documents! — ibm — critical —  — Improper Authentication - Generic
-- [1670586](reports/2022/1670586.md) Cleartext storage of sensitive information at https://staging.status.ai-apps-comms.ibm.com/env can lead to account takeover  of several IBM employees — ibm — critical —  — Cleartext Storage of Sensitive Information
-- [1954364](reports/2023/1954364.md) Subdomain Takeover Affecting at  vex.weather.com — ibm — critical —  — Improper Authentication - Generic
-- [1848551](reports/2023/1848551.md) Moodle XSS on s-immerscio.comprehend.ibm.com — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
-- [1994227](reports/2023/1994227.md) response manipulation leads to bypass in register at employee website than 0 click account takeover — ibm — critical —  — Improper Authentication - Generic
-- [2083270](reports/2023/2083270.md) IDOR in channel ID leads to customer email disclosure on https://video.ibm.com — ibm — high —  — Information Disclosure
-- [2061826](reports/2023/2061826.md) Nginx Alias Traversal -  babel.bluetab.net — ibm — high —  — Path Traversal
-- [2085185](reports/2023/2085185.md) IDOR in upload videos of a Channel on https://video.ibm.com — ibm — critical —  — Insecure Direct Object Reference (IDOR)
-- [2192984](reports/2023/2192984.md) Unauthenticated Remote Access to Testing Endpoint — ibm — critical —  — Improper Access Control - Generic
-- [1933304](reports/2024/1933304.md) IBM Maximo Asset Management could allow a remote attacker to bypass authentication due to improper access controls — ibm — medium —  — Improper Access Control - Generic
-- [2139047](reports/2024/2139047.md) Jenkins server access due to weak password — ibm — high —  — Improper Authentication - Generic
-- [2292236](reports/2024/2292236.md) Improper Authentication on Alertmanager instance — ibm — medium —  — Improper Authentication - Generic
-- [2338285](reports/2024/2338285.md) XSS Refelected on jazz.net — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
-- [2090964](reports/2024/2090964.md) RXSS in hidden parameter — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
-- [2456603](reports/2024/2456603.md) Insecure Direct Object Reference Protection bypass by changing HTTP method in IBM Your Learning endpoint.  — ibm — critical —  — Insecure Direct Object Reference (IDOR)
-- [2308491](reports/2024/2308491.md) XSS in Aspera documentation website — ibm — medium —  — Cross-site Scripting (XSS) - DOM
-- [2498255](reports/2024/2498255.md) S3 Bucket Takeover on apptio endpoint — ibm — medium —  — Improper Access Control - Generic
-- [2343548](reports/2024/2343548.md) XSS in IBM InfoCenter — ibm — medium —  — Cross-site Scripting (XSS) - DOM
-- [2398335](reports/2024/2398335.md) jazz.net - publicly accessible .svn repositories — ibm — - —  — LLM06: Sensitive Information Disclosure
-- [2697601](reports/2024/2697601.md) SSRF and secret key disclosure found on Turbonomic endpoint — ibm — high —  — Server-Side Request Forgery (SSRF)
-- [2697592](reports/2024/2697592.md) SSRF and secret key disclosure found on Turbonomic endpoint — ibm — high —  — Server-Side Request Forgery (SSRF)
-- [2501986](reports/2024/2501986.md) IBM OpenPages vulnerable to exposure of sensitive information — ibm — medium —  — Improper Authentication - Generic
-- [2696271](reports/2024/2696271.md) SSRF via host header let access localhost via https://go.dialexa.com — ibm — medium —  — 
-- [2844797](reports/2024/2844797.md) Exposed Logs and Bearer Tokens on Test Endpoint — ibm — - —  — Information Disclosure
-- [2899380](reports/2025/2899380.md) POST based Cross-Site Scripting on IBM research endpoint — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
-- [2919623](reports/2025/2919623.md) There is a POST based CSRF issue over IBM endpoint leading to modification of contact information.  — ibm — medium —  — Cross-Site Request Forgery (CSRF)
-- [2954547](reports/2025/2954547.md) Weak credentials found in Jenkins endpoint — ibm — critical —  — 
-- [3051155](reports/2025/3051155.md) Information disclosure on IBM training service endpoint — ibm — - —  — Insecure Direct Object Reference (IDOR)
-- [3088290](reports/2025/3088290.md) Middleware Authentication Bypass on IBM Portal — ibm — critical —  — Command Injection - Generic
-- [3060373](reports/2025/3060373.md) Path Traversal Vulnerability found on IBM Cloud — ibm — critical —  — Path Traversal
-- [2402842](reports/2025/2402842.md) Information disclosure identified on IBM endpoint.  — ibm — medium —  — Information Disclosure
-- [3458235](reports/2025/3458235.md) [RCE] Remote Code Execution via  React Server Components Vulnerability CVE-2025-55182 — ibm — critical —  — Code Injection
-- [3463045](reports/2025/3463045.md) Remote Code Execution identified on IBM endpoint. — ibm — critical —  — 
-- [2830573](reports/2026/2830573.md) SQL injection identified on IBM endpoint.  — ibm — critical —  — SQL Injection
-- [3432159](reports/2026/3432159.md) Path Traversal vulnerability identified on IBM endpoint.  — ibm — high —  — 
-- [3578842](reports/2026/3578842.md) SQL Injection vulnerability found on ibm.com endpoint — ibm — critical —  — SQL Injection
-- [3592387](reports/2026/3592387.md) Potential Subdomain Takeover on IBM.com domain. — ibm — high —  — Improper Access Control - Generic
-- [3340797](reports/2026/3340797.md) IBM Aspera HTTP Gateway stores sensitive information in clear text in easily obtainable files which can be read by an unauthenticated user. — ibm — high —  — Information Disclosure
-- [3664261](reports/2026/3664261.md) Reflected Cross-Site Scripting (XSS) found on IBM.com domain — ibm — - —  — Cross-site Scripting (XSS) - Reflected
-- [3909372](reports/2026/3909372.md) Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint — ibm — - —  — Improper Access Control - Generic
-- [3662095](reports/2026/3662095.md) SQL Injection found on ibm.com subdomain — ibm — critical —  — SQL Injection
-- [3730301](reports/2026/3730301.md) SQL Injection vulnerability found on IBM.com subdomain — ibm — - —  — SQL Injection
-- [4152726](reports/2026/4152726.md) Blind SQL Injection — IBM Training Course Search API — ibm — critical —  — SQL Injection
 
 ## linkedin (51)
 
@@ -11583,6 +11584,29 @@
 - [1851818](reports/2024/1851818.md) Member role which doesn't have permission to send message can send by executing channel commands — mattermost — medium —  — Improper Access Control - Generic
 - [2541027](reports/2024/2541027.md) Posts sent via websockets aren't sanitized properly — mattermost — low — $150 — Improper Input Validation
 
+## essity (20)
+
+- [3589269](reports/2026/3589269.md) HTTP Request Smuggling — essity — critical —  — HTTP Request Smuggling
+- [3726887](reports/2026/3726887.md) Privilege-relevant fields are clientModify in SAP CDC schema allowing role escalation to Admin — essity — critical —  — Improper Privilege Management
+- [3737516](reports/2026/3737516.md) Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Records) on ████████ — essity — medium —  — Authentication Bypass by Primary Weakness
+- [3584078](reports/2026/3584078.md) ████████ ████████ Server Full Exposure with Database Credentials — essity — critical —  — Information Exposure Through Directory Listing
+- [3793533](reports/2026/3793533.md)  Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ — essity — high —  — Cross-site Scripting (XSS) - Reflected
+- [3765476](reports/2026/3765476.md) Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ████████ — essity — high —  — Missing Authentication for Critical Function
+- [3830771](reports/2026/3830771.md) Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` parameter — essity — high —  — Cross-site Scripting (XSS) - Reflected
+- [3809973](reports/2026/3809973.md) Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) — essity — critical —  — SQL Injection
+- [3839889](reports/2026/3839889.md) 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory — essity — medium —  — Incorrect Permission Assignment for Critical Resource
+- [3839914](reports/2026/3839914.md) Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins — essity — medium —  — Missing Authorization
+- [3873072](reports/2026/3873072.md) Unauthenticated SQL Injection via REST Batch Route Confusion ████████ — essity — critical —  — SQL Injection
+- [3781785](reports/2026/3781785.md) Reflected HTML Injection in ████████ Login Page via infotext/signintext Parameters — essity — high —  — Improper Input Validation
+- [3778282](reports/2026/3778282.md) Critical SQL Injection WDM API (████████) — essity — critical —  — SQL Injection
+- [3729501](reports/2026/3729501.md) Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCHA bypass + no rate limit) — essity — critical —  — Cross-site Scripting (XSS) - Stored
+- [4020767](reports/2026/4020767.md) Unauthenticated API allows reading, writing to and deleting any user's private chat history on ████████ — essity — critical —  — Misconfiguration
+- [3802451](reports/2026/3802451.md) HTML Injection in Contact Form Email Enables Phishing via Legitimate ████████ Infrastructure — essity — medium —  — Improper Output Neutralization for Logs
+- [4071064](reports/2026/4071064.md) Unauthenticated self-registration on ████████ grants full access to internal supplier procurement portal and vendor data — essity — medium —  — Missing Authentication for Critical Function
+- [3840113](reports/2026/3840113.md) Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████████ — essity — critical —  — Information Disclosure
+- [4191812](reports/2026/4191812.md) Unauthenticated arbitrary local file read via ABCpdf on www.████████ — essity — high —  — Path Traversal
+- [4191937](reports/2026/4191937.md) IDOR: private ████████ post comments can be read and written by any authenticated user — essity — high —  — Insecure Direct Object Reference (IDOR)
+
 ## drchrono (19)
 
 - [141463](reports/2016/141463.md) Stored XSS via AngularJS Injection — drchrono — - —  — Cross-site Scripting (XSS) - Generic
@@ -11670,28 +11694,6 @@
 - [972936](reports/2020/972936.md) A specially crafted value for the 'Cache-Digest' header causing crash in  chat.makerdao.com — makerdao_bbp — critical —  — Improper Restriction of Authentication Attempts
 - [1086850](reports/2021/1086850.md) xmlrpc.php FILE IS enabled it will used for Bruteforce attack and Denial of Service(DoS) — makerdao_bbp — critical — $500 — Uncontrolled Resource Consumption
 - [1002641](reports/2021/1002641.md) SQL Injection leads to retrieve the contents of an entire database.  — makerdao_bbp — critical —  — SQL Injection
-
-## essity (19)
-
-- [3589269](reports/2026/3589269.md) HTTP Request Smuggling — essity — critical —  — HTTP Request Smuggling
-- [3726887](reports/2026/3726887.md) Privilege-relevant fields are clientModify in SAP CDC schema allowing role escalation to Admin — essity — critical —  — Improper Privilege Management
-- [3737516](reports/2026/3737516.md) Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Records) on ████████ — essity — medium —  — Authentication Bypass by Primary Weakness
-- [3584078](reports/2026/3584078.md) ████████ ████████ Server Full Exposure with Database Credentials — essity — critical —  — Information Exposure Through Directory Listing
-- [3793533](reports/2026/3793533.md)  Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ — essity — high —  — Cross-site Scripting (XSS) - Reflected
-- [3765476](reports/2026/3765476.md) Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ████████ — essity — high —  — Missing Authentication for Critical Function
-- [3830771](reports/2026/3830771.md) Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` parameter — essity — high —  — Cross-site Scripting (XSS) - Reflected
-- [3809973](reports/2026/3809973.md) Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) — essity — critical —  — SQL Injection
-- [3839889](reports/2026/3839889.md) 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory — essity — medium —  — Incorrect Permission Assignment for Critical Resource
-- [3839914](reports/2026/3839914.md) Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins — essity — medium —  — Missing Authorization
-- [3873072](reports/2026/3873072.md) Unauthenticated SQL Injection via REST Batch Route Confusion ████████ — essity — critical —  — SQL Injection
-- [3781785](reports/2026/3781785.md) Reflected HTML Injection in ████████ Login Page via infotext/signintext Parameters — essity — high —  — Improper Input Validation
-- [3778282](reports/2026/3778282.md) Critical SQL Injection WDM API (████████) — essity — critical —  — SQL Injection
-- [3729501](reports/2026/3729501.md) Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCHA bypass + no rate limit) — essity — critical —  — Cross-site Scripting (XSS) - Stored
-- [4020767](reports/2026/4020767.md) Unauthenticated API allows reading, writing to and deleting any user's private chat history on ████████ — essity — critical —  — Misconfiguration
-- [3802451](reports/2026/3802451.md) HTML Injection in Contact Form Email Enables Phishing via Legitimate ████████ Infrastructure — essity — medium —  — Improper Output Neutralization for Logs
-- [4071064](reports/2026/4071064.md) Unauthenticated self-registration on ████████ grants full access to internal supplier procurement portal and vendor data — essity — medium —  — Missing Authentication for Critical Function
-- [3840113](reports/2026/3840113.md) Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████████ — essity — critical —  — Information Disclosure
-- [4191812](reports/2026/4191812.md) Unauthenticated arbitrary local file read via ABCpdf on www.████████ — essity — high —  — Path Traversal
 
 ## urbandictionary (18)
 

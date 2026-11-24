@@ -12,3 +12,7 @@ PwnEscape / pwn.ai. Prior: Vercel sandbox KVM escape (CVE-2026-99999). Consisten
 - **Takeaways / harness:** Inventory every upload→renderer path; flag Ghostscript < 10.08.0; probe EPS under trusted extensions; CUPS shared queues without auth.
 - **Local verbatim:** [posts/PaulosYibelo/2026-11-21-2124203995329933441.md](../posts/PaulosYibelo/2026-11-21-2124203995329933441.md) (tease: [2124181046484979915](../posts/PaulosYibelo/2026-11-21-2124181046484979915.md))
 - **Full writeup:** [upload2shell research](../writeups/PaulosYibelo/upload2shell-research-CVE-2026-125396.md) · [landing](../writeups/PaulosYibelo/upload2shell-landing-2026-11-21.md)
+
+## 2026-11-23 — Ghostscript needs an out-of-process sandbox
+- PostScript is Turing-complete; in-process `-dSAFER` sandboxes will keep failing like interpreters do; sandbox on top, not inside. Devs unaware their thumbnailers invoke Ghostscript get hacked.
+- **Local:** [posts/PaulosYibelo/2026-11-23-2124946957579755861.md](../posts/PaulosYibelo/2026-11-23-2124946957579755861.md)

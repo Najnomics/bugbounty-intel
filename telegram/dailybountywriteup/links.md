@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **12981**
+Total distinct URLs: **12992**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -12987,3 +12987,14 @@ Total distinct URLs: **12981**
 | [14996](https://t.me/dailybountywriteup/14996) | 2026-11-22 09:36:28 | A Simple Dirsearch Tool Led Me to an Information Disclosure Vulnerability! | https://medium.com/@adarshnair135/a-simple-dirsearch-tool-led-me-to-an-information-disclosure-vulnerability-35c7831a3d09 |
 | [14996](https://t.me/dailybountywriteup/14996) | 2026-11-22 09:36:28 | Java4Shell, Reproduced on a CPU That Doesn’t Exist | https://rajnamdev.medium.com/java4shell-reproduced-on-a-cpu-that-doesnt-exist-02f40a4e5ba7 |
 | [14996](https://t.me/dailybountywriteup/14996) | 2026-11-22 09:36:28 | P2 Server-Side Request Forgery (SSRF) Leading to Internal Network Resource Access | https://medium.com/@akashmotkar001/p2-server-side-request-forgery-ssrf-leading-to-internal-network-resource-access-a45a587518d6 |
+| [14997](https://t.me/dailybountywriteup/14997) | 2026-11-23 10:34:40 | The Wildcard Parameter That Exposed 60 Million USPS Accounts | https://medium.com/@l4zz3rj0d/the-wildcard-parameter-that-exposed-60-million-usps-accounts-50b372babfb6 |
+| [14997](https://t.me/dailybountywriteup/14997) | 2026-11-23 10:34:40 | Race Condition Attacks Explained | https://medium.com/@vigneshkumaroffsec/race-condition-attacks-explained-how-to-find-and-fix-them-368663c58b95 |
+| [14997](https://t.me/dailybountywriteup/14997) | 2026-11-23 10:34:40 | Day 04 | https://iamrudhh.medium.com/day-04-bug-bounty-introduction-to-reconnaissance-43d041655c37 |
+| [14997](https://t.me/dailybountywriteup/14997) | 2026-11-23 10:34:40 | I need to flag a problem before writing this article. | https://arxivgpt.medium.com/i-need-to-flag-a-problem-before-writing-this-article-b0e41a325934 |
+| [14997](https://t.me/dailybountywriteup/14997) | 2026-11-23 10:34:40 | Coinbase Bug Bounty | https://masimshahzad.medium.com/coinbase-bug-bounty-selling-crypto-you-never-owned-9ba96a3f97e0 |
+| [14997](https://t.me/dailybountywriteup/14997) | 2026-11-23 10:34:40 | 🐛 Bug Bounty Writeup | http://booking.com/ |
+| [14997](https://t.me/dailybountywriteup/14997) | 2026-11-23 10:34:40 | Booking.com OAuth Account Takeover in Three Small Gaps | https://masimshahzad.medium.com/booking-com-oauth-account-takeover-in-three-small-gaps-373036855acc |
+| [14997](https://t.me/dailybountywriteup/14997) | 2026-11-23 10:34:40 | Zendesk Email Spoofing | https://masimshahzad.medium.com/zendesk-email-spoofing-from-support-ticket-to-slack-f02126c74139 |
+| [14997](https://t.me/dailybountywriteup/14997) | 2026-11-23 10:34:40 | GhostTiles | https://medium.com/@ts247091/ghosttiles-how-a-stale-frame-id-turned-freerdps-progressive-codec-into-a-resource-amplifier-427e8091f9f3 |
+| [14997](https://t.me/dailybountywriteup/14997) | 2026-11-23 10:34:40 | Beginning in Bug Bounty | https://medium.com/@adityapagare051/beginning-in-bug-bounty-what-my-first-48-hours-taught-me-6a82f3c125bb |
+| [14997](https://t.me/dailybountywriteup/14997) | 2026-11-23 10:34:40 | P2 Server-Side Request Forgery (SSRF) Leading to Internal Network Resource Access | https://medium.com/@akashmotkar001/p2-server-side-request-forgery-ssrf-leading-to-internal-network-resource-access-7ab58789c6db |

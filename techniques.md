@@ -2,9 +2,31 @@
 
 High-level methodology, recon tips, and bug patterns pulled from the public sources in this repo. Each item is linked to its source. This is a workflow aid, not an exploit guide: reproduction steps and payloads stay in the original writeups.
 
-Last updated: 23 November 2026 (Africa/Lagos).
+Last updated: 24 November 2026 (Africa/Lagos).
 
 ---
+
+## 2026-11-24 additions (daily X sweep, HackerOne, Telegram)
+
+**Signature nonce reuse leaks API keys from public signatures (Lighter, $10.39M).** A trader's custom (non-SDK) signing code reused the per-signature nonce; two public signatures with the same nonce let the attacker compute the private key — no system access needed; funds routed through a public pool and withdrawn. Check: index `(pubkey, r)` collisions; grep signers for non-RFC6979 nonces. Sources: [Rekt via @defendor_eng 2380](writeups/telegram-defendor_eng/lighter-rekt-9adef46d.md), [GoPlus $17M+ key compromises](writeups/telegram-defendor_eng/goplussecurity-17m-key-compromises-five-days.md).
+
+**Self-hosted logging stack → session tokens → server-side transfers (Fluidkey, $1.6M).** Two SigNoz bugs (unauthenticated trace-funnel analytics endpoints GHSA-v549-7j2x-qjm5; ClickHouse SQLi GHSA-w5pf-xwjh-vr5v) exposed logs containing session tokens; tokens alone could create+approve transfers and raise 2FA limits, and the app auto-signed prepared transfers when users unlocked it. Check: fingerprint observability UIs on scope; test whether "intent" APIs accept a session token where a device signature should be required. Sources: [incident report](writeups/telegram-defendor_eng/security-incident-2026-11-19-689c6633.md), [GHSA-v549](writeups/telegram-defendor_eng/signoz-ghsa-v549-7j2x-qjm5.md), [GHSA-w5pf](writeups/telegram-defendor_eng/signoz-ghsa-w5pf-xwjh-vr5v.md).
+
+**Private parent, public children (H1 #4191937, high).** `/storypost` 404s for another user's "only me" post, but `/getcomments?postId=` and `/addcomment?parentPostId=` with any bearer token read and write its private comments. Harness: replay every child route of a private object with an unrelated account. Source: [hackerone/reports/2026/4191937.md](hackerone/reports/2026/4191937.md).
+
+**Agents need an inbox (HuntMail).** mdp_sec open-sourced a Cloudflare-only catch-all inbox with a `wait` API returning codes/links so agents can finish signup/OTP/reset/invite flows; relay aliases verified by `from_domain` (DKIM). Unlocks automated OTP-reuse, reset-host-poisoning and email-change checks. Sources: [post](posts/mdp_sec/2026-11-23-2125001700218184092.md), [README](writeups/mdp_sec/huntmail-github-2026-11-24.md).
+
+**AI harness gates.** (a) challenge every candidate as "As an attacker, I could…" (reject admin/root/self-sandbox preconditions) — [@arcwhite/@mdp_sec](posts/mdp_sec/2026-11-23-2124790046306041889.md), [should-i-submit](writeups/mdp_sec/should-i-submit-github-2026-11-24.md); (b) auto-failover on safety refusals to a Daybreak-enabled model — [@DevDacian](posts/DevDacian/2026-11-23-2124816890258452673.md); (c) benchmark blind (best model 22/100 URL-only labs; refusals 58–76 labs), server-confirmed exploit rungs, same plain harness — [@mdp_sec](posts/mdp_sec/2026-11-23-2124807670121295974.md); (d) abliterated models check rules 3.5× less and flood/brute-force more with no solve gain — [@mdp_sec](posts/mdp_sec/2026-11-24-2125079460907200656.md); (e) provider serving bugs (token-cap truncation) moved one provider 20th→2nd — [@mdp_sec](posts/mdp_sec/2026-11-24-2125098452275323340.md); (f) generic AI sweeps → dupes; human-seeded ideas win — [@brutecat](posts/brutecat/2026-11-23-2124832963976454206.md).
+
+**Patch-diff 1-days and web2 source review.** Immunefi: AI makes hidden source irrelevant; GTIG reports LLM-driven diffing of updates to weaponise fixes; web2 source-review talent is scarce. Harness: diff releases of fingerprinted components and probe unpatched scope. Source: [@immunefi](posts/immunefi/2026-11-23-2124843406321172973.md).
+
+**CSS-only webmail ATO (upcoming, Gareth Heyes).** Outlook CSS-sanitiser bypass; CSS+HTML-only account compromise past hardened CSP; toolkit due 2 Dec. Sources: [post](posts/garethheyes/2026-11-23-2124868803670712723.md), [talk page](writeups/garethheyes/portswigger-talk-css-bomb-inside-your-inbox.md).
+
+**In-process interpreter sandboxes (Ghostscript) and proof-checker bugs.** PaulosYibelo: PostScript is Turing-complete; safety must be an out-of-process sandbox on top of the interpreter ([post](posts/PaulosYibelo/2026-11-23-2124946957579755861.md)). lonelysloth_sec: a "proof of False" passed two independent Lean implementations via different bugs ([post](posts/lonelysloth_sec/2026-11-23-2124889596848992260.md)).
+
+**Live competition: Base Everest (Immunefi, $250k, until 1 Dec 2026).** ~135k lines Rust+Solidity (base-consensus, base-reth-node, base/contracts, nitro-validator, ZK circuits, B20 precompiles); runnable PoC on local Everest devnet required; dupes valid until fix public. Source: [@immunefi](posts/immunefi/2026-11-23-2124934011487412327.md).
+
+- Harness digest: [`harness/bug-classes/2026-11-24-agent-email-oracle-observability-leak-nonce-reuse.md`](harness/bug-classes/2026-11-24-agent-email-oracle-observability-leak-nonce-reuse.md).
 
 ## 2026-11-23 additions (daily X sweep, HackerOne, Telegram)
 

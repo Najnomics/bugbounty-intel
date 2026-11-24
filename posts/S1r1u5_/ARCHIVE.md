@@ -1,11 +1,133 @@
 # @S1r1u5_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 552
-- Conversations/threads: 420
+- Posts in this file: 555
+- Conversations/threads: 423
 - Oldest post captured: 2017-02-26
-- Newest post captured: 2026-11-22
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Reply · @ky1ebot amazing stuff
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1041935389508788224 — 2026-11-23 23:56 UTC (2026-11-24 00:56 WAT)
+
+- URL: https://x.com/1041935389508788224/status/2125015600158412883
+- Metrics (at fetch): bookmark 79, impression 9908, like 182, quote 3, reply 13, retweet 20
+
+> As a vulnerability researcher who has found bugs both before and after AI, I'm amazed by how capable today's LLMs have become at both offensive and defensive cyber tasks. (And I'm proud to be part of the team making it possible!)
+> We made a video explaining the vulnerability discovery pipeline we shared earlier this month and provided some insight into it.
+> Read more: https://openai.com/index/a-thousand-fewer-paths-to-root/
+
+**Links in post:** https://twitter.com/OpenAI/status/2125007927098699827, https://openai.com/index/a-thousand-fewer-paths-to-root/
+
+**Quoted post (full text):**
+
+    #### Quoted post — @OpenAI — 2026-11-23 23:25 UTC (2026-11-24 00:25 WAT)
+    
+    - URL: https://x.com/OpenAI/status/2125007927098699827
+    - Metrics (at fetch): bookmark 424, impression 401918, like 2124, quote 86, reply 245, retweet 154
+    
+    > In one run, GPT-6 Cyber helped us validate 948 Linux kernel bugs that could grant local root access and generate patches for review.
+    >
+    > Our researchers @clintgibler and @ky1ebot share their findings and how they worked with maintainers to get fixes upstream.
+    >
+    > Read the research: https://t.co/oY8CMSrgQo
+    
+    **Media:**
+    - media `13_2125002652929196032` (details not returned by the API)
+    
+
+
+### Post — @S1r1u5_ — 2026-11-24 03:04 UTC (2026-11-24 04:04 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2125063023647940731
+- Metrics (at fetch): bookmark 0, impression 257, like 1, quote 0, reply 0, retweet 0
+
+> @ky1ebot amazing stuff
+
+
+---
+
+## 2026-11-24 · Post · wait what, dont do it! 5.6 sol is 4o for cyber https://twitter.com/chatgpt/status/212498190538056928
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2026-11-24 02:39 UTC (2026-11-24 03:39 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2125056641448268244
+- Metrics (at fetch): bookmark 3, impression 2341, like 51, quote 0, reply 3, retweet 0
+
+> wait what, dont do it! 5.6 sol is 4o for cyber https://twitter.com/chatgpt/status/2124981905380569283
+
+**Links in post:** https://twitter.com/chatgpt/status/2124981905380569283
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1714438092655149056 — 2026-11-23 21:42 UTC (2026-11-23 22:42 WAT)
+    
+    - URL: https://x.com/1714438092655149056/status/2124981905380569283
+    - Metrics (at fetch): bookmark 831, impression 926103, like 9918, quote 736, reply 1243, retweet 489
+    
+    > Every model has its day in the sun. For GPT-5.6, it's time to set.
+    >
+    > On December 23, we're deprecating GPT-5.6 Sol in Chat, and GPT-5.6 Sol and Terra in Work and Codex.
+    >
+    > There's always more on the horizon.
+    
+
+
+---
+
+## 2026-11-24 · Post · ctfer in tv!!!!! https://twitter.com/ky1ebot/status/2125015600158412883
+
+
+### Post — @S1r1u5_ — 2026-11-24 02:32 UTC (2026-11-24 03:32 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2125054832168026141
+- Metrics (at fetch): bookmark 5, impression 2354, like 35, quote 0, reply 0, retweet 1
+
+> ctfer in tv!!!!! https://twitter.com/ky1ebot/status/2125015600158412883
+
+**Links in post:** https://twitter.com/ky1ebot/status/2125015600158412883
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1041935389508788224 — 2026-11-23 23:56 UTC (2026-11-24 00:56 WAT)
+    
+    - URL: https://x.com/1041935389508788224/status/2125015600158412883
+    - Metrics (at fetch): bookmark 79, impression 9908, like 182, quote 3, reply 13, retweet 20
+    
+    > As a vulnerability researcher who has found bugs both before and after AI, I'm amazed by how capable today's LLMs have become at both offensive and defensive cyber tasks. (And I'm proud to be part of the team making it possible!)
+    > We made a video explaining the vulnerability discovery pipeline we shared earlier this month and provided some insight into it.
+    > Read more: https://openai.com/index/a-thousand-fewer-paths-to-root/
+    
+    **Links in post:** https://twitter.com/OpenAI/status/2125007927098699827, https://openai.com/index/a-thousand-fewer-paths-to-root/
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @OpenAI — 2026-11-23 23:25 UTC (2026-11-24 00:25 WAT)
+        
+        - URL: https://x.com/OpenAI/status/2125007927098699827
+        - Metrics (at fetch): bookmark 424, impression 401918, like 2124, quote 86, reply 245, retweet 154
+        
+        > In one run, GPT-6 Cyber helped us validate 948 Linux kernel bugs that could grant local root access and generate patches for review.
+        >
+        > Our researchers @clintgibler and @ky1ebot share their findings and how they worked with maintainers to get fixes upstream.
+        >
+        > Read the research: https://t.co/oY8CMSrgQo
+        
+        **Media:**
+        - media `13_2125002652929196032` (details not returned by the API)
+        
+    
 
 
 ---
@@ -2938,7 +3060,32 @@ Tags (automatic): AI-assisted hunting
 
 > this is quiet bad!! the blast raidus of the bug is huge. https://t.co/AWQV684TPM
 
-**Quoted post** 2106402024804020657: not readable via the API (deleted, private, or withheld).
+**Quoted post (full text):**
+
+    #### Quoted post — @15540222 — 2026-10-03 15:12 UTC (2026-10-03 16:12 WAT)
+    
+    - URL: https://x.com/15540222/status/2106402024804020657
+    - Metrics (at fetch): bookmark 530, impression 259228, like 2068, quote 46, reply 102, retweet 148
+    
+    > We’ve confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s gold standard solution for Linux virtualization. 
+    >
+    > 2026 is wild! Thankful to Paulos and other researchers helping us make the most secure sandbox for agents. Full writeup coming. https://twitter.com/PaulosYibelo/status/2106378929158135903
+    
+    **Links in post:** https://twitter.com/PaulosYibelo/status/2106378929158135903
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @PaulosYibelo — 2026-10-03 13:40 UTC (2026-10-03 14:40 WAT)
+        
+        - URL: https://x.com/PaulosYibelo/status/2106378929158135903
+        - Metrics (at fetch): bookmark 674, impression 581664, like 2837, quote 86, reply 137, retweet 221
+        
+        > Full VM escape zeroday (guest&gt;host root in industry standard hypervisors)! More soon [pic.x.com/dt9AsDO0De]
+        
+        **Media:**
+        - photo: https://pbs.twimg.com/media/HTtcd1VW0AA3Cmh.jpg — no alt text provided by author
+        
+    
 
 
 ---

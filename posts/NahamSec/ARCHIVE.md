@@ -1,11 +1,24 @@
 # @NahamSec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1211
-- Conversations/threads: 1025
+- Posts in this file: 1212
+- Conversations/threads: 1026
 - Oldest post captured: 2016-09-01
-- Newest post captured: 2026-11-22
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Post · I’ve done absolutely nothing but sleep for the last day and I’m currently tweeting this from my bed 
+
+
+### Post — @NahamSec — 2026-11-24 00:13 UTC (2026-11-24 01:13 WAT)
+
+- URL: https://x.com/NahamSec/status/2125019920903839934
+- Metrics (at fetch): bookmark 0, impression 3444, like 37, quote 0, reply 5, retweet 0
+
+> I’ve done absolutely nothing but sleep for the last day and I’m currently tweeting this from my bed 🙃
 
 
 ---

@@ -30,3 +30,7 @@ No program-named, root-cause-level bounty writeup was found in this pass.
 
 ## 2026-11-22/23 — Proof checkers as attack surface (Lean RH "proof")
 - A 17M-line machine proof could carry payloads for checker bugs across Lean versions; "There is no such thing as 'inert export of the proof'." **Takeaway (ZK/FV):** treat proofs/circuits as adversarial checker input; differential-check kernels. Local: [post](../posts/lonelysloth_sec/2026-11-22-2124592826969428054.md).
+
+## 2026-11-23 — Proof of False accepted by two Lean implementations
+- Different bugs in two independent checkers both accepted the same false proof; multiple verifiers ≠ safety against adversarial (agent-generated, obfuscated) proofs.
+- **Local:** [posts/lonelysloth_sec/2026-11-23-2124889596848992260.md](../posts/lonelysloth_sec/2026-11-23-2124889596848992260.md)

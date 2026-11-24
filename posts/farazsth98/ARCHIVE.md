@@ -1,11 +1,83 @@
 # @farazsth98 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 158
-- Conversations/threads: 126
+- Posts in this file: 161
+- Conversations/threads: 128
 - Oldest post captured: 2019-09-30
-- Newest post captured: 2026-11-18
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-23 · Thread · If being on this list implies there are no submissions for these targets, and Firecracker is on this
+
+
+### Post — @farazsth98 — 2026-11-23 18:12 UTC (2026-11-23 19:12 WAT)
+
+- URL: https://x.com/farazsth98/status/2124929216114500054
+- Metrics (at fetch): bookmark 5, impression 1690, like 7, quote 0, reply 1, retweet 0
+
+> If being on this list implies there are no submissions for these targets, and Firecracker is on this list but gVisor isn't... Could it be @brokenpacifist? 💀 https://twitter.com/wiz_io/status/2124902490021773342
+
+**Links in post:** https://twitter.com/wiz_io/status/2124902490021773342
+
+**Quoted post (full text):**
+
+    #### Quoted post — @wiz_io — 2026-11-23 16:26 UTC (2026-11-23 17:26 WAT)
+    
+    - URL: https://x.com/wiz_io/status/2124902490021773342
+    - Metrics (at fetch): bookmark 64, impression 9552, like 92, quote 3, reply 2, retweet 10
+    
+    > $650k up for grabs for the hackers who can crack these critical open-source projects on stage 💸💸💸 
+    > Can you uncover what others missed in: 
+    >
+    > Nginx &gt;&gt; $300k 
+    > Firecracker &gt;&gt; $200k 
+    > Apache2 &gt;&gt; $150k [pic.x.com/CW7webeWft]
+    
+    **Media:**
+    - media `3_2124902266159169536` (details not returned by the API)
+    - media `3_2124901839220920320` (details not returned by the API)
+    - media `3_2124901839220928513` (details not returned by the API)
+    
+
+
+### Thread part 2 — @farazsth98 — 2026-11-24 02:18 UTC (2026-11-24 03:18 WAT)
+
+- URL: https://x.com/farazsth98/status/2125051485868511247
+- Metrics (at fetch): bookmark 0, impression 72, like 0, quote 0, reply 0, retweet 0
+
+> @brokenpacifist oh yeah I meant it like "Could it be ...?", just tagged you at the wrong place, but yeah... hoping for one gVisor entry 😅
+
+
+---
+
+## 2026-11-23 · Reply · @v4bel bed2shell? 😆
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1195005701258506242 — 2026-11-23 17:18 UTC (2026-11-23 18:18 WAT)
+
+- URL: https://x.com/1195005701258506242/status/2124915557569073502
+- Metrics (at fetch): bookmark 98, impression 65144, like 1598, quote 5, reply 12, retweet 51
+
+> Who slapped a 9.8 on this?
+>
+> As the patch author: don't sweat it, go to bed. https://twitter.com/cvedotnow/status/2124473552883617997
+
+**Links in post:** https://twitter.com/cvedotnow/status/2124473552883617997
+
+**Quoted post** 2124473552883617997: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @farazsth98 — 2026-11-23 18:22 UTC (2026-11-23 19:22 WAT)
+
+- URL: https://x.com/farazsth98/status/2124931552308302057
+- Metrics (at fetch): bookmark 0, impression 5301, like 102, quote 0, reply 1, retweet 0
+
+> @v4bel bed2shell? 😆
 
 
 ---

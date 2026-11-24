@@ -1,11 +1,34 @@
 # @xssdoctor — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 178
-- Conversations/threads: 112
+- Posts in this file: 179
+- Conversations/threads: 113
 - Oldest post captured: 2023-07-10
 - Newest post captured: 2026-11-23
+
+
+---
+
+## 2026-11-23 · Reply · @busf4ctor It’s true
+
+
+**Context — post being replied to:**
+
+#### Parent post — @4309561582 — 2026-11-23 16:33 UTC (2026-11-23 17:33 WAT)
+
+- URL: https://x.com/4309561582/status/2124904161414402219
+- Metrics (at fetch): bookmark 1, impression 368, like 3, quote 0, reply 2, retweet 0
+
+> Don't hate me, @xssdoctor too guaranteed me all doctors are like that
+
+
+### Post — @xssdoctor — 2026-11-23 17:36 UTC (2026-11-23 18:36 WAT)
+
+- URL: https://x.com/xssdoctor/status/2124920065661210957
+- Metrics (at fetch): bookmark 0, impression 94, like 0, quote 0, reply 0, retweet 0
+
+> @busf4ctor It’s true
 
 
 ---

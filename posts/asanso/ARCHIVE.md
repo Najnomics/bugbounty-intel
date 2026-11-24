@@ -1,16 +1,41 @@
 # @asanso — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 191
-- Conversations/threads: 179
+- Posts in this file: 194
+- Conversations/threads: 180
 - Oldest post captured: 2011-01-30
-- Newest post captured: 2026-11-22
+- Newest post captured: 2026-11-23
 
 
 ---
 
-## 2026-11-22 · Post · Dumb wisdom of the day:
+## 2026-11-23 · Thread · Harlem Globetrotters syndrome.
+
+
+### Post — @asanso — 2026-11-23 11:58 UTC (2026-11-23 12:58 WAT)
+
+- URL: https://x.com/asanso/status/2124834856098025967
+- Metrics (at fetch): bookmark 1, impression 1373, like 21, quote 0, reply 3, retweet 0
+
+> Harlem Globetrotters syndrome.
+>
+> I’ve been in this industry for a while now (no spring chicken), but I can’t remember ever seeing this level of asymmetry between us mere mortals and the aliens working in the labs.
+>
+> Their advantage is almost embarrassing. They’re playing an entirely different sport.
+
+
+### Thread part 2 — @asanso — 2026-11-23 12:39 UTC (2026-11-23 13:39 WAT)
+
+- URL: https://x.com/asanso/status/2124845326913691854
+- Metrics (at fetch): bookmark 0, impression 106, like 0, quote 0, reply 0, retweet 0
+
+> @iamnotnicola trying to continue the sport parallelism, when something like this happens in any sport the federation change the rules of the  game to level up the competition :)
+
+
+---
+
+## 2026-11-22 · Thread · Dumb wisdom of the day:
 
 
 Tags (automatic): AI-assisted hunting
@@ -26,6 +51,14 @@ Tags (automatic): AI-assisted hunting
 > All AI discoveries are good. Some only once.
 >
 > The last one may be the one that drives humanity to extinction.
+
+
+### Thread part 2 — @asanso — 2026-11-23 06:44 UTC (2026-11-23 07:44 WAT)
+
+- URL: https://x.com/asanso/status/2124755851739091222
+- Metrics (at fetch): bookmark 0, impression 81, like 0, quote 0, reply 0, retweet 0
+
+> @dankrad Not at all :). It means that sometimes it takes time to understand the real repercussions of a discovery
 
 
 ---

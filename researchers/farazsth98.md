@@ -43,3 +43,7 @@ _Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim post
 ### Update 2026-11-19
 
 - **NGINX2Shell / NGINX2Root commentary** — https://x.com/farazsth98/status/2123073555340615910 (quotes @ikotas00) and replies [`posts/farazsth98/`](../posts/farazsth98/): the '2root' part uses an unrelated Linux kernel SCTP bug, the nginx bugs themselves are the interesting part. Full Xint writeup [`writeups/farazsth98/xint-nginx2root-remote-code-execution.md`](../writeups/farazsth98/xint-nginx2root-remote-code-execution.md) (5 nginx CVEs, affected-config table, exposure-check commands, container escape chain).
+
+## 2026-11-23 — Wiz live-hacking targets (Nginx $300k, Firecracker $200k, Apache2 $150k)
+- Notes gVisor missing from the "no submissions yet" list → likely already claimed; Firecracker still open.
+- **Local:** [posts/farazsth98/2026-11-23-2124929216114500054.md](../posts/farazsth98/2026-11-23-2124929216114500054.md)

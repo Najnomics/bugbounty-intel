@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **514**
+Total distinct URLs: **516**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -520,3 +520,5 @@ Total distinct URLs: **514**
 | [2340](https://t.me/defendor_eng/2340) | 2026-11-13 20:30:16 | 📋 Certora Guide: What to Check Before a Sui Audit | https://www.certora.com/blog/auditing-smart-contracts-sui |
 | [2346](https://t.me/defendor_eng/2346) | 2026-11-15 14:05:53 | 🚨 US Seizes $1.2B Frozen After North Korean Binance Hack | https://protos.com/us-seizes-1-2b-in-funds-frozen-after-north-korean-binance-hack |
 | [2357](https://t.me/defendor_eng/2357) | 2026-11-17 20:26:46 | 🚨 Kava Confirms 53.9M KAVA Taken From HARD Lend | https://medium.com/@Kava_Chain/hard-lend-security-incident-579888f8dd73 |
+| [2377](https://t.me/defendor_eng/2377) | 2026-11-23 09:36:19 | 🚨 Fluidkey Incident Report: $1.6M Stolen via SigNoz Logs | https://docs.fluidkey.com/security/incident-2026-11-19 |
+| [2380](https://t.me/defendor_eng/2380) | 2026-11-23 20:27:51 | 💀 Rekt: Lighter's $10.39M Loss Traced to Reused Signing Value | https://rekt.news/lighter-rekt |

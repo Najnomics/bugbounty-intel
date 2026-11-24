@@ -1,11 +1,39 @@
 # @garethheyes — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 569
-- Conversations/threads: 504
+- Posts in this file: 572
+- Conversations/threads: 506
 - Oldest post captured: 2008-10-22
-- Newest post captured: 2026-11-20
+- Newest post captured: 2026-11-23
+
+
+---
+
+## 2026-11-23 · Thread · Want to see how I dismantled Outlook's CSS sanitizer?
+
+
+### Post — @garethheyes — 2026-11-23 14:12 UTC (2026-11-23 15:12 WAT)
+
+- URL: https://x.com/garethheyes/status/2124868803670712723
+- Metrics (at fetch): bookmark 2, impression 1328, like 17, quote 0, reply 1, retweet 2
+
+> Want to see how I dismantled Outlook's CSS sanitizer?
+>
+> I’m speaking at the OWASP London chapter, with an updated version of my Black Hat talk featuring brand new material. Join me on the 2nd of December, it’s going to be fun! Link in reply 👇 [pic.x.com/gKubIIQLRG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX0EDUAWEAA3Khs.jpg — alt text: "Image (described by archiver; no alt text): PortSwigger research "Upcoming" talk card — "CSS: the bomb inside your inbox", Researcher: Gareth Heyes, Conferences: OWASP London, 02 Dec 2026. Abstract (verbatim from image): "You might think it's safe to open an email in 2026. After all, it's only HTML, right? Turns out, we forgot about CSS. In this talk, I'll introduce multiple novel techniques for compromising email accounts by ripping apart trust boundaries, using nothing but CSS and HTML. I'll show you how to weave vectors past defence layers, including CSS sanitization, hardened CSP, and the HTML filtering library everyone trusts. I'll start with a simple attack that deanonymizes users of a "privacy-first" encrypted email provider. Then I'll show just how much damage CSS can do, with end-to-end account takeovers on multiple major email providers, including an enterprise giant. I'll also share an alternative angle of attack, targeting third-party websites by turning a classic non-issue into a genuine threat. This attack works regardless of which webmail the victim is using. You'll leave with an open-source CSS weaponization toolkit, a honed methodology, and a permanent distrust of every email in your inbox." Tab beside it: "Pwned as intended: weaponizing documentation at scale"."
+
+
+### Thread part 2 — @garethheyes — 2026-11-23 14:12 UTC (2026-11-23 15:12 WAT)
+
+- URL: https://x.com/garethheyes/status/2124868806019305534
+- Metrics (at fetch): bookmark 0, impression 302, like 2, quote 0, reply 0, retweet 0
+
+> https://portswigger.net/research/talks?talkId=39
+
+**Links in post:** https://portswigger.net/research/talks?talkId=39
 
 
 ---
@@ -2827,6 +2855,21 @@ Tags (automatic): XSS
 - Metrics (at fetch): not returned
 
 > Wtf YouTube censored my video of the Joomla exploit even though the vulnerability has been patched.
+
+
+---
+
+## 2024-08-07 · Post · Everyone knows that the RFCs for email addresses are crazy. This post will show without doubt that y
+
+
+### Post — @garethheyes — 2024-08-07 21:34 UTC (2024-08-07 22:34 WAT)
+
+- URL: https://x.com/garethheyes/status/1821298845034115509
+- Metrics (at fetch): bookmark 259, impression 93000, like 428, quote 9, reply 10, retweet 149
+
+> Everyone knows that the RFCs for email addresses are crazy. This post will show without doubt that you should not be following the RFC.
+>
+> https://t.co/HL0g9f7QEA
 
 
 ---

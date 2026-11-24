@@ -1,9 +1,9 @@
 # @albinowax — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 346
-- Conversations/threads: 308
+- Posts in this file: 347
+- Conversations/threads: 309
 - Oldest post captured: 2011-03-08
 - Newest post captured: 2026-11-18
 
@@ -1686,6 +1686,19 @@ Tags (automatic): Memory corruption / native
 - Metrics (at fetch): bookmark 16, impression 8409, like 179, quote 1, reply 9, retweet 4
 
 > There's a certain 'harmless' quirk in a popular server that I've known about for over ten years but never found or seen a viable use for. Today, I used it to complete an exploit chain! I feel like I just solved the meaning of life😂
+
+
+---
+
+## 2025-01-15 · Post · Voting is now live for the Top Ten (New) Web Hacking Techniques of 2024! Browse the nominations &amp
+
+
+### Post — @albinowax — 2025-01-15 15:24 UTC (2025-01-15 16:24 WAT)
+
+- URL: https://x.com/albinowax/status/1879550220876599493
+- Metrics (at fetch): bookmark 114, impression 142516, like 271, quote 23, reply 7, retweet 63
+
+> Voting is now live for the Top Ten (New) Web Hacking Techniques of 2024! Browse the nominations &amp; cast your votes here: https://t.co/jnsqd0KvHT
 
 
 ---

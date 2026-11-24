@@ -1,10 +1,10 @@
 # @samczsun — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 414
-- Conversations/threads: 319
-- Oldest post captured: 2020-03-13
+- Posts in this file: 499
+- Conversations/threads: 404
+- Oldest post captured: 2016-01-19
 - Newest post captured: 2026-11-04
 
 
@@ -7271,13 +7271,45 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 ---
 
+## 2022-07-21 · Post · watching @transmissions11 optimize code [pic.x.com/dyoRfBPZOX]
+
+
+### Post — @samczsun — 2022-07-21 00:51 UTC (2022-07-21 01:51 WAT)
+
+- URL: https://x.com/samczsun/status/1549919934079172612
+- Metrics (at fetch): bookmark 5, impression 0, like 178, quote 1, reply 8, retweet 6
+
+> watching @transmissions11 optimize code [pic.x.com/dyoRfBPZOX]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FYJr90PXgAIVolC.jpg — no alt text provided by author
+
+
+---
+
+## 2022-07-14 · Post · https://t.co/VHZDMpyctr
+
+
+### Post — @samczsun — 2022-07-14 04:04 UTC (2022-07-14 05:04 WAT)
+
+- URL: https://x.com/samczsun/status/1547431863290957824
+- Metrics (at fetch): bookmark 6, impression 0, like 109, quote 4, reply 12, retweet 0
+
+> https://t.co/VHZDMpyctr
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/FXmVBWPUYAU6RzS.jpg — no alt text provided by author
+
+
+---
+
 ## 2022-07-11 · Post · To be clear, this is not a Uniswap V3 exploit. Rather, it seems to have been a very successful phish
 
 
 ### Post — @samczsun — 2022-07-11 22:54 UTC (2022-07-11 23:54 WAT)
 
 - URL: https://x.com/samczsun/status/1546629148637929472
-- Metrics (at fetch): bookmark 41, impression 0, like 1617, quote 55, reply 47, retweet 288
+- Metrics (at fetch): bookmark 41, impression 0, like 1618, quote 55, reply 47, retweet 288
 
 > To be clear, this is not a Uniswap V3 exploit. Rather, it seems to have been a very successful phishing campaign https://t.co/S7vWZmT1uW
 
@@ -7296,13 +7328,29 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 ---
 
+## 2022-07-08 · Post · rt this potato https://t.co/eOQlbMUgKI
+
+
+### Post — @samczsun — 2022-07-08 03:33 UTC (2022-07-08 04:33 WAT)
+
+- URL: https://x.com/samczsun/status/1545249730162110465
+- Metrics (at fetch): bookmark 2, impression 0, like 415, quote 32, reply 72, retweet 309
+
+> rt this potato https://t.co/eOQlbMUgKI
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FXHUcDDUcAEfYgp.jpg — alt text: "potato"
+
+
+---
+
 ## 2022-07-05 · Thread · 1/ Today, someone tried to hack me with a crypto stealer, so I guess I've finally made it
 
 
 ### Post — @samczsun — 2022-07-05 05:07 UTC (2022-07-05 06:07 WAT)
 
 - URL: https://x.com/samczsun/status/1544186151585533952
-- Metrics (at fetch): bookmark 1228, impression 0, like 4060, quote 219, reply 166, retweet 1412
+- Metrics (at fetch): bookmark 1227, impression 0, like 4060, quote 219, reply 166, retweet 1411
 
 > 1/ Today, someone tried to hack me with a crypto stealer, so I guess I've finally made it
 >
@@ -7487,6 +7535,530 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 ---
 
+## 2022-07-01 · Post · 9684c022748fed2b3b076cde6000d1dc8301e508f19382e2b510f84aed260380
+
+
+### Post — @samczsun — 2022-07-01 20:28 UTC (2022-07-01 21:28 WAT)
+
+- URL: https://x.com/samczsun/status/1542968371578167296
+- Metrics (at fetch): bookmark 88, impression 0, like 735, quote 147, reply 157, retweet 72
+
+> 9684c022748fed2b3b076cde6000d1dc8301e508f19382e2b510f84aed260380
+
+
+---
+
+## 2022-06-28 · Post · u up?
+
+
+### Post — @samczsun — 2022-06-28 02:37 UTC (2022-06-28 03:37 WAT)
+
+- URL: https://x.com/samczsun/status/1541611757235568642
+- Metrics (at fetch): bookmark 1, impression 0, like 146, quote 2, reply 17, retweet 9
+
+> u up?
+>
+> (art: @AnataNFT) https://t.co/7qHmFgsaw1
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FWTnuSdWAAEPxcV.jpg — no alt text provided by author
+
+
+---
+
+## 2022-06-10 · Post · when you're on your alt and you run into a friend on their alt https://t.co/8MJ5b7zPxj
+
+
+### Post — @samczsun — 2022-06-10 05:37 UTC (2022-06-10 06:37 WAT)
+
+- URL: https://x.com/samczsun/status/1535134120686129152
+- Metrics (at fetch): bookmark 0, impression 0, like 146, quote 1, reply 4, retweet 3
+
+> when you're on your alt and you run into a friend on their alt https://t.co/8MJ5b7zPxj
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FU3kRb-UcAAfx4T.png — no alt text provided by author
+
+
+---
+
+## 2022-06-09 · Post · the venn diagram of projects seeking legitimacy from a kyc badge and projects that are scams is a ci
+
+
+### Post — @samczsun — 2022-06-09 19:29 UTC (2022-06-09 20:29 WAT)
+
+- URL: https://x.com/samczsun/status/1534981098068840448
+- Metrics (at fetch): bookmark 0, impression 0, like 82, quote 0, reply 4, retweet 7
+
+> the venn diagram of projects seeking legitimacy from a kyc badge and projects that are scams is a circle
+
+
+---
+
+## 2022-06-07 · Post · anyone wanna breed (anatas)
+
+
+### Post — @samczsun — 2022-06-07 21:01 UTC (2022-06-07 22:01 WAT)
+
+- URL: https://x.com/samczsun/status/1534279369283313672
+- Metrics (at fetch): bookmark 3, impression 0, like 115, quote 1, reply 21, retweet 13
+
+> anyone wanna breed (anatas)
+
+
+---
+
+## 2022-06-06 · Post · clicking on a link and finding out its actually a mailto is like biting into a chocolate chip cookie
+
+
+### Post — @samczsun — 2022-06-06 23:37 UTC (2022-06-07 00:37 WAT)
+
+- URL: https://x.com/samczsun/status/1533956305139941377
+- Metrics (at fetch): bookmark 1, impression 0, like 165, quote 1, reply 12, retweet 8
+
+> clicking on a link and finding out its actually a mailto is like biting into a chocolate chip cookie and finding out its actually raisin oatmeal instead
+
+
+---
+
+## 2022-05-27 · Post · https://t.co/NTEfFM4JRf
+
+
+### Post — @samczsun — 2022-05-27 05:52 UTC (2022-05-27 06:52 WAT)
+
+- URL: https://x.com/samczsun/status/1530064401562095616
+- Metrics (at fetch): bookmark 1, impression 0, like 134, quote 0, reply 6, retweet 9
+
+> https://t.co/NTEfFM4JRf
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FTvhGonVsAA5ol-.png — no alt text provided by author
+
+
+---
+
+## 2022-05-25 · Post · 37.8326, -122.4776
+
+
+### Post — @samczsun — 2022-05-25 21:40 UTC (2022-05-25 22:40 WAT)
+
+- URL: https://x.com/samczsun/status/1529578252850933762
+- Metrics (at fetch): bookmark 2, impression 0, like 35, quote 2, reply 14, retweet 2
+
+> 37.8326, -122.4776
+> 37.7992, -122.3997
+> -38.0574, 142.4358
+> 40.6407, -74.1298
+> -34.7057, 143.0909
+> -37.8971, 144.7459
+> 53.4261, -6.1268
+> -34.5236, 141.7568
+> -37.8399, 147.8328
+> -37.8037, 142.0494
+
+
+---
+
+## 2022-05-25 · Post · blockchain if nft bros just stopped being so dunkable https://t.co/CblZeh6qpQ
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2022-05-25 16:31 UTC (2022-05-25 17:31 WAT)
+
+- URL: https://x.com/samczsun/status/1529500308023353345
+- Metrics (at fetch): bookmark 3, impression 0, like 152, quote 0, reply 5, retweet 14
+
+> blockchain if nft bros just stopped being so dunkable https://t.co/CblZeh6qpQ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FTngT4iXoAAZQZM.png — no alt text provided by author
+
+
+---
+
+## 2022-05-25 · Post · now supported by foundry - search with `cast 4byte` and import with `forge upload-selectors` https:/
+
+
+### Post — @samczsun — 2022-05-25 02:03 UTC (2022-05-25 03:03 WAT)
+
+- URL: https://x.com/samczsun/status/1529281934131466240
+- Metrics (at fetch): bookmark 13, impression 0, like 90, quote 0, reply 3, retweet 14
+
+> now supported by foundry - search with `cast 4byte` and import with `forge upload-selectors` https://t.co/ya9ztDe4Z2
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2022-05-23 09:14 UTC (2022-05-23 10:14 WAT)
+    
+    - URL: https://x.com/samczsun/status/1528665602763567104
+    - Metrics (at fetch): bookmark 22, impression 0, like 105, quote 2, reply 8, retweet 8
+    
+    > two updates:
+    > 1) now indexing signatures from every evm-compatible chain
+    > 2) non-canonical signatures are now filtered out. dm me to suggest new canonical signatures https://t.co/pPkmAdFxA6 https://t.co/pU5TxbmSJN
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/FTboagzVUAAu_vO.png — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/FTbo8fzUUAAw1HC.png — no alt text provided by author
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @samczsun — 2022-05-08 22:41 UTC (2022-05-08 23:41 WAT)
+        
+        - URL: https://x.com/samczsun/status/1523432840561520640
+        - Metrics (at fetch): bookmark 90, impression 0, like 361, quote 6, reply 26, retweet 55
+        
+        > wrote some code for the first time in months here's a new site for browsing ethereum signatures
+        >
+        > https://t.co/qzxEZSWBDJ
+        
+    
+
+
+---
+
+## 2022-05-23 · Post · mom come pick me up the orange site is talking about blockchain security again https://t.co/iL3AmJoq
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2022-05-23 20:38 UTC (2022-05-23 21:38 WAT)
+
+- URL: https://x.com/samczsun/status/1528837734068113408
+- Metrics (at fetch): bookmark 1, impression 0, like 56, quote 0, reply 5, retweet 3
+
+> mom come pick me up the orange site is talking about blockchain security again https://t.co/iL3AmJoqhL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FTeF0TEWUAQi-8n.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-23 · Post · two updates:
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2022-05-23 09:14 UTC (2022-05-23 10:14 WAT)
+
+- URL: https://x.com/samczsun/status/1528665602763567104
+- Metrics (at fetch): bookmark 22, impression 0, like 105, quote 2, reply 8, retweet 8
+
+> two updates:
+> 1) now indexing signatures from every evm-compatible chain
+> 2) non-canonical signatures are now filtered out. dm me to suggest new canonical signatures https://t.co/pPkmAdFxA6 https://t.co/pU5TxbmSJN
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FTboagzVUAAu_vO.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FTbo8fzUUAAw1HC.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @samczsun — 2022-05-08 22:41 UTC (2022-05-08 23:41 WAT)
+    
+    - URL: https://x.com/samczsun/status/1523432840561520640
+    - Metrics (at fetch): bookmark 90, impression 0, like 361, quote 6, reply 26, retweet 55
+    
+    > wrote some code for the first time in months here's a new site for browsing ethereum signatures
+    >
+    > https://t.co/qzxEZSWBDJ
+    
+
+
+---
+
+## 2022-05-22 · Post · this tweet introduces a new shitpost https://t.co/z3k2pGaW09
+
+
+### Post — @samczsun — 2022-05-22 23:55 UTC (2022-05-23 00:55 WAT)
+
+- URL: https://x.com/samczsun/status/1528524974566215680
+- Metrics (at fetch): bookmark 10, impression 0, like 68, quote 0, reply 4, retweet 6
+
+> this tweet introduces a new shitpost https://t.co/z3k2pGaW09
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FTZpO1cVIAAJ9Hk.jpg — no alt text provided by author
+
+
+---
+
+## 2022-05-20 · Post · catboy https://t.co/wSdCwIw8fH
+
+
+### Post — @samczsun — 2022-05-20 06:33 UTC (2022-05-20 07:33 WAT)
+
+- URL: https://x.com/samczsun/status/1527537938518528000
+- Metrics (at fetch): bookmark 0, impression 0, like 64, quote 2, reply 8, retweet 1
+
+> catboy https://t.co/wSdCwIw8fH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FTLnA5qUsAA-15K.jpg — alt text: "https://www.pixiv.net/en/artworks/75465391"
+
+
+---
+
+## 2022-05-16 · Post · https://t.co/kEhU7cmXI7
+
+
+### Post — @samczsun — 2022-05-16 19:12 UTC (2022-05-16 20:12 WAT)
+
+- URL: https://x.com/samczsun/status/1526279403701149697
+- Metrics (at fetch): bookmark 4, impression 0, like 198, quote 2, reply 7, retweet 9
+
+> https://t.co/kEhU7cmXI7
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FS5vBzoXEAA6paa.jpg — alt text: "What if you: wanted to talk about mechanisms
+But [t11s] said: I have class the rest of the day sadly"
+
+
+---
+
+## 2022-05-08 · Post · wrote some code for the first time in months here's a new site for browsing ethereum signatures
+
+
+### Post — @samczsun — 2022-05-08 22:41 UTC (2022-05-08 23:41 WAT)
+
+- URL: https://x.com/samczsun/status/1523432840561520640
+- Metrics (at fetch): bookmark 90, impression 0, like 361, quote 6, reply 26, retweet 55
+
+> wrote some code for the first time in months here's a new site for browsing ethereum signatures
+>
+> https://t.co/qzxEZSWBDJ
+
+
+---
+
+## 2022-04-20 · Post · https://t.co/eFyohKMfmk https://t.co/xEGH9xrabH
+
+
+### Post — @samczsun — 2022-04-20 03:05 UTC (2022-04-20 04:05 WAT)
+
+- URL: https://x.com/samczsun/status/1516613959314378756
+- Metrics (at fetch): bookmark 3, impression 0, like 205, quote 53, reply 3, retweet 7
+
+> https://t.co/eFyohKMfmk https://t.co/xEGH9xrabH
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQwYSq6VcAI6Ruz.png — no alt text provided by author
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1399513177973350403 — 2022-04-20 02:57 UTC (2022-04-20 03:57 WAT)
+    
+    - URL: https://x.com/1399513177973350403/status/1516612002579238920
+    - Metrics (at fetch): bookmark 5, impression 0, like 199, quote 4, reply 4, retweet 10
+    
+    > @0xtuba @samczsun &gt; Pulls up to my desk 
+    > &gt; "It's time to audit" 
+    > &gt; Opens Github, has 0 context on the code
+    > &gt; Scans first contract for about 60 seconds 
+    > &gt; "Not sure what this function does yet but it looks wrong" 
+    > &gt; mfw critical bug
+    
+
+
+---
+
+## 2022-04-15 · Post · https://t.co/E4dwDCBIx6
+
+
+### Post — @samczsun — 2022-04-15 03:01 UTC (2022-04-15 04:01 WAT)
+
+- URL: https://x.com/samczsun/status/1514800988091150346
+- Metrics (at fetch): bookmark 0, impression 0, like 61, quote 0, reply 9, retweet 1
+
+> https://t.co/E4dwDCBIx6
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FQWndvCUcAUEems.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-10 · Post · new @tom7 video just dropped this is not a drill https://t.co/aCa2HJrgom
+
+
+### Post — @samczsun — 2022-04-10 05:20 UTC (2022-04-10 06:20 WAT)
+
+- URL: https://x.com/samczsun/status/1513024147085012994
+- Metrics (at fetch): bookmark 8, impression 0, like 24, quote 0, reply 2, retweet 4
+
+> new @tom7 video just dropped this is not a drill https://t.co/aCa2HJrgom
+
+
+---
+
+## 2022-04-10 · Post · catboys are pretty cute
+
+
+### Post — @samczsun — 2022-04-10 00:05 UTC (2022-04-10 01:05 WAT)
+
+- URL: https://x.com/samczsun/status/1512944767314837504
+- Metrics (at fetch): bookmark 1, impression 0, like 99, quote 2, reply 14, retweet 5
+
+> catboys are pretty cute
+
+
+---
+
+## 2022-04-07 · Post · sent two message requests i hope they're up
+
+
+### Post — @samczsun — 2022-04-07 07:28 UTC (2022-04-07 08:28 WAT)
+
+- URL: https://x.com/samczsun/status/1511969120786472966
+- Metrics (at fetch): bookmark 3, impression 0, like 749, quote 82, reply 77, retweet 50
+
+> sent two message requests i hope they're up
+
+
+---
+
+## 2022-04-07 · Post · etherscan went down as i was looking at contracts what am i supposed to do now
+
+
+### Post — @samczsun — 2022-04-07 03:16 UTC (2022-04-07 04:16 WAT)
+
+- URL: https://x.com/samczsun/status/1511905689790300164
+- Metrics (at fetch): bookmark 4, impression 0, like 165, quote 2, reply 25, retweet 3
+
+> etherscan went down as i was looking at contracts what am i supposed to do now
+
+
+---
+
+## 2022-04-06 · Post · それとも。。。？ https://t.co/zcb87UrLcx
+
+
+### Post — @samczsun — 2022-04-06 04:33 UTC (2022-04-06 05:33 WAT)
+
+- URL: https://x.com/samczsun/status/1511562607450279938
+- Metrics (at fetch): bookmark 1, impression 0, like 42, quote 0, reply 3, retweet 1
+
+> それとも。。。？ https://t.co/zcb87UrLcx
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPoecWBX0AAQquS.jpg — no alt text provided by author
+
+
+---
+
+## 2022-04-05 · Post · it do be like that sometimes https://t.co/STSFU2vTWB
+
+
+### Post — @samczsun — 2022-04-05 22:30 UTC (2022-04-05 23:30 WAT)
+
+- URL: https://x.com/samczsun/status/1511471479732514817
+- Metrics (at fetch): bookmark 3, impression 0, like 288, quote 3, reply 11, retweet 24
+
+> it do be like that sometimes https://t.co/STSFU2vTWB
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPnTHShXIAIAA-O.png — no alt text provided by author
+
+
+---
+
+## 2022-04-05 · Post · anyone else have a polyphasic sleep schedule?
+
+
+### Post — @samczsun — 2022-04-05 08:19 UTC (2022-04-05 09:19 WAT)
+
+- URL: https://x.com/samczsun/status/1511257095882084356
+- Metrics (at fetch): bookmark 3, impression 0, like 58, quote 0, reply 29, retweet 2
+
+> anyone else have a polyphasic sleep schedule?
+
+
+---
+
+## 2022-04-04 · Post · me in literally any call if im not the one running it https://t.co/mSvEbGj1St
+
+
+### Post — @samczsun — 2022-04-04 20:41 UTC (2022-04-04 21:41 WAT)
+
+- URL: https://x.com/samczsun/status/1511081528079626240
+- Metrics (at fetch): bookmark 5, impression 0, like 150, quote 3, reply 1, retweet 11
+
+> me in literally any call if im not the one running it https://t.co/mSvEbGj1St
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPhwEYgXsAE2WAh.png — no alt text provided by author
+
+
+---
+
+## 2022-04-04 · Post · ok i need fbifemboy TO JOIN VOICE. I cant take this anymore. every join notif i check and its not fb
+
+
+### Post — @samczsun — 2022-04-04 03:03 UTC (2022-04-04 04:03 WAT)
+
+- URL: https://x.com/samczsun/status/1510815302799536132
+- Metrics (at fetch): bookmark 1, impression 0, like 79, quote 1, reply 9, retweet 3
+
+> ok i need fbifemboy TO JOIN VOICE. I cant take this anymore. every join notif i check and its not fbifemboy. check voice call, not fbifemboy. I cant take this anymore, I have over invested, by a lot. it is what it is. but I need fbifemboy to JOIN ALREADY. can devs DO SOMETHING https://t.co/MRf4TSQbss
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPd9_MXXsAYFYU5.png — no alt text provided by author
+
+
+---
+
+## 2022-04-03 · Post · https://t.co/TdMrQf31Ye
+
+
+### Post — @samczsun — 2022-04-03 06:33 UTC (2022-04-03 07:33 WAT)
+
+- URL: https://x.com/samczsun/status/1510505735448403968
+- Metrics (at fetch): bookmark 15, impression 0, like 1056, quote 7, reply 34, retweet 58
+
+> https://t.co/TdMrQf31Ye
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FPZk1eyWUAA7ksE.png — no alt text provided by author
+
+
+---
+
+## 2022-04-02 · Post · shitpost on main?
+
+
+### Post — @samczsun — 2022-04-02 08:09 UTC (2022-04-02 09:09 WAT)
+
+- URL: https://x.com/samczsun/status/1510167544744787969
+- Metrics (at fetch): bookmark 0, impression 0, like 78, quote 0, reply 11, retweet 1
+
+> shitpost on main?
+
+
+---
+
+## 2022-04-01 · Post · Today may be April 1st but this is not an April Fools joke. A big thank you to @HRitzdorf and @dedau
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @samczsun — 2022-04-01 18:47 UTC (2022-04-01 19:47 WAT)
+
+- URL: https://x.com/samczsun/status/1509965624973443073
+- Metrics (at fetch): bookmark 11, impression 0, like 115, quote 1, reply 4, retweet 17
+
+> Today may be April 1st but this is not an April Fools joke. A big thank you to @HRitzdorf and @dedaub for joining forces with me to save @RariCapital and secure DeFi once again.
+>
+> https://t.co/8Feqt1covw
+
+
+---
+
 ## 2022-03-23 · Thread · Another day, another Solana fake account exploit. This time, @CashioApp lost around $50M (based on a
 
 
@@ -7496,7 +8068,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @samczsun — 2022-03-23 10:29 UTC (2022-03-23 11:29 WAT)
 
 - URL: https://x.com/samczsun/status/1506578902331768832
-- Metrics (at fetch): bookmark 189, impression 0, like 1297, quote 88, reply 70, retweet 317
+- Metrics (at fetch): bookmark 190, impression 0, like 1299, quote 88, reply 70, retweet 317
 
 > Another day, another Solana fake account exploit. This time, @CashioApp lost around $50M (based on a quick skim). How did this happen? https://t.co/t7ThWL4zr1
 
@@ -7583,7 +8155,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
         #### Quoted post — @samczsun — 2022-03-23 10:29 UTC (2022-03-23 11:29 WAT)
         
         - URL: https://x.com/samczsun/status/1506578902331768832
-        - Metrics (at fetch): bookmark 189, impression 0, like 1297, quote 88, reply 70, retweet 317
+        - Metrics (at fetch): bookmark 190, impression 0, like 1299, quote 88, reply 70, retweet 317
         
         > Another day, another Solana fake account exploit. This time, @CashioApp lost around $50M (based on a quick skim). How did this happen? https://t.co/t7ThWL4zr1
         
@@ -7614,7 +8186,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     #### Quoted post — @samczsun — 2022-03-23 10:29 UTC (2022-03-23 11:29 WAT)
     
     - URL: https://x.com/samczsun/status/1506578902331768832
-    - Metrics (at fetch): bookmark 189, impression 0, like 1297, quote 88, reply 70, retweet 317
+    - Metrics (at fetch): bookmark 190, impression 0, like 1299, quote 88, reply 70, retweet 317
     
     > Another day, another Solana fake account exploit. This time, @CashioApp lost around $50M (based on a quick skim). How did this happen? https://t.co/t7ThWL4zr1
     
@@ -7704,18 +8276,139 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2022-02-08 · Post · I'm never doing Twitter Spaces again https://t.co/yz29lRDa9D
+
+
+### Post — @samczsun — 2022-02-08 20:07 UTC (2022-02-08 21:07 WAT)
+
+- URL: https://x.com/samczsun/status/1491141689867599872
+- Metrics (at fetch): bookmark 4, impression 0, like 203, quote 1, reply 29, retweet 2
+
+> I'm never doing Twitter Spaces again https://t.co/yz29lRDa9D
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1376805771116040193 — 2022-02-08 20:05 UTC (2022-02-08 21:05 WAT)
+    
+    - URL: https://x.com/1376805771116040193/status/1491141200862396417
+    - Metrics (at fetch): bookmark 1, impression 0, like 23, quote 1, reply 5, retweet 0
+    
+    > The call in a nutshell
+    > ....Sam?? Sam???... https://t.co/Qva9gsUqdH https://t.co/XjBnI7l8Ae
+    
+    **Media:**
+    - media `3_1491141198379364353` (details not returned by the API)
+    
+    **Quoted post** 1491125317641306114: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
 ## 2022-02-03 · Post · How did the @wormholecrypto exploit work? I joined forces with @gf_256 and @ret2jazzy to reverse eng
 
 
 ### Post — @samczsun — 2022-02-03 01:15 UTC (2022-02-03 02:15 WAT)
 
 - URL: https://x.com/samczsun/status/1489044939732406275
-- Metrics (at fetch): bookmark 1076, impression 0, like 5038, quote 393, reply 202, retweet 1530
+- Metrics (at fetch): bookmark 1074, impression 0, like 5033, quote 393, reply 202, retweet 1528
 
 > How did the @wormholecrypto exploit work? I joined forces with @gf_256 and @ret2jazzy to reverse engineer the exploit, and now that it's been patched we can finally share it with you👇 https://t.co/lXwD0GLZ3N
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FKomWUGWQAcRl6G.jpg — no alt text provided by author
+
+
+---
+
+## 2022-02-02 · Post · holy fucking shit @wormholecrypto is not having a good time right now https://t.co/Q6tcqAngCL
+
+
+### Post — @samczsun — 2022-02-02 20:35 UTC (2022-02-02 21:35 WAT)
+
+- URL: https://x.com/samczsun/status/1488974372756987906
+- Metrics (at fetch): bookmark 200, impression 0, like 4363, quote 611, reply 288, retweet 886
+
+> holy fucking shit @wormholecrypto is not having a good time right now https://t.co/Q6tcqAngCL
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FKnlxU4XwAwF8Mb.png — no alt text provided by author
+- photo: https://pbs.twimg.com/media/FKnlzoIXsAE8dTJ.png — no alt text provided by author
+
+
+---
+
+## 2022-01-26 · Post · 1/ An update: I tweeted a live vulnerability out when there was a better alternative (though I didn'
+
+
+### Post — @samczsun — 2022-01-26 07:45 UTC (2022-01-26 08:45 WAT)
+
+- URL: https://x.com/samczsun/status/1486243806739587076
+- Metrics (at fetch): bookmark 28, impression 0, like 605, quote 9, reply 18, retweet 55
+
+> 1/ An update: I tweeted a live vulnerability out when there was a better alternative (though I didn't realize at the time) and for that I apologize. It's especially bad because I've ragged on others for similar things before, and I hate being a hypocrite. Here's what happened. https://t.co/9jwsrO0zUO
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FKAyrfLXEAAbS8N.png — no alt text provided by author
+
+
+---
+
+## 2022-01-19 · Post · I'm looking for someone to join me in securing the future of crypto/Web3. If finding bugs, writing t
+
+
+### Post — @samczsun — 2022-01-19 15:52 UTC (2022-01-19 16:52 WAT)
+
+- URL: https://x.com/samczsun/status/1483829624018808833
+- Metrics (at fetch): bookmark 51, impression 0, like 580, quote 17, reply 34, retweet 75
+
+> I'm looking for someone to join me in securing the future of crypto/Web3. If finding bugs, writing tooling, researching novel attacks, and working with some of the brightest minds in the space sounds like a dream job, then please reach out or apply below!
+>
+> https://t.co/TIxuYF3fRa
+
+
+---
+
+## 2022-01-18 · Post · Someone is exploiting this literally *right now*. If you haven't revoked approvals yet you should pr
+
+
+### Post — @samczsun — 2022-01-18 08:48 UTC (2022-01-18 09:48 WAT)
+
+- URL: https://x.com/samczsun/status/1483360627229962246
+- Metrics (at fetch): bookmark 56, impression 0, like 679, quote 30, reply 32, retweet 227
+
+> Someone is exploiting this literally *right now*. If you haven't revoked approvals yet you should probably do so before it's too late. https://t.co/vkjGsrUgdk
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1274693174930190341 — 2022-01-17 16:14 UTC (2022-01-17 17:14 WAT)
+    
+    - URL: https://x.com/1274693174930190341/status/1483110393543544832
+    - Metrics (at fetch): bookmark 65, impression 0, like 661, quote 129, reply 1, retweet 298
+    
+    > 1/A critical vulnerability that affected 6 tokens (WETH, PERI, OMT, WBNB, MATIC, AVAX) has been reported and fixed. 
+    >
+    > All assets on both V2 Bridge and V3 Router are safe, and cross-chain transactions can be done safely.
+    >
+    > More info👇
+    > https://t.co/Mm6yWMwlCS
+    
+
+
+---
+
+## 2022-01-14 · Post · https://t.co/ys7V5ES36i
+
+
+### Post — @samczsun — 2022-01-14 21:48 UTC (2022-01-14 22:48 WAT)
+
+- URL: https://x.com/samczsun/status/1482107365176524802
+- Metrics (at fetch): bookmark 40, impression 0, like 1059, quote 2, reply 19, retweet 89
+
+> https://t.co/ys7V5ES36i
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FJGAmoNWYAwTuQl.jpg — no alt text provided by author
 
 
 ---
@@ -7733,20 +8426,172 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2021-12-03 · Post · Trying an experiment, DMs open until midnight
+
+
+### Post — @samczsun — 2021-12-03 08:00 UTC (2021-12-03 09:00 WAT)
+
+- URL: https://x.com/samczsun/status/1466678684224471046
+- Metrics (at fetch): bookmark 2, impression 0, like 217, quote 3, reply 33, retweet 2
+
+> Trying an experiment, DMs open until midnight
+
+
+---
+
+## 2021-12-02 · Post · Let's go, Casey! https://twitter.com/caseykcaruso/status/1466082034829324288
+
+
+### Post — @samczsun — 2021-12-02 06:18 UTC (2021-12-02 07:18 WAT)
+
+- URL: https://x.com/samczsun/status/1466290563397951488
+- Metrics (at fetch): bookmark 1, impression 0, like 58, quote 1, reply 4, retweet 0
+
+> Let's go, Casey! https://twitter.com/caseykcaruso/status/1466082034829324288
+
+**Links in post:** https://twitter.com/caseykcaruso/status/1466082034829324288
+
+**Quoted post (full text):**
+
+    #### Quoted post — @3983771776 — 2021-12-01 16:29 UTC (2021-12-01 17:29 WAT)
+    
+    - URL: https://x.com/3983771776/status/1466082034829324288
+    - Metrics (at fetch): bookmark 38, impression 0, like 1190, quote 9, reply 100, retweet 17
+    
+    > Do anyone else’s parents still have no idea what they do? Huge thank you to @forbes for helping clear it up.  And yes, my father signs every text message with "-Dad" [pic.x.com/ue7AglfDQ9] https://twitter.com/ForbesUnder30/status/1466039826428350464
+    
+    **Media:**
+    - media `3_1466080073837015040` (details not returned by the API)
+    
+    **Links in post:** https://twitter.com/ForbesUnder30/status/1466039826428350464
+    
+    **Quoted post** 1466039826428350464: not readable via the API (deleted, private, or withheld).
+    
+
+
+---
+
+## 2021-11-11 · Post · What would you do if you found an 0day in @etherscan? I decided to build a pinball machine.
+
+
+### Post — @samczsun — 2021-11-11 15:26 UTC (2021-11-11 16:26 WAT)
+
+- URL: https://x.com/samczsun/status/1458818301199540226
+- Metrics (at fetch): bookmark 114, impression 0, like 644, quote 27, reply 21, retweet 125
+
+> What would you do if you found an 0day in @etherscan? I decided to build a pinball machine.
+>
+> https://www.paradigm.xyz/2021/11/hiding-in-plain-sight/
+
+**Links in post:** https://www.paradigm.xyz/2021/11/hiding-in-plain-sight/
+
+
+---
+
+## 2021-11-04 · Post · Hearing word that someone's been going around at NYC impersonating me, so I guess I've made it? If a
+
+
+### Post — @samczsun — 2021-11-04 15:19 UTC (2021-11-04 16:19 WAT)
+
+- URL: https://x.com/samczsun/status/1456279838914981888
+- Metrics (at fetch): bookmark 1, impression 0, like 302, quote 4, reply 12, retweet 13
+
+> Hearing word that someone's been going around at NYC impersonating me, so I guess I've made it? If anyone says they're me, message any of my accounts and ask them to reply to you on the spot
+>
+> Also, suffice to say, that wasn't me you met at NYC
+
+
+---
+
 ## 2021-11-01 · Post · It was a long grind but finally made first place on one of the few leaderboards that matter - the Et
 
 
 ### Post — @samczsun — 2021-11-01 15:58 UTC (2021-11-01 16:58 WAT)
 
 - URL: https://x.com/samczsun/status/1455202680998088704
-- Metrics (at fetch): bookmark 26, impression 0, like 839, quote 10, reply 36, retweet 48
+- Metrics (at fetch): bookmark 26, impression 0, like 840, quote 10, reply 36, retweet 48
 
 > It was a long grind but finally made first place on one of the few leaderboards that matter - the Ethereum bounty leaderboard🥳
 >
-> These latest two bugs are extremely fascinating so you can be sure I'll be writing a blog post on them once disclosure is appropriate https://t.co/3QBP7n8W3i
+> These latest two bugs are extremely fascinating so you can be sure I'll be writing a blog post on them once disclosure is appropriate [pic.x.com/3QBP7n8W3i]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/FDHqPTNXIA4zLTz.jpg — no alt text provided by author
+
+
+---
+
+## 2021-10-22 · Post · trust but verify
+
+
+### Post — @samczsun — 2021-10-22 17:53 UTC (2021-10-22 18:53 WAT)
+
+- URL: https://x.com/samczsun/status/1451607676081917952
+- Metrics (at fetch): bookmark 4, impression 0, like 216, quote 2, reply 16, retweet 27
+
+> trust but verify
+
+
+---
+
+## 2021-10-21 · Post · 0xec09d8b3d7B4209A1D2C41547b143c0163487bAA
+
+
+### Post — @samczsun — 2021-10-21 17:17 UTC (2021-10-21 18:17 WAT)
+
+- URL: https://x.com/samczsun/status/1451236190917701636
+- Metrics (at fetch): bookmark 30, impression 0, like 198, quote 23, reply 34, retweet 12
+
+> 0xec09d8b3d7B4209A1D2C41547b143c0163487bAA
+
+
+---
+
+## 2021-10-01 · Post · are you scared? happy october [pic.x.com/gSiHoox3EK]
+
+
+### Post — @samczsun — 2021-10-01 09:04 UTC (2021-10-01 10:04 WAT)
+
+- URL: https://x.com/samczsun/status/1443864290839220247
+- Metrics (at fetch): bookmark 4, impression 0, like 393, quote 5, reply 29, retweet 19
+
+> are you scared? happy october [pic.x.com/gSiHoox3EK]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/FAmhSezX0AYZO9F.jpg — no alt text provided by author
+
+
+---
+
+## 2021-09-07 · Post · Any underrated anons out there? Bonus points if doing security of some kind
+
+
+### Post — @samczsun — 2021-09-07 21:20 UTC (2021-09-07 22:20 WAT)
+
+- URL: https://x.com/samczsun/status/1435352333009960961
+- Metrics (at fetch): bookmark 16, impression 0, like 172, quote 0, reply 35, retweet 12
+
+> Any underrated anons out there? Bonus points if doing security of some kind
+
+
+---
+
+## 2021-08-30 · Post · I did a quick Q&amp;A with @Hacker0x01!
+
+
+Tags (automatic): Smart contract / DeFi, Platform: HackerOne
+
+
+### Post — @samczsun — 2021-08-30 17:24 UTC (2021-08-30 18:24 WAT)
+
+- URL: https://x.com/samczsun/status/1432393819937456131
+- Metrics (at fetch): bookmark 22, impression 0, like 161, quote 2, reply 6, retweet 34
+
+> I did a quick Q&amp;A with @Hacker0x01!
+>
+> https://www.hackerone.com/ethical-hacker/hacker-powered-security-and-defi-how-human-intelligence-improves-cryptocurrency
+
+**Links in post:** https://www.hackerone.com/ethical-hacker/hacker-powered-security-and-defi-how-human-intelligence-improves-cryptocurrency
 
 
 ---
@@ -7757,11 +8602,157 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @samczsun — 2021-08-17 19:40 UTC (2021-08-17 20:40 WAT)
 
 - URL: https://x.com/samczsun/status/1427716909940740099
-- Metrics (at fetch): bookmark 336, impression 0, like 4336, quote 317, reply 227, retweet 724
+- Metrics (at fetch): bookmark 336, impression 0, like 4334, quote 317, reply 227, retweet 723
 
 > Auditor's logs, 16th of August. I found a critical vulnerability in SushiSwap's MISO platform
 >
-> https://t.co/untzdxay7q
+> https://www.paradigm.xyz/2021/08/two-rights-might-make-a-wrong/
+
+**Links in post:** https://www.paradigm.xyz/2021/08/two-rights-might-make-a-wrong/
+
+
+---
+
+## 2021-08-17 · Post · Just pulled off maybe the biggest whitehat rescue ever. Story time soon 🔥
+
+
+### Post — @samczsun — 2021-08-17 18:42 UTC (2021-08-17 19:42 WAT)
+
+- URL: https://x.com/samczsun/status/1427702399909699592
+- Metrics (at fetch): bookmark 150, impression 0, like 4023, quote 90, reply 181, retweet 272
+
+> Just pulled off maybe the biggest whitehat rescue ever. Story time soon 🔥
+
+
+---
+
+## 2021-08-13 · Post · Just because it says safe doesn't mean it actually is! A new blog post on a particular footgun I've 
+
+
+### Post — @samczsun — 2021-08-13 19:55 UTC (2021-08-13 20:55 WAT)
+
+- URL: https://x.com/samczsun/status/1426271289031995392
+- Metrics (at fetch): bookmark 64, impression 0, like 350, quote 21, reply 11, retweet 75
+
+> Just because it says safe doesn't mean it actually is! A new blog post on a particular footgun I've been seeing people shoot themselves with recently.
+>
+> https://www.paradigm.xyz/2021/08/the-dangers-of-surprising-code/
+
+**Links in post:** https://www.paradigm.xyz/2021/08/the-dangers-of-surprising-code/
+
+
+---
+
+## 2021-07-23 · Post · Ever asked yourself whether you should use spot price as your oracle but didn't know the answer? Thi
+
+
+### Post — @samczsun — 2021-07-23 01:39 UTC (2021-07-23 02:39 WAT)
+
+- URL: https://x.com/samczsun/status/1418385359491239937
+- Metrics (at fetch): bookmark 52, impression 0, like 194, quote 8, reply 7, retweet 25
+
+> Ever asked yourself whether you should use spot price as your oracle but didn't know the answer? This one's for you!
+>
+> https://shouldiusespotpriceasmyoracle.com/
+
+**Links in post:** https://shouldiusespotpriceasmyoracle.com/
+
+
+---
+
+## 2021-06-18 · Post · going live in ~10 minutes on https://ethglobal.tv with @nanexcool, @maurelian_, @emilianobonassi, an
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @samczsun — 2021-06-18 18:47 UTC (2021-06-18 19:47 WAT)
+
+- URL: https://x.com/samczsun/status/1405960402287140865
+- Metrics (at fetch): bookmark 9, impression 0, like 81, quote 2, reply 2, retweet 10
+
+> going live in ~10 minutes on https://ethglobal.tv with @nanexcool, @maurelian_, @emilianobonassi, and @tinchoabbate talking about defi security!
+
+**Links in post:** https://ethglobal.tv
+
+
+---
+
+## 2021-05-27 · Post · New blog post is out! What if you could hard fork the Ethereum blockchain with a snap of your finger
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @samczsun — 2021-05-27 22:58 UTC (2021-05-27 23:58 WAT)
+
+- URL: https://x.com/samczsun/status/1398050990260097027
+- Metrics (at fetch): bookmark 96, impression 0, like 507, quote 15, reply 17, retweet 103
+
+> New blog post is out! What if you could hard fork the Ethereum blockchain with a snap of your fingers?
+>
+> https://www.paradigm.xyz/2021/05/booby-trapping-the-ethereum-blockchain/
+
+**Links in post:** https://www.paradigm.xyz/2021/05/booby-trapping-the-ethereum-blockchain/
+
+
+---
+
+## 2021-04-30 · Post · Also while I'm promoting artists shoutout to @VincyWp who did an amazing job on my cover art!
+
+
+### Post — @samczsun — 2021-04-30 00:08 UTC (2021-04-30 01:08 WAT)
+
+- URL: https://x.com/samczsun/status/1387921821752647684
+- Metrics (at fetch): bookmark 1, impression 0, like 22, quote 0, reply 2, retweet 1
+
+> Also while I'm promoting artists shoutout to @VincyWp who did an amazing job on my cover art!
+
+
+---
+
+## 2021-04-30 · Post · I'm not saying that everyone at @paradigm should get anime avatars but... @_Dave__White_ u up?
+
+
+### Post — @samczsun — 2021-04-30 00:06 UTC (2021-04-30 01:06 WAT)
+
+- URL: https://x.com/samczsun/status/1387921321988788226
+- Metrics (at fetch): bookmark 0, impression 0, like 65, quote 0, reply 4, retweet 3
+
+> I'm not saying that everyone at @paradigm should get anime avatars but... @_Dave__White_ u up?
+
+
+---
+
+## 2021-04-27 · Post · pov: you just launched on mainnet [pic.x.com/QJcFM7VOGA]
+
+
+### Post — @samczsun — 2021-04-27 22:08 UTC (2021-04-27 23:08 WAT)
+
+- URL: https://x.com/samczsun/status/1387166666186952705
+- Metrics (at fetch): bookmark 2, impression 0, like 218, quote 6, reply 10, retweet 11
+
+> pov: you just launched on mainnet [pic.x.com/QJcFM7VOGA]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/E0A0pfZWUAQJpGa.png — no alt text provided by author
+
+
+---
+
+## 2021-04-19 · Post · if you're reading this tweet then good job keeping an eye out. should probably put it back in now th
+
+
+### Post — @samczsun — 2021-04-19 18:45 UTC (2021-04-19 19:45 WAT)
+
+- URL: https://x.com/samczsun/status/1384216588803448842
+- Metrics (at fetch): bookmark 78, impression 0, like 548, quote 37, reply 20, retweet 94
+
+> if you're reading this tweet then good job keeping an eye out. should probably put it back in now though
+>
+> https://samczsun.com/uncovering-a-four-year-old-bug/
+
+**Links in post:** https://samczsun.com/uncovering-a-four-year-old-bug/
 
 
 ---
@@ -7772,7 +8763,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @samczsun — 2021-04-09 17:19 UTC (2021-04-09 18:19 WAT)
 
 - URL: https://x.com/samczsun/status/1380571092524404736
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 48, impression 0, like 178, quote 7, reply 1, retweet 34
 
 > 🔍writeup is here🔎
 >
@@ -7783,15 +8774,222 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2021-04-07 · Post · It finally happened! Congrats to @HRitzdorf and @a_permenev for solving the infamous 'swap' challeng
+
+
+### Post — @samczsun — 2021-04-07 23:26 UTC (2021-04-08 00:26 WAT)
+
+- URL: https://x.com/samczsun/status/1379938686511558658
+- Metrics (at fetch): bookmark 9, impression 0, like 123, quote 6, reply 1, retweet 14
+
+> It finally happened! Congrats to @HRitzdorf and @a_permenev for solving the infamous 'swap' challenge from @paradigm_ctf. Official write-up and solutions will be posted in a few days so now's your chance to give it one last shot!
+>
+> https://github.com/paradigm-operations/paradigm-ctf-2021
+
+**Links in post:** https://github.com/paradigm-operations/paradigm-ctf-2021
+
+
+---
+
 ## 2021-04-05 · Post · Found a critical bug in a contract that's over 4 years old, possibly the oldest to ever be discovere
 
 
 ### Post — @samczsun — 2021-04-05 19:58 UTC (2021-04-05 20:58 WAT)
 
 - URL: https://x.com/samczsun/status/1379161559902121987
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 41, impression 0, like 1173, quote 55, reply 46, retweet 93
 
 > Found a critical bug in a contract that's over 4 years old, possibly the oldest to ever be discovered. Full story coming soon so keep an eye out 👀
+
+
+---
+
+## 2021-03-30 · Post · https://samczsun.com/the-block-mined-in-january-584942419325/
+
+
+### Post — @samczsun — 2021-03-30 15:07 UTC (2021-03-30 16:07 WAT)
+
+- URL: https://x.com/samczsun/status/1376913881558347783
+- Metrics (at fetch): bookmark 21, impression 0, like 146, quote 5, reply 3, retweet 20
+
+> https://samczsun.com/the-block-mined-in-january-584942419325/
+
+**Links in post:** https://samczsun.com/the-block-mined-in-january-584942419325/
+
+
+---
+
+## 2021-03-26 · Reply · @tzhen and I strike again, this time saving ~4MM of user funds spread across both the DAO and AMM po
+
+
+### Post — @samczsun — 2021-03-26 17:19 UTC (2021-03-26 18:19 WAT)
+
+- URL: https://x.com/samczsun/status/1375497609616445443
+- Metrics (at fetch): bookmark 9, impression 0, like 150, quote 7, reply 6, retweet 23
+
+> @tzhen and I strike again, this time saving ~4MM of user funds spread across both the DAO and AMM pools. Total time between initial contact and remediation: 49 minutes (!) https://t.co/J0jUn9stex
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1306138948402663424 — 2021-03-26 17:03 UTC (2021-03-26 18:03 WAT)
+    
+    - URL: https://x.com/1306138948402663424/status/1375493545600155648
+    - Metrics (at fetch): bookmark 7, impression 0, like 61, quote 2, reply 1, retweet 15
+    
+    > Check out our new article outlining the steps we've taken and the story of our smart contract security so far. 
+    > https://t.co/gABgsUygh8
+    > #fairgovernance
+    
+
+
+---
+
+## 2021-02-22 · Post · Two weeks ago, @tzhen and I saved over 13MM of user funds from being stolen by an attacker! Kudos to
+
+
+### Post — @samczsun — 2021-02-22 09:03 UTC (2021-02-22 10:03 WAT)
+
+- URL: https://x.com/samczsun/status/1363776503092289536
+- Metrics (at fetch): bookmark 2, impression 0, like 188, quote 4, reply 11, retweet 15
+
+> Two weeks ago, @tzhen and I saved over 13MM of user funds from being stolen by an attacker! Kudos to the ForTube team for pausing the protocol so quickly after receiving the report. https://t.co/jFTNHcgNHi
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1023450698837516288 — 2021-02-22 06:47 UTC (2021-02-22 07:47 WAT)
+    
+    - URL: https://x.com/1023450698837516288/status/1363742226644312064
+    - Metrics (at fetch): bookmark 2, impression 0, like 31, quote 2, reply 4, retweet 6
+    
+    > #ForTube were recently able to fix a security vulnerability in the ForTube lending platform, which was discovered by @samczsun.
+    >
+    > Thank you to @samczsun and Tina for their prompt communication and assistance in uncovering the issue.
+    >
+    > https://t.co/KfTejXi8MN
+    
+
+
+---
+
+## 2021-02-10 · Post · One of my two unsolved challenges from @paradigm_ctf has fallen! Looking forward to the write-up, @a
+
+
+### Post — @samczsun — 2021-02-10 06:00 UTC (2021-02-10 07:00 WAT)
+
+- URL: https://x.com/samczsun/status/1359381717514145794
+- Metrics (at fetch): bookmark 7, impression 0, like 40, quote 1, reply 4, retweet 7
+
+> One of my two unsolved challenges from @paradigm_ctf has fallen! Looking forward to the write-up, @adietrichs https://t.co/O1FghJyFCx
+
+**Quoted post (full text):**
+
+    #### Quoted post — @172530887 — 2021-02-10 05:28 UTC (2021-02-10 06:28 WAT)
+    
+    - URL: https://x.com/172530887/status/1359373577485623302
+    - Metrics (at fetch): bookmark 12, impression 0, like 34, quote 2, reply 2, retweet 7
+    
+    > Epic video stream by @adietrichs successfully solving @paradigm_ctf JOP challenge. Congrats!
+    >
+    > Part 1: https://t.co/1RDISh7TZl
+    > Part 2: https://t.co/ZLonJUsjHf
+    
+
+
+---
+
+## 2021-02-04 · Post · u up? https://t.co/7vqKS0b5v9
+
+
+### Post — @samczsun — 2021-02-04 21:40 UTC (2021-02-04 22:40 WAT)
+
+- URL: https://x.com/samczsun/status/1357443910616952832
+- Metrics (at fetch): bookmark 3, impression 0, like 173, quote 4, reply 14, retweet 21
+
+> u up? https://t.co/7vqKS0b5v9
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1334836889807958016 — 2021-02-04 21:35 UTC (2021-02-04 22:35 WAT)
+    
+    - URL: https://x.com/1334836889807958016/status/1357442787566837768
+    - Metrics (at fetch): bookmark 6, impression 0, like 84, quote 5, reply 1, retweet 12
+    
+    > Paradigm CTF starts in a little over 24 hours.
+    >
+    > The competition will initially start with 8 challenges. 
+    > 9 more will be revealed over 3 8-hour periods.
+    >
+    > Register now:
+    > https://t.co/5VGxtm6SXx https://t.co/stioEWBbdT
+    
+    **Media:**
+    - media `3_1357442473270853634` (details not returned by the API)
+    
+
+
+---
+
+## 2021-02-03 · Post · For those curious what I was hinting at during the ETHGlobal panel... here it is! https://t.co/AEIDD
+
+
+### Post — @samczsun — 2021-02-03 23:01 UTC (2021-02-04 00:01 WAT)
+
+- URL: https://x.com/samczsun/status/1357101912588492805
+- Metrics (at fetch): bookmark 2, impression 0, like 33, quote 0, reply 0, retweet 6
+
+> For those curious what I was hinting at during the ETHGlobal panel... here it is! https://t.co/AEIDDh4P2c
+
+**Quoted post (full text):**
+
+    #### Quoted post — @8388192 — 2021-02-03 22:10 UTC (2021-02-03 23:10 WAT)
+    
+    - URL: https://x.com/8388192/status/1357089176898969600
+    - Metrics (at fetch): bookmark 29, impression 0, like 114, quote 8, reply 4, retweet 33
+    
+    > ⚡️🤖 Introducing the inaugural Flashbots "MEV of the week" ⚡️🤖
+    > This week, let's explore a novel use-case on Flashbots: rescuing a CryptoKitty (or other NFT) stuck in an Ethereum account with an accidentally disclosed private key!
+    
+
+
+---
+
+## 2020-12-19 · Post · 啡鹬𓉴马𓄠ꕯ𓉥鹨鱮縠𔐧啥驢𐙥𔔠𓁯鹫鱮𒀠慮騠ꅮ𖥯 https://t.co/XMYfMJSkSq
+
+
+### Post — @samczsun — 2020-12-19 18:42 UTC (2020-12-19 19:42 WAT)
+
+- URL: https://x.com/samczsun/status/1340366902003163137
+- Metrics (at fetch): bookmark 1, impression 0, like 16, quote 2, reply 1, retweet 3
+
+> 啡鹬𓉴马𓄠ꕯ𓉥鹨鱮縠𔐧啥驢𐙥𔔠𓁯鹫鱮𒀠慮騠ꅮ𖥯 https://t.co/XMYfMJSkSq
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1334836889807958016 — 2020-12-19 17:37 UTC (2020-12-19 18:37 WAT)
+    
+    - URL: https://x.com/1334836889807958016/status/1340350652715835393
+    - Metrics (at fetch): bookmark 2, impression 0, like 59, quote 9, reply 6, retweet 12
+    
+    > secydwieed sjvfqhqtywcnop
+    
+
+
+---
+
+## 2020-12-06 · Post · I gave a talk at @gitcoin's smart contract security event! We covered a few different topics, includ
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @samczsun — 2020-12-06 20:31 UTC (2020-12-06 21:31 WAT)
+
+- URL: https://x.com/samczsun/status/1335683213977677825
+- Metrics (at fetch): bookmark 21, impression 0, like 190, quote 10, reply 4, retweet 35
+
+> I gave a talk at @gitcoin's smart contract security event! We covered a few different topics, including how in today's smart contract landscape we need to look beyond reentrancy and instead focus on unsafe external calls.
+>
+> https://t.co/F4w07L2jgR
 
 
 ---
@@ -7802,12 +9000,86 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @samczsun — 2020-11-21 20:48 UTC (2020-11-21 21:48 WAT)
 
 - URL: https://x.com/samczsun/status/1330251655531671552
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 12, impression 0, like 168, quote 4, reply 8, retweet 28
 
 > Input validation is critical to security and I'm a huge fan of how @AugurProject does it - every address provided by the user is shady until proven otherwise using existing data that the contract knows to be safe. [pic.x.com/xaupmVJBMt]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/EnYAJNRXcAI3kYU.png — no alt text provided by author
+
+
+---
+
+## 2020-11-09 · Post · Price oracle manipulation has resulted in over 30MM of losses so far and it shows no signs of slowin
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @samczsun — 2020-11-09 19:58 UTC (2020-11-09 20:58 WAT)
+
+- URL: https://x.com/samczsun/status/1325890420111511553
+- Metrics (at fetch): bookmark 72, impression 0, like 482, quote 31, reply 30, retweet 148
+
+> Price oracle manipulation has resulted in over 30MM of losses so far and it shows no signs of slowing. Here’s the definitive resource on what price oracles are, what could go wrong, and how to use them safely.
+>
+> https://t.co/yD9CwzLtEs
+
+
+---
+
+## 2020-10-31 · Post · Happy Halloween!🎃
+
+
+### Post — @samczsun — 2020-10-31 18:10 UTC (2020-10-31 19:10 WAT)
+
+- URL: https://x.com/samczsun/status/1322601860436471810
+- Metrics (at fetch): bookmark 0, impression 0, like 28, quote 0, reply 2, retweet 0
+
+> Happy Halloween!🎃
+>
+> Art by @Yamer https://t.co/5LPsaAcA2N
+
+**Media:**
+- animated_gif: https://pbs.twimg.com/tweet_video_thumb/ElrRtZPW0AEqf29.jpg — no alt text provided by author
+
+
+---
+
+## 2020-10-10 · Post · Thanks @rleshner for nerd-sniping me with this earlier in the day https://t.co/Rvl4gBhehq
+
+
+### Post — @samczsun — 2020-10-10 05:44 UTC (2020-10-10 06:44 WAT)
+
+- URL: https://x.com/samczsun/status/1314804065776345089
+- Metrics (at fetch): bookmark 1, impression 0, like 67, quote 0, reply 4, retweet 5
+
+> Thanks @rleshner for nerd-sniping me with this earlier in the day https://t.co/Rvl4gBhehq
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1260105245033558022 — 2020-10-10 05:41 UTC (2020-10-10 06:41 WAT)
+    
+    - URL: https://x.com/1260105245033558022/status/1314803097177186305
+    - Metrics (at fetch): bookmark 1, impression 0, like 65, quote 5, reply 12, retweet 26
+    
+    > New update on #AlphaHomora: we have paused issuing new debts to the WETH-DPI farming pool in response to a potential security issue brought to us by @samczsun. You will still be able to farm with 1x leverage on WETH-DPI as well as on leverage on other Uniswap pools.
+    
+
+
+---
+
+## 2020-10-09 · Post · Thanks to @dguido and @trailofbits for an amazing summer and the opportunity to work with some of th
+
+
+### Post — @samczsun — 2020-10-09 15:19 UTC (2020-10-09 16:19 WAT)
+
+- URL: https://x.com/samczsun/status/1314586271570972674
+- Metrics (at fetch): bookmark 9, impression 0, like 517, quote 29, reply 34, retweet 42
+
+> Thanks to @dguido and @trailofbits for an amazing summer and the opportunity to work with some of the best security engineers out there. Moving forward, I’ll be joining @paradigm to work alongside @matthuang, @FEhrsam, and the rest of the team.
+>
+> https://t.co/YamqKosK3H
 
 
 ---
@@ -7821,7 +9093,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @samczsun — 2020-09-30 16:03 UTC (2020-09-30 17:03 WAT)
 
 - URL: https://x.com/samczsun/status/1311335972378996743
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 16, impression 0, like 198, quote 2, reply 8, retweet 48
 
 > Found an interesting bug last week in a privacy chain with an Ethereum bridge that lets attackers double-spend their coins. Kudos to the team for getting it fixed within hours of reporting.
 >
@@ -7832,15 +9104,140 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
+## 2020-09-24 · Post · How do you rescue 10 million dollars from a vulnerable smart contract without letting attackers know
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @samczsun — 2020-09-24 16:46 UTC (2020-09-24 17:46 WAT)
+
+- URL: https://x.com/samczsun/status/1309172328476139521
+- Metrics (at fetch): bookmark 142, impression 0, like 1422, quote 171, reply 64, retweet 413
+
+> How do you rescue 10 million dollars from a vulnerable smart contract without letting attackers know it’s there? Last Tuesday, @epheph, @sparkpool_eth, @tzhen, @wadealexc, and I found out.
+>
+> https://t.co/WOjO651VIw
+
+
+---
+
 ## 2020-06-01 · Post · I have not reviewed, and will not be reviewing, any Hegic code since my pre-v1 bug report. Please do
 
 
 ### Post — @samczsun — 2020-06-01 16:21 UTC (2020-06-01 17:21 WAT)
 
 - URL: https://x.com/samczsun/status/1267491367204392961
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 60, quote 1, reply 1, retweet 3
 
 > I have not reviewed, and will not be reviewing, any Hegic code since my pre-v1 bug report. Please do not misconstrue no news as good news.
+
+
+---
+
+## 2020-05-21 · Post · All I can do is submit a report. Check the timestamp.
+
+
+### Post — @samczsun — 2020-05-21 12:34 UTC (2020-05-21 13:34 WAT)
+
+- URL: https://x.com/samczsun/status/1263448198057689089
+- Metrics (at fetch): bookmark 2, impression 0, like 35, quote 0, reply 0, retweet 2
+
+> All I can do is submit a report. Check the timestamp.
+>
+> https://t.co/MCBQwmTUPb https://t.co/gF6aQJl2kK
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1138033434 — 2020-05-21 11:46 UTC (2020-05-21 12:46 WAT)
+    
+    - URL: https://x.com/1138033434/status/1263435916367912962
+    - Metrics (at fetch): bookmark 2, impression 0, like 31, quote 3, reply 4, retweet 1
+    
+    > 11) The learning lesson here is that not only is code quality important, but so is systems design
+    >
+    > The code was reviewed by many talented individuals including @0mllwntrmt3 @trailofbits and @samczsun, but the shut down of Hegic V1 resulted from a weak point in system mechanics
+    
+
+
+---
+
+## 2020-03-30 · Post · 3/3 https://t.co/PRHelZzgL0
+
+
+### Post — @samczsun — 2020-03-30 16:13 UTC (2020-03-30 17:13 WAT)
+
+- URL: https://x.com/samczsun/status/1244659028682330113
+- Metrics (at fetch): bookmark 0, impression 0, like 36, quote 1, reply 0, retweet 2
+
+> 3/3 https://t.co/PRHelZzgL0
+
+**Quoted post (full text):**
+
+    #### Quoted post — @993455934226812929 — 2020-03-30 07:12 UTC (2020-03-30 08:12 WAT)
+    
+    - URL: https://x.com/993455934226812929/status/1244522838117187584
+    - Metrics (at fetch): bookmark 0, impression 0, like 21, quote 2, reply 1, retweet 5
+    
+    > Aragon Court's smart contracts were upgraded to resolve bugs discovered by @samczsun and @bingentxu.
+    >
+    > The bugs did not affect any users.
+    >
+    > Read the full write-up below
+    > https://t.co/fAUoQNcZaL
+    
+
+
+---
+
+## 2020-03-26 · Post · 2/3 https://t.co/YGrWQopb3n
+
+
+### Post — @samczsun — 2020-03-26 07:14 UTC (2020-03-26 08:14 WAT)
+
+- URL: https://x.com/samczsun/status/1243073766315429889
+- Metrics (at fetch): bookmark 1, impression 0, like 36, quote 0, reply 4, retweet 0
+
+> 2/3 https://t.co/YGrWQopb3n
+
+**Quoted post (full text):**
+
+    #### Quoted post — @898875132864716800 — 2020-03-26 07:13 UTC (2020-03-26 08:13 WAT)
+    
+    - URL: https://x.com/898875132864716800/status/1243073639047557120
+    - Metrics (at fetch): bookmark 1, impression 0, like 57, quote 3, reply 2, retweet 10
+    
+    > Here are the details about a recent bug found by @samczsun in our Ether collateral contract. It was in code deployed to mainnet but not yet active, so no funds are at risk. You can read the full explanation in the blog post: https://t.co/uXsqwtt1qP
+    
+
+
+---
+
+## 2020-03-25 · Post · 1/3 https://t.co/KwbQ0jruxL
+
+
+### Post — @samczsun — 2020-03-25 02:54 UTC (2020-03-25 03:54 WAT)
+
+- URL: https://x.com/samczsun/status/1242646006522675201
+- Metrics (at fetch): bookmark 2, impression 0, like 34, quote 0, reply 1, retweet 1
+
+> 1/3 https://t.co/KwbQ0jruxL
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1222368733227880448 — 2020-03-25 02:52 UTC (2020-03-25 03:52 WAT)
+    
+    - URL: https://x.com/1222368733227880448/status/1242645476136103936
+    - Metrics (at fetch): bookmark 3, impression 0, like 38, quote 2, reply 2, retweet 8
+    
+    > @samczsun has coded a potential attack on z @HegicOptions DAI liquidity pool contract ⚡️
+    >
+    > enjoy white hat hackin’ work by notorious samczsun with me: https://t.co/w63cVx5RMm (vulnerability disclosure)🔴 
+    >
+    > i’ll fix it before z next release of Hegic contracts in april
+    >
+    > #FlashFuckMe
+    
 
 
 ---
@@ -7851,6 +9248,151 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @samczsun — 2020-03-13 00:38 UTC (2020-03-13 01:38 WAT)
 
 - URL: https://x.com/samczsun/status/1238263228691513349
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 343, quote 4, reply 25, retweet 11
 
 > So looks like I'll be joining the @trailofbits team in May... doesn't mean the bug hunting will stop though 😉
+
+
+---
+
+## 2020-02-24 · Post · Hope you haven't had enough of Uniswap shenanigans
+
+
+### Post — @samczsun — 2020-02-24 21:09 UTC (2020-02-24 22:09 WAT)
+
+- URL: https://x.com/samczsun/status/1232050053067476993
+- Metrics (at fetch): bookmark 7, impression 0, like 179, quote 5, reply 9, retweet 28
+
+> Hope you haven't had enough of Uniswap shenanigans
+>
+> https://t.co/8mxGPG0YHg
+
+
+---
+
+## 2020-02-19 · Post · Here's a post that's on the sillier side https://t.co/NmzYRTX0eT
+
+
+### Post — @samczsun — 2020-02-19 04:06 UTC (2020-02-19 05:06 WAT)
+
+- URL: https://x.com/samczsun/status/1229980650029101056
+- Metrics (at fetch): bookmark 3, impression 0, like 89, quote 4, reply 2, retweet 10
+
+> Here's a post that's on the sillier side https://t.co/NmzYRTX0eT
+
+
+---
+
+## 2020-02-08 · Post · Here's an interesting variation on the classic reentrancy vulnerability https://t.co/nZZjlBLvXK
+
+
+Tags (automatic): Smart contract / DeFi
+
+
+### Post — @samczsun — 2020-02-08 04:56 UTC (2020-02-08 05:56 WAT)
+
+- URL: https://x.com/samczsun/status/1226006782977413120
+- Metrics (at fetch): bookmark 8, impression 0, like 51, quote 2, reply 4, retweet 14
+
+> Here's an interesting variation on the classic reentrancy vulnerability https://t.co/nZZjlBLvXK
+
+
+---
+
+## 2019-10-18 · Post · https://t.co/v6yk5IkkFo
+
+
+### Post — @samczsun — 2019-10-18 04:25 UTC (2019-10-18 05:25 WAT)
+
+- URL: https://x.com/samczsun/status/1185049183520083968
+- Metrics (at fetch): bookmark 4, impression 0, like 47, quote 2, reply 1, retweet 6
+
+> https://t.co/v6yk5IkkFo
+>
+> Really great example of making lemonade out of lemons
+
+
+---
+
+## 2019-09-30 · Post · What do @ddexio2018 and @b0xNet have in common? https://t.co/JVDH7Mk1CE
+
+
+### Post — @samczsun — 2019-09-30 16:21 UTC (2019-09-30 17:21 WAT)
+
+- URL: https://x.com/samczsun/status/1178706510232186881
+- Metrics (at fetch): bookmark 5, impression 0, like 34, quote 1, reply 0, retweet 8
+
+> What do @ddexio2018 and @b0xNet have in common? https://t.co/JVDH7Mk1CE
+
+
+---
+
+## 2019-07-30 · Post · What happens when good intentions go bad? https://t.co/4q6quTCLOb
+
+
+### Post — @samczsun — 2019-07-30 02:46 UTC (2019-07-30 03:46 WAT)
+
+- URL: https://x.com/samczsun/status/1156033382142185472
+- Metrics (at fetch): bookmark 0, impression 0, like 24, quote 0, reply 0, retweet 3
+
+> What happens when good intentions go bad? https://t.co/4q6quTCLOb
+
+
+---
+
+## 2019-07-14 · Post · Curious how exactly the 0x vulnerability works? https://t.co/vtTaAwrATc
+
+
+### Post — @samczsun — 2019-07-14 02:35 UTC (2019-07-14 03:35 WAT)
+
+- URL: https://x.com/samczsun/status/1150232388800253952
+- Metrics (at fetch): bookmark 11, impression 0, like 88, quote 4, reply 2, retweet 30
+
+> Curious how exactly the 0x vulnerability works? https://t.co/vtTaAwrATc
+
+
+---
+
+## 2018-01-27 · Post · I love this feature of @Malwarebytes where they eat up all your RAM so the bad guys can't have any h
+
+
+### Post — @samczsun — 2018-01-27 17:34 UTC (2018-01-27 18:34 WAT)
+
+- URL: https://x.com/samczsun/status/957305812388589569
+- Metrics (at fetch): bookmark 0, impression 0, like 25, quote 0, reply 2, retweet 9
+
+> I love this feature of @Malwarebytes where they eat up all your RAM so the bad guys can't have any https://t.co/zUhD8V9kyp
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DUkIhsSV4AA35UG.jpg — no alt text provided by author
+
+
+---
+
+## 2018-01-03 · Post · €299 (or €699 for the "full" version!!!) for this thing called "ClassGuard" which just encrypts all 
+
+
+### Post — @samczsun — 2018-01-03 22:50 UTC (2018-01-03 23:50 WAT)
+
+- URL: https://x.com/samczsun/status/948688039467012097
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 0, reply 5, retweet 1
+
+> €299 (or €699 for the "full" version!!!) for this thing called "ClassGuard" which just encrypts all the classes with a hardcoded RSA&amp;AES key.
+>
+> "At the moment, no successful attempt on attacking real world applications is known." better update that FAQ https://t.co/NywUiG9Tio
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DSpqNnIUQAA8VKF.jpg — no alt text provided by author
+
+
+---
+
+## 2016-01-19 · Post · Does anyone have way to get in touch with @enjinCS? There's a serious security issue that needs to b
+
+
+### Post — @samczsun — 2016-01-19 13:41 UTC (2016-01-19 14:41 WAT)
+
+- URL: https://x.com/samczsun/status/689442579633451008
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 1, reply 1, retweet 0
+
+> Does anyone have way to get in touch with @enjinCS? There's a serious security issue that needs to be addressed.

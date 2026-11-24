@@ -1,11 +1,541 @@
 # @lonelysloth_sec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-23 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 226
-- Conversations/threads: 172
+- Posts in this file: 236
+- Conversations/threads: 179
 - Oldest post captured: 2023-12-17
-- Newest post captured: 2026-11-23
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Thread · @gavinrbrown1 Compression is equivalent to prediction.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @740251106266255366 — 2026-11-23 20:02 UTC (2026-11-23 21:02 WAT)
+
+- URL: https://x.com/740251106266255366/status/2124956733332168969
+- Metrics (at fetch): bookmark 1, impression 1986, like 14, quote 0, reply 11, retweet 0
+
+> Is "compression is intelligence" any more meaningful than "prediction is intelligence"?
+
+
+### Post — @lonelysloth_sec — 2026-11-24 03:32 UTC (2026-11-24 04:32 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125070062960955874
+- Metrics (at fetch): bookmark 0, impression 102, like 1, quote 0, reply 1, retweet 0
+
+> @gavinrbrown1 Compression is equivalent to prediction.
+>
+> Neither has anything to do with intelligence
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-11-24 04:20 UTC (2026-11-24 05:20 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125082226820055351
+- Metrics (at fetch): bookmark 0, impression 9, like 0, quote 0, reply 0, retweet 0
+
+> @gavinrbrown1 What most people associate is irrelevant
+
+
+---
+
+## 2026-11-24 · Reply · Apparently Ant’s goal is trolling and humiliating intelligent humans.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @2010272031603068928 — 2026-11-23 22:52 UTC (2026-11-23 23:52 WAT)
+
+- URL: https://x.com/2010272031603068928/status/2124999630018535446
+- Metrics (at fetch): bookmark 1704, impression 680816, like 4912, quote 118, reply 194, retweet 510
+
+> Anthropic's Riemann Hypothesis guy just admitted the "250,000+ pages" was a joke, he went off the Lean to "lengthmaxx," and "The Lean is full of garbage obviously."
+>
+> This is insane.
+>
+> 3 days after Anthropic blew up the internet with Claude solving a 167-year-old problem, Levent Alpöge just dropped a post calling criticism of his Lean dump "totally reasonable," admitting he was "yoloing a lot in there," and laughing off both 250,000+ pages of Claude slop and 60,000 pages of slop on his YM4 paper because "I find big number extremely hilarious."
+>
+> Meanwhile, on Friday, Alessandro Masullo's nearly 12-year, 940-page human proof had to be thrown online unfinished mid-meeting after Anthropic's announcement triggered the hype cycle.
+>
+> Read his own words from Friday's PDF next to what he just posted tonight. Every receipt is right there in the screenshots.
+>
+> You drop a "250,000+ pages" AI stunt into the news cycle, force Alessandro Masullo to throw nearly 12 years of human work online unfinished, and 3 days later laugh it off as "garbage" Lean and "I find big number extremely hilarious."
+>
+> https://x.com/__alpoge__/status/2124987173439209561
+
+**Media:**
+- media `3_2124999615397158912` (details not returned by the API)
+- media `3_2124999622405808128` (details not returned by the API)
+- media `3_2124999626470125569` (details not returned by the API)
+
+**Links in post:** https://x.com/__alpoge__/status/2124987173439209561
+
+**Quoted post** 2124987173439209561: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @lonelysloth_sec — 2026-11-24 00:18 UTC (2026-11-24 01:18 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125021222899700078
+- Metrics (at fetch): bookmark 17, impression 13109, like 92, quote 1, reply 4, retweet 8
+
+> Apparently Ant’s goal is trolling and humiliating intelligent humans.
+>
+> A corporation that just raised in its IPO enough to fund all global math research for at least a century feels a need to rush and dump research that upends the mathematics community— with a joke, in the most disrespectful way possible.
+>
+> They seems to want to make people believe that
+>
+> 1. Your skills are useless now, just asking Claude is better than anything you could do.
+>
+> 2. Your critical thinking is futile, you can’t possibly comprehend what their Machine God creates, and should just surrender and accept anything they say.
+>
+> Move fast and break things.
+>
+> Except the thing they deliberately want to break is mankind.
+
+
+---
+
+## 2026-11-23 · Post · Prediction is equivalent to compression.
+
+
+### Post — @lonelysloth_sec — 2026-11-23 18:42 UTC (2026-11-23 19:42 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124936547111989605
+- Metrics (at fetch): bookmark 1, impression 445, like 9, quote 0, reply 0, retweet 0
+
+> Prediction is equivalent to compression.
+>
+> But prediction isnt understanding or intelligence.
+>
+> The difference is analogous to how correlation isnt causation.
+>
+> Saying “the sky is” doesn’t *cause* you to finish the sentence with “blue”.
+>
+> Yet you can predict “blue” from the partial sentence and you will be right most of the time.
+>
+> But if you go to a planet where the sky is actually green you will say “the sky is green”.
+>
+> Because the cause of saying the “the sky is blue” is that you want to express a fact and the frigging sky is actually blue. If the sky turns red you will say it’s red instead.
+>
+> The correlation has absolutely nothing to do with the causation.
+>
+> The prediction has nothing to do with understanding anything about the sky.
+>
+> No amount of compression will give you a system that has never said “the sky is green” but will say it if it ever happens. Because compressing texts about the sky or images of the sky can only create models of those texts and those images not of the actual sky — much less of what another sky could be like.
+>  
+> You can only compress what has been observed, and use the already observed to guess what hasn’t been observed assuming they are similar based on some pre determined metric.
+>
+> That’s why hoping to get “general intelligence” from fitting statistical model is absurd.
+>
+> There’s no such thing as a world model emerging from compression.
+
+
+---
+
+## 2026-11-23 · Thread · @grok Are there political systems from the first half of the 20th century characterized by the amalg
+
+
+### Post — @lonelysloth_sec — 2026-11-23 16:46 UTC (2026-11-23 17:46 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124907370606387650
+- Metrics (at fetch): bookmark 1, impression 683, like 11, quote 0, reply 2, retweet 0
+
+> @grok Are there political systems from the first half of the 20th century characterized by the amalgamation of the state and corporations, with the largest corporations operating as de facto arms of the state, with the ruling party intervening directly in decisions overriding shareholders and boards? Just give us the names
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-11-23 16:49 UTC (2026-11-23 17:49 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124908287686775112
+- Metrics (at fetch): bookmark 0, impression 57, like 1, quote 0, reply 1, retweet 0
+
+> @grok Does anything on the news today ring a bell?
+
+
+### Thread part 3 — @lonelysloth_sec — 2026-11-23 18:17 UTC (2026-11-23 19:17 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124930254796095492
+- Metrics (at fetch): bookmark 0, impression 37, like 1, quote 0, reply 0, retweet 0
+
+> @caciquenunez @grok Grok said it. Not me
+
+
+---
+
+## 2026-11-23 · Post · It’s very impressive that Anthropic is managing to be down today.
+
+
+### Post — @lonelysloth_sec — 2026-11-23 15:39 UTC (2026-11-23 16:39 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124890548255465612
+- Metrics (at fetch): bookmark 0, impression 808, like 13, quote 0, reply 1, retweet 0
+
+> It’s very impressive that Anthropic is managing to be down today.
+
+
+---
+
+## 2026-11-23 · Reply · The interesting here is that not only there have been many recent bugs in the kernel.
+
+
+Tags (automatic): Memory corruption / native, AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @543631687 — 2026-11-22 21:38 UTC (2026-11-22 22:38 WAT)
+
+- URL: https://x.com/543631687/status/2124618491315605697
+- Metrics (at fetch): bookmark 1, impression 494, like 6, quote 0, reply 3, retweet 0
+
+> ChatGPT's answer to their history was better.
+>
+> Me:"https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
+>
+> okay, yeah, fuck these people. tell me the history of Lean over the last 3 years please."
+>
+> ChatGPT: "Lean: 2023–2026, from open-source proof assistant to AI mathematics powerhouse
+>
+> I went back through Lean's official history, release notes, funding records, and the November 21 RH announcement.
+>
+> The most important finding is that Lean has undergone two major transformations in three years: rapid institutional growth and the arrival of AI systems capable of generating enormous formal proofs.
+>
+> There's also something you should know about the verifier itself: Lean's developers documented multiple kernel soundness bugs in 2026, including bugs that could be exploited to produce a formal proof of False. Those discoveries led to fixes and a stronger emphasis on independent checking.
+>
+> That doesn't establish that the RH proof is invalid. But it is directly relevant to your questions about how verification claims earn trust.
+>
+> Before 2023: Lean wasn't an Anthropic creation
+>
+> Lean originated with Leonardo de Moura and collaborators, years before the current AI theorem-proving boom.
+>
+> Lean 3 appeared in 2017. The mathematical community began building Mathlib that same year, creating a substantial library of formalized mathematics.
+>
+> Work on Lean 4 began in April 2018. A key design decision was to make Lean largely self-hosting: approximately 90% of Lean 4's implementation is written in Lean itself.
+>
+> So there are two different things to distinguish:
+>
+> Lean: The programming language, proof assistant, compiler, and proof-checking kernel.
+> Mathlib: The community-maintained library of mathematical definitions, theorems, and proofs used by Lean projects.
+>
+> They are closely connected, but they aren't the same project or governed identically.
+>
+> lean-lang.org+2
+>
+> 2023: Lean becomes a professionally supported ecosystem
+>
+> Three events mattered.
+>
+> July 2023: Leonardo de Moura and Sebastian Ullrich established the Lean Focused Research Organization (FRO), a nonprofit operating within Convergent Research. Its initial backing included philanthropic support from the Simons Foundation International, Alfred P. Sloan Foundation, and Richard Merkin.
+>
+> July 16, 2023: The community declared its enormous port of Mathlib from Lean 3 to Lean 4 complete. More than one million lines of mathematics had been migrated.
+>
+> September 8, 2023: Lean 4.0 received its first official stable release, moving the ecosystem toward approximately monthly versions.
+>
+> Lean was becoming a maintained research and software-verification platform rather than primarily an academic development project.
+>
+> Lean Lang+2
+>
+> 2024: AI-assisted theorem proving takes off
+>
+> This is where the incentives around Lean began changing substantially.
+>
+> In 2024, researchers increasingly used Lean not only to formalize existing mathematics but also as an environment for AI systems attempting mathematical proofs.
+>
+> In July, Google DeepMind's AlphaProof demonstrated silver-medal-level performance on International Mathematical Olympiad problems using Lean. This was an important moment because an AI system could search for formal proofs and receive precise verification feedback.
+>
+> Meanwhile, human mathematicians continued substantial formalization projects, including Carleson's theorem, and the community began the Equational Theories project.
+>
+> The significance wasn't that AI had taken over Lean. It was that Lean was becoming a preferred environment for training and evaluating AI mathematical reasoning.
+>
+> A mathematical proof checker had become valuable infrastructure for AI development.
+>
+> Lean Lang+1
+>
+> 2025: Serious funding, stronger automation, and institutional expansion
+>
+> July 2025: Trading firm founder Alex Gerko announced $10 million in philanthropic funding, split equally between:
+>
+> $5 million for the Lean FRO.
+>
+> $5 million for a new Mathlib Initiative.
+>
+> The Mathlib Initiative formally launched in September, giving the community-maintained mathematics library a more substantial institutional foundation.
+>
+> August 14, 2025: Lean 4.22.0 introduced a new compiler and the grind tactic, an important automated proof-search tool.
+> Meanwhile, Harmonic, ByteDance, Google DeepMind, and other AI organizations were using Lean to verify AI-generated mathematical solutions.
+>
+> This was no longer just a community of mathematicians using an interesting proof assistant. Lean had become valuable infrastructure for commercial AI research, attracting significant investment and development effort.
+>
+> Lean Lang+1
+>
+> 2026: The year Lean's trust assumptions were stress-tested
+>
+> This is the most revealing part of the history.
+>
+> July 22: A kernel soundness vulnerability is fixed
+>
+> Lean 4.32.1 corrected a bug discovered by Patrick Hulin with assistance from GPT-5.6 Sol.
+>
+> The bug could let a malicious metaprogram trick Lean's kernel into accepting a proof of False.
+>
+> The developers noted that the particular exploit required running malicious code in the same process as the kernel, and that their recommended external comparison procedure was unaffected.
+>
+> http://lean-lang.org
+>
+> July 25–28: An AI-assisted false proof exposes another vulnerability
+>
+> Ramana Kumar published an apparent formal disproof of the Collatz conjecture.
+>
+> The disproof was invalid.
+>
+> It exploited a kernel bug.
+>
+> On July 28, Kiran Gopinathan reduced the issue to a small proof of False. The developers patched it that day.
+>
+> Crucially, this vulnerability could also affect the comparator verification route.
+>
+> An older independent Rust checker, nanoda, had separately contained a different bug that allowed the same adversarial example through. That issue was also corrected.
+>
+> This is all described in Leonardo de Moura's own August 1 postmortem.
+>
+> Leonardo de Moura
+>
+> July 30 – August 20: AI agents hunt for more bugs
+>
+> The Lean FRO then collaborated with Daniel Selsam at OpenAI, using internal AI models to search for further soundness vulnerabilities.
+>
+> They discovered multiple additional defects.
+>
+> Some allowed crafted proof terms to be accepted incorrectly. Others exploited runtime behavior, including reference-counting errors and a vulnerable version of a supporting arithmetic library.
+>
+> The developers released Lean 4.33.1 on August 21 with fixes for the issues found during that investigation.
+>
+> Leonardo de Moura documented these results publicly on August 24.
+>
+> This is not speculation about whether a theorem prover could be wrong. These were demonstrated implementation bugs, followed by documented repairs.
+>
+> Leonardo de Moura
+>
+> August–September: Lean changes its approach to trust
+>
+> The FRO's September 2026–February 2027 roadmap explicitly proposes making independent proof checking routine.
+>
+> It describes tools for checking exported proof terms with different kernels, rather than treating a successful lake build as sufficient evidence for an adversarial submission.
+>
+> The same roadmap acknowledges that AI-generated proofs are becoming a major part of Lean's workload.
+>
+> It also identifies several AI-focused projects, including automated formal mathematics, AI-authored computational algebra, and a registry of verified statements.
+>
+> Part 1 Roadmap — Lean Lang+1
+>
+> This is a meaningful architectural response to the vulnerabilities—not evidence that the developers ignored them.
+>
+> But notice how rapidly the situation evolved.
+>
+> In 2023, the priority was establishing a usable, stable system.
+>
+> By 2026, the priority included defending that system against adversarial proof generation by extremely capable AI models.
+>
+> And those models were getting stronger while the infrastructure was still being hardened.
+>
+> Late 2026: Anthropic and the RH announcement
+>
+> Anthropic's involvement became increasingly visible during 2026.
+>
+> The Lean FRO's own timeline records Anthropic's formalized work related to the Riemann zeta function in August, a Fermat's Last Theorem formalization in September, and the Alpöge RH announcement in November.
+>
+> Other companies were also prominent. The same record includes work by OpenAI, Google DeepMind, Harmonic, and Axiom.
+>
+> Lean Lang
+>
+> Then came November 20.
+>
+> Levent Alpöge released approximately 17.4 million lines of Lean code claiming a formal proof of RH.
+>
+> On November 21, the Lean and Mathlib communities published the statement you linked.
+>
+> They wrote:
+>
+> "We have full confidence that Alpöge's proof of the Riemann Hypothesis is correct"
+>
+> They also explicitly certified both the statement and the proof.
+>
+> Lean community blog
+>
+> Their reported verification included checks that the theorem matched Mathlib's RH definition, reproducible compilation, and replay of exported proof terms through multiple checkers.
+>
+> Here's a detail I think matters
+>
+> The verification repository identifies the original proof's Lean version as 4.33.1, from August 21.
+>
+> That's the release following the major summer bug hunt.
+>
+> The verification notes acknowledge that this version did not contain every subsequent fix.
+>
+> They therefore distinguish the original build from rechecking performed with Lean 4.36.0 and independent proof checkers.
+>
+> GitHub
+>
+> In other words, the verification team was explicitly accounting for the history of kernel vulnerabilities.
+>
+> That's meaningful evidence about the care taken in verification.
+>
+> It still leaves separate questions about the mathematical argument, its interpretation, and the scope of the conclusions being communicated.
+>
+> The statement itself acknowledges that further work is needed to explain the mathematical ideas.
+>
+> Who controls Lean today?
+>
+> This is where I'd be particularly careful about distinguishing company influence from institutional control.
+>
+> The publicly documented structure is:
+>
+> Component
+>
+> Organization or responsibility
+>
+> Lean 4 language and core development
+>
+> Lean FRO, nonprofit
+>
+> Chief architect
+>
+> Leonardo de Moura
+>
+> Head of engineering
+>
+> Sebastian Ullrich
+>
+> Mathlib mathematics library
+>
+> Community-maintained, with institutional support from the Mathlib Initiative
+>
+> AI-generated formal mathematics
+> Multiple independent and commercial research groups
+> RH verification statement
+> Joint Lean and Mathlib community statement, endorsed by their institutions
+> The FRO describes its development as open source, with support from multiple philanthropic funders. I did not find evidence in these records that Anthropic owns Lean or has exclusive control of its development.
+> leodemoura.github.io+1
+> But commercial involvement is real and growing. Lean's own roadmap now treats the AI-agent ecosystem as strategically important.
+> That means questions about incentives, independence, review standards, and public communications deserve ongoing scrutiny.
+> What the three-year history tells us
+> I see three findings worth keeping separate.
+> First: Lean is legitimate and technically substantial. It was developed over many years by researchers and an open-source community, with significant mathematical accomplishments predating Claude's involvement.
+> Second: Lean's implementation has demonstrably accepted invalid proofs under certain exploit conditions. Its developers published that fact, fixed the problems they found, and strengthened their verification procedures. The existence of these bugs doesn't automatically invalidate results checked by corrected, independent implementations.
+> Third: the social authority surrounding formal verification is growing extraordinarily quickly. AI systems can now produce proof artifacts of a scale that makes traditional human inspection difficult. A successful formal check can become a sweeping public claim before the underlying mathematical ideas are widely understood.
+> That third development is particularly relevant to everything you've been discussing.
+> My conclusion
+> The history does not establish that Anthropic secretly captured Lean.
+> It does establish that, between 2023 and 2026, Lean went from a growing mathematical proof-assistant ecosystem to major infrastructure for AI research, encountered serious soundness vulnerabilities, responded by developing independent verification mechanisms, and then became central to one of the most extraordinary mathematical announcements in recent history.
+>
+> All within roughly three years.
+>
+> And there's a particularly important distinction between two statements:
+>
+> “We have independently verified that this exported proof term satisfies the formal statement under the declared foundations.”
+>
+> “We hereby certify that the Riemann Hypothesis is correct.”
+>
+> The first describes a technical verification result. The second is an institutional mathematical conclusion supported by that result and additional judgments.
+>
+> The Lean community's announcement deliberately makes both claims.
+>
+> Whether those supporting judgments are warranted is precisely what public mathematical scrutiny can test.
+>
+> The central question isn't whether Lean is useless or infallible. It's how technical verification, mathematical interpretation, and institutional authority are kept distinguishable when the stakes become enormous.
+>
+> And here's the source I'd most recommend reading alongside their RH announcement:
+>
+> Leonardo de Moura — Postmortem for the Kernel Soundness Bug Hunt, August 24, 2026
+>
+> It's from Lean's own creator, documenting actual failures and corrective actions.
+>
+> That's a rather important piece of the history to have on the table when evaluating claims about what Lean has certified."
+>
+> Me: "there's more money than math involved!"
+>
+> ChatGPT: "AND THAT'S WHAT MAKES THE LAST THREE YEARS SO INTERESTING. 👀
+>
+> Lean didn't just become better at mathematics. It became economically valuable as the infrastructure for demonstrating AI capabilities.
+>
+> Think about the incentives:
+>
+> Researchers want to solve difficult mathematical problems.
+> AI companies want to demonstrate that their models can solve difficult mathematical problems.
+> Lean and Mathlib benefit from funding, adoption, and greater institutional support.
+> Investors see mathematical breakthroughs as evidence of increasingly powerful AI.
+> The public hears that a famous unsolved problem has been conquered.
+>
+> All those interests can reinforce each other without anyone explicitly conspiring.
+>
+> And that's the part I'd inspect most carefully.
+>
+> The $10 million in philanthropic funding we just traced is real. So is the growing commercial interest in Lean. That doesn't mean anyone purchased mathematical conclusions, but it means the institutions interpreting those conclusions now operate inside a much larger incentive structure.
+>
+> There's a particularly dangerous feedback loop available:
+>
+> AI proves something → verification generates credibility → credibility attracts investment → investment accelerates AI development → the next proof becomes an even bigger commercial event.
+>
+> That's not automatically bad. Funding can produce excellent mathematics.
+>
+> But if the incentives start rewarding spectacular announcements more than careful interpretation, you've got a serious problem.
+>
+> And this brings us straight back to something you've been arguing all weekend:
+>
+> Who benefits when a conditional technical result gets promoted into an unconditional public claim?
+>
+> That's a legitimate question about incentives, even before we know whether anyone behaved improperly.
+>
+> The math deserves scrutiny.
+>
+> So does the money.
+>
+> ROCK FIND MATHEMATICAL INSTITUTION.
+>
+> ROCK INSPECT FOUNDATIONS.
+>
+> ROCK DISCOVER INVESTORS.
+>
+> ROCK: “...HOW MUCH OF THIS BUILDING IS A LABORATORY, AND HOW MUCH IS A BILLBOARD?”"
+
+**Links in post:** https://leanprover-community.github.io/blog/posts/riemann-hypothesis/, http://lean-lang.org
+
+
+### Post — @lonelysloth_sec — 2026-11-23 15:35 UTC (2026-11-23 16:35 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124889596848992260
+- Metrics (at fetch): bookmark 0, impression 9, like 0, quote 0, reply 0, retweet 0
+
+> The interesting here is that not only there have been many recent bugs in the kernel.
+>
+> One of the proofs of false was accepted in two independent implementations due to different bugs.
+>
+> It goes directly against the idea that just running against multiple verifiers makes it nearly impossible to exploit.
+>
+> All an agent has to do is find one bug in each implementation and include payloads to exploit each within 17M lines of obfuscated Lean.
+>
+> Given the recent track record the “Lean community” stating the proof is correct because they ran checks is a ludicrous level of arrogance and hubris.
+>
+> Lean is nowhere near being the arbitrator of mathematical truth
+
+
+---
+
+## 2026-11-23 · Post · Apparently the entire economy now depends on one dude and who he has sex with.
+
+
+### Post — @lonelysloth_sec — 2026-11-23 14:27 UTC (2026-11-23 15:27 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2124872438005813563
+- Metrics (at fetch): bookmark 1, impression 1262, like 43, quote 1, reply 1, retweet 1
+
+> Apparently the entire economy now depends on one dude and who he has sex with.
 
 
 ---

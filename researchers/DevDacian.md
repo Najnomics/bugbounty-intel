@@ -55,3 +55,7 @@ _Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim post
 ### Update 2026-11-21
 
 - **Rejection-auditor agent for AI auditing** — https://x.com/DevDacian/status/2123789113660768415 — Opus 5.5 High lost recall via incorrect rejections; a cross-model review agent over logged rejections fixed it; gpt-6.1-sol high best price-performance reviewer; one frame per agent. [`posts/DevDacian/2026-11-20-2123789113660768415.md`](../posts/DevDacian/2026-11-20-2123789113660768415.md).
+
+## 2026-11-23 — Automatic refusal failover for audit agents
+- Fewer refusals on sol-6.1 than sol-6.2; opus-5.5 implemented failover: on safety refusal, retry automatically on sol-6 with Daybreak enabled — "working pretty well". Also: Cyfrin running 7 private audits in parallel with 19 auditors ([x.com](https://x.com/DevDacian/status/2124833996861497460)).
+- **Local:** [posts/DevDacian/2026-11-23-2124816890258452673.md](../posts/DevDacian/2026-11-23-2124816890258452673.md)
