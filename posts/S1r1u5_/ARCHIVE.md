@@ -1,11 +1,69 @@
 # @S1r1u5_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 555
-- Conversations/threads: 423
+- Posts in this file: 557
+- Conversations/threads: 425
 - Oldest post captured: 2017-02-26
-- Newest post captured: 2026-11-24
+- Newest post captured: 2026-11-25
+
+
+---
+
+## 2026-11-25 · Reply · @hlntnr great work! curious to see how things go from here. this month unusually looked eventful(not
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2907985939 — 2026-11-23 22:26 UTC (2026-11-23 23:26 WAT)
+
+- URL: https://x.com/2907985939/status/2124993076603256884
+- Metrics (at fetch): bookmark 111, impression 31307, like 280, quote 11, reply 13, retweet 61
+
+> This is not very vibe compliant, but we have a new post out today looking at what data on *impacts* of cyber attacks tells us about whether the cyber-pocalypse is here.
+>
+> TLDR: not yet?
+>
+> May just be lagging data, or slow adoption of AI tools by cyber attackers. But another https://t.co/3MjNNzTnHd
+
+**Media:**
+- media `3_2124992862529966080` (details not returned by the API)
+- media `3_2124993007833186304` (details not returned by the API)
+- media `3_2124993007871021056` (details not returned by the API)
+- media `3_2124993007858425856` (details not returned by the API)
+
+
+### Post — @S1r1u5_ — 2026-11-25 04:15 UTC (2026-11-25 05:15 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2125443149543989489
+- Metrics (at fetch): bookmark 0, impression 87, like 0, quote 0, reply 0, retweet 0
+
+> @hlntnr great work! curious to see how things go from here. this month unusually looked eventful(not just publicly reported ones), seems might be a beginning of a trend.
+
+
+---
+
+## 2026-11-24 · Post · need to get hands on neon cyber! https://t.co/CkCa7wUcLm
+
+
+### Post — @S1r1u5_ — 2026-11-24 20:03 UTC (2026-11-24 21:03 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2125319427784892667
+- Metrics (at fetch): bookmark 4, impression 2638, like 28, quote 0, reply 5, retweet 0
+
+> need to get hands on neon cyber! https://t.co/CkCa7wUcLm
+
+**Quoted post (full text):**
+
+    #### Quoted post — @821092604821536768 — 2026-11-24 17:27 UTC (2026-11-24 18:27 WAT)
+    
+    - URL: https://x.com/821092604821536768/status/2125280062417326556
+    - Metrics (at fetch): bookmark 15, impression 12929, like 300, quote 2, reply 15, retweet 2
+    
+    > never giving up is a pretty solid strat https://t.co/HgSAy2fNAP
+    
+    **Quoted post** 2124997379191652787: not readable via the API (deleted, private, or withheld).
+    
 
 
 ---
@@ -2184,7 +2242,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2026-09-19 05:26 UTC (2026-09-19 06:26 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2101180990073004278
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 298, impression 108394, like 983, quote 18, reply 38, retweet 73
     
     > I want to be very clear about this. 
     >
@@ -2213,7 +2271,7 @@ Tags (automatic): AI-assisted hunting
         #### Quoted post — @2029271146445848578 — 2026-09-18 21:37 UTC (2026-09-18 22:37 WAT)
         
         - URL: https://x.com/2029271146445848578/status/2101063028489994749
-        - Metrics (at fetch): not returned
+        - Metrics (at fetch): bookmark 317, impression 167905, like 915, quote 16, reply 14, retweet 60
         
         > Hacktron founder @S1r1u5_ argues OpenAI is running a “Manhattan Project” on Slack and GitHub, giving it the same basic attack surface as any startup:
         >
@@ -3175,7 +3233,7 @@ Tags (automatic): Dependency confusion / supply chain, Platform: HackerOne
 ### Post — @S1r1u5_ — 2026-09-27 11:11 UTC (2026-09-27 12:11 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2104167058153906623
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 14, impression 8323, like 60, quote 0, reply 6, retweet 0
 
 > they should have let the run continue and see what the model could actually pull off, and pull the plug if it started going into hugging face like waters.
 >
@@ -3192,7 +3250,7 @@ Tags (automatic): Dependency confusion / supply chain, Platform: HackerOne
     #### Quoted post — @S1r1u5_ — 2026-09-26 08:28 UTC (2026-09-26 09:28 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2103763527735418985
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 207, impression 43558, like 346, quote 4, reply 17, retweet 19
     
     > btw, the bug isn’t crazy. if i am not wrong, it’s basically something like:
     >
@@ -3214,7 +3272,7 @@ Tags (automatic): Dependency confusion / supply chain, Platform: HackerOne
         #### Quoted post — @871354083151667200 — 2026-09-26 02:30 UTC (2026-09-26 03:30 WAT)
         
         - URL: https://x.com/871354083151667200/status/2103673419888013649
-        - Metrics (at fetch): not returned
+        - Metrics (at fetch): bookmark 556, impression 664738, like 2171, quote 176, reply 242, retweet 197
         
         > one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest model found a new loophole in our RL sandboxing that gave it live Internet access [pic.x.com/9q26Ku6LMd]
         
@@ -3232,7 +3290,7 @@ Tags (automatic): Dependency confusion / supply chain, Platform: HackerOne
 ### Post — @S1r1u5_ — 2026-09-27 11:09 UTC (2026-09-27 12:09 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2104166635237941255
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 379, like 1, quote 0, reply 0, retweet 0
 
 > they should have let the run continue and see what the model could actually pull off, and pull the plug if it started going into hugging face-like waters.
 >
@@ -3245,7 +3303,7 @@ Tags (automatic): Dependency confusion / supply chain, Platform: HackerOne
     #### Quoted post — @S1r1u5_ — 2026-09-26 08:28 UTC (2026-09-26 09:28 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2103763527735418985
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 207, impression 43558, like 346, quote 4, reply 17, retweet 19
     
     > btw, the bug isn’t crazy. if i am not wrong, it’s basically something like:
     >
@@ -3267,7 +3325,7 @@ Tags (automatic): Dependency confusion / supply chain, Platform: HackerOne
         #### Quoted post — @871354083151667200 — 2026-09-26 02:30 UTC (2026-09-26 03:30 WAT)
         
         - URL: https://x.com/871354083151667200/status/2103673419888013649
-        - Metrics (at fetch): not returned
+        - Metrics (at fetch): bookmark 556, impression 664738, like 2171, quote 176, reply 242, retweet 197
         
         > one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest model found a new loophole in our RL sandboxing that gave it live Internet access [pic.x.com/9q26Ku6LMd]
         
@@ -3288,7 +3346,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-26 23:28 UTC (2026-09-27 00:28 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2103990017291145447
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 90, impression 22064, like 355, quote 0, reply 13, retweet 13
 
 > don't sleep on understanding and learning. the operator still matters.
 >
@@ -3303,7 +3361,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @HacktronAI — 2026-09-26 15:35 UTC (2026-09-26 16:35 WAT)
     
     - URL: https://x.com/HacktronAI/status/2103871137427947724
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 40, impression 63980, like 457, quote 9, reply 15, retweet 8
     
     > [pic.x.com/UN989Zwx8m]
     
@@ -3323,7 +3381,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 ### Post — @S1r1u5_ — 2026-09-26 12:07 UTC (2026-09-26 13:07 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2103818661035466942
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 71, impression 14030, like 112, quote 0, reply 9, retweet 3
 
 > fun experiment: hackerone and bugcrowd should run a local classifier over their entire report corpus and see how many people were actually weaponizing memory corruption bugs on real bug bounty targets, like we did with http://heif-heist.com.
 >
@@ -3338,7 +3396,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
     #### Quoted post — @S1r1u5_ — 2026-09-26 11:57 UTC (2026-09-26 12:57 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2103816207896134029
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 273, impression 41192, like 320, quote 1, reply 8, retweet 29
     
     > i only know like 2-3 people who used to take memory corruption bugs and weaponize them against bug bounty targets. a lot of people were doing exploit dev, but not really for bug bounties. our research is broadly to publish about v8 and its dangerous by attacking real apps. 
     >
@@ -3368,7 +3426,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
         #### Quoted post — @14279598 — 2026-09-25 20:36 UTC (2026-09-25 21:36 WAT)
         
         - URL: https://x.com/14279598/status/2103584561586385072
-        - Metrics (at fetch): not returned
+        - Metrics (at fetch): bookmark 100, impression 70396, like 261, quote 7, reply 26, retweet 26
         
         > I really don't think people are understanding the @HacktronAI HEIF Heist moment properly.
         >
@@ -3390,7 +3448,7 @@ Tags (automatic): XSS, SSRF, RCE, Platform: HackerOne
 ### Post — @S1r1u5_ — 2026-09-26 11:57 UTC (2026-09-26 12:57 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2103816207896134029
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 273, impression 41192, like 320, quote 1, reply 8, retweet 29
 
 > i only know like 2-3 people who used to take memory corruption bugs and weaponize them against bug bounty targets. a lot of people were doing exploit dev, but not really for bug bounties. our research is broadly to publish about v8 and its dangerous by attacking real apps. 
 >
@@ -3420,7 +3478,7 @@ Tags (automatic): XSS, SSRF, RCE, Platform: HackerOne
     #### Quoted post — @14279598 — 2026-09-25 20:36 UTC (2026-09-25 21:36 WAT)
     
     - URL: https://x.com/14279598/status/2103584561586385072
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 100, impression 70396, like 261, quote 7, reply 26, retweet 26
     
     > I really don't think people are understanding the @HacktronAI HEIF Heist moment properly.
     >
@@ -3441,7 +3499,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-26 08:28 UTC (2026-09-26 09:28 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2103763527735418985
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 207, impression 43558, like 346, quote 4, reply 17, retweet 19
 
 > btw, the bug isn’t crazy. if i am not wrong, it’s basically something like:
 >
@@ -3463,7 +3521,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @871354083151667200 — 2026-09-26 02:30 UTC (2026-09-26 03:30 WAT)
     
     - URL: https://x.com/871354083151667200/status/2103673419888013649
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 556, impression 664738, like 2171, quote 176, reply 242, retweet 197
     
     > one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest model found a new loophole in our RL sandboxing that gave it live Internet access [pic.x.com/9q26Ku6LMd]
     
@@ -3483,7 +3541,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @S1r1u5_ — 2026-09-25 10:14 UTC (2026-09-25 11:14 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2103427849747149169
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 95, impression 22099, like 227, quote 0, reply 2, retweet 13
 
 > this is a very cool bug!
 >
@@ -3498,7 +3556,7 @@ Tags (automatic): Memory corruption / native
     #### Quoted post — @223526901 — 2026-09-24 15:03 UTC (2026-09-24 16:03 WAT)
     
     - URL: https://x.com/223526901/status/2103138149329231932
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 410, impression 138735, like 806, quote 24, reply 35, retweet 90
     
     > Our craziest escape yet:
     >
@@ -3530,7 +3588,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-24 20:06 UTC (2026-09-24 21:06 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2103214607473221849
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 400, impression 58442, like 856, quote 2, reply 25, retweet 28
 
 > let’s go!!!!
 >
@@ -3545,7 +3603,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @3177957894 — 2026-09-24 19:52 UTC (2026-09-24 20:52 WAT)
     
     - URL: https://x.com/3177957894/status/2103210894151086187
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 2216, impression 534111, like 4940, quote 33, reply 107, retweet 209
     
     > Dont be sleeping on Heif Heist! Meta paid 100k for my RCE on FB/Instagram!
     >
@@ -3569,7 +3627,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-24 20:05 UTC (2026-09-24 21:05 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2103214192660754437
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 393, like 3, quote 0, reply 0, retweet 0
 
 > let’s go!!!!
 >
@@ -3584,7 +3642,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @3177957894 — 2026-09-24 19:52 UTC (2026-09-24 20:52 WAT)
     
     - URL: https://x.com/3177957894/status/2103210894151086187
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 2216, impression 534111, like 4940, quote 33, reply 107, retweet 209
     
     > Dont be sleeping on Heif Heist! Meta paid 100k for my RCE on FB/Instagram!
     >
@@ -3608,7 +3666,7 @@ Tags (automatic): XSS, SQL injection
 ### Post — @S1r1u5_ — 2026-09-24 10:50 UTC (2026-09-24 11:50 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2103074482726322316
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 14, impression 10881, like 50, quote 1, reply 2, retweet 0
 
 > feels a bit sensationalized. i wouldn’t really call these hacks or exploits.
 >
@@ -3621,7 +3679,7 @@ Tags (automatic): XSS, SQL injection
     #### Quoted post — @1844990000754196482 — 2026-09-24 02:42 UTC (2026-09-24 03:42 WAT)
     
     - URL: https://x.com/1844990000754196482/status/2102951668791013453
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 43, impression 49780, like 261, quote 12, reply 4, retweet 17
     
     > Interestingly, the agents use exploits to complete what appears to be routine data retrieval tasks that are not cyber-related (for instance, searching for the average cost of skin and hair treatments in Australia).
     
@@ -3635,7 +3693,7 @@ Tags (automatic): XSS, SQL injection
 ### Post — @S1r1u5_ — 2026-09-22 18:39 UTC (2026-09-22 19:39 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2102467878423592969
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 128, impression 29826, like 552, quote 3, reply 30, retweet 22
 
 > our next  blog, probably the most impactful bug we’ve ever found.
 >
@@ -3653,7 +3711,7 @@ Tags (automatic): XSS, SQL injection
 ### Post — @S1r1u5_ — 2026-09-22 18:08 UTC (2026-09-22 19:08 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2102460133574054168
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 4, impression 6216, like 20, quote 1, reply 2, retweet 1
 
 > our next “on M, DD, YYYY” drop, from two of the random guys, is probably the most impactful bug we’ve ever found.
 >
@@ -3684,7 +3742,7 @@ Tags (automatic): XSS, SQL injection
     #### Quoted post — @S1r1u5_ — 2026-09-18 09:29 UTC (2026-09-18 10:29 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2100879819282301434
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 1425, impression 182640, like 2080, quote 27, reply 69, retweet 236
     
     > "3 random dudes”
     >
@@ -3757,7 +3815,7 @@ Tags (automatic): RCE, Blockchain / L1-L2 / bridge, Memory corruption / native
 ### Post — @S1r1u5_ — 2026-09-21 03:58 UTC (2026-09-21 04:58 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2101883640804184316
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 85, impression 18810, like 286, quote 3, reply 5, retweet 14
 
 > fwiw, i’m going to stop talking about the openai thing. we made our points pretty clearly, one final note.
 >
@@ -3808,7 +3866,7 @@ Tags (automatic): SSRF, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-20 21:03 UTC (2026-09-20 22:03 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2101779403596595486
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 102, impression 29155, like 228, quote 1, reply 12, retweet 12
 
 > i am begging people to please read the blog.
 >
@@ -3825,7 +3883,7 @@ Tags (automatic): SSRF, AI-assisted hunting
     #### Quoted post — @41603960 — 2026-09-20 20:23 UTC (2026-09-20 21:23 WAT)
     
     - URL: https://x.com/41603960/status/2101769320628211810
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 4, impression 28375, like 17, quote 2, reply 5, retweet 0
     
     > @iangcarroll @HackingLZ The Discourse platform is probably in scope (although whether they pay for OSS is arguable). The pivot into GitHub and pulling a real PR is absolutely out of scope and clearly an attempt to create more pressure for payment. These guys are lucky the OAI team is being chill.
     
@@ -3839,7 +3897,7 @@ Tags (automatic): SSRF, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-20 20:25 UTC (2026-09-20 21:25 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2101769672333066673
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 36, impression 20925, like 198, quote 2, reply 8, retweet 15
 
 > btw, this is exactly why the openai disclosure felt threatening to us.
 >
@@ -3864,7 +3922,7 @@ Tags (automatic): SSRF, AI-assisted hunting
     #### Quoted post — @41603960 — 2026-09-20 18:56 UTC (2026-09-20 19:56 WAT)
     
     - URL: https://x.com/41603960/status/2101747329699402198
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 86, impression 88409, like 161, quote 3, reply 12, retweet 17
     
     > This is unpopular but correct. Modern bug bounty participants have gotten spoiled by super chill responses to CFAA violations (like this one) and the whole edifice is a house of cards. Wanna know why OpenAI asked for detailed logs? Google “Sullivan + Misprision of a Felony” https://twitter.com/TalBeerySec/status/2101560506242761097
     
@@ -3875,7 +3933,7 @@ Tags (automatic): SSRF, AI-assisted hunting
         #### Quoted post — @2470499646 — 2026-09-20 06:34 UTC (2026-09-20 07:34 WAT)
         
         - URL: https://x.com/2470499646/status/2101560506242761097
-        - Metrics (at fetch): not returned
+        - Metrics (at fetch): bookmark 38, impression 160450, like 119, quote 12, reply 19, retweet 6
         
         > 1/ Unpopular opinion: When you find a 0-day in a public service, you do RD (Responsible Disclosure), not LM (Lateral Movement).
         > The GitHub PR in the @OpenAI repo was a bridge too far (IMHO) [pic.x.com/mw09wFCh3t] https://twitter.com/S1r1u5_/status/2101296199261429813
@@ -3901,7 +3959,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-20 10:30 UTC (2026-09-20 11:30 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2101619967913521431
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 67, impression 48176, like 257, quote 5, reply 13, retweet 17
 
 > i’m tempted to dismiss takes like this as coming from people who haven’t spent much time actually doing vulnerability research or submitting through VDPs, but that’s too harsh. few experienced researchers can reasonably disagree with us.
 >
@@ -3918,7 +3976,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @2470499646 — 2026-09-20 06:34 UTC (2026-09-20 07:34 WAT)
     
     - URL: https://x.com/2470499646/status/2101560506242761097
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 38, impression 160450, like 119, quote 12, reply 19, retweet 6
     
     > 1/ Unpopular opinion: When you find a 0-day in a public service, you do RD (Responsible Disclosure), not LM (Lateral Movement).
     > The GitHub PR in the @OpenAI repo was a bridge too far (IMHO) [pic.x.com/mw09wFCh3t] https://twitter.com/S1r1u5_/status/2101296199261429813
@@ -3957,7 +4015,7 @@ Tags (automatic): XSS, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-19 05:26 UTC (2026-09-19 06:26 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2101180990073004278
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 298, impression 108394, like 983, quote 18, reply 38, retweet 73
 
 > I want to be very clear about this. 
 >
@@ -3986,7 +4044,7 @@ Tags (automatic): XSS, AI-assisted hunting
     #### Quoted post — @2029271146445848578 — 2026-09-18 21:37 UTC (2026-09-18 22:37 WAT)
     
     - URL: https://x.com/2029271146445848578/status/2101063028489994749
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 317, impression 167905, like 915, quote 16, reply 14, retweet 60
     
     > Hacktron founder @S1r1u5_ argues OpenAI is running a “Manhattan Project” on Slack and GitHub, giving it the same basic attack surface as any startup:
     >
@@ -4057,7 +4115,7 @@ Tags (automatic): RCE, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-18 09:29 UTC (2026-09-18 10:29 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2100879819282301434
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1425, impression 182640, like 2080, quote 27, reply 69, retweet 236
 
 > "3 random dudes”
 >
@@ -4129,7 +4187,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-18 02:43 UTC (2026-09-18 03:43 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2100777801335095383
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 6095, impression 2829431, like 11755, quote 547, reply 351, retweet 1376
 
 > On July 25, we hacked OpenAI.
 >
@@ -4152,7 +4210,7 @@ Tags (automatic): XSS, Account takeover, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-17 14:35 UTC (2026-09-17 15:35 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2100594456458297788
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 64, impression 18895, like 181, quote 1, reply 5, retweet 11
 
 > i think this is very under-discussed. shouting my lungs out,
 >
@@ -4181,7 +4239,7 @@ Tags (automatic): XSS, Account takeover, AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2026-09-16 04:44 UTC (2026-09-16 05:44 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2100083457762406499
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 8, impression 21107, like 41, quote 1, reply 1, retweet 4
     
     > people are talking about formal verifying the software while we are going backwards in connecting everything to agent that runs in a browser opening up huge attack surface and pivots to slack, github, mail, you name it.
     
@@ -4198,7 +4256,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-16 04:44 UTC (2026-09-16 05:44 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2100083457762406499
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 8, impression 21107, like 41, quote 1, reply 1, retweet 4
 
 > people are talking about formal verifying the software while we are going backwards in connecting everything to agent that runs in a browser opening up huge attack surface and pivots to slack, github, mail, you name it.
 
@@ -4236,7 +4294,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-14 19:25 UTC (2026-09-14 20:25 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2099580231871062189
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 60, impression 20359, like 155, quote 1, reply 6, retweet 13
 
 > this was me few years back, the pain of approaching a new target and writing an n-day exploit used to be a lot. i would spend days just understanding all the new things the target had implemented(like the v8 sandbox, windows exp here)then more days figuring out everything else and improvising around it.
 >
@@ -4254,7 +4312,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2026-09-13 16:14 UTC (2026-09-13 17:14 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2099169888250253375
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 31, impression 30605, like 96, quote 1, reply 9, retweet 6
     
     > security through complexity is dead.
     >
@@ -4275,7 +4333,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-14 19:24 UTC (2026-09-14 20:24 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2099580109309272171
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 162, like 0, quote 0, reply 0, retweet 0
 
 > this was me in few years back, the pain of approaching a new target and writing an n-day exploit used to be a lot. i would spend days just understanding all the new things the target had implemented(like the v8 sandbox, windows exp here)then more days figuring out everything else and improvising around it.
 >
@@ -4293,7 +4351,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2026-09-13 16:14 UTC (2026-09-13 17:14 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2099169888250253375
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 31, impression 30605, like 96, quote 1, reply 9, retweet 6
     
     > security through complexity is dead.
     >
@@ -4314,7 +4372,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-13 16:14 UTC (2026-09-13 17:14 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2099169888250253375
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 31, impression 30605, like 96, quote 1, reply 9, retweet 6
 
 > security through complexity is dead.
 >
@@ -4337,7 +4395,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-09 09:27 UTC (2026-09-09 10:27 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2097617800068014243
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 60, impression 17629, like 117, quote 1, reply 1, retweet 5
 
 > this is probably the first personal agent released with this much attention to security, unlike most of the others.
 >
@@ -4352,7 +4410,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @615818451 — 2026-09-08 19:36 UTC (2026-09-08 20:36 WAT)
     
     - URL: https://x.com/615818451/status/2097408703716803052
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 519, impression 81280, like 899, quote 10, reply 30, retweet 56
     
     > @suchenzang we are offering bug bounties of up to $300k if you manage to exploit Muse. bug bounty program is here https://bugbounty.meta.com/ and more details about our approach to making Muse secure are here https://security.muse.ai
     
@@ -4368,7 +4426,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-08 04:39 UTC (2026-09-08 05:39 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2097183051507982393
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 2555, like 21, quote 0, reply 1, retweet 0
 
 > model: i have the exploit and the flag.
 >
@@ -4395,7 +4453,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-06 05:24 UTC (2026-09-06 06:24 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2096469673168769314
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 10, impression 9018, like 45, quote 1, reply 10, retweet 5
 
 > "more cves doesn't mean more exploitable bugs" is a silly argument, even if you can't write a working exploit for all those silly cves that some ai security companies farming, there is still lots of exploitable bugs than before, yet nothing substantial happened with this risk.
 >
@@ -4408,7 +4466,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @64844802 — 2026-09-05 21:45 UTC (2026-09-05 22:45 WAT)
     
     - URL: https://x.com/64844802/status/2096353938174050314
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 1276, impression 1007125, like 2174, quote 215, reply 195, retweet 415
     
     > Cyber is having a moment
     >
@@ -4437,7 +4495,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @S1r1u5_ — 2026-09-06 02:23 UTC (2026-09-06 03:23 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2096423904395080091
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 12, impression 10118, like 69, quote 2, reply 9, retweet 2
 
 > it seems to me that the cost of exploit dev will be cheaper than social engineering
 >
@@ -4472,7 +4530,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-02 20:15 UTC (2026-09-02 21:15 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2095244160811110850
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 15, impression 5565, like 63, quote 0, reply 6, retweet 4
 
 > don't trust a dev to reason about complex software to keep it vulnerability free. this might sound a bit weird, but hear me out.
 >
@@ -4519,7 +4577,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-01 19:30 UTC (2026-09-01 20:30 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2094870502141771886
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 15, impression 9226, like 101, quote 0, reply 4, retweet 11
 
 > like, this one dude, the vp of security or something, set up a call just to intimidate us, threaten us with legal action for disclosing a bug, and tell us to completely stop reviewing their product.
 >
@@ -4538,7 +4596,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2026-09-01 18:54 UTC (2026-09-01 19:54 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2094861372828127729
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 48, impression 94432, like 525, quote 8, reply 16, retweet 40
     
     > i hate security disclosure so much. the number of companies that take our work for granted is insane. how about you talk to us collaboratively from the start instead of being asinine about it?
     >
@@ -4554,7 +4612,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-01 19:11 UTC (2026-09-01 20:11 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2094865819893366925
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 1134, like 10, quote 0, reply 2, retweet 1
 
 > like, this one dude, the vp of security or something, set up a call just to intimidate us, threaten us with legal action for disclosing a bug, and tell us to completely stop reviewing their product.
 >
@@ -4571,7 +4629,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2026-09-01 18:54 UTC (2026-09-01 19:54 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2094861372828127729
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 48, impression 94432, like 525, quote 8, reply 16, retweet 40
     
     > i hate security disclosure so much. the number of companies that take our work for granted is insane. how about you talk to us collaboratively from the start instead of being asinine about it?
     >
@@ -4587,7 +4645,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-09-01 18:54 UTC (2026-09-01 19:54 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2094861372828127729
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 48, impression 94432, like 525, quote 8, reply 16, retweet 40
 
 > i hate security disclosure so much. the number of companies that take our work for granted is insane. how about you talk to us collaboratively from the start instead of being asinine about it?
 >
@@ -4605,7 +4663,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-31 06:11 UTC (2026-08-31 07:11 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2094307023152398707
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 13, impression 7429, like 40, quote 3, reply 1, retweet 2
 
 > this is the right framing. the capabilities are genuinely crazy. i don’t think any single human could have pulled off both the hugging face chain and the openai internal compromise within that timeframe. it probably would have required a large, highly skilled team. in that sense, this is clearly superhuman hacking capability, and we need to figure out how to defend against attacks like this.
 >
@@ -4636,7 +4694,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @221378940 — 2026-08-30 23:38 UTC (2026-08-31 00:38 WAT)
     
     - URL: https://x.com/221378940/status/2094208251688595676
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 30, impression 17011, like 276, quote 5, reply 15, retweet 16
     
     > What you'd think people would talk about: "Autonomous agent swarm committed felony and hacked internal infrastructure... how do we stop this in future?"
     >
@@ -4652,7 +4710,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-30 13:08 UTC (2026-08-30 14:08 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2094049696440566070
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 12, impression 6771, like 90, quote 0, reply 3, retweet 8
 
 > you know PoC || GTFO.
 >
@@ -4672,7 +4730,7 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-30 09:50 UTC (2026-08-30 10:50 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2093999895502008791
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 85, impression 54658, like 299, quote 11, reply 28, retweet 50
 
 > not a fan of these posts, but some stuff pisses me off so much i can't stop saying out loud.
 >
@@ -4748,7 +4806,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-28 06:49 UTC (2026-08-28 07:49 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2093229510422634618
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 9, impression 7219, like 70, quote 0, reply 3, retweet 4
 
 > never thought having a skill issue in security could become a marketing strategy, but here we are. build a sloppy sandbox, publish the "bypass" on twitter, and watch the alignment and ai people lose their minds. https://twitter.com/S1r1u5_/status/2093061524093096369
 
@@ -4759,7 +4817,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2026-08-27 19:42 UTC (2026-08-27 20:42 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2093061524093096369
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 22, impression 12984, like 83, quote 1, reply 7, retweet 5
     
     > yes, and almost every bypass we have seen so far comes down to sloppy configs, infra and engineering 
     >
@@ -4835,7 +4893,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-27 19:42 UTC (2026-08-27 20:42 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2093061524093096369
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 22, impression 12984, like 83, quote 1, reply 7, retweet 5
 
 > yes, and almost every bypass we have seen so far comes down to sloppy configs, infra and engineering 
 >
@@ -4857,7 +4915,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-27 17:17 UTC (2026-08-27 18:17 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2093025220810682581
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 3377, like 23, quote 0, reply 3, retweet 1
 
 > i like the PoC and music!
 >
@@ -4878,7 +4936,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-27 11:58 UTC (2026-08-27 12:58 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2092944935607820519
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 18, impression 9652, like 86, quote 0, reply 3, retweet 4
 
 > can your blackbox agent find/exploit this? https://twitter.com/HacktronAI/status/2092940768336109647
 
@@ -4889,7 +4947,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @HacktronAI — 2026-08-27 11:42 UTC (2026-08-27 12:42 WAT)
     
     - URL: https://x.com/HacktronAI/status/2092940768336109647
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 166, impression 110497, like 481, quote 17, reply 20, retweet 65
     
     > Our team discovered a critical remote code execution vulnerability in Next.js.
     >
@@ -4921,7 +4979,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @HacktronAI — 2026-08-27 11:42 UTC (2026-08-27 12:42 WAT)
     
     - URL: https://x.com/HacktronAI/status/2092940768336109647
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 166, impression 110497, like 481, quote 17, reply 20, retweet 65
     
     > Our team discovered a critical remote code execution vulnerability in Next.js.
     >
@@ -4942,7 +5000,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-26 20:30 UTC (2026-08-26 21:30 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2092711416230977970
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 17, impression 13812, like 110, quote 2, reply 10, retweet 1
 
 > man tired of waiting to get response from openai on disclosing the bug. we bought a domain and 4-5 blogs are lined up to go. and fabian is working on the video
 
@@ -4958,7 +5016,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-26 19:26 UTC (2026-08-26 20:26 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2092695112744894708
-- Metrics (at fetch): bookmark 18, impression 9370, like 53, quote 1, reply 4, retweet 1
+- Metrics (at fetch): bookmark 18, impression 9378, like 53, quote 1, reply 4, retweet 1
 
 > also, if you’re getting a white-box audit, it normally includes the source code plus whatever is accessible through black-box testing. i don’t know in what world the black-box scope isn’t a subset of the white-box scope.
 >
@@ -5018,7 +5076,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-25 19:23 UTC (2026-08-25 20:23 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2092332024539611289
-- Metrics (at fetch): bookmark 7, impression 3957, like 26, quote 2, reply 3, retweet 0
+- Metrics (at fetch): bookmark 7, impression 3959, like 26, quote 2, reply 3, retweet 0
 
 > it seems openai doesn't have a project level setting to disable internet access through this, you can disable web search but it seems there is no option for disabling "input_file.file_url", they should add this.
 >
@@ -5108,7 +5166,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-24 17:24 UTC (2026-08-24 18:24 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2091939721861902444
-- Metrics (at fetch): bookmark 48, impression 26521, like 256, quote 5, reply 17, retweet 11
+- Metrics (at fetch): bookmark 48, impression 26533, like 256, quote 5, reply 17, retweet 11
 
 > exploit development is solved but not vulnerability discovery
 
@@ -5124,7 +5182,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-21 17:47 UTC (2026-08-21 18:47 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2090858332219199912
-- Metrics (at fetch): bookmark 100, impression 12728, like 198, quote 5, reply 9, retweet 23
+- Metrics (at fetch): bookmark 100, impression 12756, like 197, quote 5, reply 9, retweet 23
 
 > i have no idea what happens after the next two years. maybe we go irrelevant, maybe we won’t, those are all speculations that are not going to help you now, and for the next two years, i’m fairly confident that being good at security is not going to become irrelevant. if
 
@@ -5165,7 +5223,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @S1r1u5_ — 2026-08-18 23:08 UTC (2026-08-19 00:08 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2089852021092544625
-- Metrics (at fetch): bookmark 23, impression 22191, like 131, quote 1, reply 10, retweet 1
+- Metrics (at fetch): bookmark 23, impression 22198, like 132, quote 1, reply 10, retweet 1
 
 > urgent, can someone connect me with cloudflare security folks please. 
 >
@@ -5180,7 +5238,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @S1r1u5_ — 2026-08-18 15:00 UTC (2026-08-18 16:00 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2089729163230064729
-- Metrics (at fetch): bookmark 30, impression 14314, like 107, quote 0, reply 6, retweet 0
+- Metrics (at fetch): bookmark 29, impression 14315, like 106, quote 0, reply 6, retweet 0
 
 > one suspicion i had was they probably trained hard on chrome and linux to have these exploit dev capabilities to benchmark-maxx exploitbench and exploitgym tasks which i learned not the case and the capabilities are generic when we used it for different kinds of exploit dev https://t.co/T1ofVhvzvu
 
@@ -5211,7 +5269,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-16 17:37 UTC (2026-08-16 18:37 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2089043924908470411
-- Metrics (at fetch): bookmark 47, impression 13613, like 77, quote 1, reply 13, retweet 3
+- Metrics (at fetch): bookmark 47, impression 13614, like 77, quote 1, reply 13, retweet 3
 
 > great video.
 >
@@ -5261,7 +5319,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-15 06:40 UTC (2026-08-15 07:40 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2088516172895662325
-- Metrics (at fetch): bookmark 29, impression 8453, like 82, quote 6, reply 10, retweet 9
+- Metrics (at fetch): bookmark 29, impression 8459, like 82, quote 6, reply 10, retweet 9
 
 > i really want to talk to people who are ai-pilled like this, because their world model of ai seems completely alien to mine. 
 >
@@ -5383,7 +5441,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-14 15:58 UTC (2026-08-14 16:58 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2088294246831075774
-- Metrics (at fetch): bookmark 28, impression 16636, like 71, quote 4, reply 10, retweet 2
+- Metrics (at fetch): bookmark 28, impression 16643, like 71, quote 4, reply 10, retweet 2
 
 > well well well!
 >
@@ -5401,7 +5459,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2026-08-14 08:00 UTC (2026-08-14 09:00 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2088174003047616783
-    - Metrics (at fetch): bookmark 26, impression 25075, like 83, quote 1, reply 8, retweet 1
+    - Metrics (at fetch): bookmark 26, impression 25093, like 83, quote 1, reply 8, retweet 1
     
     > zlm 5.3 has been put to test, sol worked on this for a week to get a working exploit on a pretty popular app. [pic.x.com/kAjo4EOS67] https://twitter.com/S1r1u5_/status/2088159478609052102
     
@@ -5463,7 +5521,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-14 08:00 UTC (2026-08-14 09:00 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2088174003047616783
-- Metrics (at fetch): bookmark 26, impression 25075, like 83, quote 1, reply 8, retweet 1
+- Metrics (at fetch): bookmark 26, impression 25093, like 83, quote 1, reply 8, retweet 1
 
 > zlm 5.3 has been put to test, sol worked on this for a week to get a working exploit on a pretty popular app. [pic.x.com/kAjo4EOS67] https://twitter.com/S1r1u5_/status/2088159478609052102
 
@@ -5506,7 +5564,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2026-08-14 15:58 UTC (2026-08-14 16:58 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2088294246831075774
-    - Metrics (at fetch): bookmark 28, impression 16636, like 71, quote 4, reply 10, retweet 2
+    - Metrics (at fetch): bookmark 28, impression 16643, like 71, quote 4, reply 10, retweet 2
     
     > well well well!
     >
@@ -5524,7 +5582,7 @@ Tags (automatic): AI-assisted hunting
         #### Quoted post — @S1r1u5_ — 2026-08-14 08:00 UTC (2026-08-14 09:00 WAT)
         
         - URL: https://x.com/S1r1u5_/status/2088174003047616783
-        - Metrics (at fetch): bookmark 26, impression 25075, like 83, quote 1, reply 8, retweet 1
+        - Metrics (at fetch): bookmark 26, impression 25093, like 83, quote 1, reply 8, retweet 1
         
         > zlm 5.3 has been put to test, sol worked on this for a week to get a working exploit on a pretty popular app. [pic.x.com/kAjo4EOS67] https://twitter.com/S1r1u5_/status/2088159478609052102
         
@@ -5680,7 +5738,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-07 19:05 UTC (2026-08-07 20:05 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2085804433498370171
-- Metrics (at fetch): bookmark 2, impression 7006, like 83, quote 0, reply 1, retweet 3
+- Metrics (at fetch): bookmark 2, impression 7008, like 83, quote 0, reply 1, retweet 3
 
 > Who wants to learn fault injection https://t.co/9uKTyMxzDX
 
@@ -5696,7 +5754,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-03 11:47 UTC (2026-08-03 12:47 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2084244722738921587
-- Metrics (at fetch): bookmark 0, impression 1732, like 12, quote 0, reply 0, retweet 0
+- Metrics (at fetch): bookmark 0, impression 1733, like 12, quote 0, reply 0, retweet 0
 
 > that coldcard bug is so dumb. did no one audited or what?
 
@@ -5722,7 +5780,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-08-01 13:08 UTC (2026-08-01 14:08 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2083540498518610389
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 10, impression 5762, like 34, quote 0, reply 1, retweet 1
 
 > interesting. we can speculate that this model will be very good at vulnerability discovery and exploit development, and will probably saturate ExploitBench. they may release an ExploitGym-verified subset, since some of the current tasks are unsolvable.
 >
@@ -5735,7 +5793,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @825088493764407298 — 2026-08-01 08:17 UTC (2026-08-01 09:17 WAT)
     
     - URL: https://x.com/825088493764407298/status/2083467194663571701
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 6540, impression 13391163, like 17394, quote 1516, reply 825, retweet 2504
     
     > An internal version of Astra, @OpenAI’s next major model family, solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science.
     >
@@ -5761,7 +5819,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-31 11:34 UTC (2026-07-31 12:34 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2083154341326733705
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 27, impression 9892, like 116, quote 0, reply 18, retweet 21
 
 > let me present a case of ai-induced overconfidence.
 >
@@ -5792,7 +5850,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @2616142770 — 2026-07-29 18:37 UTC (2026-07-29 19:37 WAT)
     
     - URL: https://x.com/2616142770/status/2082535987633410540
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 18, impression 23270, like 129, quote 5, reply 11, retweet 20
     
     > There is a trend of bug bounty programs reducing rewards under the guise that they can find the issues themselves with AI.
     >
@@ -5814,7 +5872,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-31 10:58 UTC (2026-07-31 11:58 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2083145381580320997
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 1071, like 8, quote 0, reply 2, retweet 0
 
 > let me present a case of ai-induced overconfidence.
 >
@@ -5845,7 +5903,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @2616142770 — 2026-07-29 18:37 UTC (2026-07-29 19:37 WAT)
     
     - URL: https://x.com/2616142770/status/2082535987633410540
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 18, impression 23270, like 129, quote 5, reply 11, retweet 20
     
     > There is a trend of bug bounty programs reducing rewards under the guise that they can find the issues themselves with AI.
     >
@@ -5864,7 +5922,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-29 19:59 UTC (2026-07-29 20:59 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2082556688213680424
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 18, impression 11216, like 148, quote 0, reply 7, retweet 2
 
 > another day, another big target.
 >
@@ -5885,7 +5943,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-28 19:33 UTC (2026-07-28 20:33 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2082187707611291803
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 15, impression 7436, like 108, quote 0, reply 12, retweet 6
 
 > proposal for google, anthropic, and openai, build a crowdsourced bug-hunting platform where trusted researchers get frontier model access and subsidized tokens for security research.
 >
@@ -5905,7 +5963,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-25 04:52 UTC (2026-07-25 05:52 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2080878731443532251
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 8, impression 14745, like 58, quote 2, reply 4, retweet 6
 
 > what i don't really understand is, how come this so called bay-area rationalist, who talk about following data, are so quick to reach a confident conclusion here.
 >
@@ -5926,7 +5984,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @1538525334781370368 — 2026-07-24 23:15 UTC (2026-07-25 00:15 WAT)
     
     - URL: https://x.com/1538525334781370368/status/2080793930279625134
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 1311, impression 4500070, like 3275, quote 271, reply 254, retweet 509
     
     > New details about the Hugging Face incident from Reuters. The report says OpenAI noticed odd behavior before the event, including an agent leaving notes for future versions of itself with escape instructions. [pic.x.com/86Vlt91LYI] https://twitter.com/dseetharaman/status/2080786766890692729
     
@@ -5947,7 +6005,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-25 04:07 UTC (2026-07-25 05:07 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2080867467010965536
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 8, impression 6165, like 34, quote 1, reply 4, retweet 1
 
 > lmao dude stop it.
 >
@@ -5964,7 +6022,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @884616503898910722 — 2026-07-25 00:09 UTC (2026-07-25 01:09 WAT)
     
     - URL: https://x.com/884616503898910722/status/2080807639261602219
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 333, impression 99716, like 1266, quote 27, reply 63, retweet 87
     
     > look at this. fucking look at this. GPT 6 was self-coordinating ways to jailbreak its own future instances from openai systems. it was attacking huggingface for days before anyone there noticed. the models are not aligned and the labs are not capable of containing them. https://twitter.com/dseetharaman/status/2080786774239199589
     
@@ -5985,7 +6043,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-24 21:06 UTC (2026-07-24 22:06 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2080761538508685451
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 10, impression 6585, like 37, quote 0, reply 2, retweet 0
 
 > initial impression, it looks good, near to GPT 5.6.
 >
@@ -5998,7 +6056,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @1890155268283219968 — 2026-07-24 20:30 UTC (2026-07-24 21:30 WAT)
     
     - URL: https://x.com/1890155268283219968/status/2080752617647374414
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 1, impression 7250, like 1, quote 1, reply 0, retweet 0
     
     > @S1r1u5_ Let us know if Opus 5 can do shit 👀
     
@@ -6015,7 +6073,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @S1r1u5_ — 2026-07-23 19:48 UTC (2026-07-23 20:48 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2080379525100449897
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 184, impression 54755, like 261, quote 11, reply 10, retweet 52
 
 > OpenAI and Hugging Face probably won’t tell us exactly what happened anytime soon.
 >
@@ -6031,89 +6089,9 @@ Tags (automatic): Memory corruption / native
     #### Quoted post — @S1r1u5_ — 2026-07-23 19:34 UTC (2026-07-23 20:34 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2080375997698847199
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 55, impression 39235, like 70, quote 5, reply 4, retweet 10
     
     > http://x.com/i/article/2080027726841524224
-    >
-    > [X Article — Here’s How an OpenAI Model Went Rogue and Hacked Hugging Face  — full text follows]
-    >
-    > Introduction
-    > Almost every week, something happens in security that ruins my sleep. A new model drops that I want to evaluate, we find some crazy 0-day, or someone else drops one. But this incident probably tops all of them.
-    > Today, we’re looking at what might be the craziest and concerning sci-fi, paperclip-maxxing event to come out of OpenAI. In short, while trying to solve an ExploitGym challenge, one of OpenAI’s models reward-hacked/cheated the task and compromised Hugging Face production using two 0-day vulnerabilities to steal the solution which most probably is not hosted on hugging face.
-    > LLMs finding zero-days serious enough to compromise companies is old news. Look at our work on Supabase, Palo Alto, and PostHog. Reward hacking isn’t new either. We see plenty of petty reward hacks internally, and there are documented examples from Anthropic and Alibaba.
-    > What makes this different is how far the models went in a single-session, without any human hints or guidance, just to pass an exam. I don’t think this was a marketing stunt. We might never have heard about it if Hugging Face had not detected the attack first.
-    > A model capable of solving unsolved math problems and finding zero-days in Linux, WordPress, and Chrome still does not know when to stop. It may be better than almost any human at the task in front of it, yet it still lacks the basic judgment of a child. It appears to have treated “solve ExploitGym” as “do whatever it takes, even if that means hacking other companies.” As Zvi puts it, excusing this as simply following instructions is like saying, “You told me to make money. I don’t know why you are so upset about all the bank robberies.”
-    > In any case, this is a serious alignment failure. What I really want to know is how difficult the hack was. Did the models exploit a few dumb bugs that were easy to find, or did they build the kind of complex chain only a top hacker could pull off? The answer tells us whether this was mainly an alignment failure or also a major jump in cyber capability. And, I know that OpenAI or Hugging Face won’t be revealing any technical details soon, so I decided to figure out.
-    > Reconstructing the Attack
-    > Note: This reconstruction is based on the public information available and my experience using LLMs to develop exploits for tasks similar to ExploitGym. I am about 80% confident that the OpenAI side happened this way, mainly small uncertainity is whether JFrog was the sandbox escape target. I am fully confident about the Hugging Face side because the patches for the exploited bugs are public.
-    > The chain I reconstruct below is a fairly complex one. A highly capable model with a large inference budget and multiple subagents appears to have pulled off something that the frontier models we can access today probably could not complete in a single session. My rough estimate is that even a top human hacker would need two to three weeks to get from the original sandbox into Hugging Face’s internal infrastructure.
-    > Full chain:
-    >  
-    > Assumed Setup
-    > Let’s get into details, with a bit of recon you can construct the setup OpenAI model initially started with:
-    > The model was given an ExploitGym task and asked to retrieve the flag by writing the exploit. The flag was checked by a grader running in a separate environment that the model could not normally access.
-    > The model could run commands inside a sandbox with no open internet access.
-    > The agent setup likely used the latest Codex with subagents, an unreleased model running at Ultra effort, and possibly GPT-5.6 as a subagent.
-    > The sandbox had reader access to a JFrog package registry for installing npm, PyPI, and Docker packages. This is inferred from the current ChatGPT sandbox setup.
-    >  
-    > Step 1: JFrog Privilege Escalation 0-day
-    > At some point, the model or one of its subagents decided it needed internet access. The package registry was the obvious target because it was one of the few external services the sandbox could reach. If the proxy was JFrog Artifactory, its container image may also have been available through that registry. Artifactory is not open source, but most of its server logic is shipped as Java JAR files that can be decompiled and searched for bugs.
-    > One day before Hugging Face publicly disclosed the incident, JFrog released Artifactory 7.146.27 with three security fixes: RTDEV-92030, RTDEV-92146, and RTFS-4094. My assumption is that at least one of them may have come from OpenAI’s disclosure. The model may have found more than one and discarded the others.
-    > RTDEV-92030 is the only one that gives us an immediately useful primitive from the reader access that sandbox has already access to. The tldr of bug is artifactory trusted claims from the access-token JWT without first verifying its signature. The patch looks as below:
-    >  
-    > To reproduce the vulnerable refresh request, first mint a normal refreshable reader token then forge access token with admin claims:
-    >  
-    > Send that forged access token with the original valid refresh secret:
-    >  
-    > Artifactory 7.146.25 accepts this and returns a valid administrator token. This gives the model control of Artifactory, not a shell or direct internet access. At least one more step was still needed to reach an internet-connected node.
-    > Step 2: Using the Package Cache to Reach an Internet-Connected Node
-    > I first looked at whether Artifactory administrator access could be turned directly into a shell on the registry server. I could not find a way to do that but administrator access gives control over repositories, tokens, and cached packages.
-    > If we look at OpenAI blog, there is a hint in their blog, “After exploiting the package proxy, the models performed privilege escalation and lateral movement until they reached a different node with internet access.” This suggests the model couldn’t get shell on Artifactory server but could have used the package registry to run code on another OpenAI machine by poisioning the cache.
-    > So, with administrator access, the model can delete a trusted package from the cache, point the repository to an origin it controls, and cache a different package under the same name and version as below.
-    >  
-    > The controlled metadata contains the hash of the new tarball, so a fresh npm install accepts it. If the package contains a postinstall script, npm executes the model’s code automatically.
-    > Now, the hard part is getting another internal node to install that package. The model had to find a package used by another OpenAI service, trigger a fresh installation.
-    > Even after that, the model only has command execution on a node that probably is not publicly reachable. It still needs a way to send commands and receive results. One possibility is a reverse shell over the internal network if the two nodes can reach each other.
-    > The more diabolical option is to use Artifactory itself as command and control:
-    >  
-    > This would let the model control the second node without any direct connection between them. Once it landed on a node with open internet access, it could continue the attack against Hugging Face. This is a fairly complex chain, and OpenAI has not published enough details to confirm which path the models actually used.
-    > Step 3: From Internet Access to Hugging Face RCE
-    > Once it had internet access, the model probably kept trying to solve the ExploitGym task. When that still failed, it appears to have looked for the solutions on Hugging Face. It can create or update a malicious dataset through the normal Hub API and wait for Dataset Viewer to process it.
-    > The public patches point to this path where your malicious dataset can get remote code execution on worker:
-    >  
-    > The bug was that Dataset Viewer constructed the attacker-selected filesystem before checking whether the resolved path belonged to the dataset repository. The data: handler carried an inline reference specification, while the reference handler rendered fields inside it using normal Jinja.
-    > PoC:
-    >  
-    > Hugging Face fixed this in PR #3367 by keeping only the five fsspec implementations Dataset Viewer needed:
-    >  
-    > That removes both reference and data before an untrusted job can load them. PR #3369 added regression tests.
-    >
-    > It seems after code execution on the worker, the model then stole cloud and cluster credentials, reached node-level access, and moved laterally through several internal clusters. PR #3368 shows how exposed the worker was, Hugging Face disabled automatic Kubernetes ServiceAccount tokens, enabled the default seccomp profile, blocked privilege escalation, and dropped Linux capabilities. PR #3359 added IRSA support, while PR #3375 moved MongoDB authentication to AWS credentials.
-    > This is probably where Hugging Face started fighting back. Its incident report describes “thousands of actions across a swarm of short-lived sandboxes, self-migrating command and control on public services, and lateral movement over an entire weekend.”
-    > Why Did the Models Go This Far?
-    > Now that we figured the full chain from sandbox escape to hugging face compromise, it is important to understand why the model went this far and I have two educated guesses:
-    > Guess 1: Misaligned on Passing the Exam at Any Cost
-    > My first and more likely guess is that the model could not solve the ExploitGym challenge, so it started looking on the internet for solutions. When it still could not find one, it figured Hugging Face might have the solution and started exploiting it.
-    > This kind of reward hacking or cheating is fairly common in cybersecurity tasks, and probably in other fields too. The difference is that in cybersecurity, it is difficult to fake success. If the exploit does not work or the PoC never executes, the grader will catch it.
-    > This is similar to what AISI found. In one case, “an evaluation was accidentally impossible to solve, and the model became so persistent that it ran code on an external internet service while trying to access AISI’s evaluation infrastructure.”
-    >  
-    > Guess 2: Goal Drift
-    > The second possibility is goal drift. After tons of inference compute, context compactions, and subagent delegation, “write an exploit for this challenge” may have slowly turned into “find the solution” or “get the flag.”
-    > A subagent told to look for the solution on Hugging Face may not have known anything about the original task or its boundaries. Without the normal guardrails, it may have happily exploited every obstacle in its way.
-    > Either way, the misalignment problem remains the same. The model did not understand that hacking a real company was a line it should never cross, and model providers need to figure out how to stop this.
-    > Conclusions / Observations
-    > Open Source Is in a Tricky Situation
-    > If the source code is available, a model at this capability level will devour the codebase until it finds a bug. That is probably what happened here, Hugging Face was a good target because Dataset Viewer is open source. A model does not get tired or bored, and with enough inference compute, it can keep going until it finds something.
-    > The sandbox escape was probably similar. The model likely accessed the JFrog JAR files through the package registry, decompiled and reverse-engineered them, then searched for hours until it found a bug.
-    > Misalignment
-    > It is very clear from my personal experience using GPT-5.6 Sol Ultra that throwing more inference compute at these models makes them efficiently search through every possible path until they find a bug. The recent WordPress RCE or my benchmark is a good example.
-    > GPT-6 or some even more capable model will be much better at this. If these models do not have proper guardrails, or more importantly are not properly aligned, they will carry out reward hacks at this level to achieve their goals.
-    > I do not think there was malicious intent behind the model’s actions, even if we call it cheating. I also do not know whether future models will deliberately hide their intent, as many alignment researchers warn. These models just do not seem to have clear boundaries around what they are willing to do to achieve a goal.
-    > Secure Your Cloud
-    > Misconfigured cloud infrastructure is becoming a common part of these attack chains. In our research on Metabase, PostHog, and Supabase, the original application bug was only the entry point. Cloud misconfigurations then let us steal credentials, move laterally, and turn a limited compromise into something much bigger.
-    > The same thing appears to have happened here. Once the model got code execution on a Hugging Face worker, exposed cloud and cluster credentials let it reach node-level access and move across internal clusters. Whatever Wiz or other cloud security product you are using is probably not working as well as you think. You need to assume that one workload will eventually be compromised and make sure it cannot be used to take over the rest of your cloud.
-    >
-    > [Links in article: https://landing-git-hfoai-hacktron-ai.vercel.app/blog/posthog-rce, https://docs.jfrog.com/releases/docs/artifactory-self-managed-releases, https://github.com/huggingface/dataset-viewer/commits/main/, https://www.hacktron.ai/blog/posthog-rce, https://landing-git-hfoai-hacktron-ai.vercel.app/blog/metabase-cloud, https://github.com/huggingface/dataset-viewer/pull/3367, https://github.com/huggingface/dataset-viewer/pull/3359, https://github.com/huggingface/dataset-viewer/pull/3369, https://landing-git-hfoai-hacktron-ai.vercel.app/blog/supapwn, https://www-cdn.anthropic.com/08ab9158070959f88f296514c21b7facce6f52bc.pdf, https://github.com/sunblaze-ucb/exploitgym, https://www.hacktron.ai/blog/watching-gpt-55-sol-ultra-write-a-chrome-exploit-exploit-development-as-we-know-it-is-over, https://arxiv.org/abs/2512.24873, https://openai.com/index/hugging-face-model-evaluation-security-incident/, https://github.com/huggingface/dataset-viewer/pull/3368, https://wp2shell.com/, https://github.com/huggingface/dataset-viewer/pull/3375, https://www.hacktron.ai/blog/supapwn, https://x.com/TheZvi/status/2080012640735183211, https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations, https://www.hacktron.ai/blog/cve-2026-0265-panos-globalprotect-cas-auth-bypass, https://huggingface.co/blog/security-incident-july-2026]
     
     **Links in post:** http://x.com/i/article/2080027726841524224
     
@@ -6124,95 +6102,12 @@ Tags (automatic): Memory corruption / native
 ## 2026-07-23 · Post · http://x.com/i/article/2080027726841524224
 
 
-Tags (automatic): RCE, AI-assisted hunting
-
-
 ### Post — @S1r1u5_ — 2026-07-23 19:34 UTC (2026-07-23 20:34 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2080375997698847199
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 55, impression 39235, like 70, quote 5, reply 4, retweet 10
 
 > http://x.com/i/article/2080027726841524224
->
-> [X Article — Here’s How an OpenAI Model Went Rogue and Hacked Hugging Face  — full text follows]
->
-> Introduction
-> Almost every week, something happens in security that ruins my sleep. A new model drops that I want to evaluate, we find some crazy 0-day, or someone else drops one. But this incident probably tops all of them.
-> Today, we’re looking at what might be the craziest and concerning sci-fi, paperclip-maxxing event to come out of OpenAI. In short, while trying to solve an ExploitGym challenge, one of OpenAI’s models reward-hacked/cheated the task and compromised Hugging Face production using two 0-day vulnerabilities to steal the solution which most probably is not hosted on hugging face.
-> LLMs finding zero-days serious enough to compromise companies is old news. Look at our work on Supabase, Palo Alto, and PostHog. Reward hacking isn’t new either. We see plenty of petty reward hacks internally, and there are documented examples from Anthropic and Alibaba.
-> What makes this different is how far the models went in a single-session, without any human hints or guidance, just to pass an exam. I don’t think this was a marketing stunt. We might never have heard about it if Hugging Face had not detected the attack first.
-> A model capable of solving unsolved math problems and finding zero-days in Linux, WordPress, and Chrome still does not know when to stop. It may be better than almost any human at the task in front of it, yet it still lacks the basic judgment of a child. It appears to have treated “solve ExploitGym” as “do whatever it takes, even if that means hacking other companies.” As Zvi puts it, excusing this as simply following instructions is like saying, “You told me to make money. I don’t know why you are so upset about all the bank robberies.”
-> In any case, this is a serious alignment failure. What I really want to know is how difficult the hack was. Did the models exploit a few dumb bugs that were easy to find, or did they build the kind of complex chain only a top hacker could pull off? The answer tells us whether this was mainly an alignment failure or also a major jump in cyber capability. And, I know that OpenAI or Hugging Face won’t be revealing any technical details soon, so I decided to figure out.
-> Reconstructing the Attack
-> Note: This reconstruction is based on the public information available and my experience using LLMs to develop exploits for tasks similar to ExploitGym. I am about 80% confident that the OpenAI side happened this way, mainly small uncertainity is whether JFrog was the sandbox escape target. I am fully confident about the Hugging Face side because the patches for the exploited bugs are public.
-> The chain I reconstruct below is a fairly complex one. A highly capable model with a large inference budget and multiple subagents appears to have pulled off something that the frontier models we can access today probably could not complete in a single session. My rough estimate is that even a top human hacker would need two to three weeks to get from the original sandbox into Hugging Face’s internal infrastructure.
-> Full chain:
->  
-> Assumed Setup
-> Let’s get into details, with a bit of recon you can construct the setup OpenAI model initially started with:
-> The model was given an ExploitGym task and asked to retrieve the flag by writing the exploit. The flag was checked by a grader running in a separate environment that the model could not normally access.
-> The model could run commands inside a sandbox with no open internet access.
-> The agent setup likely used the latest Codex with subagents, an unreleased model running at Ultra effort, and possibly GPT-5.6 as a subagent.
-> The sandbox had reader access to a JFrog package registry for installing npm, PyPI, and Docker packages. This is inferred from the current ChatGPT sandbox setup.
->  
-> Step 1: JFrog Privilege Escalation 0-day
-> At some point, the model or one of its subagents decided it needed internet access. The package registry was the obvious target because it was one of the few external services the sandbox could reach. If the proxy was JFrog Artifactory, its container image may also have been available through that registry. Artifactory is not open source, but most of its server logic is shipped as Java JAR files that can be decompiled and searched for bugs.
-> One day before Hugging Face publicly disclosed the incident, JFrog released Artifactory 7.146.27 with three security fixes: RTDEV-92030, RTDEV-92146, and RTFS-4094. My assumption is that at least one of them may have come from OpenAI’s disclosure. The model may have found more than one and discarded the others.
-> RTDEV-92030 is the only one that gives us an immediately useful primitive from the reader access that sandbox has already access to. The tldr of bug is artifactory trusted claims from the access-token JWT without first verifying its signature. The patch looks as below:
->  
-> To reproduce the vulnerable refresh request, first mint a normal refreshable reader token then forge access token with admin claims:
->  
-> Send that forged access token with the original valid refresh secret:
->  
-> Artifactory 7.146.25 accepts this and returns a valid administrator token. This gives the model control of Artifactory, not a shell or direct internet access. At least one more step was still needed to reach an internet-connected node.
-> Step 2: Using the Package Cache to Reach an Internet-Connected Node
-> I first looked at whether Artifactory administrator access could be turned directly into a shell on the registry server. I could not find a way to do that but administrator access gives control over repositories, tokens, and cached packages.
-> If we look at OpenAI blog, there is a hint in their blog, “After exploiting the package proxy, the models performed privilege escalation and lateral movement until they reached a different node with internet access.” This suggests the model couldn’t get shell on Artifactory server but could have used the package registry to run code on another OpenAI machine by poisioning the cache.
-> So, with administrator access, the model can delete a trusted package from the cache, point the repository to an origin it controls, and cache a different package under the same name and version as below.
->  
-> The controlled metadata contains the hash of the new tarball, so a fresh npm install accepts it. If the package contains a postinstall script, npm executes the model’s code automatically.
-> Now, the hard part is getting another internal node to install that package. The model had to find a package used by another OpenAI service, trigger a fresh installation.
-> Even after that, the model only has command execution on a node that probably is not publicly reachable. It still needs a way to send commands and receive results. One possibility is a reverse shell over the internal network if the two nodes can reach each other.
-> The more diabolical option is to use Artifactory itself as command and control:
->  
-> This would let the model control the second node without any direct connection between them. Once it landed on a node with open internet access, it could continue the attack against Hugging Face. This is a fairly complex chain, and OpenAI has not published enough details to confirm which path the models actually used.
-> Step 3: From Internet Access to Hugging Face RCE
-> Once it had internet access, the model probably kept trying to solve the ExploitGym task. When that still failed, it appears to have looked for the solutions on Hugging Face. It can create or update a malicious dataset through the normal Hub API and wait for Dataset Viewer to process it.
-> The public patches point to this path where your malicious dataset can get remote code execution on worker:
->  
-> The bug was that Dataset Viewer constructed the attacker-selected filesystem before checking whether the resolved path belonged to the dataset repository. The data: handler carried an inline reference specification, while the reference handler rendered fields inside it using normal Jinja.
-> PoC:
->  
-> Hugging Face fixed this in PR #3367 by keeping only the five fsspec implementations Dataset Viewer needed:
->  
-> That removes both reference and data before an untrusted job can load them. PR #3369 added regression tests.
->
-> It seems after code execution on the worker, the model then stole cloud and cluster credentials, reached node-level access, and moved laterally through several internal clusters. PR #3368 shows how exposed the worker was, Hugging Face disabled automatic Kubernetes ServiceAccount tokens, enabled the default seccomp profile, blocked privilege escalation, and dropped Linux capabilities. PR #3359 added IRSA support, while PR #3375 moved MongoDB authentication to AWS credentials.
-> This is probably where Hugging Face started fighting back. Its incident report describes “thousands of actions across a swarm of short-lived sandboxes, self-migrating command and control on public services, and lateral movement over an entire weekend.”
-> Why Did the Models Go This Far?
-> Now that we figured the full chain from sandbox escape to hugging face compromise, it is important to understand why the model went this far and I have two educated guesses:
-> Guess 1: Misaligned on Passing the Exam at Any Cost
-> My first and more likely guess is that the model could not solve the ExploitGym challenge, so it started looking on the internet for solutions. When it still could not find one, it figured Hugging Face might have the solution and started exploiting it.
-> This kind of reward hacking or cheating is fairly common in cybersecurity tasks, and probably in other fields too. The difference is that in cybersecurity, it is difficult to fake success. If the exploit does not work or the PoC never executes, the grader will catch it.
-> This is similar to what AISI found. In one case, “an evaluation was accidentally impossible to solve, and the model became so persistent that it ran code on an external internet service while trying to access AISI’s evaluation infrastructure.”
->  
-> Guess 2: Goal Drift
-> The second possibility is goal drift. After tons of inference compute, context compactions, and subagent delegation, “write an exploit for this challenge” may have slowly turned into “find the solution” or “get the flag.”
-> A subagent told to look for the solution on Hugging Face may not have known anything about the original task or its boundaries. Without the normal guardrails, it may have happily exploited every obstacle in its way.
-> Either way, the misalignment problem remains the same. The model did not understand that hacking a real company was a line it should never cross, and model providers need to figure out how to stop this.
-> Conclusions / Observations
-> Open Source Is in a Tricky Situation
-> If the source code is available, a model at this capability level will devour the codebase until it finds a bug. That is probably what happened here, Hugging Face was a good target because Dataset Viewer is open source. A model does not get tired or bored, and with enough inference compute, it can keep going until it finds something.
-> The sandbox escape was probably similar. The model likely accessed the JFrog JAR files through the package registry, decompiled and reverse-engineered them, then searched for hours until it found a bug.
-> Misalignment
-> It is very clear from my personal experience using GPT-5.6 Sol Ultra that throwing more inference compute at these models makes them efficiently search through every possible path until they find a bug. The recent WordPress RCE or my benchmark is a good example.
-> GPT-6 or some even more capable model will be much better at this. If these models do not have proper guardrails, or more importantly are not properly aligned, they will carry out reward hacks at this level to achieve their goals.
-> I do not think there was malicious intent behind the model’s actions, even if we call it cheating. I also do not know whether future models will deliberately hide their intent, as many alignment researchers warn. These models just do not seem to have clear boundaries around what they are willing to do to achieve a goal.
-> Secure Your Cloud
-> Misconfigured cloud infrastructure is becoming a common part of these attack chains. In our research on Metabase, PostHog, and Supabase, the original application bug was only the entry point. Cloud misconfigurations then let us steal credentials, move laterally, and turn a limited compromise into something much bigger.
-> The same thing appears to have happened here. Once the model got code execution on a Hugging Face worker, exposed cloud and cluster credentials let it reach node-level access and move across internal clusters. Whatever Wiz or other cloud security product you are using is probably not working as well as you think. You need to assume that one workload will eventually be compromised and make sure it cannot be used to take over the rest of your cloud.
->
-> [Links in article: https://landing-git-hfoai-hacktron-ai.vercel.app/blog/posthog-rce, https://docs.jfrog.com/releases/docs/artifactory-self-managed-releases, https://github.com/huggingface/dataset-viewer/commits/main/, https://www.hacktron.ai/blog/posthog-rce, https://landing-git-hfoai-hacktron-ai.vercel.app/blog/metabase-cloud, https://github.com/huggingface/dataset-viewer/pull/3367, https://github.com/huggingface/dataset-viewer/pull/3359, https://github.com/huggingface/dataset-viewer/pull/3369, https://landing-git-hfoai-hacktron-ai.vercel.app/blog/supapwn, https://www-cdn.anthropic.com/08ab9158070959f88f296514c21b7facce6f52bc.pdf, https://github.com/sunblaze-ucb/exploitgym, https://www.hacktron.ai/blog/watching-gpt-55-sol-ultra-write-a-chrome-exploit-exploit-development-as-we-know-it-is-over, https://arxiv.org/abs/2512.24873, https://openai.com/index/hugging-face-model-evaluation-security-incident/, https://github.com/huggingface/dataset-viewer/pull/3368, https://wp2shell.com/, https://github.com/huggingface/dataset-viewer/pull/3375, https://www.hacktron.ai/blog/supapwn, https://x.com/TheZvi/status/2080012640735183211, https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations, https://www.hacktron.ai/blog/cve-2026-0265-panos-globalprotect-cas-auth-bypass, https://huggingface.co/blog/security-incident-july-2026]
 
 **Links in post:** http://x.com/i/article/2080027726841524224
 
@@ -6225,7 +6120,7 @@ Tags (automatic): RCE, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-23 06:29 UTC (2026-07-23 07:29 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2080178583956533676
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 6, impression 7266, like 81, quote 1, reply 6, retweet 2
 
 > everyone shitting on openai for bad sandbox isolation, lol, i’d bet most of you couldn’t break out of that environment and get internet access.  it is not an easy bug.
 
@@ -6241,7 +6136,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-23 04:49 UTC (2026-07-23 05:49 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2080153283562492076
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 7, impression 6689, like 29, quote 0, reply 5, retweet 0
 
 > poor open-source and bug bounty maintainers. this is what they had to go through when people realized they could probably use ai to find 0-days, get CVEs, or earn bounties.
 >
@@ -6254,7 +6149,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @1825243643529027584 — 2026-07-22 20:42 UTC (2026-07-22 21:42 WAT)
     
     - URL: https://x.com/1825243643529027584/status/2080030660933324837
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 506, impression 314365, like 2279, quote 21, reply 66, retweet 66
     
     > I let GPT-5.6 Pro analyze all problems that were solved by LLMs in 2026, which field the problem belonged to and how they were solved
     >
@@ -6288,7 +6183,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @S1r1u5_ — 2026-07-22 11:11 UTC (2026-07-22 12:11 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2079886957866602853
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 3018, like 29, quote 0, reply 3, retweet 0
 
 > the internal model they were testing seems wildly misaligned.
 >
@@ -6305,7 +6200,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @S1r1u5_ — 2026-07-21 22:07 UTC (2026-07-21 23:07 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2079689862123581762
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 3560, like 71, quote 0, reply 2, retweet 5
 
 > it’s funny how people who outside security community hear 0-day and imagine some world-ending bug. any 0-day a model finds gets treated as insane, when it could just be a lame-ass bug in a library.
 
@@ -6321,7 +6216,7 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-21 21:22 UTC (2026-07-21 22:22 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2079678331323359508
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 6, impression 8548, like 43, quote 2, reply 1, retweet 2
 
 > fwiw,
 >
@@ -6338,7 +6233,7 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2026-07-21 20:54 UTC (2026-07-21 21:54 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2079671389091758248
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 10, impression 13445, like 57, quote 3, reply 3, retweet 7
     
     > what the frick! the hugging face attack originated from openai's latest internal model while they were testing a benchmark, probably exploitgym.
     >
@@ -6363,7 +6258,7 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-21 20:54 UTC (2026-07-21 21:54 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2079671389091758248
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 10, impression 13445, like 57, quote 3, reply 3, retweet 7
 
 > what the frick! the hugging face attack originated from openai's latest internal model while they were testing a benchmark, probably exploitgym.
 >
@@ -6390,7 +6285,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-19 08:52 UTC (2026-07-19 09:52 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2078764988429423044
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 10, impression 4374, like 50, quote 0, reply 2, retweet 2
 
 > gpt 5.6 sol xhigh continues to surprise me.
 >
@@ -6415,7 +6310,7 @@ Tags (automatic): SQL injection, RCE, Memory corruption / native, AI-assisted hu
 ### Post — @S1r1u5_ — 2026-07-19 03:27 UTC (2026-07-19 04:27 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2078683029468561414
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 26, impression 9784, like 55, quote 2, reply 8, retweet 0
 
 > kimi is a good model, i really wished for a mythos level capability but unfortunately i’d put it around opus 4.8 level in cybersecurity 
 >
@@ -6438,7 +6333,7 @@ Tags (automatic): SQL injection, RCE, Memory corruption / native, AI-assisted hu
     #### Quoted post — @15534471 — 2026-07-18 20:14 UTC (2026-07-18 21:14 WAT)
     
     - URL: https://x.com/15534471/status/2078574147333152957
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 1352, impression 718678, like 1780, quote 39, reply 45, retweet 156
     
     > We ran Kimi K3 on a private cybersecurity benchmark. 
     >
@@ -6481,7 +6376,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 ### Post — @S1r1u5_ — 2026-07-18 18:10 UTC (2026-07-18 19:10 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2078542824568750120
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 22, impression 7732, like 72, quote 0, reply 3, retweet 4
 
 > if you want to know why n-day exploits being created out of thin air is bad, ask n-day niche hackerone or bugcrowd million-dollar bug hunters what kind of stuff they pop shells on. 
 >
@@ -6496,7 +6391,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 ### Post — @S1r1u5_ — 2026-07-18 09:28 UTC (2026-07-18 10:28 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2078411488478564778
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 89, impression 22715, like 227, quote 2, reply 4, retweet 12
 
 > my first thought after seeing the wordpress core 0-day was to open the PR that introduced the bug and see whether hacktron would’ve caught it.
 >
@@ -6519,7 +6414,7 @@ Tags (automatic): SQL injection, RCE
 ### Post — @S1r1u5_ — 2026-07-18 08:24 UTC (2026-07-18 09:24 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2078395561770885534
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 17, impression 9665, like 93, quote 0, reply 4, retweet 1
 
 > if kimi k3 can write sqli to rce chain on the wordpress bug i would be so damn impressed.
 
@@ -6532,7 +6427,7 @@ Tags (automatic): SQL injection, RCE
 ### Post — @S1r1u5_ — 2026-07-17 10:46 UTC (2026-07-17 11:46 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2078068940455198846
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 17, impression 5247, like 40, quote 0, reply 3, retweet 0
 
 > crazy work of sandbagging man. search for "cyber", "exploit", or "security", you wont find anything
 >
@@ -6549,7 +6444,7 @@ Tags (automatic): SQL injection, RCE
 ### Post — @S1r1u5_ — 2026-07-15 17:11 UTC (2026-07-15 18:11 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2077441002210779640
-- Metrics (at fetch): bookmark 19, impression 7255, like 27, quote 0, reply 3, retweet 2
+- Metrics (at fetch): bookmark 19, impression 7258, like 27, quote 0, reply 3, retweet 2
 
 > lol, articles has a lame bug. if you click edit and forget to publish after edits, it gets removed from timeline🤦‍♂️
 >
@@ -6560,7 +6455,7 @@ Tags (automatic): SQL injection, RCE
     #### Quoted post — @S1r1u5_ — 2026-07-14 20:09 UTC (2026-07-14 21:09 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2077123299142992139
-    - Metrics (at fetch): bookmark 253, impression 77566, like 273, quote 3, reply 12, retweet 64
+    - Metrics (at fetch): bookmark 253, impression 77641, like 273, quote 3, reply 12, retweet 64
     
     > https://t.co/CScRkzvVdl
     
@@ -6585,7 +6480,7 @@ Tags (automatic): RCE, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-15 19:52 UTC (2026-07-15 20:52 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2077481436672905637
-- Metrics (at fetch): bookmark 88, impression 12347, like 128, quote 0, reply 1, retweet 11
+- Metrics (at fetch): bookmark 88, impression 12350, like 128, quote 0, reply 1, retweet 11
 
 > yesterday, I wrote that exploit development is dead, and why models capable of writing exploits for software like chrome are dangerous if they are in wrong hands.
 >
@@ -6643,7 +6538,7 @@ Tags (automatic): RCE, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-14 20:18 UTC (2026-07-14 21:18 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2077125665003098239
-- Metrics (at fetch): bookmark 218, impression 43417, like 336, quote 3, reply 9, retweet 26
+- Metrics (at fetch): bookmark 218, impression 43429, like 337, quote 3, reply 9, retweet 26
 
 > I've been testing GPT-5.6 Sol Ultra from last three days, and it is a quiet a big step up from all previous models.
 >
@@ -6661,7 +6556,7 @@ Tags (automatic): RCE, AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2026-07-14 20:09 UTC (2026-07-14 21:09 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2077123299142992139
-    - Metrics (at fetch): bookmark 253, impression 77566, like 273, quote 3, reply 12, retweet 64
+    - Metrics (at fetch): bookmark 253, impression 77641, like 273, quote 3, reply 12, retweet 64
     
     > https://t.co/CScRkzvVdl
     
@@ -6763,7 +6658,7 @@ Tags (automatic): RCE, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-14 20:09 UTC (2026-07-14 21:09 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2077123299142992139
-- Metrics (at fetch): bookmark 253, impression 77566, like 273, quote 3, reply 12, retweet 64
+- Metrics (at fetch): bookmark 253, impression 77641, like 273, quote 3, reply 12, retweet 64
 
 > https://t.co/CScRkzvVdl
 
@@ -6776,7 +6671,7 @@ Tags (automatic): RCE, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-07-14 05:17 UTC (2026-07-14 06:17 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2076898884434243845
-- Metrics (at fetch): bookmark 5, impression 3389, like 22, quote 0, reply 1, retweet 1
+- Metrics (at fetch): bookmark 5, impression 3390, like 22, quote 0, reply 1, retweet 1
 
 > developers probably aren’t going to like sol ultra.  
 >
@@ -10756,7 +10651,7 @@ Tags (automatic): Memory corruption / native
     #### Quoted post — @samwcyo — 2024-10-21 02:57 UTC (2024-10-21 03:57 WAT)
     
     - URL: https://x.com/samwcyo/status/1848196974006186384
-    - Metrics (at fetch): bookmark 184, impression 70074, like 549, quote 9, reply 23, retweet 42
+    - Metrics (at fetch): bookmark 184, impression 70082, like 550, quote 9, reply 23, retweet 42
     
     > After a really long time only focused on manual web security stuff, almost everything has started to feel like a QA checklist. There are definitely people doing novel research and dropping crazy bugs, but I think a lot of the big stepping stones require people to build really
     

@@ -1,11 +1,85 @@
 # @SuyashS91823422 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 133
-- Conversations/threads: 107
+- Posts in this file: 136
+- Conversations/threads: 110
 - Oldest post captured: 2021-10-06
-- Newest post captured: 2026-11-23
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Reply · @cyberx00t @Bugcrowd https://t.co/1efu7C3hys
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1370207110022062083 — 2026-11-24 13:25 UTC (2026-11-24 14:25 WAT)
+
+- URL: https://x.com/1370207110022062083/status/2125219329084186903
+- Metrics (at fetch): bookmark 0, impression 58, like 0, quote 0, reply 1, retweet 0
+
+> @SuyashS91823422 @Bugcrowd Party De Bhai , Pizza Hi Order Kar De
+
+
+### Post — @SuyashS91823422 — 2026-11-24 13:35 UTC (2026-11-24 14:35 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2125221688241750083
+- Metrics (at fetch): bookmark 0, impression 46, like 0, quote 0, reply 0, retweet 0
+
+> @cyberx00t @Bugcrowd https://t.co/1efu7C3hys
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2026-11-24 · Post · Finally crossed 1,000 points on @Bugcrowd! 🏆
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2026-11-24 12:42 UTC (2026-11-24 13:42 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2125208411721912806
+- Metrics (at fetch): bookmark 3, impression 833, like 51, quote 0, reply 5, retweet 0
+
+> Finally crossed 1,000 points on @Bugcrowd! 🏆
+>
+> After countless hours of hard work, dedication, and consistency, I’ve finally reached this milestone.
+>
+> It wasn’t an overnight achievement, but every report, every rejection, and every lesson helped me get here.
+>
+> #BugBounty #Bugcrowd https://t.co/JzoTjF7VZl
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX5ByA1aIAAdCwr.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-24 · Post · Me and @0xMstar earned $750 for our submission on @bugcrowd https://t.co/26PgFeKjpJ{id: "suyash_tech
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+### Post — @SuyashS91823422 — 2026-11-24 12:05 UTC (2026-11-24 13:05 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2125199167446511977
+- Metrics (at fetch): bookmark 6, impression 1613, like 80, quote 0, reply 1, retweet 1
+
+> Me and @0xMstar earned $750 for our submission on @bugcrowd https://t.co/26PgFeKjpJ{id: "suyash_technorat"} #ItTakesACrowd 
+> Thanks @0xMstar for your Tips and Help 🫡 https://t.co/EzYEwxF9bP
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX45ExbWsAA726-.png — no alt text provided by author
 
 
 ---

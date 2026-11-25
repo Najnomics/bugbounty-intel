@@ -76,3 +76,10 @@ _Auto-maintained from `harness/findings.jsonl`. 7 finding(s). Full verbatim post
 - **HackerOne report #3876430: MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account takeover** (`auth-bypass`)
   - post: https://hackerone.com/reports/3876430
   - local: `writeups/kevin_mizu/hackerone-report-3876430.md`
+
+## 2026-11-25 — system-limit exhaustion → Drupal pre-auth RCE (with @hash_kitten, SLCyber/Assetnote)
+- **fail2install: Drupal core pre-auth RCE via DB-connection / TIME_WAIT exhaustion** (`rce`, `auth-bypass`)
+  - bug: installer treats DB connection errors as "no existing install"; FAIL, FAIL, SUCCESS reopens `/core/install.php`; SQLite path in webroot gives PHP code execution (SA-CORE-2026-017; duplicate of Anthropic OSS Scanner report ANT-2026-GMRPK0BU; KEV CVE-2026-132165)
+  - how found: methodology of turning availability failures (EMFILE, `max_connections`, Linux TIME_WAIT source-port exhaustion) into security primitives
+  - post: https://x.com/kevin_mizu/status/2125231431886479623 (quotes https://x.com/assetnote/status/2125230337156419881)
+  - local: `posts/kevin_mizu/2026-11-24-2125231431886479623.md`, `posts/SLCyberSec/2026-11-24-2125265690831540630.md`, `writeups/kevin_mizu/slcyber-fail2install-system-limits-drupal-preauth-rce.md`, `harness/bug-classes/2026-11-25-limit-exhaustion-failopen-widget-postmessage-deprecated-market.md`

@@ -1,6 +1,6 @@
 # @Guhu95 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 75
 - Conversations/threads: 63
@@ -150,7 +150,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
         #### Quoted post — @Guhu95 — 2025-03-25 02:30 UTC (2025-03-25 03:30 WAT)
         
         - URL: https://x.com/Guhu95/status/1904360201597387131
-        - Metrics (at fetch): bookmark 7, impression 11285, like 47, quote 2, reply 5, retweet 0
+        - Metrics (at fetch): bookmark 7, impression 11286, like 47, quote 2, reply 5, retweet 0
         
         > Some Pectra contest thoughts:
         >
@@ -248,7 +248,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
     #### Quoted post — @Guhu95 — 2025-03-25 02:30 UTC (2025-03-25 03:30 WAT)
     
     - URL: https://x.com/Guhu95/status/1904360201597387131
-    - Metrics (at fetch): bookmark 7, impression 11285, like 47, quote 2, reply 5, retweet 0
+    - Metrics (at fetch): bookmark 7, impression 11286, like 47, quote 2, reply 5, retweet 0
     
     > Some Pectra contest thoughts:
     >
@@ -862,7 +862,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @Guhu95 — 2025-05-01 06:05 UTC (2025-05-01 07:05 WAT)
 
 - URL: https://x.com/Guhu95/status/1917822712984265045
-- Metrics (at fetch): bookmark 7, impression 3474, like 61, quote 0, reply 6, retweet 0
+- Metrics (at fetch): bookmark 7, impression 3475, like 61, quote 0, reply 6, retweet 0
 
 > Audit contests are just a spectator sport. That's the only sane way to treat them. Proof:
 >
@@ -896,7 +896,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @Guhu95 — 2025-03-25 02:30 UTC (2025-03-25 03:30 WAT)
 
 - URL: https://x.com/Guhu95/status/1904360201597387131
-- Metrics (at fetch): bookmark 7, impression 11285, like 47, quote 2, reply 5, retweet 0
+- Metrics (at fetch): bookmark 7, impression 11286, like 47, quote 2, reply 5, retweet 0
 
 > Some Pectra contest thoughts:
 >
@@ -953,7 +953,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @Guhu95 — 2024-11-28 06:33 UTC (2024-11-28 07:33 WAT)
 
 - URL: https://x.com/Guhu95/status/1862021970256379908
-- Metrics (at fetch): bookmark 55, impression 39586, like 236, quote 15, reply 20, retweet 21
+- Metrics (at fetch): bookmark 55, impression 39591, like 236, quote 15, reply 20, retweet 21
 
 > How conditionals are going. An update. 
 >
@@ -971,7 +971,7 @@ Tags (automatic): Platform: Immunefi
     #### Quoted post — @Guhu95 — 2024-07-04 13:27 UTC (2024-07-04 14:27 WAT)
     
     - URL: https://x.com/Guhu95/status/1808855240449667162
-    - Metrics (at fetch): bookmark 49, impression 57634, like 122, quote 4, reply 18, retweet 7
+    - Metrics (at fetch): bookmark 49, impression 57637, like 122, quote 4, reply 18, retweet 7
     
     > [High] Conditional contest pots are bad and stupid. 
     >
@@ -1040,7 +1040,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @Guhu95 — 2024-10-22 03:18 UTC (2024-10-22 04:18 WAT)
 
 - URL: https://x.com/Guhu95/status/1848564637337588056
-- Metrics (at fetch): bookmark 4, impression 3208, like 6, quote 0, reply 4, retweet 0
+- Metrics (at fetch): bookmark 4, impression 3208, like 7, quote 0, reply 4, retweet 0
 
 > Main root cause to fix is not 3 signers IMO.
 >
@@ -1174,7 +1174,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 ### Post — @Guhu95 — 2024-08-08 01:56 UTC (2024-08-08 02:56 WAT)
 
 - URL: https://x.com/Guhu95/status/1821364761252040903
-- Metrics (at fetch): bookmark 8, impression 5033, like 9, quote 0, reply 4, retweet 2
+- Metrics (at fetch): bookmark 8, impression 5034, like 9, quote 0, reply 4, retweet 2
 
 > An alternative model to contests. For contest platforms @sockdrawermoney @cantinaxyz @0xMackenzieM @sherlockdefi 
 >
@@ -1197,7 +1197,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
         #### Quoted post — @Guhu95 — 2024-07-04 13:27 UTC (2024-07-04 14:27 WAT)
         
         - URL: https://x.com/Guhu95/status/1808855240449667162
-        - Metrics (at fetch): bookmark 49, impression 57634, like 122, quote 4, reply 18, retweet 7
+        - Metrics (at fetch): bookmark 49, impression 57637, like 122, quote 4, reply 18, retweet 7
         
         > [High] Conditional contest pots are bad and stupid. 
         >
@@ -1240,7 +1240,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 ### Post — @Guhu95 — 2024-07-04 13:27 UTC (2024-07-04 14:27 WAT)
 
 - URL: https://x.com/Guhu95/status/1808855240449667162
-- Metrics (at fetch): bookmark 49, impression 57634, like 122, quote 4, reply 18, retweet 7
+- Metrics (at fetch): bookmark 49, impression 57637, like 122, quote 4, reply 18, retweet 7
 
 > [High] Conditional contest pots are bad and stupid. 
 >
@@ -1440,7 +1440,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @Guhu95 — 2024-06-06 02:06 UTC (2024-06-06 03:06 WAT)
 
 - URL: https://x.com/Guhu95/status/1798537026620510717
-- Metrics (at fetch): bookmark 37, impression 7825, like 86, quote 2, reply 12, retweet 1
+- Metrics (at fetch): bookmark 37, impression 7827, like 86, quote 2, reply 12, retweet 1
 
 > Some takeaways from the Blast contest: 
 >
@@ -1453,7 +1453,7 @@ Tags (automatic): Smart contract / DeFi
     #### Quoted post — @Guhu95 — 2024-06-05 05:44 UTC (2024-06-05 06:44 WAT)
     
     - URL: https://x.com/Guhu95/status/1798229348719431805
-    - Metrics (at fetch): bookmark 4, impression 13249, like 67, quote 2, reply 6, retweet 0
+    - Metrics (at fetch): bookmark 4, impression 13251, like 67, quote 2, reply 6, retweet 0
     
     > Very happy to rank 2nd in such a huge contest. Have learned a ton, and will share some takeaways later.
     >
@@ -1497,7 +1497,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 ### Post — @Guhu95 — 2024-06-05 05:44 UTC (2024-06-05 06:44 WAT)
 
 - URL: https://x.com/Guhu95/status/1798229348719431805
-- Metrics (at fetch): bookmark 4, impression 13249, like 67, quote 2, reply 6, retweet 0
+- Metrics (at fetch): bookmark 4, impression 13251, like 67, quote 2, reply 6, retweet 0
 
 > Very happy to rank 2nd in such a huge contest. Have learned a ton, and will share some takeaways later.
 >
@@ -1531,7 +1531,10 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 ---
 
-## 2024-04-27 · Post · Sometimes EIP &gt; POC when validating bugs.
+## 2024-04-27 · Post · Sometimes EIP > POC when validating bugs.
+
+
+Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 
 ### Post — @Guhu95 — 2024-04-27 00:32 UTC (2024-04-27 01:32 WAT)
@@ -1539,11 +1542,17 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 - URL: https://x.com/Guhu95/status/1784017738526314718
 - Metrics (at fetch): bookmark 13, impression 1350, like 8, quote 0, reply 0, retweet 1
 
-> Sometimes EIP &gt; POC when validating bugs.
+> Sometimes EIP > POC when validating bugs.
 >
 > With create/create2 forge will not check creation (EIP-3860) or runtime (EIP-170) code size limits. This can make an invalid bug seem valid.
 >
-> TL;DR of the limits: EIP-170 - the constructor will revert for runtime code &gt; 24576 bytes, and https://t.co/CmiLPFBZFr
+> TL;DR of the limits: EIP-170 - the constructor will revert for runtime code > 24576 bytes, and EIP-3860 - post Shanghai create/create2 will revert for creation code > 49152 bytes.
+>
+> For more background see this comment https://github.com/sherlock-audit/2024-02-optimism-2024-judging/issues/83#issuecomment-2079178247
+>
+> And see how @optimizoor doesn't rely on the limits and double-checks just in case https://twitter.com/optimizoor/status/1783975395735523423
+
+**Links in post:** https://twitter.com/optimizoor/status/1783975395735523423, https://github.com/sherlock-audit/2024-02-optimism-2024-judging/issues/83#issuecomment-2079178247
 
 **Quoted post (full text):**
 
@@ -1556,7 +1565,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
     >
     > Designed for long term safety. Our plans are measured in centuries.
     >
-    > Yes, we have the spurious dragon limit today, but what if some le-wild researcher makes a graphene breakthrough and it becomes feasible to remove the spurious dragon limit? https://t.co/1WbfBr9FFN
+    > Yes, we have the spurious dragon limit today, but what if some le-wild researcher makes a graphene breakthrough and it becomes feasible to remove the spurious dragon limit? [pic.x.com/1WbfBr9FFN]
     
     **Media:**
     - media `3_1783974895048900608` (details not returned by the API)
@@ -1565,7 +1574,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 ---
 
-## 2024-04-03 · Post · This bug and writeup are a thing of beauty. https://t.co/xHXVhzTU0V
+## 2024-04-03 · Post · This bug and writeup are a thing of beauty. https://twitter.com/iosiro_security/status/1775533657505
 
 
 ### Post — @Guhu95 — 2024-04-03 22:56 UTC (2024-04-03 23:56 WAT)
@@ -1573,7 +1582,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 - URL: https://x.com/Guhu95/status/1775658788043071663
 - Metrics (at fetch): bookmark 1, impression 930, like 5, quote 0, reply 0, retweet 1
 
-> This bug and writeup are a thing of beauty. https://t.co/xHXVhzTU0V
+> This bug and writeup are a thing of beauty. https://twitter.com/iosiro_security/status/1775533657505300922
+
+**Links in post:** https://twitter.com/iosiro_security/status/1775533657505300922
 
 **Quoted post (full text):**
 
@@ -1600,7 +1611,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 >
 > An audit (contest or not) should try to find all bugs.
 >
-> https://t.co/TvHDyOIii5 https://t.co/4qKpPHFY3r
+> https://x.com/trailofbits/status/1725203769124610126 https://twitter.com/sockdrawermoney/status/1766785348552790054
+
+**Links in post:** https://x.com/trailofbits/status/1725203769124610126, https://twitter.com/sockdrawermoney/status/1766785348552790054
 
 **Quoted post (full text):**
 
@@ -1611,7 +1624,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
     
     > This is 100% why @code4rena didn’t drop lows even after competitors created marketing narrative that they only focus on serious issues.
     >
-    > Not allowing low-severity issues in a competitive audit is a convenience to the platform, NOT an improvement of security outcomes for customers https://t.co/KIDNkIptiG
+    > Not allowing low-severity issues in a competitive audit is a convenience to the platform, NOT an improvement of security outcomes for customers https://twitter.com/StErMi/status/1766744640865116512
+    
+    **Links in post:** https://twitter.com/StErMi/status/1766744640865116512
     
     **Quoted post** 1766744640865116512: not readable via the API (deleted, private, or withheld).
     
@@ -1632,10 +1647,12 @@ Tags (automatic): Platform: Immunefi
 
 > Apparently, for 2023 I ended up at #22. Would have no idea without this upgrade, thanks @immunefi!
 >
-> This is great for whitehats, shows both history and recent work, and is much more motivating. https://t.co/StMHKWIxUB https://t.co/XwRlMXssWO
+> This is great for whitehats, shows both history and recent work, and is much more motivating. [pic.x.com/StMHKWIxUB] https://twitter.com/immunefi/status/1765428971674402860
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GICbwWnbsAA-t-g.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/immunefi/status/1765428971674402860
 
 **Quoted post (full text):**
 
@@ -1652,16 +1669,21 @@ Tags (automatic): Platform: Immunefi
     >
     > Check out where you rank on the list and put it in your Twitter bio!
     >
-    > https://t.co/p0Y2YFegA1 https://t.co/aVuaJieA42
+    > https://immunefi.com/leaderboard/
     
     **Media:**
     - media `3_1765416770842525696` (details not returned by the API)
+    
+    **Links in post:** https://immunefi.com/leaderboard/
     
 
 
 ---
 
 ## 2024-03-01 · Post · I think this actually breaks native ETH restaking. 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
 
 
 ### Post — @Guhu95 — 2024-03-01 02:03 UTC (2024-03-01 03:03 WAT)
@@ -1674,7 +1696,11 @@ Tags (automatic): Platform: Immunefi
 > Slashing on voluntary withdrawal can be postponed indefinitely, so:
 > - The AVS can't get the ETH unlike with LSTs.
 > - The staker keeps earning fees, MEV, and staking rewards (not slashed), so is incentivised to not withdraw!
-> - https://t.co/LVpOBIi2Km
+> - The staker can even sell their keys (which generate rewards), maybe even to the AVS (so they finally get their ETH). Or maybe to a CL attacker.
+>
+> Native ETH restaking is broken by design IMO, and what's worse, creates a market for "slashable ETH stake" that accumulates ETH consensus attack risk.
+
+**Links in post:** https://twitter.com/jordanmmck/status/1763249568135688640
 
 **Quoted post (full text):**
 
@@ -1703,7 +1729,7 @@ Tags (automatic): Platform: Immunefi
 >
 > Contests: Play. Carefree, quirky sub-games, cleverness.
 >
-> Bounties: Adventure. Big stakes, no promises, here be dragons. https://t.co/jxj1jyTLyZ
+> Bounties: Adventure. Big stakes, no promises, here be dragons. [pic.x.com/jxj1jyTLyZ]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GHFL4gubMAA787V.jpg — no alt text provided by author
@@ -1757,7 +1783,7 @@ Tags (automatic): Platform: Immunefi
 - URL: https://x.com/Guhu95/status/1748130734550978601
 - Metrics (at fetch): bookmark 1, impression 826, like 5, quote 0, reply 0, retweet 0
 
-> Love it how the winners in this marketing fight between two firms are only bounty hunters and solo auditors https://t.co/7iLJDNXmxM https://t.co/NeTVdbn0dw
+> Love it how the winners in this marketing fight between two firms are only bounty hunters and solo auditors [pic.x.com/7iLJDNXmxM] https://t.co/NeTVdbn0dw
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GEKY3Kha8AAthi9.jpg — no alt text provided by author
@@ -1770,7 +1796,20 @@ Tags (automatic): Platform: Immunefi
     - Metrics (at fetch): bookmark 9, impression 15103, like 44, quote 5, reply 2, retweet 6
     
     > Short answer - we will not, this is not even a bug bounty report. 
-    > But a very interesting finding, kudos to @zachobront, funny thing we found it in our audit as well, you would want to look at FNG-20 here (its the first bug in the link you shared, which I guess you haven’t https://t.co/MM2f0xlhFN
+    > But a very interesting finding, kudos to @zachobront, funny thing we found it in our audit as well, you would want to look at FNG-20 here (its the first bug in the link you shared, which I guess you haven’t noticed)
+    >
+    > Global answer - we will reward as many eligible reports as there will be. 
+    >
+    > Even if it was a missed one, we dont find any contest/audit results to be eligible, main reasons: its still part of projects development pipeline, the severity is very ambiguous in these reports, there is literally no value add for our customers.
+    >
+    > Regarding your clear dissatisfaction with the fact that our customers have yet never been hacked:  
+    > "you never had an incident", well, not "us", but our customers.
+    > If you read the thread you know that we never state that projects should only go with our audits, moreover we almost always encourage them to retest the code with multiple auditors and recommend good ones, we recommend to undergo contests (if we find that suitable) and to have an effective BB program. One thing you might not grasp is that Im sad that this is not an eligible find, I would be much happier if this was a valid report. That will simply mean that the bug was eventually found by whitehats and the funds of the users and protocol are safe, and we are eager to incentivize that. 
+    >
+    > PS: We are putting effort to help the place become safer, this appreciation system is something we hope can help at least a bit. I don’t think this kind of sarcasm between security companies helps.
+    > If you really care and this is not just a hate tweet, do the same, contribute to your customers security, add a 10k on top of their bounties.
+    
+    **Links in post:** https://twitter.com/TrustSecAudits/status/1748069220301095073
     
     **Quoted post** 1748069220301095073: not readable via the API (deleted, private, or withheld).
     
@@ -1786,10 +1825,12 @@ Tags (automatic): Platform: Immunefi
 - URL: https://x.com/Guhu95/status/1748130289652797909
 - Metrics (at fetch): bookmark 0, impression 3, like 0, quote 0, reply 0, retweet 0
 
-> Love it how the winners in this marketing fight between two firms are only bounty hunters and solo auditors who do 0 marketing https://t.co/Nov0TA8BDp https://t.co/NeTVdbn0dw
+> Love it how the winners in this marketing fight between two firms are only bounty hunters and solo auditors who do 0 marketing [pic.x.com/Nov0TA8BDp] https://twitter.com/k3mmio/status/1748104880269488547
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GEKY3Kha8AAthi9.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/k3mmio/status/1748104880269488547
 
 **Quoted post (full text):**
 
@@ -1799,7 +1840,20 @@ Tags (automatic): Platform: Immunefi
     - Metrics (at fetch): bookmark 9, impression 15103, like 44, quote 5, reply 2, retweet 6
     
     > Short answer - we will not, this is not even a bug bounty report. 
-    > But a very interesting finding, kudos to @zachobront, funny thing we found it in our audit as well, you would want to look at FNG-20 here (its the first bug in the link you shared, which I guess you haven’t https://t.co/MM2f0xlhFN
+    > But a very interesting finding, kudos to @zachobront, funny thing we found it in our audit as well, you would want to look at FNG-20 here (its the first bug in the link you shared, which I guess you haven’t noticed)
+    >
+    > Global answer - we will reward as many eligible reports as there will be. 
+    >
+    > Even if it was a missed one, we dont find any contest/audit results to be eligible, main reasons: its still part of projects development pipeline, the severity is very ambiguous in these reports, there is literally no value add for our customers.
+    >
+    > Regarding your clear dissatisfaction with the fact that our customers have yet never been hacked:  
+    > "you never had an incident", well, not "us", but our customers.
+    > If you read the thread you know that we never state that projects should only go with our audits, moreover we almost always encourage them to retest the code with multiple auditors and recommend good ones, we recommend to undergo contests (if we find that suitable) and to have an effective BB program. One thing you might not grasp is that Im sad that this is not an eligible find, I would be much happier if this was a valid report. That will simply mean that the bug was eventually found by whitehats and the funds of the users and protocol are safe, and we are eager to incentivize that. 
+    >
+    > PS: We are putting effort to help the place become safer, this appreciation system is something we hope can help at least a bit. I don’t think this kind of sarcasm between security companies helps.
+    > If you really care and this is not just a hate tweet, do the same, contribute to your customers security, add a 10k on top of their bounties.
+    
+    **Links in post:** https://twitter.com/TrustSecAudits/status/1748069220301095073
     
     **Quoted post** 1748069220301095073: not readable via the API (deleted, private, or withheld).
     
@@ -1815,10 +1869,12 @@ Tags (automatic): Platform: Immunefi
 - URL: https://x.com/Guhu95/status/1748128983978553385
 - Metrics (at fetch): bookmark 0, impression 16, like 1, quote 0, reply 0, retweet 0
 
-> Love it how the winners in this marketing fight between two firms are only bounty hunters and solo auditors https://t.co/eC8y4hxgxX https://t.co/NeTVdbn0dw
+> Love it how the winners in this marketing fight between two firms are only bounty hunters and solo auditors [pic.x.com/eC8y4hxgxX] https://twitter.com/kemmio/status/1748104880269488547
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GEKY3Kha8AAthi9.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/kemmio/status/1748104880269488547
 
 **Quoted post (full text):**
 
@@ -1828,7 +1884,20 @@ Tags (automatic): Platform: Immunefi
     - Metrics (at fetch): bookmark 9, impression 15103, like 44, quote 5, reply 2, retweet 6
     
     > Short answer - we will not, this is not even a bug bounty report. 
-    > But a very interesting finding, kudos to @zachobront, funny thing we found it in our audit as well, you would want to look at FNG-20 here (its the first bug in the link you shared, which I guess you haven’t https://t.co/MM2f0xlhFN
+    > But a very interesting finding, kudos to @zachobront, funny thing we found it in our audit as well, you would want to look at FNG-20 here (its the first bug in the link you shared, which I guess you haven’t noticed)
+    >
+    > Global answer - we will reward as many eligible reports as there will be. 
+    >
+    > Even if it was a missed one, we dont find any contest/audit results to be eligible, main reasons: its still part of projects development pipeline, the severity is very ambiguous in these reports, there is literally no value add for our customers.
+    >
+    > Regarding your clear dissatisfaction with the fact that our customers have yet never been hacked:  
+    > "you never had an incident", well, not "us", but our customers.
+    > If you read the thread you know that we never state that projects should only go with our audits, moreover we almost always encourage them to retest the code with multiple auditors and recommend good ones, we recommend to undergo contests (if we find that suitable) and to have an effective BB program. One thing you might not grasp is that Im sad that this is not an eligible find, I would be much happier if this was a valid report. That will simply mean that the bug was eventually found by whitehats and the funds of the users and protocol are safe, and we are eager to incentivize that. 
+    >
+    > PS: We are putting effort to help the place become safer, this appreciation system is something we hope can help at least a bit. I don’t think this kind of sarcasm between security companies helps.
+    > If you really care and this is not just a hate tweet, do the same, contribute to your customers security, add a 10k on top of their bounties.
+    
+    **Links in post:** https://twitter.com/TrustSecAudits/status/1748069220301095073
     
     **Quoted post** 1748069220301095073: not readable via the API (deleted, private, or withheld).
     
@@ -2005,6 +2074,8 @@ Tags (automatic): Platform: Immunefi
 >
 > Or should we instead ask the blackhats to limit themselves to one attack too?
 
+**Links in post:** https://twitter.com/dannygfromnyc/status/1670416136478003203
+
 **Quoted post (full text):**
 
     #### Quoted post — @1548683514006192128 — 2023-06-18 13:00 UTC (2023-06-18 14:00 WAT)
@@ -2078,8 +2149,6 @@ Tags (automatic): Platform: Immunefi
 > I usually estimate P(find) at 10-20% depending on code quality, and P(getting-paid) depends on the sketchiness of project🫠. 
 >
 > The probabilities are a guess, but this really helps keep a positive, focused mindset knowing I followed a rational process.
-
-**Links in post:** https://twitter.com/Guhu95/status/1703987327469846838
 
 **Quoted post (full text):**
 
@@ -2229,7 +2298,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @Guhu95 — 2023-08-19 10:47 UTC (2023-08-19 11:47 WAT)
 
 - URL: https://x.com/Guhu95/status/1692850687682760982
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 4368, like 53, quote 0, reply 5, retweet 5
 
 > Made it to the @immunefi leaderboard 😎 [pic.x.com/UumXBwjlFd]
 

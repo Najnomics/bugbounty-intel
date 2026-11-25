@@ -1,9 +1,9 @@
 # @irsdl — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 620
-- Conversations/threads: 538
+- Posts in this file: 621
+- Conversations/threads: 539
 - Oldest post captured: 2010-05-25
 - Newest post captured: 2026-11-23
 
@@ -1385,7 +1385,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @irsdl — 2026-08-11 20:46 UTC (2026-08-11 21:46 WAT)
     
     - URL: https://x.com/irsdl/status/2087279465479245886
-    - Metrics (at fetch): bookmark 23, impression 5721, like 50, quote 1, reply 0, retweet 8
+    - Metrics (at fetch): bookmark 23, impression 5732, like 50, quote 1, reply 0, retweet 8
     
     > A URL-encoded ASP .NET Cookieless marker could partially bypass the CVE-2023-36899 fix and cross IIS application boundaries. https://t.co/99bfwV8PV2
     
@@ -1399,7 +1399,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @irsdl — 2026-08-11 20:46 UTC (2026-08-11 21:46 WAT)
 
 - URL: https://x.com/irsdl/status/2087279465479245886
-- Metrics (at fetch): bookmark 23, impression 5721, like 50, quote 1, reply 0, retweet 8
+- Metrics (at fetch): bookmark 23, impression 5732, like 50, quote 1, reply 0, retweet 8
 
 > A URL-encoded ASP .NET Cookieless marker could partially bypass the CVE-2023-36899 fix and cross IIS application boundaries. https://t.co/99bfwV8PV2
 
@@ -1493,7 +1493,7 @@ Tags (automatic): RCE
 ### Post — @irsdl — 2026-07-29 19:08 UTC (2026-07-29 20:08 WAT)
 
 - URL: https://x.com/irsdl/status/2082543892352704990
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 35, impression 8591, like 101, quote 2, reply 2, retweet 26
 
 > YSoNet v2026.7.9 is out 🎉
 >
@@ -1539,13 +1539,41 @@ Tags (automatic): RCE
 
 ---
 
+## 2026-07-22 · Post · Most Gareths I know are good! But this Heyes one is something else 😆
+
+
+### Post — @irsdl — 2026-07-22 08:23 UTC (2026-07-22 09:23 WAT)
+
+- URL: https://x.com/irsdl/status/2079844665105269243
+- Metrics (at fetch): bookmark 3, impression 2440, like 14, quote 0, reply 1, retweet 2
+
+> Most Gareths I know are good! But this Heyes one is something else 😆
+> Now time to see if we can have a payload starting with &lt;NUMBER https://t.co/ySCxU86Eeh
+
+**Quoted post (full text):**
+
+    #### Quoted post — @garethheyes — 2026-07-21 20:33 UTC (2026-07-21 21:33 WAT)
+    
+    - URL: https://x.com/garethheyes/status/2079665975075434710
+    - Metrics (at fetch): bookmark 459, impression 32598, like 622, quote 4, reply 13, retweet 78
+    
+    > I haven't posted a crazy XSS vector for a while...
+    > Works on every browser [pic.x.com/PzeM8uM3zS]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HNx0WfkWMAAFJqL.jpg — alt text: "<alert(1) onfocus="attributes[0].value=localName,new onfocus" autofocus tabindex=1>"
+    
+
+
+---
+
 ## 2026-07-16 · Post · YSoNet now supports interactive mode + autocomplete in PowerShell. 
 
 
 ### Post — @irsdl — 2026-07-16 21:41 UTC (2026-07-16 22:41 WAT)
 
 - URL: https://x.com/irsdl/status/2077871197090377768
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 21, impression 4408, like 40, quote 0, reply 3, retweet 13
 
 > YSoNet now supports interactive mode + autocomplete in PowerShell. 
 > String obfuscation has also been added to GitHub builds to reduce false detections, alongside several bug fixes.
@@ -1555,7 +1583,7 @@ Tags (automatic): RCE
 > http://ysonet.net | http://ysonet.com [pic.x.com/10JKVNIVDz]
 
 **Media:**
-- video: https://pbs.twimg.com/amplify_video_thumb/2077870156659728386/img/My3dAKrWUhycBVn2.jpg — no alt text provided by author
+- video:  — no alt text provided by author
 
 **Links in post:** http://ysonet.net, http://ysonet.com
 
@@ -1571,7 +1599,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @irsdl — 2026-07-15 23:50 UTC (2026-07-16 00:50 WAT)
 
 - URL: https://x.com/irsdl/status/2077541448765833421
-- Metrics (at fetch): bookmark 19, impression 4776, like 48, quote 0, reply 2, retweet 8
+- Metrics (at fetch): bookmark 19, impression 4778, like 48, quote 0, reply 2, retweet 8
 
 > I’ve finally updated Sharpener for #BurpSuite.
 >

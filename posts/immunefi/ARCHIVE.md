@@ -1,11 +1,245 @@
 # @immunefi — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 59
-- Conversations/threads: 54
+- Posts in this file: 66
+- Conversations/threads: 61
 - Oldest post captured: 2021-09-16
-- Newest post captured: 2026-11-23
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Post · A lending market almost nobody used just cost Kava Lend 53.9M KAVA.
+
+
+Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
+
+
+### Post — @immunefi — 2026-11-24 12:41 UTC (2026-11-24 13:41 WAT)
+
+- URL: https://x.com/immunefi/status/2125208065817653313
+- Metrics (at fetch): bookmark 9, impression 2752, like 34, quote 0, reply 2, retweet 5
+
+> A lending market almost nobody used just cost Kava Lend 53.9M KAVA.
+>
+> HARD Lend still had a BUSD market live. BUSD has been winding down since 2023, so activity there was close to zero. But the code was still deployed and still connected to the protocol's shared KAVA pool.
+>
+> The attacker found an accounting flaw that inflated the value of BUSD collateral.
+>
+> With that inflated collateral on the books, they ran repeated borrow-and-liquidate loops. Each cycle pulled real KAVA out of the pool.
+>
+> ~49.2M KAVA was bridged to BNB Chain and sold. Exchanges paused deposits and withdrawals, and the Axelar bridge was paused.
+>
+> The chain itself was never compromised, and no new tokens were minted. Kava is now speeding up HARD Lend's retirement.
+>
+> A market can be dead to users and still live to attackers. Any deployed contract that touches shared liquidity is attack surface, whatever its volume.
+>
+> Audits review code at a point in time. Assets get deprecated, usage drops, and nobody goes back to check the forgotten corners. A continuous bug bounty keeps researchers looking at everything still deployed, including the parts your team stopped thinking about.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX5BeSmbgAA7bo-.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-24 · Reply · @HolyDevoti0n 🫡🫡
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1695353782639480832 — 2026-11-23 21:11 UTC (2026-11-23 22:11 WAT)
+
+- URL: https://x.com/1695353782639480832/status/2124974261358018838
+- Metrics (at fetch): bookmark 0, impression 631, like 19, quote 0, reply 3, retweet 0
+
+> Joining now. Let me see what I can do :D https://t.co/d2zL3o6pe9
+
+**Quoted post (full text):**
+
+    #### Quoted post — @immunefi — 2026-11-23 18:32 UTC (2026-11-23 19:32 WAT)
+    
+    - URL: https://x.com/immunefi/status/2124934011487412327
+    - Metrics (at fetch): bookmark 31, impression 6536, like 53, quote 2, reply 4, repost 2
+    
+    > The @base Everest audit competition is live and will run until December 1.
+    >
+    > 💰 $250,000 USDC.
+    > 🔍 ~135,000 lines of Rust and Solidity.
+    > 📆 Nov 19 - Dec 1, 2026
+    >
+    > Scope
+    > ✦ In: the Beryl, Cobalt, Denim and Everest code across base-consensus, base-reth-node, base/contracts, nitro-validator, the ZK circuits and B20 precompiles
+    > ✦ Out: Optimism contracts Base doesn't deploy, and Base mainnet or public testnets
+    > ✦ Public known issues are invalid. Private ones unlock the matching pool
+    >
+    > Rules
+    > ✦ Runnable PoC required for every report, proving the impact claimed, on the local Everest devnet
+    > ✦ Never test against the public sequencer. Use a local devnet
+    > ✦ Duplicates are valid until a fix is public
+    >
+    > Rewards
+    > ✦ The highest severity found sets the payout: Critical $250k, High $125k, Medium $70k, Low $30k, none $20k
+    > ✦ Payouts by Dec 25
+    >
+    > KYC
+    > ✦ Required for payout.
+    >
+    > Credits
+    > ✦ Fees are paid in credits ($1 each). Valid reports, valid dupes and mediations decided in your favor earn the fee back, credited every two weeks.
+    > ✦ Credits you buy also unlock Studio hunting for this competition.
+    > Valid work costs you nothing.
+    >
+    > FAQ
+    >
+    > Q: I disagree with a closure. What do I do? A: Request mediation within 48 hours of the report's final status. If you're right, you get your credits back.
+    >
+    > Q: My dupe was closed while the original is still under evaluation? A: If the original turns out valid, your report's status will change.
+    >
+    > Q: When does the Base team review reports? A: Competitions run on their own SLA. The Base team starts reviewing this week.
+    >
+    > Q: Can I use Immunefi Studio for this competition? A: Yes.
+    >
+    > Competition rules, scope and timeline: https://immunefi.com/audit-competition/audit-comp-base-everest/information/?utm_source=twitter&utm_medium=social&utm_campaign=base-everest-audit-competition
+    >
+    > Considering running an audit competition? Get in touch: https://immunefi.com/projects/get-started/?utm_source=twitter&utm_medium=social&utm_campaign=base-everest-audit-competition
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HX1IOJVbYAIANrG.jpg — alt text: "Image (described by archiver; no alt text): Base logo, "AUDIT COMPETITION IS NOW LIVE — FAQ", Immunefi logo, dark pink city art."
+    
+    **Links in post:** https://immunefi.com/audit-competition/audit-comp-base-everest/information/?utm_source=twitter&utm_medium=social&utm_campaign=base-everest-audit-competition, https://immunefi.com/projects/get-started/?utm_source=twitter&utm_medium=social&utm_campaign=base-everest-audit-competition
+    
+
+
+### Post — @immunefi — 2026-11-24 11:29 UTC (2026-11-24 12:29 WAT)
+
+- URL: https://x.com/immunefi/status/2125189979785601511
+- Metrics (at fetch): bookmark 0, impression 110, like 1, quote 0, reply 0, retweet 0
+
+> @HolyDevoti0n 🫡🫡
+
+
+---
+
+## 2026-11-24 · Reply · @Yurikk28 dm yuribm for a studio invite
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1639057579241267220 — 2026-11-24 07:59 UTC (2026-11-24 08:59 WAT)
+
+- URL: https://x.com/1639057579241267220/status/2125137216574021996
+- Metrics (at fetch): bookmark 0, impression 380, like 9, quote 0, reply 2, retweet 1
+
+> Got 5 invites to @immunefi Studio 🔑
+>
+> • Review: verdict on your draft in ~3 min (dup, known issue, ready)
+> • Signals: payout + response times per program
+> • MCP for Claude Code/Codex
+>
+> First wave closes ~Dec 9. Want one? DM me 👇
+>
+> #BugBounty #Web3Security
+
+
+### Post — @immunefi — 2026-11-24 11:26 UTC (2026-11-24 12:26 WAT)
+
+- URL: https://x.com/immunefi/status/2125189299993776246
+- Metrics (at fetch): bookmark 0, impression 226, like 5, quote 0, reply 0, retweet 1
+
+> @Yurikk28 dm yuribm for a studio invite
+
+
+---
+
+## 2026-11-24 · Reply · @xdeltabear @gr99v33 🫶🫶 our favorite bear
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2055002642095501312 — 2026-11-24 08:39 UTC (2026-11-24 09:39 WAT)
+
+- URL: https://x.com/2055002642095501312/status/2125147156772532547
+- Metrics (at fetch): bookmark 0, impression 73, like 1, quote 0, reply 1, retweet 0
+
+> @gr99v33 @immunefi Or use this link for the invite:  https://t.co/F37wqLVzSk
+
+
+### Post — @immunefi — 2026-11-24 11:25 UTC (2026-11-24 12:25 WAT)
+
+- URL: https://x.com/immunefi/status/2125189141235368409
+- Metrics (at fetch): bookmark 0, impression 71, like 1, quote 0, reply 0, retweet 0
+
+> @xdeltabear @gr99v33 🫶🫶 our favorite bear
+
+
+---
+
+## 2026-11-24 · Reply · @xdeltabear Letsgooo. Great work!
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2055002642095501312 — 2026-11-24 00:08 UTC (2026-11-24 01:08 WAT)
+
+- URL: https://x.com/2055002642095501312/status/2125018611626484061
+- Metrics (at fetch): bookmark 3, impression 1538, like 71, quote 0, reply 14, retweet 3
+
+> I just found a confirmed bug on @immunefi #immunefitribe https://t.co/t9Se4ZST6t
+
+
+### Post — @immunefi — 2026-11-24 11:25 UTC (2026-11-24 12:25 WAT)
+
+- URL: https://x.com/immunefi/status/2125188972934492239
+- Metrics (at fetch): bookmark 0, impression 186, like 1, quote 0, reply 1, retweet 0
+
+> @xdeltabear Letsgooo. Great work!
+
+
+---
+
+## 2026-11-24 · Reply · @TBCnetwork_ Even bigger
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2096162030629916672 — 2026-11-23 15:02 UTC (2026-11-23 16:02 WAT)
+
+- URL: https://x.com/2096162030629916672/status/2124881404882506214
+- Metrics (at fetch): bookmark 0, impression 153, like 6, quote 0, reply 2, retweet 0
+
+> @immunefi Do you think bug bounties in regular software will grow to DeFi sizes?
+
+
+### Post — @immunefi — 2026-11-24 11:24 UTC (2026-11-24 12:24 WAT)
+
+- URL: https://x.com/immunefi/status/2125188695301193921
+- Metrics (at fetch): bookmark 0, impression 44, like 0, quote 0, reply 0, retweet 0
+
+> @TBCnetwork_ Even bigger
+
+
+---
+
+## 2026-11-24 · Post · This Immunefi All Star just earned $10,000 for a high-severity vulnerability in a website/applicatio
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @immunefi — 2026-11-24 10:04 UTC (2026-11-24 11:04 WAT)
+
+- URL: https://x.com/immunefi/status/2125168556119835076
+- Metrics (at fetch): bookmark 5, impression 3587, like 75, quote 0, reply 4, retweet 4
+
+> This Immunefi All Star just earned $10,000 for a high-severity vulnerability in a website/application!
+>
+> @PerseveranceSu5 sits 45th on the all-time leaderboard and 35th over the last 90 days, with 4 paid criticals across their bug bounty work.
+>
+> High severity means a serious flaw https://t.co/WWCSzKQrAM
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX4dig-bEAAOm12.jpg — no alt text provided by author
 
 
 ---
@@ -1463,10 +1697,12 @@ Tags (automatic): Platform: Immunefi
 >
 > Check out where you rank on the list and put it in your Twitter bio!
 >
-> https://t.co/p0Y2YFegA1 https://t.co/aVuaJieA42
+> https://immunefi.com/leaderboard/
 
 **Media:**
 - media `3_1765416770842525696` (details not returned by the API)
+
+**Links in post:** https://immunefi.com/leaderboard/
 
 
 ---

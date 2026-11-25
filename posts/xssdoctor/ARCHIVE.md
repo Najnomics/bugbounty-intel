@@ -1,10 +1,10 @@
 # @xssdoctor — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 179
-- Conversations/threads: 113
-- Oldest post captured: 2023-07-10
+- Posts in this file: 204
+- Conversations/threads: 138
+- Oldest post captured: 2018-11-20
 - Newest post captured: 2026-11-23
 
 
@@ -2168,6 +2168,19 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2024-03-08 · Post · My ADD is kicking in hard and I need direction. Should I hack, code or learn today?
+
+
+### Post — @xssdoctor — 2024-03-08 14:05 UTC (2024-03-08 15:05 WAT)
+
+- URL: https://x.com/xssdoctor/status/1766103057308209387
+- Metrics (at fetch): bookmark 0, impression 1796, like 6, quote 0, reply 4, retweet 0
+
+> My ADD is kicking in hard and I need direction. Should I hack, code or learn today?
+
+
+---
+
 ## 2024-03-07 · Post · Yay, I was awarded a $500 bounty on @Hacker0x01! https://t.co/uDPAQipgRZ TogetherWeHitHarder
 
 
@@ -2213,6 +2226,19 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
+## 2023-12-20 · Post · Had a great conversation in the @Jhaddix discord earlier today.
+
+
+### Post — @xssdoctor — 2023-12-20 22:22 UTC (2023-12-20 23:22 WAT)
+
+- URL: https://x.com/xssdoctor/status/1737599408139620666
+- Metrics (at fetch): bookmark 0, impression 1188, like 4, quote 0, reply 0, retweet 0
+
+> Had a great conversation in the @Jhaddix discord earlier today.
+
+
+---
+
 ## 2023-12-07 · Post · Yay, I was awarded a $750 bounty on @Hacker0x01! https://t.co/uDPAQipgRZ TogetherWeHitHarder
 
 
@@ -2222,9 +2248,35 @@ Tags (automatic): Platform: HackerOne
 ### Post — @xssdoctor — 2023-12-07 20:07 UTC (2023-12-07 21:07 WAT)
 
 - URL: https://x.com/xssdoctor/status/1732854368792150284
-- Metrics (at fetch): bookmark 0, impression 1137, like 9, quote 0, reply 0, retweet 0
+- Metrics (at fetch): bookmark 0, impression 1137, like 10, quote 0, reply 0, retweet 0
 
 > Yay, I was awarded a $750 bounty on @Hacker0x01! https://t.co/uDPAQipgRZ #TogetherWeHitHarder
+
+
+---
+
+## 2023-12-04 · Post · My fourth time taking @Jhaddix course was even better than my first. I learn something new each time
+
+
+### Post — @xssdoctor — 2023-12-04 02:17 UTC (2023-12-04 03:17 WAT)
+
+- URL: https://x.com/xssdoctor/status/1731497895201771969
+- Metrics (at fetch): bookmark 1, impression 4979, like 16, quote 0, reply 1, retweet 2
+
+> My fourth time taking @Jhaddix course was even better than my first. I learn something new each time!
+
+
+---
+
+## 2023-11-27 · Post · The most exciting words in the English language are “Thanks for this report. We are reviewing intern
+
+
+### Post — @xssdoctor — 2023-11-27 15:20 UTC (2023-11-27 16:20 WAT)
+
+- URL: https://x.com/xssdoctor/status/1729158304818192525
+- Metrics (at fetch): bookmark 0, impression 860, like 3, quote 0, reply 0, retweet 0
+
+> The most exciting words in the English language are “Thanks for this report. We are reviewing internally.”
 
 
 ---
@@ -2235,9 +2287,22 @@ Tags (automatic): Platform: HackerOne
 ### Post — @xssdoctor — 2023-11-25 20:30 UTC (2023-11-25 21:30 WAT)
 
 - URL: https://x.com/xssdoctor/status/1728511585495224597
-- Metrics (at fetch): bookmark 0, impression 4836, like 20, quote 0, reply 2, retweet 1
+- Metrics (at fetch): bookmark 0, impression 4836, like 21, quote 0, reply 2, retweet 1
 
 > @Jhaddix bug bounty methodology course is even better the second time
+
+
+---
+
+## 2023-11-11 · Post · Sent a patient to the ed this week for new onset afib. Not only did the er attending call me when th
+
+
+### Post — @xssdoctor — 2023-11-11 23:38 UTC (2023-11-12 00:38 WAT)
+
+- URL: https://x.com/xssdoctor/status/1723485458108154146
+- Metrics (at fetch): bookmark 0, impression 1033, like 4, quote 0, reply 0, retweet 0
+
+> Sent a patient to the ed this week for new onset afib. Not only did the er attending call me when the patient arrived but (I found out later) called the PATIENT after discharge to find out how she was doing. God bless you Mr. Er doc
 
 
 ---
@@ -2254,6 +2319,138 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 0, impression 1028, like 3, quote 0, reply 0, retweet 0
 
 > Taking a small break from bug hunting to play with gpt4-turbo. Thinking this may be the silver bullet for js analysis.
+
+
+---
+
+## 2023-11-04 · Post · @noob_labs I don’t remember what the sink was exactly, but the page was running jquery and it was ex
+
+
+### Post — @xssdoctor — 2023-11-04 15:41 UTC (2023-11-04 16:41 WAT)
+
+- URL: https://x.com/xssdoctor/status/1720828637107167547
+- Metrics (at fetch): bookmark 0, impression 37, like 0, quote 0, reply 0, retweet 0
+
+> @noob_labs I don’t remember what the sink was exactly, but the page was running jquery and it was extremely vulnerable. There was no obfuscation or minification. The page was meant for users after they purchased something so the target didn’t harden it
+
+
+---
+
+## 2023-11-04 · Reply · @noob_labs I looked at the JavaScript.
+
+
+### Post — @xssdoctor — 2023-11-04 15:34 UTC (2023-11-04 16:34 WAT)
+
+- URL: https://x.com/xssdoctor/status/1720826781232468379
+- Metrics (at fetch): bookmark 0, impression 49, like 0, quote 0, reply 1, retweet 0
+
+> @noob_labs I looked at the JavaScript.
+
+
+---
+
+## 2023-10-31 · Post · I just released v2 of my vhost fuzzing tool. The main improvement over v1 is that this version actua
+
+
+### Post — @xssdoctor — 2023-10-31 12:21 UTC (2023-10-31 13:21 WAT)
+
+- URL: https://x.com/xssdoctor/status/1719328743632605557
+- Metrics (at fetch): bookmark 19, impression 3216, like 25, quote 0, reply 0, retweet 6
+
+> I just released v2 of my vhost fuzzing tool. The main improvement over v1 is that this version actually works and doesn’t crash every time you try to use it. https://t.co/cYyzvUTA1f
+
+
+---
+
+## 2023-10-30 · Post · ffuf is great for vhost scanning a single host, but not multiple hosts. Its very hard to filter for 
+
+
+### Post — @xssdoctor — 2023-10-30 00:55 UTC (2023-10-30 01:55 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718793818068144206
+- Metrics (at fetch): bookmark 110, impression 22182, like 186, quote 0, reply 1, retweet 47
+
+> ffuf is great for vhost scanning a single host, but not multiple hosts. Its very hard to filter for words/lines/sc with multiple ip's. Its been frustrating me, so i decided to channel my inner
+> @TomNomNom
+> and write a tool for it. Enjoy! https://t.co/cYyzvUTA1f
+
+
+---
+
+## 2023-10-30 · Post · sorry i didnt put in the right url https://t.co/cYyzvUTA1f
+
+
+### Post — @xssdoctor — 2023-10-30 00:55 UTC (2023-10-30 01:55 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718793597716136044
+- Metrics (at fetch): bookmark 1, impression 595, like 1, quote 0, reply 0, retweet 0
+
+> sorry i didnt put in the right url https://t.co/cYyzvUTA1f
+
+
+---
+
+## 2023-10-29 · Post · Reading packed, minified JavaScript files “until my eyes bleed” like @Rhynorater is killing me. My e
+
+
+### Post — @xssdoctor — 2023-10-29 12:10 UTC (2023-10-29 13:10 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718601300563128429
+- Metrics (at fetch): bookmark 136, impression 21275, like 147, quote 0, reply 3, retweet 34
+
+> Reading packed, minified JavaScript files “until my eyes bleed” like @Rhynorater is killing me. My eyes are bleeding too much. But when the stars align there is a .map file. I run it through this tool https://t.co/uTPv9w8jJF. It feels like cheating.
+
+
+---
+
+## 2023-10-28 · Post · I look at burp to try to see each request made when I do this one small  thing. Keeping super focuse
+
+
+### Post — @xssdoctor — 2023-10-28 11:53 UTC (2023-10-28 12:53 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718234438750830762
+- Metrics (at fetch): bookmark 0, impression 1014, like 12, quote 0, reply 0, retweet 0
+
+> I look at burp to try to see each request made when I do this one small  thing. Keeping super focused on one small part of the app calms me and lets me hack without going down rabbit holes or just rage quitting
+
+
+---
+
+## 2023-10-28 · Post · I  perform the function 100 times. I make a python script which automates the functionality, I open 
+
+
+### Post — @xssdoctor — 2023-10-28 11:50 UTC (2023-10-28 12:50 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718233726730051905
+- Metrics (at fetch): bookmark 0, impression 1086, like 8, quote 0, reply 1, retweet 0
+
+> I  perform the function 100 times. I make a python script which automates the functionality, I open up dev tools and set breakpoints to try to understand why each thing is happening
+
+
+---
+
+## 2023-10-28 · Post · When I first look at a target I get super overwhelmed. There are so many endpoints, so many api call
+
+
+### Post — @xssdoctor — 2023-10-28 11:47 UTC (2023-10-28 12:47 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718233136792764429
+- Metrics (at fetch): bookmark 22, impression 9183, like 47, quote 0, reply 1, retweet 10
+
+> When I first look at a target I get super overwhelmed. There are so many endpoints, so many api calls and so much minified JavaScript I don’t know where to start. So what I’ve been doing is picking just one functionality and following the entire flow
+
+
+---
+
+## 2023-10-28 · Post · Sorry I meant to say a p2
+
+
+### Post — @xssdoctor — 2023-10-28 11:19 UTC (2023-10-28 12:19 WAT)
+
+- URL: https://x.com/xssdoctor/status/1718226083793756397
+- Metrics (at fetch): bookmark 0, impression 515, like 0, quote 0, reply 0, retweet 0
+
+> Sorry I meant to say a p2
 
 
 ---
@@ -2279,7 +2476,9 @@ Tags (automatic): XSS
 - URL: https://x.com/xssdoctor/status/1718222822349127776
 - Metrics (at fetch): bookmark 1, impression 1804, like 6, quote 0, reply 1, retweet 0
 
-> That the buyer would visit like https://t.co/dyrT5jTkF4]. The url would then redirect to a second url like https://t.co/NgG9GdfZvg. The buyer would confirm his/her purchase by clicking a submit button
+> That the buyer would visit like http://secure.target.com/[token]. The url would then redirect to a second url like http://abc.target.com?name=buyer. The buyer would confirm his/her purchase by clicking a submit button
+
+**Links in post:** http://secure.target.com/[token, http://abc.target.com?name=buyer
 
 
 ### Thread part 3 — @xssdoctor — 2023-10-28 11:08 UTC (2023-10-28 12:08 WAT)
@@ -2316,7 +2515,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2023-10-24 · Post · Yay, I was awarded a $350 bounty on @Hacker0x01! https://t.co/uDPAQipOHx TogetherWeHitHarder
+## 2023-10-24 · Post · Yay, I was awarded a $350 bounty on @Hacker0x01! https://hackerone.com/xssdoctor TogetherWeHitHarde
 
 
 Tags (automatic): Platform: HackerOne
@@ -2327,7 +2526,9 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/xssdoctor/status/1716868843283624123
 - Metrics (at fetch): bookmark 0, impression 476, like 3, quote 0, reply 0, retweet 0
 
-> Yay, I was awarded a $350 bounty on @Hacker0x01! https://t.co/uDPAQipOHx #TogetherWeHitHarder
+> Yay, I was awarded a $350 bounty on @Hacker0x01! https://hackerone.com/xssdoctor #TogetherWeHitHarder
+
+**Links in post:** https://hackerone.com/xssdoctor
 
 
 ---
@@ -2340,7 +2541,35 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/xssdoctor/status/1715721707401400423
 - Metrics (at fetch): bookmark 5, impression 690, like 13, quote 0, reply 0, retweet 0
 
-> For those interested in recon, enumeration, fingerprinting, in depth-analysis on a target, Just found this incredible YouTube channel. https://t.co/yWz9mRKOvI
+> For those interested in recon, enumeration, fingerprinting, in depth-analysis on a target, Just found this incredible YouTube channel. https://youtube.com/@rs0n_live?si=LNbrtGOz4sWvvTEX
+
+**Links in post:** https://youtube.com/@rs0n_live?si=LNbrtGOz4sWvvTEX
+
+
+---
+
+## 2023-10-20 · Post · Hacking is the best addiction I’ve ever had
+
+
+### Post — @xssdoctor — 2023-10-20 16:49 UTC (2023-10-20 17:49 WAT)
+
+- URL: https://x.com/xssdoctor/status/1715409807014855099
+- Metrics (at fetch): not returned
+
+> Hacking is the best addiction I’ve ever had
+
+
+---
+
+## 2023-10-13 · Post · Currently in a deep dive on js files after listening to @ctbbpodcast. Super hard to understand these
+
+
+### Post — @xssdoctor — 2023-10-13 20:31 UTC (2023-10-13 21:31 WAT)
+
+- URL: https://x.com/xssdoctor/status/1712929018536751473
+- Metrics (at fetch): not returned
+
+> Currently in a deep dive on js files after listening to @ctbbpodcast. Super hard to understand these minified react files. Any good resources available?
 
 
 ---
@@ -2354,6 +2583,19 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 0, impression 4218, like 15, quote 0, reply 1, retweet 1
 
 > Spent all last weekend watching @Jhaddix bug bounty methodology course. I loved it so much I did it again this weekend. Really exceptional.
+
+
+---
+
+## 2023-07-15 · Post · Some of the responses to @galliummd’s tweet were disheartening. As a cardiologist, obesity is one of
+
+
+### Post — @xssdoctor — 2023-07-15 22:40 UTC (2023-07-15 23:40 WAT)
+
+- URL: https://x.com/xssdoctor/status/1680346590987407360
+- Metrics (at fetch): not returned
+
+> Some of the responses to @galliummd’s tweet were disheartening. As a cardiologist, obesity is one of the biggest risk factors for every disease that I treat. There is now a safe and effective treatment.  Lifestyle modification often does not work. Why is this controversial?
 
 
 ---
@@ -2380,3 +2622,112 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 2, impression 592, like 3, quote 0, reply 1, retweet 1
 
 > Today I’m Exploring WAF bypass techniques! What i’m trying: 1️⃣ Identify the cloud architecture 🌩️ 2️⃣ Scan the IP space with RustScan for 80,443 🛡️ 3️⃣ Perform virtual host enumeration using HTTPX 🕸️ 4️⃣ Grepping response strings🕵️‍♂️ Let me know your thoughts #BugBounty
+
+
+---
+
+## 2023-07-08 · Post · Just finished the first day of TBHM with @Jhaddix. What an believable course. Im so excited for Day 
+
+
+### Post — @xssdoctor — 2023-07-08 20:02 UTC (2023-07-08 21:02 WAT)
+
+- URL: https://x.com/xssdoctor/status/1677770164379549701
+- Metrics (at fetch): not returned
+
+> Just finished the first day of TBHM with @Jhaddix. What an believable course. Im so excited for Day 2
+
+
+---
+
+## 2023-06-05 · Post · Starting out in hacking was like finding my way in the dark, but HackTheBox Academy lit the path. D
+
+
+### Post — @xssdoctor — 2023-06-05 15:04 UTC (2023-06-05 16:04 WAT)
+
+- URL: https://x.com/xssdoctor/status/1665736250244976642
+- Metrics (at fetch): not returned
+
+> Starting out in hacking was like finding my way in the dark, but #HackTheBox Academy lit the path. Doing boxes then watching @ippsec's video breakdowns was a game changer. It's like having a personal tour guide through the maze of cybersecurity. #InfoSec #LearningToHack
+
+
+---
+
+## 2023-06-05 · Post · Reached platinum in Season Open Beta Season from Hack The Box https://www.hackthebox.com/achievement
+
+
+### Post — @xssdoctor — 2023-06-05 02:17 UTC (2023-06-05 03:17 WAT)
+
+- URL: https://x.com/xssdoctor/status/1665543279742418944
+- Metrics (at fetch): not returned
+
+> Reached platinum in Season Open Beta Season from Hack The Box https://www.hackthebox.com/achievement/season/548219/1 #hackthebox #htb #cybersecurity
+
+**Links in post:** https://www.hackthebox.com/achievement/season/548219/1
+
+
+---
+
+## 2023-06-05 · Post · I’m not here to sell anything or hype anything. I don’t have a YouTube channel, a web site or onlyfa
+
+
+### Post — @xssdoctor — 2023-06-05 00:30 UTC (2023-06-05 01:30 WAT)
+
+- URL: https://x.com/xssdoctor/status/1665516350377213954
+- Metrics (at fetch): not returned
+
+> I’m not here to sell anything or hype anything. I don’t have a YouTube channel, a web site or onlyfans. I’m here to learn and to meet cool people
+
+
+---
+
+## 2023-06-04 · Post · Hello Twitter! I’m a cardiologist turned EthicalHacker. Two years ago, I knew nothing about tech. N
+
+
+Tags (automatic): Platform: HackerOne
+
+
+### Post — @xssdoctor — 2023-06-04 23:48 UTC (2023-06-05 00:48 WAT)
+
+- URL: https://x.com/xssdoctor/status/1665505815942295553
+- Metrics (at fetch): not returned
+
+> Hello Twitter! I’m a cardiologist turned #EthicalHacker. Two years ago, I knew nothing about tech. Now, im in the $100 club on @Hacker0x01, and can do a few hard boxes on @hackthebox_eu without help. From heart to hardware, whether you care or not, I’m here to share my journey
+
+
+---
+
+## 2021-11-27 · Post · @singe were you ever able to get hashcat working on your M1? I’ve been pulling my hair out for days 
+
+
+### Post — @xssdoctor — 2021-11-27 22:33 UTC (2021-11-27 23:33 WAT)
+
+- URL: https://x.com/xssdoctor/status/1464724150354862083
+- Metrics (at fetch): not returned
+
+> @singe were you ever able to get hashcat working on your M1? I’ve been pulling my hair out for days over: clEnqueueReadBuffer(): CL_INVALID_VALUE
+
+
+---
+
+## 2018-11-20 · Post · And all I got was an email https://t.co/MSdZH0X3W8
+
+
+### Post — @xssdoctor — 2018-11-20 23:31 UTC (2018-11-21 00:31 WAT)
+
+- URL: https://x.com/xssdoctor/status/1065024835372371973
+- Metrics (at fetch): not returned
+
+> And all I got was an email https://t.co/MSdZH0X3W8
+
+**Quoted post (full text):**
+
+    #### Quoted post — @846518452584173569 — 2018-11-20 14:17 UTC (2018-11-20 15:17 WAT)
+    
+    - URL: https://x.com/846518452584173569/status/1064885414568357888
+    - Metrics (at fetch): not returned
+    
+    > #Premeds: Check out these #Acceptance phone calls! Follow your strategy, stay focused. We look forward to calling you one day. Good luck! Posted with John’s (and family’s) permission. @AAMCPreMed @DrMarthaGulati @choo_ek @KCraigKentMD @OhioStateMed [pic.x.com/dKIa1sYXoX]
+    
+    **Media:**
+    - media `7_1064885165246304257` (details not returned by the API)
+    

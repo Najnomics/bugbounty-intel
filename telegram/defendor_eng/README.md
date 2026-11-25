@@ -5,13 +5,13 @@ Public web preview used for this archive: [https://t.me/s/defendor_eng](https://
 
 - **Title:** Defendor — DeFi Security
 - **Description:** Web3 Security Feed /  / Ads: https://t.me/arsen_btnk
-- **Channel counters (at crawl):** 2.6K | subscribers | 2.04K | photos | 2.08K | links
+- **Channel counters (at crawl):** 2.6K | subscribers | 2.08K | photos | 2.13K | links
 - **Messages captured:** 2141
 - **ID range:** 1–2380
 - **Date range (WAT, Africa/Lagos):** 2025-04-22T08:42:27+01:00 → 2026-11-23T20:27:51+01:00
 - **Backfill complete (reached first available message):** True
 - **Oldest captured id:** 1
-- **Newest captured id:** 2334
+- **Newest captured id:** 2380
 - **Machine-readable:** [`data/telegram_defendor_eng.jsonl`](../../data/telegram_defendor_eng.jsonl) (one JSON object per message)
 
 Every message is stored **verbatim** (full text, links, forwarded-from, media type). This archive exists so another agent that cannot open Telegram or X still has the complete text.

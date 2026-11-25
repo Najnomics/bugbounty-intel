@@ -1,4 +1,4 @@
-# HackerOne disclosed reports by weakness (12778 reports)
+# HackerOne disclosed reports by weakness (12783 reports)
 
 
 ## Unspecified (1280)
@@ -1284,7 +1284,7 @@
 - [3460138](reports/2026/3460138.md) Open Email Relay on WordPress Gutenberg Plugin via formAction parameter leads to phishing and spam campaigns — wordpress — - —  — 
 - [4227402](reports/2026/4227402.md) Multiple Vulnerabilities in curl/libcurl URL Parser (RFC3986 Compliance Issues) — curl — critical —  — 
 
-## Information Disclosure (1194)
+## Information Disclosure (1195)
 
 - [231460](reports/2017/231460.md) Open prod Jenkins instance — snapchat — high — $15,000 — Information Disclosure
 - [911606](reports/2021/911606.md) Leaked JFrog Artifactory  username and password exposed on GitHub - https://snapchat.jfrog.io — snapchat — high — $15,000 — Information Disclosure
@@ -2480,6 +2480,7 @@
 - [4151790](reports/2026/4151790.md) Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in visitor's response is cached at the edge and returned to ev — basecamp — low —  — Information Disclosure
 - [4117330](reports/2026/4117330.md) Anonymous Translation Suggestion IP Address Exposure Through Change API — weblate — low —  — Information Disclosure
 - [4218369](reports/2026/4218369.md) Cross-IP Cookie Disclosure via Empty Custom Host Header Truncation — curl — medium —  — Information Disclosure
+- [4172841](reports/2026/4172841.md) Sensitive Access Tokens Logged in Server Log Files — ibm — high —  — Information Disclosure
 
 ## Cross-site Scripting (XSS) - Generic (744)
 
@@ -3947,7 +3948,7 @@
 - [3665151](reports/2026/3665151.md) Brave Shields Domain Reordering Leads to Origin Confusion — brave — low —  — Violation of Secure Design Principles
 - [3829030](reports/2026/3829030.md) Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption — yelp — low —  — Violation of Secure Design Principles
 
-## Improper Access Control - Generic (709)
+## Improper Access Control - Generic (710)
 
 - [2293343](reports/2025/2293343.md) Account Takeover via Password Reset without user interactions — gitlab — critical — $35,000 — Improper Access Control - Generic
 - [1685822](reports/2022/1685822.md) RepositoryPipeline allows importing of local git repos — gitlab — medium — $22,300 — Improper Access Control - Generic
@@ -4658,8 +4659,9 @@
 - [4059370](reports/2026/4059370.md) Mass assignment in chat.sendMessage allows unprivileged users to forge message state: persistent room DoS, stored HTML injection, and cross-user write — rocket_chat — medium —  — Improper Access Control - Generic
 - [4119675](reports/2026/4119675.md) Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creating site-wide Language rows without language.add — weblate — medium —  — Improper Access Control - Generic
 - [3892948](reports/2026/3892948.md) Broken access control: any member can self-assign arbitrary BuddyPress member types via the ungated "types" REST parameter, bypassing the bp_moderate  — wordpress — medium —  — Improper Access Control - Generic
+- [4118627](reports/2026/4118627.md) weblate.org: a removed customer owner regains ownership with one GET to /fosdem/donate/, even after token rotation, and can lock out the other owners — weblate — medium —  — Improper Access Control - Generic
 
-## Improper Authentication - Generic (674)
+## Improper Authentication - Generic (675)
 
 - [1328546](reports/2022/1328546.md) Incorrect authorization to the intelbot service leading to ticket information — tiktok — critical — $15,000 — Improper Authentication - Generic
 - [976603](reports/2021/976603.md) Ability to DOS any organization's SSO and open up the door to account takeovers — superhuman — high — $10,500 — Improper Authentication - Generic
@@ -5335,6 +5337,7 @@
 - [4043537](reports/2026/4043537.md) CampTix [camptix_private]: the view token is derived from the requester's own IP, so naming any attendee's e-mail unlocks the gated content — wordpress — medium —  — Improper Authentication - Generic
 - [2256569](reports/2026/2256569.md) Access and see `reactions recieved` on the notification of any user — discourse — high —  — Improper Authentication - Generic
 - [4180338](reports/2026/4180338.md) Unauthenticated API Writes  to Full IBM Software Access — ibm — critical —  — Improper Authentication - Generic
+- [3883702](reports/2026/3883702.md) DNS Rebinding Enables Unauthorized MCP Tool Access — ibm — critical —  — Improper Authentication - Generic
 
 ## Cross-site Scripting (XSS) - Reflected (523)
 
@@ -12510,6 +12513,22 @@
 - [1560324](reports/2022/1560324.md) Cookie injection from non-secure context — curl — high —  — Session Fixation
 - [3161827](reports/2025/3161827.md) Session Persistence Designed to Keep Users Logged In Across Multiple Devices (Intended Behaviour) — shopify — none —  — Session Fixation
 
+## Use of Hard-coded Credentials (13)
+
+- [246995](reports/2017/246995.md) [█████████] Hardcoded credentials in Android App — eternal — critical — $500 — Use of Hard-coded Credentials
+- [1078373](reports/2024/1078373.md) Credentials leaked via Github — acronis — medium — $50 — Use of Hard-coded Credentials
+- [291200](reports/2018/291200.md) Hard Coded username and password in registry — kaspersky — none —  — Use of Hard-coded Credentials
+- [649322](reports/2019/649322.md) Important information leaked on Github — equifax — high —  — Use of Hard-coded Credentials
+- [716292](reports/2019/716292.md) JumpCloud API Key leaked via Open Github Repository. — starbucks — critical —  — Use of Hard-coded Credentials
+- [766346](reports/2020/766346.md) API Keys Hardcoded in Github repository — rocket_chat — medium —  — Use of Hard-coded Credentials
+- [877402](reports/2020/877402.md) Hard coded Username and password in GiHub commit — kubernetes — none —  — Use of Hard-coded Credentials
+- [789370](reports/2020/789370.md) [com.smule.autorap.*] Cloud Messaging/Push Notification service takeover due to clear-text usage of Legacy FCM Server keys in the client app  — smule — critical —  — Use of Hard-coded Credentials
+- [1368690](reports/2022/1368690.md) Hardcoded AWS credentials in ███████.msi — 8x8-bounty — critical —  — Use of Hard-coded Credentials
+- [1580567](reports/2022/1580567.md) Exposed valid AWS, Mysql, Sendgrid and other secrets — glovo — critical —  — Use of Hard-coded Credentials
+- [1927499](reports/2023/1927499.md) Testing flow includes a DeepSource secret — weblate — low —  — Use of Hard-coded Credentials
+- [1957430](reports/2023/1957430.md) Credential leak on GitHub: https://github.com/█/█/ (Peoplesoft CRM) — 8x8-bounty — low —  — Use of Hard-coded Credentials
+- [3966705](reports/2026/3966705.md) Default OAuth2 Credentials on SAP Commerce Cloud — Admin Token via Published Sample Secret (CVE-2026-44761) — essity — medium —  — Use of Hard-coded Credentials
+
 ## Unrestricted Upload of File with Dangerous Type (12)
 
 - [1547877](reports/2022/1547877.md) [Kafka Connect] [JdbcSinkConnector][HttpSinkConnector] RCE by leveraging file upload via SQLite JDBC driver and SSRF to internal Jolokia — aiven_ltd — critical — $5,000 — Unrestricted Upload of File with Dangerous Type
@@ -12539,21 +12558,6 @@
 - [1087744](reports/2022/1087744.md) Improper deep link validation  — shopify — low —  — Forced Browsing
 - [1737358](reports/2025/1737358.md) URL Scheme Validation Bypass in Shopify Mobile App Allows Javascript Execution — shopify — low —  — Forced Browsing
 - [3761789](reports/2026/3761789.md) Mentioned unites are at the same time .Then we have to increase the bounty. — curl — none —  — Forced Browsing
-
-## Use of Hard-coded Credentials (12)
-
-- [246995](reports/2017/246995.md) [█████████] Hardcoded credentials in Android App — eternal — critical — $500 — Use of Hard-coded Credentials
-- [1078373](reports/2024/1078373.md) Credentials leaked via Github — acronis — medium — $50 — Use of Hard-coded Credentials
-- [291200](reports/2018/291200.md) Hard Coded username and password in registry — kaspersky — none —  — Use of Hard-coded Credentials
-- [649322](reports/2019/649322.md) Important information leaked on Github — equifax — high —  — Use of Hard-coded Credentials
-- [716292](reports/2019/716292.md) JumpCloud API Key leaked via Open Github Repository. — starbucks — critical —  — Use of Hard-coded Credentials
-- [766346](reports/2020/766346.md) API Keys Hardcoded in Github repository — rocket_chat — medium —  — Use of Hard-coded Credentials
-- [877402](reports/2020/877402.md) Hard coded Username and password in GiHub commit — kubernetes — none —  — Use of Hard-coded Credentials
-- [789370](reports/2020/789370.md) [com.smule.autorap.*] Cloud Messaging/Push Notification service takeover due to clear-text usage of Legacy FCM Server keys in the client app  — smule — critical —  — Use of Hard-coded Credentials
-- [1368690](reports/2022/1368690.md) Hardcoded AWS credentials in ███████.msi — 8x8-bounty — critical —  — Use of Hard-coded Credentials
-- [1580567](reports/2022/1580567.md) Exposed valid AWS, Mysql, Sendgrid and other secrets — glovo — critical —  — Use of Hard-coded Credentials
-- [1927499](reports/2023/1927499.md) Testing flow includes a DeepSource secret — weblate — low —  — Use of Hard-coded Credentials
-- [1957430](reports/2023/1957430.md) Credential leak on GitHub: https://github.com/█/█/ (Peoplesoft CRM) — 8x8-bounty — low —  — Use of Hard-coded Credentials
 
 ## Improper Null Termination (11)
 
@@ -13420,3 +13424,7 @@
 ## Access Control Check Implemented After Asset is Accessed (1)
 
 - [3852102](reports/2026/3852102.md) Revoked deployment collaborator regains access to private comments after active collaborator interaction — vercel — medium — $1,026 — Access Control Check Implemented After Asset is Accessed
+
+## Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') (1)
+
+- [3891423](reports/2026/3891423.md) Python Sandbox Escape in AWS MCP Server `run_script` — aws_vdp — medium —  — Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection')

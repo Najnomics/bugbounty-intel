@@ -1,9 +1,9 @@
 # @lavados — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 71
-- Conversations/threads: 62
+- Posts in this file: 78
+- Conversations/threads: 69
 - Oldest post captured: 2014-06-13
 - Newest post captured: 2026-05-14
 
@@ -346,7 +346,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @lavados — 2025-01-20 19:54 UTC (2025-01-20 20:54 WAT)
 
 - URL: https://x.com/lavados/status/1881430009497465020
-- Metrics (at fetch): bookmark 0, impression 708, like 2, quote 0, reply 1, retweet 0
+- Metrics (at fetch): bookmark 0, impression 711, like 2, quote 0, reply 1, retweet 0
 
 > Can I ask you all for a quick review of this idea?
 >
@@ -394,6 +394,22 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2024-12-01 · Post · Got some negative or unrealistic threat model results that still bring interesting insights? A side 
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @lavados — 2024-12-01 15:53 UTC (2024-12-01 16:53 WAT)
+
+- URL: https://x.com/lavados/status/1863250041516761541
+- Metrics (at fetch): bookmark 5, impression 3884, like 27, quote 0, reply 1, retweet 18
+
+> Got some negative or unrealistic threat model results that still bring interesting insights? A side channel that requires root to leak something from the kernel? Reproducing prior work? Somewhat related to microarchitecture? Here's your venue: https://t.co/Ph8eLfpE1l
+
+
+---
+
 ## 2024-08-06 · Post · . @notbobbytables and I arrive in Vegas for blackhat later today! Looking forward to our talk about
 
 
@@ -404,6 +420,98 @@ Tags (automatic): AI-assisted hunting
 
 > . @notbobbytables and I arrive in Vegas for #blackhat later today! Looking forward to our talk about the new snailload attack!
 > Hoping to meet a lot of known and new faces 😅
+
+
+---
+
+## 2023-12-18 · Post · With each piece of the interview with @yossioren we're diving deeper and are now discussing what can
+
+
+### Post — @lavados — 2023-12-18 16:09 UTC (2023-12-18 17:09 WAT)
+
+- URL: https://x.com/lavados/status/1736780765021524006
+- Metrics (at fetch): bookmark 0, impression 2107, like 4, quote 1, reply 1, retweet 1
+
+> With each piece of the interview with @yossioren we're diving deeper and are now discussing what can be done against side-channel attacks:
+> https://t.co/uMz8nuC5P3
+
+
+---
+
+## 2023-11-29 · Post · Let's talk about side-channel mitigations! Thanks @yossioren for these great questions :D
+
+
+### Post — @lavados — 2023-11-29 18:19 UTC (2023-11-29 19:19 WAT)
+
+- URL: https://x.com/lavados/status/1729927968250642536
+- Metrics (at fetch): bookmark 1, impression 2369, like 7, quote 1, reply 0, retweet 1
+
+> Let's talk about side-channel mitigations! Thanks @yossioren for these great questions :D
+> #sidechannelsecurity
+> https://t.co/RmQmB6obCr https://t.co/bYQ19fzkaU
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2023-11-27 · Post · This week we release more episodes than usually. Today I discuss with @yossioren how side-channel at
+
+
+### Post — @lavados — 2023-11-27 15:17 UTC (2023-11-27 16:17 WAT)
+
+- URL: https://x.com/lavados/status/1729157540934799727
+- Metrics (at fetch): bookmark 2, impression 2063, like 5, quote 1, reply 0, retweet 2
+
+> This week we release more episodes than usually. Today I discuss with @yossioren how side-channel attacks can be mounted even in remote settings and what we can do to prevent these remote attacks.
+> https://t.co/mP60tJZ1RD
+> #sidechannelsecurity https://t.co/JyN7tcOTaK
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+---
+
+## 2023-11-26 · Post · Here's the next one: @yossioren
+
+
+### Post — @lavados — 2023-11-26 19:20 UTC (2023-11-26 20:20 WAT)
+
+- URL: https://x.com/lavados/status/1728856321620148501
+- Metrics (at fetch): bookmark 4, impression 2748, like 5, quote 1, reply 0, retweet 1
+
+> Here's the next one: @yossioren
+> asking tricky questions about the threat model behind side-channel attacks... https://t.co/fLXMvMhhnC
+> #sidechannelsecurity
+
+
+---
+
+## 2023-11-09 · Post · More of our short video series on side-channel attacks with @yossioren - we explore the concept of m
+
+
+### Post — @lavados — 2023-11-09 10:21 UTC (2023-11-09 11:21 WAT)
+
+- URL: https://x.com/lavados/status/1722560079461765437
+- Metrics (at fetch): bookmark 1, impression 1906, like 10, quote 1, reply 0, retweet 1
+
+> More of our short video series on side-channel attacks with @yossioren - we explore the concept of meta-data a bit further: https://t.co/Jfg4CC4cd0
+
+
+---
+
+## 2023-10-05 · Post · We got some more of that side-channel interview: https://t.co/nCWWNArEvz
+
+
+### Post — @lavados — 2023-10-05 14:32 UTC (2023-10-05 15:32 WAT)
+
+- URL: https://x.com/lavados/status/1709939662670930227
+- Metrics (at fetch): bookmark 2, impression 1443, like 4, quote 1, reply 0, retweet 1
+
+> We got some more of that side-channel interview: https://t.co/nCWWNArEvz
+> This discuss the complexity of just guessing a password vs. using a side channel #sidechannelsecurity /cc @yossioren
 
 
 ---

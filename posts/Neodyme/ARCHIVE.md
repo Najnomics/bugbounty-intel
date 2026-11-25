@@ -1,6 +1,6 @@
 # @Neodyme — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 208
 - Conversations/threads: 137
@@ -976,7 +976,9 @@ Tags (automatic): RCE
 
 > At #Pwn2Own Ireland 2024, we successfully targeted the SOHO Smashup category. 🖨️
 > Starting with a QNAP QHora-322 NAS, we pivoted to the Canon imageCLASS MF656Cdw - and ended up with shellcode execution.
-> Read the full vulnerability deep dive here 👉 https://t.co/Lx8T5mLVaL
+> Read the full vulnerability deep dive here 👉 https://neodyme.io/en/blog/pwn2own-2024_canon_rce/
+
+**Links in post:** https://neodyme.io/en/blog/pwn2own-2024_canon_rce/
 
 
 ---
@@ -1082,7 +1084,7 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 ### Post — @Neodyme — 2025-02-12 15:08 UTC (2025-02-12 16:08 WAT)
 
 - URL: https://x.com/Neodyme/status/1889693177415684356
-- Metrics (at fetch): bookmark 24, impression 3791, like 59, quote 0, reply 0, retweet 16
+- Metrics (at fetch): bookmark 24, impression 3792, like 58, quote 0, reply 0, retweet 16
 
 > 🔎Digging deeper into COM hijacking!
 > In Part 3, we explore two new vulnerabilities: 
@@ -1118,7 +1120,7 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 ### Post — @Neodyme — 2025-01-29 15:16 UTC (2025-01-29 16:16 WAT)
 
 - URL: https://x.com/Neodyme/status/1884621551028318332
-- Metrics (at fetch): bookmark 12, impression 2354, like 44, quote 0, reply 1, retweet 14
+- Metrics (at fetch): bookmark 12, impression 2354, like 45, quote 0, reply 1, retweet 14
 
 > 🔎Part 2 of our COM hijacking series is live!
 > This time, we discuss a vulnerability in AVG Internet Security, where we bypass an allow-list, disable self-protection, and exploit an update mechanism to escalate privileges to SYSTEM 🚀💻
@@ -1158,7 +1160,7 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 ### Post — @Neodyme — 2025-01-17 14:00 UTC (2025-01-17 15:00 WAT)
 
 - URL: https://x.com/Neodyme/status/1880253893680197795
-- Metrics (at fetch): bookmark 38, impression 5939, like 83, quote 3, reply 2, retweet 29
+- Metrics (at fetch): bookmark 38, impression 5940, like 84, quote 3, reply 2, retweet 29
 
 > Your laptop was stolen. It’s running Windows 11, fully up-to-date, device encryption (BitLocker) and Secure Boot enabled. Your data is safe, right? Think again! This software-only attack grabs your encryption key. Following up on our #38C3 talk: https://neodyme.io/blog/bitlocker_screwed_without_a_screwdriver/
 
@@ -1173,7 +1175,7 @@ Tags (automatic): SSRF, RCE, Mobile / Android / iOS
 ### Post — @Neodyme — 2025-01-15 15:10 UTC (2025-01-15 16:10 WAT)
 
 - URL: https://x.com/Neodyme/status/1879546640983310647
-- Metrics (at fetch): bookmark 28, impression 15713, like 71, quote 3, reply 1, retweet 22
+- Metrics (at fetch): bookmark 28, impression 15715, like 71, quote 3, reply 1, retweet 22
 
 > Following our #38c3 talk about exploiting security software for privilege escalation, we're excited to kick off a new blog series! 🎊 
 > Check out our first blog post on our journey to 💥 exploit five reputable security products to gain privileges via COM hijacking: https://neodyme.io/blog/com_hijacking_1/
@@ -1224,7 +1226,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2024-11-21 16:56 UTC (2024-11-21 17:56 WAT)
 
 - URL: https://x.com/Neodyme/status/1859641975030546679
-- Metrics (at fetch): bookmark 3, impression 1471, like 13, quote 1, reply 0, retweet 7
+- Metrics (at fetch): bookmark 3, impression 1473, like 13, quote 1, reply 0, retweet 7
 
 > 💥When security software itself becomes a target! 💥
 > Learn how we've uncovered critical vulnerabilities in Wazuh, turning a powerful security tool into an unexpected attack vector. 
@@ -1465,7 +1467,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2024-05-14 13:16 UTC (2024-05-14 14:16 WAT)
 
 - URL: https://x.com/Neodyme/status/1790370530765291708
-- Metrics (at fetch): bookmark 2, impression 3309, like 22, quote 1, reply 10, retweet 7
+- Metrics (at fetch): bookmark 2, impression 3310, like 22, quote 1, reply 10, retweet 7
 
 > In collaboration with @cirosec, we've identified several privilege escalation vulnerabilities in multiple popular antivirus and EDR solutions.
 >
@@ -1547,7 +1549,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @Neodyme — 2024-03-15 23:09 UTC (2024-03-16 00:09 WAT)
 
 - URL: https://x.com/Neodyme/status/1768776639335317644
-- Metrics (at fetch): bookmark 8, impression 15064, like 27, quote 4, reply 1, retweet 5
+- Metrics (at fetch): bookmark 8, impression 15065, like 27, quote 4, reply 1, retweet 5
 
 > An innovation in LST swapping, a new smart contract framework and a state corruption bug:
 >
@@ -1704,7 +1706,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2024-03-13 22:21 UTC (2024-03-13 23:21 WAT)
 
 - URL: https://x.com/Neodyme/status/1768039762735022157
-- Metrics (at fetch): bookmark 14, impression 7440, like 28, quote 3, reply 2, retweet 4
+- Metrics (at fetch): bookmark 14, impression 7441, like 28, quote 3, reply 2, retweet 4
 
 > Ever wonder what happens when you let the world's best auditors loose on a program written by Solana OGs? 
 >
@@ -1866,7 +1868,7 @@ Tags (automatic): Dependency confusion / supply chain, Blockchain / L1-L2 / brid
 ### Post — @Neodyme — 2023-12-14 16:35 UTC (2023-12-14 17:35 WAT)
 
 - URL: https://x.com/Neodyme/status/1735337711555285261
-- Metrics (at fetch): bookmark 67, impression 32498, like 144, quote 10, reply 4, retweet 40
+- Metrics (at fetch): bookmark 67, impression 32500, like 144, quote 10, reply 4, retweet 40
 
 > Technical Analysis of the Ledger Supply-Chain Attack 🧵
 >
@@ -1999,7 +2001,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     #### Quoted post — @Neodyme — 2023-11-01 14:30 UTC (2023-11-01 15:30 WAT)
     
     - URL: https://x.com/Neodyme/status/1719723518638817321
-    - Metrics (at fetch): bookmark 22, impression 31116, like 110, quote 11, reply 22, retweet 70
+    - Metrics (at fetch): bookmark 22, impression 31212, like 111, quote 11, reply 22, retweet 71
     
     > Introducing Riverguard 🏞️💂
     >
@@ -2048,7 +2050,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2023-11-01 14:30 UTC (2023-11-01 15:30 WAT)
 
 - URL: https://x.com/Neodyme/status/1719723518638817321
-- Metrics (at fetch): bookmark 22, impression 31116, like 110, quote 11, reply 22, retweet 70
+- Metrics (at fetch): bookmark 22, impression 31212, like 111, quote 11, reply 22, retweet 71
 
 > Introducing Riverguard 🏞️💂
 >
@@ -2399,7 +2401,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2023-10-19 23:32 UTC (2023-10-20 00:32 WAT)
 
 - URL: https://x.com/Neodyme/status/1715149044794655145
-- Metrics (at fetch): bookmark 8, impression 5261, like 34, quote 5, reply 2, retweet 8
+- Metrics (at fetch): bookmark 8, impression 5263, like 34, quote 5, reply 2, retweet 8
 
 > @synthetify got hacked in a DAO attack.
 >
@@ -2593,7 +2595,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2023-08-10 02:10 UTC (2023-08-10 03:10 WAT)
 
 - URL: https://x.com/Neodyme/status/1689459151599206400
-- Metrics (at fetch): bookmark 0, impression 1938, like 12, quote 1, reply 1, retweet 0
+- Metrics (at fetch): bookmark 0, impression 1939, like 12, quote 1, reply 1, retweet 0
 
 > Congrats to @b2ahex for winning  @PwnieAwards Top Desktop Bug category this year! Well deserved.
 >

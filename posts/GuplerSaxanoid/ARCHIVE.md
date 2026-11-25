@@ -1,11 +1,37 @@
 # @GuplerSaxanoid — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 8
-- Conversations/threads: 6
+- Posts in this file: 9
+- Conversations/threads: 7
 - Oldest post captured: 2026-11-01
-- Newest post captured: 2026-11-04
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Reply · @mdowd Bible
+
+
+**Context — post being replied to:**
+
+#### Parent post — @15581551 — 2026-11-24 05:59 UTC (2026-11-24 06:59 WAT)
+
+- URL: https://x.com/15581551/status/2125107054625108151
+- Metrics (at fetch): bookmark 66, impression 7354, like 279, quote 1, reply 16, retweet 8
+
+> Someone gave me my own book for my birthday. (To be fair I didn't have a copy anymore!) https://t.co/QLplySgOqz
+
+**Media:**
+- media `3_2125107047880617984` (details not returned by the API)
+
+
+### Post — @GuplerSaxanoid — 2026-11-24 07:06 UTC (2026-11-24 08:06 WAT)
+
+- URL: https://x.com/GuplerSaxanoid/status/2125123828926091475
+- Metrics (at fetch): bookmark 0, impression 2, like 0, quote 0, reply 0, retweet 0
+
+> @mdowd Bible
 
 
 ---

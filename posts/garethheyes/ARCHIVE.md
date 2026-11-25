@@ -1,6 +1,6 @@
 # @garethheyes — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 572
 - Conversations/threads: 506
@@ -369,7 +369,7 @@ Tags (automatic): XSS
 ### Post — @garethheyes — 2026-07-21 20:33 UTC (2026-07-21 21:33 WAT)
 
 - URL: https://x.com/garethheyes/status/2079665975075434710
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 459, impression 32598, like 622, quote 4, reply 13, retweet 78
 
 > I haven't posted a crazy XSS vector for a while...
 > Works on every browser [pic.x.com/PzeM8uM3zS]
@@ -1236,7 +1236,7 @@ Tags (automatic): XSS
 ### Post — @garethheyes — 2026-09-15 14:30 UTC (2026-09-15 15:30 WAT)
 
 - URL: https://x.com/garethheyes/status/2099868340109934816
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 143, impression 10083, like 209, quote 0, reply 5, retweet 35
 
 > I built a new home for my book, JavaScript for Hackers.
 >
@@ -1256,7 +1256,7 @@ Tags (automatic): XSS
 ### Post — @garethheyes — 2026-08-28 16:59 UTC (2026-08-28 17:59 WAT)
 
 - URL: https://x.com/garethheyes/status/2093382884434268199
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 1618, like 0, quote 0, reply 1, retweet 0
 
 > I don't know why the Fermi Paradox is such a big deal. Clearly Quantum Physics is a particle jammer invented by aliens to prevent instantaneous communication. Pilot wave theory FTW! We just need to find evidence of sub-quantum particles to bypass the jammer 😀
 
@@ -1269,7 +1269,7 @@ Tags (automatic): XSS
 ### Post — @garethheyes — 2026-08-26 20:20 UTC (2026-08-26 21:20 WAT)
 
 - URL: https://x.com/garethheyes/status/2092708789313015899
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 1557, like 2, quote 0, reply 1, retweet 0
 
 > Fixed another collision bug. If you opened the doors you could walk through walls.
 

@@ -1,11 +1,75 @@
 # @kevin_mizu — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 75
-- Conversations/threads: 58
+- Posts in this file: 77
+- Conversations/threads: 60
 - Oldest post captured: 2021-09-11
-- Newest post captured: 2026-10-28
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Reply · @dart_mo @hash_kitten It is! In our research, we focus on default configurations, but this is someth
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1336393778 — 2026-11-24 17:02 UTC (2026-11-24 18:02 WAT)
+
+- URL: https://x.com/1336393778/status/2125273742569779328
+- Metrics (at fetch): bookmark 0, impression 85, like 1, quote 0, reply 1, retweet 0
+
+> @kevin_mizu @hash_kitten for the DB conn limit, don't you think this is kinda of dependent on the configuration and deployment of the db instance?
+
+
+### Post — @kevin_mizu — 2026-11-24 17:36 UTC (2026-11-24 18:36 WAT)
+
+- URL: https://x.com/kevin_mizu/status/2125282545340211606
+- Metrics (at fetch): bookmark 0, impression 70, like 1, quote 0, reply 0, retweet 0
+
+> @dart_mo @hash_kitten It is! In our research, we focus on default configurations, but this is something that can be harder to exploit depending on the configuration :D
+
+
+---
+
+## 2026-11-24 · Post · With @hash_kitten, we’ve been looking at a new exploitation technique using system limits 😁 
+
+
+Tags (automatic): RCE
+
+
+### Post — @kevin_mizu — 2026-11-24 14:13 UTC (2026-11-24 15:13 WAT)
+
+- URL: https://x.com/kevin_mizu/status/2125231431886479623
+- Metrics (at fetch): bookmark 36, impression 3997, like 107, quote 1, reply 6, retweet 27
+
+> With @hash_kitten, we’ve been looking at a new exploitation technique using system limits 😁 
+>
+> The idea is to take EMFILE, DB conn limits, Linux TIME_WAIT… to reach trust boundaries in unexpected ways 👀
+>
+> Using these techniques, We managed to get a pre-auth RCE on Drupal 👇 https://twitter.com/assetnote/status/2125230337156419881
+
+**Links in post:** https://twitter.com/assetnote/status/2125230337156419881
+
+**Quoted post (full text):**
+
+    #### Quoted post — @assetnote — 2026-11-24 14:09 UTC (2026-11-24 15:09 WAT)
+    
+    - URL: https://x.com/assetnote/status/2125230337156419881
+    - Metrics (at fetch): bookmark 61, impression 9875, like 166, quote 3, reply 2, retweet 29
+    
+    > Our security research team discovered a pre-auth RCE in Drupal core by exhausting system limits to trick the installer into thinking an existing site isn't installed, then writing PHP code into a webroot file through the SQLite database path. The issue was reported to Drupal and has since been fixed (SA-CORE-2026-017).
+    >
+    > You can read more here: 
+    >
+    > https://www.slcyber.io/research/fail2install-system-limits-pre-auth-rce-drupal
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HX5VpbOWIAAwMQJ.jpg — alt text: "https://www.slcyber.io/research/fail2install-system-limits-pre-auth-rce-drupal"
+    
+    **Links in post:** https://www.slcyber.io/research/fail2install-system-limits-pre-auth-rce-drupal
+    
 
 
 ---
@@ -44,9 +108,9 @@ Tags (automatic): XSS, CSP / CSPT
 
 **Quoted post (full text):**
 
-    #### Quoted post — @884385805514526720 — 2026-10-28 14:14 UTC (2026-10-28 15:14 WAT)
+    #### Quoted post — @assetnote — 2026-10-28 14:14 UTC (2026-10-28 15:14 WAT)
     
-    - URL: https://x.com/884385805514526720/status/2115447225534845431
+    - URL: https://x.com/assetnote/status/2115447225534845431
     - Metrics (at fetch): bookmark 205, impression 28596, like 377, quote 7, reply 6, repost 78
     
     > Our security research team discovered a cross-site scripting vulnerability in Cloudflare's /cdn-cgi/image/ endpoint by chaining an SVG sanitizer bypass with a new Cache-Control header trick to bypass the CSP. The issue was reported to Cloudflare and has since been fixed. 
@@ -102,9 +166,9 @@ Tags (automatic): RCE, Race condition
 
 **Quoted post (full text):**
 
-    #### Quoted post — @884385805514526720 — 2026-10-07 10:37 UTC (2026-10-07 11:37 WAT)
+    #### Quoted post — @assetnote — 2026-10-07 10:37 UTC (2026-10-07 11:37 WAT)
     
-    - URL: https://x.com/884385805514526720/status/2107782416479694949
+    - URL: https://x.com/assetnote/status/2107782416479694949
     - Metrics (at fetch): bookmark 108, impression 23423, like 242, quote 3, reply 4, repost 61
     
     > Our research team discovered two vulnerabilities in Discourse: a pre-authentication cache poisoning to sitewide XSS (CVE-2026-55674), and an arbitrary file read (RCE) chaining a JPEG race condition with ImageMagick and Ghostscript (CVE-2026-55420). You can read more here: [pic.x.com/twDxtwCnoQ]

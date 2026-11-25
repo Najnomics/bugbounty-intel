@@ -6,6 +6,16 @@ Last updated: 24 November 2026 (Africa/Lagos).
 
 ---
 
+## 2026-11-25 additions (daily X sweep, HackerOne, CVE)
+
+**Limit exhaustion → fail-open (Drupal pre-auth RCE, KEV).** Exhausting DB connections (or fds / ephemeral ports via TIME_WAIT) makes Drupal's installer swallow the connection error, treat the site as not installed and reinstall with an SQLite DB inside the webroot, giving PHP code execution. Harness: probe installer/first-admin endpoints under controlled connection pressure; grep for `catch` blocks that default to a permissive state. See [`harness/bug-classes/2026-11-25-...`](harness/bug-classes/2026-11-25-limit-exhaustion-failopen-widget-postmessage-deprecated-market.md).
+
+**Widget iframe postMessage without origin check → stored XSS → session token.** Allowlist enforced at page load but not in the message handler (H1/Bugcrowd-style $2,000). Harness: enumerate message listeners of every embedded widget, test from a foreign origin.
+
+**Deprecated lending market still on shared pool (Kava/HARD Lend 53.9M KAVA).** Include sunset assets/markets in every lending-protocol review and fork-test borrow/liquidate loops on them.
+
+**HackerOne additions:** DNS rebinding → unauthorized MCP tool access ([#3883702](hackerone/reports/2026/3883702.md)); Python sandbox escape in AWS MCP server `run_script` ([#3891423](hackerone/reports/2026/3891423.md)); SAP Commerce Cloud default OAuth2 sample secret → admin token ([#3966705](hackerone/reports/2026/3966705.md)); Weblate removed owner regains ownership via GET ([#4118627](hackerone/reports/2026/4118627.md)); access tokens in IBM server logs ([#4172841](hackerone/reports/2026/4172841.md)).
+
 ## 2026-11-24 additions (daily X sweep, HackerOne, Telegram)
 
 **Signature nonce reuse leaks API keys from public signatures (Lighter, $10.39M).** A trader's custom (non-SDK) signing code reused the per-signature nonce; two public signatures with the same nonce let the attacker compute the private key — no system access needed; funds routed through a public pool and withdrawn. Check: index `(pubkey, r)` collisions; grep signers for non-RFC6979 nonces. Sources: [Rekt via @defendor_eng 2380](writeups/telegram-defendor_eng/lighter-rekt-9adef46d.md), [GoPlus $17M+ key compromises](writeups/telegram-defendor_eng/goplussecurity-17m-key-compromises-five-days.md).

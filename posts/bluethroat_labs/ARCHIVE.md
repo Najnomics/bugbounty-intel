@@ -1,11 +1,41 @@
 # @bluethroat_labs — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 147
-- Conversations/threads: 59
+- Posts in this file: 148
+- Conversations/threads: 60
 - Oldest post captured: 2025-12-02
-- Newest post captured: 2026-11-11
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Reply · @iamwehi The Ethereum ecosystem is blessed to have you though.
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1807786728826007552 — 2026-11-24 09:41 UTC (2026-11-24 10:41 WAT)
+
+- URL: https://x.com/1807786728826007552/status/2125162895658963304
+- Metrics (at fetch): bookmark 2, impression 401, like 14, quote 0, reply 3, retweet 1
+
+> just a vid of me being depressed about Ethereum security
+>
+> i guess this round gonna be ok but we need more attention to security from crowds and whales https://t.co/oooNqyhDh5 https://t.co/VEGpiydSZ4
+
+**Media:**
+- media `13_2125162477784641537` (details not returned by the API)
+
+**Quoted post** 2125131228403913004: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @bluethroat_labs — 2026-11-24 17:45 UTC (2026-11-24 18:45 WAT)
+
+- URL: https://x.com/bluethroat_labs/status/2125284574016209162
+- Metrics (at fetch): bookmark 0, impression 23, like 1, quote 0, reply 0, retweet 0
+
+> @iamwehi The Ethereum ecosystem is blessed to have you though.
 
 
 ---

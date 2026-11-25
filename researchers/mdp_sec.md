@@ -363,3 +363,7 @@ _Auto-maintained from `harness/findings.jsonl`. 8 finding(s). Full verbatim post
 - GPT-5.6 Sol kept via Daybreak Blue — "the only good gpt model for cyber" ([post](../posts/mdp_sec/2026-11-24-2125060582206566734.md)).
 - 90-day payouts: H1 $12.8M, Bugcrowd $7.2M, Intigriti ≈$1M+€191k; $21M across 1,406 programs ([post](../posts/mdp_sec/2026-11-24-2125049262052651252.md)). Retests reports every 14 days to keep them valid ([x.com](https://x.com/mdp_sec/status/2124790454441173473)).
 - mdpsec.com unchanged (591 reports / 150 critical / 267 high).
+
+## 2026-11-25 — stored XSS in chat widget via unauthenticated postMessage ($2,000 + $150 retest)
+- Chat widget iframe accepted `start-chat` from any origin; message text decoded and written unescaped; session cookie → visitor token (read/write/end-chat). Details, steps and harness spec: [`posts/mdp_sec/2026-11-25-2125441849108156479.md`](../posts/mdp_sec/2026-11-25-2125441849108156479.md), [`harness/bug-classes/2026-11-25-limit-exhaustion-failopen-widget-postmessage-deprecated-market.md`](../harness/bug-classes/2026-11-25-limit-exhaustion-failopen-widget-postmessage-deprecated-market.md).
+- Also posted 2026-11-25 05:13-05:24 UTC a run of congratulatory replies and offers of provider access to OpenGateway users (no technical content; not archived individually beyond data/x_posts.jsonl).

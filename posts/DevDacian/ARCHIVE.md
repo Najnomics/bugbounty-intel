@@ -1,11 +1,29 @@
 # @DevDacian — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 424
-- Conversations/threads: 373
+- Posts in this file: 425
+- Conversations/threads: 374
 - Oldest post captured: 2023-02-23
-- Newest post captured: 2026-11-23
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Post · Many are now super bearish on "crypto" because of the prices being down but personally I'm more bull
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @DevDacian — 2026-11-24 11:57 UTC (2026-11-24 12:57 WAT)
+
+- URL: https://x.com/DevDacian/status/2125197075868700675
+- Metrics (at fetch): bookmark 4, impression 1550, like 60, quote 0, reply 5, retweet 2
+
+> Many are now super bearish on "crypto" because of the prices being down but personally I'm more bullish than ever on blockchain-based real-world applications!
+>
+> Right now we are auditing some 🔥 protocols with actual real-world uses cases showing that the industry is maturing past
 
 
 ---

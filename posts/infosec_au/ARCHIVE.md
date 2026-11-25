@@ -1,6 +1,6 @@
 # @infosec_au — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 251
 - Conversations/threads: 225
@@ -3803,9 +3803,9 @@ Tags (automatic): IDOR / BOLA, Request smuggling / desync
 
 **Quoted post (full text):**
 
-    #### Quoted post — @884385805514526720 — 2019-03-19 00:54 UTC (2019-03-19 01:54 WAT)
+    #### Quoted post — @assetnote — 2019-03-19 00:54 UTC (2019-03-19 01:54 WAT)
     
-    - URL: https://x.com/884385805514526720/status/1107807521014595584
+    - URL: https://x.com/assetnote/status/1107807521014595584
     - Metrics (at fetch): not returned
     
     > Discovering a zero day and getting code execution on Mozilla's AWS Network https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/

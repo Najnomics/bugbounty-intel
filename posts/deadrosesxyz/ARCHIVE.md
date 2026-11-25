@@ -1,6 +1,6 @@
 # @deadrosesxyz — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 82
 - Conversations/threads: 71
@@ -990,7 +990,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @deadrosesxyz — 2025-05-01 08:28 UTC (2025-05-01 09:28 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1917858747461885970
-- Metrics (at fetch): bookmark 19, impression 12294, like 104, quote 0, reply 12, retweet 0
+- Metrics (at fetch): bookmark 19, impression 12295, like 104, quote 0, reply 12, retweet 0
 
 > really heated situation, though most people seem to be completely missing the point 
 >
@@ -1047,7 +1047,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @deadrosesxyz — 2025-01-11 12:37 UTC (2025-01-11 13:37 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1878058706560008647
-- Metrics (at fetch): bookmark 29, impression 42571, like 218, quote 1, reply 8, retweet 2
+- Metrics (at fetch): bookmark 28, impression 42572, like 218, quote 1, reply 8, retweet 2
 
 > &gt; hunt some bug bounties for the first time in months 
 > &gt; find a nice crit 
@@ -1072,7 +1072,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @deadrosesxyz — 2024-12-22 18:25 UTC (2024-12-22 19:25 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1870898432543469775
-- Metrics (at fetch): bookmark 546, impression 153133, like 1397, quote 14, reply 153, retweet 69
+- Metrics (at fetch): bookmark 546, impression 153146, like 1398, quote 14, reply 152, retweet 68
 
 > proud to announce that the $1m mark was successfully crossed (and the year's not finished yet!) 
 >
@@ -1109,7 +1109,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 ### Post — @deadrosesxyz — 2024-12-06 13:59 UTC (2024-12-06 14:59 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1865033366095204520
-- Metrics (at fetch): bookmark 16, impression 20108, like 175, quote 0, reply 11, retweet 6
+- Metrics (at fetch): bookmark 16, impression 20109, like 174, quote 0, reply 11, retweet 6
 
 > it's an honor to be working alongside such great minds.
 >
@@ -1145,7 +1145,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 > since I was hired to audit the EVC, I'm adding additional $5k from my pocket if anyone manages to find a crit in it 
 >
-> let's see how this turns out 👀 https://t.co/KgJxXmNJiV
+> let's see how this turns out 👀 https://twitter.com/eulerfinance/status/1754882657018687875
+
+**Links in post:** https://twitter.com/eulerfinance/status/1754882657018687875
 
 **Quoted post (full text):**
 
@@ -1160,7 +1162,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
     >
     > Calling all devs to join us in strengthening the EVC and making it even more robust.
     >
-    > https://t.co/YQ5KRi48ur
+    > https://evc.wtf/docs/security/bug-bounty
+    
+    **Links in post:** https://evc.wtf/docs/security/bug-bounty
     
 
 
@@ -1309,7 +1313,7 @@ Tags (automatic): Platform: Immunefi
 >
 > Haven't really been bug hunting for over a month now as I've been busy with private engagements.
 >
-> planning to make a return to bounties next month and reach top 50 👀 https://t.co/s7T0cdESMh
+> planning to make a return to bounties next month and reach top 50 👀 [pic.x.com/s7T0cdESMh]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GESSuK3XMAAGm7y.png — no alt text provided by author
@@ -1327,7 +1331,9 @@ Tags (automatic): Platform: Immunefi
 
 > last month I had the amazing opportunity to audit Euler's new product alongside @GeorgeHNTR 
 >
-> looking forward to it being widely-used 👀 https://t.co/0YxyDsBAJd
+> looking forward to it being widely-used 👀 https://twitter.com/eulerfinance/status/1745433647078134029
+
+**Links in post:** https://twitter.com/eulerfinance/status/1745433647078134029
 
 **Quoted post (full text):**
 
@@ -1340,7 +1346,7 @@ Tags (automatic): Platform: Immunefi
     >
     > Introducing the Ethereum Vault Connector - a powerful primitive that enables anyone and everyone to build products and credit-based protocols.
     >
-    > Let's dive into the details: https://t.co/VSEp7FYjTC
+    > Let's dive into the details: [pic.x.com/VSEp7FYjTC]
     
     **Media:**
     - media `7_1745433570821455872` (details not returned by the API)
@@ -1383,6 +1389,9 @@ Tags (automatic): Platform: Immunefi
 ## 2023-12-16 · Post · Everything I've learned about auditing in 2023
 
 
+Tags (automatic): Platform: Immunefi
+
+
 ### Post — @deadrosesxyz — 2023-12-16 18:34 UTC (2023-12-16 19:34 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1736092459799609846
@@ -1391,12 +1400,39 @@ Tags (automatic): Platform: Immunefi
 > Everything I've learned about auditing in 2023
 >
 >  - Do what everyone does, get what everyone gets.
-> I seriously can't emphasize this enough. If you're reading and learning from the same sources as everyone else, you basically can't beat the rest. If you want to be an outstanding
+> I seriously can't emphasize this enough. If you're reading and learning from the same sources as everyone else, you basically can't beat the rest. If you want to be an outstanding auditooor, you have to go off the beaten track and dive deep into the unknown. 
+>
+>  - Stop learning unnecessary stuff.
+> Seriously. You don't need to learn hardhat just in case. You don't need to know assembly just in case. Could you ever end up in a situation where it would've been better if you knew them? Well, yes. However, these things 100% don't offer the highest Expected Value. Focus on what's most important and always aim for the stuff which offers the highest Expected Value 
+>
+>  - We all suck.
+> Sorry to break it to you, but we all suck. Tier 1 firms miss highs and criticals on a daily basis. And then we just cope and say "One audit can never be enough, there should be at least 5 different audits, 7-figure bug bounty bla-bla". One audit SHOULD be enough. We just aren't good enough yet. I've seen many people argue that the Kyber vulnerability was "Impossible" to be caught during an audit due to its complexity. If you seriously believe so, you ngmi 
+>
+>  - Private/ Solo audits isn't this magical utopia everyone should be aiming for.
+> I don't know why everyone believes private audits should be their end-goal. It contains way too much dull work. (such as writing reports or checking the same functions for the 100th time as you need to be 100% sure in the service you provide) There's great value to be extracted from contests, bounties and working in a firm as well. 
+>
+>  - Know your worth.
+> Since September I've received exactly 10 requests for audit. How many did I accept? Just 2. The reason why 8 times we couldn't reach a deal? There was someone who offered a lower price. In such cases just accept it and move on. No need to start undercutting the market. Let your results speak for themselves.
+>
+>  - Do not rush audits.
+> My favorite thing is when a project contacts me and needs an audit FAST. 4,000 sLOC and they need it audited in a week. You should never even consider accepting any offer of this kind. Best thing you can do is explain to them why this is straight up impossible and setting up for failure.  
+>
+>  - Know your strengths.
+> I know I can get a good understanding of a codebases relatively quick. How do I utilize it? I hunt projects launched on Immunefi immediately as they launch. My fastest bounty was a Critical submitted 1h 15min after the protocol launched their bbp. I managed to submit it before the protocol even had publicly announced they've launched a bbp. 
+>
+> Final thoughts: 
+> Web3 security is currently in its infancy. We all suck. This should never be an excuse to not improve ourselves. If you want to be an outstanding SR, you should never be okay with missing bugs. Keep improving yourself every single day. That being said, if you simply manage to suck less than the rest, you'll literally be able to print money.
+>
+> and last but not least...
+> DM FOR AUDITS
 
 
 ---
 
 ## 2023-12-16 · Post · Everything I've learned about auditing in 2023
+
+
+Tags (automatic): Platform: Immunefi
 
 
 ### Post — @deadrosesxyz — 2023-12-16 18:34 UTC (2023-12-16 19:34 WAT)
@@ -1407,7 +1443,25 @@ Tags (automatic): Platform: Immunefi
 > Everything I've learned about auditing in 2023
 >
 >  - Do what everyone does, get what everyone gets.
-> I seriously can't emphasize this enough. If you're reading and learning from the same sources as everyone else, you basically can't beat the rest. If you want to be an outstanding
+> I seriously can't emphasize this enough. If you're reading and learning from the same sources as everyone else, you basically can't beat the rest. If you want to be an outstanding auditooor, you have to go off the beaten track and dive deep into the unknown. 
+>  - Stop learning unnecessary stuff.
+> Seriously. You don't need to learn hardhat just in case. You don't need to know assembly just in case. Could you ever end up in a situation where it would've been better if you knew them? Well, yes. However, these things 100% don't offer the highest Expected Value. Focus on what's most important and always aim for the stuff which offers the highest Expected Value 
+>  - We all suck.
+> Sorry to break it to you, but we all suck. Tier 1 firms miss highs and criticals on a daily basis. And then we just cope and say "One audit can never be enough, there should be at least 5 different audits, 7-figure bug bounty bla-bla". One audit SHOULD be enough. We just aren't good enough yet. I've seen many people argue that the Kyber vulnerability was "Impossible" to be caught during an audit due to its complexity. If you seriously believe so, you ngmi 
+>  - Private/ Solo audits isn't this magical utopia everyone should be aiming for.
+> I don't know why everyone believes private audits should be their end-goal. It contains way too much dull work. (such as writing reports or checking the same functions for the 100th time as you need to be 100% sure in the service you provide) There's great value to be extracted from contests, bounties and working in a firm as well. 
+>  - Know your worth.
+> Since September I've received exactly 10 requests for audit. How many did I accept? Just 2. The reason why 8 times we couldn't reach a deal? There was someone who offered a lower price. In such cases just accept it and move on. No need to start undercutting the market. Let your results speak for themselves.
+>  - Do not rush audits.
+> My favorite thing is when a project contacts me and needs an audit FAST. 4,000 sLOC and they need it audited in a week. You should never even consider accepting any offer of this kind. Best thing you can do is explain to them why this is straight up impossible and setting up for failure.  
+>  - Know your strengths.
+> I know I can get a good understanding of a codebases relatively quick. How do I utilize it? I hunt projects launched on Immunefi immediately as they launch. My fastest bounty was a Critical submitted 1h 15min after the protocol launched their bbp. I managed to submit it before the protocol even had publicly announced they've launched a bbp. 
+>
+> Final thoughts: 
+> Web3 security is currently in its infancy. We all suck. This should never be an excuse to not improve ourselves. If you want to be an outstanding SR, you should never be okay with missing bugs. Keep improving yourself every single day. That being said, if you simply manage to suck less than the rest, you'll literally be able to print money.
+>
+> and last but not least...
+> DM FOR AUDITS
 
 
 ---
@@ -1740,7 +1794,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @deadrosesxyz — 2023-08-22 17:50 UTC (2023-08-22 18:50 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1694044339406619036
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 3154, like 31, quote 0, reply 3, retweet 1
 
 > Finding your first critical after almost 2 weeks of vacation is one of the best feelings out there 🥳
 >
@@ -1755,7 +1809,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @deadrosesxyz — 2023-08-22 17:50 UTC (2023-08-22 18:50 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1694044288642896368
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 16, like 0, quote 0, reply 0, retweet 0
 
 > Finding your first critical after almost 2 weeks of vacation is one of the best feelings out there🥳
 >
@@ -1770,7 +1824,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @deadrosesxyz — 2023-07-18 13:28 UTC (2023-07-18 14:28 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1681294949436760066
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 20, impression 7916, like 88, quote 2, reply 4, retweet 6
 
 > At @summit_defi I asked many top auditors on their opinion on bug hunting and they pretty much all shared the same opinion:
 >
@@ -1785,7 +1839,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @deadrosesxyz — 2023-07-04 09:22 UTC (2023-07-04 10:22 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1676159597608857600
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 5840, like 41, quote 0, reply 3, retweet 0
 
 > Happy to announce I’ve recently finished a private audit alongside @gogotheauditor 
 >
@@ -1804,7 +1858,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @deadrosesxyz — 2023-06-28 08:00 UTC (2023-06-28 09:00 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1673964451848937473
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 3287, like 17, quote 0, reply 1, retweet 1
 
 > Seeing protocols call out bs audit firms is EXACTLY what this space needs.
 >
@@ -1822,7 +1876,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @deadrosesxyz — 2023-06-15 17:53 UTC (2023-06-15 18:53 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1669402690596552709
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 3036, like 19, quote 1, reply 2, retweet 1
 
 > Once again doing an audit in a team with @__alexxander_
 >
@@ -1839,7 +1893,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @deadrosesxyz — 2023-06-05 13:06 UTC (2023-06-05 14:06 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1665706708314775553
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 16, impression 4644, like 36, quote 0, reply 3, retweet 0
 
 > I usually don't spend more than 2-3 days on a codebase when doing an audit.
 >
@@ -1856,7 +1910,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @deadrosesxyz — 2023-04-27 16:50 UTC (2023-04-27 17:50 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1651629972006608917
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 2517, like 9, quote 0, reply 0, retweet 1
 
 > huge thanks 🙏 although the project isn’t live and doesn’t have an active bounty program, @high_byte decided to pay me a generous reward for which I’m extremely grateful 😇 https://twitter.com/high_byte/status/1651628243227746311
 
@@ -1867,7 +1921,7 @@ Tags (automatic): Platform: Immunefi
     #### Quoted post — @706491515527364610 — 2023-04-27 16:43 UTC (2023-04-27 17:43 WAT)
     
     - URL: https://x.com/706491515527364610/status/1651628243227746311
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 0, impression 4429, like 3, quote 1, reply 1, retweet 0
     
     > next up is @deadrosesxyz for his report on my own security tool, Zerem the neighborhood friendly circuit breaker.
     >
@@ -1883,7 +1937,7 @@ Tags (automatic): Platform: Immunefi
 ### Post — @deadrosesxyz — 2023-04-18 12:39 UTC (2023-04-18 13:39 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1648305163466072064
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 1665, like 9, quote 0, reply 1, retweet 0
 
 > When auditing, when do you guys call it enough and finish the audit? Every time I think I'm done with an audit I manage to somehow find another finding when going through the codebase a couple more times and I can never tell if I've really found everything I possibly can lol
 
@@ -1899,7 +1953,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @deadrosesxyz — 2023-04-08 18:40 UTC (2023-04-08 19:40 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1644772203211239424
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 24, impression 3563, like 24, quote 0, reply 0, retweet 5
 
 > The more I audit, the more I realize how important creativity is in this field. 9/10 Unique findings do not require deep EVM knowledge, but rather being able to think outside the box. https://twitter.com/zachobront/status/1644768121683574793
 
@@ -1910,7 +1964,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     #### Quoted post — @15738703 — 2023-04-08 18:24 UTC (2023-04-08 19:24 WAT)
     
     - URL: https://x.com/15738703/status/1644768121683574793
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 37, impression 14493, like 97, quote 2, reply 8, retweet 10
     
     > Anytime I don’t catch an issue, I stop and ask myself: What was I missing that would have allowed me to find it?
     >
@@ -1938,7 +1992,7 @@ Tags (automatic): Smart contract / DeFi, Platform: Code4rena / Sherlock / Cantin
 ### Post — @deadrosesxyz — 2023-03-14 13:18 UTC (2023-03-14 14:18 WAT)
 
 - URL: https://x.com/deadrosesxyz/status/1635631531493318656
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 17, impression 2589, like 55, quote 0, reply 3, retweet 0
 
 > It's been just over a month and a half since I started learning Solidity/ Smart Contract Auditing.
 >

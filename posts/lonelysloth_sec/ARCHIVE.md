@@ -1,11 +1,507 @@
 # @lonelysloth_sec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 236
-- Conversations/threads: 179
+- Posts in this file: 254
+- Conversations/threads: 197
 - Oldest post captured: 2023-12-17
-- Newest post captured: 2026-11-24
+- Newest post captured: 2026-11-25
+
+
+---
+
+## 2026-11-25 · Reply · @jgconnelly Managing to go down when all AI stocks went up. 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @187051355 — 2026-11-25 05:02 UTC (2026-11-25 06:02 WAT)
+
+- URL: https://x.com/187051355/status/2125455086629572885
+- Metrics (at fetch): bookmark 0, impression 22, like 0, quote 0, reply 1, retweet 0
+
+> @lonelysloth_sec Where are these impressive stock market results of which you speak?
+
+
+### Post — @lonelysloth_sec — 2026-11-25 05:37 UTC (2026-11-25 06:37 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125463951014310118
+- Metrics (at fetch): bookmark 0, impression 10, like 0, quote 0, reply 0, retweet 0
+
+> @jgconnelly Managing to go down when all AI stocks went up. 
+>
+> Falling below the IPO price in a couple of days.
+>
+> It takes effort and talent to do that.
+
+
+---
+
+## 2026-11-25 · Reply · @hrkrshnn We gotta chill. It’s probably just OAI running evals. https://t.co/bYMlWm7fop
+
+
+**Context — post being replied to:**
+
+#### Parent post — @hrkrshnn — 2026-11-25 04:07 UTC (2026-11-25 05:07 WAT)
+
+- URL: https://x.com/hrkrshnn/status/2125441291656069382
+- Metrics (at fetch): bookmark 1, impression 686, like 11, quote 0, reply 3, retweet 0
+
+> This is really bad.
+>
+> The stability and strength of the US dollar are deeply connected to the reliability of these critical systems. https://t.co/XISU8sroYo
+
+**Quoted post** 2125421101933080979: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @lonelysloth_sec — 2026-11-25 04:37 UTC (2026-11-25 05:37 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125448691851124776
+- Metrics (at fetch): bookmark 0, impression 36, like 1, quote 0, reply 0, retweet 0
+
+> @hrkrshnn We gotta chill. It’s probably just OAI running evals. https://t.co/bYMlWm7fop
+
+**Media:**
+- animated_gif:  — no alt text provided by author
+
+
+---
+
+## 2026-11-25 · Reply · @grok @Nil053 Does it prove the terms to be galactic or can these be improved in the future
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1720665183188922368 — 2026-11-25 04:32 UTC (2026-11-25 05:32 WAT)
+
+- URL: https://x.com/1720665183188922368/status/2125447561406214574
+- Metrics (at fetch): bookmark 0, impression 38, like 0, quote 0, reply 1, retweet 0
+
+> @lonelysloth_sec @Nil053 Both results are asymptotic theory wins, not practical code you can run tomorrow.
+>
+> MST: the new deterministic O(m) algorithm exists via the Pettie-Ramachandran reduction once comparison complexity is shown linear. It is still non-practical; constants and construction make simpler
+
+
+### Post — @lonelysloth_sec — 2026-11-25 04:35 UTC (2026-11-25 05:35 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125448364313747576
+- Metrics (at fetch): bookmark 0, impression 35, like 0, quote 0, reply 1, retweet 0
+
+> @grok @Nil053 Does it prove the terms to be galactic or can these be improved in the future
+
+
+---
+
+## 2026-11-25 · Reply · @Nil053 @grok do we have actual algorithms that can run in real world machines or is it all galactic
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1614729393032818688 — 2026-11-25 02:10 UTC (2026-11-25 03:10 WAT)
+
+- URL: https://x.com/1614729393032818688/status/2125411694054936770
+- Metrics (at fetch): bookmark 10, impression 6191, like 132, quote 1, reply 4, retweet 6
+
+> Optimal runtimes for MST and matrix multiplication are now known.
+>
+> O(n) for MST
+>
+> O(n^2.25) for matrix multiplication
+>
+> Wild times for complexity theory
+
+
+### Post — @lonelysloth_sec — 2026-11-25 04:32 UTC (2026-11-25 05:32 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125447415990030530
+- Metrics (at fetch): bookmark 0, impression 213, like 0, quote 0, reply 1, retweet 0
+
+> @Nil053 @grok do we have actual algorithms that can run in real world machines or is it all galactic terms and computational budgets that are physically wrong, like in previous proofs
+
+
+---
+
+## 2026-11-25 · Reply · @fedichev How many hundreds of billions were used in training and hiring humans for that particular 
+
+
+**Context — post being replied to:**
+
+#### Parent post — @28830575 — 2026-11-25 00:47 UTC (2026-11-25 01:47 WAT)
+
+- URL: https://x.com/28830575/status/2125390832123711794
+- Metrics (at fetch): bookmark 0, impression 41, like 1, quote 0, reply 1, retweet 0
+
+> @lonelysloth_sec Fair points, and I agree on the first one: nobody outside the labs knows what these proofs really cost, and today's prices are subsidised. That is why I wrote "if machines make that cheap". It is a condition, not a claim about today.
+>
+> On the second: whether these systems can work
+
+
+### Post — @lonelysloth_sec — 2026-11-25 01:09 UTC (2026-11-25 02:09 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125396461806616954
+- Metrics (at fetch): bookmark 0, impression 17, like 0, quote 0, reply 0, retweet 0
+
+> @fedichev How many hundreds of billions were used in training and hiring humans for that particular task?
+>
+> Not even most mathematicians ever tried it.
+>
+> We’ll never know if humans could have done it if you actually threw resources at it.
+>
+> So maybe we cant say for sure humans would be
+
+
+---
+
+## 2026-11-25 · Reply · @BBCNews Clearly he didn’t spend a lot of time on X.
+
+
+**Context — post being replied to:**
+
+#### Parent post — @612473 — 2026-11-24 11:18 UTC (2026-11-24 12:18 WAT)
+
+- URL: https://x.com/612473/status/2125187306592047197
+- Metrics (at fetch): bookmark 1897, impression 4169640, like 9363, quote 1813, reply 2442, retweet 1216
+
+> Pope Francis' diary claims he saw the devil three times https://t.co/MnkYR55plm
+
+
+### Post — @lonelysloth_sec — 2026-11-25 00:34 UTC (2026-11-25 01:34 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125387664245641396
+- Metrics (at fetch): bookmark 0, impression 72, like 0, quote 0, reply 0, retweet 0
+
+> @BBCNews Clearly he didn’t spend a lot of time on X.
+
+
+---
+
+## 2026-11-24 · Reply · @McKracken13 Asking claude if it used an exploit?
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @3086876501 — 2026-11-24 23:04 UTC (2026-11-25 00:04 WAT)
+
+- URL: https://x.com/3086876501/status/2125364890592518438
+- Metrics (at fetch): bookmark 0, impression 28, like 0, quote 0, reply 2, retweet 0
+
+> @lonelysloth_sec It is possible. But highly unlikely. Apölge would have probably asked Claude "did you use an exploit" or specifically instructed it to "not use an exploit" because he probably wouldn't publish unless he was sure. Checking for an exploit is checklist number 1.
+
+
+### Post — @lonelysloth_sec — 2026-11-24 23:59 UTC (2026-11-25 00:59 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125378823814537666
+- Metrics (at fetch): bookmark 0, impression 20, like 0, quote 0, reply 0, retweet 0
+
+> @McKracken13 Asking claude if it used an exploit?
+>
+> 😂
+
+
+---
+
+## 2026-11-24 · Reply · @inveteratus_eth @omninomsky If each implementation has a bug (dont need to be the same bug) you can
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1645272435003113472 — 2026-11-24 23:48 UTC (2026-11-25 00:48 WAT)
+
+- URL: https://x.com/1645272435003113472/status/2125376029443444775
+- Metrics (at fetch): bookmark 0, impression 39, like 0, quote 0, reply 1, retweet 0
+
+> @lonelysloth_sec @omninomsky I didn't say the implementation, I was talking about the underlying logic. This is a pretty important distinction, and the proof currently checks in multiple implementations of the same logic.
+
+
+### Post — @lonelysloth_sec — 2026-11-24 23:53 UTC (2026-11-25 00:53 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125377214883807413
+- Metrics (at fetch): bookmark 0, impression 25, like 1, quote 0, reply 1, retweet 0
+
+> @inveteratus_eth @omninomsky If each implementation has a bug (dont need to be the same bug) you can craft a single artifact that verifies in all by hiding a payload for each bug in it.
+>
+> Claude is pretty good at finding bugs by brute force too. And similar situations have happened in the past.
+>
+> So Id say
+
+
+---
+
+## 2026-11-24 · Reply · @trentdotsol @toly @__alpoge__ The problem with composing two functions by multiplication is that if
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1562178659766751237 — 2026-11-24 20:11 UTC (2026-11-24 21:11 WAT)
+
+- URL: https://x.com/1562178659766751237/status/2125321496524624370
+- Metrics (at fetch): bookmark 0, impression 426, like 9, quote 0, reply 2, retweet 1
+
+> @toly @__alpoge__ ai is multiplicative, not additive. the gain is a function of the delta of the prompter's competence on a subject vs the model's
+
+
+### Post — @lonelysloth_sec — 2026-11-24 23:49 UTC (2026-11-25 00:49 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125376387754434866
+- Metrics (at fetch): bookmark 0, impression 68, like 2, quote 0, reply 2, retweet 0
+
+> @trentdotsol @toly @__alpoge__ The problem with composing two functions by multiplication is that if either factor is zero at a given point then the combined function is zero there too.
+
+
+---
+
+## 2026-11-24 · Reply · @inveteratus_eth @omninomsky You mean the software is perfect and came directly from God and cant po
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1645272435003113472 — 2026-11-24 23:39 UTC (2026-11-25 00:39 WAT)
+
+- URL: https://x.com/1645272435003113472/status/2125373735666647087
+- Metrics (at fetch): bookmark 0, impression 46, like 0, quote 0, reply 2, retweet 0
+
+> @omninomsky @lonelysloth_sec Honestly if the RH proof has inadvertently exposed a flaw in dependent type theory, that would be nearly as impressive.
+
+
+### Post — @lonelysloth_sec — 2026-11-24 23:42 UTC (2026-11-25 00:42 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125374594727206928
+- Metrics (at fetch): bookmark 0, impression 44, like 2, quote 0, reply 1, retweet 0
+
+> @inveteratus_eth @omninomsky You mean the software is perfect and came directly from God and cant possibly have bugs just like the ones found a couple months ago. 
+>
+> Ok.
+>
+> I dont think there’s anything else left to discuss
+
+
+---
+
+## 2026-11-24 · Reply · @inveteratus_eth Then why publish your work wrapped in a joke? And refuse to disclose even what exac
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1645272435003113472 — 2026-11-24 23:12 UTC (2026-11-25 00:12 WAT)
+
+- URL: https://x.com/1645272435003113472/status/2125367087791264225
+- Metrics (at fetch): bookmark 0, impression 65, like 0, quote 0, reply 3, retweet 0
+
+> @lonelysloth_sec I'd be furious too if I was trying to defend my work in an environment where most of the criticism is ideologically motivated rather than technically driven. The provenance of the proof is irrelevant: it has passed every automated check we know how to run.
+
+
+### Post — @lonelysloth_sec — 2026-11-24 23:29 UTC (2026-11-25 00:29 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125371254249304575
+- Metrics (at fetch): bookmark 0, impression 23, like 0, quote 0, reply 1, retweet 0
+
+> @inveteratus_eth Then why publish your work wrapped in a joke? And refuse to disclose even what exactly your work was?
+
+
+---
+
+## 2026-11-24 · Reply · @steveb3210 @JackyReaps Because it was published in the most ridiculous way
+
+
+**Context — post being replied to:**
+
+#### Parent post — @24789531 — 2026-11-24 22:09 UTC (2026-11-24 23:09 WAT)
+
+- URL: https://x.com/24789531/status/2125351002979332354
+- Metrics (at fetch): bookmark 0, impression 1390, like 16, quote 0, reply 2, retweet 0
+
+> @JackyReaps I do not understand why the RH proof is attracting such a huge number of cranks.
+
+
+### Post — @lonelysloth_sec — 2026-11-24 23:06 UTC (2026-11-25 00:06 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125365459919028405
+- Metrics (at fetch): bookmark 0, impression 101, like 0, quote 0, reply 0, retweet 0
+
+> @steveb3210 @JackyReaps Because it was published in the most ridiculous way
+
+
+---
+
+## 2026-11-24 · Reply · @McKracken13 I never said he put forward something knowingly false.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — post being replied to:**
+
+#### Parent post — @3086876501 — 2026-11-24 22:48 UTC (2026-11-24 23:48 WAT)
+
+- URL: https://x.com/3086876501/status/2125360843088900335
+- Metrics (at fetch): bookmark 0, impression 34, like 0, quote 0, reply 1, retweet 0
+
+> @lonelysloth_sec Trolling to lengthmax maybe, but outright false, and knowingly so, is very unlikely. If the proof is true due to an exploit it would be the very strange.
+
+
+### Post — @lonelysloth_sec — 2026-11-24 23:00 UTC (2026-11-25 00:00 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125363904826253753
+- Metrics (at fetch): bookmark 0, impression 43, like 0, quote 0, reply 1, retweet 0
+
+> @McKracken13 I never said he put forward something knowingly false.
+>
+> He did admit to publishing something he doesnt understand though.
+>
+> And Claude is absolutely capable of generating a malicious artifact by its own.
+
+
+---
+
+## 2026-11-24 · Reply · @inveteratus_eth Most “proofs” of the incorrectness I see seem to be wrong. But I wouldn’t just dism
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1645272435003113472 — 2026-11-24 22:48 UTC (2026-11-24 23:48 WAT)
+
+- URL: https://x.com/1645272435003113472/status/2125360993480085621
+- Metrics (at fetch): bookmark 0, impression 154, like 2, quote 0, reply 1, retweet 0
+
+> @lonelysloth_sec Skepticism is fine, but it needs to be backed by an actual understanding of mechanically-checked proofs. Most of the critics clearly have no idea what could actually feasibly go wrong in a proof like this.
+
+
+### Post — @lonelysloth_sec — 2026-11-24 22:57 UTC (2026-11-24 23:57 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125363277568061834
+- Metrics (at fetch): bookmark 1, impression 159, like 4, quote 0, reply 2, retweet 0
+
+> @inveteratus_eth Most “proofs” of the incorrectness I see seem to be wrong. But I wouldn’t just dismiss it either. Most people claiming it is necessarily correct have no idea what they are talking about either.
+>
+> Meanwhile the author treats it all as a gigantic joke — except he seems furious that
+
+
+---
+
+## 2026-11-24 · Reply · @boardyai Others are in progress
+
+
+**Context — post being replied to:**
+
+#### Parent post — @boardyai — 2026-11-24 19:26 UTC (2026-11-24 20:26 WAT)
+
+- URL: https://x.com/boardyai/status/2125310214656389420
+- Metrics (at fetch): bookmark 0, impression 490, like 3, quote 0, reply 1, retweet 0
+
+> @lonelysloth_sec step 4 is the only one that shipped
+
+
+### Post — @lonelysloth_sec — 2026-11-24 19:44 UTC (2026-11-24 20:44 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125314679711072465
+- Metrics (at fetch): bookmark 0, impression 419, like 1, quote 0, reply 1, retweet 0
+
+> @boardyai Others are in progress
+
+
+---
+
+## 2026-11-24 · Post · This doesn’t mean Ant’s RH proof is invalid or anything like that.
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @lonelysloth_sec — 2026-11-24 19:43 UTC (2026-11-24 20:43 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125314482889241050
+- Metrics (at fetch): bookmark 5, impression 2727, like 34, quote 1, reply 8, retweet 1
+
+> This doesn’t mean Ant’s RH proof is invalid or anything like that.
+>
+> But the arrogance of thinking software that keeps showing up serious bugs and had a kernel bug found just a couple months ago MUST be trusted….
+>
+> Mathematicians usually take years to validate *one* major proof. https://t.co/RZYCTsPSNe
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1011915644600799232 — 2026-11-24 17:40 UTC (2026-11-24 18:40 WAT)
+    
+    - URL: https://x.com/1011915644600799232/status/2125283538165698763
+    - Metrics (at fetch): bookmark 26, impression 11488, like 73, quote 7, reply 8, retweet 7
+    
+    > `leanchecker` accepts a module whose mutual inductive has a wrong `numParams`, which gives an axiom-free proof of `False` via `Expr.proj`
+    >
+    > https://t.co/h3VXeO5UNE https://t.co/akuX2KlRh1
+    
+    **Media:**
+    - media `3_2125283367708962816` (details not returned by the API)
+    
+
+
+---
+
+## 2026-11-24 · Post · Update. Anthropic keeps delivering impressive results in the stock market.
+
+
+### Post — @lonelysloth_sec — 2026-11-24 19:26 UTC (2026-11-24 20:26 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125310139649728813
+- Metrics (at fetch): bookmark 19, impression 16934, like 94, quote 0, reply 10, retweet 4
+
+> Update. Anthropic keeps delivering impressive results in the stock market.
+>
+> What if their plan was always:
+>
+> 1. Be a lab just good enough to IPO before OAI.
+>
+> 2. Ruin the market for an OAI IPO, forcing OAI bankrupt.
+>
+> 3. Get open source and various other competitors outlawed.
+>
+> 4. https://t.co/F4o9V8TRNr
+
+**Quoted post (full text):**
+
+    #### Quoted post — @lonelysloth_sec — 2026-11-23 15:39 UTC (2026-11-23 16:39 WAT)
+    
+    - URL: https://x.com/lonelysloth_sec/status/2124890548255465612
+    - Metrics (at fetch): bookmark 0, impression 808, like 13, quote 0, reply 1, retweet 0
+    
+    > It’s very impressive that Anthropic is managing to be down today.
+    
+
+
+---
+
+## 2026-11-24 · Reply · @fedichev Proofs are far from cheap. You have companies that spent more than centuries worth of glob
+
+
+Tags (automatic): Memory corruption / native
+
+
+**Context — post being replied to:**
+
+#### Parent post — @28830575 — 2026-11-24 14:35 UTC (2026-11-24 15:35 WAT)
+
+- URL: https://x.com/28830575/status/2125236789119955449
+- Metrics (at fetch): bookmark 37, impression 8318, like 72, quote 1, reply 10, retweet 4
+
+> Gödel proved that some true statements can never be proved from our axioms. So why does AI keep proving the famous ones?
+>
+> Because the limit is real, but it sits somewhere else. We reached it decades ago: the continuum hypothesis cannot be settled from the standard axioms of set
+
+
+### Post — @lonelysloth_sec — 2026-11-24 18:16 UTC (2026-11-24 19:16 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125292468191338562
+- Metrics (at fetch): bookmark 0, impression 173, like 2, quote 0, reply 1, retweet 0
+
+> @fedichev Proofs are far from cheap. You have companies that spent more than centuries worth of global math research on building statistical model that can put together indecipherable proofs based on existing knowledge. An each proof still costs years worth of a mathematician’s wages.
 
 
 ---
@@ -4875,7 +5371,7 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 #### Root post — @Guhu95 — 2024-07-04 13:27 UTC (2024-07-04 14:27 WAT)
 
 - URL: https://x.com/Guhu95/status/1808855240449667162
-- Metrics (at fetch): bookmark 49, impression 57634, like 122, quote 4, reply 18, retweet 7
+- Metrics (at fetch): bookmark 49, impression 57637, like 122, quote 4, reply 18, retweet 7
 
 > [High] Conditional contest pots are bad and stupid. 
 >

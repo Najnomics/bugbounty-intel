@@ -1,11 +1,45 @@
 # @farazsth98 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 161
-- Conversations/threads: 128
+- Posts in this file: 164
+- Conversations/threads: 129
 - Oldest post captured: 2019-09-30
 - Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Thread · Found a consensus bug in a protocol that can be used to halt all their nodes *right now*, but their 
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @farazsth98 — 2026-11-24 13:45 UTC (2026-11-24 14:45 WAT)
+
+- URL: https://x.com/farazsth98/status/2125224268548219333
+- Metrics (at fetch): bookmark 5, impression 5852, like 68, quote 0, reply 9, retweet 1
+
+> Found a consensus bug in a protocol that can be used to halt all their nodes *right now*, but their bug bounty terms indirectly treat this bug as out-of-scope.
+>
+> Do I spend $100 to test their terms? 😅
+
+
+### Thread part 2 — @farazsth98 — 2026-11-24 14:13 UTC (2026-11-24 15:13 WAT)
+
+- URL: https://x.com/farazsth98/status/2125231250554356093
+- Metrics (at fetch): not returned
+
+> @pilvar222 In this specific case, there are multiple node implementations all running on the same network, and this bug only affects a single implementation, so the answer is *no* unfortunately 😅
+
+
+### Thread part 3 — @farazsth98 — 2026-11-24 19:42 UTC (2026-11-24 20:42 WAT)
+
+- URL: https://x.com/farazsth98/status/2125314043410071827
+- Metrics (at fetch): bookmark 0, impression 136, like 0, quote 0, reply 0, retweet 0
+
+> @topkingmo Chaotic Evil 💀
 
 
 ---
@@ -2465,7 +2499,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
     #### Quoted post — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
     
     - URL: https://x.com/zellic_io/status/1732171636051501073
-    - Metrics (at fetch): bookmark 114, impression 72577, like 217, quote 10, reply 3, repost 41
+    - Metrics (at fetch): bookmark 113, impression 72586, like 218, quote 10, reply 3, retweet 41
     
     > The dangers of integer truncation:
     >

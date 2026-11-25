@@ -1,11 +1,61 @@
 # @asymmetric_re — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 139
-- Conversations/threads: 67
+- Posts in this file: 141
+- Conversations/threads: 69
 - Oldest post captured: 2024-01-29
-- Newest post captured: 2026-11-13
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Post · @SolanaFndn Request an assessment
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @asymmetric_re — 2026-11-24 16:53 UTC (2026-11-24 17:53 WAT)
+
+- URL: https://x.com/asymmetric_re/status/2125271679823966391
+- Metrics (at fetch): bookmark 1, impression 103, like 0, quote 0, reply 0, retweet 0
+
+> @SolanaFndn Request an assessment
+> https://t.co/4v3lt84BpX
+
+
+---
+
+## 2026-11-24 · Post · Launching STRIDE with @SolanaFndn has been incredibly rewarding. Great to see teams coming to us ear
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+### Post — @asymmetric_re — 2026-11-24 16:50 UTC (2026-11-24 17:50 WAT)
+
+- URL: https://x.com/asymmetric_re/status/2125270961188659327
+- Metrics (at fetch): bookmark 2, impression 1009, like 17, quote 0, reply 5, retweet 4
+
+> Launching STRIDE with @SolanaFndn has been incredibly rewarding. Great to see teams coming to us earlier in the process and thinking about security across all 8 pillars. https://t.co/LIA29jmZkQ
+
+**Quoted post (full text):**
+
+    #### Quoted post — @2148686011 — 2026-11-23 20:12 UTC (2026-11-23 21:12 WAT)
+    
+    - URL: https://x.com/2148686011/status/2124959168528335334
+    - Metrics (at fetch): bookmark 1, impression 5439, like 18, quote 2, reply 2, retweet 4
+    
+    > Solana Foundation's STRIDE program is working to strengthen security across the ecosystem.
+    >
+    > Michael Coates (@_mwc), CISO of @SolanaFndn, says STRIDE is a free, structured framework for crypto security, and that it has already assessed 74% of the ecosystem's TVL.
+    >
+    > He joins https://t.co/Y2KU9S1YvJ
+    
+    **Media:**
+    - media `13_2124944472345632768` (details not returned by the API)
+    
 
 
 ---

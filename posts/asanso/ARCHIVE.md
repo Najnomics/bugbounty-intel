@@ -1,11 +1,31 @@
 # @asanso — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 194
-- Conversations/threads: 180
+- Posts in this file: 195
+- Conversations/threads: 181
 - Oldest post captured: 2011-01-30
-- Newest post captured: 2026-11-23
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Post · Universe 25, research edition.
+
+
+### Post — @asanso — 2026-11-24 09:58 UTC (2026-11-24 10:58 WAT)
+
+- URL: https://x.com/asanso/status/2125167080781566412
+- Metrics (at fetch): bookmark 1, impression 741, like 22, quote 0, reply 3, retweet 2
+
+> Universe 25, research edition.
+>
+> I’m chasing one specific research target. En passant, I’ve stumbled upon new mathematical models and theorems, enough material for 5–10 entirely different papers.
+>
+> A year ago, I would have paid thousands of dollars for any one of them. Today, they https://t.co/wN1l6gMX7e
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX4b_xfWUAAOv-o.png — no alt text provided by author
 
 
 ---

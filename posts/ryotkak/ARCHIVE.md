@@ -1,6 +1,6 @@
 # @ryotkak — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 200
 - Conversations/threads: 133
@@ -2411,7 +2411,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @ryotkak — 2021-01-05 00:24 UTC (2021-01-05 01:24 WAT)
 
 - URL: https://x.com/ryotkak/status/1346251211817713664
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 41, impression 0, like 367, quote 4, reply 2, retweet 141
 
 > Twitterのフリートにあった脆弱性の話です
 > https://blog.ryotak.me/post/twitter-privesc/
@@ -2422,7 +2422,7 @@ Tags (automatic): Platform: HackerOne
 ### Thread part 2 — @ryotkak — 2021-01-12 12:50 UTC (2021-01-12 13:50 WAT)
 
 - URL: https://x.com/ryotkak/status/1348975587088482307
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 21, impression 0, like 224, quote 5, reply 1, retweet 94
 
 > VSCodeのGitHubリポジトリに対して第三者が書き込み権限を奪えてしまった脆弱性の話です
 > https://blog.ryotak.me/post/vscode-write-access/
@@ -2433,7 +2433,7 @@ Tags (automatic): Platform: HackerOne
 ### Thread part 3 — @ryotkak — 2021-02-25 03:33 UTC (2021-02-25 04:33 WAT)
 
 - URL: https://x.com/ryotkak/status/1364780442121949184
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 0, like 46, quote 0, reply 1, retweet 19
 
 > GitHub Actionsにおけるサプライチェーン攻撃を通したリポジトリ侵害の影響範囲とその軽減策についてです
 > https://blog.ryotak.me/post/github-actions-supplychain/
@@ -2754,7 +2754,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2021-05-24 · Post · Terrariaの脆弱性報告しました(？) https://t.co/hNzSSqMKN7
+## 2021-05-24 · Post · Terrariaの脆弱性報告しました(？) https://twitter.com/CVEnew/status/1396824669991448585
 
 
 ### Post — @ryotkak — 2021-05-24 23:47 UTC (2021-05-25 00:47 WAT)
@@ -2762,7 +2762,9 @@ Tags (automatic): RCE
 - URL: https://x.com/ryotkak/status/1396976226355474433
 - Metrics (at fetch): not returned
 
-> Terrariaの脆弱性報告しました(？) https://t.co/hNzSSqMKN7
+> Terrariaの脆弱性報告しました(？) https://twitter.com/CVEnew/status/1396824669991448585
+
+**Links in post:** https://twitter.com/CVEnew/status/1396824669991448585
 
 **Quoted post (full text):**
 
@@ -2928,7 +2930,7 @@ Tags (automatic): RCE
 ### Post — @ryotkak — 2021-03-18 23:55 UTC (2021-03-19 00:55 WAT)
 
 - URL: https://x.com/ryotkak/status/1372698286373576704
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 0, like 48, quote 1, reply 0, retweet 0
 
 > QiitaにXSS報告しました https://twitter.com/CVEnew/status/1372590038324813833
 
@@ -2939,7 +2941,7 @@ Tags (automatic): RCE
     #### Quoted post — @CVEnew — 2021-03-18 16:45 UTC (2021-03-18 17:45 WAT)
     
     - URL: https://x.com/CVEnew/status/1372590038324813833
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 0, impression 0, like 4, quote 1, reply 0, retweet 3
     
     > CVE-2021-28796 Increments Qiita::Markdown before 0.33.0 allows XSS in transformers. https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-28796
     
@@ -2955,7 +2957,7 @@ Tags (automatic): RCE
 ### Post — @ryotkak — 2021-03-16 13:50 UTC (2021-03-16 14:50 WAT)
 
 - URL: https://x.com/ryotkak/status/1371821248175435779
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 135, impression 0, like 852, quote 16, reply 0, retweet 252
 
 > MarkdownからGoogle Slidesに変換するやつ、Googleが作ってくれてるの知らなかった
 > https://github.com/googleworkspace/md2googleslides
@@ -2971,7 +2973,7 @@ Tags (automatic): RCE
 ### Post — @ryotkak — 2021-02-27 05:18 UTC (2021-02-27 06:18 WAT)
 
 - URL: https://x.com/ryotkak/status/1365531806330544129
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 0, like 127, quote 0, reply 0, retweet 9
 
 > メルカリに脆弱性報告して色々もらった
 > https://about.mercari.com/security/vulnerability/ [pic.x.com/7xdebsbZ9e]
@@ -2990,7 +2992,7 @@ Tags (automatic): RCE
 ### Post — @ryotkak — 2021-01-20 01:11 UTC (2021-01-20 02:11 WAT)
 
 - URL: https://x.com/ryotkak/status/1351698751098818560
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 8, impression 0, like 162, quote 4, reply 3, retweet 31
 
 > 報告してたGoの脆弱性が修正されてました。
 > CVE-2020-27955の概要読んで絶対Go自体も影響受けるなと思ってコード読んでる時に見つけたやつです。 https://twitter.com/golang/status/1351673649850421249
@@ -3002,7 +3004,7 @@ Tags (automatic): RCE
     #### Quoted post — @113419064 — 2021-01-19 23:31 UTC (2021-01-20 00:31 WAT)
     
     - URL: https://x.com/113419064/status/1351673649850421249
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 3, impression 0, like 305, quote 12, reply 3, retweet 106
     
     > Go 1.15.7 and 1.14.14 have been released!
     >
@@ -3022,7 +3024,7 @@ Tags (automatic): RCE
 ### Thread part 2 — @ryotkak — 2021-01-20 01:26 UTC (2021-01-20 02:26 WAT)
 
 - URL: https://x.com/ryotkak/status/1351702516610654212
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 0, retweet 0
 
 > ちなみになんですが、明示的にドキュメントに書かれていないだけで同じような実行可能ファイルの検索をする言語は結構あります
 
@@ -3035,7 +3037,7 @@ Tags (automatic): RCE
 ### Post — @ryotkak — 2021-01-14 10:58 UTC (2021-01-14 11:58 WAT)
 
 - URL: https://x.com/ryotkak/status/1349672283325964291
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 0, like 19, quote 1, reply 0, retweet 4
 
 > 公開されてました。Git LFSのRCEです:
 > https://github.com/git-lfs/git-lfs/security/advisories/GHSA-cx3w-xqmc-84g5
@@ -3051,7 +3053,7 @@ Tags (automatic): RCE
 ### Post — @ryotkak — 2020-10-09 09:17 UTC (2020-10-09 10:17 WAT)
 
 - URL: https://x.com/ryotkak/status/1314495176665038849
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 1, retweet 4
 
 > 書きました
 > https://blog.ryotak.me/post/twitter-list-chain/
@@ -3067,7 +3069,7 @@ Tags (automatic): RCE
 ### Post — @ryotkak — 2019-12-10 05:04 UTC (2019-12-10 06:04 WAT)
 
 - URL: https://x.com/ryotkak/status/1204265665290391553
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 1, retweet 1
 
 > 報告してたやつ
 > Kinza におけるクロスサイトスクリプティングの脆弱性
@@ -3084,7 +3086,7 @@ Tags (automatic): RCE
 ### Post — @ryotkak — 2019-11-30 00:56 UTC (2019-11-30 01:56 WAT)
 
 - URL: https://x.com/ryotkak/status/1200579220717502464
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 0, like 7, quote 0, reply 0, retweet 0
 
 > .@V_Melville さんにアイコンを描いていただきました！ありがとうございます！
 > #新しいプロフィール画像 [pic.x.com/8DJGKHH5z3]
@@ -3101,6 +3103,6 @@ Tags (automatic): RCE
 ### Post — @ryotkak — 2019-05-29 00:49 UTC (2019-05-29 01:49 WAT)
 
 - URL: https://x.com/ryotkak/status/1133535728468578304
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 1
 
 > CVE取得した

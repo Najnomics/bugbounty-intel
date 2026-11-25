@@ -1,11 +1,46 @@
 # @0xriptide — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 228
-- Conversations/threads: 221
+- Posts in this file: 229
+- Conversations/threads: 222
 - Oldest post captured: 2014-07-21
-- Newest post captured: 2026-11-21
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Post · let's go web3 sec community toss in a few coins and give SEAL some love https://twitter.com/i/status
+
+
+### Post — @0xriptide — 2026-11-24 16:00 UTC (2026-11-24 17:00 WAT)
+
+- URL: https://x.com/0xriptide/status/2125258193299222959
+- Metrics (at fetch): bookmark 2, impression 965, like 26, quote 0, reply 0, retweet 5
+
+> let's go web3 sec community toss in a few coins and give SEAL some love https://twitter.com/i/status/2125240487720153171
+
+**Links in post:** https://twitter.com/i/status/2125240487720153171
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1988994064914739210 — 2026-11-24 14:49 UTC (2026-11-24 15:49 WAT)
+    
+    - URL: https://x.com/1988994064914739210/status/2125240487720153171
+    - Metrics (at fetch): bookmark 3, impression 2316, like 50, quote 2, reply 2, retweet 8
+    
+    > We've seen a lot of people calling for more funding for SEAL, and @therealgregoAI just did something about it.
+    >
+    > GregoAI pledged $10K to SEAL's Audit Transparency initiative, bringing it just $3.1K away from qualifying for TheDAO's vote.
+    >
+    > Who's joining them to close the gap before tomorrow's deadline?
+    >
+    > https://initiatives.thedao.fund/initiative/audit-transparency-for-ethereum-every-defi-protocol-s-audits
+    
+    **Links in post:** https://twitter.com/iphelix/status/2124918412203942140, https://initiatives.thedao.fund/initiative/audit-transparency-for-ethereum-every-defi-protocol-s-audits
+    
+    **Quoted post** 2124918412203942140: not readable via the API (deleted, private, or withheld).
+    
 
 
 ---

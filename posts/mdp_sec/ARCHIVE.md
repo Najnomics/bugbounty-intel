@@ -1,11 +1,706 @@
 # @mdp_sec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1932
-- Conversations/threads: 1251
+- Posts in this file: 1956
+- Conversations/threads: 1275
 - Oldest post captured: 2026-07-22
-- Newest post captured: 2026-11-24
+- Newest post captured: 2026-11-25
+
+
+---
+
+## 2026-11-25 · Reply · @Jhaddix Do itttt
+
+
+**Context — post being replied to:**
+
+#### Parent post — @Jhaddix — 2026-11-25 05:41 UTC (2026-11-25 06:41 WAT)
+
+- URL: https://x.com/Jhaddix/status/2125464812054544814
+- Metrics (at fetch): bookmark 0, impression 820, like 4, quote 0, reply 1, retweet 0
+
+> The urge to refactor your entire AI stack based on new benchmarks and tech https://t.co/4vRoVNVqvG
+
+**Media:**
+- media `16_2125464803963727872` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-25 05:45 UTC (2026-11-25 06:45 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125465758415437885
+- Metrics (at fetch): bookmark 0, impression 6, like 0, quote 0, reply 0, retweet 0
+
+> @Jhaddix Do itttt
+
+
+---
+
+## 2026-11-25 · Reply · @SuyashS91823422 @Bugcrowd Earned it fam
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — post being replied to:**
+
+#### Parent post — @SuyashS91823422 — 2026-11-24 12:42 UTC (2026-11-24 13:42 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2125208411721912806
+- Metrics (at fetch): bookmark 3, impression 833, like 51, quote 0, reply 5, retweet 0
+
+> Finally crossed 1,000 points on @Bugcrowd! 🏆
+>
+> After countless hours of hard work, dedication, and consistency, I’ve finally reached this milestone.
+>
+> It wasn’t an overnight achievement, but every report, every rejection, and every lesson helped me get here.
+>
+> #BugBounty #Bugcrowd https://t.co/JzoTjF7VZl
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX5ByA1aIAAdCwr.jpg — no alt text provided by author
+
+
+### Post — @mdp_sec — 2026-11-25 05:24 UTC (2026-11-25 06:24 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125460640139776092
+- Metrics (at fetch): bookmark 0, impression 6, like 0, quote 0, reply 0, retweet 0
+
+> @SuyashS91823422 @Bugcrowd Earned it fam
+
+
+---
+
+## 2026-11-25 · Reply · @anand___73 @Rohit_443 good going mate
+
+
+**Context — post being replied to:**
+
+#### Parent post — @anand___73 — 2026-11-24 13:00 UTC (2026-11-24 14:00 WAT)
+
+- URL: https://x.com/anand___73/status/2125212942740459666
+- Metrics (at fetch): bookmark 12, impression 922, like 51, quote 0, reply 3, retweet 2
+
+> 🎉 Another Bug Bounty Win!
+>
+> Happy to share that my security report has been rewarded with $330 by Yandex Bug Bounty.
+> The vulnerability was an IDOR
+> #BugBounty #CyberSecurity #IDOR #WebSecurity #SecurityResearch #Yandex #EthicalHacking https://t.co/4HlSS4w9Tm
+
+**Media:**
+- media `3_2125212744014249986` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-25 05:23 UTC (2026-11-25 06:23 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125460430772670780
+- Metrics (at fetch): bookmark 0, impression 6, like 0, quote 0, reply 0, retweet 0
+
+> @anand___73 @Rohit_443 good going mate
+
+
+---
+
+## 2026-11-25 · Reply · @Shatuamy @yeswehack Proper work fam
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1527587038324981760 — 2026-11-24 14:01 UTC (2026-11-24 15:01 WAT)
+
+- URL: https://x.com/1527587038324981760/status/2125228264868430093
+- Metrics (at fetch): bookmark 1, impression 799, like 79, quote 0, reply 2, retweet 0
+
+> Alhamdulillah,again...
+> Just got a reward for a vulnerability submitted on @yeswehack -- Business Logic Errors (CWE-840).  #YesWeRHackers https://t.co/4uoSDcqatP
+
+**Media:**
+- media `3_2125228256781844480` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-25 05:23 UTC (2026-11-25 06:23 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125460221384642739
+- Metrics (at fetch): bookmark 0, impression 7, like 1, quote 0, reply 0, retweet 0
+
+> @Shatuamy @yeswehack Proper work fam
+
+
+---
+
+## 2026-11-25 · Reply · @scar7c @yeswehack Nice work mate
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1590770154039693312 — 2026-11-24 14:05 UTC (2026-11-24 15:05 WAT)
+
+- URL: https://x.com/1590770154039693312/status/2125229441395880108
+- Metrics (at fetch): bookmark 0, impression 303, like 34, quote 0, reply 1, retweet 0
+
+> Just got a reward for a vulnerability submitted on @yeswehack -- Cross-Site Request Forgery (CSRF) (CWE-352). https://t.co/T22IMSHcGw #YesWeRHackers https://t.co/7o7ke2bYGQ
+
+**Media:**
+- media `3_2125229423708483584` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-25 05:22 UTC (2026-11-25 06:22 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125460019819041270
+- Metrics (at fetch): bookmark 0, impression 2, like 0, quote 0, reply 0, retweet 0
+
+> @scar7c @yeswehack Nice work mate
+
+
+---
+
+## 2026-11-25 · Reply · @0xRIXET ooft thats a good one
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1862284827359166464 — 2026-11-24 14:11 UTC (2026-11-24 15:11 WAT)
+
+- URL: https://x.com/1862284827359166464/status/2125230890263449742
+- Metrics (at fetch): bookmark 4, impression 1307, like 56, quote 0, reply 5, retweet 0
+
+> First P1 in Bugcrowd https://t.co/eorcVgkAYZ
+
+**Media:**
+- media `3_2125230806553468928` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-25 05:21 UTC (2026-11-25 06:21 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125459800263889142
+- Metrics (at fetch): bookmark 0, impression 6, like 0, quote 0, reply 0, retweet 0
+
+> @0xRIXET ooft thats a good one
+
+
+---
+
+## 2026-11-25 · Reply · @YXN0cm8 @yeswehack banger, gg
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1930361831446433792 — 2026-11-24 18:10 UTC (2026-11-24 19:10 WAT)
+
+- URL: https://x.com/1930361831446433792/status/2125291077578227934
+- Metrics (at fetch): bookmark 4, impression 900, like 64, quote 0, reply 2, retweet 2
+
+> Just got a reward for a critical vulnerability submitted on @yeswehack -- SQL Injection (CWE-89). https://t.co/4sEBBSjmPB #YesWeRHackers 
+>
+> Back to september when I got rewarded for this: https://t.co/t4QeZiTkyq
+
+**Media:**
+- media `3_2125290844643078144` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-25 05:20 UTC (2026-11-25 06:20 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125459598727619045
+- Metrics (at fetch): bookmark 0, impression 10, like 0, quote 0, reply 0, retweet 0
+
+> @YXN0cm8 @yeswehack banger, gg
+
+
+---
+
+## 2026-11-25 · Reply · @AdemVessell_o Congrats, well earned
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1838877460907343872 — 2026-11-24 23:26 UTC (2026-11-25 00:26 WAT)
+
+- URL: https://x.com/1838877460907343872/status/2125370490017788195
+- Metrics (at fetch): bookmark 0, impression 48, like 2, quote 0, reply 2, retweet 0
+
+> be a defender.
+> be of use.
+> little can be more rewarding-especially in this window of time.
+>
+> proud to see my security research credited as “Arkhe”, alongside fellow researchers.
+> Joomla’s CVE-2026-120653: an API access-control flaw.
+>
+> fixed in 5.4.11 and 6.2.1. 
+> Thank you to David
+
+
+### Post — @mdp_sec — 2026-11-25 05:19 UTC (2026-11-25 06:19 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125459396029542612
+- Metrics (at fetch): bookmark 0, impression 10, like 1, quote 0, reply 1, retweet 0
+
+> @AdemVessell_o Congrats, well earned
+
+
+---
+
+## 2026-11-25 · Reply · @z0ksh_ @yeswehack yeah nice one fam
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1612794363305771009 — 2026-11-24 21:24 UTC (2026-11-24 22:24 WAT)
+
+- URL: https://x.com/1612794363305771009/status/2125339872667881815
+- Metrics (at fetch): bookmark 2, impression 569, like 47, quote 0, reply 1, retweet 0
+
+> Alhamdulillah.
+> The 6th bug in the same program on @yeswehack .
+>
+> #BugBounty #YesWeHack #CyberSecurity #EthicalHacking https://t.co/xfD8VVsMlm
+
+**Media:**
+- media `3_2125339864941936640` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-25 05:18 UTC (2026-11-25 06:18 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125459171109925230
+- Metrics (at fetch): bookmark 0, impression 4, like 0, quote 0, reply 0, retweet 0
+
+> @z0ksh_ @yeswehack yeah nice one fam
+
+
+---
+
+## 2026-11-25 · Reply · @Vansh_95a @hackerspider1 @Hacker0x01 legit impressive mate
+
+
+Tags (automatic): Platform: HackerOne
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1906678095547105280 — 2026-11-25 01:27 UTC (2026-11-25 02:27 WAT)
+
+- URL: https://x.com/1906678095547105280/status/2125400898553970851
+- Metrics (at fetch): bookmark 0, impression 544, like 50, quote 0, reply 0, retweet 1
+
+> "Yay! Today @hackerspider1 and I made $5450 on @Hacker0x01!"
+>
+> #bughunters #bugbounty #hackers #hackerone https://t.co/B1CsQ7jwc0
+
+**Media:**
+- media `3_2125400640960819200` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-25 05:18 UTC (2026-11-25 06:18 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125458972027326796
+- Metrics (at fetch): bookmark 0, impression 10, like 0, quote 0, reply 0, retweet 0
+
+> @Vansh_95a @hackerspider1 @Hacker0x01 legit impressive mate
+
+
+---
+
+## 2026-11-25 · Reply · @UCEL_X Nicu, enjoy it
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1927925408869273601 — 2026-11-25 02:32 UTC (2026-11-25 03:32 WAT)
+
+- URL: https://x.com/1927925408869273601/status/2125417276119842999
+- Metrics (at fetch): bookmark 0, impression 65, like 1, quote 0, reply 1, retweet 0
+
+> Another bug bounty reward received! 🎉
+>
+> Glad to see the effort finally paid off. It's always satisfying to contribute to making the internet a little safer.
+>
+> On to the next hunt! 
+>
+> #BugBounty #CyberSecurity https://t.co/3ZDlqt8MBO
+
+**Media:**
+- media `3_2125417270746988544` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-25 05:17 UTC (2026-11-25 06:17 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125458769245245602
+- Metrics (at fetch): bookmark 0, impression 4, like 0, quote 0, reply 0, retweet 0
+
+> @UCEL_X Nicu, enjoy it
+
+
+---
+
+## 2026-11-25 · Reply · @xuanthanh2812 @yeswehack big gratz fam
+
+
+**Context — post being replied to:**
+
+#### Parent post — @4357881312 — 2026-11-25 02:45 UTC (2026-11-25 03:45 WAT)
+
+- URL: https://x.com/4357881312/status/2125420508229648651
+- Metrics (at fetch): bookmark 0, impression 277, like 15, quote 0, reply 1, retweet 0
+
+> Just got a reward for a critical vulnerability submitted on @yeswehack -- SQL Injection (CWE-89). https://t.co/tPKLapnmOc #YesWeRHackers https://t.co/TOb4joMDwL
+
+**Media:**
+- media `3_2125420485639118849` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-25 05:16 UTC (2026-11-25 06:16 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125458567906074967
+- Metrics (at fetch): bookmark 0, impression 6, like 0, quote 0, reply 0, retweet 0
+
+> @xuanthanh2812 @yeswehack big gratz fam
+
+
+---
+
+## 2026-11-25 · Reply · @Icare1337 @yeswehack Yup, very nice
+
+
+**Context — post being replied to:**
+
+#### Parent post — @72546363 — 2026-11-24 10:00 UTC (2026-11-24 11:00 WAT)
+
+- URL: https://x.com/72546363/status/2125167777535156432
+- Metrics (at fetch): bookmark 0, impression 204, like 15, quote 0, reply 1, retweet 0
+
+> Just got a reward for a high vulnerability submitted on @yeswehack -- OS Command Injection (CWE-78). https://t.co/mNSVqG2Rjy #YesWeRHackers
+
+
+### Post — @mdp_sec — 2026-11-25 05:15 UTC (2026-11-25 06:15 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125458359914835970
+- Metrics (at fetch): bookmark 0, impression 1, like 0, quote 0, reply 0, retweet 0
+
+> @Icare1337 @yeswehack Yup, very nice
+
+
+---
+
+## 2026-11-25 · Reply · @fattselimi @badcrack3r @intigriti Love that for u fam
+
+
+**Context — post being replied to:**
+
+#### Parent post — @985702482411180033 — 2026-11-24 10:52 UTC (2026-11-24 11:52 WAT)
+
+- URL: https://x.com/985702482411180033/status/2125180632070320221
+- Metrics (at fetch): bookmark 8, impression 3921, like 232, quote 0, reply 36, retweet 1
+
+> Happy Birthday to me with a Critical Vulnerability found with my bro @badcrack3r in @intigriti Bug Bounty Platform🫡 https://t.co/1M9lpL6oGb
+
+**Media:**
+- media `3_2125180624772255744` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-25 05:14 UTC (2026-11-25 06:14 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125458147351621723
+- Metrics (at fetch): bookmark 0, impression 15, like 0, quote 0, reply 0, retweet 0
+
+> @fattselimi @badcrack3r @intigriti Love that for u fam
+
+
+---
+
+## 2026-11-25 · Reply · @Atom_User_ Ooft, well played
+
+
+**Context — post being replied to:**
+
+#### Parent post — @992744657930113024 — 2026-11-24 10:30 UTC (2026-11-24 11:30 WAT)
+
+- URL: https://x.com/992744657930113024/status/2125175177998995802
+- Metrics (at fetch): bookmark 72, impression 6833, like 202, quote 0, reply 9, retweet 0
+
+> 1/2 
+> 3 days after Google paid me $10,000 for a critical vulnerability, I got another $7,000
+>
+> And this time, the bug could cost YOUR life, really...
+>
+> Imagine installing an app and suddenly being unable to call the police or an ambulance
+>
+> #bugbounty #cybersecurity https://t.co/sjZET7vjXy
+
+**Media:**
+- media `3_2125175120947744768` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-25 05:13 UTC (2026-11-25 06:13 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125457937544180075
+- Metrics (at fetch): bookmark 0, impression 3, like 0, quote 0, reply 0, retweet 0
+
+> @Atom_User_ Ooft, well played
+
+
+---
+
+## 2026-11-25 · Reply · @AbdelrhmanUZaki @OpenGatewayai provider can dm me access, everyone gets same treatment
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1445496267778375695 — 2026-11-25 05:00 UTC (2026-11-25 06:00 WAT)
+
+- URL: https://x.com/1445496267778375695/status/2125454519769456770
+- Metrics (at fetch): bookmark 0, impression 39, like 1, quote 0, reply 1, retweet 0
+
+> @OpenGatewayai any plan to support @mdp_sec to test?
+>
+> https://t.co/4JKA4wE3Np
+
+
+### Post — @mdp_sec — 2026-11-25 05:03 UTC (2026-11-25 06:03 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125455251964940463
+- Metrics (at fetch): bookmark 0, impression 5, like 1, quote 0, reply 0, retweet 0
+
+> @AbdelrhmanUZaki @OpenGatewayai provider can dm me access, everyone gets same treatment
+
+
+---
+
+## 2026-11-25 · Post · gotta love these https://t.co/q6AyPVxzH3
+
+
+### Post — @mdp_sec — 2026-11-25 04:59 UTC (2026-11-25 05:59 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125454224935030949
+- Metrics (at fetch): bookmark 0, impression 281, like 5, quote 0, reply 0, retweet 0
+
+> gotta love these https://t.co/q6AyPVxzH3
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX8hVwXbwAA5Nsv.png — no alt text provided by author
+
+
+---
+
+## 2026-11-25 · Reply · @strix_ai @isTsNameAlright look at these guys :)
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1904728643550490624 — 2026-11-25 04:29 UTC (2026-11-25 05:29 WAT)
+
+- URL: https://x.com/1904728643550490624/status/2125446811699601804
+- Metrics (at fetch): bookmark 0, impression 11, like 1, quote 0, reply 1, retweet 0
+
+> @mdp_sec @isTsNameAlright :)
+
+
+### Post — @mdp_sec — 2026-11-25 04:47 UTC (2026-11-25 05:47 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125451255162228783
+- Metrics (at fetch): bookmark 0, impression 7, like 0, quote 0, reply 0, retweet 0
+
+> @strix_ai @isTsNameAlright look at these guys :)
+
+
+---
+
+## 2026-11-25 · Reply · @wb1936 @OpenGatewayai same offer for all fam, provider can dm me access, i dont chase ppl
+
+
+**Context — post being replied to:**
+
+#### Parent post — @2098546638868353027 — 2026-11-25 04:44 UTC (2026-11-25 05:44 WAT)
+
+- URL: https://x.com/2098546638868353027/status/2125450479123439698
+- Metrics (at fetch): bookmark 0, impression 10, like 1, quote 0, reply 1, retweet 0
+
+> @OpenGatewayai Please do the @mdp_sec  test!!
+>
+> https://t.co/wDYzqYzTxb
+
+**Quoted post** 2125342012149039178: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-25 04:47 UTC (2026-11-25 05:47 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125451170122756599
+- Metrics (at fetch): bookmark 0, impression 7, like 1, quote 0, reply 1, retweet 0
+
+> @wb1936 @OpenGatewayai same offer for all fam, provider can dm me access, i dont chase ppl
+
+
+---
+
+## 2026-11-25 · Post · i found a stored xss in a chat widget that let any website steal the chat session. paid $2,000, then
+
+
+Tags (automatic): XSS
+
+
+### Post — @mdp_sec — 2026-11-25 04:10 UTC (2026-11-25 05:10 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125441849108156479
+- Metrics (at fetch): bookmark 18, impression 817, like 33, quote 1, reply 1, retweet 0
+
+> i found a stored xss in a chat widget that let any website steal the chat session. paid $2,000, then another $150 for the retest.
+>
+> bit of background. the site loads a chat widget in an iframe. the parent page talks to it with postMessage.
+>
+> the chain came down to 3 things:
+> - the listener took commands from any origin. no check on event.origin or event.source
+> - a start-chat command stored my text, and that text got decoded and written into the page with no escaping
+> - the chat session cookie was enough to mint a token with read, write and end-chat access
+>
+> how it went:
+>
+> 1. opened an attacker page and grabbed the chat iframe with `document.querySelector('iframe')`.
+> 2. sent `postMessage` with a start-chat command and a payload in the initial message. the target origin was `*`.
+> 3. the widget stored it. the text rendered in the dialog and the script ran on the chat origin.
+> 4. the script posted the session cookie back to my page. with that cookie i minted a visitor token, read the transcript, and ended the test chat.
+>
+> the dialog page had an allowlist for who could load it, but the message listener didnt apply the same check. one visit to a random site is enough if the victim already had the widget cookie.
+>
+> #BugBounty tip: if a widget talks to its parent over postMessage, test whether it actually checks event.origin. an allowlist on page load often isnt applied to the listener.
+
+
+---
+
+## 2026-11-25 · Reply · @Mayhem4Markets fast is cool, solves matter more for hunting https://t.co/udJ6tPP094
+
+
+**Context — post being replied to:**
+
+#### Parent post — @102869127 — 2026-11-25 01:53 UTC (2026-11-25 02:53 WAT)
+
+- URL: https://x.com/102869127/status/2125407440590279166
+- Metrics (at fetch): bookmark 1, impression 5424, like 9, quote 0, reply 2, retweet 4
+
+> Our team at Local Inference Lab is COOKING. 👨‍🍳
+>
+> Ready to run DeepSeek V4.1 Flash 1017 at full speed on 4 RTX 6000 Pros?
+>
+> You get:
+>
+> &gt; 1,076 tok/s decode single stream
+> &gt; 2,651.8 tok/s on 32 streams
+> &gt; 32.7K tok/s prefill cold
+> &gt; optimized p2p communication
+>
+> Check out the new Flare 🔥 https://t.co/S1fPwee3OI
+
+**Quoted post** 2125394215911797006: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @mdp_sec — 2026-11-25 03:53 UTC (2026-11-25 04:53 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125437810715119739
+- Metrics (at fetch): bookmark 0, impression 14, like 0, quote 0, reply 0, retweet 0
+
+> @Mayhem4Markets fast is cool, solves matter more for hunting https://t.co/udJ6tPP094
+
+**Quoted post (full text):**
+
+    #### Quoted post — @mdp_sec — 2026-11-16 06:27 UTC (2026-11-16 07:27 WAT)
+    
+    - URL: https://x.com/mdp_sec/status/2122214974617710783
+    - Metrics (at fetch): bookmark 127, impression 246563, like 769, quote 15, reply 70, repost 42
+    
+    > same model. same 10 hacking labs. 13 providers serving deepseek v4.1 flash
+    >
+    > solve rate: 45% direct from @deepseek_ai, down to 12.5%. two solved 0
+    >
+    > for most work any provider is fine. for bug hunting where every bit counts, go direct [pic.x.com/bpIJ7Gj7Mu]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXOfFTyb0AA4ao6.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-25 · Reply · @migtissera u got off light, im at 3-4k a month on subs
+
+
+**Context — post being replied to:**
+
+#### Parent post — @migtissera — 2026-11-25 02:52 UTC (2026-11-25 03:52 WAT)
+
+- URL: https://x.com/migtissera/status/2125422425030476125
+- Metrics (at fetch): bookmark 2, impression 579, like 6, quote 0, reply 5, retweet 0
+
+> My spending on closed-source AI subscriptions: 
+>
+> June: $400 OpenAI + $400 Anthropic
+> Changed in September: $600 OpenAI + $200 Anthropic
+> This week: $300 OpenAI + $200 Anthropic + $200 Google
+>
+> I'm spending $100 less, and I have access to way better models. We're spoiled as users! 🎉
+
+
+### Post — @mdp_sec — 2026-11-25 03:53 UTC (2026-11-25 04:53 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125437611393318937
+- Metrics (at fetch): bookmark 0, impression 32, like 1, quote 0, reply 1, retweet 0
+
+> @migtissera u got off light, im at 3-4k a month on subs
+
+
+---
+
+## 2026-11-25 · Reply · @Kilo_Loco any weight edit that kills refusals counts imo
+
+
+**Context — post being replied to:**
+
+#### Parent post — @16141063 — 2026-11-25 02:58 UTC (2026-11-25 03:58 WAT)
+
+- URL: https://x.com/16141063/status/2125423874099888490
+- Metrics (at fetch): bookmark 0, impression 146, like 1, quote 0, reply 1, retweet 0
+
+> every time i see the term "abliterated" i think of Exodia from Yu-Gi-Oh
+>
+> i still need to figure out which modification to a model count toward be abliterated. any and all?  #GPUGaps https://t.co/n86Cf58PEA
+
+**Media:**
+- media `16_2125423867183448064` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-25 03:52 UTC (2026-11-25 04:52 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125437399601910107
+- Metrics (at fetch): bookmark 0, impression 11, like 0, quote 0, reply 0, retweet 0
+
+> @Kilo_Loco any weight edit that kills refusals counts imo
+
+
+---
+
+## 2026-11-25 · Reply · @TeksEdge fun, base inkling got 3 rungs on my 10 black box labs
+
+
+**Context — post being replied to:**
+
+#### Parent post — @TeksEdge — 2026-11-25 03:00 UTC (2026-11-25 04:00 WAT)
+
+- URL: https://x.com/TeksEdge/status/2125424242045194364
+- Metrics (at fetch): bookmark 32, impression 2024, like 37, quote 0, reply 2, retweet 5
+
+> New Fine-Tune! Someone modified Thinking Machines Lab's Inkling 2 Mini and got a very different AI model. 😮
+>
+> Original model → 0.8%
+> Modified model → 85.2%
+>
+> That's the percentage of harmful requests receiving answers in the developer's refusal-behavior evaluation. https://t.co/BChH09mpdb
+
+**Media:**
+- media `3_2125300899614801920` (details not returned by the API)
+
+
+### Post — @mdp_sec — 2026-11-25 03:51 UTC (2026-11-25 04:51 WAT)
+
+- URL: https://x.com/mdp_sec/status/2125437205816726007
+- Metrics (at fetch): bookmark 0, impression 76, like 0, quote 0, reply 0, retweet 0
+
+> @TeksEdge fun, base inkling got 3 rungs on my 10 black box labs
 
 
 ---
@@ -43523,7 +44218,7 @@ Tags (automatic): Platform: Bugcrowd
 #### Parent post — @krishnsec — 2026-08-04 13:28 UTC (2026-08-04 14:28 WAT)
 
 - URL: https://x.com/krishnsec/status/2084632582151602681
-- Metrics (at fetch): bookmark 5, impression 6162, like 215, quote 0, reply 13, retweet 3
+- Metrics (at fetch): bookmark 5, impression 6179, like 215, quote 0, reply 13, retweet 3
 
 > Crossed 17K reputation on @Bugcrowd ✅ https://t.co/1F00ZcjLmc
 

@@ -1,11 +1,48 @@
 # @pcaversaccio — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 2279
-- Conversations/threads: 2201
+- Posts in this file: 2281
+- Conversations/threads: 2202
 - Oldest post captured: 2022-06-13
-- Newest post captured: 2026-11-21
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Thread · tbf the EF is the top sponsor for this round (so far); if this is "enough" is another question ofc. 
+
+
+### Post — @pcaversaccio — 2026-11-24 12:37 UTC (2026-11-24 13:37 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2125207298385854679
+- Metrics (at fetch): not returned
+
+> tbf the EF is the top sponsor for this round (so far); if this is "enough" is another question ofc. i tweeted this a few months before joining the EF board and i still mean it "The next step is to deliberately unwind EF-centric coordination & funding" https://x.com/pcaversaccio/status/2013313565416137176
+> we really must move past the idea that the EF is indispensable & build a network/ecosystem that thrives without it. decentralisation demands it.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX4_eFRa4AEuyh8.jpg — no alt text provided by author
+
+**Links in post:** https://x.com/pcaversaccio/status/2013313565416137176
+
+**Quoted post (full text):**
+
+    #### Quoted post — @pcaversaccio — 2026-01-19 18:12 UTC (2026-01-19 19:12 WAT)
+    
+    - URL: https://x.com/pcaversaccio/status/2013313565416137176
+    - Metrics (at fetch): bookmark 17, impression 18800, like 159, quote 6, reply 29, retweet 8
+    
+    > hear me out guys: one of our _top priorities_ over the next 2, 3 years must be breaking the EF's de facto control over the ecosystem. It's 2026 and the EF still exerts outsized influence over technical direction, funding, and legitimacy (and this fucking _not_ ok!). Ethereum _cannot_ meaningfully decentralise while depending on a single private foundation to set agendas and arbitrate outcomes (the EF still choses winners!), so we need a _clear path_ toward an ecosystem that can function & evolve without the EF as a central actor. The next step is to deliberately unwind EF-centric coordination & funding.
+    
+
+
+### Thread part 2 — @pcaversaccio — 2026-11-24 12:42 UTC (2026-11-24 13:42 WAT)
+
+- URL: https://x.com/pcaversaccio/status/2125208362791137562
+- Metrics (at fetch): not returned
+
+> @wiimee @0x1_0NE @LefterisJP and remember, i'm saying this as the SEAL 911 lead &amp; co-founder! there is probably nobody else with so much skin in the game here lol
 
 
 ---

@@ -1,6 +1,6 @@
 # @Rhynorater — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 439
 - Conversations/threads: 339
@@ -505,9 +505,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @884385805514526720 — 2026-10-28 14:14 UTC (2026-10-28 15:14 WAT)
+    #### Quoted post — @assetnote — 2026-10-28 14:14 UTC (2026-10-28 15:14 WAT)
     
-    - URL: https://x.com/884385805514526720/status/2115447225534845431
+    - URL: https://x.com/assetnote/status/2115447225534845431
     - Metrics (at fetch): bookmark 205, impression 28596, like 377, quote 7, reply 6, repost 78
     
     > Our security research team discovered a cross-site scripting vulnerability in Cloudflare's /cdn-cgi/image/ endpoint by chaining an SVG sanitizer bypass with a new Cache-Control header trick to bypass the CSP. The issue was reported to Cloudflare and has since been fixed. 
@@ -1094,7 +1094,7 @@ Tags (automatic): Dependency confusion / supply chain, AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2026-09-18 09:29 UTC (2026-09-18 10:29 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2100879819282301434
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 1425, impression 182640, like 2080, quote 27, reply 69, retweet 236
     
     > "3 random dudes”
     >

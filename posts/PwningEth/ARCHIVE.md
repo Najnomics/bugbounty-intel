@@ -1,6 +1,6 @@
 # @PwningEth — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 53
 - Conversations/threads: 31
@@ -189,7 +189,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     #### Quoted post — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
     
     - URL: https://x.com/zellic_io/status/1732171636051501073
-    - Metrics (at fetch): bookmark 114, impression 72577, like 217, quote 10, reply 3, repost 41
+    - Metrics (at fetch): bookmark 113, impression 72586, like 218, quote 10, reply 3, retweet 41
     
     > The dangers of integer truncation:
     >

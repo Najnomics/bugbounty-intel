@@ -1,10 +1,10 @@
 # @PaulosYibelo — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 195
-- Conversations/threads: 185
-- Oldest post captured: 2015-02-27
+- Posts in this file: 216
+- Conversations/threads: 206
+- Oldest post captured: 2015-01-10
 - Newest post captured: 2026-11-23
 
 
@@ -3896,3 +3896,304 @@ Tags (automatic): Platform: HackerOne
 
 **Media:**
 - photo: https://pbs.twimg.com/media/B-2QSxyUAAA_qUT.jpg — no alt text provided by author
+
+
+---
+
+## 2015-02-23 · Post · @irsdl follow me back, want to DM you something cool!
+
+
+### Post — @PaulosYibelo — 2015-02-23 14:24 UTC (2015-02-23 15:24 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/569865387887583234
+- Metrics (at fetch): not returned
+
+> @irsdl follow me back, want to DM you something cool!
+
+
+---
+
+## 2015-02-23 · Post · @irsdl you noticed your payload http://sdl.me/demo/RPO/anotherpage.js.aspx/%2f..%2f..%2f..%2fdemo/RP
+
+
+### Post — @PaulosYibelo — 2015-02-23 13:29 UTC (2015-02-23 14:29 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/569851522286096385
+- Metrics (at fetch): not returned
+
+> @irsdl you noticed your payload http://sdl.me/demo/RPO/anotherpage.js.aspx/%2f..%2f..%2f..%2fdemo/RPO/test.aspx isn't browser dependent? I expected IE only. weird!
+
+**Links in post:** http://sdl.me/demo/RPO/anotherpage.js.aspx/%2f..%2f..%2f..%2fdemo/RPO/test.aspx
+
+
+---
+
+## 2015-02-21 · Post · Thanks @SoundCloud! you guys are awesome! [pic.x.com/03QIPBqLEG]
+
+
+### Post — @PaulosYibelo — 2015-02-21 08:34 UTC (2015-02-21 09:34 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/569052407658905600
+- Metrics (at fetch): not returned
+
+> Thanks @SoundCloud! you guys are awesome! [pic.x.com/03QIPBqLEG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/B-WuJfwCIAAxZe0.jpg — no alt text provided by author
+
+
+---
+
+## 2015-02-14 · Post · @fransrosen check the comments LMAO http://facebook.com/photo.php?fbid=598573123611079
+
+
+### Post — @PaulosYibelo — 2015-02-14 22:11 UTC (2015-02-14 23:11 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/566721351273050113
+- Metrics (at fetch): not returned
+
+> @fransrosen check the comments LMAO http://facebook.com/photo.php?fbid=598573123611079
+
+**Links in post:** http://facebook.com/photo.php?fbid=598573123611079
+
+
+---
+
+## 2015-02-05 · Post · @rafaybaloch any luck dude?
+
+
+### Post — @PaulosYibelo — 2015-02-05 14:32 UTC (2015-02-05 15:32 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/563344504842096641
+- Metrics (at fetch): not returned
+
+> @rafaybaloch any luck dude?
+
+
+---
+
+## 2015-02-05 · Post · @insertScript can you DM me about http://shazzer.co.uk/vector/Characters-after-javascript-uri and ht
+
+
+### Post — @PaulosYibelo — 2015-02-05 12:53 UTC (2015-02-05 13:53 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/563319403266072576
+- Metrics (at fetch): not returned
+
+> @insertScript can you DM me about http://shazzer.co.uk/vector/Characters-after-javascript-uri and http://shazzer.co.uk/vector/Characters-before-javascript-uri @avlidienbrunn and you about http://shazzer.co.uk/vector/Characters-allowed-inside-jsurl pls?
+
+**Links in post:** http://shazzer.co.uk/vector/Characters-after-javascript-uri, http://shazzer.co.uk/vector/Characters-before-javascript-uri, http://shazzer.co.uk/vector/Characters-allowed-inside-jsurl
+
+
+---
+
+## 2015-02-05 · Post · hey @mramydnei did your payload http://shazzer.co.uk/vector/charecter-between-two-URI, ever worked i
+
+
+### Post — @PaulosYibelo — 2015-02-05 08:45 UTC (2015-02-05 09:45 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/563257006690414593
+- Metrics (at fetch): not returned
+
+> hey @mramydnei did your payload http://shazzer.co.uk/vector/charecter-between-two-URI, ever worked in any browser?
+
+**Links in post:** http://shazzer.co.uk/vector/charecter-between-two-URI
+
+
+---
+
+## 2015-02-04 · Post · lol @phwd that error started appearing since your appsecret_proof got patched!
+
+
+### Post — @PaulosYibelo — 2015-02-04 17:56 UTC (2015-02-04 18:56 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/563033326806921216
+- Metrics (at fetch): not returned
+
+> lol @phwd that error started appearing since your appsecret_proof got patched!
+
+
+---
+
+## 2015-02-04 · Post · hey @rafaybaloch need help. DM me asap please
+
+
+### Post — @PaulosYibelo — 2015-02-04 11:14 UTC (2015-02-04 12:14 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/562932093647589377
+- Metrics (at fetch): not returned
+
+> hey @rafaybaloch need help. DM me asap please
+
+
+---
+
+## 2015-02-03 · Post · hey @d_lec nice find! but I think even without IE11, a cool execution can be done with the payload \
+
+
+### Post — @PaulosYibelo — 2015-02-03 18:03 UTC (2015-02-03 19:03 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/562672637118525440
+- Metrics (at fetch): not returned
+
+> hey @d_lec nice find! but I think even without IE11, a cool execution can be done with the payload \&lt;svg\/onload=alert(0)\&gt;&gt; to any browser
+
+
+---
+
+## 2015-02-03 · Post · hey @whitehatsec I believe your latest clickjacking can be abused in ff to cause more damage with a 
+
+
+### Post — @PaulosYibelo — 2015-02-03 09:19 UTC (2015-02-03 10:19 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/562540975059664896
+- Metrics (at fetch): not returned
+
+> hey @whitehatsec I believe your latest clickjacking can be abused in ff to cause more damage with a single click. just like fb's likejacking
+
+
+---
+
+## 2015-02-03 · Post · @whitehatsec http://goo.gl/TibmYQ responds so well on firefox. unlike chrome, the "dis/allow" is ren
+
+
+### Post — @PaulosYibelo — 2015-02-03 08:42 UTC (2015-02-03 09:42 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/562531461740650496
+- Metrics (at fetch): not returned
+
+> @whitehatsec http://goo.gl/TibmYQ responds so well on firefox. unlike chrome, the "dis/allow" is rendered in webpage. tired double CJ?
+
+**Links in post:** http://goo.gl/TibmYQ
+
+
+---
+
+## 2015-02-02 · Post · hey @fransrosen , would be glad if you can PM me how GitHub domain takeover's can be proved (or perf
+
+
+### Post — @PaulosYibelo — 2015-02-02 15:16 UTC (2015-02-02 16:16 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/562268206690476032
+- Metrics (at fetch): not returned
+
+> hey @fransrosen , would be glad if you can PM me how GitHub domain takeover's can be proved (or performed)
+
+
+---
+
+## 2015-02-02 · Post · @Bitquark I would be extremely happy if you reply to my comment at https://bitquark.co.uk/blog/2013/
+
+
+### Post — @PaulosYibelo — 2015-02-02 15:10 UTC (2015-02-02 16:10 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/562266698888519680
+- Metrics (at fetch): not returned
+
+> @Bitquark I would be extremely happy if you reply to my comment at https://bitquark.co.uk/blog/2013/07/23/the_unexpected_dangers_of_preg_replace . I am curios about that scenario
+
+**Links in post:** https://bitquark.co.uk/blog/2013/07/23/the_unexpected_dangers_of_preg_replace
+
+
+---
+
+## 2015-02-01 · Post · @nilesh_loganx yeah dude. its awesome! ;)
+
+
+### Post — @PaulosYibelo — 2015-02-01 07:42 UTC (2015-02-01 08:42 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/561791644144381952
+- Metrics (at fetch): not returned
+
+> @nilesh_loganx yeah dude. its awesome! ;)
+
+
+---
+
+## 2015-01-31 · Post · @totally_unknown , Thanks for your inspiration post. you made,
+
+
+Tags (automatic): XSS
+
+
+### Post — @PaulosYibelo — 2015-01-31 10:08 UTC (2015-01-31 11:08 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/561466120453242880
+- Metrics (at fetch): not returned
+
+> @totally_unknown , Thanks for your inspiration post. you made,
+> http://www.paulosyibelo.com/2015/01/drawelements-google-acquisition-lfi-xss.html
+
+**Links in post:** http://www.paulosyibelo.com/2015/01/drawelements-google-acquisition-lfi-xss.html
+
+
+---
+
+## 2015-01-31 · Post · Thanks @freshdesk! awesome shirt! :) [pic.x.com/IpWzRzzny1]
+
+
+### Post — @PaulosYibelo — 2015-01-31 09:47 UTC (2015-01-31 10:47 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/561460722165903360
+- Metrics (at fetch): not returned
+
+> Thanks @freshdesk! awesome shirt! :) [pic.x.com/IpWzRzzny1]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/B8q1jOICcAEDbX-.jpg — no alt text provided by author
+
+
+---
+
+## 2015-01-30 · Post · Here's how I pwned Facebook's Oculus http://www.paulosyibelo.com/2015/01/facebooks-oculus-exploiting
+
+
+### Post — @PaulosYibelo — 2015-01-30 07:45 UTC (2015-01-30 08:45 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/561067609345777664
+- Metrics (at fetch): not returned
+
+> Here's how I pwned Facebook's Oculus http://www.paulosyibelo.com/2015/01/facebooks-oculus-exploiting.html
+
+**Links in post:** http://www.paulosyibelo.com/2015/01/facebooks-oculus-exploiting.html
+
+
+---
+
+## 2015-01-30 · Post · thanks to @JosipFranjkovic for inspirations to join twitter! I decided to take a shot at it.
+
+
+### Post — @PaulosYibelo — 2015-01-30 07:42 UTC (2015-01-30 08:42 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/561066902051885056
+- Metrics (at fetch): not returned
+
+> thanks to @JosipFranjkovic for inspirations to join twitter! I decided to take a shot at it.
+
+
+---
+
+## 2015-01-21 · Post · @ethicalhack3r dude, any updates about DVWA? http://www.paulosyibelo.com/2014/12/chrismas-gift-bette
+
+
+### Post — @PaulosYibelo — 2015-01-21 21:19 UTC (2015-01-21 22:19 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/558010987216117760
+- Metrics (at fetch): not returned
+
+> @ethicalhack3r dude, any updates about DVWA? http://www.paulosyibelo.com/2014/12/chrismas-gift-better-safer-dvwa-to-all.html :/
+
+**Links in post:** http://www.paulosyibelo.com/2014/12/chrismas-gift-better-safer-dvwa-to-all.html
+
+
+---
+
+## 2015-01-10 · Post · @bigcartel check your support mail. reported a severe security flaw!
+
+
+### Post — @PaulosYibelo — 2015-01-10 22:13 UTC (2015-01-10 23:13 WAT)
+
+- URL: https://x.com/PaulosYibelo/status/554038256095227905
+- Metrics (at fetch): not returned
+
+> @bigcartel check your support mail. reported a severe security flaw!

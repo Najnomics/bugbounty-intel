@@ -1,6 +1,6 @@
 # Backfill status (X full-archive search)
 
-Updated 2026-11-24 07:06 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
+Updated 2026-11-25 07:10 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
 
 | Handle | Before (d427256) | Now | Oldest captured |
 |---|---|---|---|
@@ -8,15 +8,15 @@ Updated 2026-11-24 07:06 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @GuidoVranken | – | 0 | – |
 | @Cyfrin | – | 0 | – |
 | @hackwithsuryesh | – | 0 | – |
-| @ipwning | – | 0 | – |
 | @kiki | – | 0 | – |
 | @Offside_Labs | – | 0 | – |
 | @spaceraccoon | – | 0 | – |
 | @chatterjisubham | – | 1 | 2026-11-21 |
-| @SLCyberSec | – | 1 | 2026-11-16 |
+| @ipwning | – | 1 | 2026-11-25 |
 | @mikio815 | – | 3 | 2026-11-21 |
-| @GuplerSaxanoid | 8 | 8 | 2026-11-01 |
+| @SLCyberSec | – | 4 | 2026-11-16 |
 | @depi_ | – | 8 | 2026-11-11 |
+| @GuplerSaxanoid | 8 | 9 | 2026-11-01 |
 | @trust__90 | 10 | 10 | 2026-04-05 |
 | @nullity00 | 1 | 10 | 2023-05-23 |
 | @al_f4lc0n | 13 | 13 | 2026-03-15 |
@@ -29,72 +29,72 @@ Updated 2026-11-24 07:06 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @0xiczc | 45 | 45 | 2017-05-31 |
 | @0xteddav | 24 | 49 | 2022-06-24 |
 | @PwningEth | 53 | 53 | 2022-06-18 |
-| @immunefi | – | 59 | 2021-09-16 |
 | @keterka | 59 | 62 | 2025-10-25 |
 | @usmannk | 48 | 63 | 2023-08-16 |
-| @Swartz068 | 44 | 64 | 2024-12-30 |
+| @immunefi | – | 66 | 2021-09-16 |
+| @Swartz068 | 44 | 68 | 2024-12-30 |
 | @brandon_shi | 68 | 68 | 2021-06-04 |
 | @str4d | – | 71 | 2013-09-06 |
-| @lavados | 25 | 71 | 2014-06-13 |
 | @Guhu95 | 30 | 75 | 2023-08-19 |
 | @j00ru | 38 | 75 | 2011-07-12 |
-| @kevin_mizu | 40 | 75 | 2021-09-11 |
+| @kevin_mizu | 40 | 77 | 2021-09-11 |
+| @lavados | 25 | 78 | 2014-06-13 |
 | @deadrosesxyz | 32 | 82 | 2023-03-14 |
 | @_bagipro | 84 | 84 | 2020-08-16 |
 | @_blockian | 86 | 87 | 2023-03-03 |
 | @csanuragjain | 53 | 88 | 2018-11-14 |
-| @naresh_1337 | 69 | 92 | 2026-05-22 |
+| @naresh_1337 | 69 | 93 | 2026-05-22 |
 | @Piki_eth | 49 | 97 | 2024-09-21 |
 | @Kiki_developer | 44 | 105 | 2023-01-26 |
 | @RootxRavi | 27 | 107 | 2022-10-11 |
 | @Suryesh_92 | 99 | 110 | 2024-05-10 |
 | @orange_8361 | 45 | 125 | 2016-04-21 |
 | @infinitelogins | 33 | 128 | 2020-01-17 |
-| @SuyashS91823422 | 82 | 133 | 2021-10-06 |
-| @asymmetric_re | 137 | 139 | 2024-01-29 |
-| @kobigurk | 45 | 140 | 2014-01-16 |
+| @SuyashS91823422 | 82 | 136 | 2021-10-06 |
 | @Assass1nmarcos | 45 | 141 | 2018-11-24 |
+| @asymmetric_re | 137 | 141 | 2024-01-29 |
+| @kobigurk | 45 | 142 | 2014-01-16 |
 | @0xPARC | 25 | 146 | 2021-11-11 |
-| @bluethroat_labs | 146 | 147 | 2025-12-02 |
-| @farazsth98 | 78 | 161 | 2019-09-30 |
+| @bluethroat_labs | 146 | 148 | 2025-12-02 |
+| @farazsth98 | 78 | 164 | 2019-09-30 |
 | @ma1fan | 44 | 167 | 2018-07-19 |
 | @kankodu | 57 | 169 | 2022-07-26 |
 | @fransrosen | 57 | 174 | 2011-06-29 |
 | @WhiteHatMage | 134 | 177 | 2025-11-29 |
-| @xssdoctor | 156 | 179 | 2023-07-10 |
-| @krishnsec | 26 | 188 | 2021-08-17 |
-| @asanso | 67 | 194 | 2011-01-30 |
-| @PaulosYibelo | – | 195 | 2015-02-27 |
+| @asanso | 67 | 195 | 2011-01-30 |
 | @ryotkak | 161 | 200 | 2019-05-29 |
-| @samwcyo | 31 | 205 | 2017-02-12 |
+| @krishnsec | 26 | 201 | 2021-08-17 |
+| @xssdoctor | 156 | 204 | 2018-11-20 |
+| @samwcyo | 31 | 208 | 2017-02-12 |
 | @Neodyme | 16 | 208 | 2021-08-21 |
-| @0xacb | 109 | 219 | 2014-01-05 |
-| @0xriptide | 48 | 228 | 2014-07-21 |
-| @lonelysloth_sec | 50 | 236 | 2023-12-17 |
+| @PaulosYibelo | – | 216 | 2015-01-10 |
+| @0xacb | 109 | 220 | 2014-01-05 |
+| @0xriptide | 48 | 229 | 2014-07-21 |
 | @cmichelio | 181 | 244 | 2016-07-31 |
 | @infosec_au | 51 | 251 | 2015-07-16 |
+| @lonelysloth_sec | 50 | 254 | 2023-12-17 |
 | @ajxchapman | 26 | 293 | 2013-03-23 |
 | @galnagli | 68 | 314 | 2020-07-24 |
 | @albinowax | 59 | 347 | 2011-03-08 |
-| @osec_io | 22 | 385 | 2022-02-09 |
-| @DevDacian | 32 | 424 | 2023-02-23 |
+| @osec_io | 22 | 389 | 2022-02-09 |
 | @zseano | 47 | 424 | 2015-08-11 |
+| @DevDacian | 32 | 425 | 2023-02-23 |
 | @Rhynorater | 188 | 439 | 2017-06-13 |
 | @zksecurityXYZ | 121 | 460 | 2023-05-16 |
-| @anchabadze | 94 | 473 | 2025-02-05 |
+| @anchabadze | 94 | 474 | 2025-02-05 |
 | @samczsun | 53 | 499 | 2016-01-19 |
 | @zellic_io | 27 | 548 | 2022-01-27 |
-| @S1r1u5_ | 66 | 555 | 2017-02-26 |
+| @S1r1u5_ | 66 | 557 | 2017-02-26 |
 | @garethheyes | 59 | 572 | 2008-10-22 |
-| @irsdl | 35 | 620 | 2010-05-25 |
+| @irsdl | 35 | 621 | 2010-05-25 |
 | @ChainLight_io | 150 | 1081 | 2022-11-05 |
-| @saxenism | 651 | 1191 | 2020-03-15 |
-| @NahamSec | 176 | 1212 | 2016-09-01 |
+| @saxenism | 651 | 1193 | 2020-03-15 |
+| @NahamSec | 176 | 1214 | 2016-09-01 |
 | @trailofbits | 65 | 1466 | 2012-02-13 |
-| @mdp_sec | 586 | 1932 | 2026-07-22 |
-| @pcaversaccio | 37 | 2279 | 2022-06-13 |
+| @mdp_sec | 586 | 1956 | 2026-07-22 |
+| @pcaversaccio | 37 | 2281 | 2022-06-13 |
 
-Total: 5581 → 21944
+Total: 5581 → 22103
 
 ## Search cursors (pass 5, until_id paging)
 
@@ -102,6 +102,13 @@ Each cursor pages backwards with `until_id` = oldest post id already fetched by 
 
 | Cursor | Fetched | Oldest reached | until_id (resume) | State | Query |
 |---|---|---|---|---|---|
+| chl | 250 | 2024-07-10 | 1811021664186159390 | OPEN | `from:ChainLight_io -is:retweet (-is:reply OR to:ChainLight_io)` |
+| ryo | 185 | 2019-05-29 | 1133535728468578304 | DONE (start of timeline reached 2026-11-25) | `from:ryotkak -is:retweet (-is:reply OR to:ryotkak)` |
+| xss | 180 | 2018-11-20 | 1065024835372371973 | DONE (start of timeline reached 2026-11-25) | `from:xssdoctor -is:retweet (-is:reply OR to:xssdoctor)` |
+| t1 | 93 | 2024-11-24 | 1860538658891468972 | OPEN | `(from:GuplerSaxanoid OR from:krishnsec OR from:ajxchapman OR from:RootxRavi) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR critical OR P1 OR XSS OR SSRF OR RCE OR SQLi OR IDOR OR bypass OR injection OR payload OR poc OR writeup OR disclosed OR triaged OR hackerone OR bugcrowd OR immunefi OR 🧵)` |
+| t2 | 120 | 2022-05-31 | 1531703234557091842 | OPEN | `(from:deadrosesxyz OR from:samwcyo OR from:Guhu95) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR critical OR XSS OR SSRF OR RCE OR IDOR OR bypass OR injection OR payload OR poc OR writeup OR disclosed OR hackerone OR immunefi OR audit OR attack OR 🧵)` |
+| t3 | 114 | 2023-08-03 | 1687197389575311361 | OPEN | `(from:nullity00 OR from:Neodyme OR from:osec_io OR from:0xteddav OR from:zellic_io OR from:lavados OR from:0xPARC) -is:retweet -is:reply (bug OR vuln OR vulnerability OR exploit OR CVE OR attack OR soundness OR underconstrained OR nonce OR "side channel" OR circuit OR audit OR disclosure OR advisory OR fuzz OR writeup OR 🧵)` |
+| u1 | 115 | 2026-07-14 | 2076898884434243845 | OPEN | `(from:S1r1u5_ OR from:zseano OR from:irsdl OR from:garethheyes) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR SQLi OR IDOR OR bypass OR injection OR payload OR poc OR writeup OR disclosed OR hackerone OR bugcrowd OR 🧵) [end_time 2026-10-20T00:00:00Z]` |
 | nah3 | 714 | 2019-11-06 | 1192138362678734849 | DONE (reached start of segment cursor nah3m) | `from:NahamSec -is:retweet (-is:reply OR to:NahamSec) (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
 | rhy3 | 184 | 2017-06-13 | 874697245341478914 | DONE (closed manually) | `from:Rhynorater -is:retweet (-is:reply OR to:Rhynorater) (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
 | cmi3 | 50 | 2016-07-31 | 759768576274333696 | DONE (closed manually) | `from:cmichelio -is:retweet (-is:reply OR to:cmichelio)` |
@@ -143,7 +150,7 @@ Each cursor pages backwards with `until_id` = oldest post id already fetched by 
 | n6c | 1392 | 2012-02-13 | 169174545574539267 | DONE | `from:trailofbits -is:retweet -is:reply` |
 | n6d | 23 | 2025-06-19 | 1935760517177675877 | DONE (closed after 1 page: 22/23 already archived (low yield)) | `(from:asymmetric_re OR from:zellic_io OR from:ChainLight_io) -is:retweet -is:reply (vulnerability OR bug OR exploit OR audit OR critical OR disclosure OR postmortem OR writeup OR blog)` |
 | n6e | 2640 | 2016-01-19 | 689442579633451008 | DONE (reached start: samczsun 2016-01-19, empty terminal page 2026-11-24) | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` |
-| n7a | 209 | 2015-02-27 | 571271381859610624 | OPEN | `(from:brutecat OR from:PaulosYibelo OR from:spaceraccoon) -is:retweet -is:reply` |
+| n7a | 230 | 2015-01-10 | 554038256095227905 | DONE | `(from:brutecat OR from:PaulosYibelo OR from:spaceraccoon) -is:retweet -is:reply` |
 
 ## Older cursors (passes 1–4, next_token paging) — superseded by pass-5 cursors above
 
@@ -170,99 +177,16 @@ Each cursor pages backwards with `until_id` = oldest post id already fetched by 
 | nah | 137 | 2025-01-17 | superseded/OPEN |
 | rhy | 148 | 2023-08-25 | superseded/OPEN |
 | cmi | 146 | 2017-07-01 | superseded/OPEN |
-| chl | 150 | 2024-10-14 | superseded/OPEN |
-| ryo | 147 | 2021-10-20 | superseded/OPEN |
-| xss | 138 | 2024-04-04 | superseded/OPEN |
 | asy | 7 | 2024-01-29 | DONE |
 | g8o | 75 | 2024-05-11 | superseded/OPEN |
-| t1 | 23 | 2026-08-04 | superseded/OPEN |
-| t2 | 22 | 2025-05-09 | superseded/OPEN |
-| t3 | 23 | 2026-01-20 | superseded/OPEN |
-| u1 | 24 | 2026-09-30 | superseded/OPEN |
+
+## 2026-11-25 backfill
+- Daily sweep: 17 per-handle `from:` search calls (25/page; the combined OR queries were saturated by chatty accounts) since 2026-11-24T05:00Z.
+- Pass-7/older cursors advanced by `until_id` (stored next_token cursors from earlier sessions returned zero results and were abandoned): **n7a** (brutecat/PaulosYibelo/spaceraccoon) +21 then empty -> DONE (oldest 2015-01-10); **ryo** (ryotkak) +38 then empty -> DONE (2019-05-29, start of timeline); **xss** (xssdoctor) +42 then empty -> DONE (2018-11-20); **chl** (ChainLight_io) +100 (oldest 2024-07-10); **t1** +70 (oldest 2024-11-24 in keyword filter); **t2** +98 (oldest 2022-05-31); **t3** +91 (oldest 2023-08-03); **u1** +91 (oldest 2026-07-14).
+- X reads used today: about 57 of 1000.
+- Still OPEN: chl, t1, t2, t3, u1 (resume with same query + `until_id` in the cursor table above) and the pass 1-4 next_token cursors (saxk, g2, g5-g12, c1, c2, nah, rhy, cmi, cr1, g8o) that have no stored query.
 
 ## How to resume (next pass)
 1. For each OPEN pass-5 cursor above, call X full-archive search with the exact `query` and `until_id`, `max_results` 25, and ALWAYS include `post.fields` created_at,author_id,conversation_id,attachments,entities,note_post plus `expansions` author_id,attachments.media_keys,referenced_posts (omitting created_at/author_id drops them from the response).
 2. Ingest with `/workspace/raw/auto.py <cursor labels…>` (maps each result file to its cursor by author, advances until_id), then `/workspace/raw/push.sh "<msg>"` (regenerates ARCHIVE.md files + this status, commits, pushes).
 3. A cursor is DONE when a call returns zero results. cmi3 (cmichelio) was closed manually at 2016-07 (pre-security-era posts); xss3, ryo3, rhy3, g5b, g6b, t2b, g7b, g8b, g9b returned zero / reached account start.
-## 2026-11-15 note
-Pass-5 keyword backfill cursors remain DONE. Fresh full-archive probe for `(from:iguardz OR from:GuidoVranken) -is:retweet -is:reply` returned **0** results; `(from:iguardz OR from:GuidoVranken OR from:depi_)` security-keyword query returned only the already-archived @depi_ Codex post. No open pass-5 cursors to advance today; daily quota reserved for new-post sweep + Telegram/CVE.
-
-## 2026-11-16 note — pass 6 (unfiltered original posts of security-firm / high-signal accounts)
-Pass-5 keyword cursors were all DONE, so pass 6 opens **unfiltered** cursors (`-is:retweet -is:reply`, no keyword filter) for accounts whose posts are almost all security content and whose earlier capture was keyword-limited. 40 search calls today (25 results each), **~605 newly archived posts**:
-
-| Cursor | Query | Fetched today | New to archive | Oldest reached | until_id (resume) | State |
-|---|---|---|---|---|---|---|
-| n6a | `(from:Neodyme OR from:osec_io) -is:retweet -is:reply` | 215 | 147 | 2023-10-27 | 1717948822180302899 | OPEN |
-| n6b | `from:zksecurityXYZ -is:retweet -is:reply` | 223 | 156 | 2025-06-03 | 1929948750169944500 | OPEN |
-| n6c | `from:trailofbits -is:retweet -is:reply` | 216 | 157 | 2025-07-21 | 1947275960459362392 | OPEN |
-| n6d | `(from:asymmetric_re OR from:zellic_io OR from:ChainLight_io) … (vulnerability OR bug OR …)` | 23 | 1 | 2025-06-19 | 1935760517177675877 | DONE (closed: low yield, already archived) |
-| n6e | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` | 192 | 144 | 2025-10-03 | 1974197215422767526 | OPEN |
-
-Resume each OPEN cursor with the same query, `until_id` as shown, `max_results` 25, same fields/expansions as pass 5. Ingest helper: `/workspace/raw/daily/bf16.py <label> <result-file>` (writes store.json + advances x2state.json), then `gen_archive.py` + `stat.py`.
-
-## 2026-11-17 note — pass 6 continued
-Advanced the four OPEN pass-6 cursors. **~36 search calls, +905 newly archived posts.**
-
-| Cursor | Query | New today | Oldest reached | until_id (resume) | State |
-|---|---|---|---|---|---|
-| n6a | `(from:Neodyme OR from:osec_io) -is:retweet -is:reply` | 189 | 2021-08-21 | 1429086758172565511 | DONE (reached account start) |
-| n6b | `from:zksecurityXYZ -is:retweet -is:reply` | 122 | 2023-05-16 | 1658515564309118978 | DONE (reached account start) |
-| n6c | `from:trailofbits -is:retweet -is:reply` | 290 | 2023-05-02 | 1653517471599525889 | OPEN |
-| n6e | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` | 304 | 2024-07-29 | 1817926793636000166 | OPEN |
-
-Resume n6c and n6e with the same query, `until_id` as shown, `max_results` 25, same fields/expansions. Ingest with `/workspace/raw/daily/bf17.py`, then `gen_archive.py` + `write_state.py`.
-
-## 2026-11-18 note — pass 6 continued (limited)
-Daily budget was spent mainly on the new-post sweep (8 grouped queries + ~9 pagination calls); backfill advanced the two OPEN pass-6 cursors by **4 search calls (2 pages each), +91 newly archived posts** (46 trailofbits, 45 samczsun/pcaversaccio). Other open pass-1–5 cursors (saxenism `sax*`, `g2`…`g12`, `nah`, `rhy`, `cmi`, `chl`, `ryo`, `xss`, `t1`–`t3`, `u1` in `/workspace/raw/x2state.json`) were NOT advanced today.
-
-| Cursor | Query | New today | Oldest reached | until_id (resume) | State |
-|---|---|---|---|---|---|
-| n6c | `from:trailofbits -is:retweet -is:reply` | 46 | 2022-12-05 | 1599763572233572354 | OPEN |
-| n6e | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` | 45 | 2024-06-10 | 1800270216267768041 | OPEN |
-
-Resume n6c and n6e with the same query, `until_id` as shown, `max_results` 25, same fields/expansions. Ingest with `/workspace/raw/daily/bf17.py`, then `gen_archive.py` + `write_state.py`.
-
-## 2026-11-19 note — pass 6 continued
-Advanced the two OPEN pass-6 cursors by **28 search calls (14 pages each), 730 newly archived posts** (360 trailofbits, 370 samczsun/pcaversaccio). All posts fetched today (sweep + backfill, 942 ids) were then re-read with `get_posts_by_ids` to restore `note_tweet` long-form text, `conversation_id` and `entities` (the search endpoint returned these only partially today), so archive text is complete and t.co links are expanded.
-
-| Cursor | Query | New today | Oldest reached | until_id (resume) | State |
-|---|---|---|---|---|---|
-| n6c | `from:trailofbits -is:retweet -is:reply` | 360 | 2018-09-18 | 1042156997200756737 | OPEN |
-| n6e | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` | 370 | 2023-09-25 | 1706213881020911963 | OPEN |
-
-Resume n6c and n6e with the same query, `until_id` as shown, `max_results` 25. Ingest with `/workspace/raw/daily/bf17.py <label> <file>` (or `bf.sh`), then `gen_archive.py` + `stat.py` (re-append dated notes) + `write_state.py`. Request `note_post` (not `note_tweet`) in `post.fields` — the X MCP enum is `note_post`.
-
-## 2026-11-20 note — pass 6 continued
-Advanced the two OPEN pass-6 cursors by **8 search calls (4 pages each), 128 newly archived posts** (67 trailofbits, 61 samczsun/pcaversaccio). 
-
-| Cursor | Query | New today | Oldest reached | until_id (resume) | State |
-|---|---|---|---|---|---|
-| n6c | `from:trailofbits -is:retweet -is:reply` | 67 | 2017-11-09 | 928611473491943424 | OPEN |
-| n6e | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` | 61 | 2023-08-11 | 1689896815280177152 | OPEN |
-
-Resume n6c and n6e with the same query, `until_id` as shown, `max_results` 100 (API caps at 25/call). Ingest with `/workspace/raw/daily/bf20.py <label> <file>`.
-
-## 2026-11-21 note — pass 6 continued; n6c (trailofbits) COMPLETE
-Advanced the two OPEN pass-6 cursors by **31 search calls (16 n6c incl. 1 empty terminal page, 15 n6e), 686 newly archived posts** (331 trailofbits, 355 samczsun/pcaversaccio). n6c reached the start of @trailofbits' timeline (2012-02-13) and returned zero further results → **DONE**. 368 backfilled posts with long text or unexpanded links were re-read with `get_posts_by_ids` (4 calls) for entities/`note_post`.
-
-| Cursor | Query | New today | Oldest reached | until_id (resume) | State |
-|---|---|---|---|---|---|
-| n6c | `from:trailofbits -is:retweet -is:reply` | 331 | 2012-02-13 | 169174545574539267 | DONE |
-| n6e | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` | 355 | 2023-03-22 | 1638491598177595392 | OPEN |
-
-Resume n6e with the same query, `until_id` as shown, `max_results` 25. Ingest with `/workspace/raw/daily/bf21.py <label> <file>`. Next after n6e: older pass-1–5 next_token cursors (saxenism `sax*`, `g2`…`g12`, `nah`, `rhy`, `cmi`, `chl`, `ryo`, `xss`, `t1`–`t3`, `u1`) are still open.
-
-## 2026-11-22 backfill
-- n6c (trailofbits): already DONE 2026-11-21.
-- n6e (samczsun/pcaversaccio): +~325 archive posts today → oldest ~2022-12-02 (until_id 1598679658488217601); OPEN. Extra jumped pages also landed Nov–Dec 2022 posts in store. ARCHIVE TOTAL after rebuild: 20,482.
-
-## 2026-11-23 backfill
-- n6e (samczsun/pcaversaccio): 22 search calls (25/page) → +549 cursor posts; oldest 2022-07-25 (until_id 1551615950545371138); OPEN. pcaversaccio is close to his archive start (2022-06-18); samczsun continues to 2020.
-- Archive rebuild: samczsun 317 → 414, pcaversaccio 1,675 → 2,082. ARCHIVE TOTAL 20,603 → 21,205.
-- Resume: same query, `until_id` 1551615950545371138, `max_results` 25; ingest with `/workspace/raw/daily/bf.sh <assetid>` (resolves the "Full text:" redirect, then `ing2.py n6e:<file>`), then `gen_archive.py` + `stat.py` (re-append dated notes) + `write_state.py`.
-
-## 2026-11-24 backfill
-- n6e (samczsun/pcaversaccio): 18 search calls (25/page) → +304 cursor posts; reached 2016-01-19 and the next call returned **zero results → DONE**. pcaversaccio archive start 2022-06-18 reached; samczsun now back to 2016-01.
-- New pass-7 cursor **n7a** `(from:brutecat OR from:PaulosYibelo OR from:spaceraccoon) -is:retweet -is:reply` for watched accounts that had never been backfilled: 9 calls → 209 posts, oldest 2015-02-27 (until_id 571271381859610624); OPEN.
-- Watched list (`/workspace/raw/watched.txt`) now includes the 12 accounts that were missing from this table (brutecat, chatterjisubham, Cyfrin, hackwithsuryesh, immunefi, ipwning, kiki, mikio815, Offside_Labs, PaulosYibelo, SLCyberSec, spaceraccoon).
-- Resume: n7a with same query and `until_id` 571271381859610624, `max_results` 25; ingest with `/workspace/raw/daily/bfl.sh n7a <assetid>` (resolves the "Full text:" redirect, then `ing2.py`), then `gen_archive.py` + `stat.py` (re-append dated notes) + `write_state.py`. Next candidates for pass 7: (from:Cyfrin OR from:Offside_Labs OR from:SLCyberSec), (from:chatterjisubham OR from:hackwithsuryesh OR from:ipwning OR from:kiki OR from:mikio815), then GuidoVranken/iguardz (0 posts so far).

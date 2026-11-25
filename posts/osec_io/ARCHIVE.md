@@ -1,11 +1,73 @@
 # @osec_io — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 385
-- Conversations/threads: 344
+- Posts in this file: 389
+- Conversations/threads: 345
 - Oldest post captured: 2022-02-09
-- Newest post captured: 2026-11-23
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Thread · Today we announce The Last CTF.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @osec_io — 2026-11-24 14:13 UTC (2026-11-24 15:13 WAT)
+
+- URL: https://x.com/osec_io/status/2125231261698728237
+- Metrics (at fetch): not returned
+
+> Today we announce The Last CTF.
+>
+> 📍 Location: Pittsburgh, Pennsylvania, US
+> 🕛 Time: February 19th–21st, 2027 [pic.x.com/aZuQKaCWqW]
+
+**Media:**
+- video:  — no alt text provided by author
+
+
+### Thread part 2 — @osec_io — 2026-11-24 14:13 UTC (2026-11-24 15:13 WAT)
+
+- URL: https://x.com/osec_io/status/2125231273946034462
+- Metrics (at fetch): not returned
+
+> After the “Save CTFs Fund,” we thought we’d put our own hat in the ring and host an on-site event in 2027.
+>
+> Following the philosophy we outlined in the blog post, the event will be:
+> - No Jeopardy
+> - Qualification by authoring
+> - AI allowed
+> - PvP
+
+
+### Thread part 3 — @osec_io — 2026-11-24 14:13 UTC (2026-11-24 15:13 WAT)
+
+- URL: https://x.com/osec_io/status/2125231294296805678
+- Metrics (at fetch): not returned
+
+> Authoring CTF challenges is an art form that isn’t appreciated enough. We want The Last CTF to celebrate it.
+>
+> We’ve launched a first draft for a living spec that maximizes creativity while enabling a first-of-its-kind interoperability between challenges. [pic.x.com/ORehO2w1gT]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX5WmQ9bYAAmiy0.jpg — no alt text provided by author
+
+
+### Thread part 4 — @osec_io — 2026-11-24 14:13 UTC (2026-11-24 15:13 WAT)
+
+- URL: https://x.com/osec_io/status/2125231307039109532
+- Metrics (at fetch): not returned
+
+> For more details:
+>
+> - View our blog post: https://osec.io/blog/the-last-ctf/
+> - View our website: https://lastc.tf/
+
+**Links in post:** https://osec.io/blog/the-last-ctf/, https://lastc.tf/
 
 
 ---
@@ -320,7 +382,7 @@ Tags (automatic): RCE, Memory corruption / native
 > Our research team achieved client RCE on Minecraft Bedrock Edition via a heap overflow to bypass ASLR and sidestep CFG. Writeup to come. [pic.x.com/auRDVYjAM9]
 
 **Media:**
-- video: https://pbs.twimg.com/amplify_video_thumb/1988679751989620737/img/PSFWuFaEjwHR6eQf.jpg — no alt text provided by author
+- video:  — no alt text provided by author
 
 
 ### Thread part 2 — @osec_io — 2026-06-02 16:47 UTC (2026-06-02 17:47 WAT)
@@ -808,7 +870,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 - URL: https://x.com/osec_io/status/1994501930689991160
 - Metrics (at fetch): bookmark 5, impression 27215, like 80, quote 0, reply 3, retweet 12
 
-> We have just completed our thorough audit of @jup_lend, and we are happy with @JupiterExchange and @0xFluid’s attention to detail and security! https://t.co/piXLwBqp3p
+> We have just completed our thorough audit of @jup_lend, and we are happy with @JupiterExchange and @0xFluid’s attention to detail and security! https://twitter.com/jupiter_earn/status/1992356537827037288
+
+**Links in post:** https://twitter.com/jupiter_earn/status/1992356537827037288
 
 **Quoted post (full text):**
 
@@ -825,7 +889,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     > • 1 additional audit in progress
     > • Up next: open-sourcing the code followed by a @code4rena review
     >
-    > We remain committed to improving https://t.co/DOr5ro6cJq
+    > We remain committed to improving with community feedback, engaging the top audit firms in the space, and keeping security as a top priority.
     
     **Media:**
     - media `13_1992343577515737088` (details not returned by the API)
@@ -1167,7 +1231,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 ---
 
-## 2025-05-21 · Post · We’re thrilled to have audited @PancakeSwap Infinity, resolving 2 high-impact vulnerabilities ahead 
+## 2025-05-21 · Post · We’re thrilled to have audited @pancakefi Infinity, resolving 2 high-impact vulnerabilities ahead of
 
 
 ### Post — @osec_io — 2025-05-21 21:34 UTC (2025-05-21 22:34 WAT)
@@ -1175,12 +1239,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 - URL: https://x.com/osec_io/status/1925304216240722154
 - Metrics (at fetch): bookmark 0, impression 16750, like 61, quote 1, reply 7, retweet 11
 
-> We’re thrilled to have audited @PancakeSwap Infinity, resolving 2 high-impact vulnerabilities ahead of its launch!
+> We’re thrilled to have audited @pancakefi Infinity, resolving 2 high-impact vulnerabilities ahead of its launch!
 >
-> Dive into the details in our full audit report: https://t.co/kJiAInHmif https://t.co/2kzyp3Io9D https://t.co/EukmcMjwGe
+> Dive into the details in our full audit report: https://ottersec.notion.site/Pancake-Swap-488543b14a8c46babfa412102e1fd675?pvs=4 [pic.x.com/2kzyp3Io9D] https://twitter.com/PancakeFi/status/1916799581351993441
 
 **Media:**
-- video: https://pbs.twimg.com/amplify_video_thumb/1925303821032427520/img/oYBKTUNn8ZmszmwW.jpg — no alt text provided by author
+- video:  — no alt text provided by author
+
+**Links in post:** https://ottersec.notion.site/Pancake-Swap-488543b14a8c46babfa412102e1fd675?pvs=4, https://twitter.com/PancakeFi/status/1916799581351993441
 
 **Quoted post (full text):**
 
@@ -1189,15 +1255,17 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
     - URL: https://x.com/1305349277422477313/status/1916799581351993441
     - Metrics (at fetch): bookmark 28, impression 470841, like 695, quote 37, reply 184, retweet 251
     
-    > 🐰♾PancakeSwap Infinity is NOW LIVE! (Formerly PancakeSwap v4) https://t.co/9BMuW3q1M6
+    > 🐰♾PancakeSwap Infinity is NOW LIVE! (Formerly PancakeSwap v4) https://blog.pancakeswap.finance/articles/pancake-swap-infinity-is-now-live-formerly-pancake-swap-v4
     >
-    > 🔹Multiple pool types for capital efficiency &amp; low price impact 
-    > 🔹Customize fees &amp; Hooks for better rewards 
+    > 🔹Multiple pool types for capital efficiency & low price impact 
+    > 🔹Customize fees & Hooks for better rewards 
     > 🔹Save gas on every transaction
-    > 🫵Swap &amp; LP on Infinity, starting with @BNBCHAIN https://t.co/fn7sNFJdW8
+    > 🫵Swap & LP on Infinity, starting with @BNBCHAIN https://pancakeswap.finance/liquidity/pools?type=1
     
     **Media:**
     - media `13_1916775998609338369` (details not returned by the API)
+    
+    **Links in post:** https://blog.pancakeswap.finance/articles/pancake-swap-infinity-is-now-live-formerly-pancake-swap-v4, https://pancakeswap.finance/liquidity/pools?type=1
     
 
 
@@ -1213,7 +1281,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 > Proud to use, audit, and invest in @multisig. @SimkinStepan and team care deeply about security, and we’re thankful to have the opportunity to work with them.
 >
-> https://t.co/Kvtm871KLB
+> https://x.com/SquadsProtocol/status/1922660042827825436
+
+**Links in post:** https://x.com/SquadsProtocol/status/1922660042827825436
 
 **Quoted post (full text):**
 
@@ -1228,7 +1298,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
     >
     > • A strategic investment from @HaunVentures.
     >
-    > The stablecoin era isn’t coming. It’s here ↓ https://t.co/Qbno7LR2lA
+    > The stablecoin era isn’t coming. It’s here ↓ [pic.x.com/Qbno7LR2lA]
     
     **Media:**
     - media `3_1922658519251120128` (details not returned by the API)
@@ -1552,7 +1622,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2025-02-03 16:41 UTC (2025-02-03 17:41 WAT)
 
 - URL: https://x.com/osec_io/status/1886455011221426633
-- Metrics (at fetch): bookmark 3, impression 5097, like 34, quote 2, reply 4, retweet 5
+- Metrics (at fetch): bookmark 3, impression 5098, like 34, quote 2, reply 4, retweet 5
 
 > We just finished an audit for Lavamoat webpack plugin and found an interesting behaviour related to how the URL costruct() was handled.
 >
@@ -1584,7 +1654,7 @@ Tags (automatic): Dependency confusion / supply chain
 ### Post — @osec_io — 2025-01-02 09:46 UTC (2025-01-02 10:46 WAT)
 
 - URL: https://x.com/osec_io/status/1874754111855587736
-- Metrics (at fetch): bookmark 8, impression 6742, like 31, quote 3, reply 2, retweet 3
+- Metrics (at fetch): bookmark 8, impression 6745, like 32, quote 3, reply 2, retweet 3
 
 > Dear Auditors, Security Researchers, Developers and Web3 enthusiasts, we are glad to announce our Winter Challenge v2!  So don't waste any time, solve the challenge and earn yourself an otterly prize!  Learn more about the challenge below 🧵 [pic.x.com/UMAElNLhat]
 
@@ -1603,7 +1673,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @osec_io — 2024-11-28 17:10 UTC (2024-11-28 18:10 WAT)
 
 - URL: https://x.com/osec_io/status/1862182250869043439
-- Metrics (at fetch): bookmark 8, impression 5349, like 47, quote 0, reply 1, retweet 8
+- Metrics (at fetch): bookmark 8, impression 5350, like 47, quote 0, reply 1, retweet 8
 
 > NEW blog post: Netfilter Universal Root 1-day
 >
@@ -2135,7 +2205,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2024-04-01 22:24 UTC (2024-04-01 23:24 WAT)
 
 - URL: https://x.com/osec_io/status/1774925908258038144
-- Metrics (at fetch): bookmark 3, impression 7114, like 81, quote 3, reply 8, retweet 5
+- Metrics (at fetch): bookmark 3, impression 7115, like 81, quote 3, reply 8, retweet 5
 
 > OtterSec is excited to introduce what we’ve been cooking lately: OtterChain! 
 >
@@ -2515,7 +2585,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2024-02-10 01:00 UTC (2024-02-10 02:00 WAT)
 
 - URL: https://x.com/osec_io/status/1756120895716782499
-- Metrics (at fetch): bookmark 0, impression 2433, like 16, quote 0, reply 1, retweet 2
+- Metrics (at fetch): bookmark 0, impression 2433, like 17, quote 0, reply 1, retweet 2
 
 > OtterSec is proud to announce we've completed of our audit of @watchesio, the first end-to-end tracking and trading ecosystem for watches.
 >
@@ -2637,7 +2707,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2024-01-29 15:40 UTC (2024-01-29 16:40 WAT)
 
 - URL: https://x.com/osec_io/status/1751993668351713715
-- Metrics (at fetch): bookmark 3, impression 12392, like 40, quote 3, reply 1, retweet 8
+- Metrics (at fetch): bookmark 3, impression 12392, like 41, quote 3, reply 1, retweet 8
 
 > OtterSec is excited to announce that our audit of the restaking vaults has been completed! We’re proud to have partnered on supporting the first restaking vaults on Solana 🔥 https://twitter.com/picasso_network/status/1751811950021841011
 
@@ -2932,7 +3002,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2023-11-29 19:23 UTC (2023-11-29 20:23 WAT)
 
 - URL: https://x.com/osec_io/status/1729944254468776426
-- Metrics (at fetch): bookmark 3, impression 10366, like 26, quote 0, reply 1, retweet 11
+- Metrics (at fetch): bookmark 3, impression 10367, like 26, quote 0, reply 1, retweet 11
 
 > Previously, we covered what MetaMask Snaps are, how they work, and some of the vulnerability research OtterSec has done. This is the final thread in the series covering our demonstration of the vulnerability we found and our conclusions.
 >
@@ -3540,7 +3610,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2023-08-03 20:22 UTC (2023-08-03 21:22 WAT)
 
 - URL: https://x.com/osec_io/status/1687197389575311361
-- Metrics (at fetch): bookmark 1, impression 3446, like 22, quote 0, reply 1, retweet 4
+- Metrics (at fetch): bookmark 1, impression 3446, like 21, quote 0, reply 1, retweet 4
 
 > We find individuals like this highly intelligent for understanding where the real importance of blockchain security resides.
 >

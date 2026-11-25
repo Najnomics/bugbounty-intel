@@ -1,11 +1,43 @@
 # @naresh_1337 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 92
-- Conversations/threads: 52
+- Posts in this file: 93
+- Conversations/threads: 53
 - Oldest post captured: 2026-05-22
-- Newest post captured: 2026-11-22
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Post · Web3 bug hunters, want to see how @immunefi Studio reviews a finding? I’ve got 5 invites 👇
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @naresh_1337 — 2026-11-24 08:21 UTC (2026-11-24 09:21 WAT)
+
+- URL: https://x.com/naresh_1337/status/2125142772764102815
+- Metrics (at fetch): not returned
+
+> Web3 bug hunters, want to see how @immunefi Studio reviews a finding? I’ve got 5 invites 👇
+>
+> Each link works once and expires in 24 hours. To join, sign in and buy at least 300 USDC in Studio credits from a verified wallet before the link expires.
+>
+> Pick one link in the reply ↓
+>
+> First reply
+>
+> Grab any one of these. If it’s already claimed, try the next. Reply with the number you used so the next researcher knows which to skip.
+>
+> 1️⃣ https://studio.immunefi.com/invite/l59ckeKET8muS0DRFOYxmA
+> 2️⃣ https://studio.immunefi.com/invite/coMfAH54eluuUp-m_lIT_Q
+> 3️⃣ https://studio.immunefi.com/invite/U4W1fehgM2fk6Lr2z-lJ6g
+> 4️⃣ https://studio.immunefi.com/invite/Kolv12OOsR8tfX8CHviyhw
+> 5️⃣ https://studio.immunefi.com/invite/21zAHmdohZLcBKWIDgKJNA
+
+**Links in post:** https://studio.immunefi.com/invite/l59ckeKET8muS0DRFOYxmA, https://studio.immunefi.com/invite/coMfAH54eluuUp-m_lIT_Q, https://studio.immunefi.com/invite/U4W1fehgM2fk6Lr2z-lJ6g, https://studio.immunefi.com/invite/Kolv12OOsR8tfX8CHviyhw, https://studio.immunefi.com/invite/21zAHmdohZLcBKWIDgKJNA
 
 
 ---

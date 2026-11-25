@@ -1,11 +1,75 @@
 # @saxenism — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1191
-- Conversations/threads: 904
+- Posts in this file: 1193
+- Conversations/threads: 906
 - Oldest post captured: 2020-03-15
-- Newest post captured: 2026-11-23
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Post · @iamwehi Well, this sounds fun.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1807786728826007552 — 2026-11-23 16:45 UTC (2026-11-23 17:45 WAT)
+
+- URL: https://x.com/1807786728826007552/status/2124907241975505326
+- Metrics (at fetch): not returned
+
+> building Grimoire #1: some use cases i came up with that will make it different from other agents [pic.x.com/Ll4MWxyQOV]
+
+**Media:**
+- media `13_2124906842023186432` (details not returned by the API)
+
+
+### Post — @saxenism — 2026-11-24 10:37 UTC (2026-11-24 11:37 WAT)
+
+- URL: https://x.com/saxenism/status/2125177020053426319
+- Metrics (at fetch): not returned
+
+> @iamwehi Well, this sounds fun.
+>
+> Looking forward.
+
+
+---
+
+## 2026-11-24 · Post · The TEE Security Handbook is up for funding on @thedaofund, and I need your help.
+
+
+Tags (automatic): Smart contract / DeFi, TEE / enclave
+
+
+### Post — @saxenism — 2026-11-24 08:25 UTC (2026-11-24 09:25 WAT)
+
+- URL: https://x.com/saxenism/status/2125143637340348752
+- Metrics (at fetch): bookmark 15, impression 1181, like 30, quote 1, reply 1, retweet 7
+
+> The TEE Security Handbook is up for funding on @thedaofund, and I need your help.
+>
+> At @bluethroat_labs we've been focused on TEE security in Web3 from day one, specifically on helping teams use TEEs safely. That work became the TEE Security Handbook, the first dedicated, open TEE security handbook for Web3 that we know of: https://tee-security-handbook.bluethroatlabs.com/
+>
+> We now have a dedicated engineer working on the book and doing TEE security research. Several teams have told me they used it to design their protocol or to understand their TEEs better, which honestly means a lot. Even my recent DSS talk was on the attestation gap in TEE-backed DeFi.
+>
+> To make it onto the ETHSecurity badge-holder ballot, we need $4.5k in pledges before the deadline.
+>
+> ⏰ DEADLINE: Wed, 25 Nov, 14:00 UTC (7:30 PM IST)
+>
+> A pledge is a signed commitment, NOT a payment. It only gets collected if the initiative gets fully funded.
+>
+> If the handbook has helped you, a pledge of $1k, $1.5k or $2k would mean a lot. DM me if you're willing to pledge and I'll get it set up.
+>
+> And if anything in the book ever needs fixing, I'm just a DM away.
+>
+> We're genuinely passionate about pushing the frontier of safe TEE usage in Web3, and your support on this journey would really help :)
+>
+> https://initiatives.thedao.fund/initiative/tee-security-handbook-practical-verification-failure-analysi
+
+**Links in post:** https://tee-security-handbook.bluethroatlabs.com/, https://initiatives.thedao.fund/initiative/tee-security-handbook-practical-verification-failure-analysi
 
 
 ---

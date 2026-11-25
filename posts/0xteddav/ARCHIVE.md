@@ -1,6 +1,6 @@
 # @0xteddav — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 49
 - Conversations/threads: 24
@@ -73,7 +73,9 @@ Tags (automatic): ZK
 > GKR: Sumcheck's best friend
 > You read my last article about Sumcheck? Still wondering what you can do with it?
 > Meet the GKR protocol, a way to verify a full circuit without redoing all the work
-> https://t.co/wxYqMKzZIc
+> https://blog.electisec.com/gkr
+
+**Links in post:** https://blog.electisec.com/gkr
 
 
 ### Thread part 2 — @0xteddav — 2025-06-17 07:55 UTC (2025-06-17 08:55 WAT)
@@ -191,8 +193,10 @@ Tags (automatic): ZK
 > No profiles. No swipes. No public data.
 > 🔒 Built with @NoirLang + @TACEO_IO ’s coSNARKS.
 > ⚠️ Might be a bit slow, ping me if it is and I’ll bump the server.
-> https://t.co/TrlcZUAyWG
+> https://co-match.vercel.app/
 > 🧵 Here's how it works:
+
+**Links in post:** https://co-match.vercel.app/
 
 
 ### Thread part 2 — @0xteddav — 2025-05-07 07:12 UTC (2025-05-07 08:12 WAT)
@@ -269,7 +273,7 @@ Tags (automatic): ZK
 ### Post — @0xteddav — 2025-04-16 12:22 UTC (2025-04-16 13:22 WAT)
 
 - URL: https://x.com/0xteddav/status/1912481700958941466
-- Metrics (at fetch): bookmark 32, impression 1669, like 52, quote 0, reply 4, retweet 5
+- Metrics (at fetch): bookmark 32, impression 1670, like 52, quote 0, reply 4, retweet 5
 
 > Learning ZK and writing your first circuits?
 > It’s easy to make mistakes and introduce soundness bugs 🐞
@@ -329,7 +333,7 @@ Tags (automatic): ZK
 ### Post — @0xteddav — 2025-04-09 05:00 UTC (2025-04-09 06:00 WAT)
 
 - URL: https://x.com/0xteddav/status/1909833737753317622
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 29, impression 8969, like 120, quote 7, reply 7, retweet 17
 
 > 🚀 Tired of oversharing personal data just to rent an apartment?
 > Meet zkTenant, a @NoirLang  -powered app that lets you prove your income &amp; French citizenship without revealing sensitive info.
@@ -420,7 +424,7 @@ Tags (automatic): ZK
 ### Post — @0xteddav — 2025-02-28 13:51 UTC (2025-02-28 14:51 WAT)
 
 - URL: https://x.com/0xteddav/status/1895471831622336741
-- Metrics (at fetch): bookmark 5, impression 3496, like 21, quote 4, reply 1, retweet 6
+- Metrics (at fetch): bookmark 5, impression 3497, like 21, quote 4, reply 1, retweet 6
 
 > 🧵 Want to understand how Reed-Solomon codes keep your data safe? These powerful error-correcting codes are used in QR codes, DVDs, digital communications, and obviously... in zero-knowledge proofs! Let’s break it down ⬇️
 > https://blog.electisec.tech/reed-solomon
@@ -465,7 +469,7 @@ Tags (automatic): ZK
     #### Quoted post — @0xteddav — 2025-02-28 13:51 UTC (2025-02-28 14:51 WAT)
     
     - URL: https://x.com/0xteddav/status/1895471831622336741
-    - Metrics (at fetch): bookmark 5, impression 3496, like 21, quote 4, reply 1, retweet 6
+    - Metrics (at fetch): bookmark 5, impression 3497, like 21, quote 4, reply 1, retweet 6
     
     > 🧵 Want to understand how Reed-Solomon codes keep your data safe? These powerful error-correcting codes are used in QR codes, DVDs, digital communications, and obviously... in zero-knowledge proofs! Let’s break it down ⬇️
     > https://blog.electisec.tech/reed-solomon

@@ -1,6 +1,6 @@
 # @RootxRavi — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 107
 - Conversations/threads: 100
@@ -359,7 +359,7 @@ Tags (automatic): Platform: Bugcrowd
 #### Root post — @krishnsec — 2026-08-04 13:28 UTC (2026-08-04 14:28 WAT)
 
 - URL: https://x.com/krishnsec/status/2084632582151602681
-- Metrics (at fetch): bookmark 5, impression 6162, like 215, quote 0, reply 13, retweet 3
+- Metrics (at fetch): bookmark 5, impression 6179, like 215, quote 0, reply 13, retweet 3
 
 > Crossed 17K reputation on @Bugcrowd ✅ https://t.co/1F00ZcjLmc
 
@@ -386,7 +386,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2026-08-01 11:08 UTC (2026-08-01 12:08 WAT)
 
 - URL: https://x.com/RootxRavi/status/2083510058093326602
-- Metrics (at fetch): bookmark 3, impression 3494, like 75, quote 0, reply 2, retweet 0
+- Metrics (at fetch): bookmark 3, impression 3504, like 75, quote 0, reply 2, retweet 0
 
 > Finished #4 on the @Bugcrowd India Leaderboard for July! 🎉 [pic.x.com/EvVAiwYI2X]
 
@@ -407,7 +407,7 @@ Tags (automatic): Platform: Bugcrowd
 #### Root post — @krishnsec — 2026-07-08 13:59 UTC (2026-07-08 14:59 WAT)
 
 - URL: https://x.com/krishnsec/status/2074855923466797181
-- Metrics (at fetch): bookmark 4, impression 5456, like 174, quote 0, reply 11, retweet 0
+- Metrics (at fetch): bookmark 4, impression 5468, like 174, quote 0, reply 11, retweet 0
 
 > Crossed 16K reputation on @Bugcrowd ✅ https://t.co/3cuHEMc2CJ
 
@@ -450,7 +450,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2026-07-01 10:10 UTC (2026-07-01 11:10 WAT)
 
 - URL: https://x.com/RootxRavi/status/2072261644709986608
-- Metrics (at fetch): bookmark 8, impression 5620, like 131, quote 0, reply 8, retweet 2
+- Metrics (at fetch): bookmark 8, impression 5629, like 131, quote 0, reply 8, retweet 2
 
 > Finished #2 on the @Bugcrowd India Leaderboard for June! 🎉
 > Managed to submit some good vulnerabilities this month while balancing a full-time job. [pic.x.com/dUuck3FPgb]
@@ -470,7 +470,7 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne, Platform: Bugcrowd
 ### Post — @RootxRavi — 2026-06-16 19:00 UTC (2026-06-16 20:00 WAT)
 
 - URL: https://x.com/RootxRavi/status/2066959135414055188
-- Metrics (at fetch): bookmark 16, impression 7770, like 60, quote 0, reply 12, retweet 0
+- Metrics (at fetch): bookmark 15, impression 7796, like 60, quote 0, reply 12, retweet 0
 
 > Which MacBook configuration do you think is ideal for full-time bug bounty hunting in 2026? Running Burp Suite, Claude Code, Docker, browsers, and recon tools has my 16GB M2 Pro struggling.
 >
@@ -501,7 +501,7 @@ Tags (automatic): Platform: Bugcrowd
 #### Root post — @krishnsec — 2026-06-07 11:04 UTC (2026-06-07 12:04 WAT)
 
 - URL: https://x.com/krishnsec/status/2063577840692629691
-- Metrics (at fetch): bookmark 9, impression 8872, like 270, quote 0, reply 14, retweet 0
+- Metrics (at fetch): bookmark 9, impression 8884, like 271, quote 0, reply 14, retweet 0
 
 > Crossed 15K reputation on @Bugcrowd ✅ https://t.co/ACGVGvEcL1
 
@@ -560,7 +560,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2026-05-17 11:46 UTC (2026-05-17 12:46 WAT)
 
 - URL: https://x.com/RootxRavi/status/2055978304927416429
-- Metrics (at fetch): bookmark 10, impression 5898, like 155, quote 0, reply 8, retweet 0
+- Metrics (at fetch): bookmark 10, impression 5904, like 155, quote 0, reply 8, retweet 0
 
 > I earned $4,500 for my submission on @bugcrowd https://bugcrowd.com/h/{id: "rootxravi"} #ItTakesACrowd #bugcrowd #security
 
@@ -578,7 +578,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2026-05-07 12:17 UTC (2026-05-07 13:17 WAT)
 
 - URL: https://x.com/RootxRavi/status/2052362096529334449
-- Metrics (at fetch): bookmark 10, impression 3499, like 128, quote 0, reply 4, retweet 0
+- Metrics (at fetch): bookmark 10, impression 3501, like 128, quote 0, reply 4, retweet 0
 
 > I earned $4,100 for my submission on @bugcrowd #ItTakesACrowd
 
@@ -656,7 +656,7 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 ---
 
-## 2025-02-18 · Post · I earned $3,750 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 ItTakesACrowd
+## 2025-02-18 · Post · I earned $3,750 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -667,7 +667,9 @@ Tags (automatic): Platform: Bugcrowd
 - URL: https://x.com/RootxRavi/status/1891891592312533394
 - Metrics (at fetch): bookmark 9, impression 5528, like 123, quote 0, reply 11, retweet 6
 
-> I earned $3,750 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 #ItTakesACrowd
+> I earned $3,750 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
 
 
 ---
@@ -683,7 +685,7 @@ Tags (automatic): Platform: Bugcrowd
 - URL: https://x.com/RootxRavi/status/1880722810504712501
 - Metrics (at fetch): bookmark 5, impression 4822, like 98, quote 0, reply 12, retweet 1
 
-> Grateful to be on the @Bugcrowd leaderboard for the month of December! Thank you, Bugcrowd, for the amazing opportunity ❤️ https://t.co/a3kW8o6vEM
+> Grateful to be on the @Bugcrowd leaderboard for the month of December! Thank you, Bugcrowd, for the amazing opportunity ❤️ [pic.x.com/a3kW8o6vEM]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GhmrQIVaQAAgvWL.png — no alt text provided by author
@@ -692,7 +694,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2024-12-31 · Post · It’s time to wrap up 2024 with one last bounty! https://t.co/ByUdMbNFzA
+## 2024-12-31 · Post · It’s time to wrap up 2024 with one last bounty! [pic.x.com/ByUdMbNFzA]
 
 
 ### Post — @RootxRavi — 2024-12-31 15:42 UTC (2024-12-31 16:42 WAT)
@@ -700,7 +702,7 @@ Tags (automatic): Platform: Bugcrowd
 - URL: https://x.com/RootxRavi/status/1874119048537272524
 - Metrics (at fetch): bookmark 3, impression 3379, like 71, quote 0, reply 1, retweet 0
 
-> It’s time to wrap up 2024 with one last bounty! https://t.co/ByUdMbNFzA
+> It’s time to wrap up 2024 with one last bounty! [pic.x.com/ByUdMbNFzA]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GgI0SefbYAAa1fN.png — no alt text provided by author
@@ -738,7 +740,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2024-12-12 · Reply · @Bugcrowd 🫶😍 https://t.co/cYHR5PHSWX
+## 2024-12-12 · Reply · @Bugcrowd 🫶😍 [pic.x.com/cYHR5PHSWX]
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -749,7 +751,7 @@ Tags (automatic): Platform: Bugcrowd
 - URL: https://x.com/RootxRavi/status/1867099725046190254
 - Metrics (at fetch): bookmark 0, impression 1063, like 42, quote 0, reply 2, retweet 0
 
-> @Bugcrowd 🫶😍 https://t.co/cYHR5PHSWX
+> @Bugcrowd 🫶😍 [pic.x.com/cYHR5PHSWX]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GelFTKrboAAMqMB.jpg — no alt text provided by author
@@ -757,7 +759,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2024-12-08 · Post · I earned $1600 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 ItTakesACrowd
+## 2024-12-08 · Post · I earned $1600 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -768,7 +770,9 @@ Tags (automatic): Platform: Bugcrowd
 - URL: https://x.com/RootxRavi/status/1865806846839185867
 - Metrics (at fetch): bookmark 6, impression 5070, like 97, quote 0, reply 7, retweet 1
 
-> I earned $1600 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 #ItTakesACrowd
+> I earned $1600 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
 
 
 ---

@@ -1,11 +1,110 @@
 # @Swartz068 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 64
-- Conversations/threads: 45
+- Posts in this file: 68
+- Conversations/threads: 49
 - Oldest post captured: 2024-12-30
-- Newest post captured: 2026-11-22
+- Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Reply · @isTsNameAlright @Bugcrowd @GodfatherOrwa @lostsec_ @HubC3i Lots of Thanks bro 🙏
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — post being replied to:**
+
+#### Parent post — @1921179616179564544 — 2026-11-24 17:38 UTC (2026-11-24 18:38 WAT)
+
+- URL: https://x.com/1921179616179564544/status/2125283008672600066
+- Metrics (at fetch): bookmark 0, impression 74, like 1, quote 0, reply 1, retweet 0
+
+> @Swartz068 @Bugcrowd @GodfatherOrwa @lostsec_ @HubC3i I have no words. All respect in the world to you sir 🤝🤝
+
+
+### Post — @Swartz068 — 2026-11-24 18:22 UTC (2026-11-24 19:22 WAT)
+
+- URL: https://x.com/Swartz068/status/2125293907928035529
+- Metrics (at fetch): bookmark 0, impression 48, like 1, quote 0, reply 0, retweet 0
+
+> @isTsNameAlright @Bugcrowd @GodfatherOrwa @lostsec_ @HubC3i Lots of Thanks bro 🙏
+
+
+---
+
+## 2026-11-24 · Reply · @SabeeRaymond @Bugcrowd @GodfatherOrwa @lostsec_ @HubC3i Me too when I was 8th grade .
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — post being replied to:**
+
+#### Parent post — @SabeeRaymond — 2026-11-24 17:08 UTC (2026-11-24 18:08 WAT)
+
+- URL: https://x.com/SabeeRaymond/status/2125275480416793073
+- Metrics (at fetch): bookmark 0, impression 33, like 2, quote 0, reply 1, retweet 0
+
+> @Swartz068 @Bugcrowd @GodfatherOrwa @lostsec_ @HubC3i When I was your age (damn, I sound so old now) I'd love to hack too. Amazing journey and I wish you all the best man!
+
+
+### Post — @Swartz068 — 2026-11-24 17:11 UTC (2026-11-24 18:11 WAT)
+
+- URL: https://x.com/Swartz068/status/2125276134778745064
+- Metrics (at fetch): bookmark 0, impression 23, like 1, quote 0, reply 0, retweet 0
+
+> @SabeeRaymond @Bugcrowd @GodfatherOrwa @lostsec_ @HubC3i Me too when I was 8th grade .
+
+
+---
+
+## 2026-11-24 · Reply · @SabeeRaymond @Bugcrowd @GodfatherOrwa @lostsec_ @HubC3i Thanks  😍
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — post being replied to:**
+
+#### Parent post — @SabeeRaymond — 2026-11-24 17:05 UTC (2026-11-24 18:05 WAT)
+
+- URL: https://x.com/SabeeRaymond/status/2125274547456757963
+- Metrics (at fetch): bookmark 0, impression 84, like 2, quote 0, reply 1, retweet 0
+
+> @Swartz068 @Bugcrowd @GodfatherOrwa @lostsec_ @HubC3i Great job man! Keep up the good work!
+
+
+### Post — @Swartz068 — 2026-11-24 17:07 UTC (2026-11-24 18:07 WAT)
+
+- URL: https://x.com/Swartz068/status/2125275020503179660
+- Metrics (at fetch): bookmark 0, impression 72, like 1, quote 0, reply 1, retweet 0
+
+> @SabeeRaymond @Bugcrowd @GodfatherOrwa @lostsec_ @HubC3i Thanks  😍
+
+
+---
+
+## 2026-11-24 · Post · Top 3,600 globally on Bugcrowd. Still in high school, competing with security researchers my father'
+
+
+Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
+
+
+### Post — @Swartz068 — 2026-11-24 16:48 UTC (2026-11-24 17:48 WAT)
+
+- URL: https://x.com/Swartz068/status/2125270369548505195
+- Metrics (at fetch): bookmark 5, impression 758, like 42, quote 0, reply 3, retweet 0
+
+> Top 3,600 globally on Bugcrowd. Still in high school, competing with security researchers my father's age.
+>
+> #iitk #bugbountytip #bugcrowd #hackerone #C3iHub @bugcrowd @GodfatherOrwa @lostsec_ @HubC3i https://t.co/nLvWXkEBCq
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX56Ihwa0AAbCKX.jpg — no alt text provided by author
 
 
 ---

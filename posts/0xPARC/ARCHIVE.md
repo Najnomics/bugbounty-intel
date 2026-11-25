@@ -1,6 +1,6 @@
 # @0xPARC — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 146
 - Conversations/threads: 63
@@ -317,7 +317,7 @@ Tags (automatic): ZK
 ### Post — @0xPARC — 2023-11-14 08:46 UTC (2023-11-14 09:46 WAT)
 
 - URL: https://x.com/0xPARC/status/1724348099081256970
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 5, impression 27409, like 40, quote 9, reply 2, retweet 4
 
 > 1/ 📢 Two days to go until the Programmable Cryptography Conference at @EFDevconnect (Nov 16-17)! A final thread to highlight some of the programming and arcs below. 🧵👇
 >

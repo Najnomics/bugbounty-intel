@@ -1,6 +1,6 @@
 # @zellic_io — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 548
 - Conversations/threads: 128
@@ -1859,7 +1859,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 >
 > We acquired Code4rena to deliver better security for our clients. Now we want everyone to have that.
 >
-> Audit contest platforms should exist to serve the ecosystem, not to extract from it. https://t.co/Vla6RRWbcV
+> Audit contest platforms should exist to serve the ecosystem, not to extract from it. https://twitter.com/code4rena/status/1934990384566018249
+
+**Links in post:** https://twitter.com/code4rena/status/1934990384566018249
 
 **Quoted post (full text):**
 
@@ -1875,10 +1877,31 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
     > Why?
     >
     > 1. Competitions are commodities.
-    > They're CRUD apps. Why should builders pay premium for a website just to submit bugs? https://t.co/EwIkF1cpEx
+    > They're CRUD apps. Why should builders pay premium for a website just to submit bugs? Especially smaller teams without VC funding.
+    >
+    > 2. Everyone deserves competitions.
+    > We tell all our clients to get a competition after their audit. That's because competitions simulate real world conditions, where there's thousands of eyes on a protocol. We want to make competitions as affordable as possible so everyone can get one.
+    >
+    > 3. It benefits our wardens.
+    > In 2021, we invented the competition format. We're still the platform with the largest auditor pool (10,000+ registered). Not only should builders have access to the best security talent, we believe auditors should have opportunities to work with great projects. Opening up our platform benefits our wardens.
+    >
+    > How will you afford this?
+    > Zellic is a profitable business. We make money doing traditional private audits through Zellic and Zenith. This benefits us because: (1) our clients are more secure after they run contests, and (2) Code4rena is a talent pipeline for Zenith.
+    >
+    > Will you stop maintaining the platform?
+    > Of course not. Since we acquired Code4rena, we've shipped several features and have several more already underway. C4 has a dedicated dev team that we're fully committed to.
+    >
+    > Besides, many of our clients at Zellic use C4. We're incentivized to make sure the platform works well. It's just that now we're allowing everyone to benefit from our investments in Code4rena.
+    >
+    > In conclusion:
+    > Run a contest on Code4rena! We won't take a cut, your prizes will go directly to wardens and judges.
+    >
+    > For full details, check out our blog post here: http://zellic.io/blog/code4rena-free-contests
     
     **Media:**
     - media `3_1934990060266627073` (details not returned by the API)
+    
+    **Links in post:** http://zellic.io/blog/code4rena-free-contests
     
 
 
@@ -1981,7 +2004,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 >
 > Our team quickly got to work.
 >
-> This is how we found the bug along with the POC to prove it. https://t.co/6c5q08dBzZ
+> This is how we found the bug along with the POC to prove it. [pic.x.com/6c5q08dBzZ]
 
 **Media:**
 - photo: https://pbs.twimg.com/media/GrmzTXNWEAASJGC.jpg — no alt text provided by author
@@ -2278,7 +2301,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 >
 > Zellic has worked closely with Sahara to audit components of their core contracts.
 >
-> We look forward to deepening our commitment to Sahara by supporting their efforts towards an AI-driven future. https://t.co/RV4ppf4U1g
+> We look forward to deepening our commitment to Sahara by supporting their efforts towards an AI-driven future. https://twitter.com/SaharaAI/status/1924465527503937646
+
+**Links in post:** https://twitter.com/SaharaAI/status/1924465527503937646
 
 **Quoted post (full text):**
 
@@ -2291,7 +2316,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
     >
     > SIWA is our public testnet for decentralized AI development and the first real step toward an AI-driven future that’s open, equitable, and accessible to all. 
     >
-    > Here’s what that means 🧵👇 https://t.co/8JRP958eMf
+    > Here’s what that means 🧵👇 [pic.x.com/8JRP958eMf]
     
     **Media:**
     - media `13_1924450865995456512` (details not returned by the API)
@@ -2766,7 +2791,7 @@ Tags (automatic): SSRF, AI-assisted hunting
 ### Post — @zellic_io — 2025-03-13 18:25 UTC (2025-03-13 19:25 WAT)
 
 - URL: https://x.com/zellic_io/status/1900251843206537492
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 36, impression 17500, like 71, quote 3, reply 1, retweet 12
 
 > With the rise of AI agents, we expect new bugs, but we’ve instead found old bugs in disguise.
 >
@@ -2792,7 +2817,7 @@ Tags (automatic): ZK
 ### Post — @zellic_io — 2025-02-12 17:24 UTC (2025-02-12 18:24 WAT)
 
 - URL: https://x.com/zellic_io/status/1889727211940258233
-- Metrics (at fetch): bookmark 12, impression 5466, like 93, quote 1, reply 5, retweet 10
+- Metrics (at fetch): bookmark 12, impression 5467, like 94, quote 1, reply 5, retweet 10
 
 > We're proud to share that Zellic Security Researcher @fcremo helped discover an issue in the Cairo VM during a recent audit of @Starknet OS.
 >
@@ -2856,7 +2881,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @zellic_io — 2025-01-10 16:39 UTC (2025-01-10 17:39 WAT)
 
 - URL: https://x.com/zellic_io/status/1877757164661715447
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 142, impression 32503, like 208, quote 4, reply 8, retweet 32
 
 > Zellic proudly announces the EVM trackooor, a modular tool for monitoring arbitrary actions on chain.
 >
@@ -2876,7 +2901,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @zellic_io — 2024-12-11 17:47 UTC (2024-12-11 18:47 WAT)
 
 - URL: https://x.com/zellic_io/status/1866902590765826220
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 65, impression 19506, like 147, quote 2, reply 3, retweet 29
 
 > What happens when Random() isn’t random?
 >
@@ -2901,7 +2926,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @zellic_io — 2024-10-08 18:00 UTC (2024-10-08 19:00 WAT)
 
 - URL: https://x.com/zellic_io/status/1843713092993331464
-- Metrics (at fetch): bookmark 85, impression 13580, like 137, quote 5, reply 5, retweet 22
+- Metrics (at fetch): bookmark 85, impression 13582, like 137, quote 5, reply 5, retweet 22
 
 > Zellic is proud to announce Masamune, search for smart contract bugs, reports, bounties, attack vectors, and more.
 >
@@ -3078,7 +3103,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @zellic_io — 2024-09-26 16:13 UTC (2024-09-26 17:13 WAT)
 
 - URL: https://x.com/zellic_io/status/1839337470988882113
-- Metrics (at fetch): bookmark 39, impression 25880, like 76, quote 4, reply 1, retweet 14
+- Metrics (at fetch): bookmark 39, impression 25884, like 77, quote 4, reply 1, retweet 14
 
 > In December of 2023, Zellic's @farazsth98 found a bug in NEAR's blockchain node. We worked with the NEAR team to responsibly disclose and fix the issue.
 >
@@ -3299,7 +3324,7 @@ Tags (automatic): ZK, Platform: Code4rena / Sherlock / Cantina
 ### Post — @zellic_io — 2024-09-06 22:45 UTC (2024-09-06 23:45 WAT)
 
 - URL: https://x.com/zellic_io/status/1832188410557296908
-- Metrics (at fetch): bookmark 51, impression 33212, like 129, quote 4, reply 2, retweet 21
+- Metrics (at fetch): bookmark 51, impression 33217, like 130, quote 4, reply 2, retweet 21
 
 > Version 0.11.0 of gnark was just released, which fixes two vulnerabilities in the Groth16 backend reported by Zellic (CVE-2024-45039, CVE-2024-45040).
 >
@@ -3537,7 +3562,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: 
 ### Post — @zellic_io — 2024-08-22 14:05 UTC (2024-08-22 15:05 WAT)
 
 - URL: https://x.com/zellic_io/status/1826621630845497544
-- Metrics (at fetch): bookmark 62, impression 130226, like 517, quote 36, reply 32, retweet 63
+- Metrics (at fetch): bookmark 62, impression 130249, like 517, quote 36, reply 32, retweet 63
 
 > We're proud to announce that we've acquired @code4rena!
 >
@@ -3873,7 +3898,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @zellic_io — 2024-04-19 18:29 UTC (2024-04-19 19:29 WAT)
 
 - URL: https://x.com/zellic_io/status/1781389554764886289
-- Metrics (at fetch): bookmark 23, impression 12501, like 54, quote 3, reply 1, retweet 9
+- Metrics (at fetch): bookmark 23, impression 12502, like 54, quote 3, reply 1, retweet 9
 
 > SECURITY ADVISORY
 >
@@ -4035,7 +4060,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
 ### Post — @zellic_io — 2024-04-01 16:25 UTC (2024-04-01 17:25 WAT)
 
 - URL: https://x.com/zellic_io/status/1774835408578425071
-- Metrics (at fetch): bookmark 19, impression 6133, like 32, quote 2, reply 1, retweet 5
+- Metrics (at fetch): bookmark 19, impression 6134, like 32, quote 2, reply 1, retweet 5
 
 > Ever wondered why multiparty computation (MPC) protocol wallets are considered the most secure of all crypto wallets?
 >
@@ -4247,7 +4272,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @zellic_io — 2024-03-12 23:17 UTC (2024-03-13 00:17 WAT)
 
 - URL: https://x.com/zellic_io/status/1767691362613526798
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 1286, like 10, quote 0, reply 0, retweet 0
 
 > The February edition of the Zellic Security Roundup is live! In this installment, we cover:
 >
@@ -4271,7 +4296,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @zellic_io — 2024-03-11 21:11 UTC (2024-03-11 22:11 WAT)
 
 - URL: https://x.com/zellic_io/status/1767297364673626434
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 26, impression 10834, like 49, quote 3, reply 1, retweet 8
 
 > You may have seen Groq's recent demo, with state-of-the-art LLM inference speed. But how is it so fast?  
 >
@@ -4280,7 +4305,7 @@ Tags (automatic): AI-assisted hunting
 > Here’s how:🧵👇 [pic.x.com/l6XPbSSg8B]
 
 **Media:**
-- animated_gif: https://pbs.twimg.com/tweet_video_thumb/GIasFopbcAA272t.jpg — no alt text provided by author
+- animated_gif:  — no alt text provided by author
 
 
 ---
@@ -4312,7 +4337,7 @@ Tags (automatic): ZK
 ### Post — @zellic_io — 2024-02-07 22:36 UTC (2024-02-07 23:36 WAT)
 
 - URL: https://x.com/zellic_io/status/1755359815940162025
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 3011, like 16, quote 0, reply 0, retweet 3
 
 > Introducing the Zellic Security Roundup, a monthly security-focused newsletter covering valuable security news and analysis in Web3!
 >
@@ -4334,7 +4359,7 @@ Tags (automatic): ZK
 ### Post — @zellic_io — 2024-01-26 18:17 UTC (2024-01-26 19:17 WAT)
 
 - URL: https://x.com/zellic_io/status/1750946102428467674
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 2435, like 18, quote 0, reply 0, retweet 3
 
 > Zellic Co-Founder and CEO @gf_256 recently participated in the analysis, code review, and ongoing work during the follow-up of Radiant Capital’s flash-loan-based exploit.
 >
@@ -4347,7 +4372,7 @@ Tags (automatic): ZK
     #### Quoted post — @1501279850727821312 — 2024-01-03 20:05 UTC (2024-01-03 21:05 WAT)
     
     - URL: https://x.com/1501279850727821312/status/1742638375629177244
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 6, impression 19411, like 69, quote 3, reply 2, retweet 2
     
     > In no particular order, we want to thank @paladin_marco, @hexagate_, @BlockSecTeam, @LayerZero_Labs, @MaybeMaxPower, @samczsun, @chaoslabs, @pcaversaccio, Daniel from @OriginProtocol, Stephen Tong from @zellic_io, @chainalysis, @tayvano_, @cryptogle, @pashov, @trmlabs, @0x4C756B65 for their analysis, code reviews, & ongoing work to hunt down the exploiter.
     >
@@ -4366,7 +4391,7 @@ Tags (automatic): ZK
 ### Post — @zellic_io — 2024-01-25 21:56 UTC (2024-01-25 22:56 WAT)
 
 - URL: https://x.com/zellic_io/status/1750638776215621971
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 173, impression 18493, like 177, quote 6, reply 1, retweet 41
 
 > Following several major ZK audits and critical vulnerabilities uncovered, we're opening our ZK audit playbook to help developers write safer circuits.
 >
@@ -4386,7 +4411,7 @@ Tags (automatic): ZK
 ### Post — @zellic_io — 2024-01-12 18:23 UTC (2024-01-12 19:23 WAT)
 
 - URL: https://x.com/zellic_io/status/1745874206695596427
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 82, impression 19219, like 81, quote 4, reply 3, retweet 15
 
 > Pairings, particularly in the context of elliptic curves, have become an important cryptographic building block.
 >
@@ -4409,7 +4434,7 @@ Tags (automatic): Dependency confusion / supply chain
 ### Post — @zellic_io — 2023-12-14 19:12 UTC (2023-12-14 20:12 WAT)
 
 - URL: https://x.com/zellic_io/status/1735377228211601773
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 10, impression 11192, like 45, quote 1, reply 1, retweet 8
 
 > Ledger wallet got hit by a supply chain attack, exploiting that their connect-kit-loader library.
 >
@@ -4450,7 +4475,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: 
 ### Post — @zellic_io — 2023-12-05 22:54 UTC (2023-12-05 23:54 WAT)
 
 - URL: https://x.com/zellic_io/status/1732171636051501073
-- Metrics (at fetch): bookmark 114, impression 72577, like 217, quote 10, reply 3, repost 41
+- Metrics (at fetch): bookmark 113, impression 72586, like 218, quote 10, reply 3, retweet 41
 
 > The dangers of integer truncation:
 >
@@ -4670,7 +4695,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: 
 ### Post — @zellic_io — 2023-10-27 20:14 UTC (2023-10-27 21:14 WAT)
 
 - URL: https://x.com/zellic_io/status/1717998277147406522
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 1772, like 9, quote 0, reply 0, retweet 1
 
 > Zellic Security Researcher @sampriti0 recently joined Scroll’s security webinar to discuss Zellic's role as an auditing collaborator for Scroll including audit scope and testing methodologies. 
 >
@@ -4687,7 +4712,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: 
 ### Post — @zellic_io — 2023-10-11 21:00 UTC (2023-10-11 22:00 WAT)
 
 - URL: https://x.com/zellic_io/status/1712211534964011305
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 10, impression 98314, like 29, quote 1, reply 1, retweet 7
 
 > Predictable random data should never happen, but sometimes it does. These tools and wallets used weak randomness, resulting in $1M+ loss:
 >
@@ -4713,7 +4738,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @zellic_io — 2023-10-04 18:16 UTC (2023-10-04 19:16 WAT)
 
 - URL: https://x.com/zellic_io/status/1709633589078642911
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 6, impression 3608, like 13, quote 1, reply 1, retweet 2
 
 > ERC-4337 is a new standard for account-like smart contracts on Ethereum.
 >
@@ -4731,7 +4756,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @zellic_io — 2023-09-15 17:30 UTC (2023-09-15 18:30 WAT)
 
 - URL: https://x.com/zellic_io/status/1702736751608123637
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 17, impression 13881, like 49, quote 2, reply 1, retweet 10
 
 > The power of one word.
 >
@@ -4776,7 +4801,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 ### Post — @zellic_io — 2023-09-01 20:40 UTC (2023-09-01 21:40 WAT)
 
 - URL: https://x.com/zellic_io/status/1697710970892951912
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 19, impression 13849, like 43, quote 2, reply 5, retweet 10
 
 > In our first guided tour of the ZK landscape, we covered three zkSNARK applications: zkEVMs, zkBridges, and ZK programming languages.
 >

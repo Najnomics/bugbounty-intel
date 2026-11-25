@@ -5,13 +5,13 @@ Public web preview used for this archive: [https://t.me/s/dailybountywriteup](ht
 
 - **Title:** Daily Bounty Writeups
 - **Description:** Daily at 7 AM IST, get new Bug Bounty Writeups /  / securitycipher.com /  / x.com/bountywriteups
-- **Channel counters (at crawl):** 10.7K | subscribers | 1 | photo | 15K | links
+- **Channel counters (at crawl):** 10.9K | subscribers | 1 | photo | 15K | links
 - **Messages captured:** 14985
 - **ID range:** 1–14997
 - **Date range (WAT, Africa/Lagos):** 2022-08-22T20:46:34+01:00 → 2026-11-23T10:34:40+01:00
 - **Backfill complete (reached first available message):** True
 - **Oldest captured id:** 1
-- **Newest captured id:** 14981
+- **Newest captured id:** 14997
 - **Machine-readable:** [`data/telegram_dailybountywriteup.jsonl`](../../data/telegram_dailybountywriteup.jsonl) (one JSON object per message)
 
 Every message is stored **verbatim** (full text, links, forwarded-from, media type). This archive exists so another agent that cannot open Telegram or X still has the complete text.

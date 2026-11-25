@@ -5716,7 +5716,7 @@
 - [3198980](reports/2025/3198980.md) Woocommerce SQL Injection in WC_Report_Coupon_Usage — automattic — medium —  — SQL Injection
 - [3447021](reports/2026/3447021.md) XSS Vulnerability on Pressable/Atomic Hosting Platform via unescaped admin notices leads to code execution — automattic — - —  — 
 
-## weblate (165)
+## weblate (166)
 
 - [223350](reports/2017/223350.md) Web server is vulnerable to Beast Attack — weblate — low —  — Cryptographic Issues - Generic
 - [225100](reports/2017/225100.md) CSRF to Connect third party Account — weblate — medium —  — Cross-Site Request Forgery (CSRF)
@@ -5883,6 +5883,7 @@
 - [4059744](reports/2026/4059744.md) Anonymous API Rate Limit Bypass via X-Forwarded-For — weblate — medium —  — Uncontrolled Resource Consumption
 - [4105212](reports/2026/4105212.md) CPU Exhaustion via Crafted TOML Files in translation-finder — weblate — medium —  — Uncontrolled Resource Consumption
 - [4119675](reports/2026/4119675.md) Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creating site-wide Language rows without language.add — weblate — medium —  — Improper Access Control - Generic
+- [4118627](reports/2026/4118627.md) weblate.org: a removed customer owner regains ownership with one GET to /fosdem/donate/, even after token rotation, and can lock out the other owners — weblate — medium —  — Improper Access Control - Generic
 
 ## shopify-scripts (161)
 
@@ -9524,6 +9525,73 @@
 - [3287060](reports/2025/3287060.md) Double Clickjacking Attack on WakaTime OAuth Authorization Flow at https://wakatime.com/oauth/authorize — wakatime — medium —  — Violation of Secure Design Principles
 - [3304704](reports/2025/3304704.md) Invalid — wakatime — low —  — Improper Access Control - Generic
 
+## aws_vdp (64)
+
+- [2731133](reports/2024/2731133.md) External service interaction (HTTP) — aws_vdp — high —  — Server-Side Request Forgery (SSRF)
+- [2784712](reports/2024/2784712.md) Information Disclosure Due To exposed .env file (Directory Listing) at ████████ — aws_vdp — high —  — Information Exposure Through Directory Listing
+- [2808412](reports/2024/2808412.md) A potential risk in the experimental-programmatic-access-ccft which can be used to privilege escalation. — aws_vdp — high —  — Incorrect Privilege Assignment
+- [2805173](reports/2024/2805173.md) A potential risk in the cloudFrontExtensionsConsole which can be used to privilege escalation. — aws_vdp — medium —  — Improper Access Control - Generic
+- [2794126](reports/2024/2794126.md) CVE-2020-5902  — aws_vdp — critical —  — Using Components with Known Vulnerabilities
+- [2787650](reports/2024/2787650.md) Reflected XSS on Amazon EC2 Instance — aws_vdp — high —  — Reflected XSS
+- [2894222](reports/2024/2894222.md) A potential risk in the aws-lambda-ecs-run-task which can be used to privilege escalation. — aws_vdp — medium —  — Incorrect Privilege Assignment
+- [2979238](reports/2025/2979238.md) Amazon Comprehend Medical Service Reporting "AWS Internal" for CloudTrail Events Generated from FIPS Endpoints — aws_vdp — medium —  — Insufficient Logging
+- [2981210](reports/2025/2981210.md) Non-Production API Endpoints for the Datazone Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [3017105](reports/2025/3017105.md) Sensitive API Key Leakage — aws_vdp — medium —  — Cleartext Storage of Sensitive Information
+- [2999116](reports/2025/2999116.md) Non-Production API Endpoints for the Device Farm Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [2800511](reports/2025/2800511.md) Session Timeout Does Not Enforce Re-Authentication on AWS Access Portal — aws_vdp — medium —  — Reusing Session IDs (aka Session Replay)
+- [3009411](reports/2025/3009411.md) Non-Production API Endpoints for the DocumentDB Elastic Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [3022516](reports/2025/3022516.md) Non-Production API Endpoints for the Forecast Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [3014785](reports/2025/3014785.md) (Part 2) Non-Production API Endpoints for the Datazone Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [2926361](reports/2025/2926361.md) Non-Production API Endpoints for the ssm Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [3031512](reports/2025/3031512.md) Non-Production API Endpoints for the Glue Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [2972435](reports/2025/2972435.md) Non-Production API Endpoints for the cloudwatch Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [3021451](reports/2025/3021451.md) Non-Production API Endpoint for the ElastiCache Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [3056937](reports/2025/3056937.md) Bedrock Guardrails Evasion with Prompt Formatting — aws_vdp — none —  — 
+- [3092085](reports/2025/3092085.md) Non-Production API Endpoints for the Route 53 Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [3068422](reports/2025/3068422.md) Non-Production API Endpoints for the Neptune Graph Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [3044471](reports/2025/3044471.md) Amazon Kendra Intelligent Ranking Service Reporting "AWS Internal" for CloudTrail Events Generated from FIPS Endpoints — aws_vdp — medium —  — Insufficient Logging
+- [3072841](reports/2025/3072841.md) Amazon Pinpoint SMS and Voice, version 2  Service Reporting "AWS Internal" for CloudTrail Events Generated from FIPS Endpoints — aws_vdp — medium —  — Insufficient Logging
+- [3042588](reports/2025/3042588.md) Non-Production API Endpoints for the Health Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [3029552](reports/2025/3029552.md) Non-Production API Endpoints for the Global Accelerator Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [3021618](reports/2025/3021618.md) Non-Production API Endpoint for the EventBridge Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [2951803](reports/2025/2951803.md) Non-Production API Endpoints for the bedrock Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [2800091](reports/2025/2800091.md) Non-Production API Endpoints for the bedrock-agent Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [3083011](reports/2025/3083011.md) Private AWS AMIs are temporarily being exposed publicly — aws_vdp — none —  — 
+- [3205667](reports/2025/3205667.md) XSS on Amazon Aquisition:  elemental — aws_vdp — high —  — Cross-site Scripting (XSS) - Reflected
+- [3217840](reports/2025/3217840.md) Remote Code Execution in Amazon MWAA due to outdated Apache Airflow version — aws_vdp — none —  — Code Injection
+- [3287396](reports/2025/3287396.md) AWS | Self Registration Internal LibreChat : Access to internal/proprietary LLMs — aws_vdp — low —  — Authentication Bypass Using an Alternate Path or Channel
+- [3382796](reports/2025/3382796.md) Responsible disclosure - public S3 bucket exposing JSON/config files — aws_vdp — low —  — Information Disclosure
+- [3328291](reports/2025/3328291.md) Existence of completed pods allows for bypass of Kubernetes NetworkPolicy — aws_vdp — medium —  — Improper Access Control - Generic
+- [3419587](reports/2026/3419587.md) AWS Auto Scaling Service Reporting "AWS Internal" for CloudTrail Events Generated from Specific Endpoints — aws_vdp — medium —  — Insufficient Logging
+- [3418966](reports/2026/3418966.md) Non-Production API Endpoints for the AI Ops Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [3427370](reports/2026/3427370.md) Command Injection on Amazon Q Developer CLI via malicious .amazonq/mcp.json leads to arbitrary code execution — aws_vdp — none —  — Command Injection - Generic
+- [3426839](reports/2026/3426839.md) Unlimited Reuse of Coupon Code Allows Free Shipping on All Orders on ██████████ — aws_vdp — low —  — Business Logic Errors
+- [3514122](reports/2026/3514122.md) Password Reuse Vulnerability on AWS Sign-in Page via Password Reset Flow leads to Security Policy Violation — aws_vdp — none —  — Weak Password Requirements
+- [3557138](reports/2026/3557138.md) Arbitrary Code Execution via Scanner Bypass in **aws-diagram-mcp-server** `exec()` Namespace — aws_vdp — none —  — 
+- [3620761](reports/2026/3620761.md) Health check errors silently dropped when channel buffer full — aws_vdp — none —  — 
+- [3620760](reports/2026/3620760.md) Encryption context keys and values logged at INFO level — aws_vdp — none —  — Insertion of Sensitive Information into Log File
+- [3591725](reports/2026/3591725.md) SQL Injection Detection Bypass in AWS WAF Managed Rules (AWSManagedRulesSQLiRuleSet) — aws_vdp — none —  — SQL Injection
+- [3577145](reports/2026/3577145.md) QuickSight Authorization Bypass: Chat Agents Accessible Despite Custom Permissions Denial — aws_vdp — none —  — 
+- [3620753](reports/2026/3620753.md) V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) — aws_vdp — medium —  — Array Index Underflow
+- [3620748](reports/2026/3620748.md) V1Plugin.Decrypt panics on empty ciphertext (Remote DoS) — aws_vdp — medium —  — Array Index Underflow
+- [3738654](reports/2026/3738654.md)  Firecracker Out-of-bounds Read/Write Local Privilege Escalation Vulnerability — aws_vdp — none —  — Out-of-bounds Read
+- [3558713](reports/2026/3558713.md) Command Injection via Unsanitized Bundling Options in `aws-cdk-lib/aws-lambda-nodejs` — aws_vdp — high —  — OS Command Injection
+- [3780277](reports/2026/3780277.md) Non-Production API Endpoints for the Amazon S3 Tables Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [3637898](reports/2026/3637898.md) OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (Supply Chain RCE) — aws_vdp — high —  — OS Command Injection
+- [3630605](reports/2026/3630605.md) Kiro IDE Stores Auth Tokens with World-Readable Permissions (0644) — aws_vdp — medium —  — Incorrect Default Permissions
+- [3702072](reports/2026/3702072.md) bedrock-mantle.api.aws accepts Bedrock API keys outside the IAM Deny, CloudTrail signal, and invocation logging AWS publishes for Bedrock keys — aws_vdp — medium —  — Insecure Default Initialization of Resource
+- [3632577](reports/2026/3632577.md) Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles Without Confused Deputy Protections — aws_vdp — medium —  — Incorrect Permission Assignment for Critical Resource
+- [3809407](reports/2026/3809407.md) AWS *.a2z.com | Unauthenticated Clickhouse UI : Database access + SSRF — aws_vdp — high —  — Authentication Bypass
+- [3775702](reports/2026/3775702.md) Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
+- [3633146](reports/2026/3633146.md) Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-certificates.sh — aws_vdp — medium —  — Improper Certificate Validation
+- [3478646](reports/2026/3478646.md) GitHub Retired UsernameTakeover From  [aws/████████] — aws_vdp — low —  — Inclusion of Functionality from Untrusted Control Sphere
+- [3633123](reports/2026/3633123.md)  Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection via pip Flags — aws_vdp — high —  — OS Command Injection
+- [3897236](reports/2026/3897236.md) RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template — aws_vdp — high —  — Code Injection
+- [3966599](reports/2026/3966599.md) Unauthenticated go-httpbin servers : Leads to Cookie Tossing on *.aws.dev and Open Redirect — aws_vdp — medium —  — Missing Authentication for Critical Function
+- [4077800](reports/2026/4077800.md) Unescaped consent-prompt renderer (HTML()) enables concealed-approval OS command injection in strands-agents/tools use_computer — RCE — aws_vdp — medium —  — OS Command Injection
+- [3797662](reports/2026/3797662.md) SQL Injection via Unsanitized Identifiers and String Literals in `@aws-cdk/aws-redshift-alpha` Custom Resource Handlers — aws_vdp — high —  — SQL Injection
+- [3891423](reports/2026/3891423.md) Python Sandbox Escape in AWS MCP Server `run_script` — aws_vdp — medium —  — Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection')
+
 ## mariadb (63)
 
 - [392761](reports/2018/392761.md) vulnerable to Cross-site Request Forgery | Jira — mariadb — low —  — Cross-Site Request Forgery (CSRF)
@@ -9589,72 +9657,6 @@
 - [3896617](reports/2026/3896617.md) Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification failure — mariadb — - —  — Improper Certificate Validation
 - [3849007](reports/2026/3849007.md) MariaDB CLI Utility Issues — mariadb — - —  — SQL Injection
 - [3643157](reports/2026/3643157.md) Spatial functions perform 4-byte heap buffer over-reads on truncated WKB inputs — mariadb — medium —  — Buffer Over-read
-
-## aws_vdp (63)
-
-- [2731133](reports/2024/2731133.md) External service interaction (HTTP) — aws_vdp — high —  — Server-Side Request Forgery (SSRF)
-- [2784712](reports/2024/2784712.md) Information Disclosure Due To exposed .env file (Directory Listing) at ████████ — aws_vdp — high —  — Information Exposure Through Directory Listing
-- [2808412](reports/2024/2808412.md) A potential risk in the experimental-programmatic-access-ccft which can be used to privilege escalation. — aws_vdp — high —  — Incorrect Privilege Assignment
-- [2805173](reports/2024/2805173.md) A potential risk in the cloudFrontExtensionsConsole which can be used to privilege escalation. — aws_vdp — medium —  — Improper Access Control - Generic
-- [2794126](reports/2024/2794126.md) CVE-2020-5902  — aws_vdp — critical —  — Using Components with Known Vulnerabilities
-- [2787650](reports/2024/2787650.md) Reflected XSS on Amazon EC2 Instance — aws_vdp — high —  — Reflected XSS
-- [2894222](reports/2024/2894222.md) A potential risk in the aws-lambda-ecs-run-task which can be used to privilege escalation. — aws_vdp — medium —  — Incorrect Privilege Assignment
-- [2979238](reports/2025/2979238.md) Amazon Comprehend Medical Service Reporting "AWS Internal" for CloudTrail Events Generated from FIPS Endpoints — aws_vdp — medium —  — Insufficient Logging
-- [2981210](reports/2025/2981210.md) Non-Production API Endpoints for the Datazone Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [3017105](reports/2025/3017105.md) Sensitive API Key Leakage — aws_vdp — medium —  — Cleartext Storage of Sensitive Information
-- [2999116](reports/2025/2999116.md) Non-Production API Endpoints for the Device Farm Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [2800511](reports/2025/2800511.md) Session Timeout Does Not Enforce Re-Authentication on AWS Access Portal — aws_vdp — medium —  — Reusing Session IDs (aka Session Replay)
-- [3009411](reports/2025/3009411.md) Non-Production API Endpoints for the DocumentDB Elastic Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [3022516](reports/2025/3022516.md) Non-Production API Endpoints for the Forecast Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [3014785](reports/2025/3014785.md) (Part 2) Non-Production API Endpoints for the Datazone Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [2926361](reports/2025/2926361.md) Non-Production API Endpoints for the ssm Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [3031512](reports/2025/3031512.md) Non-Production API Endpoints for the Glue Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [2972435](reports/2025/2972435.md) Non-Production API Endpoints for the cloudwatch Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [3021451](reports/2025/3021451.md) Non-Production API Endpoint for the ElastiCache Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [3056937](reports/2025/3056937.md) Bedrock Guardrails Evasion with Prompt Formatting — aws_vdp — none —  — 
-- [3092085](reports/2025/3092085.md) Non-Production API Endpoints for the Route 53 Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [3068422](reports/2025/3068422.md) Non-Production API Endpoints for the Neptune Graph Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [3044471](reports/2025/3044471.md) Amazon Kendra Intelligent Ranking Service Reporting "AWS Internal" for CloudTrail Events Generated from FIPS Endpoints — aws_vdp — medium —  — Insufficient Logging
-- [3072841](reports/2025/3072841.md) Amazon Pinpoint SMS and Voice, version 2  Service Reporting "AWS Internal" for CloudTrail Events Generated from FIPS Endpoints — aws_vdp — medium —  — Insufficient Logging
-- [3042588](reports/2025/3042588.md) Non-Production API Endpoints for the Health Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [3029552](reports/2025/3029552.md) Non-Production API Endpoints for the Global Accelerator Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [3021618](reports/2025/3021618.md) Non-Production API Endpoint for the EventBridge Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [2951803](reports/2025/2951803.md) Non-Production API Endpoints for the bedrock Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [2800091](reports/2025/2800091.md) Non-Production API Endpoints for the bedrock-agent Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [3083011](reports/2025/3083011.md) Private AWS AMIs are temporarily being exposed publicly — aws_vdp — none —  — 
-- [3205667](reports/2025/3205667.md) XSS on Amazon Aquisition:  elemental — aws_vdp — high —  — Cross-site Scripting (XSS) - Reflected
-- [3217840](reports/2025/3217840.md) Remote Code Execution in Amazon MWAA due to outdated Apache Airflow version — aws_vdp — none —  — Code Injection
-- [3287396](reports/2025/3287396.md) AWS | Self Registration Internal LibreChat : Access to internal/proprietary LLMs — aws_vdp — low —  — Authentication Bypass Using an Alternate Path or Channel
-- [3382796](reports/2025/3382796.md) Responsible disclosure - public S3 bucket exposing JSON/config files — aws_vdp — low —  — Information Disclosure
-- [3328291](reports/2025/3328291.md) Existence of completed pods allows for bypass of Kubernetes NetworkPolicy — aws_vdp — medium —  — Improper Access Control - Generic
-- [3419587](reports/2026/3419587.md) AWS Auto Scaling Service Reporting "AWS Internal" for CloudTrail Events Generated from Specific Endpoints — aws_vdp — medium —  — Insufficient Logging
-- [3418966](reports/2026/3418966.md) Non-Production API Endpoints for the AI Ops Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [3427370](reports/2026/3427370.md) Command Injection on Amazon Q Developer CLI via malicious .amazonq/mcp.json leads to arbitrary code execution — aws_vdp — none —  — Command Injection - Generic
-- [3426839](reports/2026/3426839.md) Unlimited Reuse of Coupon Code Allows Free Shipping on All Orders on ██████████ — aws_vdp — low —  — Business Logic Errors
-- [3514122](reports/2026/3514122.md) Password Reuse Vulnerability on AWS Sign-in Page via Password Reset Flow leads to Security Policy Violation — aws_vdp — none —  — Weak Password Requirements
-- [3557138](reports/2026/3557138.md) Arbitrary Code Execution via Scanner Bypass in **aws-diagram-mcp-server** `exec()` Namespace — aws_vdp — none —  — 
-- [3620761](reports/2026/3620761.md) Health check errors silently dropped when channel buffer full — aws_vdp — none —  — 
-- [3620760](reports/2026/3620760.md) Encryption context keys and values logged at INFO level — aws_vdp — none —  — Insertion of Sensitive Information into Log File
-- [3591725](reports/2026/3591725.md) SQL Injection Detection Bypass in AWS WAF Managed Rules (AWSManagedRulesSQLiRuleSet) — aws_vdp — none —  — SQL Injection
-- [3577145](reports/2026/3577145.md) QuickSight Authorization Bypass: Chat Agents Accessible Despite Custom Permissions Denial — aws_vdp — none —  — 
-- [3620753](reports/2026/3620753.md) V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) — aws_vdp — medium —  — Array Index Underflow
-- [3620748](reports/2026/3620748.md) V1Plugin.Decrypt panics on empty ciphertext (Remote DoS) — aws_vdp — medium —  — Array Index Underflow
-- [3738654](reports/2026/3738654.md)  Firecracker Out-of-bounds Read/Write Local Privilege Escalation Vulnerability — aws_vdp — none —  — Out-of-bounds Read
-- [3558713](reports/2026/3558713.md) Command Injection via Unsanitized Bundling Options in `aws-cdk-lib/aws-lambda-nodejs` — aws_vdp — high —  — OS Command Injection
-- [3780277](reports/2026/3780277.md) Non-Production API Endpoints for the Amazon S3 Tables Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [3637898](reports/2026/3637898.md) OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (Supply Chain RCE) — aws_vdp — high —  — OS Command Injection
-- [3630605](reports/2026/3630605.md) Kiro IDE Stores Auth Tokens with World-Readable Permissions (0644) — aws_vdp — medium —  — Incorrect Default Permissions
-- [3702072](reports/2026/3702072.md) bedrock-mantle.api.aws accepts Bedrock API keys outside the IAM Deny, CloudTrail signal, and invocation logging AWS publishes for Bedrock keys — aws_vdp — medium —  — Insecure Default Initialization of Resource
-- [3632577](reports/2026/3632577.md) Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles Without Confused Deputy Protections — aws_vdp — medium —  — Incorrect Permission Assignment for Critical Resource
-- [3809407](reports/2026/3809407.md) AWS *.a2z.com | Unauthenticated Clickhouse UI : Database access + SSRF — aws_vdp — high —  — Authentication Bypass
-- [3775702](reports/2026/3775702.md) Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resulting in Silent Permission Enumeration — aws_vdp — medium —  — Insufficient Logging
-- [3633146](reports/2026/3633146.md) Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-certificates.sh — aws_vdp — medium —  — Improper Certificate Validation
-- [3478646](reports/2026/3478646.md) GitHub Retired UsernameTakeover From  [aws/████████] — aws_vdp — low —  — Inclusion of Functionality from Untrusted Control Sphere
-- [3633123](reports/2026/3633123.md)  Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection via pip Flags — aws_vdp — high —  — OS Command Injection
-- [3897236](reports/2026/3897236.md) RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template — aws_vdp — high —  — Code Injection
-- [3966599](reports/2026/3966599.md) Unauthenticated go-httpbin servers : Leads to Cookie Tossing on *.aws.dev and Open Redirect — aws_vdp — medium —  — Missing Authentication for Critical Function
-- [4077800](reports/2026/4077800.md) Unescaped consent-prompt renderer (HTML()) enables concealed-approval OS command injection in strands-agents/tools use_computer — RCE — aws_vdp — medium —  — OS Command Injection
-- [3797662](reports/2026/3797662.md) SQL Injection via Unsanitized Identifiers and String Literals in `@aws-cdk/aws-redshift-alpha` Custom Resource Handlers — aws_vdp — high —  — SQL Injection
 
 ## localize (62)
 
@@ -9843,6 +9845,64 @@
 - [1770858](reports/2024/1770858.md) IDOR vulnerability reveals additional information — semrush — critical —  — Insecure Direct Object Reference (IDOR)
 - [1717210](reports/2024/1717210.md) Exposure of service tokens to webpack bundle — semrush — high —  — Information Disclosure
 
+## ibm (55)
+
+- [1317236](reports/2021/1317236.md) Unauthorized Kubernetes to RCE (root) and found TEAMTNT Crypto Miner on it — ibm — critical —  — 
+- [1355817](reports/2021/1355817.md) SQL Injection in IBM access control panel & Broken access in admin panel — ibm — critical —  — SQL Injection
+- [1379130](reports/2021/1379130.md) Remote Code Execution at https://169.38.86.185/ (edst.ibm.com) — ibm — critical —  — Command Injection - Generic
+- [703819](reports/2022/703819.md) SQL Injection and plaintext passwords via User Search — ibm — high —  — SQL Injection
+- [410334](reports/2022/410334.md) Reflected XSS and Blind out of band command injection at subdomain dstuid-ww.dst.ibm.com — ibm — high —  — OS Command Injection
+- [1492447](reports/2022/1492447.md) Public Jenkins instance with /script enabled — ibm — critical —  — Improper Access Control - Generic
+- [938684](reports/2022/938684.md) CVE-2020-3452 Cisco ASA / Firepower Read-Only Path Traversal Vulnerability - https://esccvc.de.ibm.com — ibm — high —  — Path Traversal
+- [1527284](reports/2022/1527284.md) SQL injection in URL path processing on www.ibm.com — ibm — critical —  — SQL Injection
+- [1567516](reports/2022/1567516.md) sql injection via https://setup.p2p.ihost.com/ — ibm — critical —  — SQL Injection
+- [1089583](reports/2022/1089583.md) Insecure Object Permissions for Guest User leads to access to internal documents! — ibm — critical —  — Improper Authentication - Generic
+- [1670586](reports/2022/1670586.md) Cleartext storage of sensitive information at https://staging.status.ai-apps-comms.ibm.com/env can lead to account takeover  of several IBM employees — ibm — critical —  — Cleartext Storage of Sensitive Information
+- [1954364](reports/2023/1954364.md) Subdomain Takeover Affecting at  vex.weather.com — ibm — critical —  — Improper Authentication - Generic
+- [1848551](reports/2023/1848551.md) Moodle XSS on s-immerscio.comprehend.ibm.com — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
+- [1994227](reports/2023/1994227.md) response manipulation leads to bypass in register at employee website than 0 click account takeover — ibm — critical —  — Improper Authentication - Generic
+- [2083270](reports/2023/2083270.md) IDOR in channel ID leads to customer email disclosure on https://video.ibm.com — ibm — high —  — Information Disclosure
+- [2061826](reports/2023/2061826.md) Nginx Alias Traversal -  babel.bluetab.net — ibm — high —  — Path Traversal
+- [2085185](reports/2023/2085185.md) IDOR in upload videos of a Channel on https://video.ibm.com — ibm — critical —  — Insecure Direct Object Reference (IDOR)
+- [2192984](reports/2023/2192984.md) Unauthenticated Remote Access to Testing Endpoint — ibm — critical —  — Improper Access Control - Generic
+- [1933304](reports/2024/1933304.md) IBM Maximo Asset Management could allow a remote attacker to bypass authentication due to improper access controls — ibm — medium —  — Improper Access Control - Generic
+- [2139047](reports/2024/2139047.md) Jenkins server access due to weak password — ibm — high —  — Improper Authentication - Generic
+- [2292236](reports/2024/2292236.md) Improper Authentication on Alertmanager instance — ibm — medium —  — Improper Authentication - Generic
+- [2338285](reports/2024/2338285.md) XSS Refelected on jazz.net — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
+- [2090964](reports/2024/2090964.md) RXSS in hidden parameter — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
+- [2456603](reports/2024/2456603.md) Insecure Direct Object Reference Protection bypass by changing HTTP method in IBM Your Learning endpoint.  — ibm — critical —  — Insecure Direct Object Reference (IDOR)
+- [2308491](reports/2024/2308491.md) XSS in Aspera documentation website — ibm — medium —  — Cross-site Scripting (XSS) - DOM
+- [2498255](reports/2024/2498255.md) S3 Bucket Takeover on apptio endpoint — ibm — medium —  — Improper Access Control - Generic
+- [2343548](reports/2024/2343548.md) XSS in IBM InfoCenter — ibm — medium —  — Cross-site Scripting (XSS) - DOM
+- [2398335](reports/2024/2398335.md) jazz.net - publicly accessible .svn repositories — ibm — - —  — LLM06: Sensitive Information Disclosure
+- [2697601](reports/2024/2697601.md) SSRF and secret key disclosure found on Turbonomic endpoint — ibm — high —  — Server-Side Request Forgery (SSRF)
+- [2697592](reports/2024/2697592.md) SSRF and secret key disclosure found on Turbonomic endpoint — ibm — high —  — Server-Side Request Forgery (SSRF)
+- [2501986](reports/2024/2501986.md) IBM OpenPages vulnerable to exposure of sensitive information — ibm — medium —  — Improper Authentication - Generic
+- [2696271](reports/2024/2696271.md) SSRF via host header let access localhost via https://go.dialexa.com — ibm — medium —  — 
+- [2844797](reports/2024/2844797.md) Exposed Logs and Bearer Tokens on Test Endpoint — ibm — - —  — Information Disclosure
+- [2899380](reports/2025/2899380.md) POST based Cross-Site Scripting on IBM research endpoint — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
+- [2919623](reports/2025/2919623.md) There is a POST based CSRF issue over IBM endpoint leading to modification of contact information.  — ibm — medium —  — Cross-Site Request Forgery (CSRF)
+- [2954547](reports/2025/2954547.md) Weak credentials found in Jenkins endpoint — ibm — critical —  — 
+- [3051155](reports/2025/3051155.md) Information disclosure on IBM training service endpoint — ibm — - —  — Insecure Direct Object Reference (IDOR)
+- [3088290](reports/2025/3088290.md) Middleware Authentication Bypass on IBM Portal — ibm — critical —  — Command Injection - Generic
+- [3060373](reports/2025/3060373.md) Path Traversal Vulnerability found on IBM Cloud — ibm — critical —  — Path Traversal
+- [2402842](reports/2025/2402842.md) Information disclosure identified on IBM endpoint.  — ibm — medium —  — Information Disclosure
+- [3458235](reports/2025/3458235.md) [RCE] Remote Code Execution via  React Server Components Vulnerability CVE-2025-55182 — ibm — critical —  — Code Injection
+- [3463045](reports/2025/3463045.md) Remote Code Execution identified on IBM endpoint. — ibm — critical —  — 
+- [2830573](reports/2026/2830573.md) SQL injection identified on IBM endpoint.  — ibm — critical —  — SQL Injection
+- [3432159](reports/2026/3432159.md) Path Traversal vulnerability identified on IBM endpoint.  — ibm — high —  — 
+- [3578842](reports/2026/3578842.md) SQL Injection vulnerability found on ibm.com endpoint — ibm — critical —  — SQL Injection
+- [3592387](reports/2026/3592387.md) Potential Subdomain Takeover on IBM.com domain. — ibm — high —  — Improper Access Control - Generic
+- [3340797](reports/2026/3340797.md) IBM Aspera HTTP Gateway stores sensitive information in clear text in easily obtainable files which can be read by an unauthenticated user. — ibm — high —  — Information Disclosure
+- [3664261](reports/2026/3664261.md) Reflected Cross-Site Scripting (XSS) found on IBM.com domain — ibm — - —  — Cross-site Scripting (XSS) - Reflected
+- [3909372](reports/2026/3909372.md) Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint — ibm — - —  — Improper Access Control - Generic
+- [3662095](reports/2026/3662095.md) SQL Injection found on ibm.com subdomain — ibm — critical —  — SQL Injection
+- [3730301](reports/2026/3730301.md) SQL Injection vulnerability found on IBM.com subdomain — ibm — - —  — SQL Injection
+- [4152726](reports/2026/4152726.md) Blind SQL Injection — IBM Training Course Search API — ibm — critical —  — SQL Injection
+- [4180338](reports/2026/4180338.md) Unauthenticated API Writes  to Full IBM Software Access — ibm — critical —  — Improper Authentication - Generic
+- [3883702](reports/2026/3883702.md) DNS Rebinding Enables Unauthorized MCP Tool Access — ibm — critical —  — Improper Authentication - Generic
+- [4172841](reports/2026/4172841.md) Sensitive Access Tokens Logged in Server Log Files — ibm — high —  — Information Disclosure
+
 ## torproject (54)
 
 - [252626](reports/2017/252626.md) [Android org.torproject.android] Possible to force list of bridges — torproject — high —  — Forced Browsing
@@ -9899,62 +9959,6 @@
 - [3701692](reports/2026/3701692.md) Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown — torproject — low — $100 — Uncontrolled Resource Consumption
 - [3709703](reports/2026/3709703.md)  Tor onion service INTRODUCE2 invalid-MAC cells permanently grow service replay cache — torproject — low —  — Uncontrolled Resource Consumption
 - [3709605](reports/2026/3709605.md) Conflux-queued zero-length RELAY_END triggers heap out-of-bounds read — torproject — medium —  — Out-of-bounds Read
-
-## ibm (53)
-
-- [1317236](reports/2021/1317236.md) Unauthorized Kubernetes to RCE (root) and found TEAMTNT Crypto Miner on it — ibm — critical —  — 
-- [1355817](reports/2021/1355817.md) SQL Injection in IBM access control panel & Broken access in admin panel — ibm — critical —  — SQL Injection
-- [1379130](reports/2021/1379130.md) Remote Code Execution at https://169.38.86.185/ (edst.ibm.com) — ibm — critical —  — Command Injection - Generic
-- [703819](reports/2022/703819.md) SQL Injection and plaintext passwords via User Search — ibm — high —  — SQL Injection
-- [410334](reports/2022/410334.md) Reflected XSS and Blind out of band command injection at subdomain dstuid-ww.dst.ibm.com — ibm — high —  — OS Command Injection
-- [1492447](reports/2022/1492447.md) Public Jenkins instance with /script enabled — ibm — critical —  — Improper Access Control - Generic
-- [938684](reports/2022/938684.md) CVE-2020-3452 Cisco ASA / Firepower Read-Only Path Traversal Vulnerability - https://esccvc.de.ibm.com — ibm — high —  — Path Traversal
-- [1527284](reports/2022/1527284.md) SQL injection in URL path processing on www.ibm.com — ibm — critical —  — SQL Injection
-- [1567516](reports/2022/1567516.md) sql injection via https://setup.p2p.ihost.com/ — ibm — critical —  — SQL Injection
-- [1089583](reports/2022/1089583.md) Insecure Object Permissions for Guest User leads to access to internal documents! — ibm — critical —  — Improper Authentication - Generic
-- [1670586](reports/2022/1670586.md) Cleartext storage of sensitive information at https://staging.status.ai-apps-comms.ibm.com/env can lead to account takeover  of several IBM employees — ibm — critical —  — Cleartext Storage of Sensitive Information
-- [1954364](reports/2023/1954364.md) Subdomain Takeover Affecting at  vex.weather.com — ibm — critical —  — Improper Authentication - Generic
-- [1848551](reports/2023/1848551.md) Moodle XSS on s-immerscio.comprehend.ibm.com — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
-- [1994227](reports/2023/1994227.md) response manipulation leads to bypass in register at employee website than 0 click account takeover — ibm — critical —  — Improper Authentication - Generic
-- [2083270](reports/2023/2083270.md) IDOR in channel ID leads to customer email disclosure on https://video.ibm.com — ibm — high —  — Information Disclosure
-- [2061826](reports/2023/2061826.md) Nginx Alias Traversal -  babel.bluetab.net — ibm — high —  — Path Traversal
-- [2085185](reports/2023/2085185.md) IDOR in upload videos of a Channel on https://video.ibm.com — ibm — critical —  — Insecure Direct Object Reference (IDOR)
-- [2192984](reports/2023/2192984.md) Unauthenticated Remote Access to Testing Endpoint — ibm — critical —  — Improper Access Control - Generic
-- [1933304](reports/2024/1933304.md) IBM Maximo Asset Management could allow a remote attacker to bypass authentication due to improper access controls — ibm — medium —  — Improper Access Control - Generic
-- [2139047](reports/2024/2139047.md) Jenkins server access due to weak password — ibm — high —  — Improper Authentication - Generic
-- [2292236](reports/2024/2292236.md) Improper Authentication on Alertmanager instance — ibm — medium —  — Improper Authentication - Generic
-- [2338285](reports/2024/2338285.md) XSS Refelected on jazz.net — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
-- [2090964](reports/2024/2090964.md) RXSS in hidden parameter — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
-- [2456603](reports/2024/2456603.md) Insecure Direct Object Reference Protection bypass by changing HTTP method in IBM Your Learning endpoint.  — ibm — critical —  — Insecure Direct Object Reference (IDOR)
-- [2308491](reports/2024/2308491.md) XSS in Aspera documentation website — ibm — medium —  — Cross-site Scripting (XSS) - DOM
-- [2498255](reports/2024/2498255.md) S3 Bucket Takeover on apptio endpoint — ibm — medium —  — Improper Access Control - Generic
-- [2343548](reports/2024/2343548.md) XSS in IBM InfoCenter — ibm — medium —  — Cross-site Scripting (XSS) - DOM
-- [2398335](reports/2024/2398335.md) jazz.net - publicly accessible .svn repositories — ibm — - —  — LLM06: Sensitive Information Disclosure
-- [2697601](reports/2024/2697601.md) SSRF and secret key disclosure found on Turbonomic endpoint — ibm — high —  — Server-Side Request Forgery (SSRF)
-- [2697592](reports/2024/2697592.md) SSRF and secret key disclosure found on Turbonomic endpoint — ibm — high —  — Server-Side Request Forgery (SSRF)
-- [2501986](reports/2024/2501986.md) IBM OpenPages vulnerable to exposure of sensitive information — ibm — medium —  — Improper Authentication - Generic
-- [2696271](reports/2024/2696271.md) SSRF via host header let access localhost via https://go.dialexa.com — ibm — medium —  — 
-- [2844797](reports/2024/2844797.md) Exposed Logs and Bearer Tokens on Test Endpoint — ibm — - —  — Information Disclosure
-- [2899380](reports/2025/2899380.md) POST based Cross-Site Scripting on IBM research endpoint — ibm — medium —  — Cross-site Scripting (XSS) - Reflected
-- [2919623](reports/2025/2919623.md) There is a POST based CSRF issue over IBM endpoint leading to modification of contact information.  — ibm — medium —  — Cross-Site Request Forgery (CSRF)
-- [2954547](reports/2025/2954547.md) Weak credentials found in Jenkins endpoint — ibm — critical —  — 
-- [3051155](reports/2025/3051155.md) Information disclosure on IBM training service endpoint — ibm — - —  — Insecure Direct Object Reference (IDOR)
-- [3088290](reports/2025/3088290.md) Middleware Authentication Bypass on IBM Portal — ibm — critical —  — Command Injection - Generic
-- [3060373](reports/2025/3060373.md) Path Traversal Vulnerability found on IBM Cloud — ibm — critical —  — Path Traversal
-- [2402842](reports/2025/2402842.md) Information disclosure identified on IBM endpoint.  — ibm — medium —  — Information Disclosure
-- [3458235](reports/2025/3458235.md) [RCE] Remote Code Execution via  React Server Components Vulnerability CVE-2025-55182 — ibm — critical —  — Code Injection
-- [3463045](reports/2025/3463045.md) Remote Code Execution identified on IBM endpoint. — ibm — critical —  — 
-- [2830573](reports/2026/2830573.md) SQL injection identified on IBM endpoint.  — ibm — critical —  — SQL Injection
-- [3432159](reports/2026/3432159.md) Path Traversal vulnerability identified on IBM endpoint.  — ibm — high —  — 
-- [3578842](reports/2026/3578842.md) SQL Injection vulnerability found on ibm.com endpoint — ibm — critical —  — SQL Injection
-- [3592387](reports/2026/3592387.md) Potential Subdomain Takeover on IBM.com domain. — ibm — high —  — Improper Access Control - Generic
-- [3340797](reports/2026/3340797.md) IBM Aspera HTTP Gateway stores sensitive information in clear text in easily obtainable files which can be read by an unauthenticated user. — ibm — high —  — Information Disclosure
-- [3664261](reports/2026/3664261.md) Reflected Cross-Site Scripting (XSS) found on IBM.com domain — ibm — - —  — Cross-site Scripting (XSS) - Reflected
-- [3909372](reports/2026/3909372.md) Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint — ibm — - —  — Improper Access Control - Generic
-- [3662095](reports/2026/3662095.md) SQL Injection found on ibm.com subdomain — ibm — critical —  — SQL Injection
-- [3730301](reports/2026/3730301.md) SQL Injection vulnerability found on IBM.com subdomain — ibm — - —  — SQL Injection
-- [4152726](reports/2026/4152726.md) Blind SQL Injection — IBM Training Course Search API — ibm — critical —  — SQL Injection
-- [4180338](reports/2026/4180338.md) Unauthenticated API Writes  to Full IBM Software Access — ibm — critical —  — Improper Authentication - Generic
 
 ## chaturbate (52)
 
@@ -11469,6 +11473,30 @@
 - [246055](reports/2017/246055.md) Public calendar link can be invisible — mixmax — low —  — Information Disclosure
 - [262262](reports/2017/262262.md) app.mixmax.com Information Discloure on cal.mixmax.com and Not Signing out after Removing information grant access from Google — mixmax — medium —  — 
 
+## essity (21)
+
+- [3589269](reports/2026/3589269.md) HTTP Request Smuggling — essity — critical —  — HTTP Request Smuggling
+- [3726887](reports/2026/3726887.md) Privilege-relevant fields are clientModify in SAP CDC schema allowing role escalation to Admin — essity — critical —  — Improper Privilege Management
+- [3737516](reports/2026/3737516.md) Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Records) on ████████ — essity — medium —  — Authentication Bypass by Primary Weakness
+- [3584078](reports/2026/3584078.md) ████████ ████████ Server Full Exposure with Database Credentials — essity — critical —  — Information Exposure Through Directory Listing
+- [3793533](reports/2026/3793533.md)  Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ — essity — high —  — Cross-site Scripting (XSS) - Reflected
+- [3765476](reports/2026/3765476.md) Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ████████ — essity — high —  — Missing Authentication for Critical Function
+- [3830771](reports/2026/3830771.md) Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` parameter — essity — high —  — Cross-site Scripting (XSS) - Reflected
+- [3809973](reports/2026/3809973.md) Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) — essity — critical —  — SQL Injection
+- [3839889](reports/2026/3839889.md) 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory — essity — medium —  — Incorrect Permission Assignment for Critical Resource
+- [3839914](reports/2026/3839914.md) Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins — essity — medium —  — Missing Authorization
+- [3873072](reports/2026/3873072.md) Unauthenticated SQL Injection via REST Batch Route Confusion ████████ — essity — critical —  — SQL Injection
+- [3781785](reports/2026/3781785.md) Reflected HTML Injection in ████████ Login Page via infotext/signintext Parameters — essity — high —  — Improper Input Validation
+- [3778282](reports/2026/3778282.md) Critical SQL Injection WDM API (████████) — essity — critical —  — SQL Injection
+- [3729501](reports/2026/3729501.md) Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCHA bypass + no rate limit) — essity — critical —  — Cross-site Scripting (XSS) - Stored
+- [4020767](reports/2026/4020767.md) Unauthenticated API allows reading, writing to and deleting any user's private chat history on ████████ — essity — critical —  — Misconfiguration
+- [3802451](reports/2026/3802451.md) HTML Injection in Contact Form Email Enables Phishing via Legitimate ████████ Infrastructure — essity — medium —  — Improper Output Neutralization for Logs
+- [4071064](reports/2026/4071064.md) Unauthenticated self-registration on ████████ grants full access to internal supplier procurement portal and vendor data — essity — medium —  — Missing Authentication for Critical Function
+- [3840113](reports/2026/3840113.md) Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████████ — essity — critical —  — Information Disclosure
+- [4191812](reports/2026/4191812.md) Unauthenticated arbitrary local file read via ABCpdf on www.████████ — essity — high —  — Path Traversal
+- [4191937](reports/2026/4191937.md) IDOR: private ████████ post comments can be read and written by any authenticated user — essity — high —  — Insecure Direct Object Reference (IDOR)
+- [3966705](reports/2026/3966705.md) Default OAuth2 Credentials on SAP Commerce Cloud — Admin Token via Published Sample Secret (CVE-2026-44761) — essity — medium —  — Use of Hard-coded Credentials
+
 ## factlink (20)
 
 - [1409](reports/2014/1409.md) Proxy discloses internal web servers — factlink — - —  — Information Disclosure
@@ -11583,29 +11611,6 @@
 - [1502099](reports/2023/1502099.md) Reflected XSS in OAuth complete endpoints — mattermost — low — $150 — Cross-site Scripting (XSS) - Reflected
 - [1851818](reports/2024/1851818.md) Member role which doesn't have permission to send message can send by executing channel commands — mattermost — medium —  — Improper Access Control - Generic
 - [2541027](reports/2024/2541027.md) Posts sent via websockets aren't sanitized properly — mattermost — low — $150 — Improper Input Validation
-
-## essity (20)
-
-- [3589269](reports/2026/3589269.md) HTTP Request Smuggling — essity — critical —  — HTTP Request Smuggling
-- [3726887](reports/2026/3726887.md) Privilege-relevant fields are clientModify in SAP CDC schema allowing role escalation to Admin — essity — critical —  — Improper Privilege Management
-- [3737516](reports/2026/3737516.md) Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Records) on ████████ — essity — medium —  — Authentication Bypass by Primary Weakness
-- [3584078](reports/2026/3584078.md) ████████ ████████ Server Full Exposure with Database Credentials — essity — critical —  — Information Exposure Through Directory Listing
-- [3793533](reports/2026/3793533.md)  Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ — essity — high —  — Cross-site Scripting (XSS) - Reflected
-- [3765476](reports/2026/3765476.md) Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ████████ — essity — high —  — Missing Authentication for Critical Function
-- [3830771](reports/2026/3830771.md) Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` parameter — essity — high —  — Cross-site Scripting (XSS) - Reflected
-- [3809973](reports/2026/3809973.md) Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) — essity — critical —  — SQL Injection
-- [3839889](reports/2026/3839889.md) 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory — essity — medium —  — Incorrect Permission Assignment for Critical Resource
-- [3839914](reports/2026/3839914.md) Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins — essity — medium —  — Missing Authorization
-- [3873072](reports/2026/3873072.md) Unauthenticated SQL Injection via REST Batch Route Confusion ████████ — essity — critical —  — SQL Injection
-- [3781785](reports/2026/3781785.md) Reflected HTML Injection in ████████ Login Page via infotext/signintext Parameters — essity — high —  — Improper Input Validation
-- [3778282](reports/2026/3778282.md) Critical SQL Injection WDM API (████████) — essity — critical —  — SQL Injection
-- [3729501](reports/2026/3729501.md) Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCHA bypass + no rate limit) — essity — critical —  — Cross-site Scripting (XSS) - Stored
-- [4020767](reports/2026/4020767.md) Unauthenticated API allows reading, writing to and deleting any user's private chat history on ████████ — essity — critical —  — Misconfiguration
-- [3802451](reports/2026/3802451.md) HTML Injection in Contact Form Email Enables Phishing via Legitimate ████████ Infrastructure — essity — medium —  — Improper Output Neutralization for Logs
-- [4071064](reports/2026/4071064.md) Unauthenticated self-registration on ████████ grants full access to internal supplier procurement portal and vendor data — essity — medium —  — Missing Authentication for Critical Function
-- [3840113](reports/2026/3840113.md) Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████████ — essity — critical —  — Information Disclosure
-- [4191812](reports/2026/4191812.md) Unauthenticated arbitrary local file read via ABCpdf on www.████████ — essity — high —  — Path Traversal
-- [4191937](reports/2026/4191937.md) IDOR: private ████████ post comments can be read and written by any authenticated user — essity — high —  — Insecure Direct Object Reference (IDOR)
 
 ## drchrono (19)
 

@@ -1,11 +1,67 @@
 # @kobigurk — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 140
-- Conversations/threads: 122
+- Posts in this file: 142
+- Conversations/threads: 124
 - Oldest post captured: 2014-01-16
-- Newest post captured: 2026-11-23
+- Newest post captured: 2026-11-25
+
+
+---
+
+## 2026-11-25 · Post · "9/4," said Deep Thought, with infinite majesty and calm
+
+
+### Post — @kobigurk — 2026-11-25 02:15 UTC (2026-11-25 03:15 WAT)
+
+- URL: https://x.com/kobigurk/status/2125413142133891456
+- Metrics (at fetch): bookmark 0, impression 352, like 4, quote 0, reply 0, retweet 0
+
+> "9/4," said Deep Thought, with infinite majesty and calm
+>
+> (h/t https://t.co/lexpy1UNAT)
+
+
+---
+
+## 2026-11-24 · Reply · @GadiAleks אם תרצה להסביר על הוכחות של חתימות דיגיטליות 🙂 https://t.co/OIpYsUuI93
+
+
+**Context — post being replied to:**
+
+#### Parent post — @916316755659763712 — 2026-11-24 18:45 UTC (2026-11-24 19:45 WAT)
+
+- URL: https://x.com/916316755659763712/status/2125299664849453560
+- Metrics (at fetch): bookmark 6, impression 4705, like 43, quote 0, reply 20, retweet 0
+
+> ביקשו ממני איזה משחקון שקשור לקריפטוגרפיה שאפשר לעשות עם כיתת תיכון בחמש  דקות.
+>
+> יש לי משהו, אבל אני לא מרוצה ממנו. אמרתי - נשב, נחשוב, נתייעץ עם AI, נמצא משהו.
+>
+> ואין. לי. כלום.
+
+
+### Post — @kobigurk — 2026-11-24 18:52 UTC (2026-11-24 19:52 WAT)
+
+- URL: https://x.com/kobigurk/status/2125301461232021939
+- Metrics (at fetch): bookmark 0, impression 332, like 1, quote 0, reply 0, retweet 0
+
+> @GadiAleks אם תרצה להסביר על הוכחות של חתימות דיגיטליות 🙂 https://t.co/OIpYsUuI93
+
+**Quoted post (full text):**
+
+    #### Quoted post — @kobigurk — 2026-09-21 15:04 UTC (2026-09-21 16:04 WAT)
+    
+    - URL: https://x.com/kobigurk/status/2102051279409230321
+    - Metrics (at fetch): bookmark 65, impression 5577, like 109, quote 1, reply 7, retweet 15
+    
+    > Cryptographic security games as... real games?
+    >
+    > Learn about security proofs for BLS signatures in the algebraic group model and co-CDH, and OOPS and Proximity signatures in AGM
+    >
+    > Embark on a quest to restore the grove by playing Rowan the reduction, and collaborate with Cerulea
+    
 
 
 ---

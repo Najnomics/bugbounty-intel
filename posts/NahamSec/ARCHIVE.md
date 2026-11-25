@@ -1,11 +1,56 @@
 # @NahamSec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-24 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1212
-- Conversations/threads: 1026
+- Posts in this file: 1214
+- Conversations/threads: 1028
 - Oldest post captured: 2016-09-01
 - Newest post captured: 2026-11-24
+
+
+---
+
+## 2026-11-24 · Post · 🚨 Black Friday starts now: get 60% off sitewide at @hackinghub_io.
+
+
+### Post — @NahamSec — 2026-11-24 17:33 UTC (2026-11-24 18:33 WAT)
+
+- URL: https://x.com/NahamSec/status/2125281696035836309
+- Metrics (at fetch): bookmark 20, impression 6286, like 97, quote 3, reply 47, retweet 52
+
+> 🚨 Black Friday starts now: get 60% off sitewide at @hackinghub_io.
+>
+> Get All Access for just $199 (normally $500), including our bundles.
+>
+> I’m also giving away one license every day through Black Friday.
+>
+> To enter:
+> 1. Repost this post
+> 2. Comment below
+>
+> Good luck. https://t.co/ejLduM6CaI
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX6DuSoaoAANTjz.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HX6D_ZabEAAc2gJ.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-24 · Post · I found a missing person using OSINT (@tryhackme) 
+
+
+### Post — @NahamSec — 2026-11-24 16:06 UTC (2026-11-24 17:06 WAT)
+
+- URL: https://x.com/NahamSec/status/2125259885915087314
+- Metrics (at fetch): bookmark 23, impression 4875, like 56, quote 0, reply 3, retweet 1
+
+> I found a missing person using OSINT (@tryhackme) 
+>
+> https://t.co/btO1BjWkhr https://t.co/dpWOFRmciq
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX5wmkFaAAAO278.jpg — no alt text provided by author
 
 
 ---
