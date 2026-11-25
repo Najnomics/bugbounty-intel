@@ -2,7 +2,7 @@
 
 _Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 254
+- Posts in this file: 255
 - Conversations/threads: 197
 - Oldest post captured: 2023-12-17
 - Newest post captured: 2026-11-25
@@ -10,23 +10,100 @@ _Generated 2026-11-25 from the X API (full-archive search + timeline). Every pos
 
 ---
 
-## 2026-11-25 · Reply · @jgconnelly Managing to go down when all AI stocks went up. 
+## 2026-11-25 · Post · You only need the various verifiers to each have one bug.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @1474782657154150403 — 2026-11-24 23:44 UTC (2026-11-25 00:44 WAT)
+
+- URL: https://x.com/1474782657154150403/status/2125374910189256906
+- Metrics (at fetch): not returned
+
+> More commentary on RH and formal proofs:
+>
+> Human peer review is not the standard for a correct proof. 150 years ago mathematicians got serious about the foundations of math, and worked very hard to pin down EXACTLY what constitutes a valid proof. They wanted it to be so unambiguous that you could mechanically check a proof, no room for subjectivity, no room for argument.
+>
+> They succeeded.
+>
+> The result was formal symbolic logic, a.k.a. mathematical logic. The whole point of a logical system and its proof theory is that there exists an algorithm that can check that a proof is valid and proves what it purports to prove. We've had such algorithms for over a century.
+>
+> Yes, we've had proof-checking algorithms longer than we've had computers to run them on.
+>
+> The peer reviewed, human-written manuscripts some critics of the RH proof are claiming are the standard for mathematical proof... they aren't real proofs. They are only proof sketches. They are missing a lot of details that a formal proof is REQUIRED to fill in, or it won't pass the proof checker. Because a formal proof has to be a *real* proof, dotting every i, crossing every t, satisfying the very stringent and rigorous requirements of formal logic.
+>
+> And keep in mind that the peer review process is very fallible -- humans themselves are buggy validators. It is common for proofs to have errors that are not found for months or years.
+>
+> Contrary to what Nielsen and others have asserted, you cannot "trick" a proof-checking algorithms with a few lines of code introducing an incorrect definition or sneaking in some hidden assumption. Even a moment's thought reveals that that notion is absurd. There would be no point in even creating proof checkers if that were the case. Mathematicians put years of effort over more than a century into ensuring that that is not the case.
+>
+> The one possible doubt for a Lean-verified formal proof is whether the algorithm was correctly implemented, whether the proof somehow exploited some kernel bug. This is addressed in two ways:
+>
+> 1. The Lean kernel is very small, making it easier to analyze and verify. Bugs in the rest of the system can cause various problems, but the one thing they CAN'T do is allow a false theorem to pass the proof checker. Only a kernel bug can do that. The kernel gets a LOT of attention.
+>
+> 2. There are various independent implementations of the Lean kernel, and important results are run against ALL of these. This was done with the RH proof, and it passed all of them. So to believe the proof is wrong, you have to believe that every one of these independent implementations just happens to have its own idiosyncratic bug that allows the same wrong proof to slip past. 
+>
+> All of this, need I say, is a far, far more thorough level of review, far more detailed checking, than happens with any human manuscript.
+
+
+### Post — @lonelysloth_sec — 2026-11-25 07:00 UTC (2026-11-25 08:00 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125484795622985959
+- Metrics (at fetch): not returned
+
+> You only need the various verifiers to each have one bug.
+>
+> 17M lines is enough to contain one exploit for each.
+>
+> You dont need the same part of the proof to trigger a bug everywhere.
+>
+> Something similar happened not long ago.
+>
+> How likely it is is open to discussion.
+>
+> Simply dismissing the possibility is absurd.
+>
+> Anyway there’s absolutely no need to rush the evaluation and acceptance of it.
+>
+> Nothing really changes anywhere in the real world whether the proof is valid or not.
+
+
+---
+
+## 2026-11-24 · Thread · Update. Anthropic keeps delivering impressive results in the stock market.
 
 
 Tags (automatic): AI-assisted hunting
 
 
-**Context — post being replied to:**
+### Post — @lonelysloth_sec — 2026-11-24 19:26 UTC (2026-11-24 20:26 WAT)
 
-#### Parent post — @187051355 — 2026-11-25 05:02 UTC (2026-11-25 06:02 WAT)
+- URL: https://x.com/lonelysloth_sec/status/2125310139649728813
+- Metrics (at fetch): bookmark 19, impression 16934, like 94, quote 0, reply 10, retweet 4
 
-- URL: https://x.com/187051355/status/2125455086629572885
-- Metrics (at fetch): bookmark 0, impression 22, like 0, quote 0, reply 1, retweet 0
+> Update. Anthropic keeps delivering impressive results in the stock market.
+>
+> What if their plan was always:
+>
+> 1. Be a lab just good enough to IPO before OAI.
+>
+> 2. Ruin the market for an OAI IPO, forcing OAI bankrupt.
+>
+> 3. Get open source and various other competitors outlawed.
+>
+> 4. https://t.co/F4o9V8TRNr
 
-> @lonelysloth_sec Where are these impressive stock market results of which you speak?
+**Quoted post (full text):**
+
+    #### Quoted post — @lonelysloth_sec — 2026-11-23 15:39 UTC (2026-11-23 16:39 WAT)
+    
+    - URL: https://x.com/lonelysloth_sec/status/2124890548255465612
+    - Metrics (at fetch): bookmark 0, impression 808, like 13, quote 0, reply 1, retweet 0
+    
+    > It’s very impressive that Anthropic is managing to be down today.
+    
 
 
-### Post — @lonelysloth_sec — 2026-11-25 05:37 UTC (2026-11-25 06:37 WAT)
+### Thread part 2 — @lonelysloth_sec — 2026-11-25 05:37 UTC (2026-11-25 06:37 WAT)
 
 - URL: https://x.com/lonelysloth_sec/status/2125463951014310118
 - Metrics (at fetch): bookmark 0, impression 10, like 0, quote 0, reply 0, retweet 0
@@ -440,39 +517,6 @@ Tags (automatic): Memory corruption / native
     
     **Media:**
     - media `3_2125283367708962816` (details not returned by the API)
-    
-
-
----
-
-## 2026-11-24 · Post · Update. Anthropic keeps delivering impressive results in the stock market.
-
-
-### Post — @lonelysloth_sec — 2026-11-24 19:26 UTC (2026-11-24 20:26 WAT)
-
-- URL: https://x.com/lonelysloth_sec/status/2125310139649728813
-- Metrics (at fetch): bookmark 19, impression 16934, like 94, quote 0, reply 10, retweet 4
-
-> Update. Anthropic keeps delivering impressive results in the stock market.
->
-> What if their plan was always:
->
-> 1. Be a lab just good enough to IPO before OAI.
->
-> 2. Ruin the market for an OAI IPO, forcing OAI bankrupt.
->
-> 3. Get open source and various other competitors outlawed.
->
-> 4. https://t.co/F4o9V8TRNr
-
-**Quoted post (full text):**
-
-    #### Quoted post — @lonelysloth_sec — 2026-11-23 15:39 UTC (2026-11-23 16:39 WAT)
-    
-    - URL: https://x.com/lonelysloth_sec/status/2124890548255465612
-    - Metrics (at fetch): bookmark 0, impression 808, like 13, quote 0, reply 1, retweet 0
-    
-    > It’s very impressive that Anthropic is managing to be down today.
     
 
 
@@ -3913,7 +3957,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2026-04-15 21:43 UTC (2026-04-15 22:43 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2044532192421023844
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 749, impression 157804, like 1054, quote 11, reply 22, retweet 171
     
     > I pointed claude opus at chrome and told it to build a full v8 exploit for discord.
     >

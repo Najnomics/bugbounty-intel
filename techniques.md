@@ -2,7 +2,7 @@
 
 High-level methodology, recon tips, and bug patterns pulled from the public sources in this repo. Each item is linked to its source. This is a workflow aid, not an exploit guide: reproduction steps and payloads stay in the original writeups.
 
-Last updated: 24 November 2026 (Africa/Lagos).
+Last updated: 25 November 2026 (Africa/Lagos).
 
 ---
 
@@ -13,6 +13,10 @@ Last updated: 24 November 2026 (Africa/Lagos).
 **Widget iframe postMessage without origin check → stored XSS → session token.** Allowlist enforced at page load but not in the message handler (H1/Bugcrowd-style $2,000). Harness: enumerate message listeners of every embedded widget, test from a foreign origin.
 
 **Deprecated lending market still on shared pool (Kava/HARD Lend 53.9M KAVA).** Include sunset assets/markets in every lending-protocol review and fork-test borrow/liquidate loops on them.
+
+**Single-verifier cross-chain route (Cyber/LayerZero DVN, 5.213M unbacked mint).** Audit every OApp pathway's required-DVN count; 1 DVN or a protocol-controlled DVN is a forged-message mint risk. Spec #4 in `harness/bug-classes/2026-11-25-*.md`.
+
+**AI harness evidence (BB Arena Warlock Max; Sentinel lessons).** Scaffolding on a base model did not beat the stock model (10 vs 12 labs, 3x cost); agents score 0/10 on auth/session, code-exec, business-logic/race and AI-agent labs; ATO has the highest public median payout ($3k). Specs #5.
 
 **HackerOne additions:** DNS rebinding → unauthorized MCP tool access ([#3883702](hackerone/reports/2026/3883702.md)); Python sandbox escape in AWS MCP server `run_script` ([#3891423](hackerone/reports/2026/3891423.md)); SAP Commerce Cloud default OAuth2 sample secret → admin token ([#3966705](hackerone/reports/2026/3966705.md)); Weblate removed owner regains ownership via GET ([#4118627](hackerone/reports/2026/4118627.md)); access tokens in IBM server logs ([#4172841](hackerone/reports/2026/4172841.md)).
 

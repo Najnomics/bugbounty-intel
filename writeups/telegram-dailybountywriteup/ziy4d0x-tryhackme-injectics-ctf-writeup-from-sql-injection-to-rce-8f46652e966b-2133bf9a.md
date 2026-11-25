@@ -1,24 +1,20 @@
 # TryHackMe Injectics CTF Writeup
 
 - **Source URL:** https://medium.com/@ziy4d0x/tryhackme-injectics-ctf-writeup-from-sql-injection-to-rce-8f46652e966b
-- **Fetched from:** https://medium.com/feed/@ziy4d0x
-- **Fetched:** 2026-11-16
+- **Fetched from:** https://medium.com/@ziy4d0x/tryhackme-injectics-ctf-writeup-from-sql-injection-to-rce-8f46652e966b?source=rss-f7d2af74f7e8------2
+- **Fetched:** 2026-11-25
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 14905)
-- **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
+- **Method:** medium-rss-feed (full content:encoded) readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
 
 ---
-### TryHackMe Injectics: From SQLi to RCE
-
-### Introduction
+- **Author/Published (RSS):** Ziyad Walid [ziy4d0x] / Wed, 09 Sep 2026 22:02:36 GMT
 
 *In this write-up, I will walk through my approach to solving the Injectics CTF on TryHackMe \[*[https://tryhackme.com/room/injectics](https://tryhackme.com/room/injectics)*\].*
 
 *I’ll cover the reconnaissance process, vulnerability discovery, exploitation, and how the vulnerabilities can be chained together to achieve command execution.*
 
 🎯The goal is to retrieve the admin flag and discover the hidden text file inside the flags directory.
-
-### Stage 1: Reconnaissance
 
 Let’s start with an Nmap Scan:
 
@@ -33,8 +29,6 @@ gobuster dir -u http://\<target IP> -w \<wordlist> -x php,json,html,txt
 This reveals that a flags folder exists for the 2nd flag, but when I try to open it
 
 Next, I went to the composer.json directory to see what versions of libraries are allowed.
-
-### Stage 2: Web Enumeration
 
 Since HTTP is available on the target, I opened Firefox and navigated to http://\<Target-IP>. The web application loaded successfully, displaying the default webpage.
 
@@ -97,15 +91,11 @@ If the input passes the filter, the username and password are sent to functions.
 
 *💡* ***Hint:*** *The filter runs* ***client-side****, so inspect how script.js checks and blocks SQL-related keywords before the request reaches the server.*
 
-### Stage 3: SQL Injection Discovery & Exploitation
-
 To automate the SQL Injection discovery process, I used **SQLMap** against the captured login request.
 
 Then, I tried **MySQL-specific SQL Injection payloads** manually in the login form, but I couldn’t bypass it because of the **client-side JS filter**
 
 So, using Burp Suite, I intercepted a login request and sent it to Intruder to try multiple SQLi payloads from My SQL payloads wordlist to bypass &logging in.
-
-### Stage 4: Logging in as Superadmin & Retrieving the First Flag
 
 After bypassing the login filter and gaining access as a **developer-level user**, I investigated the available functionality. The **Edit** feature provided an opportunity to interact with the database, which I used to trigger the SQL Injection and delete the users table.
 
@@ -119,28 +109,18 @@ Once the users table was deleted, I waited for the Injectics service to restore 
 
 | dev@injectics.thm | devPasswd123 |
 
-### Stage 5: Discovering and Exploiting Twig SSTI
-
 **During enumeration, I inspected the application’s configuration and discovered it was using Twig 2.14.0.**
 
 While testing the **Update Profile** section, I then try the following payload **{{7\*’7’}}** to see if it is indeed susceptible to SSTI. If we get 49 as a result, then the webserver has a SSTI vulnerability.
-
-### Stage 6: SSTI to RCE & Gets Second Flag
 
 Next, I researched the **Twig 2.14.0** vulnerability and found that the sort filter is affected by [**CVE-2022-23614**](https://nvd.nist.gov/vuln/detail/cve-2022-23614).
 
 I tested the CVE payload:
 
 `{{ ['whoami',' ']|sort('passthru') }}`
-- \['whoami', ' '\] ⇒ provides the command string.
-- sort('passthru') ⇒ in the vulnerable Twig behavior, treats passthru as a PHP callable.
-- passthru ⇒ executes the supplied string as an OS command.
-
 So the chain is:
 
 **SSTI ⇒ vulnerable** ***sort* ⇒ PHP callable ⇒** ***passthru()* ⇒ OS command execution.**
-
-#### Getting the Second Flag
 
 First, I used ls to check the files in the current directory and understand the available paths.
 

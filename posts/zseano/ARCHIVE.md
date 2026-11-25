@@ -1055,7 +1055,7 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 > Interesting times ahead for the industry [pic.x.com/GnhcqFUypY]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HHvXxf3XIAAmSyU.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1066,7 +1066,7 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 ### Post — @zseano — 2026-04-26 22:16 UTC (2026-04-26 23:16 WAT)
 
 - URL: https://x.com/zseano/status/2048526729686241711
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 91, impression 14180, like 137, quote 0, reply 4, retweet 7
 
 > Worth a read! Very well written and some good points made.
 >
@@ -1081,7 +1081,7 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
     #### Quoted post — @37441489 — 2026-04-25 20:50 UTC (2026-04-25 21:50 WAT)
     
     - URL: https://x.com/37441489/status/2048142715783676398
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 83, impression 21189, like 103, quote 4, reply 5, retweet 15
     
     > Bug bounty programs are killing their own disclosure pipeline.
     > Real vuln on http://something.org.com → CNAMEs to a vendor → program closes as N/A → bug stays open → breach happens anyway.
@@ -1100,7 +1100,7 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 ### Post — @zseano — 2026-04-08 10:06 UTC (2026-04-08 11:06 WAT)
 
 - URL: https://x.com/zseano/status/2041819995814989903
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 65, impression 37642, like 383, quote 2, reply 73, retweet 15
 
 > Sooooo what’s everyone doing when bug bounties is dead? 😅
 
@@ -1113,7 +1113,7 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 ### Post — @zseano — 2026-04-05 19:07 UTC (2026-04-05 20:07 WAT)
 
 - URL: https://x.com/zseano/status/2040869010682560531
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 52, impression 23197, like 527, quote 2, reply 29, retweet 25
 
 > bug bounty programs don't care if you focus on them
 > bug bounty programs don't care if you stop focusing on them
@@ -1131,7 +1131,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @zseano — 2026-04-03 05:32 UTC (2026-04-03 06:32 WAT)
 
 - URL: https://x.com/zseano/status/2039939087017103699
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 43, impression 22544, like 150, quote 0, reply 4, retweet 5
 
 > All adobe hackerone submissions breached ? 😳 big if true.. https://twitter.com/IntCyberDigest/status/2039774692085526854
 
@@ -1142,7 +1142,7 @@ Tags (automatic): Platform: HackerOne
     #### Quoted post — @1831435289341894656 — 2026-04-02 18:39 UTC (2026-04-02 19:39 WAT)
     
     - URL: https://x.com/1831435289341894656/status/2039774692085526854
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 979, impression 503880, like 3652, quote 178, reply 128, retweet 833
     
     > 🚨‼️ BREAKING: Adobe has been breached by threat actor Mr. Raccoon, leaking 13 million support tickets with personal data, 15,000 employee records, all HackerOne submissions, internal documents and more.
     >
@@ -1167,7 +1167,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @zseano — 2026-03-27 21:58 UTC (2026-03-27 22:58 WAT)
 
 - URL: https://x.com/zseano/status/2037650383758151982
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 45, impression 19247, like 301, quote 0, reply 16, retweet 14
 
 > AI finds the bug
 > AI submits the report
@@ -1189,13 +1189,13 @@ Tags (automatic): Platform: HackerOne
 ### Post — @zseano — 2026-03-04 19:24 UTC (2026-03-04 20:24 WAT)
 
 - URL: https://x.com/zseano/status/2029276779601399926
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 15, impression 11803, like 165, quote 0, reply 4, retweet 3
 
 > lol just found an old email from 2015 where i recommended hackerone adds 2fa for researchers. it took them 10 years to make it mandatory [pic.x.com/yqsxC2liSF]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HClwM5oWMAEswOP.png — no alt text provided by author
-- photo: https://pbs.twimg.com/media/HClwZsKa8AAJqJv.png — no alt text provided by author
+- photo:  — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1352,7 +1352,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2025-12-17 · Post · HackerOne milestone program complete, level 10 achieved :D https://t.co/I5HCNTMpo2
+## 2025-12-17 · Post · HackerOne milestone program complete, level 10 achieved :D [pic.x.com/I5HCNTMpo2]
 
 
 Tags (automatic): Platform: HackerOne
@@ -1363,10 +1363,10 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/zseano/status/2001422509179064815
 - Metrics (at fetch): bookmark 9, impression 7771, like 193, quote 0, reply 9, retweet 2
 
-> HackerOne milestone program complete, level 10 achieved :D https://t.co/I5HCNTMpo2
+> HackerOne milestone program complete, level 10 achieved :D [pic.x.com/I5HCNTMpo2]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/G8Z7Ea1XMAA2sve.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1380,7 +1380,7 @@ Tags (automatic): XSS
 ### Post — @zseano — 2025-12-01 20:06 UTC (2025-12-01 21:06 WAT)
 
 - URL: https://x.com/zseano/status/1995585425856147840
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 258, impression 22221, like 428, quote 0, reply 6, retweet 50
 
 > akamai waf is SO fun to fuck with. managed to bypass it with this in a JSON request (which then saved my input and output it on another endpoint)
 >
@@ -1389,7 +1389,7 @@ Tags (automatic): XSS
 > using onpointerrawupdate=' got blocked by waf. but flipping it to " worked [pic.x.com/UH72fk1oL8]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/G7G-Hcja4AAj4zF.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -3524,7 +3524,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2021-03-04 · Post · Just add ?courseAdmin=true to become admin &amp; change your grades 🤦🏻‍♂️😩 https://t.co/rhAfEPfKkD
+## 2021-03-04 · Post · Just add ?courseAdmin=true to become admin &amp; change your grades 🤦🏻‍♂️😩 https://twitter.com/wbm31
 
 
 ### Post — @zseano — 2021-03-04 23:18 UTC (2021-03-05 00:18 WAT)
@@ -3532,7 +3532,9 @@ Tags (automatic): XSS
 - URL: https://x.com/zseano/status/1367615417389379586
 - Metrics (at fetch): bookmark 4, impression 0, like 46, quote 1, reply 4, retweet 6
 
-> Just add ?courseAdmin=true to become admin &amp; change your grades 🤦🏻‍♂️😩 https://t.co/rhAfEPfKkD
+> Just add ?courseAdmin=true to become admin &amp; change your grades 🤦🏻‍♂️😩 https://twitter.com/wbm312/status/1367592660253302785
+
+**Links in post:** https://twitter.com/wbm312/status/1367592660253302785
 
 **Quoted post** 1367592660253302785: not readable via the API (deleted, private, or withheld).
 

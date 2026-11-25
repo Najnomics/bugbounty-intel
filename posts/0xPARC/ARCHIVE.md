@@ -859,7 +859,7 @@ Tags (automatic): ZK
 ### Post — @0xPARC — 2022-05-12 23:38 UTC (2022-05-13 00:38 WAT)
 
 - URL: https://x.com/0xPARC/status/1524896844152594433
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 7, impression 0, like 36, quote 3, reply 1, retweet 10
 
 > 1/ [New Post] Ecne: Automated Verification of ZK Circuits
 >

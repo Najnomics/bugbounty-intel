@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **12992**
+Total distinct URLs: **13002**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -12998,3 +12998,13 @@ Total distinct URLs: **12992**
 | [14997](https://t.me/dailybountywriteup/14997) | 2026-11-23 10:34:40 | GhostTiles | https://medium.com/@ts247091/ghosttiles-how-a-stale-frame-id-turned-freerdps-progressive-codec-into-a-resource-amplifier-427e8091f9f3 |
 | [14997](https://t.me/dailybountywriteup/14997) | 2026-11-23 10:34:40 | Beginning in Bug Bounty | https://medium.com/@adityapagare051/beginning-in-bug-bounty-what-my-first-48-hours-taught-me-6a82f3c125bb |
 | [14997](https://t.me/dailybountywriteup/14997) | 2026-11-23 10:34:40 | P2 Server-Side Request Forgery (SSRF) Leading to Internal Network Resource Access | https://medium.com/@akashmotkar001/p2-server-side-request-forgery-ssrf-leading-to-internal-network-resource-access-7ab58789c6db |
+| [14998](https://t.me/dailybountywriteup/14998) | 2026-11-24 12:28:35 | Instagram Account Takeover | https://masimshahzad.medium.com/instagram-account-takeover-racing-the-6-digit-code-e34bcf8a1407 |
+| [14998](https://t.me/dailybountywriteup/14998) | 2026-11-24 12:28:35 | Shopify SSRF | https://masimshahzad.medium.com/shopify-ssrf-from-store-screenshot-to-root-access-96003965f49a |
+| [14998](https://t.me/dailybountywriteup/14998) | 2026-11-24 12:28:35 | Steam Access Control Bug | https://masimshahzad.medium.com/steam-access-control-bug-the-zero-that-leaked-keys-cc266dcff42b |
+| [14998](https://t.me/dailybountywriteup/14998) | 2026-11-24 12:28:35 | Improper signature verification in POST /custom_protocol allows arbitrary code execution | https://medium.com/@0xmust4fa/improper-signature-verification-in-post-custom-protocol-allows-arbitrary-code-execution-22fc88e51f85 |
+| [14998](https://t.me/dailybountywriteup/14998) | 2026-11-24 12:28:35 | New Zstandard Security Vulnerability CVE-2026-124851 Disclosed – Internal Memory Information… | https://medium.com/@asadmohsin760/new-zstandard-security-vulnerability-cve-2026-124851-disclosed-internal-memory-information-528ea9996921 |
+| [14998](https://t.me/dailybountywriteup/14998) | 2026-11-24 12:28:35 | CVE-2026–112362 | https://medium.com/@ajithprabhu15/cve-2026-112362-authentication-bypass-in-fastify-express-via-absolute-form-request-targets-47cc058774bd |
+| [14998](https://t.me/dailybountywriteup/14998) | 2026-11-24 12:28:35 | A real world bug bounty case study with identifying details anonymized | https://medium.com/@redhunter01/ive-rewritten-the-report-as-an-educational-case-study-with-the-program-name-real-domains-1679b2189500 |
+| [14998](https://t.me/dailybountywriteup/14998) | 2026-11-24 12:28:35 | CSRF vs. SSRF | https://medium.com/@munnaza.cyber/csrf-vs-ssrf-two-web-vulnerabilities-every-cybersecurity-learner-should-understand-80bfcf36b059 |
+| [14998](https://t.me/dailybountywriteup/14998) | 2026-11-24 12:28:35 | Breaking the Signature Boundary | https://bineshmadharapu.medium.com/breaking-the-signature-boundary-exploiting-a-signed-brainfuck-interpreter-in-intigritis-november-2da256cb6646 |
+| [14998](https://t.me/dailybountywriteup/14998) | 2026-11-24 12:28:35 | P2 Unrestricted File Upload Leading to Stored Cross-Site Scripting (XSS) | https://medium.com/@akashmotkar001/p2-unrestricted-file-upload-leading-to-stored-cross-site-scripting-xss-f3593e691060 |

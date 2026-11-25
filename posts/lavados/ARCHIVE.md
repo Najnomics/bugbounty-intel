@@ -2,8 +2,8 @@
 
 _Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 78
-- Conversations/threads: 69
+- Posts in this file: 90
+- Conversations/threads: 81
 - Oldest post captured: 2014-06-13
 - Newest post captured: 2026-05-14
 
@@ -516,6 +516,25 @@ Tags (automatic): Memory corruption / native
 
 ---
 
+## 2023-05-11 · Post · Here's the "Der 7. Sinn" Parody from our ruhrsec talk about the SQUIP side channel: https://youtu.b
+
+
+### Post — @lavados — 2023-05-11 14:21 UTC (2023-05-11 15:21 WAT)
+
+- URL: https://x.com/lavados/status/1656665809849298958
+- Metrics (at fetch): not returned
+
+> Here's the "Der 7. Sinn" Parody from our #ruhrsec talk about the SQUIP side channel: https://youtu.be/xGmdaVScTi4
+>
+> Here's our @IEEESSP paper on that topic: https://gruss.cc/files/squip.pdf
+>
+> cc @notbobbytables
+
+**Links in post:** https://youtu.be/xGmdaVScTi4, https://gruss.cc/files/squip.pdf
+
+
+---
+
 ## 2023-04-12 · Post · Starting into the final season of SideChannelSecurity we discuss Rowhammer: https://www.youtube.co
 
 
@@ -532,13 +551,105 @@ Tags (automatic): Memory corruption / native
 
 ---
 
+## 2022-12-20 · Post · In 4 hours we continue with sidechannelsecurity episode 4. We'll discuss branch predictors and side
+
+
+### Post — @lavados — 2022-12-20 14:48 UTC (2022-12-20 15:48 WAT)
+
+- URL: https://x.com/lavados/status/1605213495334690817
+- Metrics (at fetch): not returned
+
+> In 4 hours we continue with #sidechannelsecurity episode 4. We'll discuss branch predictors and side-channel attacks on them. And after the more crypto focused episodes our target will not be a crypto algorithm this time: https://youtu.be/SCpJ8rFHDW0 @tugraz_csbme @edXOnline @2Uinc
+
+**Links in post:** https://youtu.be/SCpJ8rFHDW0
+
+
+---
+
+## 2022-12-06 · Post · In 3 hours we continue with sidechannelsecurity episode 3, this time covering mitigations against p
+
+
+### Post — @lavados — 2022-12-06 15:50 UTC (2022-12-06 16:50 WAT)
+
+- URL: https://x.com/lavados/status/1600155650558160896
+- Metrics (at fetch): not returned
+
+> In 3 hours we continue with #sidechannelsecurity episode 3, this time covering mitigations against power side channel attacks: https://youtu.be/4jdYNO0jhSs @tugraz_csbme @edXOnline
+
+**Links in post:** https://youtu.be/4jdYNO0jhSs
+
+
+---
+
+## 2022-11-22 · Post · After the brief guest appearance of @misc0110 in Episode 3.5 on DRAM timing side-channel attacks, ht
+
+
+### Post — @lavados — 2022-11-22 16:51 UTC (2022-11-22 17:51 WAT)
+
+- URL: https://x.com/lavados/status/1595097580505112576
+- Metrics (at fetch): not returned
+
+> After the brief guest appearance of @misc0110 in Episode 3.5 on DRAM timing side-channel attacks, https://www.youtube.com/watch?v=3jnNthWZTiI, we have another guest appearance today in Episode 4.2 today by @tomcrypt.
+
+**Links in post:** https://www.youtube.com/watch?v=3jnNthWZTiI
+
+
+---
+
+## 2022-09-20 · Post · Attacking the kernel or other virtual machines with side channels? Today we figure out how that can 
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @lavados — 2022-09-20 18:07 UTC (2022-09-20 19:07 WAT)
+
+- URL: https://x.com/lavados/status/1572286258000596993
+- Metrics (at fetch): bookmark 8, impression 0, like 49, quote 0, reply 0, retweet 9
+
+> Attacking the kernel or other virtual machines with side channels? Today we figure out how that can be done! Of course, with a new side channel:
+> https://t.co/6rdwtnMgwY #OptimusPrime+Probe @edXOnline @tugraz_csbme #tugraz #SideChannelSecurity #PrimeProbe #infosec
+
+
+---
+
+## 2022-09-06 · Post · What happens if you measure the time on something you've never been supposed to measure? You find a 
+
+
+### Post — @lavados — 2022-09-06 17:58 UTC (2022-09-06 18:58 WAT)
+
+- URL: https://x.com/lavados/status/1567210769040789509
+- Metrics (at fetch): bookmark 3, impression 0, like 18, quote 0, reply 1, retweet 2
+
+> What happens if you measure the time on something you've never been supposed to measure? You find a new side channel:
+> https://t.co/MeqmFSVexr
+> #sidechannelsecurity @edXOnline @tugraz_csbme
+
+
+---
+
+## 2022-08-23 · Post · After covering side channel basics and Flush+Reload, today we start into season 3, with new characte
+
+
+### Post — @lavados — 2022-08-23 15:03 UTC (2022-08-23 16:03 WAT)
+
+- URL: https://x.com/lavados/status/1562093171320004608
+- Metrics (at fetch): bookmark 1, impression 0, like 15, quote 2, reply 1, retweet 2
+
+> After covering side channel basics and Flush+Reload, today we start into season 3, with new characters, tons of illustrations, going down the rabbit hole, learning about virtual+physical memory, and caches...
+> https://t.co/w3ZwN1ylaI
+> #sidechannelsecurity @tugraz_csbme @edXOnline
+
+
+---
+
 ## 2022-06-21 · Post · In today's episode, we start learning about caches and discover the Flush+Reload attack: https://www
 
 
 ### Post — @lavados — 2022-06-21 18:24 UTC (2022-06-21 19:24 WAT)
 
 - URL: https://x.com/lavados/status/1539313437347487744
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 0, like 12, quote 0, reply 0, retweet 2
 
 > In today's episode, we start learning about caches and discover the Flush+Reload attack: https://www.youtube.com/watch?v=76QOOGFuubE
 > #sidechannelsecurity @tugraz_csbme @edXOnline
@@ -554,7 +665,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @lavados — 2022-06-07 18:43 UTC (2022-06-07 19:43 WAT)
 
 - URL: https://x.com/lavados/status/1534244550893572096
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 0, like 11, quote 0, reply 1, retweet 1
 
 > And here's the #SideChannelSecurity Season 2 Episode 1 Premiere:
 > https://www.youtube.com/watch?v=V4E_0N_PvW8
@@ -571,7 +682,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @lavados — 2022-06-06 16:21 UTC (2022-06-06 17:21 WAT)
 
 - URL: https://x.com/lavados/status/1533846447073943555
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 0, like 8, quote 0, reply 0, retweet 0
 
 > Tomorrow there's the #SideChannelSecurity Season 2 Episode 1 Premiere.
 > The first episode will already take a big step forward from the last season and we will &lt;spoiler&gt;mount a remote timing attack together!&lt;/spoiler&gt;
@@ -579,6 +690,85 @@ Tags (automatic): Memory corruption / native
 > Check out the course on @edXOnline: https://www.edx.org/course/side-channel-security-season-2
 
 **Links in post:** https://www.edx.org/course/side-channel-security-season-2
+
+
+---
+
+## 2022-05-17 · Post · Season 1 Finale!
+
+
+### Post — @lavados — 2022-05-17 16:15 UTC (2022-05-17 17:15 WAT)
+
+- URL: https://x.com/lavados/status/1526597166252310528
+- Metrics (at fetch): bookmark 1, impression 0, like 15, quote 1, reply 0, retweet 4
+
+> Season 1 Finale!
+> Side-channel mitigations explained with real-world examples similar to their software- and hardware-level pendants.
+> https://t.co/2hvJXnGM7n
+> last high-level/mindset episode - next season: timing,caches&amp;crypto.
+> @tugraz_csbme @tugraz @edXOnline
+> #sidechannelsecurity
+
+
+---
+
+## 2022-05-03 · Post · Today we will cover my favorite side-channel game: Hanabi - lots of opportunities for legitimate and
+
+
+### Post — @lavados — 2022-05-03 17:13 UTC (2022-05-03 18:13 WAT)
+
+- URL: https://x.com/lavados/status/1521538413484290049
+- Metrics (at fetch): bookmark 0, impression 0, like 15, quote 0, reply 1, retweet 1
+
+> Today we will cover my favorite side-channel game: Hanabi - lots of opportunities for legitimate and illegitimate side-channel-based communication in there. 
+>
+> https://t.co/lgtobMsmlv @tugraz_csbme @edXOnline #sidechannelsecurity
+
+
+---
+
+## 2022-04-19 · Post · The third episode of our side channel security sitcom is here!
+
+
+### Post — @lavados — 2022-04-19 20:27 UTC (2022-04-19 21:27 WAT)
+
+- URL: https://x.com/lavados/status/1516513936501354497
+- Metrics (at fetch): bookmark 3, impression 0, like 25, quote 0, reply 1, retweet 6
+
+> The third episode of our side channel security sitcom is here!
+> While being more technical (talking about covert channels, communication, timing, and a horse 🐴) we keep our promise that you don't have to be able to code for season 1. https://t.co/ESEWzDW0tZ
+> @tugraz_csbme @tugraz
+
+
+---
+
+## 2022-04-05 · Post · The second episode of our side-channel security sitcom runs today (4 hours from now).
+
+
+### Post — @lavados — 2022-04-05 13:56 UTC (2022-04-05 14:56 WAT)
+
+- URL: https://x.com/lavados/status/1511342056840568839
+- Metrics (at fetch): bookmark 0, impression 0, like 19, quote 2, reply 0, retweet 5
+
+> The second episode of our side-channel security sitcom runs today (4 hours from now).
+> This time they try to solve the mystery of a top-secret lab @tugraz @tugraz_csbme (of course, with side channels 😉)
+> https://t.co/2pz1Ww10IH
+> #sidechannelsecurity @edXOnline
+
+
+---
+
+## 2022-03-22 · Post · The first episode of our side-channel security sitcom airs today (in 19 hours from now):
+
+
+### Post — @lavados — 2022-03-22 00:12 UTC (2022-03-22 01:12 WAT)
+
+- URL: https://x.com/lavados/status/1506061295862358023
+- Metrics (at fetch): bookmark 6, impression 0, like 41, quote 3, reply 2, retweet 10
+
+> The first episode of our side-channel security sitcom airs today (in 19 hours from now):
+> https://t.co/JwPfV22QRH
+> #sidechannelsecurity @tugraz @tugraz_csbme @edXOnline
 
 
 ---

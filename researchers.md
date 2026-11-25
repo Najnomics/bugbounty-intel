@@ -1,6 +1,6 @@
 # Researcher index
 
-Compiled 12 November 2026 (Africa/Lagos); last daily update applied 24 November 2026 (no new researchers added today; 12 watched accounts newly added to the backfill table, pass-7 cursor n7a for brutecat/PaulosYibelo/spaceraccoon). Handles link to X. "Evidence of consistency" is only what was found in public posts or official profiles during this pass. Follower counts and ranks change; treat them as a snapshot. Daily update 2026-11-17: added @pcaversaccio.
+Compiled 12 November 2026 (Africa/Lagos); last daily update applied 25 November 2026 (no new researchers added on 25 Nov; 24 Nov: 12 watched accounts newly added to the backfill table, pass-7 cursor n7a for brutecat/PaulosYibelo/spaceraccoon). Handles link to X. "Evidence of consistency" is only what was found in public posts or official profiles during this pass. Follower counts and ranks change; treat them as a snapshot. Daily update 2026-11-17: added @pcaversaccio.
 
 | Handle | Name (from profile) | Platforms | Focus | Evidence of consistency | Writeups / blogs |
 | --- | --- | --- | --- | --- | --- |

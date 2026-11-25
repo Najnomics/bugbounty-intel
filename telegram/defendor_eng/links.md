@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **516**
+Total distinct URLs: **517**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -522,3 +522,4 @@ Total distinct URLs: **516**
 | [2357](https://t.me/defendor_eng/2357) | 2026-11-17 20:26:46 | 🚨 Kava Confirms 53.9M KAVA Taken From HARD Lend | https://medium.com/@Kava_Chain/hard-lend-security-incident-579888f8dd73 |
 | [2377](https://t.me/defendor_eng/2377) | 2026-11-23 09:36:19 | 🚨 Fluidkey Incident Report: $1.6M Stolen via SigNoz Logs | https://docs.fluidkey.com/security/incident-2026-11-19 |
 | [2380](https://t.me/defendor_eng/2380) | 2026-11-23 20:27:51 | 💀 Rekt: Lighter's $10.39M Loss Traced to Reused Signing Value | https://rekt.news/lighter-rekt |
+| [2382](https://t.me/defendor_eng/2382) | 2026-11-24 11:58:09 | 🧰 How to Audit an AI-Assisted Codebase | https://blog.mysticmediasoft.com/how-to-audit-and-improve-an-ai-generated-codebase |

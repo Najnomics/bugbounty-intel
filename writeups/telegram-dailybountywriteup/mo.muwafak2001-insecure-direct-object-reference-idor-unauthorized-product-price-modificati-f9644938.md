@@ -1,13 +1,15 @@
 # Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification
 
 - **Source URL:** https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad
-- **Fetched from:** https://medium.com/feed/@mo.muwafak2001
-- **Fetched:** 2026-11-18
+- **Fetched from:** https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad?source=rss-56cc2a6e3fb3------2
+- **Fetched:** 2026-11-25
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 14953)
-- **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
+- **Method:** medium-rss-feed (full content:encoded) readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
 
 ---
+- **Author/Published (RSS):** MUWAFAK HELAL / Mon, 19 Oct 2026 19:03:08 GMT
+
 Hello fellow security researchers and bug bounty hunters!
 
 In this article, I am going to share my experience of finding an Insecure Direct Object Reference (IDOR) vulnerability in a global marketplace platform that allows users to buy and sell goods worldwide. The vulnerability enables an attacker to modify the price of any product on the platform, even products they do not own, by simply changing the product ID in a legitimate request.
@@ -28,20 +30,11 @@ When requesting information about any product (for example, viewing a product pa
 
 **Exploitation flow:**
 
-1. Browse or search for a target product.
-2. Capture the product information request and extract the product id from the response. (Test3)
-3. Replay the product update request, replacing the original id with the target product’s id and modifying the price.
-
 4\. The price of the target product is successfully updated.
 
 5\. The attacker can then purchase the product at the newly modified (lower) price.
 
 Impact :
-
-- Change the price of any product on the platform without authorization.
-- Lower the price of expensive items and purchase them at a fraction of the original cost.
-- Cause financial loss to legitimate sellers.
-- Disrupt the integrity of the marketplace pricing system.
 
 This is a clear Broken Access Control issue with direct financial impact.
 

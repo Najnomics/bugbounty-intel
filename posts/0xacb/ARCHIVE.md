@@ -4054,7 +4054,7 @@ Tags (automatic): RCE
     #### Quoted post — @samwcyo — 2019-12-21 18:57 UTC (2019-12-21 19:57 WAT)
     
     - URL: https://x.com/samwcyo/status/1208461516674084867
-    - Metrics (at fetch): bookmark 207, impression 0, like 1267, quote 23, reply 27, retweet 467
+    - Metrics (at fetch): bookmark 208, impression 0, like 1268, quote 23, reply 27, retweet 466
     
     > New writeup, one of my favorite bugs 🤠 -
     >
@@ -4066,7 +4066,7 @@ Tags (automatic): RCE
     > @d0nutptr @0xacb @Regala_ @JLLiS @Yassineaboukir @plmaltais [pic.x.com/RomLgdCcSC]
     
     **Media:**
-    - photo: https://pbs.twimg.com/media/EMVRV4jXkAAYtuN.jpg — no alt text provided by author
+    - photo:  — no alt text provided by author
     
     **Links in post:** https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/
     

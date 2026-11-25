@@ -2,8 +2,8 @@
 
 _Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 208
-- Conversations/threads: 192
+- Posts in this file: 210
+- Conversations/threads: 194
 - Oldest post captured: 2017-02-12
 - Newest post captured: 2026-11-24
 
@@ -1321,7 +1321,7 @@ Tags (automatic): Platform: HackerOne
 > Happy to have live hacking events again! First bounty paid at #H1303 in Denver. [pic.x.com/N3h0x0TQpE]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FTNz1KGXoAk4D90.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1395,8 +1395,8 @@ Tags (automatic): Smart contract / DeFi
 > This scam tweet has 16,000 replies, each from the original poster, all tagging the maximum number of people and coming from a verified account… and it still hasn’t been taken down yet. There’s also a bug (intentional or not) where I’m unable to reply. Moderation is hard I guess? [pic.x.com/M3hnqiZihd]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FPnpwLkXEAQ5T--.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/FPnpwLjWUAE_Upr.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1456,6 +1456,26 @@ Tags (automatic): Smart contract / DeFi
 > Really great attack surface basics post from @sshell_, looks to be the first of a series of future posts: https://www.sshell.co/attack-surface-basics/
 
 **Links in post:** https://www.sshell.co/attack-surface-basics/
+
+
+---
+
+## 2021-12-20 · Post · May have seen this same poll before but curious everyone's thoughts:
+
+
+Tags (automatic): IDOR / BOLA
+
+
+### Post — @samwcyo — 2021-12-20 21:38 UTC (2021-12-20 22:38 WAT)
+
+- URL: https://x.com/samwcyo/status/1473045147327860738
+- Metrics (at fetch): not returned
+
+> May have seen this same poll before but curious everyone's thoughts:
+>
+> Registration is enabled on a web app for anyone with a US phone number and email address. An IDOR has been found on the authenticated part of the portal.
+>
+> Is CVSS v3.1 "Privileges Required" none, low, or high?
 
 
 ---
@@ -1682,8 +1702,8 @@ Tags (automatic): XSS
 > Huge thanks to the amazing @IAmMandatory for maintaining @XssHunter for free. [pic.x.com/QwGwzFKbH1] https://twitter.com/samwcyo/status/1395483947501490179
 
 **Media:**
-- photo: https://pbs.twimg.com/media/E3OkGMvWQAMLxV8.png — no alt text provided by author
-- photo: https://pbs.twimg.com/media/E3OkIxDWYAAK717.png — no alt text provided by author
+- photo:  — no alt text provided by author
+- photo:  — no alt text provided by author
 
 **Links in post:** https://twitter.com/samwcyo/status/1395483947501490179
 
@@ -1722,15 +1742,20 @@ Tags (automatic): XSS
 ## 2021-05-16 · Post · Here is the initial release of the PoC for CVE-2021-27651:
 
 
+Tags (automatic): RCE
+
+
 ### Post — @samwcyo — 2021-05-16 02:00 UTC (2021-05-16 03:00 WAT)
 
 - URL: https://x.com/samwcyo/status/1393748081796059137
 - Metrics (at fetch): bookmark 56, impression 0, like 380, quote 2, reply 8, retweet 136
 
 > Here is the initial release of the PoC for CVE-2021-27651:
-> https://t.co/h0w16tMsLF
+> https://github.com/samwcyo/CVE-2021-27651-PoC/blob/main/RCE.md
 >
-> There were a few large organizations affected by this including the NSA, FBI, Unilever, Apple, American Express, and Wells Fargo. Probably somewhere around ~3,000 different customers. https://t.co/4icYgfqysp
+> There were a few large organizations affected by this including the NSA, FBI, Unilever, Apple, American Express, and Wells Fargo. Probably somewhere around ~3,000 different customers. https://twitter.com/DailySwig/status/1391771267091603457
+
+**Links in post:** https://github.com/samwcyo/CVE-2021-27651-PoC/blob/main/RCE.md, https://twitter.com/DailySwig/status/1391771267091603457
 
 **Quoted post (full text):**
 
@@ -1741,7 +1766,9 @@ Tags (automatic): XSS
     
     > Users of the Pega Infinity enterprise software platform are urged to update against a critical vulnerability (cc @samwcyo)
     >
-    > https://t.co/Sh3iW1BYAW
+    > https://portswigger.net/daily-swig/pega-infinity-hotfix-released-after-researchers-flag-critical-authentication-bypass-vulnerability
+    
+    **Links in post:** https://portswigger.net/daily-swig/pega-infinity-hotfix-released-after-researchers-flag-critical-authentication-bypass-vulnerability
     
 
 
@@ -1761,7 +1788,9 @@ Tags (automatic): Smart contract / DeFi
 > "...it’s impossible to secure a comprehensive and renowned audit in the time we have available. The DeFi world is moving so fast, we definitely can’t wait for a month before releasing if we want to survive..."
 > - posted after $1.5M hack
 >
-> Then today... hacked for $50M. Predictable? https://t.co/lSXMCoQYZj
+> Then today... hacked for $50M. Predictable? https://twitter.com/UraniumFinance/status/1387245696454041600
+
+**Links in post:** https://twitter.com/UraniumFinance/status/1387245696454041600
 
 **Quoted post (full text):**
 
@@ -1837,9 +1866,11 @@ Tags (automatic): RCE
 
 > Thank you all for the kind words on Twitch!
 >
-> Here are the slides for "Just Give me a Trial, Please" which we plan to update in the future: https://t.co/7bO2qId1f7
+> Here are the slides for "Just Give me a Trial, Please" which we plan to update in the future: https://samcurry.net/wp-content/uploads/2021/03/Just-give-me-a-trial-please.pdf
 >
 > Originally, we intended on disclosing a pre-auth RCE PoC but haven't hit a required 90-day timeline.
+
+**Links in post:** https://samcurry.net/wp-content/uploads/2021/03/Just-give-me-a-trial-please.pdf
 
 
 ---
@@ -1857,10 +1888,12 @@ Tags (automatic): XSS
 
 > Sadly the Canvas "?courseAdmin=true" bug is fake, but there used to be a pretty neat XSS (which was reported and fixed) where you could XSS pretty much every form (private messaging teachers, posts, etc.) via...
 >
-> &lt;embed allowscriptaccess="always" src="//yourdomain/malicious.swf"&gt; https://t.co/VLvYVsQupP https://t.co/U51G3GBBoR
+> &lt;embed allowscriptaccess="always" src="//yourdomain/malicious.swf"&gt; [pic.x.com/VLvYVsQupP] https://twitter.com/zseano/status/1367615417389379586
 
 **Media:**
-- photo: https://pbs.twimg.com/media/Evv8o_tXIAIXwy1.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
+
+**Links in post:** https://twitter.com/zseano/status/1367615417389379586
 
 **Quoted post (full text):**
 
@@ -1869,7 +1902,9 @@ Tags (automatic): XSS
     - URL: https://x.com/zseano/status/1367615417389379586
     - Metrics (at fetch): bookmark 4, impression 0, like 46, quote 1, reply 4, retweet 6
     
-    > Just add ?courseAdmin=true to become admin &amp; change your grades 🤦🏻‍♂️😩 https://t.co/rhAfEPfKkD
+    > Just add ?courseAdmin=true to become admin &amp; change your grades 🤦🏻‍♂️😩 https://twitter.com/wbm312/status/1367592660253302785
+    
+    **Links in post:** https://twitter.com/wbm312/status/1367592660253302785
     
     **Quoted post** 1367592660253302785: not readable via the API (deleted, private, or withheld).
     
@@ -1897,11 +1932,13 @@ Tags (automatic): XSS
 
 > New writeup:
 >
-> "Hacking https://t.co/yMjMNlk3ud and Accessing 50 Million Customer Records"
+> "Hacking http://Chess.com and Accessing 50 Million Customer Records"
 >
 > Huge thanks to @sshell_ and @xEHLE_!
 >
-> https://t.co/Rhphw3GDiQ
+> https://samcurry.net/hacking-chesscom/
+
+**Links in post:** http://Chess.com, https://samcurry.net/hacking-chesscom/
 
 
 ### Thread part 2 — @samwcyo — 2021-02-11 11:32 UTC (2021-02-11 12:32 WAT)
@@ -1967,11 +2004,11 @@ Tags (automatic): IDOR / BOLA
 
 > Pretty fun bug: app had a staging/production environment. They both shared the same secrets for managing JWTs. User information was indexed via user ID.
 >
-> If you sent the alternate services JWT, it'd log you in as whatever the indexed user ID was on the other version of the app. https://t.co/VcwzlLlJiY
+> If you sent the alternate services JWT, it'd log you in as whatever the indexed user ID was on the other version of the app. [pic.x.com/VcwzlLlJiY]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/EqV9tz2XYAIVlnA.png — no alt text provided by author
-- photo: https://pbs.twimg.com/media/EqV9uPXXMAA3uNH.png — no alt text provided by author
+- photo:  — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @samwcyo — 2020-12-28 19:03 UTC (2020-12-28 20:03 WAT)
@@ -2076,10 +2113,10 @@ Tags (automatic): SQL injection, Auth bypass
 - URL: https://x.com/samwcyo/status/1332763307665711105
 - Metrics (at fetch): bookmark 1, impression 0, like 62, quote 2, reply 2, retweet 1
 
-> Huge congrats to web_developer337 as the champion of the bounty plz chess arena! Following are palofpals with 2nd and Lucaman with 3rd. Thanks to everyone for participating and look forward to future events. https://t.co/lLpdE05vxI
+> Huge congrats to web_developer337 as the champion of the bounty plz chess arena! Following are palofpals with 2nd and Lucaman with 3rd. Thanks to everyone for participating and look forward to future events. [pic.x.com/lLpdE05vxI]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/En7sYpjWEAAEMfO.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -2114,7 +2151,7 @@ Tags (automatic): SQL injection, Auth bypass
     > All skill levels welcome (we suck). https://t.co/z7COmLbMzD
     
     **Media:**
-    - photo: https://pbs.twimg.com/media/Enef0xVXUAkHKnq.jpg — no alt text provided by author
+    - photo:  — no alt text provided by author
     
 
 
@@ -2158,7 +2195,7 @@ Tags (automatic): SQL injection, Auth bypass
 > All skill levels welcome (we suck). https://t.co/z7COmLbMzD
 
 **Media:**
-- photo: https://pbs.twimg.com/media/Enef0xVXUAkHKnq.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @samwcyo — 2020-11-23 03:10 UTC (2020-11-23 04:10 WAT)
@@ -2219,7 +2256,7 @@ Tags (automatic): SQL injection, Auth bypass
 ### Post — @samwcyo — 2020-10-08 11:22 UTC (2020-10-08 12:22 WAT)
 
 - URL: https://x.com/samwcyo/status/1314164287888412672
-- Metrics (at fetch): bookmark 541, impression 0, like 3208, quote 152, reply 64, retweet 1302
+- Metrics (at fetch): bookmark 542, impression 0, like 3208, quote 152, reply 64, retweet 1301
 
 > New writeup:
 >
@@ -2283,7 +2320,7 @@ Tags (automatic): XSS, Mobile / Android / iOS
 > Have been playing around with a blind XSS that fired on the default installed iOS settings app. Always weird seeing web stuff where you're not expecting it. 😬 [pic.x.com/QtISeT0sGd]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/Eemq9C_WsAEMWw3.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @samwcyo — 2020-08-04 21:16 UTC (2020-08-04 22:16 WAT)
@@ -2348,14 +2385,42 @@ Tags (automatic): XSS, Mobile / Android / iOS
 ### Post — @samwcyo — 2020-05-11 00:33 UTC (2020-05-11 01:33 WAT)
 
 - URL: https://x.com/samwcyo/status/1259642860544167937
-- Metrics (at fetch): bookmark 76, impression 0, like 442, quote 13, reply 22, retweet 103
+- Metrics (at fetch): bookmark 75, impression 0, like 441, quote 13, reply 22, retweet 103
 
 > Just some personal thoughts on why you shouldn't force yourself to become a bug bounty hunter -
 >
 > https://t.co/VzHkm0aJ1u https://t.co/EZrPf1q3WQ
 
 **Media:**
-- photo: https://pbs.twimg.com/media/EXsmev7XgAATV9a.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
+
+
+---
+
+## 2020-04-06 · Post · Had some recent success using untranslatable Unicode in place of a "?" when attacking URL parsers fo
+
+
+Tags (automatic): SSRF, OAuth
+
+
+### Post — @samwcyo — 2020-04-06 03:05 UTC (2020-04-06 04:05 WAT)
+
+- URL: https://x.com/samwcyo/status/1246997498981494784
+- Metrics (at fetch): bookmark 285, impression 0, like 726, quote 5, reply 5, retweet 217
+
+> Had some recent success using untranslatable Unicode in place of a "?" when attacking URL parsers for SSRF/OAuth issues.
+>
+> What worked was...
+> \udfff -&gt; � -&gt; ?
+>
+> Therefore...
+> {"redirectUri":"https://attacker\udfff@[victim]/"}
+>
+> Equals...
+> Location: https://attacker?@[victim]/ https://t.co/IDL41DJPKE
+
+**Media:**
+- photo:  — no alt text provided by author
 
 
 ---
@@ -2443,7 +2508,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @samwcyo — 2019-12-21 18:57 UTC (2019-12-21 19:57 WAT)
 
 - URL: https://x.com/samwcyo/status/1208461516674084867
-- Metrics (at fetch): bookmark 207, impression 0, like 1267, quote 23, reply 27, retweet 467
+- Metrics (at fetch): bookmark 208, impression 0, like 1268, quote 23, reply 27, retweet 466
 
 > New writeup, one of my favorite bugs 🤠 -
 >
@@ -2455,7 +2520,7 @@ Tags (automatic): Memory corruption / native
 > @d0nutptr @0xacb @Regala_ @JLLiS @Yassineaboukir @plmaltais [pic.x.com/RomLgdCcSC]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/EMVRV4jXkAAYtuN.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 **Links in post:** https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/
 
@@ -2468,7 +2533,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @samwcyo — 2019-12-06 09:05 UTC (2019-12-06 10:05 WAT)
 
 - URL: https://x.com/samwcyo/status/1202876673466785793
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 20, impression 0, like 84, quote 0, reply 2, retweet 17
 
 > Pretty fun bug bounty tip: if an app is encrypting parameters site wide in an effort to stop a user from tampering with them (e.g. /orders/?email=ciphertext), you can oftentimes mix-and-match the results of the various functionalities to pass in modified values.
 
@@ -2484,7 +2549,7 @@ Tags (automatic): XSS
 ### Post — @samwcyo — 2019-11-19 00:26 UTC (2019-11-19 01:26 WAT)
 
 - URL: https://x.com/samwcyo/status/1196585547663204354
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 70, quote 1, reply 4, retweet 9
 
 > I refresh my XSS hunter account about ten times more often than I actually test for blind XSS. It's like opening the refrigerator when you know there's no food inside 😢
 
@@ -2497,7 +2562,7 @@ Tags (automatic): XSS
 ### Post — @samwcyo — 2019-11-11 02:21 UTC (2019-11-11 03:21 WAT)
 
 - URL: https://x.com/samwcyo/status/1193715394986438656
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 0, like 75, quote 0, reply 5, retweet 2
 
 > Contrary to what everyone says, there are actually bug bounty hunting secrets. Luckily for you, I’ve written a limited time only PDF with all of them which I’ll be selling for $29.99
 >
@@ -2515,7 +2580,7 @@ Tags (automatic): XSS
 ### Post — @samwcyo — 2019-10-22 05:26 UTC (2019-10-22 06:26 WAT)
 
 - URL: https://x.com/samwcyo/status/1186514052593471488
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 4, impression 0, like 70, quote 0, reply 1, retweet 5
 
 > My favorite “recon method” is honestly just looking for simple bug classes (XSS, CSRF, etc). Much more engaging than browsing through screenshots and a great way to understand an organizations infrastructure.
 
@@ -2528,7 +2593,7 @@ Tags (automatic): XSS
 ### Post — @samwcyo — 2019-09-18 18:08 UTC (2019-09-18 19:08 WAT)
 
 - URL: https://x.com/samwcyo/status/1174384667627347969
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 4, impression 0, like 86, quote 0, reply 3, retweet 7
 
 > Should be publishing a PoC explaining a bug I found in Jira Service Desk sometime here soon - it's a really neat find that mirrors some past work from @orange_8361 😀- https://confluence.atlassian.com/jira/jira-service-desk-security-advisory-2019-09-18-976171274.html
 
@@ -2543,12 +2608,12 @@ Tags (automatic): XSS
 ### Post — @samwcyo — 2019-08-28 21:38 UTC (2019-08-28 22:38 WAT)
 
 - URL: https://x.com/samwcyo/status/1166827294305980418
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 35, quote 0, reply 13, retweet 1
 
 > Is there anyone in bug bounty who is good at chess? Already taken down @d0nutptr and @_specters_ 😤😅 [pic.x.com/rKQ9MLfIXB]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/EDFnPBiWsAEEEl2.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -2559,7 +2624,7 @@ Tags (automatic): XSS
 ### Post — @samwcyo — 2019-08-18 23:31 UTC (2019-08-19 00:31 WAT)
 
 - URL: https://x.com/samwcyo/status/1163231899487232001
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 0, like 22, quote 0, reply 2, retweet 3
 
 > I remember before bug bounty people were selling vulnerabilities for companies like Apple to people looking to build up their resumes with public acknowledgement. I wonder if this still goes on at all? 🤔
 
@@ -2575,14 +2640,14 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2019-08-12 06:22 UTC (2019-08-12 07:22 WAT)
 
 - URL: https://x.com/samwcyo/status/1160798776128364544
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 0, like 198, quote 1, reply 6, retweet 6
 
 > Finally got an award at a HackerOne event! Found the most critical security vulnerability for the Verizon Media day.
 >
 > I was beyond excited to receive this. It means so much to me. Here's to next year! 😁😁😁 [pic.x.com/5yOpz3LZFO]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/EBv8VD3XkAEqazm.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -2596,7 +2661,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2019-08-11 00:33 UTC (2019-08-11 01:33 WAT)
 
 - URL: https://x.com/samwcyo/status/1160348416209063937
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 48, quote 0, reply 0, retweet 2
 
 > The Las Vegas HackerOne event just passed over one-million dollars paid out to hackers... wow.
 
@@ -2628,7 +2693,7 @@ Tags (automatic): Platform: HackerOne
 > https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/ [pic.x.com/QIf6j9NapV]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/D_dLDHFW4AUSB9r.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 **Links in post:** https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/
 
@@ -2653,7 +2718,7 @@ Tags (automatic): XSS
 > This can be bypassed with param["&lt;/script&gt;"]=whatever. [pic.x.com/Xa7levlcSs]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/D8uj3V7XkAAGzSK.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -2722,7 +2787,7 @@ Tags (automatic): Platform: HackerOne
 > Cool overview for Automating Web Application Bug Hunting by Jerry Gambun at BSides SF [pic.x.com/0AwQs7wXtl]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/D01iSt_V4AACb_d.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -2738,7 +2803,7 @@ Tags (automatic): Platform: HackerOne
 > $57,000 for one bug! We are not worthy @0xACB! :) [pic.x.com/zPZqeg3vS8]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/D0wcm8-VAAA3DLT.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -2837,7 +2902,7 @@ Tags (automatic): XSS
 > I'd like to present this very well researched chart to all of my bug bounty friends. [pic.x.com/7rUIc9NTxe]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/DjmxyOcVsAIMdeo.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -2900,7 +2965,7 @@ Tags (automatic): XSS
 > CTF's are ABSOLUTELY necessary if you ever want to get into bug bounty. There's no other way you'll learn to pilot a drone through a web app unity game to get to a flag. Spend lots of time on them or else you will fail. [pic.x.com/49bkZqsoIb]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/DeOSqniV0AAfz1Q.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---

@@ -2,6 +2,16 @@
 
 Generated 11 Nov 2026 (WAT), Telegram sources added 12 Nov 2026 (Africa/Lagos). Every link points to a file inside this repo that holds **full verbatim text** — no X or Telegram access needed.
 
+## Daily update — 25 November 2026 (Africa/Lagos)
+
+- **X:** morning run was interrupted and re-done; checkpoint-committed then completed. New [@mdp_sec Warlock Max bench on Black Box Arena](posts/mdp_sec/2026-11-25-2125469650624651528.md) ([writeup](writeups/mdp_sec/blackboxarena-warlock-max-2026-11-25.md)) and [HuntDeck ATO medians](posts/mdp_sec/2026-11-25-2125472047858131161.md); earlier-today posts are in the 7c61ff3c checkpoint. Backfill: second pass closed overlap cursors (chl/t1/t3) with ~15 unique older posts; u1 and t2 remain open. All `ARCHIVE.md` files and `data/x_posts.jsonl` (22,160 posts) regenerated.
+- **Telegram:** @defendor_eng 2381–2384 (incl. X-post writeups for [CertiK/LFDT Chaguar](writeups/telegram-defendor_eng/certik-lfdt-chaguar-two-consensus-flaws-hyperledger-fabric-x.md) and a [mysticmediasoft AI-codebase audit blog](writeups/telegram-defendor_eng/mysticmediasoft-how-to-audit-and-improve-an-ai-generated-codebase.md)); @dailybountywriteup through 14998. Writeups: dailybounty fetched 2,805 (+~530 today, 412 via Medium RSS feed, rest HackerOne/other), failed 1,379, pending 8,932; defendor fetched 340, pending 1. Wayback was unreachable, so no archive fallback; a batch of bogus "dead-SSL" failure rows was purged from the manifest and retried.
+- **HackerOne:** no new disclosed reports in this pass (inventory 12,783 matches files/state).
+- **CVE:** counts verified against `data/cve_state.json` (no re-delta; data from the earlier run today).
+- **Projects:** no new Zcash/Ethereum/Solana advisories. mdpsec.com unchanged.
+- **Harness:** [`harness/bug-classes/2026-11-25-limit-exhaustion-failopen-widget-postmessage-deprecated-market.md`](harness/bug-classes/2026-11-25-limit-exhaustion-failopen-widget-postmessage-deprecated-market.md) (+ single-verifier DVN route, AI-harness evidence sections); techniques.md updated.
+- **New researchers:** none.
+
 ## Daily update — 24 November 2026 (Africa/Lagos)
 
 - **X:** +169 new posts (24 security-relevant verbatim files). Highlights: [@mdp_sec HuntMail — catch-all inbox API for agents](posts/mdp_sec/2026-11-23-2125001700218184092.md) ([README](writeups/mdp_sec/huntmail-github-2026-11-24.md)); [white box vs black box + refusals](posts/mdp_sec/2026-11-23-2124807670121295974.md); [@arcwhite/@mdp_sec "As an attacker, I could…" gate](posts/mdp_sec/2026-11-23-2124790046306041889.md); [abliteration write-up](posts/mdp_sec/2026-11-24-2125079460907200656.md); [@DevDacian refusal failover](posts/DevDacian/2026-11-23-2124816890258452673.md); [@brutecat AI + human-in-loop vs dupes](posts/brutecat/2026-11-23-2124832963976454206.md); [@garethheyes CSS bomb inside your inbox](posts/garethheyes/2026-11-23-2124868803670712723.md); [@immunefi Base Everest $250k](posts/immunefi/2026-11-23-2124934011487412327.md). Backfill n6e DONE, n7a opened → ARCHIVE 21,944.

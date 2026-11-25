@@ -2,8 +2,8 @@
 
 _Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 572
-- Conversations/threads: 506
+- Posts in this file: 573
+- Conversations/threads: 507
 - Oldest post captured: 2008-10-22
 - Newest post captured: 2026-11-23
 
@@ -1289,7 +1289,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2026-06-29 · Thread · I think this is the best most elegant XSS vector I've ever found https://t.co/ccQhQlohqg
+## 2026-06-29 · Thread · I think this is the best most elegant XSS vector I've ever found [pic.x.com/ccQhQlohqg]
 
 
 Tags (automatic): XSS
@@ -1300,10 +1300,10 @@ Tags (automatic): XSS
 - URL: https://x.com/garethheyes/status/2071685072621535440
 - Metrics (at fetch): bookmark 87, impression 12401, like 181, quote 0, reply 4, retweet 16
 
-> I think this is the best most elegant XSS vector I've ever found https://t.co/ccQhQlohqg
+> I think this is the best most elegant XSS vector I've ever found [pic.x.com/ccQhQlohqg]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HMAaJl-W4AAXOTk.jpg — alt text: "onerror=eval,new name"
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @garethheyes — 2026-06-29 19:59 UTC (2026-06-29 20:59 WAT)
@@ -1323,7 +1323,7 @@ Tags (automatic): XSS
 ### Post — @garethheyes — 2026-03-30 20:09 UTC (2026-03-30 21:09 WAT)
 
 - URL: https://x.com/garethheyes/status/2038710338376335542
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 4, impression 1390, like 4, quote 0, reply 0, retweet 0
 
 > Shazzer had an interesting bug. I write to a blob URL thats sandboxed but because its a blob URL it breaks relative URLs which means vectors with them would return false negatives. The fix was: use a base tag to change the domain. This fixes vectors like:
 >
@@ -1348,7 +1348,7 @@ Tags (automatic): XSS
 > New geolocation-based XSS vectors just landed in our XSS cheat sheet. Huge thanks to @AmirMSafari for the great submission. See the reply for the full details and the other vectors... [pic.x.com/dbRaazFnyJ]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HAzgerRaAAI9w5Z.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1395,7 +1395,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-01-28 · Thread · We've just hit a very important milestone - our XSS Cheat Sheet now has 1337 vectors! https://t.co/M
+## 2026-01-28 · Thread · We've just hit a very important milestone - our XSS Cheat Sheet now has 1337 vectors! [pic.x.com/M1l
 
 
 Tags (automatic): XSS
@@ -1406,10 +1406,10 @@ Tags (automatic): XSS
 - URL: https://x.com/garethheyes/status/2016505833572401367
 - Metrics (at fetch): bookmark 51, impression 11090, like 120, quote 0, reply 2, retweet 12
 
-> We've just hit a very important milestone - our XSS Cheat Sheet now has 1337 vectors! https://t.co/M1l8fCcNp6
+> We've just hit a very important milestone - our XSS Cheat Sheet now has 1337 vectors! [pic.x.com/M1l8fCcNp6]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/G_wN7lgXsAIx8i-.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @garethheyes — 2026-01-28 13:37 UTC (2026-01-28 14:37 WAT)
@@ -1433,7 +1433,7 @@ Tags (automatic): CSP / CSPT
 - URL: https://x.com/garethheyes/status/2000951841102946785
 - Metrics (at fetch): bookmark 154, impression 21479, like 227, quote 1, reply 4, retweet 38
 
-> Bypass CSP in a single click using my new Custom Action, powered by @renniepak's excellent CSP bypass project. https://t.co/TSeivGe4QD
+> Bypass CSP in a single click using my new Custom Action, powered by @renniepak's excellent CSP bypass project. [pic.x.com/TSeivGe4QD]
 
 **Media:**
 - video:  — no alt text provided by author
@@ -1463,7 +1463,7 @@ Tags (automatic): CSP / CSPT
 ### Post — @garethheyes — 2025-12-09 12:38 UTC (2025-12-09 13:38 WAT)
 
 - URL: https://x.com/garethheyes/status/1998371677483450817
-- Metrics (at fetch): bookmark 37, impression 2827, like 60, quote 0, reply 1, retweet 11
+- Metrics (at fetch): bookmark 37, impression 2829, like 60, quote 0, reply 1, retweet 11
 
 > Curious how AutoVader works in practice? The demo video is up. See automated client side bug hunting in action. 🎥 https://t.co/q2UK5Tm3UH
 
@@ -1479,7 +1479,7 @@ Tags (automatic): CSP / CSPT
 ### Post — @garethheyes — 2025-12-09 12:21 UTC (2025-12-09 13:21 WAT)
 
 - URL: https://x.com/garethheyes/status/1998367428561317912
-- Metrics (at fetch): bookmark 15, impression 2353, like 33, quote 0, reply 1, retweet 4
+- Metrics (at fetch): bookmark 15, impression 2354, like 33, quote 0, reply 1, retweet 4
 
 > Meet AutoVader. It automates DOM Invader with Playwright Java and feeds results back into Burp. Faster client side bug hunting for everyone. 🚀
 >
@@ -1494,7 +1494,7 @@ Tags (automatic): CSP / CSPT
 ### Post — @garethheyes — 2025-12-06 18:51 UTC (2025-12-06 19:51 WAT)
 
 - URL: https://x.com/garethheyes/status/1997378501880528916
-- Metrics (at fetch): bookmark 23, impression 26635, like 153, quote 0, reply 0, retweet 5
+- Metrics (at fetch): bookmark 23, impression 26636, like 155, quote 0, reply 0, retweet 5
 
 > 50k for a WAF bypass. 😮 https://t.co/1ohcxBvEut
 
@@ -1525,7 +1525,7 @@ Tags (automatic): RCE
 ### Post — @garethheyes — 2025-12-01 11:13 UTC (2025-12-01 12:13 WAT)
 
 - URL: https://x.com/garethheyes/status/1995451164062601592
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 27, impression 5074, like 65, quote 0, reply 0, retweet 6
 
 > On Thursday I'm presenting "Splitting the email atom:exploiting parsers to bypass access controls" at NDC Manchester. Please join me if you want to find out how to turn an RFC compliant email address into RCE.
 >
@@ -1545,9 +1545,27 @@ Tags (automatic): XSS
 ### Post — @garethheyes — 2025-11-27 18:05 UTC (2025-11-27 19:05 WAT)
 
 - URL: https://x.com/garethheyes/status/1994105327168508113
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 7, impression 7335, like 97, quote 0, reply 10, retweet 1
 
 > DOM Invader found DOM XSS on an Adobe sign in page and they finally decided not to award me a bounty...7 years later 😂
+
+
+---
+
+## 2025-11-20 · Post · HackFriday starts now
+
+
+### Post — @garethheyes — 2025-11-20 12:43 UTC (2025-11-20 13:43 WAT)
+
+- URL: https://x.com/garethheyes/status/1991487679306035530
+- Metrics (at fetch): bookmark 8, impression 7290, like 38, quote 2, reply 2, retweet 8
+
+> HackFriday starts now
+> JavaScript for Hackers is on sale for $13.37 and the deal runs past Hack Friday
+> Boost your payload skills and sharpen your hacking game
+> Grab it while it lasts 🔥
+>
+> https://t.co/84e3xYGQu4
 
 
 ---

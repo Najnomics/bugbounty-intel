@@ -1637,7 +1637,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-06-10 · Post · Analysis of CVE-2026-45595 Mark of the Web (MOTW) Issue by Opus 4.8 in 12 minutes: https://t.co/aKjV
+## 2026-06-10 · Post · Analysis of CVE-2026-45595 Mark of the Web (MOTW) Issue by Opus 4.8 in 12 minutes: https://gist.gith
 
 
 Tags (automatic): AI-assisted hunting
@@ -1648,12 +1648,14 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/irsdl/status/2064825752923640155
 - Metrics (at fetch): bookmark 28, impression 5138, like 40, quote 0, reply 0, retweet 14
 
-> Analysis of CVE-2026-45595 Mark of the Web (MOTW) Issue by Opus 4.8 in 12 minutes: https://t.co/aKjV2jz4LE
+> Analysis of CVE-2026-45595 Mark of the Web (MOTW) Issue by Opus 4.8 in 12 minutes: https://gist.github.com/irsdl/ad54a34d7bd16b092e0911e27135ebe1
 > I admit, I am not 100% sure this is correct but looks promising!
 >
 > Opus 4.8 is capable in reversing, we then ask Fable 5 to find a bypass! 
 >
 > #NDay #AI #MSRC
+
+**Links in post:** https://gist.github.com/irsdl/ad54a34d7bd16b092e0911e27135ebe1
 
 
 ---
@@ -1687,9 +1689,11 @@ Tags (automatic): XSS
 
 > Here is a simple #XSS challenge based on one of the reported bugs:
 >
-> https://t.co/TgOuanasH8
+> https://jsfiddle.net/zvn2pk1s/
 >
-> #Challenge https://t.co/dhCqrMZTGe
+> #Challenge https://twitter.com/irsdl/status/2061479518187991371
+
+**Links in post:** https://jsfiddle.net/zvn2pk1s/, https://twitter.com/irsdl/status/2061479518187991371
 
 **Quoted post (full text):**
 
@@ -1779,7 +1783,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @irsdl — 2026-04-27 09:34 UTC (2026-04-27 10:34 WAT)
 
 - URL: https://x.com/irsdl/status/2048697287266775312
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 6, impression 3433, like 48, quote 1, reply 7, retweet 6
 
 > Yes AI can help you finding vulnerabilities but 
 > PLEASE STOP REPORTING IF YOU KNOW NOTHING ABOUT SECURITY! AT LEAST ASK A BETTER MODEL TO REVERIFY!
@@ -1797,7 +1801,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @irsdl — 2026-04-11 20:00 UTC (2026-04-11 21:00 WAT)
 
 - URL: https://x.com/irsdl/status/2043056657253409280
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 8, impression 3352, like 11, quote 0, reply 3, retweet 0
 
 > I believe we are still in early phase of AI. I think certain bug classes will be easy to find using AI when there is source code but might be hard in dynamic blackbox test; of course AI can be better and faster in recon but it is not limitless.
 >
@@ -1838,7 +1842,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @irsdl — 2026-03-23 22:58 UTC (2026-03-23 23:58 WAT)
 
 - URL: https://x.com/irsdl/status/2036216001704915054
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 940, like 5, quote 0, reply 0, retweet 1
 
 > If you want to research the Islamic Republic’s cyber army and the pro-regime people who allegedly use special SIM cards to bypass Iran’s internet blackout, someone has put together a list of many of them here. 🔥 https://twitter.com/hhamidia/status/2036001031214014664
 
@@ -1849,7 +1853,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @336906221 — 2026-03-23 08:44 UTC (2026-03-23 09:44 WAT)
     
     - URL: https://x.com/336906221/status/2036001031214014664
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 329, impression 51802, like 1300, quote 11, reply 20, retweet 333
     
     > میثم بزرگترین خدمتی که به توییتر فارسی کرده و من ازش خبر دارم تا الان، درست کردن این لیست بوده. شاهدم که سرش چقدر فحش خورد چقدر ریپورت شد چقدر اذیت شد. اما انجامش داد.
     >
@@ -1869,9 +1873,9 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/irsdl/status/2020201144518341034
 - Metrics (at fetch): not returned
 
-> Every time ransomware or APT gangs weaponize a bug, someone blames the researcher who found or reversed it. By that logic I’m relieved the bugs I reported on SmarterMail never got used in an attack… but also mildly offended they weren’t good enough &amp; I missed these 😂 https://twitter.com/dinosn/status/2019694674282438736
+> Every time ransomware or APT gangs weaponize a bug, someone blames the researcher who found or reversed it. By that logic I’m relieved the bugs I reported on SmarterMail never got used in an attack… but also mildly offended they weren’t good enough &amp; I missed these 😂 https://twitter.com/Dinosn/status/2019694674282438736
 
-**Links in post:** https://twitter.com/dinosn/status/2019694674282438736
+**Links in post:** https://twitter.com/Dinosn/status/2019694674282438736
 
 **Quoted post (full text):**
 
@@ -1914,11 +1918,13 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 
 > It is very very easy to get a cheap VPS and run Conduit so people can bypass the censorship:
 >
-> https://t.co/wTo7WZ5JAA
+> https://github.com/SamNet-dev/conduit-manager
 >
 > It is literally 1 command to run it in a docker container.
 >
-> (create your own fork if worried about the script change - review it by AI if you are worried) https://t.co/0Xy7Io4U3j
+> (create your own fork if worried about the script change - review it by AI if you are worried) https://twitter.com/PsiphonInc/status/2015870757440549016
+
+**Links in post:** https://github.com/SamNet-dev/conduit-manager, https://twitter.com/PsiphonInc/status/2015870757440549016
 
 **Quoted post (full text):**
 
@@ -1955,9 +1961,9 @@ Tags (automatic): AI-assisted hunting
 > #AppSec #SharePoint #TolShell
 
 **Media:**
-- photo: https://pbs.twimg.com/media/G76BGEWXQAAQP3E.png — no alt text provided by author
-- photo: https://pbs.twimg.com/media/G76BKzBXoAET25f.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/G76BxXwX0AA_HM-.png — no alt text provided by author
+- photo:  — no alt text provided by author
+- photo:  — no alt text provided by author
+- photo:  — no alt text provided by author
 
 **Links in post:** https://github.com/irsdl/sharepoint-toolshell-ai/blob/main/ToolShell-Patch-Bypass-and-the-AI-That-Might-Have-Seen-It-Coming.pdf
 
@@ -1983,7 +1989,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @irsdl — 2025-12-02 11:25 UTC (2025-12-02 12:25 WAT)
 
 - URL: https://x.com/irsdl/status/1995816682325983348
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 55, impression 9716, like 101, quote 0, reply 1, retweet 19
 
 > Since we're covering this tomorrow at @NDC_Conferences Manchester, I’ve released the bypass for the ToolShell SharePoint deserialization exploit in http://ysonet.net (same bug @_l0gg originally showed).
 >
@@ -2003,7 +2009,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @irsdl — 2025-12-02 11:25 UTC (2025-12-02 12:25 WAT)
 
 - URL: https://x.com/irsdl/status/1995816555771314619
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 37, like 0, quote 0, reply 0, retweet 0
 
 > Since we're covering this tomorrow at @NDC_Conferences Manchester, I’ve released the bypass for the ToolShell SharePoint deserialization exploit in http://ysonet.net (same bug @_l0gg originally showed).
 >

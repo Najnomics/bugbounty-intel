@@ -1590,7 +1590,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
     #### Quoted post — @ChainLight_io — 2024-07-10 12:04 UTC (2024-07-10 13:04 WAT)
     
     - URL: https://x.com/ChainLight_io/status/1811008643904720919
-    - Metrics (at fetch): bookmark 2, impression 20649, like 128, quote 4, reply 12, retweet 24
+    - Metrics (at fetch): bookmark 2, impression 20650, like 127, quote 4, reply 12, retweet 23
     
     > We are thrilled to announce the successful completion of @Moca_Network's audit.
     >
@@ -1600,7 +1600,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
     > Thrive without fear, Mocaverse. [pic.x.com/asnrDRs8vr]
     
     **Media:**
-    - video: https://pbs.twimg.com/ext_tw_video_thumb/1811008319446003712/pu/img/dDxyAIxisGa33VdF.jpg — no alt text provided by author
+    - video:  — no alt text provided by author
     
 
 
@@ -1766,14 +1766,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
     #### Quoted post — @ChainLight_io — 2024-07-09 12:50 UTC (2024-07-09 13:50 WAT)
     
     - URL: https://x.com/ChainLight_io/status/1810657861565116752
-    - Metrics (at fetch): bookmark 2, impression 4534, like 28, quote 2, reply 1, retweet 3
+    - Metrics (at fetch): bookmark 2, impression 4535, like 28, quote 2, reply 1, retweet 3
     
     > We are thrilled to partner with @Official_Upbit to launch UPSide Academy, a blockchain cybersecurity talent development program.
     >
     > Following the inauguration ceremony, the 19 selected trainees from the first cohort will begin a 4-month program focused on blockchain cybersecurity. [pic.x.com/Z77vNm2v8A]
     
     **Media:**
-    - photo: https://pbs.twimg.com/media/GSC_t-8bsAAL27D.jpg — no alt text provided by author
+    - photo:  — no alt text provided by author
     
 
 
@@ -4391,9 +4391,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
     > Thank you, President Yoon Suk Yeol.
     
     **Media:**
-    - photo: https://pbs.twimg.com/media/GL3z6gsacAIl_dL.jpg — no alt text provided by author
-    - photo: https://pbs.twimg.com/media/GL3z6gpb0AAa0ax.jpg — no alt text provided by author
-    - photo: https://pbs.twimg.com/media/GL3z6guacAQP2bU.jpg — no alt text provided by author
+    - photo:  — no alt text provided by author
+    - photo:  — no alt text provided by author
+    - photo:  — no alt text provided by author
     
 
 
@@ -5464,7 +5464,7 @@ Tags (automatic): Smart contract / DeFi
 ### Post — @ChainLight_io — 2024-07-10 12:04 UTC (2024-07-10 13:04 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1811008643904720919
-- Metrics (at fetch): bookmark 2, impression 20649, like 128, quote 4, reply 12, retweet 24
+- Metrics (at fetch): bookmark 2, impression 20650, like 127, quote 4, reply 12, retweet 23
 
 > We are thrilled to announce the successful completion of @Moca_Network's audit.
 >
@@ -5474,7 +5474,7 @@ Tags (automatic): Smart contract / DeFi
 > Thrive without fear, Mocaverse. [pic.x.com/asnrDRs8vr]
 
 **Media:**
-- video: https://pbs.twimg.com/ext_tw_video_thumb/1811008319446003712/pu/img/dDxyAIxisGa33VdF.jpg — no alt text provided by author
+- video:  — no alt text provided by author
 
 
 ### Thread part 2 — @ChainLight_io — 2024-07-10 12:56 UTC (2024-07-10 13:56 WAT)
@@ -5500,20 +5500,20 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @ChainLight_io — 2024-07-09 12:50 UTC (2024-07-09 13:50 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1810657861565116752
-- Metrics (at fetch): bookmark 2, impression 4534, like 28, quote 2, reply 1, retweet 3
+- Metrics (at fetch): bookmark 2, impression 4535, like 28, quote 2, reply 1, retweet 3
 
 > We are thrilled to partner with @Official_Upbit to launch UPSide Academy, a blockchain cybersecurity talent development program.
 >
 > Following the inauguration ceremony, the 19 selected trainees from the first cohort will begin a 4-month program focused on blockchain cybersecurity. [pic.x.com/Z77vNm2v8A]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GSC_t-8bsAAL27D.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @ChainLight_io — 2024-07-09 12:50 UTC (2024-07-09 13:50 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1810657886923837774
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 442, like 3, quote 0, reply 0, retweet 0
 
 > View article (Korean):
 > https://n.news.naver.com/article/001/0014782772?type=journalists
@@ -5529,7 +5529,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @ChainLight_io — 2024-07-08 13:45 UTC (2024-07-08 14:45 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1810309147461853365
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 848, like 10, quote 1, reply 1, retweet 1
 
 > Which rug pulls, exploits, and security breaches happened this week?
 >
@@ -5538,13 +5538,13 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > (1/7) [pic.x.com/EbspOUZLEv]
 
 **Media:**
-- video: https://pbs.twimg.com/ext_tw_video_thumb/1810309122165964800/pu/img/yQnBSnXrLYlJaEMg.jpg — no alt text provided by author
+- video:  — no alt text provided by author
 
 
 ### Thread part 2 — @ChainLight_io — 2024-07-08 13:45 UTC (2024-07-08 14:45 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1810309170853470505
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 127, like 2, quote 0, reply 1, retweet 1
 
 > Table of Contents:
 >
@@ -5559,7 +5559,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Thread part 3 — @ChainLight_io — 2024-07-08 13:45 UTC (2024-07-08 14:45 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1810309193641164994
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 146, like 1, quote 0, reply 1, retweet 0
 
 > 1️⃣ @DefiPlaza Loses $200K
 >
@@ -5576,7 +5576,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     #### Quoted post — @385014870 — 2024-07-05 13:48 UTC (2024-07-05 14:48 WAT)
     
     - URL: https://x.com/385014870/status/1809222922998808760
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 7, impression 8494, like 20, quote 1, reply 1, retweet 2
     
     > .@DefiPlaza have been hacked for nearly $200k. Luckily an MEV-bot front-runned the original attacker.
     >
@@ -5594,7 +5594,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Thread part 4 — @ChainLight_io — 2024-07-08 13:45 UTC (2024-07-08 14:45 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1810309216890130858
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 173, like 1, quote 0, reply 1, retweet 0
 
 > 2️⃣ @opentensor User Private Keys Exploited
 >
@@ -5610,7 +5610,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     #### Quoted post — @1405656630872662019 — 2024-07-03 19:40 UTC (2024-07-03 20:40 WAT)
     
     - URL: https://x.com/1405656630872662019/status/1808586723712250158
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 27, impression 109900, like 461, quote 29, reply 48, retweet 82
     
     > Bittensor Community Update
     >
@@ -5625,7 +5625,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Thread part 5 — @ChainLight_io — 2024-07-08 13:45 UTC (2024-07-08 14:45 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1810309240197886390
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 179, like 1, quote 0, reply 1, retweet 0
 
 > 3️⃣ Pink Drainer Scammed
 >
@@ -5641,7 +5641,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     #### Quoted post — @1501941723584335873 — 2024-07-07 01:14 UTC (2024-07-07 02:14 WAT)
     
     - URL: https://x.com/1501941723584335873/status/1809757802375647610
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 20, impression 111701, like 111, quote 13, reply 13, retweet 19
     
     > Scamming the scammer 🤣
     >
@@ -5663,7 +5663,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Thread part 6 — @ChainLight_io — 2024-07-08 13:45 UTC (2024-07-08 14:45 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1810309263224701134
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 482, like 1, quote 0, reply 1, retweet 0
 
 > 4️⃣ @Authy Leaks 33M User Data
 >
@@ -5679,7 +5679,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     #### Quoted post — @209811713 — 2024-07-04 03:40 UTC (2024-07-04 04:40 WAT)
     
     - URL: https://x.com/209811713/status/1808707317124223014
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 26, impression 40726, like 197, quote 26, reply 9, retweet 132
     
     > Twilio reports a data breach exposing 33 million Authy phone numbers, urges users to update apps and stay vigilant against phishing.
     >
@@ -5694,7 +5694,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Thread part 7 — @ChainLight_io — 2024-07-08 13:45 UTC (2024-07-08 14:45 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1810309286259773855
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 279, like 2, quote 0, reply 0, retweet 0
 
 > Thank you for reading.
 >
@@ -5721,7 +5721,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Post — @ChainLight_io — 2024-07-01 15:56 UTC (2024-07-01 16:56 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1807805390782181705
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 1695, like 13, quote 0, reply 1, retweet 3
 
 > Which rug pulls, exploits, and security breaches happened this week?
 >
@@ -5730,13 +5730,13 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > (1/9) [pic.x.com/29HYNCvy1W]
 
 **Media:**
-- video: https://pbs.twimg.com/ext_tw_video_thumb/1807805365888884736/pu/img/uu5I6sWVr0uoUXMR.jpg — no alt text provided by author
+- video:  — no alt text provided by author
 
 
 ### Thread part 2 — @ChainLight_io — 2024-07-01 15:56 UTC (2024-07-01 16:56 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1807805414383452250
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 194, like 1, quote 0, reply 1, retweet 0
 
 > Table of Contents:
 >
@@ -5752,7 +5752,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Thread part 3 — @ChainLight_io — 2024-07-01 15:56 UTC (2024-07-01 16:56 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1807805437175341091
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 251, like 1, quote 0, reply 1, retweet 0
 
 > 1️⃣ A Controversy on Shentu OpenBounty (1/2)
 >
@@ -5777,7 +5777,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Thread part 4 — @ChainLight_io — 2024-07-01 15:56 UTC (2024-07-01 16:56 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1807805460202000481
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 218, like 3, quote 0, reply 1, retweet 0
 
 > 2️⃣ Controversy on Shentu OpenBounty (2/2)
 >
@@ -5793,7 +5793,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     #### Quoted post — @1297925400090337280 — 2024-06-29 14:58 UTC (2024-06-29 15:58 WAT)
     
     - URL: https://x.com/1297925400090337280/status/1807066129313186150
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 9, impression 12725, like 105, quote 3, reply 2, retweet 25
     
     > Amid the Kraken controversy, @CertiK faces mounting allegations of front-running bug bounties and superficial audits, raising concerns and scrutiny from security researchers.   
     >
@@ -5808,7 +5808,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Thread part 5 — @ChainLight_io — 2024-07-01 15:56 UTC (2024-07-01 16:56 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1807805483388195178
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 210, like 3, quote 0, reply 1, retweet 0
 
 > 3️⃣ @Sportsbetio Loses $3.5M
 >
@@ -5822,7 +5822,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Thread part 6 — @ChainLight_io — 2024-07-01 15:56 UTC (2024-07-01 16:56 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1807805506154856478
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 235, like 2, quote 0, reply 1, retweet 0
 
 > 4️⃣ Solana Memecoin $DORAE Rugs $1.45M
 >
@@ -5838,7 +5838,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     #### Quoted post — @1462727797135216641 — 2024-06-26 07:29 UTC (2024-06-26 08:29 WAT)
     
     - URL: https://x.com/1462727797135216641/status/1805865928670036419
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 115, impression 345669, like 688, quote 80, reply 119, retweet 82
     
     > Doraemon( $DORAE ) rug!🚨
     >
@@ -5854,7 +5854,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Thread part 7 — @ChainLight_io — 2024-07-01 15:56 UTC (2024-07-01 16:56 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1807805529353605493
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 288, like 3, quote 0, reply 1, retweet 0
 
 > 5️⃣ @CoinStats Loses User Private Keys
 >
@@ -5870,7 +5870,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     #### Quoted post — @1609789050638192640 — 2024-06-28 12:22 UTC (2024-06-28 13:22 WAT)
     
     - URL: https://x.com/1609789050638192640/status/1806664432988062109
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 2, impression 5244, like 2, quote 1, reply 1, retweet 1
     
     > #MetaTrustAlert $Will on #BNBChain was attacked with a loss of $125K.
     >
@@ -5884,7 +5884,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Thread part 8 — @ChainLight_io — 2024-07-01 15:56 UTC (2024-07-01 16:56 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1807805552413839728
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 673, like 3, quote 0, reply 1, retweet 0
 
 > 6️⃣ A Failed DDoS Attempt on @Cardano
 >
@@ -5900,7 +5900,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     #### Quoted post — @1144806629566746626 — 2024-06-25 17:24 UTC (2024-06-25 18:24 WAT)
     
     - URL: https://x.com/1144806629566746626/status/1805653337976504428
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 73, impression 171861, like 984, quote 89, reply 91, retweet 322
     
     > Hey, if anyone wants to claim 400 Ada from the attacker just deregister the stake credentials they are using (you get 2 Ada per stake credential you deregister and the attacker is using 194 always succeeds credentials). Also, this would immediately stop their DDOS on the network (it would cost another 400 Ada to start again which could then immediately be stolen from them). 
     >
@@ -5917,7 +5917,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Thread part 9 — @ChainLight_io — 2024-07-01 15:56 UTC (2024-07-01 16:56 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1807805575583216040
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 431, like 3, quote 0, reply 0, retweet 0
 
 > Thank you for reading.
 >
@@ -5941,7 +5941,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Post — @ChainLight_io — 2024-06-28 09:45 UTC (2024-06-28 10:45 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1806624985290887640
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 748, like 6, quote 0, reply 0, retweet 1
 
 > Illuminating the shadows of web3 hacks.
 >
@@ -5962,7 +5962,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     #### Quoted post — @1804058795628531712 — 2024-06-28 09:42 UTC (2024-06-28 10:42 WAT)
     
     - URL: https://x.com/1804058795628531712/status/1806624321684779334
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 15, impression 15062, like 38, quote 10, reply 9, retweet 11
     
     > Introducing Lumos Macro Stats.
     >
@@ -6033,9 +6033,9 @@ Tags (automatic): ZK
 > • Kraken CSO, @c7five, tweeted that Kraken received a report claiming a critical vulnerability in the platform.
 > • However,  the reporter was not disclosed due to disagreements in the mediation process.
 >
-> (3/10) https://twitter.com/c7five/status/1803403565865771370
+> (3/10) https://twitter.com/32495046/status/1803403565865771370
 
-**Links in post:** https://twitter.com/c7five/status/1803403565865771370
+**Links in post:** https://twitter.com/32495046/status/1803403565865771370
 
 **Quoted post (full text):**
 
@@ -6060,9 +6060,9 @@ Tags (automatic): ZK
 > • Kraken's misimplemented deposit system has allowed reverted deposit transactions.
 > • Kraken's low confirmation number for user experience has made the exploit feasible.
 >
-> (4/10) https://twitter.com/c7five/status/1803403590033387626
+> (4/10) https://twitter.com/32495046/status/1803403590033387626
 
-**Links in post:** https://twitter.com/c7five/status/1803403590033387626
+**Links in post:** https://twitter.com/32495046/status/1803403590033387626
 
 **Quoted post (full text):**
 
@@ -6078,7 +6078,7 @@ Tags (automatic): ZK
 ### Thread part 5 — @ChainLight_io — 2024-06-24 16:39 UTC (2024-06-24 17:39 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1805279590853886426
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 168, like 0, quote 0, reply 1, retweet 0
 
 > 3️⃣ A Controversy Between @krakenfx and @CertiK (3/4)
 >
@@ -6087,9 +6087,9 @@ Tags (automatic): ZK
 > • The amount of withdrawn assets mismatches.
 > • CertiK did not follow Kraken's bug bounty rules.
 >
-> (5/10) https://twitter.com/c7five/status/1803403622853779962
+> (5/10) https://twitter.com/32495046/status/1803403622853779962
 
-**Links in post:** https://twitter.com/c7five/status/1803403622853779962
+**Links in post:** https://twitter.com/32495046/status/1803403622853779962
 
 **Quoted post (full text):**
 
@@ -6109,7 +6109,7 @@ Tags (automatic): ZK
 ### Thread part 6 — @ChainLight_io — 2024-06-24 16:39 UTC (2024-06-24 17:39 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1805279613951918140
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 140, like 0, quote 0, reply 1, retweet 0
 
 > 4️⃣ A Controversy Between @krakenfx and @CertiK (4/4)
 >
@@ -6125,7 +6125,7 @@ Tags (automatic): ZK
     #### Quoted post — @493351331 — 2024-06-19 17:52 UTC (2024-06-19 18:52 WAT)
     
     - URL: https://x.com/493351331/status/1803486112608034854
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 29, impression 80979, like 474, quote 24, reply 29, retweet 17
     
     > @CertiK @tayvano_ @krakenfx You guys realize that Tornadocash is OFAC sanctioned right? And you are US-domiciled right? [pic.x.com/gdXENua3Tf]
     
@@ -6137,7 +6137,7 @@ Tags (automatic): ZK
 ### Thread part 7 — @ChainLight_io — 2024-06-24 16:39 UTC (2024-06-24 17:39 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1805279637028978973
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 199, like 0, quote 0, reply 1, retweet 0
 
 > 5️⃣ @btcturk Loses $55M
 >
@@ -6153,7 +6153,7 @@ Tags (automatic): ZK
     #### Quoted post — @1277940761372360704 — 2024-06-23 15:36 UTC (2024-06-23 16:36 WAT)
     
     - URL: https://x.com/1277940761372360704/status/1804901283788169432
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 5, impression 75761, like 98, quote 6, reply 169, retweet 6
     
     > Değerli Kullanıcılarımız, 
     >
@@ -6167,7 +6167,7 @@ Tags (automatic): ZK
 ### Thread part 8 — @ChainLight_io — 2024-06-24 16:39 UTC (2024-06-24 17:39 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1805279660181537186
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 183, like 0, quote 0, reply 1, retweet 0
 
 > 6️⃣ @FarcanaOfficial Wallet Exploited
 > • Farcana's hot wallet was exploited, resulting in a significant loss of $FAR.
@@ -6182,7 +6182,7 @@ Tags (automatic): ZK
     #### Quoted post — @1128606567354359808 — 2024-06-24 06:35 UTC (2024-06-24 07:35 WAT)
     
     - URL: https://x.com/1128606567354359808/status/1805127659753721930
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 0, impression 23290, like 20, quote 7, reply 3, retweet 3
     
     > #PeckShieldAlert #slippage #FARFARCANA $FSR has dropped -53.6%
     > https://x.com/FarcanaOfficial/status/1805051918437233081 [pic.x.com/nAOa5pv7xz]
@@ -6197,7 +6197,7 @@ Tags (automatic): ZK
 ### Thread part 9 — @ChainLight_io — 2024-06-24 16:39 UTC (2024-06-24 17:39 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1805279683241721985
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 523, like 0, quote 0, reply 1, retweet 0
 
 > 7️⃣ @Goal3_xyz's Controversial Sunset
 >
@@ -6214,7 +6214,7 @@ Tags (automatic): ZK
 ### Thread part 10 — @ChainLight_io — 2024-06-24 16:39 UTC (2024-06-24 17:39 WAT)
 
 - URL: https://x.com/ChainLight_io/status/1805279706251673606
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 313, like 1, quote 0, reply 0, retweet 0
 
 > Thank you for reading.
 >
@@ -6283,9 +6283,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 > • Fallback oracle of $sUSDE leveraged prices of multiple Curve pools.
 > • The exploiter easily manipulated the token price through a flashloan attack.
 >
-> (3/12) https://twitter.com/1547573880448962562/status/1800159455767843009
+> (3/12) https://twitter.com/UwU_Lend/status/1800159455767843009
 
-**Links in post:** https://twitter.com/1547573880448962562/status/1800159455767843009
+**Links in post:** https://twitter.com/UwU_Lend/status/1800159455767843009
 
 **Quoted post (full text):**
 
@@ -6308,9 +6308,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 > • Due to the exploit, $CRV price plummeted 25% and led to massive liquidations, including @CurveFinance founder @newmichwill's position.
 > • Shortly after, the project was exploited again as $sUSDE wasn't excluded from collateral.
 >
-> (4/12) https://twitter.com/1640269960554377219/status/1801163462816473466
+> (4/12) https://twitter.com/CyversAlerts/status/1801163462816473466
 
-**Links in post:** https://twitter.com/1640269960554377219/status/1801163462816473466
+**Links in post:** https://twitter.com/CyversAlerts/status/1801163462816473466
 
 **Quoted post (full text):**
 
@@ -6362,9 +6362,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 > • Loopring, an Ethereum ZK rollup, got its Ethereum guardian account exploited due to the 2FA compromise.
 > • Exploited guardian executed recovery process and withdrew funds from Ethereum vault.
 >
-> (6/12) https://twitter.com/9130922/status/1799791898296451515
+> (6/12) https://twitter.com/loopringorg/status/1799791898296451515
 
-**Links in post:** https://twitter.com/9130922/status/1799791898296451515
+**Links in post:** https://twitter.com/loopringorg/status/1799791898296451515
 
 **Quoted post (full text):**
 
@@ -6409,9 +6409,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 > • Gemholic, a DEX on zkSync, previously had user funds frozen in a smart contract due to Ethereum compatibility issues.
 > • After a recent update resolved the issue, the team withdrew all the user funds from the contract.
 >
-> (7/12) https://twitter.com/1476367915163451393/status/1799032355916779641
+> (7/12) https://twitter.com/Atoras510/status/1799032355916779641
 
-**Links in post:** https://twitter.com/1476367915163451393/status/1799032355916779641
+**Links in post:** https://twitter.com/Atoras510/status/1799032355916779641
 
 **Quoted post (full text):**
 
@@ -6449,9 +6449,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 > • The lack of sender verification in the exitPool function of the @hiBazaar LBP contract allowed the exploiter to impersonate liquidity providers and drain the pool.
 > • Fortunately, the exploiter returned 90% of the funds to @YOLO_Blast.
 >
-> (8/12) https://twitter.com/YOLO_Blast/status/1800259276277198952
+> (8/12) https://twitter.com/1754797902936121344/status/1800259276277198952
 
-**Links in post:** https://twitter.com/YOLO_Blast/status/1800259276277198952
+**Links in post:** https://twitter.com/1754797902936121344/status/1800259276277198952
 
 **Quoted post (full text):**
 
@@ -6476,9 +6476,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 > • 200+ ETH was exploited due to the critical vulnerability of clearingHouse contract.
 > • While the exploit details are yet disclosed, exploited funds are fully returned to the project.
 >
-> (9/12) https://twitter.com/nftperp/status/1801390530104070159
+> (9/12) https://twitter.com/1506600408193638405/status/1801390530104070159
 
-**Links in post:** https://twitter.com/nftperp/status/1801390530104070159
+**Links in post:** https://twitter.com/1506600408193638405/status/1801390530104070159
 
 **Quoted post (full text):**
 
@@ -6534,9 +6534,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 > • 2 million user data was leaked via CoinGecko's third party email platform GetResponse.
 > • Leaked information includes user name, email address, IP and location of email opens.
 >
-> (11/12) https://twitter.com/coingecko/status/1799023945934655886
+> (11/12) https://twitter.com/2412652615/status/1799023945934655886
 
-**Links in post:** https://twitter.com/coingecko/status/1799023945934655886
+**Links in post:** https://twitter.com/2412652615/status/1799023945934655886
 
 **Quoted post (full text):**
 
@@ -6634,7 +6634,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 >
 > Read this 2-minute weekly summary to stay in the loop 🧵👇
 >
-> (1/9) https://t.co/ic72qGmv5O
+> (1/9) [pic.x.com/ic72qGmv5O]
 
 **Media:**
 - video:  — no alt text provided by author
@@ -6665,9 +6665,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > • The root cause of the exploit was in feeMultiplier, which was implemented to increase fees for withdrawals in the same block.
 > • Since no upper bound was set for feeMultiplier, it led to the underflow of LP withdrawal amount.
 >
-> (3/9) https://twitter.com/1635868402987450368/status/1797102058157539839
+> (3/9) https://twitter.com/velocorexyz/status/1797102058157539839
 
-**Links in post:** https://twitter.com/1635868402987450368/status/1797102058157539839
+**Links in post:** https://twitter.com/velocorexyz/status/1797102058157539839
 
 **Quoted post (full text):**
 
@@ -6679,7 +6679,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     > Emergency Notice 
     > Velocore has been exploited, resulting in the loss of most of the liquidity. Our CPMM pools have been affected, but the stable pools have not been impacted, so funds can be withdrawn on our stable pools.
     >
-    > We are working with security teams and foundations, and
+    > We are working with security teams and foundations, and have requested CEXs to freeze the stolen assets.
+    >
+    > We will continue to take all necessary actions and strive to resolve this issue.
     
 
 
@@ -6693,9 +6695,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > • The exploiter manipulated feeMultiplier to be over 100%, flashloaned LP tokens, and withdrew tokens in the pool to make the exploit feasible
 > • Triggering the underflow, exploiter gained massive amount of LP tokens as a result
 >
-> (4/9) https://twitter.com/1635868402987450368/status/1797229772399067587
+> (4/9) https://twitter.com/velocorexyz/status/1797229772399067587
 
-**Links in post:** https://twitter.com/1635868402987450368/status/1797229772399067587
+**Links in post:** https://twitter.com/velocorexyz/status/1797229772399067587
 
 **Quoted post (full text):**
 
@@ -6731,9 +6733,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > • Taking action, @LineaBuild paused its sequencer to prevent the exploiter from withdrawing assets to Ethereum.
 > • Despite Linea's efforts, the exploiter managed to bypass their restrictions using a third-party bridge.
 >
-> (5/9) https://twitter.com/LineaBuild/status/1797283402745573837
+> (5/9) https://twitter.com/1636106911085912069/status/1797283402745573837
 
-**Links in post:** https://twitter.com/LineaBuild/status/1797283402745573837
+**Links in post:** https://twitter.com/1636106911085912069/status/1797283402745573837
 
 **Quoted post (full text):**
 
@@ -6761,9 +6763,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > • As exploit details are not released, the attack vectors remains unknown.
 > • Exploited assets are distributed in multiple BTC addresses.
 >
-> (6/9) https://twitter.com/RektHQ/status/1796809167392637229
+> (6/9) https://twitter.com/1297925400090337280/status/1796809167392637229
 
-**Links in post:** https://twitter.com/RektHQ/status/1796809167392637229
+**Links in post:** https://twitter.com/1297925400090337280/status/1796809167392637229
 
 **Quoted post (full text):**
 
@@ -6797,9 +6799,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > • The root cause of the exploit was poor management of token liability that should be set only once.
 > • However, the liability could be reset by the other function, allowing the exploiter to withdraw more token than staked.
 >
-> (7/9) https://twitter.com/Phalcon_xyz/status/1795355758235693089
+> (7/9) https://twitter.com/1278266969532203008/status/1795355758235693089
 
-**Links in post:** https://twitter.com/Phalcon_xyz/status/1795355758235693089
+**Links in post:** https://twitter.com/1278266969532203008/status/1795355758235693089
 
 **Quoted post (full text):**
 
@@ -6877,7 +6879,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > → accessing historical data
 >
 > Use code "ChainLightC24" to get a discount on your ticket.
-> See you soon. https://t.co/welStJ8cCX
+> See you soon. [pic.x.com/welStJ8cCX]
 
 **Media:**
 - video:  — no alt text provided by author
@@ -6897,7 +6899,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 >
 > Read this 2-minute weekly summary to stay in the loop 🧵👇
 >
-> (1/7) https://t.co/juydlfc6Wv
+> (1/7) [pic.x.com/juydlfc6Wv]
 
 **Media:**
 - video:  — no alt text provided by author
@@ -6927,7 +6929,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > • The admin role of $GALA token contract was exploited, allowing the exploiter to mint an additional 5 billion $GALA tokens.
 > • 592M $GALA were immediately sold for $21.8M worth of ETH on DEXs including Uniswap.
 >
-> (3/7) https://t.co/rG8nJx5JaJ
+> (3/7) https://twitter.com/1306767920404414464/status/1792698768166715776
+
+**Links in post:** https://twitter.com/1306767920404414464/status/1792698768166715776
 
 **Quoted post (full text):**
 
@@ -6940,7 +6944,18 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     >
     > I always knew there was a reason I never talk shit about other projects getting hacked...I'm sorry to say we had an incident that resulted in the unauthorized SALE of 600million (21million usd) $GALA tokens and the effective BURN of 4.4 billion tokens.
     >
-    > We
+    > We identified the compromise and within 45 minutes we secured and removed unauthorized access to the $GALA contract.
+    >
+    > It's important to note our ETH contract for $GALA is secure and under the protection of a multi-sig wallet. It was never compromised.
+    >
+    > We messed up our internal controls...This shouldn't have happened and we are taking steps to ensure it doesn't ever again.
+    >
+    > We believe we have identified the culprit and we are currently working with the FBI, DOJ and a network of international authorities.
+    >
+    > There is the issue of our daily distribution...we will be having a node vote on how to handle this issue. As usual the community will decide how we proceed.
+    >
+    > Can’t stop…won’t stop! Moving on to bigger and better things.
+    > #GALA
     
 
 
@@ -6954,7 +6969,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > • Fortunately, the hacker returned all the ETH to Gala team wallet and burned the remaining $GALA tokens.
 > • Gala team plans to buy back the tokens and burn additional tokens for price stabilization.
 >
-> (4/7) https://t.co/gDQPsf6mwa
+> (4/7) https://twitter.com/1288572182444961793/status/1794063373677568414
+
+**Links in post:** https://twitter.com/1288572182444961793/status/1794063373677568414
 
 **Quoted post (full text):**
 
@@ -6968,7 +6985,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     > This was conducted to remove the wrongly minted $GALA, we also recovered all the ETH and used it on GalaSwap to buy back and burn close to another billion $GALA
     >
     > View below🔽 
-    > https://t.co/g3PcrgJOEx
+    > https://etherscan.io/tx/0x59d87edc805a83f1c6397f053dc3ffe159e3a752192bf709aac21d9d6bf71fb5#eventlog
+    
+    **Links in post:** https://etherscan.io/tx/0x59d87edc805a83f1c6397f053dc3ffe159e3a752192bf709aac21d9d6bf71fb5#eventlog
     
 
 
@@ -6982,7 +7001,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > • The token contract had a pre-market user map that could bypass checks in `swapAndLiquify` function.
 > • As the function only checks if the balance is equal to the team's, the exploiter simply bought the tokens and took the minter role.
 >
-> (5/7) https://t.co/EpTYkFVCxl
+> (5/7) https://twitter.com/0xGolden_/status/1794621170547126698
+
+**Links in post:** https://twitter.com/0xGolden_/status/1794621170547126698
 
 **Quoted post (full text):**
 
@@ -6995,7 +7016,35 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     >
     > 1. The exploiter's wallet was funded by secret network
     >
-    > 2. The Normie contact had a premarket user map that bypasses https://t.co/SuTqTlJf4W
+    > 2. The Normie contact had a premarket user map that bypasses checks within the swapAndLiquify function, allowing tokens to be minted and sold.
+    >
+    > 3. The dumb contract only checks if your token balance is the same as the team wallet, and if it is, you can mint tokens.
+    >
+    > 4. The exploiter bought/sold NORMIE tokens to have the same amount of tokens as the team wallet.
+    >
+    > 5. The exploiter started minting tokens and selling them on the open market, and the total supply of the coin has now increased by 100's of % and is actively being sold on the open market.
+    >
+    > 6. So the exploiter can mint unlimited tokens and dump on token holders, which means its probably not a good idea to buy the dip here.
+    >
+    > So overall, this exploit was due to a poor contract design.
+    >
+    > I am not 100% sure that this is exactly what happened, some are also saying that it is due to flash-dump + flash-buy at very cheap basically minting tokens to dump, but it seems more likely that it is the contract issue as seen above based on current information.
+    >
+    > Who else might be effected:
+    >
+    > Anyone that forked NORMIE's contact, which can be seen if you input the contract address on Token Sniffer and check similar contracts, notably, HarryPotterObamaSonic10Inu is also on the list and has also been exploited before.
+    >
+    > What Normie can do to fix this situation:
+    >
+    > The best thing they could do is relaunch the coin, hire a actual dev to build the contract and not some fiverr dev, and relaunch NORMIE, and snipe most of the supply at launch and control it to stop snipers.
+    >
+    > Worse case, if they don't want to relaunch, they can blacklist the exploiter wallet and try to run it back up.
+    >
+    > gg well played sadly
+    >
+    > just a part of trading in the trenches
+    >
+    > rip
     
     **Media:**
     - media `3_1794617159852978176` (details not returned by the API)
@@ -7012,7 +7061,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > • The misconfigured parameters in the contract deployment script allowed users to claim staked $UP, according to the team's postmortem.
 > • The team announced a buyback of the $UP tokens through the treasury assets.
 >
-> (6/7) https://t.co/xJqLkSBArz
+> (6/7) https://twitter.com/1679310423928233985/status/1793953653956772315
+
+**Links in post:** https://twitter.com/1679310423928233985/status/1793953653956772315
 
 **Quoted post (full text):**
 
@@ -7023,7 +7074,28 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     
     > To Our Valued Community,
     >
-    > Yesterday, TonUP Staking suffered a loss due to a smart contract issue. 307,264 $UP tokens were mistakenly drained from the $UP/ $TONG staking contract. Immediately after the incident, we suspended the smart contract and allocated 107,600 $USDT at the
+    > Yesterday, TonUP Staking suffered a loss due to a smart contract issue. 307,264 $UP tokens were mistakenly drained from the $UP/ $TONG staking contract. Immediately after the incident, we suspended the smart contract and allocated 107,600 $USDT at the current price on the chain for repurchasing these incorrectly sold tokens in the market.
+    >
+    > - $107,600 has been fully utilized for the $UP token buyback, which has been completed: https://tonviewer.com/EQD1XwGEtb3DFr4fubwa_DyR9UgdGjy12vIiBIGeyhmQuyer
+    >
+    > - 307,264 UP tokens have been returned to the staking contract, and all users' staked assets and rewards remain unaffected: https://tonviewer.com/transaction/5cc13682c118e87bde1531457100516c10d2a9f4e07d37028f48984ca76b3a36
+    >
+    > - The excess buyback 10,338.53 UP tokens have been burned: https://tonviewer.com/transaction/bbb7bafd335a273854fd0859c6dc3bbc8c79102d4a2a000bb2432269eeb97adb
+    >
+    > After our investigation, the incident occurred due to the smart contract engineer misconfiguring the script parameters, causing users to mistakenly claim the staked $UP assets. While we regret this unfortunate mistake, we have taken all necessary steps to rectify the situation and prevent similar incidents from occurring in the future. We have implemented additional internal security protocols and procedures to strengthen our project management and quality assurance processes.
+    >
+    > To demonstrate the ongoing security and integrity of our smart contracts, we have commissioned a comprehensive audit by an industry-leading security firm TonBit.
+    > Audit report: https://tonbit.xyz/reports/TonUP-Smart-Contract-Final-Audit-Report.pdf
+    >
+    > We understand that this incident has caused understandable concern within our community. Please be assured that all users' staked assets and rewards remain completely unaffected. You can continue to unstake your tokens through our website after the staking period expires, and your staking rewards will be available to claim on the website later.
+    > Official Link: https://tonup.io/stake
+    >
+    > The TonUP team remains fully committed to the TON ecosystem and to building innovative products and services for our valued community. We appreciate your continued trust and support during this time, and we welcome any questions or concerns you may have.
+    >
+    > Sincerely,
+    > The TonUP Team
+    
+    **Links in post:** https://tonviewer.com/EQD1XwGEtb3DFr4fubwa_DyR9UgdGjy12vIiBIGeyhmQuyer, https://tonviewer.com/transaction/5cc13682c118e87bde1531457100516c10d2a9f4e07d37028f48984ca76b3a36, https://tonviewer.com/transaction/bbb7bafd335a273854fd0859c6dc3bbc8c79102d4a2a000bb2432269eeb97adb, https://tonbit.xyz/reports/TonUP-Smart-Contract-Final-Audit-Report.pdf, https://tonup.io/stake
     
 
 
@@ -7038,10 +7110,12 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 >
 > To stay up-to-date with the latest reports and research from our award-winning security researchers:
 >
-> 👉 Subscribe Newsletter: https://t.co/C4miHX1FMI
-> 👉 Join Discord: https://t.co/JLtmTXIXXr
+> 👉 Subscribe Newsletter: http://mailchi.mp/chainlight/newsletter
+> 👉 Join Discord: http://discord.com/invite/chainlight
 >
 > (7/7)
+
+**Links in post:** http://mailchi.mp/chainlight/newsletter, http://discord.com/invite/chainlight
 
 
 ---
@@ -7061,7 +7135,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
 >
 > Read this 2-minute weekly summary to stay in the loop 🧵👇
 >
-> (1/9) https://t.co/qrMUXRShoX
+> (1/9) [pic.x.com/qrMUXRShoX]
 
 **Media:**
 - video:  — no alt text provided by author
@@ -7093,7 +7167,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
 > • XLink, a BTC bridge operated by Alex Lab, got its bridge contract on Ethereum and BSC drained due to private key leakage.
 > • Fortunately, the stolen assets of worth $4.3M were fully recovered.
 >
-> (3/9) https://t.co/Y6Atpv2Mne
+> (3/9) https://twitter.com/Brotocol_xyz/status/1790545326555770896
+
+**Links in post:** https://twitter.com/Brotocol_xyz/status/1790545326555770896
 
 **Quoted post (full text):**
 
@@ -7107,6 +7183,10 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
     > We recently identified a security issue on the XLink Bridge. Our team acted swiftly to shut down the attack vector.
     >
     > XLink endpoints on Ethereum and BNB were compromised. Endpoints on other chains, including the Bitcoin multisig, are not affected.
+    >
+    > The bridge is currently paused while we conduct a thorough investigation with our security partners, including @AnciliaInc, and also are in touch with the Binance team on the incident.
+    >
+    > We understand the importance of transparency and will provide additional details as we continue our investigation to identify the attacker with the aim of returning funds withdrawn.
     
 
 
@@ -7121,7 +7201,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
 > • One of its LP vaults was drained, which includes $27.4M worth of STX.
 > • Stolen funds are distributed in various CEX and EOAs.
 >
-> (4/9) https://t.co/jhqXzQ6oFl
+> (4/9) https://twitter.com/1403698101060313090/status/1791020176332230988
+
+**Links in post:** https://twitter.com/1403698101060313090/status/1791020176332230988
 
 **Quoted post (full text):**
 
@@ -7133,7 +7215,31 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
     > ALEX Security Update
     >
     > Dear Community,
-    > We want to keep everyone informed about the recent attack and our ongoing efforts to address the situation with ALEX. Yesterday, we became aware of an exploit using compromised private keys obtained via a phishing attack. The exploiter was
+    > We want to keep everyone informed about the recent attack and our ongoing efforts to address the situation with ALEX. Yesterday, we became aware of an exploit using compromised private keys obtained via a phishing attack. The exploiter was able to drain some assets from the ALEX protocol. We are prioritizing supporting our community and will share more detailed figures as open efforts to freeze funds progress.
+    >
+    > KEY POINTS
+    > Affected Assets: The exploiter conducted a targeted attack, taking over as the admin of one of the vaults associated with ALEX liquidity pool (https://explorer.hiro.so/txid/0x17d6c0f925134dbb75fa74d61dff9c20e681f37c834a7125717307af6825e4c6?chain=mainnet) and affecting all assets in that vault (https://explorer.hiro.so/txid/SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.alex-vault-v1-1?chain=mainnet), including about 13.7 million STX, of which about 3 million was sent to various CEXs with the amount increasing and the balance remaining on a few wallets.
+    >
+    > So far, we recovered all aBTC, sUSDT, xBTC, xUSD, ALEX, atALEX, LiSTX, LUNR, SKO, CHAX, $B20, ORDG, ORMM, ORNJ, TRIO, TX20 and STXS. 
+    >
+    > The smart contract code and infrastructure underlying ALEX were not compromised.
+    >
+    > Monitoring and Actions: The exploiter’s wallets are being closely monitored, and all relevant centralized exchanges (CEXs) have been notified. All known CEX accounts associated with the exploiter are frozen. Furthermore, all those exchanges have been requested to stop all deposit and withdrawal function until further notice. In support of the effort to trace the stolen funds, we have set up multiple alarms to monitor all suspected addresses suspected to be created by the exploiters for the movement of funds.
+    >
+    > Fund Recovery: A portion of the stolen funds have been identified and are in the process of being recovered from one CEX. We are actively working through the required processes with other CEXs to facilitate the return of additional funds.
+    >
+    > Legal Measures: In further efforts to recover the stolen funds, we are preparing to file a police report to obtain police support on our recovery efforts if the exploiter does not come forward to cooperate with us in time.
+    >
+    > NEXT STEPS
+    > To further monitor the exploiter's movements and block any further transfer of funds, we are sharing the current forensic data with all relevant CEXs. You can view the details in this Forensic Data Spreadsheet https://docs.google.com/spreadsheets/d/1soFi1f-6pIscJIbaDzq_71LiEZ-B1_RO1CcD8hr8W24/edit#gid=52390640. We will continue to update this sheet with new information based on the attackers’ movements.
+    >
+    > As there is no assurance that all stolen funds will be recovered, we are evaluating deployment of $ALEX reserves held by ALEX Lab Foundation (which are held for purposes of dealing with situations like the current incident) towards funding of a treasury grant program to support our community impacted by this attack during these challenging times. 
+    >
+    > Additionally, we are considering the possibility of proposing, i.e. SIP, to the @Stacks community for the burn of STX in the wallets holding unrecovered stolen funds of our community and fresh mint of STX to those impacted.
+    >
+    > We appreciate your patience and support as we work through these challenging times. Rest assured, we are doing everything possible to resolve this situation and support the affected ALEX community.
+    
+    **Links in post:** https://explorer.hiro.so/txid/0x17d6c0f925134dbb75fa74d61dff9c20e681f37c834a7125717307af6825e4c6?chain=mainnet, https://explorer.hiro.so/txid/SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.alex-vault-v1-1?chain=mainnet, https://docs.google.com/spreadsheets/d/1soFi1f-6pIscJIbaDzq_71LiEZ-B1_RO1CcD8hr8W24/edit#gid=52390640
     
 
 
@@ -7148,7 +7254,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
 > • The timelock contract was misimplemented, which allowed anyone to execute transactions after timelock.
 > • The exploiter executed transactions before the team and manipulated the pool.
 >
-> (5/9) https://t.co/o9eSrHqOJk
+> (5/9) https://twitter.com/1562812175869026305/status/1790578458172563648
+
+**Links in post:** https://twitter.com/1562812175869026305/status/1790578458172563648
 
 **Quoted post** 1790578458172563648: not readable via the API (deleted, private, or withheld).
 
@@ -7163,7 +7271,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
 > • The exploiter performed a flashloan attack and gained access to the bonding curve liquidity of the pools.
 > • An ex-employee, @STACCoverflow, publicly exploited the project being upset with the platform.
 >
-> (6/9) https://t.co/fkpha1aR8w
+> (6/9) https://twitter.com/1622243071806128131/status/1791164438852083807
+
+**Links in post:** https://twitter.com/1622243071806128131/status/1791164438852083807
 
 **Quoted post (full text):**
 
@@ -7172,11 +7282,17 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
     - URL: https://x.com/1622243071806128131/status/1791164438852083807
     - Metrics (at fetch): bookmark 181, impression 817105, like 1737, quote 296, reply 666, retweet 375
     
-    > We are aware that the https://t.co/uE2QNKXkIT bonding curve contracts have been compromised and are investigating the matter.
+    > We are aware that the http://pump.fun bonding curve contracts have been compromised and are investigating the matter.
     >
     > We have upgraded the contracts so the attacker cannot siphon any more funds. The TVL in the protocol right now is safe. 
     >
-    > We’ve paused trading — you
+    > We’ve paused trading — you cannot buy and sell any coins at the moment. Any coins that are currently in the process of migrating to Raydium cannot be traded and will not be migrating for an indefinite period of time. 
+    >
+    > Any coins that have made it off the http://pump.fun bonding curve contracts with locked LPs on Raydium are safe. If you have ever connected your wallet to http://pump.fun, your wallet is safe.
+    >
+    > We are committed to ensuring the safety of our users and are cooperating with relevant parties, including law enforcement, to minimize the damage.
+    
+    **Links in post:** http://pump.fun
     
 
 
@@ -7191,7 +7307,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
 > • The `trade` function that set the locker included a callback logic that lacked access control.
 > • The exploiter could add and register a trading pair via callback and gain the locker role.
 >
-> (7/9) https://t.co/sBvAVWRzxJ
+> (7/9) https://twitter.com/1464168784336494592/status/1790343639492681762
+
+**Links in post:** https://twitter.com/1464168784336494592/status/1790343639492681762
 
 **Quoted post (full text):**
 
@@ -7202,7 +7320,13 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
     
     > Important Announcement  - May. 14, 2024
     >
-    > An attack has been detected on Predy. The cause is under investigation. Predy uses Permit2, which means that the User does not directly approve to Predy's contract, so we are aware that there is no theft of funds from the user’s use of
+    > An attack has been detected on Predy. The cause is under investigation. Predy uses Permit2, which means that the User does not directly approve to Predy's contract, so we are aware that there is no theft of funds from the user’s use of Trade.
+    >
+    > However we encourage you to Revoke about Predy here. We are aware that anyone who has accessed the Lending Pool in the past should Revoke as their funds may be at risk.
+    >
+    > https://arbiscan.io/tokenapprovalchecker?search
+    
+    **Links in post:** https://arbiscan.io/tokenapprovalchecker?search
     
 
 
@@ -7217,7 +7341,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
 > • Its main hedge fund was reported to be partially drained due to the security breach.
 > • The details of the exploit are not disclosed.
 >
-> (8/9) https://t.co/C7vxfmRfSQ
+> (8/9) https://twitter.com/TheBlockCo/status/1790649129607070119
+
+**Links in post:** https://twitter.com/TheBlockCo/status/1790649129607070119
 
 **Quoted post (full text):**
 
@@ -7226,7 +7352,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
     - URL: https://x.com/TheBlockCo/status/1790649129607070119
     - Metrics (at fetch): bookmark 2, impression 9784, like 20, quote 1, reply 6, retweet 2
     
-    > BlockTower Capital's main hedge fund 'partially drained' in attack: Bloomberg https://t.co/OZYYiOSoaW
+    > BlockTower Capital's main hedge fund 'partially drained' in attack: Bloomberg https://www.theblock.co/post/294533/blocktower-capitals-main-hedge-fund-partially-drained-in-attack-bloomberg?utm_source=twitter&utm_medium=social
+    
+    **Links in post:** https://www.theblock.co/post/294533/blocktower-capitals-main-hedge-fund-partially-drained-in-attack-bloomberg?utm_source=twitter&utm_medium=social
     
 
 
@@ -7241,10 +7369,12 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
 >
 > To stay up-to-date with the latest reports and research from our award-winning security researchers:
 >
-> 👉 Subscribe Newsletter: https://t.co/C4miHX1FMI
-> 👉 Join Discord: https://t.co/JLtmTXIXXr
+> 👉 Subscribe Newsletter: http://mailchi.mp/chainlight/newsletter
+> 👉 Join Discord: http://discord.com/invite/chainlight
 >
 > (9/9)
+
+**Links in post:** http://mailchi.mp/chainlight/newsletter, http://discord.com/invite/chainlight
 
 
 ---
@@ -7295,7 +7425,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > • Due to a private key leakage, the exploiters managed to create fake $GNUS tokens on the Fantom network using the Axelar bridge.
 > • They minted and dumped 100 million fake tokens, leading to a loss of $1.28 million.
 >
-> (3/7) https://t.co/ByMfptuwBN
+> (3/7) https://twitter.com/GnusAi/status/1787612336221479286
+
+**Links in post:** https://twitter.com/GnusAi/status/1787612336221479286
 
 **Quoted post (full text):**
 
@@ -7308,7 +7440,20 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     >
     > Following our recent AMA, we want to update you on our recovery path post-exploit. We've successfully secured the exploit, and all tokens are safe. Our underlying token contract remains secure, and we'll continue with the current CA.
     >
-    > We are addressing the surplus
+    > We are addressing the surplus tokens minted during the hack through a company buyback and burn strategy.
+    >
+    > If you held tokens prior to the exploit and sold them immediately after the exploit, please fill out this form to provide your wallet information for eligibility consideration to re-purchase those tokens for $1 per token: https://docs.google.com/forms/d/e/1FAIpQLSePIneMq8BRLa27RUa2OeBabbrVysW6Ac3padpkzsLfIe9tTQ/viewform
+    >
+    > Eligibility applies to sales between these block times:
+    >
+    > Pre-Exploit: 19802980 (May-05-2024 09:24:47 AM +UTC)
+    > Post-Exploit: 19812306 (May-06-2024 04:43:11 PM +UTC)
+    >
+    > We are offering a white hat bounty worth 10% of the stolen funds and have involved authorities to help track down the funds.
+    >
+    > Thank you to everyone who continues to support, build, and develop with us.
+    
+    **Links in post:** https://docs.google.com/forms/d/e/1FAIpQLSePIneMq8BRLa27RUa2OeBabbrVysW6Ac3padpkzsLfIe9tTQ/viewform
     
 
 
@@ -7325,6 +7470,8 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 >
 > (4/7) https://t.co/rAb7QKsrEn
 
+**Links in post:** https://t.co/rAb7QKsrEn
+
 **Quoted post** 1788605137012797628: not readable via the API (deleted, private, or withheld).
 
 
@@ -7338,7 +7485,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > • As the `setMerkleRoot` function in the contract failed to manage the access control, the exploiter could call the critical functions and drain the contract.
 > • The team has not released any responses regarding the exploit.
 >
-> (5/7) https://t.co/yb5ZgeroVl
+> (5/7) https://twitter.com/Phalcon_xyz/status/1788753403121692689
+
+**Links in post:** https://twitter.com/Phalcon_xyz/status/1788753403121692689
 
 **Quoted post (full text):**
 
@@ -7350,10 +7499,12 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     > ALERT! Our system detected attack transactions targeting @GalaxyFoxToken, and the loss is over $300K.
     > It is probably due to an access control issue, and the victim has been drained.
     >
-    > Subscribe to Phalcon to monitor attacks and take automatic actions: https://t.co/pN2xDiTk64 https://t.co/nXVlE3wpVJ
+    > Subscribe to Phalcon to monitor attacks and take automatic actions: https://blocksec.com/phalcon [pic.x.com/nXVlE3wpVJ]
     
     **Media:**
     - media `3_1788751118341656576` (details not returned by the API)
+    
+    **Links in post:** https://blocksec.com/phalcon
     
 
 
@@ -7369,6 +7520,8 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 >
 > (6/7) https://t.co/t6v3wDc8Ot
 
+**Links in post:** https://t.co/t6v3wDc8Ot
+
 **Quoted post** 1788941543514223046: not readable via the API (deleted, private, or withheld).
 
 
@@ -7383,10 +7536,12 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 >
 > To stay up-to-date with the latest reports and research from our award-winning security researchers:
 >
-> 👉 Subscribe Newsletter: https://t.co/C4miHX1FMI
-> 👉 Join Discord: https://t.co/JLtmTXIXXr
+> 👉 Subscribe Newsletter: http://mailchi.mp/chainlight/newsletter
+> 👉 Join Discord: http://discord.com/invite/chainlight
 >
 > (7/7)
+
+**Links in post:** http://mailchi.mp/chainlight/newsletter, http://discord.com/invite/chainlight
 
 
 ---
@@ -7922,9 +8077,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > Thank you, President Yoon Suk Yeol.
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GL3z6gsacAIl_dL.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/GL3z6gpb0AAa0ax.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/GL3z6guacAQP2bU.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
+- photo:  — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---

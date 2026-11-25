@@ -1,13 +1,15 @@
 # How an Android OAuth Custom Scheme Became a Full Account Takeover
 
 - **Source URL:** https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac
-- **Fetched from:** https://medium.com/feed/@mohamedatefsarhan123
-- **Fetched:** 2026-11-17
+- **Fetched from:** https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss-25cced41232d------2
+- **Fetched:** 2026-11-25
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 14916)
-- **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
+- **Method:** medium-rss-feed (full content:encoded) readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
 
 ---
+- **Author/Published (RSS):** 0xlight / Fri, 18 Sep 2026 00:10:50 GMT
+
 OAuth is often treated as a solved problem: authenticate the user, issue an authorization code, exchange it for a token, and move on.
 
 Mobile applications make that assumption dangerous.
@@ -19,8 +21,6 @@ The interesting part came next.
 The intercepted authorization code was not protected by PKCE, meaning there was no cryptographic proof tying the code redemption to the application that originally initiated the authentication request. As a result, a code captured by an attacker-controlled application could be replayed from another device and exchanged for an authenticated session.
 
 In this writeup, I’ll break down the vulnerability from the Android manifest level to the OAuth flow, show how the authorization code was intercepted and redeemed, explain why PKCE was the missing security boundary, and outline the changes that would prevent the attack.
-
-### 1. Starting Point: Inspecting the Android Application
 
 The investigation started with the Android APK.
 
@@ -92,8 +92,6 @@ victim-app://
 
 This immediately created a potential interception primitive.
 
-### 2. Why the Custom Scheme Mattered
-
 Android custom URI schemes do not provide the same ownership verification mechanism as HTTPS App Links.
 
 An application can register:
@@ -105,14 +103,6 @@ without proving that it owns the namespace.
 That means another application can declare the same scheme.
 
 I created a minimal test application containing:
-
-\<intent-filter>
-
-\<action android:name="android.intent.action.VIEW"/>
-
-\<category android:name="android.intent.category.DEFAULT"/>
-
-\<category android:name="android.intent.category.BROWSABLE"/>
 
 \<data android:scheme="victim-app"/>
 
@@ -137,8 +127,6 @@ At this point, there was a possible OAuth interception issue.
 But interception alone does not automatically equal account takeover.
 
 The next step was understanding the authentication flow.
-
-### 3. Tracing the OAuth Flow
 
 The Android application did not perform the entire authentication process internally.
 
@@ -188,8 +176,6 @@ Application
 
 The next question was whether the authorization request used PKCE.
 
-### 4. Looking for PKCE
-
 A secure mobile OAuth authorization-code flow should normally use:
 
 code\_challenge
@@ -224,8 +210,6 @@ However, client-side behavior alone was not enough.
 
 The server had to be tested.
 
-### 5. Testing the Authorization Endpoint
-
 I then examined the OAuth authorization endpoint.
 
 A non-registered redirect URI was submitted as a control request.
@@ -250,15 +234,9 @@ victim-app://app/oauth-callback
 
 The server therefore recognized the vulnerable custom scheme as a legitimate OAuth redirect target.
 
-### 6. Testing Whether PKCE Was Actually Enforced
-
 The next test was intentionally simple.
 
 I compared authorization behavior with and without:
-
-code\_challenge
-
-code\_challenge\_method=S256
 
 No meaningful enforcement difference appeared.
 
@@ -270,11 +248,7 @@ It was also not enforced as a server-side requirement for the flow.
 
 The security boundary that should have protected an intercepted authorization code was therefore missing.
 
-### 7. Building the Interceptor
-
 To prove the Android side of the vulnerability, I created a minimal application that registered the same scheme:
-
-\<data android:scheme="victim-app"/>
 
 The application extracted the authorization code from the incoming Intent:
 
@@ -303,8 +277,6 @@ Display captured authorization code
 There was no special Android permission involved.
 
 The vulnerability existed because the OAuth callback itself was claimable by another application.
-
-### 8. Validating the Callback Interception
 
 The next step was to determine whether a callback containing an authorization code could actually reach the malicious application.
 
@@ -348,8 +320,6 @@ The authorization code was now in attacker-controlled memory.
 
 The remaining question was whether the code could be exchanged for a session.
 
-### 9. Testing Authorization-Code Redemption
-
 The authorization code was then submitted to the authentication backend from a separate machine.
 
 The request was conceptually:
@@ -380,10 +350,6 @@ The server accepted the code and returned an authenticated access token.
 
 The response indicated an authenticated session rather than a partially authenticated state.
 
-### **The Complete Attack Chain**
-
-### Impact
-
 The practical impact was **account takeover for affected mobile users under the demonstrated conditions**.
 
 An attacker-controlled application required no special Android permission beyond being able to register the same custom URI scheme.
@@ -408,13 +374,8 @@ The resulting session provided access to the victim’s authenticated API surfac
 
 Depending on the application’s available permissions, this could include:
 
-- reading private messages;
-- accessing attached files;
-- sending messages as the victim;
-- modifying profile information;
-- interacting with account recovery functionality;
-- managing authentication-related settings.
-
-### The End
-
 *— 0xlight*
+
+Follow for more :
+
+X : [Xaccount](https://x.com/lightx0yagumi) — — Linked : [account](https://www.linkedin.com/in/mohamed-sarhan-590b72279)

@@ -2661,7 +2661,7 @@ Tags (automatic): Smart contract / DeFi
 > Let's dive in 🧵👇 [pic.x.com/pYv8bqWLAf]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/F2i09WEXcBM0aAF.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -2724,7 +2724,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > &gt; tfw you audit Solana so well, the SEC considers it "security" [pic.x.com/cRe1fwH6eV] https://twitter.com/SolanaFndn/status/1667578529612017666
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FySU4NJWcAMTUnX.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 **Links in post:** https://twitter.com/SolanaFndn/status/1667578529612017666
 
@@ -3148,7 +3148,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2022-11-12 18:22 UTC (2022-11-12 19:22 WAT)
 
 - URL: https://x.com/Neodyme/status/1591496755258040327
-- Metrics (at fetch): bookmark 80, impression 0, like 285, quote 13, reply 15, retweet 82
+- Metrics (at fetch): bookmark 80, impression 0, like 286, quote 13, reply 15, retweet 82
 
 > Who **actually** controls the largest projects on #solana? What's the deal with Upgrade Authorities? Are your funds more safu in DeFi contracts than they were on #FTX?
 >
@@ -3565,7 +3565,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Post — @Neodyme — 2022-06-21 16:58 UTC (2022-06-21 17:58 WAT)
 
 - URL: https://x.com/Neodyme/status/1539291735540506627
-- Metrics (at fetch): bookmark 11, impression 0, like 64, quote 2, reply 16, retweet 18
+- Metrics (at fetch): bookmark 11, impression 0, like 65, quote 2, reply 16, retweet 18
 
 > 1/4 🧵 
 > There's been a lot of fuss around the recent #Solend DAO vote, with lots of discussion about what a protocol should be able to change about its #Solana smart contract.

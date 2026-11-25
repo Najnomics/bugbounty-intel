@@ -2,8 +2,8 @@
 
 _Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 293
-- Conversations/threads: 198
+- Posts in this file: 297
+- Conversations/threads: 202
 - Oldest post captured: 2013-03-23
 - Newest post captured: 2024-11-27
 
@@ -645,7 +645,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2024-10-24 · Post · CVE-2024-47575 🤷‍♂️ https://t.co/Mh8ELBsUWF
+## 2024-10-24 · Post · CVE-2024-47575 🤷‍♂️ https://twitter.com/ajxchapman/status/1846462896739377401
 
 
 ### Post — @ajxchapman — 2024-10-24 21:23 UTC (2024-10-24 22:23 WAT)
@@ -653,7 +653,9 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/ajxchapman/status/1849562458777845802
 - Metrics (at fetch): bookmark 6, impression 8133, like 90, quote 1, reply 0, retweet 12
 
-> CVE-2024-47575 🤷‍♂️ https://t.co/Mh8ELBsUWF
+> CVE-2024-47575 🤷‍♂️ https://twitter.com/ajxchapman/status/1846462896739377401
+
+**Links in post:** https://twitter.com/ajxchapman/status/1846462896739377401
 
 **Quoted post (full text):**
 
@@ -662,16 +664,16 @@ Tags (automatic): Platform: HackerOne
     - URL: https://x.com/ajxchapman/status/1846462896739377401
     - Metrics (at fetch): bookmark 234, impression 153151, like 2465, quote 11, reply 26, retweet 205
     
-    > CVE-2024-23113 🤦 https://t.co/gj7t5BaRWY
+    > CVE-2024-23113 🤦 [pic.x.com/gj7t5BaRWY]
     
     **Media:**
-    - photo: https://pbs.twimg.com/media/GZ_0KIPXwAAPj2D.png — no alt text provided by author
+    - photo:  — no alt text provided by author
     
 
 
 ---
 
-## 2024-10-16 · Post · CVE-2024-23113 🤦 https://t.co/gj7t5BaRWY
+## 2024-10-16 · Post · CVE-2024-23113 🤦 [pic.x.com/gj7t5BaRWY]
 
 
 ### Post — @ajxchapman — 2024-10-16 08:07 UTC (2024-10-16 09:07 WAT)
@@ -679,10 +681,10 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/ajxchapman/status/1846462896739377401
 - Metrics (at fetch): bookmark 234, impression 153151, like 2465, quote 11, reply 26, retweet 205
 
-> CVE-2024-23113 🤦 https://t.co/gj7t5BaRWY
+> CVE-2024-23113 🤦 [pic.x.com/gj7t5BaRWY]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GZ_0KIPXwAAPj2D.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -706,7 +708,9 @@ Tags (automatic): Platform: HackerOne
     - URL: https://x.com/1878837020/status/1844086562226884750
     - Metrics (at fetch): bookmark 17, impression 55184, like 136, quote 5, reply 18, retweet 9
     
-    > I appreciate the tags here - this user was was not permanently banned, but has received a one-year ban after accumulating nine infractions, not just one, over multiple customers https://t.co/mHSfLl8pFd
+    > I appreciate the tags here - this user was was not permanently banned, but has received a one-year ban after accumulating nine infractions, not just one, over multiple customers https://twitter.com/golu_369/status/1843639780556583122
+    
+    **Links in post:** https://twitter.com/golu_369/status/1843639780556583122
     
     **Quoted post** 1843639780556583122: not readable via the API (deleted, private, or withheld).
     
@@ -730,7 +734,9 @@ Tags (automatic): Platform: HackerOne
 - URL: https://x.com/ajxchapman/status/1843571574429171728
 - Metrics (at fetch): bookmark 0, impression 2924, like 17, quote 0, reply 2, retweet 0
 
-> On another note, bug hunters should _definitely_ get sick pay 🤒 My brain feels like a pair of confused ferrets wrestling in a sack right now... not exactly conducive to finding bugs. https://t.co/HR98U7n101
+> On another note, bug hunters should _definitely_ get sick pay 🤒 My brain feels like a pair of confused ferrets wrestling in a sack right now... not exactly conducive to finding bugs. https://twitter.com/ajxchapman/status/1843568100706501067
+
+**Links in post:** https://twitter.com/ajxchapman/status/1843568100706501067
 
 **Quoted post (full text):**
 
@@ -796,7 +802,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2024-10-05 · Post · I went through _all_ my old Bug Bounty reports to contribute CSP bypasses to @renniepak's https://t.
+## 2024-10-05 · Post · I went through _all_ my old Bug Bounty reports to contribute CSP bypasses to @renniepak's http://csp
 
 
 Tags (automatic): CSP / CSPT
@@ -807,9 +813,11 @@ Tags (automatic): CSP / CSPT
 - URL: https://x.com/ajxchapman/status/1842604337820008915
 - Metrics (at fetch): bookmark 21, impression 6635, like 80, quote 1, reply 0, retweet 3
 
-> I went through _all_ my old Bug Bounty reports to contribute CSP bypasses to @renniepak's https://t.co/vnyd95E6Pn project... granted the result was a single variation of something he already had, but still 😆
+> I went through _all_ my old Bug Bounty reports to contribute CSP bypasses to @renniepak's http://cspbypass.com project... granted the result was a single variation of something he already had, but still 😆
 >
-> Contribute if you can, this really could become an invaluable resource https://t.co/HOr8IFMfJa
+> Contribute if you can, this really could become an invaluable resource https://twitter.com/renniepak/status/1842594520992772487
+
+**Links in post:** http://cspbypass.com, https://twitter.com/renniepak/status/1842594520992772487
 
 **Quoted post** 1842594520992772487: not readable via the API (deleted, private, or withheld).
 
@@ -840,7 +848,7 @@ Tags (automatic): RCE
 ### Post — @ajxchapman — 2024-06-20 06:40 UTC (2024-06-20 07:40 WAT)
 
 - URL: https://x.com/ajxchapman/status/1803679295589519570
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 3212, like 22, quote 0, reply 0, retweet 1
 
 > If you have to repeatedly refer to your actions leading up to a bug report as "WhiteHat", perhaps it is yourself you are trying to convince 🤔
 
@@ -853,9 +861,24 @@ Tags (automatic): RCE
 ### Post — @ajxchapman — 2024-06-06 06:11 UTC (2024-06-06 07:11 WAT)
 
 - URL: https://x.com/ajxchapman/status/1798598695359029388
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 4, impression 4173, like 56, quote 0, reply 2, retweet 0
 
 > A #BugBountyTip for program managers. If someone makes a generic complaint about programs, without specifically mentioning _your_ program, having 4 of your staff dust of year dormant accounts to "defend" your position only confirms you are the problem and alienates bug hunters 🤷‍♂️
+
+
+---
+
+## 2024-05-31 · Post · It happened again, the Friday 1730 critical report 🤦
+
+
+### Post — @ajxchapman — 2024-05-31 16:38 UTC (2024-05-31 17:38 WAT)
+
+- URL: https://x.com/ajxchapman/status/1796582119365599471
+- Metrics (at fetch): bookmark 1, impression 6767, like 42, quote 1, reply 2, retweet 0
+
+> It happened again, the Friday 1730 critical report 🤦
+>
+> I swear I don't do this on purpose!
 
 
 ---
@@ -866,7 +889,7 @@ Tags (automatic): RCE
 ### Post — @ajxchapman — 2024-05-28 19:29 UTC (2024-05-28 20:29 WAT)
 
 - URL: https://x.com/ajxchapman/status/1795537984726667563
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 6329, like 28, quote 0, reply 3, retweet 1
 
 > He says, then proceeds to exploit yet another Server Side Browser... and eyes a second one 🤦 https://twitter.com/ajxchapman/status/1795430695575388273
 
@@ -877,7 +900,7 @@ Tags (automatic): RCE
     #### Quoted post — @ajxchapman — 2024-05-28 12:23 UTC (2024-05-28 13:23 WAT)
     
     - URL: https://x.com/ajxchapman/status/1795430695575388273
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 0, impression 7526, like 12, quote 1, reply 2, retweet 0
     
     > I'll always be interested in Chrome / V8 exploitation, but for now I need to branch back out from this highly specialised niche. I think it'd do me good to get back into hunting for other types of issues!
     >
@@ -893,7 +916,7 @@ Tags (automatic): RCE
 ### Post — @ajxchapman — 2024-05-28 12:23 UTC (2024-05-28 13:23 WAT)
 
 - URL: https://x.com/ajxchapman/status/1795430695575388273
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 7526, like 12, quote 1, reply 2, retweet 0
 
 > I'll always be interested in Chrome / V8 exploitation, but for now I need to branch back out from this highly specialised niche. I think it'd do me good to get back into hunting for other types of issues!
 >
@@ -1048,7 +1071,9 @@ Tags (automatic): Platform: Bugcrowd
 
 > Some amazing feedback from the @Bugcrowd team this month ❤️
 >
-> "It's a rare pleasure to encounter such a well-documented and compelling report with a well-crafted POC. I'm honestly impressed by your ability to present complex vulnerabilities in a clear and concise manner." https://t.co/Od9SLSZqAJ
+> "It's a rare pleasure to encounter such a well-documented and compelling report with a well-crafted POC. I'm honestly impressed by your ability to present complex vulnerabilities in a clear and concise manner." https://twitter.com/ajxchapman/status/1762407221575442814
+
+**Links in post:** https://twitter.com/ajxchapman/status/1762407221575442814
 
 **Quoted post (full text):**
 
@@ -1067,13 +1092,94 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
+## 2024-03-11 · Post · 2024 YTD BugBounty stats update, Week 10:
+
+
+### Post — @ajxchapman — 2024-03-11 16:51 UTC (2024-03-11 17:51 WAT)
+
+- URL: https://x.com/ajxchapman/status/1767231995405332516
+- Metrics (at fetch): not returned
+
+> 2024 YTD #BugBounty stats update, Week 10:
+>
+> 📄 20 issues reported (14 crit, 3 high, 3 medium)
+> 💰 15 issues Paid
+> 🟤 2 Duplicate
+> ⚪ 1 Informational
+> 🔴 1 OOS
+>
+> I had to sneak a Critical report in over the weekend just to make sure these stats keep ticking up 😆 https://twitter.com/ajxchapman/status/1764617977909936539
+
+**Links in post:** https://twitter.com/ajxchapman/status/1764617977909936539
+
+**Quoted post (full text):**
+
+    #### Quoted post — @ajxchapman — 2024-03-04 11:44 UTC (2024-03-04 12:44 WAT)
+    
+    - URL: https://x.com/ajxchapman/status/1764617977909936539
+    - Metrics (at fetch): bookmark 12, impression 17527, like 67, quote 1, reply 4, retweet 2
+    
+    > 2024 YTD #BugBounty stats update, Week 9:
+    >
+    > 📄 19 issues reported (13 crit, 3 high, 3 medium) 
+    > 💰 15 issues Paid 
+    > 🟤 2 Duplicate
+    > ⚪ 1 Informational
+    > 🔴 1 OOS
+    >
+    > Big bounty week last week 💰💵🪙 https://twitter.com/ajxchapman/status/1762101366057525521
+    
+    **Links in post:** https://twitter.com/ajxchapman/status/1762101366057525521
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @ajxchapman — 2024-02-26 13:04 UTC (2024-02-26 14:04 WAT)
+        
+        - URL: https://x.com/ajxchapman/status/1762101366057525521
+        - Metrics (at fetch): bookmark 5, impression 18896, like 65, quote 2, reply 3, retweet 0
+        
+        > 2024 YTD #BugBounty stats update, Week 8:
+        >
+        > 📄 17 issues reported (12 crit, 2 high, 3 medium) 
+        > 💰 9 issues Paid 
+        > 🟤 1 Duplicate
+        > ⚪ 1 Informational
+        > 🔴 1 OOS  
+        >
+        > Reported my only bug of the week at 6pm Friday evening 😬 (Sorry to the program for reporting a crit at 6pm on Friday eve) https://twitter.com/ajxchapman/status/1759897794569974134
+        
+        **Links in post:** https://twitter.com/ajxchapman/status/1759897794569974134
+        
+        **Quoted post (full text):**
+        
+            #### Quoted post — @ajxchapman — 2024-02-20 11:08 UTC (2024-02-20 12:08 WAT)
+            
+            - URL: https://x.com/ajxchapman/status/1759897794569974134
+            - Metrics (at fetch): bookmark 4, impression 15101, like 79, quote 1, reply 2, retweet 0
+            
+            > 2024 YTD #BugBounty stats update, Week 7:
+            >
+            > 📄 16 issues reported (11 crit, 2 high, 3 medium) 
+            > 💰 7 issues Paid 
+            > 🟤 2 Duplicate
+            > ⚪ 1 Informational
+            > 🔴 1 OOS
+            >
+            > Two more potential crits submitted last week! I need to find a new target now though so expect things to slow down a little.
+            
+        
+    
+
+
+---
+
 ## 2024-03-06 · Post · I once again find myself performing exploit archaeology. It's amazing how much of the web is inacces
 
 
 ### Post — @ajxchapman — 2024-03-06 14:17 UTC (2024-03-06 15:17 WAT)
 
 - URL: https://x.com/ajxchapman/status/1765381274112344185
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 3189, like 24, quote 1, reply 1, retweet 0
 
 > I once again find myself performing exploit archaeology. It's amazing how much of the web is inaccessible / useless from only 12 years ago!
 >
@@ -1088,7 +1194,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @ajxchapman — 2024-03-04 11:44 UTC (2024-03-04 12:44 WAT)
 
 - URL: https://x.com/ajxchapman/status/1764617977909936539
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 12, impression 17527, like 67, quote 1, reply 4, retweet 2
 
 > 2024 YTD #BugBounty stats update, Week 9:
 >
@@ -1107,7 +1213,7 @@ Tags (automatic): Platform: Bugcrowd
     #### Quoted post — @ajxchapman — 2024-02-26 13:04 UTC (2024-02-26 14:04 WAT)
     
     - URL: https://x.com/ajxchapman/status/1762101366057525521
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 5, impression 18896, like 65, quote 2, reply 3, retweet 0
     
     > 2024 YTD #BugBounty stats update, Week 8:
     >
@@ -1126,7 +1232,7 @@ Tags (automatic): Platform: Bugcrowd
         #### Quoted post — @ajxchapman — 2024-02-20 11:08 UTC (2024-02-20 12:08 WAT)
         
         - URL: https://x.com/ajxchapman/status/1759897794569974134
-        - Metrics (at fetch): not returned
+        - Metrics (at fetch): bookmark 4, impression 15101, like 79, quote 1, reply 2, retweet 0
         
         > 2024 YTD #BugBounty stats update, Week 7:
         >
@@ -1166,7 +1272,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @ajxchapman — 2024-02-26 13:04 UTC (2024-02-26 14:04 WAT)
 
 - URL: https://x.com/ajxchapman/status/1762101366057525521
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 5, impression 18896, like 65, quote 2, reply 3, retweet 0
 
 > 2024 YTD #BugBounty stats update, Week 8:
 >
@@ -1185,7 +1291,7 @@ Tags (automatic): Platform: Bugcrowd
     #### Quoted post — @ajxchapman — 2024-02-20 11:08 UTC (2024-02-20 12:08 WAT)
     
     - URL: https://x.com/ajxchapman/status/1759897794569974134
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 4, impression 15101, like 79, quote 1, reply 2, retweet 0
     
     > 2024 YTD #BugBounty stats update, Week 7:
     >
@@ -1210,7 +1316,7 @@ Tags (automatic): XSS
 ### Post — @ajxchapman — 2024-02-24 12:56 UTC (2024-02-24 13:56 WAT)
 
 - URL: https://x.com/ajxchapman/status/1761374614284857510
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 4, impression 7753, like 41, quote 0, reply 1, retweet 0
 
 > If I were better at XSS I'd be able to report so many more server side browser RCEs 😭
 
@@ -1223,7 +1329,7 @@ Tags (automatic): XSS
 ### Post — @ajxchapman — 2024-02-20 11:08 UTC (2024-02-20 12:08 WAT)
 
 - URL: https://x.com/ajxchapman/status/1759897794569974134
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 4, impression 15101, like 79, quote 1, reply 2, retweet 0
 
 > 2024 YTD #BugBounty stats update, Week 7:
 >
@@ -1244,7 +1350,7 @@ Tags (automatic): XSS
 ### Post — @ajxchapman — 2024-02-16 17:41 UTC (2024-02-16 18:41 WAT)
 
 - URL: https://x.com/ajxchapman/status/1758547244859449666
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 3379, like 29, quote 0, reply 6, retweet 0
 
 > I always feel like programs should pay bug bounties on Fridays. Unfortunately this often leads to unmet expectations... and me waiting around every Friday for bounties to be paid that are not going to be paid 😬
 >
@@ -1256,13 +1362,28 @@ Tags (automatic): XSS
 
 ---
 
+## 2024-02-02 · Post · That feeling when you manage to confirm two crits at 1715 on a Friday... now I just have to write up
+
+
+### Post — @ajxchapman — 2024-02-02 17:21 UTC (2024-02-02 18:21 WAT)
+
+- URL: https://x.com/ajxchapman/status/1753468782108913790
+- Metrics (at fetch): bookmark 0, impression 4099, like 40, quote 0, reply 2, retweet 0
+
+> That feeling when you manage to confirm two crits at 1715 on a Friday... now I just have to write up the reports 🤦‍♂️ 
+>
+> (Also apologies to the programs receiving  critical reports on a Friday afternoon 😬)
+
+
+---
+
 ## 2024-02-01 · Post · When the `console.log` becomes an integral part of your Chrome exploit 🤷
 
 
 ### Post — @ajxchapman — 2024-02-01 11:15 UTC (2024-02-01 12:15 WAT)
 
 - URL: https://x.com/ajxchapman/status/1753014259485663446
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 3265, like 15, quote 0, reply 2, retweet 0
 
 > When the `console.log` becomes an integral part of your Chrome exploit 🤷
 
@@ -1275,7 +1396,7 @@ Tags (automatic): XSS
 ### Post — @ajxchapman — 2024-01-26 10:47 UTC (2024-01-26 11:47 WAT)
 
 - URL: https://x.com/ajxchapman/status/1750832773168853237
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 17, impression 7787, like 99, quote 0, reply 5, retweet 7
 
 > Had a busy week recreating the @XI_Research PoC for CVE-2024-0517 on Chrome 117 through 120.
 >
@@ -1283,6 +1404,19 @@ Tags (automatic): XSS
 
 **Media:**
 - video:  — no alt text provided by author
+
+
+---
+
+## 2024-01-25 · Post · I have noticed about the 3rd time I report a Critical patching issue to a BugBounty program in the 
+
+
+### Post — @ajxchapman — 2024-01-25 09:42 UTC (2024-01-25 10:42 WAT)
+
+- URL: https://x.com/ajxchapman/status/1750453990716768699
+- Metrics (at fetch): bookmark 2, impression 9675, like 78, quote 1, reply 8, retweet 0
+
+> I have noticed about the 3rd time I report a Critical patching issue to a #BugBounty program in the same component (e.g. I report, program fixes, time passes, loop), the program starts to get frustrated with me. It's almost as if they consider the vulnerability to be my fault 🤷
 
 
 ---
@@ -1296,7 +1430,7 @@ Tags (automatic): RCE
 ### Post — @ajxchapman — 2024-01-18 17:13 UTC (2024-01-18 18:13 WAT)
 
 - URL: https://x.com/ajxchapman/status/1748030798064726398
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 4075, like 37, quote 0, reply 3, retweet 0
 
 > ... make that 6 issues in the last 10 days 😅
 >
@@ -1309,7 +1443,7 @@ Tags (automatic): RCE
     #### Quoted post — @ajxchapman — 2024-01-18 15:07 UTC (2024-01-18 16:07 WAT)
     
     - URL: https://x.com/ajxchapman/status/1747999054758326499
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 4, impression 9519, like 84, quote 1, reply 7, retweet 0
     
     > I've reported 5 issues in the last 10 days, that's a _Huge_ number for me. For reference, last year there wasn't a single month where I reported more than 3 issues.
     >
@@ -1325,7 +1459,7 @@ Tags (automatic): RCE
 ### Post — @ajxchapman — 2024-01-18 15:07 UTC (2024-01-18 16:07 WAT)
 
 - URL: https://x.com/ajxchapman/status/1747999054758326499
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 4, impression 9519, like 84, quote 1, reply 7, retweet 0
 
 > I've reported 5 issues in the last 10 days, that's a _Huge_ number for me. For reference, last year there wasn't a single month where I reported more than 3 issues.
 >
@@ -1340,7 +1474,7 @@ Tags (automatic): RCE
 ### Post — @ajxchapman — 2024-01-17 16:58 UTC (2024-01-17 17:58 WAT)
 
 - URL: https://x.com/ajxchapman/status/1747664690723860604
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 4202, like 44, quote 0, reply 1, retweet 0
 
 > Another browser exploit in the bag! This time for WebKit from circa 2015... it's amazing what you can still find out there 😆
 
@@ -1353,7 +1487,7 @@ Tags (automatic): RCE
 ### Post — @ajxchapman — 2024-01-09 09:52 UTC (2024-01-09 10:52 WAT)
 
 - URL: https://x.com/ajxchapman/status/1744658420198682768
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 4971, like 49, quote 1, reply 3, retweet 0
 
 > Time distribution of #BugBounty video PoC creation:
 >
@@ -1372,7 +1506,7 @@ Tags (automatic): RCE
 ### Post — @ajxchapman — 2024-01-05 09:46 UTC (2024-01-05 10:46 WAT)
 
 - URL: https://x.com/ajxchapman/status/1743207438994505739
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 5374, like 41, quote 0, reply 1, retweet 2
 
 > How to get every single Bug Bounty program owner to immediately drop everything and check their queue 😆
 >

@@ -4288,7 +4288,7 @@ Tags (automatic): Smart contract / DeFi
 > We’re proud to announce the completion of our @OlympusDAO audit! [pic.x.com/SJxKdCScdI]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FwQuHyQagAAeNZY.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -4425,7 +4425,7 @@ Tags (automatic): Race condition, Blockchain / L1-L2 / bridge
 > If you stop learning, you expose yourself to vulnerabilities.  Let’s explore two of the newest mitigation technique on the block: 🧵 [pic.x.com/T6DxEPRJu9]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FvkbQo2aEAA0qJB.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -4557,7 +4557,7 @@ Tags (automatic): Smart contract / DeFi
 > An otter’s guide to preventing oracle attacks 🧵 [pic.x.com/TEGESQMY6Z]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FvQDojqakAUh2DL.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -4664,7 +4664,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > Hackers stole $44.6M this month.  The best threads to understand each exploit: [pic.x.com/G7utMRlaCd]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/Fuu9dTXWYAAeVWP.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -4795,7 +4795,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > An otter’s complete guide to Rust 🧵 🦦 [pic.x.com/XG3VbVtmfe]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FuBp04dWYAALUMQ.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -4895,7 +4895,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > .@iearnfinance was just hacked for over $10M. Here's what we know. 🧵 [pic.x.com/VHset60Yi1]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/Ftk6ejoaQAE0u8Y.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -4960,7 +4960,7 @@ Tags (automatic): Smart contract / DeFi
 > https://etherscan.io/address/0x044b75f554b886a065b9567891e45c79542d7357 [pic.x.com/6shfbY0hol]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FtQBmY1X0AA0rQD.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 **Links in post:** https://etherscan.io/address/0x044b75f554b886a065b9567891e45c79542d7357
 
@@ -5096,7 +5096,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > A summary of March’s seven biggest exploits 🧵: [pic.x.com/6F4hwk7oc4]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/Fs4za7QWYA47Bev.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -5130,7 +5130,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > Here's what we know 🧵 [pic.x.com/e0holhINDo]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FsxjzmOWcAE_toe.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -5222,7 +5222,7 @@ Tags (automatic): Smart contract / DeFi
 > Code quality was high, no critical vulnerabilities were identified, and all recommendations were patched. [pic.x.com/vXBXDG9OFq]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/Fsj3b22WwAMWRcp.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -5247,7 +5247,7 @@ Tags (automatic): Smart contract / DeFi
 > #BUIDLwithBlocto [pic.x.com/B2ItpV8RZb]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FsjMbLSaEAI7_zQ.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -5462,7 +5462,7 @@ Tags (automatic): Smart contract / DeFi
 > How to best approach “gray-hats” 🧵: [pic.x.com/HPEjyxA3NC]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/Fr1UNkHX0AEOCHN.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -5946,9 +5946,7 @@ Tags (automatic): Smart contract / DeFi
 >
 > We’re extending writeup submissions to 25th January and posting the challenge author’s writeup shortly after! There’s $200 up for grabs and $200 more if you’re a @LamportDAO sandstorm participant!
 >
-> If you have a writeup, send us a DM! https://twitter.com/osec_io/status/1613907285935521798
-
-**Links in post:** https://twitter.com/osec_io/status/1613907285935521798
+> If you have a writeup, send us a DM! https://t.co/nRsaTDdyzF
 
 **Quoted post (full text):**
 
@@ -6111,7 +6109,7 @@ Tags (automatic): Smart contract / DeFi
 > Let's dive into the recent attacks on #Aptos Discords 👇 1/9 [pic.x.com/PS0QJsO35w]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FmQhAlCXwAAG-cV.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @osec_io — 2023-01-12 08:51 UTC (2023-01-12 09:51 WAT)
@@ -6260,7 +6258,7 @@ Tags (automatic): Smart contract / DeFi
 > Here's our analysis. [pic.x.com/HKpxNayjNY]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FkG09I9WYAEdKDX.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -6400,14 +6398,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2022-11-14 05:09 UTC (2022-11-14 06:09 WAT)
 
 - URL: https://x.com/osec_io/status/1592021917749620736
-- Metrics (at fetch): bookmark 45, impression 0, like 169, quote 4, reply 9, retweet 63
+- Metrics (at fetch): bookmark 45, impression 0, like 170, quote 4, reply 9, retweet 63
 
 > 1/ Alameda has been a long-standing, loyal security audit client of ours. We also work closely with many projects on Solana, many of which are directly or indirectly affected by FTX’s insolvency. 
 >
 > Here’s our perspective. [pic.x.com/gD7WtF10EP]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/Fhf5d2AWAAcd3bl.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -6810,7 +6808,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > Let’s clear up some misinformation. 🧵 https://t.co/hCtTwz1l5c
 
 **Media:**
-- photo: https://pbs.twimg.com/media/Fe1Zn24UAAAjfDA.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -6821,7 +6819,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2022-10-11 22:59 UTC (2022-10-11 23:59 WAT)
 
 - URL: https://x.com/osec_io/status/1579969927020412929
-- Metrics (at fetch): bookmark 96, impression 0, like 1676, quote 547, reply 191, retweet 558
+- Metrics (at fetch): bookmark 96, impression 0, like 1677, quote 547, reply 191, retweet 558
 
 > @mangomarkets was just drained for over $100M. 
 >
@@ -6830,7 +6828,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > 🧵 https://t.co/IAKyXgN8gM
 
 **Media:**
-- photo: https://pbs.twimg.com/media/Fe0tge4aYAAlhsS.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -7392,7 +7390,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > https://nearcon.org/ [pic.x.com/ESo14IXAwR]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FcYb6AsaUAEsNMx.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 **Links in post:** https://nearcon.org/
 
@@ -7600,7 +7598,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2022-08-19 05:34 UTC (2022-08-19 06:34 WAT)
 
 - URL: https://x.com/osec_io/status/1560500356043325443
-- Metrics (at fetch): bookmark 49, impression 0, like 207, quote 7, reply 3, retweet 32
+- Metrics (at fetch): bookmark 49, impression 0, like 208, quote 7, reply 3, retweet 32
 
 > Rent Thief:
 >
@@ -7842,7 +7840,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > Let’s clear up some misinformation. 🧵 [pic.x.com/Sx1graLC2P]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FZM-7YlaMAIxQ_w.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -7951,7 +7949,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > How did this happen? 🧵 [pic.x.com/1rAvIqM38c]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FYvm5K-aMAICA-l.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -8055,7 +8053,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 ---
 
-## 2022-07-03 · Post · @Crema_Finance was recently hacked for over $6M. Unlike previous attacks, this hacker used Solend fl
+## 2022-07-03 · Reply · @Crema_Finance was recently hacked for over $6M. Unlike previous attacks, this hacker used Solend fl
 
 
 ### Post — @osec_io — 2022-07-03 05:40 UTC (2022-07-03 06:40 WAT)
@@ -8068,8 +8066,8 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > In the meantime, we’ll be sharing what we know about the exploit 🧵 [pic.x.com/5NjovZtAEb]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FWuAuWOUUAA4xjH.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/FWuA0IlVUAEa-IG.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -8288,7 +8286,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2022-04-26 14:59 UTC (2022-04-26 15:59 WAT)
 
 - URL: https://x.com/osec_io/status/1518967950610362368
-- Metrics (at fetch): bookmark 89, impression 0, like 377, quote 8, reply 11, retweet 80
+- Metrics (at fetch): bookmark 89, impression 0, like 378, quote 8, reply 11, retweet 80
 
 > SPL-token-swap:
 >
@@ -8297,7 +8295,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 > Let’s take a deep dive: 1/ [pic.x.com/8xFMbqiJII]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FRRzB_pUYAImOF4.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -8408,7 +8406,7 @@ Tags (automatic): Smart contract / DeFi
 > Let’s take a deep dive into OS-PRT-ADV-00, a surprisingly subtle rounding bug in the liquidation handler [pic.x.com/gb5vb3Z8KE]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FQozb5yVQAI2ksk.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @osec_io — 2022-04-18 16:08 UTC (2022-04-18 17:08 WAT)
@@ -8603,14 +8601,14 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 ### Post — @osec_io — 2022-04-16 16:53 UTC (2022-04-16 17:53 WAT)
 
 - URL: https://x.com/osec_io/status/1515372872939675650
-- Metrics (at fetch): bookmark 49, impression 0, like 155, quote 7, reply 3, retweet 26
+- Metrics (at fetch): bookmark 49, impression 0, like 156, quote 7, reply 3, retweet 26
 
 > 1/ In our recent audit report on @JetProtocol’s governance program, we listed 13 findings and 4 vulnerabilities. One of these vulnerabilities stand out from the others: OS-JET-ADV-01
 >
 > Let’s take a deep dive into this rounding error, the implications, as well as its exploitability https://t.co/MYI6MARLVE
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FQesi8bVsAQWaiB.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @osec_io — 2022-04-16 16:53 UTC (2022-04-16 17:53 WAT)

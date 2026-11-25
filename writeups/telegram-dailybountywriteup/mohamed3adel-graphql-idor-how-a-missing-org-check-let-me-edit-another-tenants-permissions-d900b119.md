@@ -1,13 +1,15 @@
 # GraphQL IDOR
 
 - **Source URL:** https://medium.com/@Mohamed3adel/graphql-idor-how-a-missing-org-check-let-me-edit-another-tenants-permissions-55c8488a232f
-- **Fetched from:** https://medium.com/feed/@Mohamed3adel
-- **Fetched:** 2026-11-17
+- **Fetched from:** https://medium.com/@Mohamed3adel/graphql-idor-how-a-missing-org-check-let-me-edit-another-tenants-permissions-55c8488a232f?source=rss-9482e4ac2dae------2
+- **Fetched:** 2026-11-25
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 14964)
-- **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
+- **Method:** medium-rss-feed (full content:encoded) readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
 
 ---
+- **Author/Published (RSS):** MohamedAdel / Fri, 30 Oct 2026 06:31:17 GMT
+
 A single resolver skipped the cross-org check that every sibling mutation enforced correctly.
 
 #Bug Bounty #Writeup, #IDOR, #Pentesting, #Cybersecurity
@@ -50,15 +52,7 @@ I also tried the sibling grantRole/revokeRole mutations the same way — correct
 
 **Impact**
 
-- **Integrity:** an attacker can silently strip scopes a victim’s users genuinely hold, removing their access with no audit trail on the victim’s side.
-- **Confidentiality (minor):** each response echoes the victim’s current scope list.
-- **No victim interaction needed** — just their userId, which the app hands back in places like analytics cookies.
-
 **Takeaways**
-
-- When an ownership check exists for one direction (same-tenant), always test whether it’s actually enforced for the cross-tenant case too — “there’s a check” doesn’t mean “there’s the right check.”
-- Sibling mutations (grant/revoke pairs, read/write pairs) are a cheap way to find the one that’s missing a gate: if three out of four behave one way, the fourth is worth a close look.
-- A write-IDOR that echoes the mutated object back to you is easy to mistake for a no-op — always diff the before/after state, not just the status code.
 
 **Severity:** HIGH · **Reward:** $$$
 

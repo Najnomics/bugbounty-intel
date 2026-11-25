@@ -2,8 +2,8 @@
 
 _Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 107
-- Conversations/threads: 100
+- Posts in this file: 109
+- Conversations/threads: 102
 - Oldest post captured: 2022-10-11
 - Newest post captured: 2026-11-15
 
@@ -806,7 +806,7 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
-## 2024-10-23 · Post · I earned $800 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 ItTakesACrowd
+## 2024-10-23 · Post · I earned $800 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -817,7 +817,9 @@ Tags (automatic): Platform: Bugcrowd
 - URL: https://x.com/RootxRavi/status/1848905062241722420
 - Metrics (at fetch): bookmark 11, impression 4802, like 75, quote 0, reply 2, retweet 4
 
-> I earned $800 for my submission on @bugcrowd https://t.co/R6XBEPcGh7 #ItTakesACrowd
+> I earned $800 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
+
+**Links in post:** https://bugcrowd.com/rootxravi
 
 
 ---
@@ -830,15 +832,15 @@ Tags (automatic): Platform: Bugcrowd
 - URL: https://x.com/RootxRavi/status/1848611189980369161
 - Metrics (at fetch): bookmark 5, impression 7950, like 130, quote 0, reply 15, retweet 3
 
-> 🎉Excited to announce I've earned the Offensive Security Certified Professional (OSCP) certification! 🎓💻 From Bug Bounty to OSCP, it's been a challenging yet rewarding journey. 💪Huge thanks to @offsectraining  for the amazing exam and everyone who supported me! 🚀 #oscp https://t.co/jinQI8EdJ8
+> 🎉Excited to announce I've earned the Offensive Security Certified Professional (OSCP) certification! 🎓💻 From Bug Bounty to OSCP, it's been a challenging yet rewarding journey. 💪Huge thanks to @offsectraining  for the amazing exam and everyone who supported me! 🚀 #oscp [pic.x.com/jinQI8EdJ8]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GaeVDKmWMAAa2be.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
 
-## 2024-10-12 · Post · Here we go @Bugcrowd 🫶 https://t.co/v5U4UYYsuz
+## 2024-10-12 · Post · Here we go @Bugcrowd 🫶 [pic.x.com/v5U4UYYsuz]
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -849,10 +851,10 @@ Tags (automatic): Platform: Bugcrowd
 - URL: https://x.com/RootxRavi/status/1845063996052820156
 - Metrics (at fetch): bookmark 2, impression 3688, like 98, quote 0, reply 3, retweet 1
 
-> Here we go @Bugcrowd 🫶 https://t.co/v5U4UYYsuz
+> Here we go @Bugcrowd 🫶 [pic.x.com/v5U4UYYsuz]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GZr76l2XUAwSh-c.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -888,7 +890,7 @@ Tags (automatic): Platform: Bugcrowd
 > 2K ✅ @Bugcrowd [pic.x.com/FucW2zJ9B8]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GY2k-pPXAAID9bE.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -905,7 +907,7 @@ Tags (automatic): Platform: Bugcrowd
 > The process started with enumerating the JavaScript files, where I found an admin endpoint leaking the username, such as 'NetUser.' I then tried 'NetPassword' as the password, and it successfully granted admin access
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GVHQOKLXEAA1wW7.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -922,7 +924,7 @@ Tags (automatic): Platform: Bugcrowd
 > The process started with enumerating the JavaScript files, where I found an admin endpoint leaking the username, such as 'NetUser.' I then tried 'NetPassword' as the password, and it successfully granted admin access
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GVHNBEsXAAALbhy.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -933,7 +935,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2024-08-15 11:57 UTC (2024-08-15 12:57 WAT)
 
 - URL: https://x.com/RootxRavi/status/1824052852295172586
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 36, impression 3736, like 60, quote 0, reply 3, retweet 9
 
 > Clearing drafts Easy Bug 🥲
 > #bugbountytip #bugbounty
@@ -951,7 +953,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2024-08-15 11:55 UTC (2024-08-15 12:55 WAT)
 
 - URL: https://x.com/RootxRavi/status/1824052389147558126
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 25, like 0, quote 0, reply 0, retweet 0
 
 > Clearing drafts Easy Bug 
 > #bugbountytip #bugbounty
@@ -972,7 +974,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2024-07-23 13:32 UTC (2024-07-23 14:32 WAT)
 
 - URL: https://x.com/RootxRavi/status/1815741692403761302
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 5, impression 3956, like 76, quote 0, reply 6, retweet 1
 
 > I earned $500 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
 
@@ -990,7 +992,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2024-07-03 12:39 UTC (2024-07-03 13:39 WAT)
 
 - URL: https://x.com/RootxRavi/status/1808480634509074714
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 6, impression 5312, like 99, quote 0, reply 12, retweet 1
 
 > I earned $1850 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
 
@@ -1008,7 +1010,7 @@ Tags (automatic): SSRF
 ### Post — @RootxRavi — 2024-06-29 15:18 UTC (2024-06-29 16:18 WAT)
 
 - URL: https://x.com/RootxRavi/status/1807071240529608904
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 4, impression 2922, like 12, quote 0, reply 3, retweet 0
 
 > Never reported SSRF !! anyone have good resources for leanings  please do share
 
@@ -1024,7 +1026,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2024-06-28 17:22 UTC (2024-06-28 18:22 WAT)
 
 - URL: https://x.com/RootxRavi/status/1806739961586348367
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 4, impression 5446, like 85, quote 0, reply 8, retweet 4
 
 > I earned $850 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
 
@@ -1042,7 +1044,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2024-06-27 16:20 UTC (2024-06-27 17:20 WAT)
 
 - URL: https://x.com/RootxRavi/status/1806361874591621592
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 2637, like 53, quote 0, reply 3, retweet 0
 
 > I earned $450 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
 
@@ -1060,7 +1062,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2024-06-25 13:54 UTC (2024-06-25 14:54 WAT)
 
 - URL: https://x.com/RootxRavi/status/1805600352521113847
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 2947, like 58, quote 0, reply 4, retweet 1
 
 > I earned $200 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
 
@@ -1078,7 +1080,7 @@ Tags (automatic): Auth bypass
 ### Post — @RootxRavi — 2024-06-23 19:51 UTC (2024-06-23 20:51 WAT)
 
 - URL: https://x.com/RootxRavi/status/1804965437358182799
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 32, impression 11113, like 132, quote 0, reply 10, retweet 3
 
 > Here we go, Weekend Stats:
 > 1. P1: Auth Bypass
@@ -1086,7 +1088,7 @@ Tags (automatic): Auth bypass
 > 3. P4: Misconfiguration [pic.x.com/FMluaIrLoG]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GQyFXY_WsAAoMTs.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1100,7 +1102,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2024-06-22 11:55 UTC (2024-06-22 12:55 WAT)
 
 - URL: https://x.com/RootxRavi/status/1804483270547030109
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 4126, like 82, quote 0, reply 5, retweet 0
 
 > I earned $700 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
 
@@ -1118,7 +1120,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2024-06-11 19:08 UTC (2024-06-11 20:08 WAT)
 
 - URL: https://x.com/RootxRavi/status/1800606101853085892
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 8, impression 5639, like 84, quote 0, reply 13, retweet 1
 
 > I earned $500 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
 
@@ -1141,8 +1143,8 @@ Tags (automatic): Platform: Bugcrowd
 > Thank you, @Bugcrowd , for the awesome hoodie! [pic.x.com/tpa8LJkxvq]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GNyPahPXAAA9UMk.jpg — no alt text provided by author
-- photo: https://pbs.twimg.com/media/GNyPdxxWcAEaxJe.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1161,6 +1163,19 @@ Tags (automatic): Platform: Bugcrowd
 > I earned $200 for my submission on @bugcrowd https://bugcrowd.com/rootxravi #ItTakesACrowd
 
 **Links in post:** https://bugcrowd.com/rootxravi
+
+
+---
+
+## 2024-04-19 · Post · P1 Sabke Nikalenge,  nikalenge unke jo yaha pe khada rahega 🤣🙌
+
+
+### Post — @RootxRavi — 2024-04-19 16:55 UTC (2024-04-19 17:55 WAT)
+
+- URL: https://x.com/RootxRavi/status/1781366000610390059
+- Metrics (at fetch): not returned
+
+> P1 Sabke Nikalenge,  nikalenge unke jo yaha pe khada rahega 🤣🙌
 
 
 ---
@@ -1237,6 +1252,27 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
+## 2024-03-19 · Post · Easy P1 🔥
+
+
+### Post — @RootxRavi — 2024-03-19 15:36 UTC (2024-03-19 16:36 WAT)
+
+- URL: https://x.com/RootxRavi/status/1770112226956829076
+- Metrics (at fetch): not returned
+
+> Easy P1 🔥
+> Add to your wordlist 
+> /ganglia/
+> /ganglia/?c=ElastiCluster&amp;m=load_one&amp;r=hour&amp;s=by%20name&amp;hc=4&amp;mc=2
+>
+> #bugbountytips #bugbounty #security [pic.x.com/bBHjgzbuMF]
+
+**Media:**
+- photo:  — no alt text provided by author
+
+
+---
+
 ## 2024-03-14 · Post · I earned $700 for my submission on @bugcrowd https://bugcrowd.com/rootxravi ItTakesACrowd
 
 
@@ -1286,7 +1322,7 @@ Tags (automatic): Platform: Bugcrowd
 > P1 Warrior Top 100 @Bugcrowd [pic.x.com/K3L5NFgJ5P]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GIcNSzxWIAATynE.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1300,19 +1336,19 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2024-03-10 10:45 UTC (2024-03-10 11:45 WAT)
 
 - URL: https://x.com/RootxRavi/status/1766777348630683720
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 7999, like 112, quote 0, reply 22, retweet 3
 
 > Under 300 @Bugcrowd 
 >
 > #BugBounty #hacking [pic.x.com/V8d2cHEpkG]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GITaf8YWcAAznL_.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
 
-## 2024-02-23 · Post · @Bugcrowd  Triaged Speed 🙌🔥 [pic.x.com/wvNft7RUFM]
+## 2024-02-23 · Reply · @Bugcrowd  Triaged Speed 🙌🔥 [pic.x.com/wvNft7RUFM]
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -1321,12 +1357,12 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2024-02-23 12:36 UTC (2024-02-23 13:36 WAT)
 
 - URL: https://x.com/RootxRavi/status/1761007034319896914
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 1319, like 34, quote 0, reply 0, retweet 1
 
 > @Bugcrowd  Triaged Speed 🙌🔥 [pic.x.com/wvNft7RUFM]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GHBaZp-bwAAvXp1.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1337,7 +1373,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @RootxRavi — 2024-02-05 17:23 UTC (2024-02-05 18:23 WAT)
 
 - URL: https://x.com/RootxRavi/status/1754556474502918293
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 4481, like 18, quote 0, reply 8, retweet 4
 
 > Podcast On @BountyAdvice  : Bug Bounty Roast with @krishnsec and @ReebootToInit5
 

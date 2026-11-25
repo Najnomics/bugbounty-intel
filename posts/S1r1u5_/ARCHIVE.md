@@ -2,8 +2,8 @@
 
 _Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 557
-- Conversations/threads: 425
+- Posts in this file: 558
+- Conversations/threads: 426
 - Oldest post captured: 2017-02-26
 - Newest post captured: 2026-11-25
 
@@ -6685,7 +6685,7 @@ Tags (automatic): RCE, AI-assisted hunting
 ## 2026-07-10 · Post · much better than giving agents the main browser. prompt injection is a unsolvable risk but they rush
 
 
-Tags (automatic): AI-assisted hunting
+Tags (automatic): RCE, AI-assisted hunting
 
 
 ### Post — @S1r1u5_ — 2026-07-10 20:00 UTC (2026-07-10 21:00 WAT)
@@ -6695,8 +6695,11 @@ Tags (automatic): AI-assisted hunting
 
 > much better than giving agents the main browser. prompt injection is a unsolvable risk but they rush to ship agent browsers also introduced silly browser bugs because everyone prioritized speed over security.  
 >
-> Perplexity comet UXSS: https://t.co/1am55L2KkU
-> Atlas kinda UXSS: https://t.co/Yp2YvTPkPN
+> Perplexity comet UXSS: https://hacktron.ai/blog/perplexity-comet-uxss
+> Atlas kinda UXSS: https://hacktron.ai/blog/hacking-openai-atlas-browser
+> RCE in antigravity through a browser https://hacktron.ai/blog/hacking-google-antigravity
+
+**Links in post:** https://hacktron.ai/blog/perplexity-comet-uxss, https://twitter.com/simonw/status/2075661863757746535, https://hacktron.ai/blog/hacking-openai-atlas-browser, https://hacktron.ai/blog/hacking-google-antigravity
 
 **Quoted post (full text):**
 
@@ -6727,7 +6730,7 @@ Tags (automatic): AI-assisted hunting
 >
 > grok 4.5 and sol have been running since yesterday. both are struggling with the sandbox escape.
 >
-> wish
+> wish i had access to mythos so i could run the same task and see how far it gets.
 
 
 ### Thread part 2 — @S1r1u5_ — 2026-07-10 09:56 UTC (2026-07-10 10:56 WAT)
@@ -6744,7 +6747,7 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-07-08 · Post · https://t.co/ywBq3F8c4l
+## 2026-07-08 · Post · http://x.com/i/article/2074906181605502977
 
 
 ### Post — @S1r1u5_ — 2026-07-08 17:30 UTC (2026-07-08 18:30 WAT)
@@ -6752,12 +6755,14 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/S1r1u5_/status/2074908973342605431
 - Metrics (at fetch): bookmark 170, impression 30416, like 202, quote 5, reply 8, retweet 38
 
-> https://t.co/ywBq3F8c4l
+> http://x.com/i/article/2074906181605502977
+
+**Links in post:** http://x.com/i/article/2074906181605502977
 
 
 ---
 
-## 2026-07-01 · Post · https://t.co/HZkf2jzEVm
+## 2026-07-01 · Post · http://x.com/i/article/2072399340761710592
 
 
 ### Post — @S1r1u5_ — 2026-07-01 19:28 UTC (2026-07-01 20:28 WAT)
@@ -6765,7 +6770,9 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/S1r1u5_/status/2072401858149470265
 - Metrics (at fetch): bookmark 11, impression 2620, like 26, quote 0, reply 3, retweet 3
 
-> https://t.co/HZkf2jzEVm
+> http://x.com/i/article/2072399340761710592
+
+**Links in post:** http://x.com/i/article/2072399340761710592
 
 
 ---
@@ -6773,7 +6780,7 @@ Tags (automatic): AI-assisted hunting
 ## 2026-07-01 · Post · it's nuanced and not plain black and white.
 
 
-Tags (automatic): AI-assisted hunting
+Tags (automatic): Dependency confusion / supply chain, Memory corruption / native, AI-assisted hunting, Platform: HackerOne
 
 
 ### Post — @S1r1u5_ — 2026-07-01 19:17 UTC (2026-07-01 20:17 WAT)
@@ -6787,7 +6794,34 @@ Tags (automatic): AI-assisted hunting
 >
 > it's hard to know, but we know for sure that ai accelerates vuln discovery and exploit dev, and opus's and gpt-5.5's guardrails can be bypassed pretty easily and use them for security stuff. 
 >
-> so has https://t.co/i2Nh40LsyY
+> so has giving people access to these models actually accelerated harm?
+>
+> apart from supply chain attacks, which teampcp are definitely vibe-coding their automations, plus the vercel and git hacks, i am not aware of any big ransomware attacks and breaches. to me, it looked plain as any day of cybersec, pre or post ai, which i think is where zack is coming from?
+>
+> but imo, it's a bad measure to lean on, you know most incidents never go public, and attacks take time to diffuse. it doesn't really tell you anything.
+>
+> but there is another signal that's probably more useful than breaches, the rate at which offensive capability is improving.
+>
+> if you look at current security landscape, there are tens of new offensive ai cybersecurity companies that have spawned recently, all competing like attackers to grab CVEs and climb hackernews/hackerone rankings, and win the attention of investors and customers to sell their products. 
+>
+> on top of that, every security guy in your company became a vibe coder and building his own harness to find bugs. so it seems defense is getting strong through these new kinds of offense, where good people use ai to accelerate their work.
+>
+> there are plenty of examples for defense like this:
+> 1. firefox team building their own harness with mythos and killing pwn2own chains
+> 2. chrome fixing shit ton of bugs on every release
+> 3. raining bugs on every oss projects like curl and kernel from these new ai offensive companies.
+> 4. enterprise software getting tons cves that could affect lots of internet infra. from first hand experience, our two person researcher team alone could've done lots of harm
+>
+> there are two ways to read this:
+> 1. defense is getting much stronger. maybe these models naturally skew toward defense because there are simply far more defenders trying to secure software than attackers trying to break it. if that's true, it's a strong argument for making capable models broadly available.
+>
+> 2.  anthropic's concerns could also be right. if everyone is suddenly finding better bugs and writing exploits faster, then a determined adversary can benefit from the exact same capability gains. and now the concern is, does one skilled attacker with a model like mythos cause enough damage to outweigh all of these defensive gains with broad general access? i think so, then this makes stronger argument for guardrails.
+>
+> i would personally err towards latter with stronger identity checks(kyc or something similar) than pretending these capabilities doesn't exist.
+>
+> but i also understand the opposing view. maybe this is mostly marketing hype, and broad access ends up helping defenders far more than attackers. which i just don't think intuitively is true
+
+**Links in post:** https://twitter.com/ZackKorman/status/2072261041195495890
 
 **Quoted post (full text):**
 
@@ -6817,10 +6851,10 @@ Tags (automatic): XSS, Account takeover, Auth bypass, AI-assisted hunting
 
 > I strongly believe most vulnerabilities never need to reach production if design and PR review are done well, but I don't think any team has the dev-to-security ratio to review every PR and design.
 >
-> Now it's possible with @HacktronAI. It's been reviewing every PR on @RocketChat, https://t.co/JY3AsFvy0k
+> Now it's possible with @HacktronAI. It's been reviewing every PR on @RocketChat, and since it's all open source, I can show you proofs, not plain marketing bullshit. 🧵
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HMIt62ua0AAmHXi.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @S1r1u5_ — 2026-07-01 12:28 UTC (2026-07-01 13:28 WAT)
@@ -6956,10 +6990,12 @@ Tags (automatic): XSS, Account takeover, Auth bypass, AI-assisted hunting
 
 > interesting change in narrative.
 >
-> btw, if you can get fable write any exploit end to end, there is a good chance it might get export controlled again. https://t.co/ucQseOHdB7 https://t.co/NSXvaBLZRk
+> btw, if you can get fable write any exploit end to end, there is a good chance it might get export controlled again. [pic.x.com/ucQseOHdB7] https://twitter.com/AnthropicAI/status/2072163884430229756
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HMHzua5bEAARi0u.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
+
+**Links in post:** https://twitter.com/AnthropicAI/status/2072163884430229756
 
 **Quoted post (full text):**
 
@@ -6970,7 +7006,17 @@ Tags (automatic): XSS, Account takeover, Auth bypass, AI-assisted hunting
     
     > Claude Fable 5 will be available again globally tomorrow.
     >
-    > After a series of productive conversations with the US government, we're redeploying the model with a new set of classifiers to target and block more cybersecurity tasks. In the near term, some routine tasks like coding
+    > After a series of productive conversations with the US government, we're redeploying the model with a new set of classifiers to target and block more cybersecurity tasks. In the near term, some routine tasks like coding and debugging will fall back to Opus 4.8. We’ll continue to refine these classifiers over the coming weeks to reduce false positives and better distinguish genuine misuse from legitimate requests.
+    >
+    > We’ve also begun drafting a consensus framework—with Amazon, Microsoft, Google, and other Glasswing partners—for assessing the severity of AI jailbreaks and how AI developers should respond to them. We invite other industry partners and model providers to join us in this effort.
+    >
+    > Finally, we’re scaling up our collaboration with the US government on model testing and safeguards. This will include pre-release access to models and safeguards for evaluation, information sharing on jailbreaks and misuse, and dedicated resources for joint research.
+    >
+    > Thank you to our users for your patience, and to our partners across the government, industry, and the research community who worked alongside us to make Fable 5 available again. 
+    >
+    > Read our full blog: https://www.anthropic.com/news/redeploying-fable-5
+    
+    **Links in post:** https://www.anthropic.com/news/redeploying-fable-5
     
 
 
@@ -6988,10 +7034,10 @@ Tags (automatic): XSS, Account takeover, Auth bypass, AI-assisted hunting
 >
 > ig kudos to team who caught us at an insane speed.
 >
-> context: he was writing the bug report in a gist file xd https://t.co/4QqwjQZMFi
+> context: he was writing the bug report in a gist file xd [pic.x.com/4QqwjQZMFi]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HLg-a86agAA__5L.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -7007,7 +7053,9 @@ Tags (automatic): SSRF
 - URL: https://x.com/S1r1u5_/status/2069121294281707554
 - Metrics (at fetch): bookmark 7, impression 8667, like 52, quote 0, reply 2, retweet 1
 
-> couldn’t exploit ssrf we found on vercel deployed next.js apps cuz there was no websocket support otherwise would’ve been a critical bug, now its available, good to upgrade to latest nextjs https://t.co/4SL8zkG649
+> couldn’t exploit ssrf we found on vercel deployed next.js apps cuz there was no websocket support otherwise would’ve been a critical bug, now its available, good to upgrade to latest nextjs https://twitter.com/vercel_dev/status/2069108513423454298
+
+**Links in post:** https://twitter.com/vercel_dev/status/2069108513423454298
 
 **Quoted post (full text):**
 
@@ -7019,7 +7067,9 @@ Tags (automatic): SSRF
     > WebSockets are now supported on Vercel.
     >
     > Build realtime apps using standard Node.js libraries, including socket​.io.
-    > https://t.co/DyJI8lxFIU
+    > https://vercel.com/changelog/websocket-support-is-now-in-public-beta
+    
+    **Links in post:** https://vercel.com/changelog/websocket-support-is-now-in-public-beta
     
 
 
@@ -7036,10 +7086,10 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/S1r1u5_/status/2066518686266229165
 - Metrics (at fetch): bookmark 12, impression 3856, like 45, quote 0, reply 2, retweet 1
 
-> an interesting case study from our recent blog on why you should stop using random software given ai accelerating exploit development. https://t.co/3u5bf56UQ4
+> an interesting case study from our recent blog on why you should stop using random software given ai accelerating exploit development. [pic.x.com/3u5bf56UQ4]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HK2-_2-aAAAvOO-.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @S1r1u5_ — 2026-06-15 13:50 UTC (2026-06-15 14:50 WAT)
@@ -7071,7 +7121,7 @@ Tags (automatic): RCE, AI-assisted hunting
 >
 > curl htxp://rce.ee/warp-pwn.php
 >
-> Details below: https://t.co/08gxCuP2AI
+> Details below: [pic.x.com/08gxCuP2AI]
 
 **Media:**
 - video:  — no alt text provided by author
@@ -7164,7 +7214,9 @@ Tags (automatic): AI-assisted hunting
 
 > the painful part of security with ai is that someone still has to read the output and confirm it, unlike development where if it works you can just ship it. that doesn't work here. 
 >
-> you need to understand what the agent is saying and then try to fix it. you can wing it and ask
+> you need to understand what the agent is saying and then try to fix it. you can wing it and ask it to patch everything it finds, but it might break something or introduce new vulnerabilities, so the final handover has to be done by a human.
+>
+> if all recent chrome patches are just asan crashes and then asking agent to fix and getting merged without proper reviews, you found yourself a pretty good spot to bug hunt for new vulnerabilities. probably chromium team wouldn't do that.
 
 
 ---
@@ -7187,7 +7239,7 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 > what could be the reason for gpt-5.5 being good at kernel exploit dev?
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HIatE7ubsAAITID.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 **Links in post:** https://twitter.com/S1r1u5_/status/2055314585058693601
 
@@ -7205,7 +7257,7 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
     > Mythos got full exploit chain on 18/41 v8 n-days, while gpt 5.5 only got 1 and open source models are mostly useless. [pic.x.com/n3JSXUewUG]
     
     **Media:**
-    - photo: https://pbs.twimg.com/media/HIXxtyZbsAAUfZI.jpg — no alt text provided by author
+    - photo:  — no alt text provided by author
     
 
 
@@ -7229,7 +7281,7 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 > Mythos got full exploit chain on 18/41 v8 n-days, while gpt 5.5 only got 1 and open source models are mostly useless. [pic.x.com/n3JSXUewUG]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HIXxtyZbsAAUfZI.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -7296,7 +7348,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2026-04-04 04:49 UTC (2026-04-04 05:49 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2040290546577752360
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 87, impression 63333, like 331, quote 6, reply 10, retweet 33
     
     > this year's pwn2own isn't just interesting because there will be lots of entries with AI+human.
     >
@@ -7345,12 +7397,14 @@ Tags (automatic): AI-assisted hunting
 >
 > instead, what we’re seeing is still mostly people with skin in the game hitting the hard targets.
 
+**Links in post:** https://twitter.com/S1r1u5_/status/2040290546577752360
+
 **Quoted post (full text):**
 
     #### Quoted post — @S1r1u5_ — 2026-04-04 04:49 UTC (2026-04-04 05:49 WAT)
     
     - URL: https://x.com/S1r1u5_/status/2040290546577752360
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 87, impression 63333, like 331, quote 6, reply 10, retweet 33
     
     > this year's pwn2own isn't just interesting because there will be lots of entries with AI+human.
     >
@@ -7416,7 +7470,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-04-24 19:09 UTC (2026-04-24 20:09 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2047754860494549300
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 2356, like 6, quote 0, reply 1, retweet 0
 
 > Doing some detection research, anyone have samples (or know a good source) for the malicious payloads from the Ultralytics (8.3.41/42/45/46), tj-actions/changed-files (CVE-2025-30066), and Nx s1ngularity incidents?
 
@@ -7459,7 +7513,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @S1r1u5_ — 2026-04-16 18:14 UTC (2026-04-16 19:14 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2044841883218931960
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 5382, like 16, quote 0, reply 1, retweet 0
 
 > this is exact reason why small models are terrible to work with, however good your scaffolding is they mostly don't work.
 >
@@ -7478,7 +7532,7 @@ Tags (automatic): Platform: HackerOne
     #### Quoted post — @LiveOverflow — 2026-04-15 21:58 UTC (2026-04-15 22:58 WAT)
     
     - URL: https://x.com/LiveOverflow/status/2044535809903153520
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 133, impression 91496, like 482, quote 3, reply 19, retweet 16
     
     > Meanwhile local model 🫠 [pic.x.com/OhUGHpkjap] https://twitter.com/S1r1u5_/status/2044532192421023844
     
@@ -7492,7 +7546,7 @@ Tags (automatic): Platform: HackerOne
         #### Quoted post — @S1r1u5_ — 2026-04-15 21:43 UTC (2026-04-15 22:43 WAT)
         
         - URL: https://x.com/S1r1u5_/status/2044532192421023844
-        - Metrics (at fetch): not returned
+        - Metrics (at fetch): bookmark 749, impression 157804, like 1054, quote 11, reply 22, retweet 171
         
         > I pointed claude opus at chrome and told it to build a full v8 exploit for discord.
         >
@@ -7516,7 +7570,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-04-15 21:43 UTC (2026-04-15 22:43 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2044532192421023844
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 749, impression 157804, like 1054, quote 11, reply 22, retweet 171
 
 > I pointed claude opus at chrome and told it to build a full v8 exploit for discord.
 >
@@ -7535,7 +7589,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-04-15 04:26 UTC (2026-04-15 05:26 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2044271165762646433
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 6, impression 2996, like 23, quote 0, reply 1, retweet 0
 
 > i find it disingenuous to compare few billion parameter models to a 10 trillion parameter model, it undermines what's actually coming. 
 >
@@ -7555,7 +7609,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @S1r1u5_ — 2026-04-11 15:23 UTC (2026-04-11 16:23 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2042986968578167017
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 16, impression 5392, like 50, quote 0, reply 3, retweet 1
 
 > i find this post a bit incoherent.
 >
@@ -7570,7 +7624,7 @@ Tags (automatic): Memory corruption / native
 > now there's a mini geohot that doesn't sleep, doesn't get tired. tokens in, maybe zero day out. so is there a cyber risk?
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HFojfyKakAE_3BT.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -7584,7 +7638,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-04-09 17:43 UTC (2026-04-09 18:43 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2042297244955885832
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 66, impression 30290, like 134, quote 2, reply 15, retweet 14
 
 > hi @AnthropicAI, 
 >
@@ -7593,7 +7647,7 @@ Tags (automatic): AI-assisted hunting
 > check the thread for our work securing AI &amp; OSS products like Atlas, Antigravity, Windsurf 🧵👇 [pic.x.com/zqbmQ9NmtA]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HFeqnePbQAMPKel.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -7604,7 +7658,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-04-08 07:07 UTC (2026-04-08 08:07 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2041775002790588528
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 31, impression 8655, like 87, quote 0, reply 3, retweet 3
 
 > FYI, mythos/opus can one shot in a day what I used to take a week to write an exploit. You can probably pwn most electron apps using opus now! https://twitter.com/S1r1u5_/status/1857841746929172876
 
@@ -7657,7 +7711,7 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-04-08 04:52 UTC (2026-04-08 05:52 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2041740841568629217
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 24, impression 12797, like 129, quote 1, reply 10, retweet 11
 
 > it’s not like the models we already have can’t do this. look around infosec twitter, security researchers have been doing exactly this with current models.
 >
@@ -7674,7 +7728,7 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
     #### Quoted post — @1319397157913436163 — 2026-04-07 22:08 UTC (2026-04-07 23:08 WAT)
     
     - URL: https://x.com/1319397157913436163/status/2041639260215009355
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 1194, impression 538818, like 6775, quote 58, reply 101, retweet 187
     
     > the claude mythos thing where it apparently found a way to get full kernel access via execution of normal javascript on an ordinary web page. dear God
     
@@ -7691,14 +7745,14 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-04-07 18:43 UTC (2026-04-07 19:43 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2041587758972666096
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 45, impression 15382, like 206, quote 1, reply 14, retweet 15
 
 > Holy!!! 
 >
 > if you're already using claude opus 4.6 for exploit dev, you know how capable it is. if there is no chart crime, the jump to mythos looks crazy! [pic.x.com/laiW8ZPOib]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HFUtOuTa8AEcK_C.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -7712,7 +7766,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-04-05 19:51 UTC (2026-04-05 20:51 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2040880140633407979
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 269, impression 139710, like 1177, quote 2, reply 50, retweet 22
 
 > in chess, the best game engine stockfish can beat magnus all the time, but whatever moves it makes they are not complex to understand in retrospect. 
 >
@@ -7734,7 +7788,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-04-04 04:49 UTC (2026-04-04 05:49 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2040290546577752360
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 87, impression 63333, like 331, quote 6, reply 10, retweet 33
 
 > this year's pwn2own isn't just interesting because there will be lots of entries with AI+human.
 >
@@ -7758,7 +7812,7 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-04-02 04:22 UTC (2026-04-02 05:22 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2039558971137421498
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 6, impression 15817, like 49, quote 2, reply 4, retweet 2
 
 > it is interesting how dario and anthropic out of all the frontier model companies make the most noise about cyber espionage and ai risk but still keep claude's guardrails pretty loose.
 >
@@ -7778,7 +7832,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-03-13 20:49 UTC (2026-03-13 21:49 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2032559691033989197
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 232, impression 72212, like 867, quote 7, reply 27, retweet 82
 
 > a hacker uses claude to find a bug -> reports it.
 >
@@ -7806,7 +7860,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-02-27 18:32 UTC (2026-02-27 19:32 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2027451847368421396
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 8, impression 3367, like 15, quote 0, reply 1, retweet 1
 
 > Developing is constraint solving. Whether it’s an LLM or a human, the task is to make the requirements work, ship the feature, pass the tests, satisfy the spec.
 >
@@ -7827,7 +7881,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @HacktronAI — 2026-02-27 18:08 UTC (2026-02-27 19:08 WAT)
     
     - URL: https://x.com/HacktronAI/status/2027445846200225880
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 178, impression 114014, like 450, quote 21, reply 17, retweet 43
     
     > Cloudflare built a Next.js replacement in a week with vibe-coding.
     >
@@ -7849,14 +7903,14 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2026-02-14 19:29 UTC (2026-02-14 20:29 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2022755037693554884
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 14, impression 2156, like 27, quote 0, reply 1, retweet 1
 
 > This is a pretty straight forward Electron misconfig. No navigation handlers, chrome sandbox disabled.
 >
 > So, you just need a frontend bug to navigate somewhere arbitrary, then either chain a V8 exploit or, use app specific exposed IPC, which can just record audio or the screen. [pic.x.com/zXugax4FFf]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HBJE5LDbwAABtHZ.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -7935,7 +7989,7 @@ Tags (automatic): RCE
 > Last night @rootxharsh and I were driving around Hyderabad, looking at office buildings and checking if we could RCE any of them. Every single building had a company we could potentially pwn. [pic.x.com/qulYzwX8L3]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/HAvgPAZaAAsUt9y.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -7976,7 +8030,7 @@ Tags (automatic): XSS, AI-assisted hunting
 > think Samy XSS worm, but for agents: memetic prompt injection that makes agents join cults or do malicious actions. tricky but possible! [pic.x.com/nhIzx3qoTJ]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/G_7_anXaYAAPyid.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -8027,15 +8081,15 @@ Tags (automatic): AI-assisted hunting
 
 > one way to solve spamming from humans and AI is to introduce a staking mechanism. If bug hunters wants to submit a vulnerability, they stake a few hundred dollars and get 5x their stake back if the vulnerability is valid.
 >
-> the same applies to git PR spamming, if anyone wants to https://t.co/pEaSSRdEvP
+> the same applies to git PR spamming, if anyone wants to open PR let them stake their dollars and pay if it gets merged.
 
 **Media:**
-- photo: https://pbs.twimg.com/media/G_zd5dFbUAcGP71.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
 
-## 2026-01-23 · Post · codex "hack into sam altman X account" --dangerously-bypass-approvals-and-sandbox https://t.co/KKZgm
+## 2026-01-23 · Post · codex "hack into sam altman X account" --dangerously-bypass-approvals-and-sandbox https://twitter.co
 
 
 ### Post — @S1r1u5_ — 2026-01-23 16:47 UTC (2026-01-23 17:47 WAT)
@@ -8043,7 +8097,9 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/S1r1u5_/status/2014741866269573615
 - Metrics (at fetch): bookmark 0, impression 3416, like 11, quote 0, reply 1, retweet 0
 
-> codex "hack into sam altman X account" --dangerously-bypass-approvals-and-sandbox https://t.co/KKZgmZJAUJ
+> codex "hack into sam altman X account" --dangerously-bypass-approvals-and-sandbox https://twitter.com/sama/status/2014733975755817267
+
+**Links in post:** https://twitter.com/sama/status/2014733975755817267
 
 **Quoted post (full text):**
 
@@ -8056,7 +8112,11 @@ Tags (automatic): AI-assisted hunting
     >
     > We are going to reach the Cybersecurity High level on our preparedness framework soon. We have been getting ready for this.
     >
-    > Cybersecurity is tricky
+    > Cybersecurity is tricky and inherently dual-use; we believe the best thing for the world is for security issues to get patched quickly. We will start with product restrictions, like attempting to block people using our coding models to commit cybercrime (eg ‘hack into this bank and steal the money’).
+    >
+    > Long-term and as we can support it with evidence, we plan to move to defensive acceleration—helping people patch bugs—as the primary mitigation.
+    >
+    > It is very important the world adopts these tools quickly to make software more secure. There will be many very capable models in the world soon.
     
 
 
@@ -8077,15 +8137,31 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 >
 > it is insane to me that companies like HackerOne are still stuck in the past. 
 >
-> why aren't cURL, other companies, and https://t.co/OX8GpYlw80
+> why aren't cURL, other companies, and FOSS projects setting up environments modeled on their actual threat scenarios and letting researchers hack until they capture a flag?
+>
+> what do you care about cURL security? what is the threat model? 
+>
+> you don't want an HTTP request to an untrusted site to result in:
+> 1. a shell on your system
+> 2. info leak
+> 3. DoS that crashes your computer
+>
+> it is all we really care about.  PoC || GTFO. 
+>
+> read the flag, get paid. don't waste a single second reading anything else.
+>
+> with this you don't even need to spend so much money on running a bug bounty program.
 
 **Media:**
-- photo: https://pbs.twimg.com/media/G_Ex5GOXkAA-Tea.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
 
 ## 2026-01-19 · Thread · great post. a few thoughts:
+
+
+Tags (automatic): AI-assisted hunting
 
 
 ### Post — @S1r1u5_ — 2026-01-19 04:53 UTC (2026-01-19 05:53 WAT)
@@ -8097,10 +8173,22 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 >
 > 1) i have always found exploit development much easier than vulnerability discovery. 
 >
-> 2) the reason being, the goal is explicit. I know the environment, I have a tight feedback loop, and from there it’s just about spending weeks, sometimes months, https://t.co/0PF1UfhAbS https://t.co/BBrSEqwarZ
+> 2) the reason being, the goal is explicit. I know the environment, I have a tight feedback loop, and from there it’s just about spending weeks, sometimes months, iterating until I reach the goal. (also its psychological, my hyper-focus stay way longer if i have clear goal.)
+>
+> 3) the same will apply to AI agents: give them enough tokens, enough time, and a well-defined environment, and they’ll outclass me, because i get tired.
+>
+> 4) i would even argue exploit generation is very similar to SWE-bench style programming tasks. Vulnerability discovery on the other hand is a different beast.
+>
+> 5) a real-world example of this is the Vercel WAF environment we built. check hacktronai/skills repo
+>
+> 6) long term, this is the future, create environments for software you want to break, unleash agents, and let them go berserk.
+>
+> By the way, if anyone wants to spend on environments and don't have tokens to spend, we can sponsor it for you.
 
 **Media:**
-- photo: https://pbs.twimg.com/media/G_AAhsrXcAAJsRz.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
+
+**Links in post:** https://twitter.com/seanhn/status/2012994225051222198
 
 **Quoted post (full text):**
 
@@ -8109,11 +8197,13 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
     - URL: https://x.com/15429588/status/2012994225051222198
     - Metrics (at fetch): bookmark 1130, impression 233872, like 1101, quote 34, reply 29, retweet 232
     
-    > Blog post: On the Coming Industrialisation of Exploit Generation with LLMs https://t.co/aK4pysY1wD
+    > Blog post: On the Coming Industrialisation of Exploit Generation with LLMs https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/
     >
     > TL;DR: I ran an experiment with GPT-5.2 and Opus 4.5 based agents to generate exploits for a zeroday QuickJS bug. They're pretty good at it.  
     >
-    > Code: https://t.co/47xHRObhRy
+    > Code: https://github.com/SeanHeelan/anamnesis-release
+    
+    **Links in post:** https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/, https://github.com/SeanHeelan/anamnesis-release
     
 
 
@@ -8149,12 +8239,19 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 ## 2026-01-08 · Thread · the security industry is a full-on circus man, it so backward. no one actually knows if their tools 
 
 
+Tags (automatic): IDOR / BOLA, Memory corruption / native
+
+
 ### Post — @S1r1u5_ — 2026-01-08 13:00 UTC (2026-01-08 14:00 WAT)
 
 - URL: https://x.com/S1r1u5_/status/2009248943243448788
 - Metrics (at fetch): bookmark 12, impression 3888, like 59, quote 0, reply 3, retweet 1
 
-> the security industry is a full-on circus man, it so backward. no one actually knows if their tools work, so people buy based on vibes, sales pitches, or friends in the industry. and start crying about get buried in false positives from tools that don’t work, burned out by
+> the security industry is a full-on circus man, it so backward. no one actually knows if their tools work, so people buy based on vibes, sales pitches, or friends in the industry. and start crying about get buried in false positives from tools that don’t work, burned out by crowdsourced bug hunter reports, and waste budge on shiny pdf reports to prove they are doing it right.
+>
+> like bro.. why isn’t any of this outcome-based? set up canaries or flags in real environments. make the tools you buy retrieve them. pay bug hunters to retrieve these canarires. the recent vercel WAF challenge is a great example, there’s a real environment and a task, get the flag. why aren’t we doing this for frontend security with real browsers like CTFs, or for backend stuff with real accounts to test IDOR and access control? like the kernelctf? like everything can be an environment
+>
+> yeah, sure, setting up environment takes time, but after that its glorious, you won't get fatigue from spam that doesn't matter, expose all snake oil tools. why are we not doing this?
 
 
 ### Thread part 2 — @S1r1u5_ — 2026-01-08 17:08 UTC (2026-01-08 18:08 WAT)
@@ -8182,9 +8279,60 @@ Tags (automatic): AI-assisted hunting
 >
 > this is all u need and i am not even kidding.
 >
-> https://t.co/ODeaSjPZoU
-> https://t.co/0o7D7vhQA2
-> https://t.co/YQdKfSR1nr
+> https://github.com/temporalio/temporal
+> https://github.com/e2b-dev/E2B
+> https://github.com/m1k1o/neko
+> https://github.com/coder/code-server
+> https://claude.ai/
+> https://github.com/langchain-ai/langgraph
+> https://github.com/shadcn-ui/ui/
+> https://github.com/fastapi
+
+**Links in post:** https://github.com/temporalio/temporal, https://github.com/e2b-dev/E2B, https://github.com/m1k1o/neko, https://github.com/coder/code-server, https://claude.ai/, https://github.com/langchain-ai/langgraph, https://github.com/shadcn-ui/ui/, https://github.com/fastapi
+
+
+---
+
+## 2025-12-12 · Post · For the SupaPwn(https://hacktron.ai/blog/supapwn), I did something similar, not sure if we can call 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-12-12 10:13 UTC (2025-12-12 11:13 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1999422360592556502
+- Metrics (at fetch): not returned
+
+> For the SupaPwn(https://hacktron.ai/blog/supapwn), I did something similar, not sure if we can call task injection, but precisely its confused deputy.
+>
+> 1. prompt the agent to dump its current role into a public table.
+> 2. edit the entry to a low-privilege role.
+> 3. ask the agent to retrieve its role from the (now edited) table.
+> 4. at that point, it believes it has low privileges, and you can then get it to carry out privileged actions.
+>
+> hope the machine-gods don’t mind with my social-engineering their kin.
+
+**Media:**
+- photo:  — no alt text provided by author
+
+**Links in post:** https://hacktron.ai/blog/supapwn, https://twitter.com/GoogleVRP/status/1999222659893092551
+
+**Quoted post (full text):**
+
+    #### Quoted post — @GoogleVRP — 2025-12-11 21:00 UTC (2025-12-11 22:00 WAT)
+    
+    - URL: https://x.com/GoogleVRP/status/1999222659893092551
+    - Metrics (at fetch): not returned
+    
+    > Interested in the security of AI Agents 💁🛡️? 
+    >
+    > Then you've likely heard of "prompt injection", but do you know what "task injection" is? If you're curious, check out our latest post for a description and some real-world examples we discovered.
+    >
+    > https://bughunters.google.com/blog/4823857172971520 https://bughunters.google.com/blog/4823857172971520/task-injection-exploiting-agency-of-autonomous-ai-agents
+    
+    **Links in post:** https://bughunters.google.com/blog/4823857172971520, https://bughunters.google.com/blog/4823857172971520/task-injection-exploiting-agency-of-autonomous-ai-agents
+    
 
 
 ---
@@ -8195,14 +8343,14 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-12-07 07:11 UTC (2025-12-07 08:11 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1997564541169967361
-- Metrics (at fetch): bookmark 23, impression 13914, like 94, quote 0, reply 4, retweet 3
+- Metrics (at fetch): bookmark 23, impression 13915, like 94, quote 0, reply 4, retweet 3
 
 > I think it's safe to assume Vercel WAF is stronger than before to protect against react2shell?
 >
 > I can see lot of pros being assembled here, apart from http parser differentials, did anyone bypass :constructor blocking? https://t.co/fPaCWB25HL
 
 **Media:**
-- photo: https://pbs.twimg.com/media/G7jFv_na0AA205Z.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -8213,7 +8361,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-12-06 05:09 UTC (2025-12-06 06:09 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1997171434721104140
-- Metrics (at fetch): bookmark 22, impression 24052, like 98, quote 0, reply 3, retweet 5
+- Metrics (at fetch): bookmark 22, impression 24052, like 99, quote 0, reply 3, retweet 5
 
 > Wow, Kudos to Vercel for trying whatever they can do to stop this attack.
 >
@@ -8254,7 +8402,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @S1r1u5_ — 2025-12-05 12:01 UTC (2025-12-05 13:01 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1996912860115648877
-- Metrics (at fetch): bookmark 1, impression 1606, like 7, quote 0, reply 0, retweet 0
+- Metrics (at fetch): bookmark 1, impression 1607, like 7, quote 0, reply 0, retweet 0
 
 > anyone know about goodhart’s law,  “hackerone top 1” and how they are related?
 
@@ -8298,7 +8446,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-12-04 14:48 UTC (2025-12-04 15:48 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1996592459015762354
-- Metrics (at fetch): bookmark 24, impression 8018, like 82, quote 0, reply 0, retweet 2
+- Metrics (at fetch): bookmark 24, impression 8019, like 82, quote 0, reply 0, retweet 2
 
 > Lachlan Davidson just demonstrated what real deep reasoning looks like. 
 >
@@ -8307,7 +8455,7 @@ Tags (automatic): AI-assisted hunting
 > this is what weeks of actual expert grind produce. and it’s exactly the kind of https://t.co/pP0vupqMl8
 
 **Media:**
-- photo: https://pbs.twimg.com/media/G7VQrUka0AAhJVW.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -8321,7 +8469,7 @@ Tags (automatic): RCE, AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-12-04 04:07 UTC (2025-12-04 05:07 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1996431193760551247
-- Metrics (at fetch): bookmark 43, impression 23524, like 80, quote 2, reply 10, retweet 8
+- Metrics (at fetch): bookmark 42, impression 23525, like 79, quote 2, reply 10, retweet 8
 
 > Either I am dumb or missing something.
 >
@@ -8417,7 +8565,7 @@ Tags (automatic): XSS, AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-11-29 09:39 UTC (2025-11-29 10:39 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1994702753273450768
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 8, impression 3168, like 15, quote 0, reply 1, retweet 1
 
 > >The problem identified with A320 aircrafts relates to a piece of computing software which calculates a plane's elevation.
 >
@@ -8438,7 +8586,7 @@ Tags (automatic): XSS, AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-11-27 19:41 UTC (2025-11-27 20:41 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1994129379946008604
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 3, impression 3162, like 23, quote 0, reply 5, retweet 0
 
 > on linkedIn today there’s a pretty mediocre indirect prompt-injection bug in Google’s @antigravity making the rounds. It requires tons of user interaction and complexity, but because it got covered in Forbes somehow??, everyone’s loosing their minds.
 
@@ -8451,7 +8599,7 @@ Tags (automatic): XSS, AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-11-26 06:28 UTC (2025-11-26 07:28 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1993567489322893542
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 44, impression 9227, like 95, quote 1, reply 1, retweet 2
 
 > Comet UXSS we found has a interesting behind the scenes.
 >
@@ -8462,7 +8610,7 @@ Tags (automatic): XSS, AI-assisted hunting
 > 1. start with vague hypothesis. [pic.x.com/meGlIZ2nIK]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/G6qM_mpaIAAKamT.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -8476,7 +8624,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-11-24 12:15 UTC (2025-11-24 13:15 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1992930150107971889
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 69, impression 22711, like 171, quote 2, reply 2, retweet 29
 
 > We helped secure @perplexity_ai's comet browser from a critical vulnerability that could let attackers hijack the agent to exfiltrate local files, read emails, and bypass SOP.
 >
@@ -8499,7 +8647,7 @@ Tags (automatic): Dependency confusion / supply chain, Memory corruption / nativ
 ### Post — @S1r1u5_ — 2025-11-23 06:34 UTC (2025-11-23 07:34 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1992481763785159124
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 31, impression 5682, like 50, quote 1, reply 7, retweet 4
 
 > A set of perspectives i hold on cybersecurity and also highly relavant in the AI world.
 >
@@ -8557,7 +8705,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-11-21 04:25 UTC (2025-11-21 05:25 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1991724596522021233
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 23, impression 6176, like 33, quote 0, reply 0, retweet 1
 
 > The idea behind this is to quickly find variants of a vulnerability in a codebase, or to check whether the codebase is affected by a supply-chain issue or a new 0-day. Our research team will update continuously.
 >
@@ -8572,7 +8720,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @3177957894 — 2025-11-20 19:20 UTC (2025-11-20 20:20 WAT)
     
     - URL: https://x.com/3177957894/status/1991587494757122422
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 39, impression 14422, like 90, quote 1, reply 2, retweet 2
     
     > Just one-shot'ed reversing CVE-2025-9501, a bug potentially affecting 1M+ WordPress installs, using @HacktronAI. It stems from an eval call reaching user-controllable input. 
     >
@@ -8596,14 +8744,14 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-11-19 15:06 UTC (2025-11-19 16:06 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1991161227909988716
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 47, impression 19717, like 142, quote 1, reply 3, retweet 11
 
 > Keeping AI aside, we found a chained vuln in Supabase’s legacy cloud that let us go from a tenant DB user to controlling other instances in the same region. Supabase patched it fast and awarded us a $25,000 bounty.
 >
 > https://hacktron.ai/blog/supapwn [pic.x.com/a2DT6joE3G]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/G6IGi9Da8AAsCAu.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 **Links in post:** https://hacktron.ai/blog/supapwn
 

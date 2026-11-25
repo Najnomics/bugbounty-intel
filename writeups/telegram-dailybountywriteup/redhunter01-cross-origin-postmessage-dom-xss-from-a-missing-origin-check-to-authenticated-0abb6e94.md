@@ -1,14 +1,14 @@
 # Cross-Origin postMessage DOM XSS
 
 - **Source URL:** https://medium.com/@redhunter01/cross-origin-postmessage-dom-xss-from-a-missing-origin-check-to-authenticated-account-compromise-759589196176
-- **Fetched from:** https://medium.com/feed/@redhunter01
-- **Fetched:** 2026-11-16
+- **Fetched from:** https://medium.com/@redhunter01/cross-origin-postmessage-dom-xss-from-a-missing-origin-check-to-authenticated-account-compromise-759589196176?source=rss-1a8706ec0593------2
+- **Fetched:** 2026-11-25
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 14936)
-- **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
+- **Method:** medium-rss-feed (full content:encoded) readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
 
 ---
-### Introduction
+- **Author/Published (RSS):** redhunter01 / Tue, 06 Oct 2026 01:26:22 GMT
 
 Some of the best bug bounty findings do not begin with a suspicious API endpoint.
 
@@ -58,8 +58,6 @@ And after following the application architecture further, the issue escalated fr
 
 This write-up explains the methodology behind finding vulnerabilities like this rather than focusing only on the final payload.
 
-### 1. Start With Message Handlers
-
 A valuable JavaScript reconnaissance pattern is searching bundles for:
 
 `addEventListener("message"`
@@ -68,16 +66,6 @@ and:
 window.onmessage
 
 Cross-window communication appears everywhere:
-
-- OAuth integrations
-- payment widgets
-- surveys
-- voting systems
-- embedded forms
-- customer-support widgets
-- advertising
-- authentication flows
-- third-party SDKs
 
 The security boundary is important because postMessage allows documents from different origins to communicate.
 
@@ -115,31 +103,19 @@ That immediately created a useful hypothesis:
 
 The next task was understanding whether that navigation could become JavaScript execution.
 
-### 2. Trace Source → Transformation → Sink
-
 When auditing DOM vulnerabilities, thinking in terms of data flow is extremely useful.
 
 For this bug:
-
-### Source
 
 event.data.options.link
 
 An external page could potentially control this through postMessage.
 
-### Transformation
-
 The value passed through a function that appeared to sanitize it.
-
-Conceptually:
 
 sanitizeHtml(value)
 
-### Sink
-
 The output reached:
-
-window.location.href
 
 So the data flow became:
 
@@ -161,8 +137,6 @@ At this point, one detail mattered enormously:
 
 **What exactly did the sanitizer protect against?**
 
-### 3. Never Trust a Function Because It Is Called “Sanitize”
-
 This was the most important lesson from the finding.
 
 Developers often assume:
@@ -178,8 +152,6 @@ That is incorrect.
 Sanitization is context-specific.
 
 Different sinks require different validation.
-
-For example:
 
 HTML context        → HTML sanitization
 
@@ -216,8 +188,6 @@ The real bug was:
 *The wrong type of sanitizer was used for the sink.*
 
 That distinction matters when analyzing applications.
-
-### 4. Classify the Sink Correctly
 
 Consider:
 
@@ -283,8 +253,6 @@ wrong security context
 
 vulnerability
 
-### 5. Verify the Library Instead of Guessing
-
 Another important methodology lesson is verifying dependency behavior.
 
 The bundle contained minified module references, so the next task was identifying which library implemented the sanitizer.
@@ -301,8 +269,6 @@ This identified the dependency as an HTML sanitization library.
 
 Rather than assuming its behavior, reproduce it locally.
 
-For example:
-
 `const sanitizeHtml = require("sanitize-html");`
 console.log(
 
@@ -313,12 +279,6 @@ sanitizeHtml("SOME\_TEST\_VALUE")
 Testing the exact installed version is even better.
 
 This answers questions such as:
-
-- Does it normalize whitespace?
-- Does it lowercase schemes?
-- Does it remove URLs?
-- Does it behave differently on raw strings?
-- Does configuration change the output?
 
 This methodology is reusable across nearly every bug bounty target.
 
@@ -343,8 +303,6 @@ Next.js helpers
 do not rely solely on documentation.
 
 Test the exact behavior.
-
-### 6. Understand the Browser Primitive
 
 A missing postMessage origin validation bug usually looks like this:
 
@@ -382,11 +340,7 @@ event.data
 
 and ignores:
 
-event.origin
-
 then it has lost one of the browser’s primary trust boundaries.
-
-Conceptually:
 
 Attacker origin
 
@@ -407,8 +361,6 @@ v
 Trusted application logic
 
 This is why message handlers deserve special attention during JavaScript auditing.
-
-### 7. Do Not Stop at “postMessage Bug”
 
 A common bug bounty mistake would be stopping here and reporting:
 
@@ -484,8 +436,6 @@ JavaScript execution
 
 That is fundamentally different from a harmless cross-origin message bug.
 
-### 8. Check Whether the Vulnerable Route Actually Loads
-
 Finding vulnerable code in a JavaScript bundle does not guarantee that users can reach it.
 
 The next question should always be:
@@ -524,11 +474,7 @@ Exploit trigger active
 
 Do not treat them as identical.
 
-### 9. Test Deep-Link Routing
-
 Modern SPAs frequently return the application shell for arbitrary routes.
-
-For example:
 
 /voting/123
 
@@ -568,8 +514,6 @@ useParams
 
 Understanding routes often turns theoretically vulnerable code into a reproducible attack surface.
 
-### 10. Analyze Authentication Context
-
 JavaScript execution becomes significantly more serious when it occurs inside an authenticated origin.
 
 The next question was:
@@ -591,8 +535,6 @@ polls
 surveys
 
 Because injected JavaScript executes as the application origin, browser requests inherit the victim’s authenticated session.
-
-Conceptually:
 
 ```
 fetch("/api/profile", {
@@ -642,25 +584,13 @@ rather than simply:
 
 alert(1)
 
-### 11. Map the Application’s Authenticated API Surface
-
 Once XSS is confirmed, do not immediately jump to destructive testing.
 
 Instead create an impact map.
 
 Look through:
 
-- network requests
-- JavaScript bundles
-- API clients
-- route definitions
-- GraphQL operations
-- Redux actions
-- service modules
-
 Classify endpoints.
-
-For example:
 
 CategoryExampleIdentityprofile / account detailsFinancial-like valuepoints / credits / rewardsState changeschallenge participationUser contentvotes / surveysAccount securityemail / password / MFAPrivileged actionsadministration
 
@@ -689,8 +619,6 @@ into:
 *Attacker-controlled JavaScript executes inside an authenticated loyalty application and can interact with privileged same-origin APIs.*
 
 Much stronger.
-
-### 12. Check Browser Differences
 
 Browser behavior matters.
 
@@ -734,8 +662,6 @@ They do not weaken it.
 
 They make the report more credible.
 
-### 13. Check Security Headers
-
 Whenever you find a client-side injection issue, inspect the response headers.
 
 Important headers include:
@@ -771,8 +697,6 @@ The primary bug still needs to be fixed.
 For postMessage, that means validating the sender.
 
 For URL navigation, that means validating the destination.
-
-### 14. Understand Popup vs. Iframe Authentication
 
 Another useful lesson came from authentication behavior.
 
@@ -810,17 +734,9 @@ cookie exists → every context gets it
 
 Modern browser cookie rules make that incorrect.
 
-### 15. Build a Local Replica When Production Testing Is Limited
-
 One of the most useful bug bounty techniques is building a minimal replica of the vulnerable behavior.
 
 This becomes particularly valuable when:
-
-- bot protection blocks automation,
-- login requires unavailable credentials,
-- destructive actions must be avoided,
-- the feature is temporarily inactive,
-- reproducing against production would affect users.
 
 A good replica can contain:
 
@@ -841,8 +757,6 @@ browser automation
 The goal is not to invent behavior.
 
 It is to reproduce the verified production data flow.
-
-Conceptually:
 
 attacker.test
 
@@ -882,15 +796,9 @@ without abusing a production account.
 
 That is significantly more convincing than a theoretical explanation.
 
-### 16. Keep Production Evidence and Replica Evidence Separate
-
 This is critical.
 
 A strong report should clearly distinguish:
-
-### Verified directly in production
-
-For example:
 
 message handler exists
 
@@ -905,10 +813,6 @@ SPA route reachable
 security headers absent
 
 authenticated API endpoints present
-
-### Verified in a controlled replica
-
-For example:
 
 browser executes the navigation
 
@@ -927,8 +831,6 @@ if you only reproduced the complete chain locally.
 Instead explain exactly which links in the chain were verified where.
 
 Triagers appreciate this.
-
-### 17. Think in Exploit Chains
 
 The best vulnerability research often comes from chaining individually modest observations.
 
@@ -974,11 +876,7 @@ If you follow the chain to step nine, you understand the security impact.
 
 That mindset is one of the biggest differences between ordinary scanning and high-quality bug bounty research.
 
-### 18. A Reusable postMessage Hunting Methodology
-
 When auditing JavaScript bundles, use the following workflow.
-
-### Step 1 — Find message handlers
 
 Search:
 
@@ -987,8 +885,6 @@ addEventListener("message"
 onmessage
 postMessage(
 ```
-### Step 2 — Look for origin validation
-
 Search nearby code for:
 
 event.origin
@@ -1000,8 +896,6 @@ allowedOrigins
 trustedOrigins
 
 If none exists, investigate further.
-
-### Step 3 — Identify controllable fields
 
 Examples:
 
@@ -1020,8 +914,6 @@ event.data.action
 Ask:
 
 *Which part of the message controls application behavior?*
-
-### Step 4 — Trace those fields to sinks
 
 High-value sinks include:
 
@@ -1049,8 +941,6 @@ iframe.src
 
 form.action
 
-### Step 5 — Understand every transformation
-
 If data goes through:
 
 sanitize()
@@ -1066,8 +956,6 @@ normalize()
 identify the actual library and behavior.
 
 Never assume safety from the function name.
-
-### Step 6 — Reproduce library behavior locally
 
 Use the exact package version where possible.
 
@@ -1089,8 +977,6 @@ absolute URLs
 
 The goal is understanding the parser.
 
-### Step 7 — Determine reachability
-
 Find:
 
 route
@@ -1107,10 +993,6 @@ authentication requirement
 
 A vulnerable function that never executes has different risk from one reachable by every visitor.
 
-### Step 8 — Determine execution context
-
-Ask:
-
 Does it execute in an iframe?
 
 A popup?
@@ -1120,8 +1002,6 @@ The top-level page?
 A sandboxed frame?
 
 Security behavior changes significantly depending on context.
-
-### Step 9 — Map authenticated capabilities
 
 Once execution is established, inspect same-origin APIs.
 
@@ -1145,15 +1025,9 @@ administrative functions
 
 Do not perform destructive actions unless explicitly permitted.
 
-### Step 10 — Validate multiple browsers
-
 Do not assume browser behavior is universal.
 
 Test Chromium, Firefox, and WebKit where relevant.
-
-### Step 11 — Document conditions
-
-Examples:
 
 requires login
 
@@ -1166,8 +1040,6 @@ feature only active during campaigns
 specific account state required
 
 Good researchers communicate constraints instead of hiding them.
-
-### 19. Interesting Search Patterns
 
 During JavaScript bundle auditing, searches like these can uncover similar issues:
 
@@ -1206,11 +1078,7 @@ security-sensitive sink
 
 That combination deserves manual review.
 
-### 20. Common False Positives
-
 Not every missing origin check is exploitable.
-
-For example:
 
 ```
 window.addEventListener("message", e => {
@@ -1248,11 +1116,7 @@ privileged actions
 
 Always follow the data.
 
-### 21. Reporting Strategy
-
 A strong title should describe the full chain.
-
-For example:
 
 **Cross-Origin postMessage DOM XSS via Missing Origin Validation Leading to Authenticated Account Actions**
 
@@ -1266,17 +1130,11 @@ Why does the existing protection fail?
 
 What can the attacker accomplish?
 
-For example:
-
 *A cross-origin postMessage listener accepts redirect messages without validating the sender. The attacker-controlled destination is passed through an HTML sanitizer and assigned to a browser navigation sink. Because HTML sanitization does not enforce safe URL schemes, an unsafe navigation value can survive and execute within the trusted application origin. In authenticated sessions, this gives attacker-controlled JavaScript access to same-origin profile and loyalty functionality.*
 
 That communicates the entire vulnerability without requiring a triager to reverse-engineer the report.
 
-### 22. Remediation
-
 There are multiple layers to fix.
-
-### Validate the message origin
 
 const TRUSTED\_ORIGINS = new Set(\[
 
@@ -1299,8 +1157,6 @@ event.source
 
 when the expected window reference is known.
 
-### Validate URLs as URLs
-
 Do not use an HTML sanitizer for navigation security.
 
 Instead:
@@ -1319,8 +1175,6 @@ return url.href;
 }
 
 Restrict hostnames if external navigation is unnecessary.
-
-### Prefer semantic actions over arbitrary URLs
 
 Even better than accepting:
 
@@ -1347,13 +1201,9 @@ const destinations = {
 ```
 The external sender never supplies the destination at all.
 
-### Add CSP
-
 A strong Content Security Policy provides another security boundary.
 
 CSP should not replace the application-level fix, but it can significantly reduce the impact of future injection bugs.
-
-### 23. The Bigger Lesson: Context Matters More Than Sanitization
 
 The most important technical lesson from this finding is simple:
 
@@ -1405,13 +1255,9 @@ hostname allowlist
 
 navigation
 
-### 24. The Research Mindset
-
 There are several broader lessons bug bounty hunters can take from this case.
 
 Do not stop when you find suspicious code.
-
-Ask:
 
 Can I control it?
 
@@ -1433,19 +1279,13 @@ missing origin check
 
 Trace the message.
 
-Do not stop at:
-
 XSS
 
 Map the authenticated APIs.
 
-Do not stop at:
-
 there is a sanitizer
 
 Determine whether it matches the sink.
-
-Do not stop at:
 
 works in my browser
 
@@ -1460,8 +1300,6 @@ from:
 controlled exploit-chain evidence
 
 That combination of technical depth and disciplined validation is what turns an interesting JavaScript bug into a strong vulnerability report.
-
-### Final Attack-Chain Mental Model
 
 Whenever you encounter cross-window communication, mentally run this checklist:
 

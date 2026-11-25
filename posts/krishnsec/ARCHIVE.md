@@ -2,8 +2,8 @@
 
 _Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 201
-- Conversations/threads: 191
+- Posts in this file: 213
+- Conversations/threads: 203
 - Oldest post captured: 2021-08-17
 - Newest post captured: 2026-11-15
 
@@ -1650,10 +1650,10 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 3, impression 7141, like 75, quote 1, reply 7, retweet 1
 
 > We ( suiieeee Hackers ) Qualified for @Bugcrowd ‘s hackercup 2nd round 🥉
-> @RootxRavi @MrSharmax_ https://t.co/PEWLPZUa8K
+> @RootxRavi @MrSharmax_ [pic.x.com/PEWLPZUa8K]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GbRknMka4AAWe6H.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1670,10 +1670,10 @@ Tags (automatic): Platform: Bugcrowd
 - Metrics (at fetch): bookmark 4, impression 12967, like 153, quote 1, reply 6, retweet 1
 
 > 150 P1 warrior cool #swag ❤️@Bugcrowd 
-> #bugcrowd #bugbounty https://t.co/Lz76JYcC9L
+> #bugcrowd #bugbounty [pic.x.com/Lz76JYcC9L]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GapId8eXcAAzWCg.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1698,6 +1698,37 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
+## 2024-09-08 · Post · When you finally find a P1 but program is private…
+
+
+### Post — @krishnsec — 2024-09-08 11:21 UTC (2024-09-08 12:21 WAT)
+
+- URL: https://x.com/krishnsec/status/1832741098499854791
+- Metrics (at fetch): not returned
+
+> When you finally find a P1 but program is private…
+> and you’re not invited #BugHunterProblems
+
+
+---
+
+## 2024-09-06 · Post · It’s easy to find sqli &amp; lfi during auth testing in comparison to unauth one
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @krishnsec — 2024-09-06 09:03 UTC (2024-09-06 10:03 WAT)
+
+- URL: https://x.com/krishnsec/status/1831981482543554848
+- Metrics (at fetch): not returned
+
+> It’s easy to find sqli &amp; lfi during auth testing in comparison to unauth one
+> just figured it out 👀
+
+
+---
+
 ## 2024-08-26 · Post · If you have access to jenkins dashboard 
 
 
@@ -1715,7 +1746,23 @@ Tags (automatic): Platform: Bugcrowd
 > #P1 #bugbountytips #bugbounty [pic.x.com/h7yc9BMCPY]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GV42UyrWAAAZQ9m.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
+
+
+---
+
+## 2024-08-21 · Post · pov : you dropped oos P1 on a food company bb😅 [pic.x.com/lhJvIBoCiJ]
+
+
+### Post — @krishnsec — 2024-08-21 15:55 UTC (2024-08-21 16:55 WAT)
+
+- URL: https://x.com/krishnsec/status/1826287047952498861
+- Metrics (at fetch): not returned
+
+> pov : you dropped oos P1 on a food company bb😅 [pic.x.com/lhJvIBoCiJ]
+
+**Media:**
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1762,13 +1809,32 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
+## 2024-08-21 · Post · unpopular opinion 
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @krishnsec — 2024-08-21 05:54 UTC (2024-08-21 06:54 WAT)
+
+- URL: https://x.com/krishnsec/status/1826135781662142483
+- Metrics (at fetch): not returned
+
+> unpopular opinion 
+> I don't think triagers can learn hacker ways from classic reports unless the hacker is willing to share their methodologies along with steps?
+> although 0days and some misconfigs are exceptions.
+> like when we find sqli, we attach only db ss, not way of finding !!
+
+
+---
+
 ## 2024-08-12 · Post · I earned $99,999 for my p1 submission 🎉
 
 
 ### Post — @krishnsec — 2024-08-12 13:12 UTC (2024-08-12 14:12 WAT)
 
 - URL: https://x.com/krishnsec/status/1822984413958799780
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 17, impression 8703, like 154, quote 1, reply 26, retweet 1
 
 > I earned $99,999 for my p1 submission 🎉
 > tip - very deeeep recon 
@@ -1783,7 +1849,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2024-08-07 11:58 UTC (2024-08-07 12:58 WAT)
 
 - URL: https://x.com/krishnsec/status/1821154025967935903
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 12553, like 73, quote 0, reply 20, retweet 0
 
 > so much bored !!
 > bug hunting is boring sometimes .
@@ -1800,12 +1866,30 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2024-08-01 05:54 UTC (2024-08-01 06:54 WAT)
 
 - URL: https://x.com/krishnsec/status/1818887946306510988
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 9947, like 201, quote 0, reply 16, retweet 0
 
 > Top 3 globally @Bugcrowd july leaderboard #bugbounty [pic.x.com/p7Rmnr9jJx]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GT387pUbwAIUrQF.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
+
+
+---
+
+## 2024-07-30 · Post · Different programs but same intention 
+
+
+### Post — @krishnsec — 2024-07-30 05:23 UTC (2024-07-30 06:23 WAT)
+
+- URL: https://x.com/krishnsec/status/1818155475080278496
+- Metrics (at fetch): bookmark 49, impression 13657, like 270, quote 0, reply 21, retweet 1
+
+> Different programs but same intention 
+> Pwned microsoft sql servers with all possible ways
+> end up with 7 P1’s https://t.co/9bbv7CiBUA
+
+**Media:**
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1819,13 +1903,13 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2024-07-24 08:18 UTC (2024-07-24 09:18 WAT)
 
 - URL: https://x.com/krishnsec/status/1816025174665199706
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 6, impression 13841, like 199, quote 0, reply 32, retweet 0
 
 > Just noticed 
 > I’m in All time top 30 globally @Bugcrowd [pic.x.com/dWrBxKLR2b] https://twitter.com/krishnsec/status/1816003760776172002
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GTPRRDtXQAAELVN.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 **Links in post:** https://twitter.com/krishnsec/status/1816003760776172002
 
@@ -1834,7 +1918,7 @@ Tags (automatic): Platform: Bugcrowd
     #### Quoted post — @krishnsec — 2024-07-24 06:53 UTC (2024-07-24 07:53 WAT)
     
     - URL: https://x.com/krishnsec/status/1816003760776172002
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 1, impression 19253, like 95, quote 1, reply 12, retweet 0
     
     > Crossed 9K reputation on @Bugcrowd✅
     
@@ -1851,7 +1935,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2024-07-24 06:53 UTC (2024-07-24 07:53 WAT)
 
 - URL: https://x.com/krishnsec/status/1816003760776172002
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 19253, like 95, quote 1, reply 12, retweet 0
 
 > Crossed 9K reputation on @Bugcrowd✅
 
@@ -1867,14 +1951,14 @@ Tags (automatic): RCE
 ### Post — @krishnsec — 2024-07-08 05:44 UTC (2024-07-08 06:44 WAT)
 
 - URL: https://x.com/krishnsec/status/1810188081162850793
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 45, impression 29448, like 203, quote 1, reply 40, retweet 6
 
 > I dropped RCE with poc to dutch http://ncsc.nl and they said not a bug 😂 
 > In poc I executed code on their server :)
 > #whatAsecurityTeam [pic.x.com/GyqFG6FaiF]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GR8TQf1aAAAXxzy.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 **Links in post:** http://ncsc.nl
 
@@ -1890,13 +1974,13 @@ Tags (automatic): Platform: HackerOne
 ### Post — @krishnsec — 2024-06-27 15:08 UTC (2024-06-27 16:08 WAT)
 
 - URL: https://x.com/krishnsec/status/1806343802124382673
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 56, impression 17010, like 306, quote 0, reply 22, retweet 14
 
 > Yay, me &amp; @DhiyaneshDK was awarded a $4,505 bounty on @Hacker0x01! #TogetherWeHitHarder 
 > Bug: CVE 2024 34102 [pic.x.com/nJ0LU8q8Af]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GRFsHBcWwAAWIYC.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1907,15 +1991,15 @@ Tags (automatic): Platform: HackerOne
 ### Post — @krishnsec — 2024-06-15 10:58 UTC (2024-06-15 11:58 WAT)
 
 - URL: https://x.com/krishnsec/status/1801932342505992301
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 8, impression 14292, like 71, quote 0, reply 13, retweet 1
 
 > after dropping 2 P1 , just checked bounty brief 
 > Ubisoft doesn't pay for P1 anymore😑
 > wasted 2 days in Recon ... [pic.x.com/iMk8GfV5S5]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GQG-eVLbsAAt3L0.png — no alt text provided by author
-- photo: https://pbs.twimg.com/media/GQG_BrmboAA1JGR.png — no alt text provided by author
+- photo:  — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -1929,7 +2013,7 @@ Tags (automatic): IDOR / BOLA, Platform: Bugcrowd
 ### Post — @krishnsec — 2024-06-08 08:53 UTC (2024-06-08 09:53 WAT)
 
 - URL: https://x.com/krishnsec/status/1799364182841905271
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 309, impression 18947, like 279, quote 0, reply 4, retweet 80
 
 > how to find idor by @mertistaken @evrnyalcin 
 > https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/
@@ -1988,7 +2072,7 @@ Tags (automatic): Platform: Bugcrowd
 > https://x.com/h4x0r_dz/status/1788989719117763043?s=46 [pic.x.com/z51u6kGy67]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GNPIU2_WUAAVcmk.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 **Links in post:** https://x.com/h4x0r_dz/status/1788989719117763043?s=46
 
@@ -2002,6 +2086,27 @@ Tags (automatic): Platform: Bugcrowd
     > RECON IS A SCAM 
     > HACK THE MAIN APP
     
+
+
+---
+
+## 2024-04-18 · Post · Leh is deadly ❌
+
+
+### Post — @krishnsec — 2024-04-18 08:07 UTC (2024-04-18 09:07 WAT)
+
+- URL: https://x.com/krishnsec/status/1780870636547776605
+- Metrics (at fetch): not returned
+
+> Leh is deadly ❌
+> I saw my death many times 
+> - 2 bike &amp; car accident
+> - severe mountain sickness
+> - critical panic attack got hospitalised
+>
+> **major issues happen due to low oxygen &amp; high altitude 
+> please do research before going to ladakh 🙏
+> plz rt this #travel #Awareness #Ladakh
 
 
 ---
@@ -2023,7 +2128,7 @@ Tags (automatic): RCE
 > https://x.com/godfatherorwa/status/1779693632250851599?s=46 [pic.x.com/4L9OG1GHWG]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GLLAFd1bEAA8UOo.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 **Links in post:** https://x.com/godfatherorwa/status/1779693632250851599?s=46
 
@@ -2057,6 +2162,35 @@ Tags (automatic): RCE
 
 ---
 
+## 2024-04-08 · Post · sqli or not ? BugBounty 
+
+
+Tags (automatic): SQL injection
+
+
+### Post — @krishnsec — 2024-04-08 18:35 UTC (2024-04-08 19:35 WAT)
+
+- URL: https://x.com/krishnsec/status/1777404908456538135
+- Metrics (at fetch): not returned
+
+> sqli or not ? #BugBounty 
+> so it was POST /xxx.php HTTP 1.1
+> with multipart params
+> &gt; .php 👀should I try sqli ?
+> &gt; replaced one param with *
+> &gt; saved as r.txt 
+> cmd - python3 http://sqlmap.py -r r.txt --level 5 --risk 3 --dbs --time-sec=15 --hostname
+> will post if succeed
+> 1/n [pic.x.com/3F8VL4jQN2]
+
+**Media:**
+- photo:  — no alt text provided by author
+
+**Links in post:** http://sqlmap.py
+
+
+---
+
 ## 2024-03-27 · Post · P1 bugbounty bugbountytips bugcrowd
 
 
@@ -2079,7 +2213,23 @@ Tags (automatic): Platform: Bugcrowd
 > 4- this payload leads to 200 ok disclosed local files [pic.x.com/5PNruIZxai]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GJqYg7jWoAEsMBY.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
+
+
+---
+
+## 2024-03-19 · Post · RIP to 8 P1’s
+
+
+### Post — @krishnsec — 2024-03-19 12:09 UTC (2024-03-19 13:09 WAT)
+
+- URL: https://x.com/krishnsec/status/1770059958346027413
+- Metrics (at fetch): not returned
+
+> RIP to 8 P1’s
+> program was live for a few hrs in different time periods, 
+> then closed permanently 
+> now all these crits r wasted ?
 
 
 ---
@@ -2090,7 +2240,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2024-03-07 12:30 UTC (2024-03-07 13:30 WAT)
 
 - URL: https://x.com/krishnsec/status/1765716746256961962
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 1, impression 6919, like 14, quote 0, reply 3, retweet 0
 
 > Any character who is ready to split 50/50 bounty ⚡️ https://twitter.com/ReebootToInit5/status/1765715205823299697
 
@@ -2101,7 +2251,7 @@ Tags (automatic): Platform: Bugcrowd
     #### Quoted post — @ReebootToInit5 — 2024-03-07 12:24 UTC (2024-03-07 13:24 WAT)
     
     - URL: https://x.com/ReebootToInit5/status/1765715205823299697
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 0, impression 8239, like 8, quote 1, reply 4, retweet 0
     
     > @Bugcrowd Currently deciding 👀  with 
     > @krishnsec [pic.x.com/EiJ3aSuoh9]
@@ -2113,20 +2263,40 @@ Tags (automatic): Platform: Bugcrowd
 
 ---
 
+## 2024-03-05 · Post · Just automated it
+
+
+### Post — @krishnsec — 2024-03-05 16:53 UTC (2024-03-05 17:53 WAT)
+
+- URL: https://x.com/krishnsec/status/1765057971862827392
+- Metrics (at fetch): bookmark 225, impression 59555, like 519, quote 1, reply 45, retweet 33
+
+> Just automated it
+> 12 P1  now 👀
+>
+> ( 2/n ) https://t.co/iV8IBbfPmI
+
+**Media:**
+- photo:  — no alt text provided by author
+- photo:  — no alt text provided by author
+
+
+---
+
 ## 2024-03-05 · Post · Spamming day with 7 P1 cmdi 
 
 
 ### Post — @krishnsec — 2024-03-05 12:56 UTC (2024-03-05 13:56 WAT)
 
 - URL: https://x.com/krishnsec/status/1764998450511536206
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 230, impression 37385, like 412, quote 0, reply 39, retweet 51
 
 > Spamming day with 7 P1 cmdi 
 > poc cmd worked : %26ls||id%26
 > #bugbounty [pic.x.com/twFnTwrFbe]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GH6Iu01XMAAEtgZ.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -2140,12 +2310,30 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2024-03-01 12:55 UTC (2024-03-01 13:55 WAT)
 
 - URL: https://x.com/krishnsec/status/1763548576276517103
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 5, impression 8558, like 103, quote 0, reply 15, retweet 1
 
 > Top 10 in February P1-P2 leaderboard @Bugcrowd [pic.x.com/IM1DEoYLGo]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GHliFAbXMAANkju.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
+
+
+---
+
+## 2024-02-27 · Post · Got invited to fresh widescope program 
+
+
+### Post — @krishnsec — 2024-02-27 11:58 UTC (2024-02-27 12:58 WAT)
+
+- URL: https://x.com/krishnsec/status/1762447133704130991
+- Metrics (at fetch): bookmark 1, impression 6467, like 36, quote 0, reply 5, retweet 1
+
+> Got invited to fresh widescope program 
+> - can drop few P1 rn
+> but my mind is busy in watching - how Arandaspis an early kind of fish will be the ancestor of Amphibians , reptile , mammals and birds https://t.co/kSAR6SlMR1
+
+**Media:**
+- photo:  — no alt text provided by author
 
 
 ---
@@ -2156,7 +2344,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @krishnsec — 2024-02-12 18:17 UTC (2024-02-12 19:17 WAT)
 
 - URL: https://x.com/krishnsec/status/1757106640262922417
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 11, impression 12305, like 145, quote 0, reply 11, retweet 2
 
 > Bug bounty is addictive only If your growth is positive 
 > else it’s fckiiig boring …
@@ -2173,7 +2361,7 @@ Tags (automatic): Auth bypass, Platform: Bugcrowd
 ### Post — @krishnsec — 2024-02-05 13:39 UTC (2024-02-05 14:39 WAT)
 
 - URL: https://x.com/krishnsec/status/1754500052884889797
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 113, impression 20782, like 352, quote 0, reply 15, retweet 20
 
 > 1- LFI / 0day
 > 2- Bypassed admin panel with ‘+’ sign in @comapny.tld email
@@ -2181,7 +2369,37 @@ Tags (automatic): Auth bypass, Platform: Bugcrowd
 > #bugbounty @Bugcrowd [pic.x.com/W1d1mSDH7N]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/GFk8ftoacAAMi9s.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
+
+
+---
+
+## 2024-02-05 · Post · Just found an 0day by mistake :)
+
+
+### Post — @krishnsec — 2024-02-05 05:48 UTC (2024-02-05 06:48 WAT)
+
+- URL: https://x.com/krishnsec/status/1754381514954203420
+- Metrics (at fetch): bookmark 11, impression 21813, like 138, quote 1, reply 21, retweet 1
+
+> Just found an 0day by mistake :)
+> severity critical &gt;&gt;
+
+
+---
+
+## 2024-01-09 · Post · 😶 critical https://t.co/OkBloxsjAN
+
+
+### Post — @krishnsec — 2024-01-09 17:04 UTC (2024-01-09 18:04 WAT)
+
+- URL: https://x.com/krishnsec/status/1744767093449560201
+- Metrics (at fetch): bookmark 1, impression 9712, like 60, quote 0, reply 3, retweet 1
+
+> 😶 critical https://t.co/OkBloxsjAN
+
+**Media:**
+- photo:  — no alt text provided by author
 
 
 ---

@@ -4,6 +4,10 @@ Everything consulted while building this knowledge base. **Consulted** dates are
 
 X data came from the public-read `x` MCP tools (`get_users_by_usernames`, `get_posts_by_ids`, `get_users_posts`, `search_posts_all`). Web pages were fetched or summarized via WebSearch / WebFetch. No posts were liked, reposted, or replied to.
 
+## Daily update — 25 November 2026 (Africa/Lagos)
+
+- X public reads via the `x` MCP (search_posts_all / get_posts_by_ids); no likes, reposts, replies or follows. Telegram previews t.me/s/defendor_eng and t.me/s/dailybountywriteup. Medium writeups fetched from authors' public RSS feeds (medium.com/feed/@user, user.medium.com/feed); Medium/infosecwriteups HTML pages still return 403 and Wayback was unreachable. Failed: huntdeck.io (403), two Medium URLs (404), X Article URL for the b612 post (404 outside the API; text taken from the API's article field). Project advisories (Zcash, Ethereum, Solana) and mdpsec.com checked: nothing new.
+
 ## Daily update — 17 November 2026 (Africa/Lagos)
 
 - **X:** Full-archive search of all watched handles since the 16 Nov run. **213** new posts ingested into `store.json` / `data/x_posts.jsonl`; new security-relevant verbatim files + analysis (mdp_sec ×7: $1,500 Bugcrowd composite-key IDOR in an AI support bot, DeepSeek V4.1 Flash 13-provider benchmark + speed/solve thread, exposed llama.cpp-with-tools = RCE, Optimizely supply-chain malware/SRI note, MCP "call three", HuntDeck open-source; plus Rhynorater OAuth android-app:// ATO (quoting @rgjny_), 0xriptide Safe/Zodiac Roles $6.4M drain, pcaversaccio EIP-8037/8038 gas invariants, S1r1u5_ FBI ARTEX flash + Anthropic/OpenAI payouts, Assass1nmarcos $2,789 PII + $3,000 SSRF, Swartz068 Mercedes-Benz, NahamSec, DevDacian, immunefi $11.8M Solana). Backfill pass 6 continued: cursors n6a (DONE), n6b (DONE), n6c (OPEN), n6e (OPEN), **+905** new archive posts (ARCHIVE → 17,798).

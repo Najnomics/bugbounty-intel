@@ -1,13 +1,15 @@
 # From Stored XSS to Forced Login via Cookie Tossing
 
 - **Source URL:** https://medium.com/@vicodo/from-stored-xss-to-forced-login-via-cookie-tossing-054495acbf91
-- **Fetched from:** https://medium.com/feed/@vicodo
-- **Fetched:** 2026-11-16
+- **Fetched from:** https://medium.com/@vicodo/from-stored-xss-to-forced-login-via-cookie-tossing-054495acbf91?source=rss-cf0c40b75f54------2
+- **Fetched:** 2026-11-25
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 14974)
-- **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
+- **Method:** medium-rss-feed (full content:encoded) readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
 
 ---
+- **Author/Published (RSS):** vicodo / Sat, 07 Nov 2026 17:16:51 GMT
+
 Hi, I’m Vicodo, a security researcher and part-time bug bounty hunter. In this post, I’ll share how I discovered a stored XSS vulnerability and what I learned while investigating its impact. lets get into it🧀
 
 \### Finding the Stored XSS

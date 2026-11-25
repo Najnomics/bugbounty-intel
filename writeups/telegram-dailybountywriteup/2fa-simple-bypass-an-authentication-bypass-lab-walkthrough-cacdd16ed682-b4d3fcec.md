@@ -1,18 +1,16 @@
 # 2FA simple bypass — An Authentication Bypass  Lab Walkthrough
 
 - **Source URL:** https://vivek0x.medium.com/2fa-simple-bypass-an-authentication-bypass-lab-walkthrough-cacdd16ed682
-- **Fetched from:** https://vivek0x.medium.com/feed
-- **Fetched:** 2026-11-17
+- **Fetched from:** https://vivek0x.medium.com/2fa-simple-bypass-an-authentication-bypass-lab-walkthrough-cacdd16ed682?source=rss-a3d6c85e9637------2
+- **Fetched:** 2026-11-25
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 14966)
-- **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
+- **Method:** medium-rss-feed (full content:encoded) readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.
 
 ---
-### 2FA simple bypass — An Authentication Lab Walkthrough
+- **Author/Published (RSS):** Vivek Yadav / Sat, 31 Oct 2026 16:19:51 GMT
 
 Platform: Portwigger’s Web Security Academy
-
-#### Intro
 
 Two-factor authentication gets sold to us as the thing that finally makes accounts “safe.” Password gets stolen? No big deal, the attacker still needs that six-digit code from your email or phone. In theory, that’s a solid second layer of defense.
 
@@ -20,40 +18,23 @@ In practice, a lot of real-world 2FA implementations are bolted onto an existing
 
 Here’s how I solved it.
 
-### The Setup
-
 The lab gives you two sets of credentials:
-
-- **Your own account:** wiener:peter
-- **The victim’s account:** carlos:montoya
 
 The goal is stated plainly: you have valid credentials for Carlos, but no access to his 2FA verification code. To solve the lab, you need to land on Carlos’s account page anyway.
 
 That framing already tells you something important — this isn’t about cracking or intercepting a code. It’s about finding a flaw in the *logic* of the authentication flow that lets you walk around the 2FA check rather than through it.
 
-#### Step 1: Walking Through the Normal Flow (as Myself)
-
 Before trying to break anything, I wanted to understand what a legitimate login looks like end to end. So I logged in as my own user first.
-
-1. Clicked **Access the lab**.
-2. Entered **wiener / peter** on the login page and submitted.
-3. Instead of landing on my account, I was redirected to a second page asking for a **verification code** — this is the 2FA step, and the URL at this point was something like **/login2.**
-4. Since this is a lab environment, PortSwigger gives you a built-in **Email Client** link at the top of the page that simulates your inbox. I opened it, grabbed the verification code that had been “emailed” to me, and pasted it into the form.
-5. That worked, and I was dropped onto **/my-account,** logged in as Wiener.
 
 Nothing unusual yet — this is just how a standard 2FA flow is supposed to behave: login with credentials → get redirected to a code-entry page → submit the correct code → get access.
 
 But I did one more thing before moving on: I **copied the exact URL of the my-account page**. That small, almost lazy step ended up being the whole key to the lab.
-
-### Step 2: Logging Out and Trying Carlos’s Credentials
 
 Next, I logged out and went back to the login page, this time entering Carlos’s credentials: carlos:montoya.
 
 As expected, the app accepted the username and password — because remember, in this scenario I already *have* valid credentials for Carlos — and then redirected me to the same verification code screen, /login2.
 
 This is where a real attacker would normally be stuck. I don’t have access to Carlos’s email inbox, so I have no way to generate or retrieve the actual verification code that’s supposed to be tied to his session.
-
-### Step 3: The Bypass
 
 Instead of fighting the verification form, I just… ignored it.
 
@@ -65,8 +46,6 @@ And I was in — looking directly at **Carlos’s account page**, fully auth
 
 The lab immediately flagged as solved.
 
-#### Why This Actually Works: The Root Cause
-
 This is the part worth sitting with, because it’s not a flashy exploit — it’s a boring, extremely common mistake, and that’s exactly why it matters.
 
 When I entered Carlos’s correct username and password, the application’s backend did something subtle but critical: **it created a valid, authenticated session for Carlos *before* the 2FA step had been completed.** The **/login2** verification page wasn’t gatekeeping access to the account — it was just gatekeeping *navigation*. The server had already decided “this person is logged in as Carlos” the moment the password check passed. The verification code screen was essentially a UI formality sitting on top of an already-privileged session, rather than a hard requirement enforced on every subsequent request.
@@ -75,25 +54,11 @@ So the actual security boundary — the thing that was supposed to stop me�
 
 This is a textbook example of **broken access control arising from flawed authentication logic**: the state “username + password verified” got conflated with the state “fully authenticated,” when those two things should never be treated as equivalent once 2FA is in play.
 
-#### Why This Matters Beyond the Lab
-
 It’s tempting to treat this as a toy example because the “attack” is so simple — there’s no fuzzing, no interception, no clever payload, just a copy-pasted URL. But that simplicity is exactly why this class of bug shows up in real applications more often than you’d think. It tends to happen when 2FA gets retrofitted onto an existing session-based login system:
-
-- The original login flow already knew how to create a valid session on correct credentials.
-- Someone adds a 2FA step “in front of” the redirect to the dashboard.
-- Nobody goes back and makes every protected route verify that the session is *fully* authenticated, not just *partially*.
 
 The result is 2FA that protects the *happy path* through the UI, but not the actual account.
 
-### How This Should Be Fixed
-
 A few concrete fixes would close this off:
-
-- **Use a distinct, limited-privilege session state for “password verified, pending 2FA.”** This intermediate session should only be valid for submitting a 2FA code — nothing else — and should be explicitly upgraded to a full session only after the code is confirmed.
-- **Enforce the check server-side, on every request to a protected route**, not just at the point of redirect. Every hit to **/my-account** (or any authenticated endpoint) should verify the session has completed 2FA, rather than assuming it has because the user “should” have gone through **/login2** first.
-- **Never trust the front end’s navigation flow as a security control.** If a URL can be typed or bookmarked, assume someone will type or bookmark it directly, skipping whatever steps came before it in the UI.
-
-### Final Thoughts
 
 What I like about this lab is how much it demystifies 2FA bypasses. People often imagine these attacks requiring SIM-swapping, OTP interception, or some kind of code-generation trick. This one requires none of that — it just requires understanding that “the app shows you a code screen” and “the app actually checks you passed the code screen” are two very different guarantees, and attackers only care about the second one.
 

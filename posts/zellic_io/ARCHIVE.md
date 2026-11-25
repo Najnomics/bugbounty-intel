@@ -2,8 +2,8 @@
 
 _Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 548
-- Conversations/threads: 128
+- Posts in this file: 550
+- Conversations/threads: 130
 - Oldest post captured: 2022-01-27
 - Newest post captured: 2026-11-19
 
@@ -4873,7 +4873,7 @@ Tags (automatic): ZK
 > Let's dig in👇🧵: [pic.x.com/GuH7t0enz6]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/F2E4QMjaYAEQ_oz.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -4893,7 +4893,7 @@ Tags (automatic): ZK
 > Let's take a look at some common MEV attacks and how we found a live bug while researching for this blog👇🧵: [pic.x.com/ewknVJ277i]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/F1lk8T-aYAEsBRB.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -4914,7 +4914,7 @@ Tags (automatic): ZK
 > Let's take a look at some attacks that may be particularly efficient against ZK hash functions👇🧵: [pic.x.com/MJqxc2GMU1]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/F07T_4paUAEdov5.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -4959,7 +4959,7 @@ Tags (automatic): Smart contract / DeFi
 > In this thread, we’ll dive into how ERC-4626 aims to simplify integration, encourage robust implementations, and enable more secure cross-protocol interactions much like ERC-20 did for tokens 🧵👇 [pic.x.com/VDbrC2LXwG]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/Fygufa3aQAEpnEr.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -4982,7 +4982,7 @@ Tags (automatic): ZK
 > Read more👇🧵: [pic.x.com/odiVciQguh]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FxaN9lMacAAxQ2M.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -5007,7 +5007,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > Read more: 👇🧵 [pic.x.com/i9rkOJzz6e]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FwQYBmkakAIJgca.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -5027,7 +5027,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > Read below: 👇🧵 [pic.x.com/hEpaQKy1kG]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FvZWoiUacAE3myc.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -5046,7 +5046,7 @@ Tags (automatic): Smart contract / DeFi
 > Though the Move language is designed to make it difficult to write bugs, it is still possible — and smart contract bugs almost always have the potential for adverse financial impact. After many @Aptos_Network audits, here are the most common bug types we've observed: 👇🧵 [pic.x.com/6OKZqwl4hh]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FvKHF7QaAAA83jt.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
@@ -5098,12 +5098,12 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
     #### Quoted post — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
     
     - URL: https://x.com/zellic_io/status/1510341868021854209
-    - Metrics (at fetch): bookmark 166, impression 0, like 589, quote 15, reply 16, retweet 88
+    - Metrics (at fetch): bookmark 165, impression 0, like 590, quote 15, reply 16, retweet 88
     
     > In one of our recent engagements with a customer, we were asked to audit some code which depended on BokkyPooBah's DateTime library. The contract calculates the day of the month from block.timestamp, and it does this to ensure an operation happens only up to once a month. https://t.co/B7yEjrM8jy
     
     **Media:**
-    - photo: https://pbs.twimg.com/media/FPXHltYXEAEF3t-.png — no alt text provided by author
+    - photo:  — no alt text provided by author
     
 
 
@@ -5120,14 +5120,14 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
     #### Quoted post — @zellic_io — 2022-08-02 02:43 UTC (2022-08-02 03:43 WAT)
     
     - URL: https://x.com/zellic_io/status/1554296729050025984
-    - Metrics (at fetch): bookmark 143, impression 0, like 409, quote 40, reply 13, retweet 118
+    - Metrics (at fetch): bookmark 142, impression 0, like 410, quote 40, reply 13, retweet 118
     
     > 1/ Nomad was just hacked for $190M, making it the 5th largest DeFi hack of all time. How did this happen? We break down not just the exploit, but also HOW THE VULNERABILITY WAS INTRODUCED IN THE FIRST PLACE.
     >
     > Understanding bugs isn't enough. We need to stop merging them.👇 [pic.x.com/fVYIzKJPkY]
     
     **Media:**
-    - photo: https://pbs.twimg.com/media/FZH4oxiUsAMKARU.png — no alt text provided by author
+    - photo:  — no alt text provided by author
     
 
 
@@ -5152,7 +5152,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
     > Surprise: The answer is "No". Here's why:👇🧵 [pic.x.com/DPaLKaSAOb]
     
     **Media:**
-    - photo: https://pbs.twimg.com/media/FrdiD-MXoAEj12z.jpg — no alt text provided by author
+    - photo:  — no alt text provided by author
     
 
 
@@ -5191,13 +5191,13 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
     #### Quoted post — @zellic_io — 2022-11-15 23:26 UTC (2022-11-16 00:26 WAT)
     
     - URL: https://x.com/zellic_io/status/1592660464986488836
-    - Metrics (at fetch): bookmark 56, impression 0, like 126, quote 3, reply 6, retweet 24
+    - Metrics (at fetch): bookmark 56, impression 0, like 127, quote 3, reply 6, retweet 24
     
     > Nomad was hacked in October 2022 for $190M. That's huge, but what's more surprising is the warning signs that were present *months ahead of time*.
     > More:👇🧵 [pic.x.com/61w2U3fgo5]
     
     **Media:**
-    - photo: https://pbs.twimg.com/media/FhpAHTOX0AAd7mu.jpg — no alt text provided by author
+    - photo:  — no alt text provided by author
     
 
 
@@ -5397,7 +5397,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
     > In our review, we found an inflationary bug that would've allowed infinite minting of tokens for free. The audit was pre-launch. The code was not enabled, so no funds were at risk. 👇🧵 [pic.x.com/v3PDJKdDKI]
     
     **Media:**
-    - photo: https://pbs.twimg.com/media/FjZvO2iUUAAZ-M-.jpg — no alt text provided by author
+    - photo:  — no alt text provided by author
     
 
 
@@ -5444,7 +5444,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
     > 👇 A THREAD. [pic.x.com/50pJAlV6mm]
     
     **Media:**
-    - media `16_1565052075725049857` (details not returned by the API)
+    - animated_gif:  — no alt text provided by author
     
 
 
@@ -5516,7 +5516,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
     > Here are our most interesting findings 🐛⛔👇 [pic.x.com/pa1Xsg9Qpa]
     
     **Media:**
-    - photo: https://pbs.twimg.com/media/FZq0QyHVEAA-Zry.jpg — no alt text provided by author
+    - photo:  — no alt text provided by author
     
 
 
@@ -5542,7 +5542,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
     > Let's dive into a $10M vulnerability: 👇🧵 [pic.x.com/alKEGSXYEo]
     
     **Media:**
-    - photo: https://pbs.twimg.com/media/FZG5N3lVUAAZsSN.jpg — no alt text provided by author
+    - photo:  — no alt text provided by author
     
 
 
@@ -5778,7 +5778,7 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 > Surprise: The answer is "No". Here's why:👇🧵 [pic.x.com/DPaLKaSAOb]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FrdiD-MXoAEj12z.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @zellic_io — 2023-03-18 00:36 UTC (2023-03-18 01:36 WAT)
@@ -6391,7 +6391,9 @@ Tags (automatic): Race condition, Smart contract / DeFi, Blockchain / L1-L2 / br
 
 > Wrapped the first audit round for @valoremxyz. The team is wonderful to work with and we are looking forward to round two.
 >
-> Check out our report and read their updated litepaper https://t.co/egzHQCcgjg
+> Check out our report and read their updated litepaper https://twitter.com/valoremxyz/status/1610074975289081857
+
+**Links in post:** https://twitter.com/valoremxyz/status/1610074975289081857
 
 **Quoted post (full text):**
 
@@ -6400,7 +6402,9 @@ Tags (automatic): Race condition, Smart contract / DeFi, Blockchain / L1-L2 / br
     - URL: https://x.com/1508441849601703948/status/1610074975289081857
     - Metrics (at fetch): bookmark 1, impression 3787, like 6, quote 1, reply 1, retweet 3
     
-    > First round of audit complete: https://t.co/0lpi2lPqXe
+    > First round of audit complete: https://github.com/valorem-labs-inc/valorem-core/blob/master/audits/Valorem%20-%20Zellic%20Audit%20Report.pdf
+    
+    **Links in post:** https://github.com/valorem-labs-inc/valorem-core/blob/master/audits/Valorem%20-%20Zellic%20Audit%20Report.pdf
     
 
 
@@ -6422,7 +6426,7 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 > In our review, we found an inflationary bug that would've allowed infinite minting of tokens for free. The audit was pre-launch. The code was not enabled, so no funds were at risk. 👇🧵 [pic.x.com/v3PDJKdDKI]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FjZvO2iUUAAZ-M-.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @zellic_io — 2022-12-07 20:32 UTC (2022-12-07 21:32 WAT)
@@ -6498,7 +6502,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 > 👉 Arbor Finance
 > 👉 Liquity Finance
 > 👉 Exactly Protocol
-> You can submit yours here: https://t.co/f6o8VsvFnh
+> You can submit yours here: https://app.zellic.io/new
+
+**Links in post:** https://app.zellic.io/new
 
 
 ### Thread part 2 — @zellic_io — 2022-11-23 00:55 UTC (2022-11-23 01:55 WAT)
@@ -6520,13 +6526,13 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Post — @zellic_io — 2022-11-15 23:26 UTC (2022-11-16 00:26 WAT)
 
 - URL: https://x.com/zellic_io/status/1592660464986488836
-- Metrics (at fetch): bookmark 56, impression 0, like 126, quote 3, reply 6, retweet 24
+- Metrics (at fetch): bookmark 56, impression 0, like 127, quote 3, reply 6, retweet 24
 
 > Nomad was hacked in October 2022 for $190M. That's huge, but what's more surprising is the warning signs that were present *months ahead of time*.
 > More:👇🧵 [pic.x.com/61w2U3fgo5]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FhpAHTOX0AAd7mu.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @zellic_io — 2022-11-15 23:27 UTC (2022-11-16 00:27 WAT)
@@ -6620,7 +6626,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Post — @zellic_io — 2022-11-04 01:37 UTC (2022-11-04 02:37 WAT)
 
 - URL: https://x.com/zellic_io/status/1588344731611779072
-- Metrics (at fetch): bookmark 3, impression 0, like 48, quote 7, reply 4, retweet 9
+- Metrics (at fetch): bookmark 3, impression 0, like 49, quote 7, reply 4, retweet 9
 
 > Zellic is proud to be the first audit firm backing their audit with a real stake. Incentive alignment is a HUGE industry-wide problem, and founders deserve better! Our partnership with Ante Finance is the first step toward addressing this issue:
 > 👉https://t.co/CwGDnyD1RM
@@ -6772,7 +6778,7 @@ Tags (automatic): Smart contract / DeFi
 > 👇 A THREAD. [pic.x.com/50pJAlV6mm]
 
 **Media:**
-- media `16_1565052075725049857` (details not returned by the API)
+- animated_gif:  — no alt text provided by author
 
 
 ### Thread part 2 — @zellic_io — 2022-08-31 19:01 UTC (2022-08-31 20:01 WAT)
@@ -7141,6 +7147,36 @@ Tags (automatic): Smart contract / DeFi
 
 ---
 
+## 2022-08-19 · Post · We are hiring :)
+
+
+### Post — @zellic_io — 2022-08-19 16:19 UTC (2022-08-19 17:19 WAT)
+
+- URL: https://x.com/zellic_io/status/1560662792071290881
+- Metrics (at fetch): bookmark 1, impression 0, like 14, quote 1, reply 1, retweet 0
+
+> We are hiring :)
+> Are you an experienced vulnerability researcher or senior auditooor? We pay what you deserve! https://t.co/xdqdrt67JH
+
+**Quoted post (full text):**
+
+    #### Quoted post — @122360573 — 2022-08-19 06:09 UTC (2022-08-19 07:09 WAT)
+    
+    - URL: https://x.com/122360573/status/1560509312606298112
+    - Metrics (at fetch): bookmark 36, impression 0, like 171, quote 5, reply 40, retweet 18
+    
+    > How much salary should a senior solidity auditor be paid?
+    >
+    > I think the fair number is somewhere between 200k and 500k based on experience. 
+    >
+    > If you are making less, switch jobs. I'm hiring :)
+    >
+    > If you are making more, I'd love to know about it for market research.
+    
+
+
+---
+
 ## 2022-08-08 · Thread · We are proud to have helped secure the smart contracts of @AnteFinance! 🎉 
 
 
@@ -7159,7 +7195,7 @@ Tags (automatic): Smart contract / DeFi
 > Here are our most interesting findings 🐛⛔👇 [pic.x.com/pa1Xsg9Qpa]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FZq0QyHVEAA-Zry.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @zellic_io — 2022-08-08 21:30 UTC (2022-08-08 22:30 WAT)
@@ -7661,14 +7697,14 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 ### Post — @zellic_io — 2022-08-02 02:43 UTC (2022-08-02 03:43 WAT)
 
 - URL: https://x.com/zellic_io/status/1554296729050025984
-- Metrics (at fetch): bookmark 143, impression 0, like 409, quote 40, reply 13, retweet 118
+- Metrics (at fetch): bookmark 142, impression 0, like 410, quote 40, reply 13, retweet 118
 
 > 1/ Nomad was just hacked for $190M, making it the 5th largest DeFi hack of all time. How did this happen? We break down not just the exploit, but also HOW THE VULNERABILITY WAS INTRODUCED IN THE FIRST PLACE.
 >
 > Understanding bugs isn't enough. We need to stop merging them.👇 [pic.x.com/fVYIzKJPkY]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FZH4oxiUsAMKARU.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @zellic_io — 2022-08-02 02:43 UTC (2022-08-02 03:43 WAT)
@@ -7704,7 +7740,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 > Let's dive into a $10M vulnerability: 👇🧵 [pic.x.com/alKEGSXYEo]
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FZG5N3lVUAAZsSN.jpg — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @zellic_io — 2022-08-01 22:06 UTC (2022-08-01 23:06 WAT)
@@ -7904,7 +7940,7 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     > Let's dive into a $10M vulnerability: 👇🧵 [pic.x.com/alKEGSXYEo]
     
     **Media:**
-    - photo: https://pbs.twimg.com/media/FZG5N3lVUAAZsSN.jpg — no alt text provided by author
+    - photo:  — no alt text provided by author
     
 
 
@@ -8309,6 +8345,32 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 ---
 
+## 2022-06-23 · Post · Congratulations to @cega_fi on their mainnet launch today! The @Zellic_io team provided security con
+
+
+### Post — @zellic_io — 2022-06-23 23:17 UTC (2022-06-24 00:17 WAT)
+
+- URL: https://x.com/zellic_io/status/1540111927623434240
+- Metrics (at fetch): bookmark 0, impression 0, like 10, quote 1, reply 0, retweet 0
+
+> Congratulations to @cega_fi on their mainnet launch today! The @Zellic_io team provided security consulting and advisory during Cega's active development so that best practices were implemented and to ensure the best security for users. Excited to see cool projects being built!🚀 https://t.co/o1XpvsIr35
+
+**Quoted post (full text):**
+
+    #### Quoted post — @1474053478557356039 — 2022-06-23 15:03 UTC (2022-06-23 16:03 WAT)
+    
+    - URL: https://x.com/1474053478557356039/status/1539987457772605443
+    - Metrics (at fetch): bookmark 28, impression 0, like 421, quote 48, reply 29, retweet 141
+    
+    > 1/ Today we are excited to announce the mainnet launch of Cega. https://t.co/9S9dBdhcgC
+    
+    **Media:**
+    - media `7_1539978184275419138` (details not returned by the API)
+    
+
+
+---
+
 ## 2022-04-02 · Thread · In one of our recent engagements with a customer, we were asked to audit some code which depended on
 
 
@@ -8318,12 +8380,12 @@ Tags (automatic): Smart contract / DeFi, ZK
 ### Post — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
 
 - URL: https://x.com/zellic_io/status/1510341868021854209
-- Metrics (at fetch): bookmark 166, impression 0, like 589, quote 15, reply 16, retweet 88
+- Metrics (at fetch): bookmark 165, impression 0, like 590, quote 15, reply 16, retweet 88
 
 > In one of our recent engagements with a customer, we were asked to audit some code which depended on BokkyPooBah's DateTime library. The contract calculates the day of the month from block.timestamp, and it does this to ensure an operation happens only up to once a month. https://t.co/B7yEjrM8jy
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FPXHltYXEAEF3t-.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ### Thread part 2 — @zellic_io — 2022-04-02 19:42 UTC (2022-04-02 20:42 WAT)
@@ -8537,7 +8599,7 @@ Tags (automatic): Smart contract / DeFi, ZK
 > when the customer asks you to audit 100 lines of code (with 100% code coverage) https://t.co/o0djCFI4Sv
 
 **Media:**
-- photo: https://pbs.twimg.com/media/FOotz_eX0AcilBl.png — no alt text provided by author
+- photo:  — no alt text provided by author
 
 
 ---
