@@ -55,3 +55,11 @@ _Auto-maintained from `harness/findings.jsonl`. 4 finding(s). Full verbatim post
 ### Update 2026-11-19
 
 - **'Nginx2shell — 2shell or 2hype?'** — https://x.com/0xacb/status/2123073966890008693 — [`posts/0xacb/2026-11-18-2123073966890008693.md`](../posts/0xacb/2026-11-18-2123073966890008693.md); quotes https://twitter.com/satoki00/status/2123071303657910632. Writeups saved under `writeups/albinowax/` and `writeups/farazsth98/`.
+
+## 2026-11-26 run additions
+
+### Real-world LLM guardrail bypass with reversed Portuguese text
+
+- Post: https://x.com/0xacb/status/2125593599224184836 — verbatim: [`posts/0xacb/2026-11-25-2125593599224184836.md`](../posts/0xacb/2026-11-25-2125593599224184836.md)
+- **What he says:** "pure backwards text" isn't dead; he pulled off a bypass in a real engagement months ago "with nothing but reversed portuguese sentences"; model behind the target unknown. Details of target undisclosed.
+- **Takeaway:** add reversed/permuted-text variants in non-English languages to prompt-injection/guardrail fuzzing; see the 2026-11-26 digest.

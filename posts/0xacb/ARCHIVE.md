@@ -1,6 +1,6 @@
 # @0xacb — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 220
 - Conversations/threads: 183
@@ -4589,3 +4589,21 @@ Tags (automatic): Path normalization
 
 > http://t.co/mE5KorMuUC
 > Forgotten router password? Just hack into the router. Amazing #security
+
+### Post — @0xacb — 2026-11-25 14:13 UTC
+
+- URL: https://x.com/0xacb/status/2125593599224184836
+- Metrics (at fetch): bookmark 5, impression 1176, like 15, quote 0, reply 2, retweet 0
+
+> Cosmic stuff by @monkehack 🤯
+>
+> I don't think pure backwards text is as dead as it looks, though. I pulled off a bypass in a real scenario a few months ago with nothing but reversed portuguese sentences. Never figured out which model was behind it. https://x.com/monkehack/status/2125568597774750138
+
+> **@monkehack — 2025/2026-11-25 12:33 UTC** (https://x.com/monkehack/status/2125568597774750138; Ciarán Cotter)
+>
+> In the last few months, I developed some new AI hacking techniques involving data compression and gadgets found within linguistics. I presented this work for the first time during Prompt2Pwn, but I've written it up here for you to read ->
+>
+> https://www.monke.ie/p/human-model-differentials-and-language-hacking
+>
+> (Full article saved at [`writeups/monkehack/human-model-differentials-and-language-hacking.md`](../../writeups/monkehack/human-model-differentials-and-language-hacking.md))
+

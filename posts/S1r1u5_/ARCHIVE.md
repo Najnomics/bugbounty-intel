@@ -1,9 +1,9 @@
 # @S1r1u5_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 558
-- Conversations/threads: 426
+- Posts in this file: 560
+- Conversations/threads: 428
 - Oldest post captured: 2017-02-26
 - Newest post captured: 2026-11-25
 
@@ -8221,7 +8221,7 @@ Tags (automatic): AI-assisted hunting
     #### Quoted post — @S1r1u5_ — 2025-06-27 15:46 UTC (2025-06-27 16:46 WAT)
     
     - URL: https://x.com/S1r1u5_/status/1938625008726913427
-    - Metrics (at fetch): bookmark 178, impression 25607, like 346, quote 1, reply 7, retweet 51
+    - Metrics (at fetch): bookmark 178, impression 25623, like 346, quote 1, reply 7, retweet 51
     
     > Mutation-Based XSS + V8 type confusion + V8 sandbox escape = RCE on Basecamp.
     >
@@ -9043,6 +9043,25 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
+## 2025-09-22 · Post · What if you trained models to explicitly separate <instruction> tags from everything else, treating 
+
+
+### Post — @S1r1u5_ — 2025-09-22 17:51 UTC (2025-09-22 18:51 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1970184260524065071
+- Metrics (at fetch): not returned
+
+> What if you trained models to explicitly separate <instruction> tags from everything else, treating the tagged content as executable instructions, and all other text as inert data? 
+>
+> then, whenever you ingest untrusted input, you just sanitize it by stripping out <instruction> tags. 
+>
+> that would solve many prompt injection attacks, because only tagged content could be interpreted as a command. 
+>
+> what can go wrong? 🙃
+
+
+---
+
 ## 2025-09-19 · Post · there's a real information asymmetry between agent developers and attackers, if I can read the syste
 
 
@@ -9211,7 +9230,9 @@ Tags (automatic): AI-assisted hunting
 
 > I’ve always wondered why YC security companies aren’t making noise.
 >
-> honestly, could just be a skill issue(i could be wrong)? without technical edge and subject expertise, you can’t engineer agents that actually work. and I haven’t seen any hackers from the bug bounty or security https://t.co/QL5YIH9bCp
+> honestly, could just be a skill issue(i could be wrong)? without technical edge and subject expertise, you can’t engineer agents that actually work. and I haven’t seen any hackers from the bug bounty or security research circles in those startups, that checks out?
+
+**Links in post:** https://twitter.com/amasad/status/1956546035117117442
 
 **Quoted post (full text):**
 
@@ -9226,7 +9247,11 @@ Tags (automatic): AI-assisted hunting
     >
     > Well, that's what agent engineering is about. It's creating an environment and a harness that is best suited for the task and use-case.
     >
-    > This is a very specialized domain knowledge that it's https://t.co/oSeuaPRmDW
+    > This is a very specialized domain knowledge that it's easy to miss.
+    >
+    > It’s the difference between “wrapper“ business and a real technology company with a technical edge.
+    
+    **Links in post:** https://twitter.com/xbow/status/1956416634173964695
     
     **Quoted post** 1956416634173964695: not readable via the API (deleted, private, or withheld).
     
@@ -9369,7 +9394,15 @@ Tags (automatic): AI-assisted hunting
 >
 > what most pentesters or 99.9% of researchers find isn’t a new bug class, it’s just novel for that codebase. most “0days” are codebase-novel variants, not class-novel.
 >
-> i haven’t seen a class-novel vuln from llms
+> i haven’t seen a class-novel vuln from llms yet, and i don’t think that’s happening anytime soon. but only a tiny fraction of bugs are class-novel, so it’s not something to lose sleep over. plus, once a class-novel vuln is found by a human and observed by an llm, it can start spotting them more consistently than humans.
+>
+> this exact semantic misuse of novel by infosec ai sceptics misses the point: most vulns are in known classes, and with AIxCC more people are starting to see it. llms can hit these reliably with the right golden context and engineering, that was my tipping point for starting hacktron: we can find most codebase-novel variant bugs.
+>
+> there’s still a bottleneck for codebase-novel variant bug, modern software stacks are layered, and getting the right mix of information and code into an llm is tricky. humans are naturally good at stitching context across these layers; reproducing that in a model takes serious engineering.
+>
+> for example, in a recent audit i found an oob write in a custom v8 build. the llm dismissed it because it saw js-side validation, missing that the js itself could be polluted to bypass those checks. humans can connect those cross-layer dots, llms still struggle to.
+>
+> again its an engineering problem at this moment, not the LLM problem.
 
 
 ---
@@ -9406,7 +9439,9 @@ Tags (automatic): AI-assisted hunting
 
 > i ran it on a pentest we did, comparing it with gemini 2.5 Pro.
 >
-> gemini just wanted to spit something out and be done, while gpt-5 actually stuck with it, reviewed everything, and came pretty close to finding the exact bug I already knew about. https://t.co/FgnBxgGQBC
+> gemini just wanted to spit something out and be done, while gpt-5 actually stuck with it, reviewed everything, and came pretty close to finding the exact bug I already knew about. https://twitter.com/S1r1u5_/status/1954136540407533629
+
+**Links in post:** https://twitter.com/S1r1u5_/status/1954136540407533629
 
 **Quoted post (full text):**
 
@@ -9457,7 +9492,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-06-29 11:33 UTC (2025-06-29 12:33 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1939286108065419517
-- Metrics (at fetch): bookmark 51, impression 15469, like 70, quote 3, reply 2, retweet 4
+- Metrics (at fetch): bookmark 50, impression 15473, like 70, quote 3, reply 2, retweet 4
 
 > It is an interesting take, but not the hack mentioned, from the screenshot, it looks like a basic script-kiddie hack, brute-forcing credentials on an exposed RTSP camera (rtsp://[username:password@]ip_address:port/path).
 >
@@ -9521,7 +9556,7 @@ Tags (automatic): XSS, RCE, ZK, Memory corruption / native, Platform: HackerOne
 ### Post — @S1r1u5_ — 2025-06-27 15:46 UTC (2025-06-27 16:46 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1938625008726913427
-- Metrics (at fetch): bookmark 178, impression 25607, like 346, quote 1, reply 7, retweet 51
+- Metrics (at fetch): bookmark 178, impression 25623, like 346, quote 1, reply 7, retweet 51
 
 > Mutation-Based XSS + V8 type confusion + V8 sandbox escape = RCE on Basecamp.
 >
@@ -9620,7 +9655,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-05-20 02:53 UTC (2025-05-20 03:53 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1924659631621820455
-- Metrics (at fetch): bookmark 29, impression 14446, like 165, quote 2, reply 5, retweet 7
+- Metrics (at fetch): bookmark 29, impression 14446, like 166, quote 2, reply 5, retweet 7
 
 > At @HacktronAI, we don’t just build AI that hacks, we hack the AIs too.
 >
@@ -9638,7 +9673,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-05-14 05:51 UTC (2025-05-14 06:51 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1922530130783502384
-- Metrics (at fetch): bookmark 14, impression 9750, like 78, quote 0, reply 6, retweet 2
+- Metrics (at fetch): bookmark 14, impression 9751, like 78, quote 0, reply 6, retweet 2
 
 > to be honest, I don’t have the energy to become a millionaire bug hunter.
 >
@@ -9716,6 +9751,29 @@ Tags (automatic): XSS, SQL injection, AI-assisted hunting
 
 ---
 
+## 2025-04-10 · Post · i was looking into claude code and noticed they use a rather peculiar approach to detect command inj
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @S1r1u5_ — 2025-04-10 17:24 UTC (2025-04-10 18:24 WAT)
+
+- URL: https://x.com/S1r1u5_/status/1910383336545280138
+- Metrics (at fetch): bookmark 10, impression 3558, like 38, quote 0, reply 4, retweet 6
+
+> i was looking into claude code and noticed they use a rather peculiar approach to detect command injection. 
+>
+> specifically, they use claude 3 opus model as a sanitizer, if it detects a potential command injection, it returns command_injection_detected.
+>
+> how reliable is this? https://t.co/Bxe8REgZWO
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GoL-_H0XsAAZqSF.jpg — no alt text provided by author
+
+
+---
+
 ## 2025-04-08 · Thread · whats with bugcrowd password reset mails?
 
 
@@ -9725,7 +9783,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @S1r1u5_ — 2025-04-08 08:34 UTC (2025-04-08 09:34 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1909525319926624653
-- Metrics (at fetch): bookmark 0, impression 2064, like 10, quote 0, reply 6, retweet 0
+- Metrics (at fetch): bookmark 0, impression 2066, like 10, quote 0, reply 6, retweet 0
 
 > whats with bugcrowd password reset mails?
 
@@ -9761,7 +9819,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @S1r1u5_ — 2025-04-07 13:57 UTC (2025-04-07 14:57 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1909244183350845682
-- Metrics (at fetch): bookmark 11, impression 4015, like 50, quote 0, reply 4, retweet 0
+- Metrics (at fetch): bookmark 11, impression 4015, like 49, quote 0, reply 4, retweet 0
 
 > yo bug hunters watch out for vibe coding induced vulnerabilities on shopify program
 
@@ -9777,7 +9835,7 @@ Tags (automatic): RCE
 ### Post — @S1r1u5_ — 2025-04-06 18:30 UTC (2025-04-06 19:30 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1908950462147031176
-- Metrics (at fetch): bookmark 7, impression 1864, like 3, quote 0, reply 0, retweet 0
+- Metrics (at fetch): bookmark 7, impression 1865, like 3, quote 0, reply 0, retweet 0
 
 > everyone should avoid enabling auto-run in Cursor or Windsurf, as there are numerous ways attackers can perform indirect prompt injections to get RCE.
 >
@@ -9804,7 +9862,7 @@ Tags (automatic): RCE
 
 ---
 
-## 2025-04-06 · Post · @galnagli @cursor_ai @AnthropicAI even easier,  just visit my website(https://ctf.s1r1us.ninja/) wit
+## 2025-04-06 · Reply · @galnagli @cursor_ai @AnthropicAI even easier,  just visit my website(https://ctf.s1r1us.ninja/) wit
 
 
 **Context — conversation root by another account:**
@@ -9849,7 +9907,7 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-04-05 10:58 UTC (2025-04-05 11:58 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1908474389500141859
-- Metrics (at fetch): bookmark 8, impression 3178, like 24, quote 1, reply 1, retweet 2
+- Metrics (at fetch): bookmark 8, impression 3179, like 24, quote 1, reply 1, retweet 2
 
 > sooner or later, the google deepmind team will distill the entire chromium codebase into gemini and let it uncover vulnerabilities. 
 >
@@ -9890,7 +9948,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-04-05 03:24 UTC (2025-04-05 04:24 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1908360061149126934
-- Metrics (at fetch): bookmark 8, impression 2181, like 16, quote 0, reply 1, retweet 1
+- Metrics (at fetch): bookmark 9, impression 2186, like 17, quote 0, reply 1, retweet 1
 
 > its a hard pill to swallow, just because i find something difficult to find doesn’t mean AI will too.
 >
@@ -9905,7 +9963,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-04-04 08:23 UTC (2025-04-04 09:23 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1908072925208379550
-- Metrics (at fetch): bookmark 0, impression 1238, like 2, quote 0, reply 0, retweet 0
+- Metrics (at fetch): bookmark 0, impression 1239, like 2, quote 0, reply 0, retweet 0
 
 > watch out; 
 >
@@ -9944,7 +10002,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-03-19 02:21 UTC (2025-03-19 03:21 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1902183704304480743
-- Metrics (at fetch): bookmark 17, impression 6515, like 136, quote 0, reply 7, retweet 8
+- Metrics (at fetch): bookmark 17, impression 6522, like 137, quote 0, reply 7, retweet 8
 
 > if the brain is getting conditioned for 30-sec dopamine hits from tiktok/reels slop, good luck with vuln research. 
 >
@@ -9962,7 +10020,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-03-18 04:43 UTC (2025-03-18 05:43 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1901857030488621157
-- Metrics (at fetch): bookmark 9, impression 4489, like 42, quote 0, reply 2, retweet 6
+- Metrics (at fetch): bookmark 9, impression 4491, like 42, quote 0, reply 2, retweet 6
 
 > There’s a new kind of hacking I call "vibe hacking," where you fully give in to the vibes, embrace exponentials, and forget that the security even exists. 
 >
@@ -10023,7 +10081,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-03-17 16:13 UTC (2025-03-17 17:13 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1901668147532595382
-- Metrics (at fetch): bookmark 27, impression 3712, like 50, quote 0, reply 0, retweet 6
+- Metrics (at fetch): bookmark 27, impression 3713, like 50, quote 0, reply 0, retweet 6
 
 > talk about niche. 
 >
@@ -10056,7 +10114,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-03-11 20:07 UTC (2025-03-11 21:07 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1899552773781479905
-- Metrics (at fetch): bookmark 50, impression 30317, like 245, quote 1, reply 25, retweet 18
+- Metrics (at fetch): bookmark 50, impression 30325, like 245, quote 1, reply 25, retweet 18
 
 > hot take:
 >
@@ -10087,7 +10145,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-03-11 04:37 UTC (2025-03-11 05:37 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1899318745690263905
-- Metrics (at fetch): bookmark 21, impression 9579, like 112, quote 0, reply 6, retweet 5
+- Metrics (at fetch): bookmark 21, impression 9580, like 112, quote 0, reply 6, retweet 5
 
 > not bad to occasionally take a tangent on things you use, dive down a rabbit hole, and walk away with a $10,000 bounty.
 >
@@ -10129,7 +10187,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-03-07 11:42 UTC (2025-03-07 12:42 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1897976260661592340
-- Metrics (at fetch): bookmark 40, impression 9487, like 150, quote 1, reply 8, retweet 14
+- Metrics (at fetch): bookmark 40, impression 9488, like 150, quote 1, reply 8, retweet 14
 
 > north korean Lazarus is dangerously effective for not so obvious reasons.
 >
@@ -10187,7 +10245,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @S1r1u5_ — 2025-02-28 15:45 UTC (2025-02-28 16:45 WAT)
 
 - URL: https://x.com/S1r1u5_/status/1895500517616566362
-- Metrics (at fetch): bookmark 115, impression 14120, like 165, quote 6, reply 5, retweet 21
+- Metrics (at fetch): bookmark 115, impression 14132, like 165, quote 6, reply 5, retweet 21
 
 > agree with sean here, and that’s why you should start doing ctfs or reversing vulnerabilities.
 >
@@ -10750,7 +10808,7 @@ Tags (automatic): XSS
 
 ---
 
-## 2024-10-31 · Post · @NahamSec Pick a niche, become an expert, find bugs maybe even 0days or reverse n-days, and write bl
+## 2024-10-31 · Reply · @NahamSec Pick a niche, become an expert, find bugs maybe even 0days or reverse n-days, and write bl
 
 
 **Context — conversation root by another account:**

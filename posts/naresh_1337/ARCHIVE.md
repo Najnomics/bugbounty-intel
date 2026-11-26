@@ -1,6 +1,6 @@
 # @naresh_1337 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 93
 - Conversations/threads: 53
@@ -1518,3 +1518,11 @@ Tags (automatic): AI-assisted hunting
 > No ownership validation.
 > Just sequential integer IDs.
 > €1,500
+
+### Post — @naresh_1337 — 2026-11-26 01:01 UTC
+
+- URL: https://x.com/naresh_1337/status/2125756766755471410
+- Metrics (at fetch): bookmark 0, impression 204, like 12, quote 0, reply 2, retweet 0
+
+> I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=low&status=confirmed&gifId=3&programType=audit-competition
+

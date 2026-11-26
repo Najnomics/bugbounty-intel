@@ -2,6 +2,16 @@
 
 Generated 11 Nov 2026 (WAT), Telegram sources added 12 Nov 2026 (Africa/Lagos). Every link points to a file inside this repo that holds **full verbatim text** — no X or Telegram access needed.
 
+## Daily update — 26 November 2026 (Africa/Lagos)
+
+- **X:** +15 new security-relevant verbatim files (plus ~30 chatty @mdp_sec replies not archived). Highlights: [@monkehack "Human-Model Differentials" (via @xssdoctor / @0xacb)](writeups/monkehack/human-model-differentials-and-language-hacking.md), [@garethheyes on Assetnote's Chrome Sanitizer API bypasses](posts/garethheyes/2026-11-25-2125629582015611281.md) ([writeup](writeups/SLCyberSec/two-bypasses-for-chromes-sanitizer-api.md)), [@immunefi FBI AI-tool warning](posts/immunefi/2026-11-25-2125616255533306197.md), [@mdp_sec BB Arena article](posts/mdp_sec/2026-11-26-2125809861527261304.md). Backfill: cursor u1 +115 posts back to 2025-02-20 (OPEN); t2 closed.
+- **Telegram:** @defendor_eng +4 (2385–2388: Biswap V3 $51K liquidity-accounting flaw, Drift exploiter→Tornado, SEAL weekly, FBI AI tool); @dailybountywriteup +1 (14999). Writeups fetched: +16 defendor (356 total), +7 dailybounty via Medium RSS (2,812 total); Wayback returned 403/404 for most older Medium URLs this run (pending 8,934).
+- **HackerOne:** +11 disclosed reports (e.g. [#4228805](hackerone/reports/2026/4228805.md) SQLi via `includebanner` array keys in zone-include.php, [#4195061](hackerone/reports/2026/4195061.md) reflected XSS via delivery-macro re-injection); inventory 12,794 matches files/state.
+- **CVE:** cvelistV5 +608 new / 594 updated → 432,545; CISA KEV 2026.11.25 (1,805, +10: Mitel MiCollab ×5, Danfoss AK-SM ×3, Juniper SSR, Xen Orchestra); GHSA +4 new/1 updated → 38,044. NVD/OSV/ZDI/P0/kernel/Exploit-DB not re-run (NVD stays at 2026-11-25 marker; Project Zero: no new post).
+- **Projects:** two new Zcash advisories — [GHSA-jjjw-r66r-mjgf](projects/zcash/advisories/ghsa-jjjw-r66r-mjgf.md) and [GHSA-fhv5-hm8v-q7fw](projects/zcash/advisories/ghsa-fhv5-hm8v-q7fw.md) (lightwalletd). No new Ethereum/Solana. mdpsec.com unchanged.
+- **Harness:** [`harness/bug-classes/2026-11-26-human-model-differentials-sanitizer-api-url-reparse-lightwalletd.md`](harness/bug-classes/2026-11-26-human-model-differentials-sanitizer-api-url-reparse-lightwalletd.md).
+- **New researchers:** none (monkehack recorded as a source; no multi-platform valid-find evidence yet).
+
 ## Daily update — 25 November 2026 (Africa/Lagos)
 
 - **X:** morning run was interrupted and re-done; checkpoint-committed then completed. New [@mdp_sec Warlock Max bench on Black Box Arena](posts/mdp_sec/2026-11-25-2125469650624651528.md) ([writeup](writeups/mdp_sec/blackboxarena-warlock-max-2026-11-25.md)) and [HuntDeck ATO medians](posts/mdp_sec/2026-11-25-2125472047858131161.md); earlier-today posts are in the 7c61ff3c checkpoint. Backfill: second pass closed overlap cursors (chl/t1/t3) with ~15 unique older posts; u1 and t2 remain open. All `ARCHIVE.md` files and `data/x_posts.jsonl` (22,160 posts) regenerated.

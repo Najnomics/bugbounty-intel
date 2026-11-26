@@ -1,6 +1,6 @@
 # @depi_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 8
 - Conversations/threads: 5
@@ -148,3 +148,12 @@ Tags (automatic): RCE, Dependency confusion / supply chain
 - Metrics (at fetch): bookmark 18, impression 1141, like 28, quote 0, reply 0, retweet 8
 
 > https://t.co/H5EWFNlDOh
+
+### Post — @depi_ — 2026-11-25 15:40 UTC
+
+- URL: https://x.com/depi_/status/2125615727256457359
+- Metrics (at fetch): bookmark 0, impression 1176, like 16, quote 1, reply 1, retweet 4
+- Media: 1 photo (https://pbs.twimg.com/media/HX-0H-0XoAAhLIB.jpg; not transcribed)
+
+> Find someone who looks at you the way @_Worty  looks at an npm token with publish permissions 🩵
+

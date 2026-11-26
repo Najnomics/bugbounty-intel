@@ -1,6 +1,6 @@
 # @zseano — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 424
 - Conversations/threads: 374
@@ -1442,7 +1442,9 @@ Tags (automatic): AI-assisted hunting
 - URL: https://x.com/zseano/status/1953607420682379397
 - Metrics (at fetch): bookmark 47, impression 17941, like 190, quote 1, reply 6, retweet 5
 
-> XBOW has changed the bug bounty game tbh.. shits gonna get wild over the next few years! i can see lots of people having their own AI agents (I bet people are building one right now). kudos to them for being transparent on everything :) https://t.co/ISray7yLEH
+> XBOW has changed the bug bounty game tbh.. shits gonna get wild over the next few years! i can see lots of people having their own AI agents (I bet people are building one right now). kudos to them for being transparent on everything :) https://twitter.com/Xbow/status/1953544562154385743
+
+**Links in post:** https://twitter.com/Xbow/status/1953544562154385743
 
 **Quoted post (full text):**
 
@@ -1455,7 +1457,7 @@ Tags (automatic): AI-assisted hunting
     >
     > Launch a comprehensive pentest in just 3 clicks.
     >
-    > Every finding comes with a proof-of-concept exploit. https://t.co/IriGketkov
+    > Every finding comes with a proof-of-concept exploit. [pic.x.com/IriGketkov]
     
     **Media:**
     - media `3_1953544356276948992` (details not returned by the API)
@@ -1470,7 +1472,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @zseano — 2025-08-01 19:09 UTC (2025-08-01 20:09 WAT)
 
 - URL: https://x.com/zseano/status/1951359659186725014
-- Metrics (at fetch): bookmark 3, impression 6642, like 116, quote 0, reply 5, retweet 3
+- Metrics (at fetch): bookmark 3, impression 6643, like 116, quote 0, reply 5, retweet 3
 
 > how to tell if someone does bug bounties: https://t.co/GJ7EvOvtYe
 
@@ -1486,7 +1488,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @zseano — 2025-07-28 22:45 UTC (2025-07-28 23:45 WAT)
 
 - URL: https://x.com/zseano/status/1949964441488937263
-- Metrics (at fetch): bookmark 15, impression 20313, like 253, quote 4, reply 16, retweet 11
+- Metrics (at fetch): bookmark 15, impression 20316, like 253, quote 4, reply 16, retweet 11
 
 > i have a big love hate relationship when it comes to bug bounties. i love it but i also fucking hate it
 
@@ -1516,7 +1518,7 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 ### Post — @zseano — 2025-07-23 12:14 UTC (2025-07-23 13:14 WAT)
 
 - URL: https://x.com/zseano/status/1947993789894721595
-- Metrics (at fetch): bookmark 45, impression 17675, like 269, quote 0, reply 15, retweet 16
+- Metrics (at fetch): bookmark 45, impression 17677, like 269, quote 0, reply 15, retweet 16
 
 > don't forget to add into every report: "Don't bother reading the report, just triage it, pay max bounty and then move onto the next report" [pic.x.com/aBDEQLdM3B]
 
@@ -1553,7 +1555,7 @@ Tags (automatic): AI-assisted hunting
 ### Post — @zseano — 2025-07-08 07:28 UTC (2025-07-08 08:28 WAT)
 
 - URL: https://x.com/zseano/status/1942485880955928661
-- Metrics (at fetch): bookmark 151, impression 34881, like 736, quote 4, reply 25, retweet 47
+- Metrics (at fetch): bookmark 150, impression 34895, like 738, quote 4, reply 25, retweet 48
 
 > bug bounty industry is so fucking good these days… so many programs, good payouts, wide scopes. We are truly blessed 😇 get stuck in, there are bugs out there, and lots of them ! (And no AI isn’t close to replacing us, it’s helping us more than ever)
 
@@ -1569,7 +1571,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @zseano — 2025-06-10 19:09 UTC (2025-06-10 20:09 WAT)
 
 - URL: https://x.com/zseano/status/1932515360642904464
-- Metrics (at fetch): bookmark 19, impression 25578, like 288, quote 2, reply 22, retweet 5
+- Metrics (at fetch): bookmark 20, impression 25584, like 288, quote 2, reply 22, retweet 5
 
 > h1_analyst_malenia is the best analyst on hackerone, they're sooo good at handling reports (at least in my experience!). mad respect to them, legend :)
 
@@ -1598,7 +1600,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @zseano — 2025-06-01 19:16 UTC (2025-06-01 20:16 WAT)
 
 - URL: https://x.com/zseano/status/1929255783276896437
-- Metrics (at fetch): bookmark 78, impression 9207, like 193, quote 0, reply 2, retweet 16
+- Metrics (at fetch): bookmark 78, impression 9211, like 193, quote 0, reply 2, retweet 16
 
 > This is really cool from @infinitelogins , I think he's onto something with creating a "central hub point" for bug bounty hunters and show casing their profiles in one place. Kudos to him for creating this!! excited to see where it goes :) https://t.co/WIlLZynziT
 
@@ -1614,7 +1616,7 @@ Tags (automatic): XSS
 ### Post — @zseano — 2025-03-02 20:07 UTC (2025-03-02 21:07 WAT)
 
 - URL: https://x.com/zseano/status/1896291212216402039
-- Metrics (at fetch): bookmark 63, impression 14786, like 157, quote 0, reply 7, retweet 8
+- Metrics (at fetch): bookmark 63, impression 14789, like 156, quote 0, reply 7, retweet 8
 
 > "But ofc I never checked that text for HTML/JS code in it"
 >
@@ -1653,7 +1655,7 @@ Tags (automatic): XSS
 ### Post — @zseano — 2025-02-24 16:32 UTC (2025-02-24 17:32 WAT)
 
 - URL: https://x.com/zseano/status/1894062955710280011
-- Metrics (at fetch): bookmark 37, impression 10294, like 175, quote 0, reply 4, retweet 8
+- Metrics (at fetch): bookmark 37, impression 10296, like 176, quote 0, reply 4, retweet 8
 
 > Really nice interaction from the Reddit team here :) open and honest with their review with prompt replies, fix and bounty! https://twitter.com/disclosedh1/status/1894043408676606222
 

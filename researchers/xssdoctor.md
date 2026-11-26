@@ -46,3 +46,10 @@ _Auto-maintained from `harness/findings.jsonl`. 3 finding(s). Full verbatim post
 - **faav-17-trillion-microsoft-records** (`xss`)
   - post: https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records
   - local: `writeups/xssdoctor/faav-17-trillion-microsoft-records.md`
+
+## 2026-11-26 run additions
+
+### Amplifies @monkehack's "Human-Model Differentials and Language Hacking"
+
+- Post: https://x.com/xssdoctor/status/2125580320577827201 — verbatim (with the quoted post): [`posts/xssdoctor/2026-11-25-2125580320577827201.md`](../posts/xssdoctor/2026-11-25-2125580320577827201.md). "Probably my favorite research of 2026. Absolutely mind blowing."
+- **Takeaways:** full article saved at [`writeups/monkehack/human-model-differentials-and-language-hacking.md`](../writeups/monkehack/human-model-differentials-and-language-hacking.md); analysis in the 2026-11-26 harness digest.

@@ -1,6 +1,6 @@
 # @fransrosen — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 174
 - Conversations/threads: 147
@@ -103,7 +103,7 @@ Tags (automatic): XSS
 #### Root post — @garethheyes — 2025-04-26 13:00 UTC (2025-04-26 14:00 WAT)
 
 - URL: https://x.com/garethheyes/status/1916115054421831981
-- Metrics (at fetch): bookmark 76, impression 7914, like 120, quote 0, reply 1, retweet 24
+- Metrics (at fetch): bookmark 76, impression 7915, like 120, quote 0, reply 1, retweet 24
 
 > Firefox treats multipart/x-mixed-replace like HTML. Chrome doesn’t.
 > That tiny difference? It can turn a "non-exploitable" XSS into a real one.

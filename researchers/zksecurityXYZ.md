@@ -57,3 +57,7 @@ _No single post in this capture describes a specific vulnerability in enough det
 ### Update 2026-11-21
 
 - **38-step SHA-256 collision verifier** — https://x.com/zksecurityXYZ/status/2123882976547377591 — [`posts/zksecurityXYZ/2026-11-20-2123882976547377591.md`](../posts/zksecurityXYZ/2026-11-20-2123882976547377591.md), [`writeups/zksecurityXYZ/sha256-collisions-verifier.md`](../writeups/zksecurityXYZ/sha256-collisions-verifier.md); zk.golf / better.codes as model benchmarks — /2123984029829501049.
+
+## 2026-11-26 run additions
+
+- [Partnership on inference proofs with @lucidcomputing](../posts/zksecurityXYZ/2026-11-25-2125629516282274272.md) (quotes @AbdelStark's "InferenceProofs" video announcement; no bug content).

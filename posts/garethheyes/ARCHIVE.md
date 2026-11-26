@@ -1,9 +1,9 @@
 # @garethheyes — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 573
-- Conversations/threads: 507
+- Posts in this file: 578
+- Conversations/threads: 512
 - Oldest post captured: 2008-10-22
 - Newest post captured: 2026-11-23
 
@@ -1704,6 +1704,84 @@ Thurs, Dec 4, 2025 | 9:00am"
 
 ---
 
+## 2025-09-29 · Post · Someone asked how to use the payload I previously posted in different events:
+
+
+### Post — @garethheyes — 2025-09-29 16:20 UTC (2025-09-29 17:20 WAT)
+
+- URL: https://x.com/garethheyes/status/1972698006777401801
+- Metrics (at fetch): not returned
+
+> Someone asked how to use the payload I previously posted in different events:
+>
+> &lt;svg onload​="attributes[0].value=id+URL+id,new onload" id=`&gt;
+>
+> &lt;input onfocus​="attributes[0].value=id+URL+id,new onfocus" id=` autofocus&gt;
+>
+> #${alert(1)}
+
+
+---
+
+## 2025-09-29 · Post · Refined the vector:
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2025-09-29 11:30 UTC (2025-09-29 12:30 WAT)
+
+- URL: https://x.com/garethheyes/status/1972624982120542241
+- Metrics (at fetch): not returned
+
+> Refined the vector:
+> https://portswigger-labs.net/xss/xss.php?x=%3Cinput%20onclick=attributes[0].value=id%2bURL%2bid%20id=%60%3E and a hash of ➡️ #${alert(1)} and two clicks. I think using window name is better, this is nice when you want to embed the payload in the URL. [pic.x.com/cQfiApyjcR] https://twitter.com/garethheyes/status/1971535276062515683
+
+**Media:**
+- photo: https://pbs.twimg.com/media/G2AqLm9WcAAvCij.jpg — no alt text provided by author
+
+**Links in post:** https://portswigger-labs.net/xss/xss.php?x=%3Cinput%20onclick=attributes[0].value=id%2bURL%2bid%20id=%60%3E, https://twitter.com/garethheyes/status/1971535276062515683
+
+**Quoted post (full text):**
+
+    #### Quoted post — @garethheyes — 2025-09-26 11:20 UTC (2025-09-26 12:20 WAT)
+    
+    - URL: https://x.com/garethheyes/status/1971535276062515683
+    - Metrics (at fetch): not returned
+    
+    > In a shameless effort to promote my book. I've crafted some very special vectors for you. If you like them please purchase my book to read more.
+    >
+    > https://www.amazon.com/dp/B0BRD9B3GS [pic.x.com/4hDEq6jgiA]
+    
+    **Media:**
+    - media `3_1971534336718462977` (details not returned by the API)
+    
+    **Links in post:** https://www.amazon.com/dp/B0BRD9B3GS
+    
+
+
+---
+
+## 2025-09-26 · Post · In a shameless effort to promote my book. I've crafted some very special vectors for you. If you lik
+
+
+### Post — @garethheyes — 2025-09-26 11:20 UTC (2025-09-26 12:20 WAT)
+
+- URL: https://x.com/garethheyes/status/1971535276062515683
+- Metrics (at fetch): not returned
+
+> In a shameless effort to promote my book. I've crafted some very special vectors for you. If you like them please purchase my book to read more.
+>
+> https://www.amazon.com/dp/B0BRD9B3GS [pic.x.com/4hDEq6jgiA]
+
+**Media:**
+- media `3_1971534336718462977` (details not returned by the API)
+
+**Links in post:** https://www.amazon.com/dp/B0BRD9B3GS
+
+
+---
+
 ## 2025-09-25 · Post · Hackvertor v2.1.24 has a major bug where it doesn't update the content-length. Sorry about that. I'v
 
 
@@ -1828,7 +1906,7 @@ Tags (automatic): XSS, CSP / CSPT
 ### Post — @garethheyes — 2025-07-24 14:25 UTC (2025-07-24 15:25 WAT)
 
 - URL: https://x.com/garethheyes/status/1948388992908419221
-- Metrics (at fetch): bookmark 76, impression 7977, like 111, quote 1, reply 4, retweet 21
+- Metrics (at fetch): bookmark 76, impression 7979, like 111, quote 1, reply 4, retweet 21
 
 > Is your target leaking CSP violations left and right? Mikhail Khramenkov reveals how to hijack the onsecuritypolicyviolation event to trigger JS in hidden inputs - when unsafe-inline is in play and styles are blocked. Now live on our XSS cheat sheet.
 >
@@ -2043,7 +2121,7 @@ Tags (automatic): XSS
 ### Post — @garethheyes — 2025-05-30 17:40 UTC (2025-05-30 18:40 WAT)
 
 - URL: https://x.com/garethheyes/status/1928506798119498217
-- Metrics (at fetch): bookmark 24, impression 4776, like 58, quote 0, reply 1, retweet 10
+- Metrics (at fetch): bookmark 24, impression 4777, like 58, quote 0, reply 1, retweet 10
 
 > I wrote up the Safari TypeError XSS I found on my lunch. It was really fun to find. 
 >
@@ -2159,7 +2237,7 @@ Tags (automatic): XSS, Request smuggling / desync
 ### Post — @garethheyes — 2025-05-27 13:54 UTC (2025-05-27 14:54 WAT)
 
 - URL: https://x.com/garethheyes/status/1927362878610255966
-- Metrics (at fetch): bookmark 48, impression 8279, like 89, quote 0, reply 2, retweet 16
+- Metrics (at fetch): bookmark 48, impression 8282, like 90, quote 0, reply 2, retweet 16
 
 > Firefox now opens the door to URL-based XSS payload smuggling too. Yep, even more ways to sneak past filters using the window name and clever URL tricks. Link to vectors👇 https://t.co/W3m7IF6JNS
 
@@ -2194,7 +2272,7 @@ Tags (automatic): XSS, Request smuggling / desync
 ### Post — @garethheyes — 2025-05-22 13:59 UTC (2025-05-22 14:59 WAT)
 
 - URL: https://x.com/garethheyes/status/1925552139918528667
-- Metrics (at fetch): bookmark 67, impression 8330, like 116, quote 0, reply 2, retweet 16
+- Metrics (at fetch): bookmark 67, impression 8331, like 116, quote 0, reply 2, retweet 16
 
 > URL-based XSS payload smuggling yup, it’s a thing. You can sneak payloads past filters in unexpected ways using the window name and creative URL abuse. Shoutout to @williamserizao for the idea.
 > Link to vectors👇 https://t.co/voPFKt1Q1j
@@ -2272,7 +2350,7 @@ Tags (automatic): XSS
 ### Post — @garethheyes — 2025-04-26 13:00 UTC (2025-04-26 14:00 WAT)
 
 - URL: https://x.com/garethheyes/status/1916115054421831981
-- Metrics (at fetch): bookmark 76, impression 7914, like 120, quote 0, reply 1, retweet 24
+- Metrics (at fetch): bookmark 76, impression 7915, like 120, quote 0, reply 1, retweet 24
 
 > Firefox treats multipart/x-mixed-replace like HTML. Chrome doesn’t.
 > That tiny difference? It can turn a "non-exploitable" XSS into a real one.
@@ -2294,7 +2372,7 @@ Tags (automatic): RCE
 ### Post — @garethheyes — 2025-03-20 12:41 UTC (2025-03-20 13:41 WAT)
 
 - URL: https://x.com/garethheyes/status/1902701921707708717
-- Metrics (at fetch): bookmark 91, impression 26772, like 135, quote 1, reply 1, retweet 32
+- Metrics (at fetch): bookmark 91, impression 26775, like 135, quote 1, reply 1, retweet 31
 
 > 🔥 My Black Hat talk is now live! 🎥
 >
@@ -2313,7 +2391,7 @@ Tags (automatic): RCE
 ### Post — @garethheyes — 2025-03-18 14:56 UTC (2025-03-18 15:56 WAT)
 
 - URL: https://x.com/garethheyes/status/1902011315029234143
-- Metrics (at fetch): bookmark 106, impression 34029, like 199, quote 4, reply 4, retweet 66
+- Metrics (at fetch): bookmark 106, impression 34033, like 199, quote 4, reply 4, retweet 66
 
 > You might have noticed that the recent SAML writeups omit some crucial details. In "SAML roulette: the hacker always wins", we share everything you need to know for a complete unauthenticated exploit on ruby-saml, using GitLab as a case-study.
 >
@@ -2367,6 +2445,43 @@ Tags (automatic): XSS
 - Metrics (at fetch): bookmark 1, impression 1506, like 14, quote 0, reply 0, retweet 1
 
 > Burp pro tip: Triple click a long parameter value/header to select all of the value (provided there are no spaces) then add your Hackvertor tags 😉
+
+
+---
+
+## 2025-02-21 · Post · Improved featured payload and added "All vectors" and "Following" in Shazzer.
+
+
+### Post — @garethheyes — 2025-02-21 16:24 UTC (2025-02-21 17:24 WAT)
+
+- URL: https://x.com/garethheyes/status/1892973563814052197
+- Metrics (at fetch): bookmark 7, impression 2068, like 23, quote 0, reply 0, retweet 2
+
+> Improved featured payload and added "All vectors" and "Following" in Shazzer.
+>
+> https://t.co/MwFvmhoqk9 https://t.co/GCKB5x6LvJ
+
+**Media:**
+- photo: https://pbs.twimg.com/media/GkUw93sXgAkBn-s.jpg — no alt text provided by author
+
+
+---
+
+## 2025-02-20 · Post · We've just released Shadow Repeater, for AI-enhanced manual testing. Simply use Burp Repeater as you
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @garethheyes — 2025-02-20 13:21 UTC (2025-02-20 14:21 WAT)
+
+- URL: https://x.com/garethheyes/status/1892565249150038387
+- Metrics (at fetch): bookmark 140, impression 42473, like 240, quote 10, reply 11, retweet 49
+
+> We've just released Shadow Repeater, for AI-enhanced manual testing. Simply use Burp Repeater as you normally would, and behind the scenes Shadow Repeater will learn from your attacks, try payload permutations, and report any discoveries via Organizer. https://t.co/S2M4edkyTN
+
+**Media:**
+- video:  — no alt text provided by author
 
 
 ---
@@ -9312,3 +9427,14 @@ Tags (automatic): XSS
 - Metrics (at fetch): not returned
 
 > trying to exploit toStaticHTML, Execute/HTML test in Hackvertor is so useful for this. Fiddler comes in handy too
+
+### Post — @garethheyes — 2026-11-25 16:35 UTC
+
+- URL: https://x.com/garethheyes/status/2125629582015611281
+- Metrics (at fetch): bookmark 63, impression 3750, like 127, quote 0, reply 2, retweet 14
+- Media: 1 photo (https://pbs.twimg.com/media/HX_Au36W4AAVys-.jpg; image not transcribed — presumably Gareth's variant PoC screenshot, content not verified)
+
+> I love this post by @hash_kitten so much, in fact I wanted to create a variant. Love this Chrome behaviour!
+>
+> https://www.slcyber.io/research/two-bypasses-for-chromes-sanitizer-api#:~:text=first%20colon.-,Bypass%20%232%3A%20URL%20Reparsing,-Two%20days%20after
+

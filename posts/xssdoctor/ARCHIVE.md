@@ -1,6 +1,6 @@
 # @xssdoctor — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 204
 - Conversations/threads: 138
@@ -2731,3 +2731,19 @@ Tags (automatic): Platform: HackerOne
     **Media:**
     - media `7_1064885165246304257` (details not returned by the API)
     
+
+### Post — @xssdoctor — 2026-11-25 13:20 UTC
+
+- URL: https://x.com/xssdoctor/status/2125580320577827201
+- Metrics (at fetch): bookmark 75, impression 10841, like 84, quote 0, reply 1, retweet 5
+
+> Probably my favorite research of 2026. Absolutely mind blowing https://x.com/monkehack/status/2125568597774750138
+
+> **@monkehack — 2025/2026-11-25 12:33 UTC** (https://x.com/monkehack/status/2125568597774750138; Ciarán Cotter)
+>
+> In the last few months, I developed some new AI hacking techniques involving data compression and gadgets found within linguistics. I presented this work for the first time during Prompt2Pwn, but I've written it up here for you to read ->
+>
+> https://www.monke.ie/p/human-model-differentials-and-language-hacking
+>
+> (Full article saved at [`writeups/monkehack/human-model-differentials-and-language-hacking.md`](../../writeups/monkehack/human-model-differentials-and-language-hacking.md))
+

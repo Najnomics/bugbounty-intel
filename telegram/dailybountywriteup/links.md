@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **13002**
+Total distinct URLs: **13011**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -13008,3 +13008,12 @@ Total distinct URLs: **13002**
 | [14998](https://t.me/dailybountywriteup/14998) | 2026-11-24 12:28:35 | CSRF vs. SSRF | https://medium.com/@munnaza.cyber/csrf-vs-ssrf-two-web-vulnerabilities-every-cybersecurity-learner-should-understand-80bfcf36b059 |
 | [14998](https://t.me/dailybountywriteup/14998) | 2026-11-24 12:28:35 | Breaking the Signature Boundary | https://bineshmadharapu.medium.com/breaking-the-signature-boundary-exploiting-a-signed-brainfuck-interpreter-in-intigritis-november-2da256cb6646 |
 | [14998](https://t.me/dailybountywriteup/14998) | 2026-11-24 12:28:35 | P2 Unrestricted File Upload Leading to Stored Cross-Site Scripting (XSS) | https://medium.com/@akashmotkar001/p2-unrestricted-file-upload-leading-to-stored-cross-site-scripting-xss-f3593e691060 |
+| [14999](https://t.me/dailybountywriteup/14999) | 2026-11-25 11:14:35 | How One Free Trial Became Unlimited Number Of Licenses \| $$$$ Bounty | https://medium.com/@marwanmedhat0001/how-one-free-trial-became-unlimited-number-of-licenses-bounty-c98b8a4ee7e7 |
+| [14999](https://t.me/dailybountywriteup/14999) | 2026-11-25 11:14:35 | DOM-Based XSS via Arbitrary Cookie Injection Across a News Site and Its Subdomains | https://medium.com/@Assili-yassine/dom-based-xss-via-arbitrary-cookie-injection-across-a-news-site-and-its-subdomains-87ec5e4317c2 |
+| [14999](https://t.me/dailybountywriteup/14999) | 2026-11-25 11:14:35 | The Bug Between Two Clicks | https://osintteam.blog/the-bug-between-two-clicks-how-to-find-hidden-logic-flaws-in-web-applications-ff8e94e73bb0 |
+| [14999](https://t.me/dailybountywriteup/14999) | 2026-11-25 11:14:35 | SSTI Attacks Explained | https://medium.com/@vigneshkumaroffsec/ssti-attacks-explained-when-7-7-returns-49-you-have-a-problem-d8ad37d11123 |
+| [14999](https://t.me/dailybountywriteup/14999) | 2026-11-25 11:14:35 | Google Home Vulnerability | https://masimshahzad.medium.com/google-home-vulnerability-a-107k-speaker-backdoor-0703d9b2badf |
+| [14999](https://t.me/dailybountywriteup/14999) | 2026-11-25 11:14:35 | Azure AD Misconfiguration | https://masimshahzad.medium.com/azure-ad-misconfiguration-the-40k-bing-takeover-e36d49bacfa6 |
+| [14999](https://t.me/dailybountywriteup/14999) | 2026-11-25 11:14:35 | HackerOne Account Takeover | https://masimshahzad.medium.com/hackerone-account-takeover-the-20k-leaked-cookie-4e97e094b7e7 |
+| [14999](https://t.me/dailybountywriteup/14999) | 2026-11-25 11:14:35 | 🐛 Bug Bounty Writeup | https://medium.com/@akashmotkar001/p4-information-disclosure-through-http-response-headers-7e58940d07ac |
+| [14999](https://t.me/dailybountywriteup/14999) | 2026-11-25 11:14:35 | libcurl Obeyed a List I Never Gave It | https://rajnamdev.medium.com/libcurl-obeyed-a-list-i-never-gave-it-f727c4922666 |

@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-25 (Africa/Lagos)",
+ "generated": "2026-11-26 (Africa/Lagos)",
  "status": "complete",
- "enumerated": 12783,
- "captured": 12783,
+ "enumerated": 12794,
+ "captured": 12794,
  "content": {
-  "body": 10029,
-  "summary": 2754
+  "body": 10030,
+  "summary": 2764
  },
  "also_in_telegram_writeups": 747,
  "failed_ids": [],
- "last_disclosed_at": "2026-11-24T21:32:18.445Z",
- "last_disclosed_id": "3891423",
- "max_report_id": 4227402,
- "enumeration": "POST https://hackerone.com/graphql search(index: CompleteHacktivityReportIndex, query_string: \"disclosed:true AND disclosed_at:[A TO B]\", sort disclosed_at ASC, size 100) \u2014 one window per month (<10k results/window)",
+ "last_disclosed_at": "2026-11-25T12:23:43.376Z",
+ "last_disclosed_id": "4216475",
+ "max_report_id": 4235206,
+ "enumeration": "POST https://hackerone.com/graphql search(index: CompleteHacktivityReportIndex, query_string: \"disclosed:true AND disclosed_at:[A TO B]\", sort disclosed_at ASC, size 100) — one window per month (<10k results/window)",
  "fetch": "GET https://hackerone.com/reports/<id>.json (6 threads, 0.25s gap, 60s pause on 429)",
  "incremental": "enumerate disclosed_at:[<last_disclosed_at date> TO <today>], fetch ids not already in data/h1/*.jsonl, re-run tools/intel-pipeline/h1_build.py then h1_harness.py (h1_harness appends only findings whose post_url is new)"
 }

@@ -48,3 +48,7 @@ Profile earnings ($35,538 on 11 Nov 2026) and the "12 reports / 8 criticals" sna
 - **How it was found:** Details undisclosed
 - **Takeaways / harness:** Evidence of continued valid Immunefi finds only.
 
+
+## 2026-11-26 run additions
+
+- [Confirmed bug on Immunefi](../posts/naresh_1337/2026-11-26-2125756766755471410.md): share link shows severity=low, programType=audit-competition; program/bug undisclosed (bounty-only evidence).

@@ -8061,6 +8061,95 @@
 - [1397804](reports/2022/1397804.md) open redirect to a remote website which can phish users — concretecms — medium —  — Open Redirect
 - [1369312](reports/2022/1369312.md) SSRF mitigation bypass using DNS Rebind attack — concretecms — low —  — Server-Side Request Forgery (SSRF)
 
+## revive_adserver (86)
+
+- [176116](reports/2017/176116.md) Weak Forgot Password implementation — revive_adserver — low —  — Improper Authentication - Generic
+- [173501](reports/2017/173501.md) Stored XSS on Admin Access Page - Email field — revive_adserver — high —  — Cross-site Scripting (XSS) - Generic
+- [178611](reports/2017/178611.md) Reflected XSS on Zones > Invocation Code — revive_adserver — low —  — Cross-site Scripting (XSS) - Generic
+- [170156](reports/2017/170156.md) Reflected XSS in Step 2 of the Installation — revive_adserver — - —  — Cross-site Scripting (XSS) - Generic
+- [390663](reports/2019/390663.md) Open redirect in switch account functionality — revive_adserver — low —  — Open Redirect
+- [542670](reports/2019/542670.md) Deserialization of Untrusted Data in www/delivery/dxmlrpc.php — revive_adserver — critical —  — Deserialization of Untrusted Data
+- [512076](reports/2019/512076.md) Deserialization of Untrusted Data in www/delivery/adxmlrpc.php — revive_adserver — critical —  — Deserialization of Untrusted Data
+- [576504](reports/2019/576504.md) Authentication Bypass by abusing Insecure crypto tokens in /lib/OA/Dal/PasswordRecovery.php: — revive_adserver — high —  — Improper Authentication - Generic
+- [775693](reports/2020/775693.md) Reflected XSS on www/delivery/afr.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [794144](reports/2020/794144.md) Open redirection bypass in /www/admin/campaign-modify.php — revive_adserver — low —  — Open Redirect
+- [792895](reports/2020/792895.md) bypass old password with array in /admin/account-user-email.php — revive_adserver — low —  — Array Index Underflow
+- [986365](reports/2021/986365.md) Reflected XSS on /www/delivery/afr.php (bypass of report #775693) — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [819362](reports/2021/819362.md) Cross Site Scripting and Open Redirect in affiliate-preview.php file  — revive_adserver — low —  — Open Redirect
+- [1081406](reports/2021/1081406.md) Open redirect in ck.php and lg.php — revive_adserver — medium —  — Open Redirect
+- [1083231](reports/2021/1083231.md) Reflected XSS on /admin/userlog-index.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [1083376](reports/2021/1083376.md) Reflected XSS on /admin/stats.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [1097979](reports/2021/1097979.md) Reflected XSS on /admin/campaign-zone-zones.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [1097217](reports/2021/1097217.md) Reflected XSS on /admin/stats.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [1187820](reports/2021/1187820.md) Reflected XSS on /admin/stats.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [1306942](reports/2021/1306942.md) Use of a Broken or Risky Cryptographic Algorithm — revive_adserver — medium —  — Use of a Broken or Risky Cryptographic Algorithm
+- [1694171](reports/2023/1694171.md) Multiple cross-site scripting (XSS) vulnerabilities in Revive Adserver — revive_adserver — low —  — Cross-site Scripting (XSS) - Generic
+- [96115](reports/2024/96115.md) Login page password-guessing attack — revive_adserver — - —  — Violation of Secure Design Principles
+- [3091390](reports/2025/3091390.md) Reflected Cross-Site Scripting (XSS) in Revive Adserver 5.5.2 — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [3395221](reports/2025/3395221.md) Error-Based & Time-Based SQL Injection in 'keyword' Parameter of admin-search.php Allowing Full Database Access in Revive Adserver v6.0.0 — revive_adserver — high —  — SQL Injection
+- [3398283](reports/2025/3398283.md) Authorization bypass allows changing email address of other users — revive_adserver — high —  — Improper Access Control - Generic
+- [3399191](reports/2025/3399191.md) Reflected XSS in account-preferences-plugin.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [3399218](reports/2025/3399218.md) Improper sanitisation of input in the settings could cause DoS — revive_adserver — low —  — Business Logic Errors
+- [3399809](reports/2025/3399809.md) Stored XSS on inventory-retrieve.php — revive_adserver — low —  — Cross-site Scripting (XSS) - Stored
+- [3400506](reports/2025/3400506.md) Stored XSS in Conversion Statistics via Tracker Name — revive_adserver — high —  — Cross-site Scripting (XSS) - Stored
+- [3401464](reports/2025/3401464.md) Information Disclosure via “Add user” lookup in Account Management (User Access) — revive_adserver — medium —  — Exposure of Sensitive Information Due to Incompatible Policies
+- [3401612](reports/2025/3401612.md) IDOR Vulnerability in Banner Deletion  — revive_adserver — high —  — Insecure Direct Object Reference (IDOR)
+- [3403450](reports/2025/3403450.md) Information Disclosure via Verbose Error Messages — revive_adserver — medium —  — Information Exposure Through an Error Message
+- [3403727](reports/2025/3403727.md) Reflected XSS in /admin/banner-zone.php (v6.0.0+) — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [3404968](reports/2025/3404968.md) Stored-XSS in Banner Name field  — revive_adserver — low —  — Cross-site Scripting (XSS) - Stored
+- [3411750](reports/2025/3411750.md) Stored-XSS in campaign name displayed in Banners modal — revive_adserver — medium —  — Cross-site Scripting (XSS) - Stored
+- [3413764](reports/2025/3413764.md) Username normalization missing allows visually indistinguishable accounts (Whitespace-Based Impersonation) — revive_adserver — medium —  — Improper Neutralization of Whitespace
+- [3413890](reports/2025/3413890.md) Unrestricted setPerPage allows huge result sets / resource exhaustion / mass log retrieval — revive_adserver — medium —  — Allocation of Resources Without Limits or Throttling
+- [3434156](reports/2025/3434156.md) Username Validation Bypass — revive_adserver — medium —  — Improper Authentication - Generic
+- [3445332](reports/2026/3445332.md) INI Format string injection in Revive Adserver 6.0.4 settings — revive_adserver — low —  — Use of Externally-Controlled Format String
+- [3445710](reports/2026/3445710.md) Broken Access Control allows advertiser accounts to delete trackers they do not own — revive_adserver — high —  — Improper Access Control - Generic
+- [3468169](reports/2026/3468169.md) Reflected XSS in afr.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [3470970](reports/2026/3470970.md) Reflected XSS in banner-acl.php and channel-acl.php via executionorder — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [3473696](reports/2026/3473696.md) [revive-adserver] Reflected XSS in Banner Delivery Options via cap parameter — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [3744200](reports/2026/3744200.md) PHP code injection via unexpected delivery limitation parameter — revive_adserver — high —  — Code Injection
+- [3680090](reports/2026/3680090.md) Stored XSS via malicious usernames in audit log details + Username validation bypass in XML‑RPC addUser  — revive_adserver — none —  — Cross-site Scripting (XSS) - Stored
+- [3678828](reports/2026/3678828.md) Banner status override by advertiser‑level users — revive_adserver — medium —  — Improper Access Control - Generic
+- [3677576](reports/2026/3677576.md) Missing access control when modifying parent entities via XML‑RPC — revive_adserver — medium —  — Improper Access Control - Generic
+- [3672641](reports/2026/3672641.md) Session ID reuse allowing XML‑RPC API authentication bypass — revive_adserver — medium —  — Improper Authentication - Generic
+- [3669623](reports/2026/3669623.md) Stored XSS via Full Name field in userlog email entries — revive_adserver — medium —  — Cross-site Scripting (XSS) - Stored
+- [3656781](reports/2026/3656781.md) PHP code injection via delivery limitation logical  — revive_adserver — high —  — Code Injection
+- [3653316](reports/2026/3653316.md) Reflected XSS via clientid parameter in zone‑include.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [3653196](reports/2026/3653196.md) Blind SQL injection via clientid parameter in zone‑include.php — revive_adserver — high —  — SQL Injection
+- [3650582](reports/2026/3650582.md) Missing access control when linking trackers to campaigns — revive_adserver — medium —  — Improper Access Control - Generic
+- [3650504](reports/2026/3650504.md) Missing access control when linking banners or campaigns to zones  — revive_adserver — medium —  — Improper Access Control - Generic
+- [3793243](reports/2026/3793243.md) Reflected XSS in stats‑video.php via improperly encoded URL parameters — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [3780709](reports/2026/3780709.md) Missing ownership validation allows cross‑manager tracker–campaign linking — revive_adserver — medium —  — Insecure Direct Object Reference (IDOR)
+- [3781691](reports/2026/3781691.md) CSRF in zone‑include.php allows unauthorized banner and campaign linking — revive_adserver — medium —  — Cross-Site Request Forgery (CSRF)
+- [3781311](reports/2026/3781311.md) Stored XSS in maintenance tools via unescaped entity names — revive_adserver — medium —  — Cross-site Scripting (XSS) - Stored
+- [3780854](reports/2026/3780854.md) PHP code injection in delivery-limitation `logical` validation bypass — revive_adserver — high —  — Code Injection
+- [3780806](reports/2026/3780806.md) Reflected XSS via unsanitised refresh parameter in zone invocation tag — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [3783738](reports/2026/3783738.md) XML‑RPC login leak exposes valid session ID enabling unauthorized API access — revive_adserver — medium —  — Improper Access Control - Generic
+- [3781492](reports/2026/3781492.md) PHP code injection in delivery-limitation `logical` validation bypass - XML-RPC setChannelTargeting — revive_adserver — high —  — Code Injection
+- [3896779](reports/2026/3896779.md) Blind SQL injection due to request precedence issue in global input registration — revive_adserver — high —  — SQL Injection
+- [3831102](reports/2026/3831102.md) Access control bypass due to request precedence issue in global input registration — revive_adserver — high —  — Insecure Direct Object Reference (IDOR)
+- [3908050](reports/2026/3908050.md) Reflected XSS via invocation iFrame size fields — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [4075098](reports/2026/4075098.md) Unauthenticated reflected XSS in update history — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [4116433](reports/2026/4116433.md) Stored XSS in report date selection — revive_adserver — medium —  — Cross-site Scripting (XSS) - Stored
+- [3958112](reports/2026/3958112.md) Missing campaign ownership check in zone bulk linking — revive_adserver — medium —  — Insecure Direct Object Reference (IDOR)
+- [3971985](reports/2026/3971985.md) Reflected XSS in popup invocation options — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [3878649](reports/2026/3878649.md) Reflected XSS via wrong permission check in conversion statistics — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [3826207](reports/2026/3826207.md) Stored XSS via unescaped tracker name in append-code check — revive_adserver — medium —  — Cross-site Scripting (XSS) - Stored
+- [3859000](reports/2026/3859000.md) Formula injection in conversion tracking report export — revive_adserver — medium —  — Code Injection
+- [3942028](reports/2026/3942028.md) Reflected XSS via invocation banner ID field in admin-generate.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [3883840](reports/2026/3883840.md) Cross-agency disclosure in website listing — revive_adserver — medium —  — Insecure Direct Object Reference (IDOR)
+- [3929216](reports/2026/3929216.md) Cross-agency delivery rule set creation — revive_adserver — medium —  — Insecure Direct Object Reference (IDOR)
+- [3981932](reports/2026/3981932.md) CSRF in tracker invocation page — revive_adserver — medium —  — Cross-Site Request Forgery (CSRF)
+- [4235206](reports/2026/4235206.md) Reflected XSS through the ct0 delivery parameter — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [4195061](reports/2026/4195061.md) Reflected XSS through delivery macro re-injection — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [4215622](reports/2026/4215622.md) Unauthenticated cross-tracker variable injection can suppress conversions — revive_adserver — medium —  — Improper Access Control - Generic
+- [4204516](reports/2026/4204516.md) Cross-agency campaign and banner name disclosure in zone linking — revive_adserver — medium —  — Insecure Direct Object Reference (IDOR)
+- [4206093](reports/2026/4206093.md) Cross-agency advertiser and website name disclosure in XLS reports — revive_adserver — medium —  — Information Disclosure
+- [4193662](reports/2026/4193662.md) Formula injection via entity names in XLS reports — revive_adserver — medium —  — Code Injection
+- [4228805](reports/2026/4228805.md) SQL injection via includebanner array keys in zone-include.php — revive_adserver — medium —  — SQL Injection
+- [4211442](reports/2026/4211442.md) Cross-advertiser tracker association exposes tracker metadata — revive_adserver — medium —  — Improper Access Control - Generic
+- [4209444](reports/2026/4209444.md) VAST XML injection can replace video playback tracking — revive_adserver — medium —  — XML Injection
+- [4207136](reports/2026/4207136.md) Entity deletion can leave agency, advertiser, and publisher accounts active — revive_adserver — low —  — Insufficient Session Expiration
+
 ## monero (82)
 
 - [291489](reports/2017/291489.md) Kovri: potential buffer over-read in garlic clove handling + I2NP message creation — monero — high —  — Information Disclosure
@@ -8555,85 +8644,6 @@
 - [1466765](reports/2024/1466765.md) monitoring.prow-canary.k8s.io is vulnerable to CVE-2022-21703 (Grafana 0-day) — kubernetes — low — $100 — Cross-Site Request Forgery (CSRF)
 - [1387366](reports/2025/1387366.md) elections.k8s.io uses weak session secret key, may place elections at risk — kubernetes — high — $250 — Cryptographic Issues - Generic
 - [2701701](reports/2026/2701701.md) Injection in path parameter of Ingress-nginx — kubernetes — high —  — Code Injection
-
-## revive_adserver (76)
-
-- [176116](reports/2017/176116.md) Weak Forgot Password implementation — revive_adserver — low —  — Improper Authentication - Generic
-- [173501](reports/2017/173501.md) Stored XSS on Admin Access Page - Email field — revive_adserver — high —  — Cross-site Scripting (XSS) - Generic
-- [178611](reports/2017/178611.md) Reflected XSS on Zones > Invocation Code — revive_adserver — low —  — Cross-site Scripting (XSS) - Generic
-- [170156](reports/2017/170156.md) Reflected XSS in Step 2 of the Installation — revive_adserver — - —  — Cross-site Scripting (XSS) - Generic
-- [390663](reports/2019/390663.md) Open redirect in switch account functionality — revive_adserver — low —  — Open Redirect
-- [542670](reports/2019/542670.md) Deserialization of Untrusted Data in www/delivery/dxmlrpc.php — revive_adserver — critical —  — Deserialization of Untrusted Data
-- [512076](reports/2019/512076.md) Deserialization of Untrusted Data in www/delivery/adxmlrpc.php — revive_adserver — critical —  — Deserialization of Untrusted Data
-- [576504](reports/2019/576504.md) Authentication Bypass by abusing Insecure crypto tokens in /lib/OA/Dal/PasswordRecovery.php: — revive_adserver — high —  — Improper Authentication - Generic
-- [775693](reports/2020/775693.md) Reflected XSS on www/delivery/afr.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [794144](reports/2020/794144.md) Open redirection bypass in /www/admin/campaign-modify.php — revive_adserver — low —  — Open Redirect
-- [792895](reports/2020/792895.md) bypass old password with array in /admin/account-user-email.php — revive_adserver — low —  — Array Index Underflow
-- [986365](reports/2021/986365.md) Reflected XSS on /www/delivery/afr.php (bypass of report #775693) — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [819362](reports/2021/819362.md) Cross Site Scripting and Open Redirect in affiliate-preview.php file  — revive_adserver — low —  — Open Redirect
-- [1081406](reports/2021/1081406.md) Open redirect in ck.php and lg.php — revive_adserver — medium —  — Open Redirect
-- [1083231](reports/2021/1083231.md) Reflected XSS on /admin/userlog-index.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [1083376](reports/2021/1083376.md) Reflected XSS on /admin/stats.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [1097979](reports/2021/1097979.md) Reflected XSS on /admin/campaign-zone-zones.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [1097217](reports/2021/1097217.md) Reflected XSS on /admin/stats.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [1187820](reports/2021/1187820.md) Reflected XSS on /admin/stats.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [1306942](reports/2021/1306942.md) Use of a Broken or Risky Cryptographic Algorithm — revive_adserver — medium —  — Use of a Broken or Risky Cryptographic Algorithm
-- [1694171](reports/2023/1694171.md) Multiple cross-site scripting (XSS) vulnerabilities in Revive Adserver — revive_adserver — low —  — Cross-site Scripting (XSS) - Generic
-- [96115](reports/2024/96115.md) Login page password-guessing attack — revive_adserver — - —  — Violation of Secure Design Principles
-- [3091390](reports/2025/3091390.md) Reflected Cross-Site Scripting (XSS) in Revive Adserver 5.5.2 — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [3395221](reports/2025/3395221.md) Error-Based & Time-Based SQL Injection in 'keyword' Parameter of admin-search.php Allowing Full Database Access in Revive Adserver v6.0.0 — revive_adserver — high —  — SQL Injection
-- [3398283](reports/2025/3398283.md) Authorization bypass allows changing email address of other users — revive_adserver — high —  — Improper Access Control - Generic
-- [3399191](reports/2025/3399191.md) Reflected XSS in account-preferences-plugin.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [3399218](reports/2025/3399218.md) Improper sanitisation of input in the settings could cause DoS — revive_adserver — low —  — Business Logic Errors
-- [3399809](reports/2025/3399809.md) Stored XSS on inventory-retrieve.php — revive_adserver — low —  — Cross-site Scripting (XSS) - Stored
-- [3400506](reports/2025/3400506.md) Stored XSS in Conversion Statistics via Tracker Name — revive_adserver — high —  — Cross-site Scripting (XSS) - Stored
-- [3401464](reports/2025/3401464.md) Information Disclosure via “Add user” lookup in Account Management (User Access) — revive_adserver — medium —  — Exposure of Sensitive Information Due to Incompatible Policies
-- [3401612](reports/2025/3401612.md) IDOR Vulnerability in Banner Deletion  — revive_adserver — high —  — Insecure Direct Object Reference (IDOR)
-- [3403450](reports/2025/3403450.md) Information Disclosure via Verbose Error Messages — revive_adserver — medium —  — Information Exposure Through an Error Message
-- [3403727](reports/2025/3403727.md) Reflected XSS in /admin/banner-zone.php (v6.0.0+) — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [3404968](reports/2025/3404968.md) Stored-XSS in Banner Name field  — revive_adserver — low —  — Cross-site Scripting (XSS) - Stored
-- [3411750](reports/2025/3411750.md) Stored-XSS in campaign name displayed in Banners modal — revive_adserver — medium —  — Cross-site Scripting (XSS) - Stored
-- [3413764](reports/2025/3413764.md) Username normalization missing allows visually indistinguishable accounts (Whitespace-Based Impersonation) — revive_adserver — medium —  — Improper Neutralization of Whitespace
-- [3413890](reports/2025/3413890.md) Unrestricted setPerPage allows huge result sets / resource exhaustion / mass log retrieval — revive_adserver — medium —  — Allocation of Resources Without Limits or Throttling
-- [3434156](reports/2025/3434156.md) Username Validation Bypass — revive_adserver — medium —  — Improper Authentication - Generic
-- [3445332](reports/2026/3445332.md) INI Format string injection in Revive Adserver 6.0.4 settings — revive_adserver — low —  — Use of Externally-Controlled Format String
-- [3445710](reports/2026/3445710.md) Broken Access Control allows advertiser accounts to delete trackers they do not own — revive_adserver — high —  — Improper Access Control - Generic
-- [3468169](reports/2026/3468169.md) Reflected XSS in afr.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [3470970](reports/2026/3470970.md) Reflected XSS in banner-acl.php and channel-acl.php via executionorder — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [3473696](reports/2026/3473696.md) [revive-adserver] Reflected XSS in Banner Delivery Options via cap parameter — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [3744200](reports/2026/3744200.md) PHP code injection via unexpected delivery limitation parameter — revive_adserver — high —  — Code Injection
-- [3680090](reports/2026/3680090.md) Stored XSS via malicious usernames in audit log details + Username validation bypass in XML‑RPC addUser  — revive_adserver — none —  — Cross-site Scripting (XSS) - Stored
-- [3678828](reports/2026/3678828.md) Banner status override by advertiser‑level users — revive_adserver — medium —  — Improper Access Control - Generic
-- [3677576](reports/2026/3677576.md) Missing access control when modifying parent entities via XML‑RPC — revive_adserver — medium —  — Improper Access Control - Generic
-- [3672641](reports/2026/3672641.md) Session ID reuse allowing XML‑RPC API authentication bypass — revive_adserver — medium —  — Improper Authentication - Generic
-- [3669623](reports/2026/3669623.md) Stored XSS via Full Name field in userlog email entries — revive_adserver — medium —  — Cross-site Scripting (XSS) - Stored
-- [3656781](reports/2026/3656781.md) PHP code injection via delivery limitation logical  — revive_adserver — high —  — Code Injection
-- [3653316](reports/2026/3653316.md) Reflected XSS via clientid parameter in zone‑include.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [3653196](reports/2026/3653196.md) Blind SQL injection via clientid parameter in zone‑include.php — revive_adserver — high —  — SQL Injection
-- [3650582](reports/2026/3650582.md) Missing access control when linking trackers to campaigns — revive_adserver — medium —  — Improper Access Control - Generic
-- [3650504](reports/2026/3650504.md) Missing access control when linking banners or campaigns to zones  — revive_adserver — medium —  — Improper Access Control - Generic
-- [3793243](reports/2026/3793243.md) Reflected XSS in stats‑video.php via improperly encoded URL parameters — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [3780709](reports/2026/3780709.md) Missing ownership validation allows cross‑manager tracker–campaign linking — revive_adserver — medium —  — Insecure Direct Object Reference (IDOR)
-- [3781691](reports/2026/3781691.md) CSRF in zone‑include.php allows unauthorized banner and campaign linking — revive_adserver — medium —  — Cross-Site Request Forgery (CSRF)
-- [3781311](reports/2026/3781311.md) Stored XSS in maintenance tools via unescaped entity names — revive_adserver — medium —  — Cross-site Scripting (XSS) - Stored
-- [3780854](reports/2026/3780854.md) PHP code injection in delivery-limitation `logical` validation bypass — revive_adserver — high —  — Code Injection
-- [3780806](reports/2026/3780806.md) Reflected XSS via unsanitised refresh parameter in zone invocation tag — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [3783738](reports/2026/3783738.md) XML‑RPC login leak exposes valid session ID enabling unauthorized API access — revive_adserver — medium —  — Improper Access Control - Generic
-- [3781492](reports/2026/3781492.md) PHP code injection in delivery-limitation `logical` validation bypass - XML-RPC setChannelTargeting — revive_adserver — high —  — Code Injection
-- [3896779](reports/2026/3896779.md) Blind SQL injection due to request precedence issue in global input registration — revive_adserver — high —  — SQL Injection
-- [3831102](reports/2026/3831102.md) Access control bypass due to request precedence issue in global input registration — revive_adserver — high —  — Insecure Direct Object Reference (IDOR)
-- [3908050](reports/2026/3908050.md) Reflected XSS via invocation iFrame size fields — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [4075098](reports/2026/4075098.md) Unauthenticated reflected XSS in update history — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [4116433](reports/2026/4116433.md) Stored XSS in report date selection — revive_adserver — medium —  — Cross-site Scripting (XSS) - Stored
-- [3958112](reports/2026/3958112.md) Missing campaign ownership check in zone bulk linking — revive_adserver — medium —  — Insecure Direct Object Reference (IDOR)
-- [3971985](reports/2026/3971985.md) Reflected XSS in popup invocation options — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [3878649](reports/2026/3878649.md) Reflected XSS via wrong permission check in conversion statistics — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [3826207](reports/2026/3826207.md) Stored XSS via unescaped tracker name in append-code check — revive_adserver — medium —  — Cross-site Scripting (XSS) - Stored
-- [3859000](reports/2026/3859000.md) Formula injection in conversion tracking report export — revive_adserver — medium —  — Code Injection
-- [3942028](reports/2026/3942028.md) Reflected XSS via invocation banner ID field in admin-generate.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
-- [3883840](reports/2026/3883840.md) Cross-agency disclosure in website listing — revive_adserver — medium —  — Insecure Direct Object Reference (IDOR)
-- [3929216](reports/2026/3929216.md) Cross-agency delivery rule set creation — revive_adserver — medium —  — Insecure Direct Object Reference (IDOR)
-- [3981932](reports/2026/3981932.md) CSRF in tracker invocation page — revive_adserver — medium —  — Cross-Site Request Forgery (CSRF)
 
 ## paragonie (75)
 
@@ -11473,7 +11483,7 @@
 - [246055](reports/2017/246055.md) Public calendar link can be invisible — mixmax — low —  — Information Disclosure
 - [262262](reports/2017/262262.md) app.mixmax.com Information Discloure on cal.mixmax.com and Not Signing out after Removing information grant access from Google — mixmax — medium —  — 
 
-## essity (21)
+## essity (22)
 
 - [3589269](reports/2026/3589269.md) HTTP Request Smuggling — essity — critical —  — HTTP Request Smuggling
 - [3726887](reports/2026/3726887.md) Privilege-relevant fields are clientModify in SAP CDC schema allowing role escalation to Admin — essity — critical —  — Improper Privilege Management
@@ -11496,6 +11506,7 @@
 - [4191812](reports/2026/4191812.md) Unauthenticated arbitrary local file read via ABCpdf on www.████████ — essity — high —  — Path Traversal
 - [4191937](reports/2026/4191937.md) IDOR: private ████████ post comments can be read and written by any authenticated user — essity — high —  — Insecure Direct Object Reference (IDOR)
 - [3966705](reports/2026/3966705.md) Default OAuth2 Credentials on SAP Commerce Cloud — Admin Token via Published Sample Secret (CVE-2026-44761) — essity — medium —  — Use of Hard-coded Credentials
+- [4216475](reports/2026/4216475.md) error based SQL injection on ████████ — essity — critical —  — SQL Injection
 
 ## factlink (20)
 

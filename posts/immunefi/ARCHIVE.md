@@ -1,6 +1,6 @@
 # @immunefi — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 66
 - Conversations/threads: 61
@@ -1844,3 +1844,100 @@ Tags (automatic): Smart contract / DeFi, Platform: Immunefi
 > https://medium.com/immunefi/introducing-immunefis-luxury-hoodies-f9f9286520c7
 
 **Links in post:** https://medium.com/immunefi/introducing-immunefis-luxury-hoodies-f9f9286520c7
+
+### Post — @immunefi — 2026-11-25 10:04 UTC
+
+- URL: https://x.com/immunefi/status/2125530943352193378
+- Metrics (at fetch): bookmark 12, impression 3547, like 57, quote 0, reply 6, retweet 4
+- Media: 1 photo (https://pbs.twimg.com/media/HX9nIOjbwAA9DfE.jpg)
+
+> Someone just got paid $12,500 for finding a bug in a blockchain itself.
+>
+> @gzeon is an Immunefi All Star, 6th on the 90-day leaderboard and 20th for 2026.
+>
+> So far in 2026, Immunefi researchers have had 330 high-severity blockchain reports paid, found by 150 different researchers. 67 of them have found two or more. gzeon has 7 🚀
+>
+> congrats ser!
+
+
+### Post — @immunefi — 2026-11-25 12:56 UTC
+
+- URL: https://x.com/immunefi/status/2125574231727730708
+- Metrics (at fetch): bookmark 6, impression 3205, like 54, quote 1, reply 4, retweet 9
+- Media: 1 photo (https://pbs.twimg.com/media/HX-Of5zbQAADfIg.jpg)
+
+> When submission fees began in March, one complaint came up more than any other.
+>
+> You'd find a valid bug, pay to submit it, and lose the fee because someone else reported it first. Sometimes the protocol already knew about the bug privately and couldn't disclose it until a fix shipped. Either way, the work was valid, it wasn't your fault, and the fee was gone.
+>
+> Researchers asked us to fix this from day one. Fixing it fairly meant knowing exactly which reports deserved credit, so we built the tooling to find out. In April, we started labeling duplicates of valid reports. In July, we started tracking private known issues. In September, we started showing the original report behind every duplicate closure.
+>
+> On November 2, we launched credits. Every fee-paid valid report since fees began earns credits equal to the fee, including duplicates, private known issues and mediations decided in your favor.
+>
+> Three weeks later:
+>
+> Nearly 900 researchers have now earned credits for valid work.
+>
+> mrcryptocurrency, a junior whitehat, joined @immunefi in November. He spent 100 credits to submit a bug, and four days later he was paid his first bounty, $10,000, and earned 100 credits on top of it.
+>
+> Keep hunting. Valid work earns credits.
+
+
+### Post — @immunefi — 2026-11-25 15:43 UTC
+
+- URL: https://x.com/immunefi/status/2125616255533306197
+- Metrics (at fetch): bookmark 13, impression 2784, like 43, quote 0, reply 7, retweet 3
+- Media: 1 photo (https://pbs.twimg.com/media/HX-0uDabgAAIgFt.jpg)
+
+> The FBI warns that an AI hacking tool has taken some attackers from first contact to privileged access in under 3 hours.
+>
+> The speed is alarming, but the bigger change is who can now do this. According to the FBI, the tool lets attackers with minimal technical expertise run complex campaigns against multiple targets at once. Work that used to require a team of skilled hackers is increasingly automated.
+>
+> It also isn't going after the obvious targets. The FBI says it excels at finding the systems that get the least security attention: partner portals, mobile backends, legacy services and third-party integrations. The bugs it exploited weren't exotic either: SQL injection, SSRF, missing authentication on APIs, and admin passwords hardcoded in JavaScript.
+>
+> But AI hasn't made fixing bugs as cheap as finding them. An attacker only has to exploit a bug. A defender has to assess it, patch it, test the fix and ship it without breaking anything. When bugs are found faster than teams can fix them, you get what we've been calling the vulnerability apocalypse.
+>
+> For years, companies could get away with an annual penetration test, a few security reviews, and patching vulnerabilities as they became public. That model depended on two things: finding vulnerabilities being slow and difficult, and attackers sticking to the systems you had already reviewed. AI is removing both.
+>
+> Crypto learned early that if there's money sitting in software, someone will spend every waking hour trying to take it. That's why the industry built a security culture around audits, bug bounties, and financially incentivized security researchers who get paid only for real, exploitable bugs, so teams spend their limited fix time on what actually matters.
+>
+> The rest of software needs to start thinking the same way.
+
+
+### Post — @immunefi — 2026-11-25 18:30 UTC
+
+- URL: https://x.com/immunefi/status/2125658301077880929
+- Metrics (at fetch): bookmark 16, impression 4215, like 62, quote 1, reply 4, retweet 6
+- Media: 1 photo (https://pbs.twimg.com/media/HX_a9cUaUAAMuCX.jpg)
+
+> $125,000 just got unlocked in the @base Everest Audit Competition 🔥
+>
+> Researchers have found two unique Highs, and the pool has jumped to $125K.
+>
+> The other $125,000 is still on the table, and nobody has claimed it.
+>
+> One Critical is all it takes to unlock the full $250K pool!
+>
+> 20 unique findings so far:
+>
+> ✦ 2 High
+> ✦ 9 Medium
+> ✦ 8 Low
+> ✦ 1 Insight
+>
+> That's 0 Criticals across 135K+ lines of Rust and Solidity.
+>
+> Less than 6 days left. Will you be the one to find it?
+> https://immunefi.com/audit-competition/audit-comp-base-everest/information/
+
+
+### Post — @immunefi — 2026-11-25 17:15 UTC
+
+- URL: https://x.com/immunefi/status/2125639417796948184
+- Metrics (at fetch): bookmark 4, impression 2689, like 50, quote 2, reply 4, retweet 3
+- Media: 1 photo (https://pbs.twimg.com/media/HX_JyTkbwAA9JLD.jpg)
+
+> The @plether_fi audit competition results drop tomorrow!
+>
+> Stay tuned 🚀
+

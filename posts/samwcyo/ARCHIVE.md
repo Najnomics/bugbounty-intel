@@ -1,9 +1,9 @@
 # @samwcyo — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 210
-- Conversations/threads: 194
+- Posts in this file: 215
+- Conversations/threads: 199
 - Oldest post captured: 2017-02-12
 - Newest post captured: 2026-11-24
 
@@ -3087,7 +3087,7 @@ Tags (automatic): XSS
 ### Post — @samwcyo — 2018-01-09 02:17 UTC (2018-01-09 03:17 WAT)
 
 - URL: https://x.com/samwcyo/status/950552099716239360
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 13, quote 0, reply 2, retweet 0
 
 > Nice try, hackers! XSS is impossible on eBay and Amazon. 🕵️‍♂️ [pic.x.com/0xOTIJy27E]
 
@@ -3106,7 +3106,7 @@ Tags (automatic): Memory corruption / native
 ### Post — @samwcyo — 2018-01-01 18:11 UTC (2018-01-01 19:11 WAT)
 
 - URL: https://x.com/samwcyo/status/947893064718278658
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 11, quote 0, reply 0, retweet 2
 
 > One of the best resources for anyone interested in bug bounty. https://x.com/EdOverflow/status/947878330753257472
 
@@ -3117,7 +3117,7 @@ Tags (automatic): Memory corruption / native
     #### Quoted post — @789158876176379904 — 2018-01-01 17:12 UTC (2018-01-01 18:12 WAT)
     
     - URL: https://x.com/789158876176379904/status/947878330753257472
-    - Metrics (at fetch): not returned
+    - Metrics (at fetch): bookmark 1, impression 0, like 162, quote 5, reply 6, retweet 59
     
     > Happy New Year everyone! To start off 2018 here is a project that I have been working on for a little while: Bug Bounty Guide, a launchpad for bug bounty programs and bug bounty hunters. https://bugbountyguide.com/
     
@@ -3133,9 +3133,26 @@ Tags (automatic): Memory corruption / native
 ### Post — @samwcyo — 2017-12-22 04:09 UTC (2017-12-22 05:09 WAT)
 
 - URL: https://x.com/samwcyo/status/944057275743899648
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 2, impression 0, like 40, quote 0, reply 0, retweet 13
 
 > Bug Bounty tip: always check headers in external requests by the server. Sometimes they'll have cool stuff... like an authorization bearer 😊
+
+
+---
+
+## 2017-12-19 · Post · Yet another awesome way to leverage SSRF!
+
+
+Tags (automatic): SSRF
+
+
+### Post — @samwcyo — 2017-12-19 01:14 UTC (2017-12-19 02:14 WAT)
+
+- URL: https://x.com/samwcyo/status/942925963758788609
+- Metrics (at fetch): bookmark 0, impression 0, like 64, quote 0, reply 0, retweet 26
+
+> Yet another awesome way to leverage SSRF!
+> https://t.co/MA6UaFxkb8
 
 
 ---
@@ -3149,7 +3166,7 @@ Tags (automatic): Platform: Bugcrowd
 ### Post — @samwcyo — 2017-12-14 21:16 UTC (2017-12-14 22:16 WAT)
 
 - URL: https://x.com/samwcyo/status/941416604532953089
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 29, quote 0, reply 0, retweet 0
 
 > &gt; accidentally find a vulnerability in a website I use
 > &gt; check for security@ email
@@ -3174,7 +3191,7 @@ Tags (automatic): SQL injection
 ### Post — @samwcyo — 2017-10-24 04:09 UTC (2017-10-24 05:09 WAT)
 
 - URL: https://x.com/samwcyo/status/922676514818351104
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 1, quote 0, reply 1, retweet 0
 
 > Hackers: have you ever exploited SQL injection in a bug bounty program?
 
@@ -3190,7 +3207,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2017-09-20 16:59 UTC (2017-09-20 17:59 WAT)
 
 - URL: https://x.com/samwcyo/status/910549025434333184
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 23, quote 0, reply 0, retweet 0
 
 > Yay, I was awarded a $1,750 bounty on @Hacker0x01! https://hackerone.com/zlz #TogetherWeHitHarder
 
@@ -3205,7 +3222,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2017-09-14 21:52 UTC (2017-09-14 22:52 WAT)
 
 - URL: https://x.com/samwcyo/status/908448324016934912
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 3, retweet 0
 
 > Poll: what do you think of researchers publicly disclosing bounty earnings?
 
@@ -3221,7 +3238,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2017-09-11 21:48 UTC (2017-09-11 22:48 WAT)
 
 - URL: https://x.com/samwcyo/status/907360110808363008
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 0, retweet 0
 
 > Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://hackerone.com/zlz #TogetherWeHitHarder
 
@@ -3239,7 +3256,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2017-08-24 01:54 UTC (2017-08-24 02:54 WAT)
 
 - URL: https://x.com/samwcyo/status/900536835394293761
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 18, quote 0, reply 2, retweet 0
 
 > Yay, I was awarded a $1,250 bounty on @Hacker0x01! https://hackerone.com/zlz #TogetherWeHitHarder
 
@@ -3257,7 +3274,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2017-08-23 23:35 UTC (2017-08-24 00:35 WAT)
 
 - URL: https://x.com/samwcyo/status/900501795641868288
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 21, quote 0, reply 0, retweet 0
 
 > Yay, I was awarded a $3,000 bounty on @Hacker0x01! https://hackerone.com/zlz #TogetherWeHitHarder
 
@@ -3272,9 +3289,26 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2017-08-19 01:40 UTC (2017-08-19 02:40 WAT)
 
 - URL: https://x.com/samwcyo/status/898721212766887936
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 7, quote 0, reply 0, retweet 0
 
 > Just came back to an endpoint that I couldn't exploit a week ago and found a pretty decent vulnerability! Always revisit when unsure!
+
+
+---
+
+## 2017-08-09 · Post · Excellent slides from @orange_8361 concerning SSRF!
+
+
+Tags (automatic): SSRF
+
+
+### Post — @samwcyo — 2017-08-09 08:40 UTC (2017-08-09 09:40 WAT)
+
+- URL: https://x.com/samwcyo/status/895203141389561856
+- Metrics (at fetch): bookmark 0, impression 0, like 2, quote 0, reply 0, retweet 2
+
+> Excellent slides from @orange_8361 concerning SSRF!
+> https://t.co/Qx2P1qPnkm
 
 
 ---
@@ -3288,11 +3322,27 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2017-08-09 06:19 UTC (2017-08-09 07:19 WAT)
 
 - URL: https://x.com/samwcyo/status/895167685788565504
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 8, quote 0, reply 0, retweet 0
 
 > Yay, I was awarded a $600 and $500 bounty on @Hacker0x01! https://hackerone.com/zlz #TogetherWeHitHarder
 
 **Links in post:** https://hackerone.com/zlz
+
+
+---
+
+## 2017-08-02 · Post · When the payload is too strong... https://t.co/JQbbzFbvFY
+
+
+### Post — @samwcyo — 2017-08-02 01:37 UTC (2017-08-02 02:37 WAT)
+
+- URL: https://x.com/samwcyo/status/892559902396354564
+- Metrics (at fetch): bookmark 0, impression 0, like 12, quote 0, reply 0, retweet 0
+
+> When the payload is too strong... https://t.co/JQbbzFbvFY
+
+**Media:**
+- photo: https://pbs.twimg.com/media/DGMCcPAUAAE8cmi.jpg — no alt text provided by author
 
 
 ---
@@ -3306,7 +3356,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2017-07-06 23:50 UTC (2017-07-07 00:50 WAT)
 
 - URL: https://x.com/samwcyo/status/883110865519562753
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 23, quote 0, reply 1, retweet 0
 
 > Yay, I was awarded a $4,000 bounty on @Hacker0x01! https://hackerone.com/zlz #TogetherWeHitHarder (x2)
 
@@ -3324,7 +3374,7 @@ Tags (automatic): Account takeover, Platform: HackerOne
 ### Post — @samwcyo — 2017-06-25 20:48 UTC (2017-06-25 21:48 WAT)
 
 - URL: https://x.com/samwcyo/status/879078980615364609
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 55, quote 0, reply 2, retweet 34
 
 > Permanent account takeover on Yahoo’s Small Business platform
 > http://samcurry.net/permanent-account-takeover-on-yahoo-small-business/
@@ -3341,7 +3391,7 @@ Tags (automatic): Account takeover, Platform: HackerOne
 ### Post — @samwcyo — 2017-06-17 21:42 UTC (2017-06-17 22:42 WAT)
 
 - URL: https://x.com/samwcyo/status/876193347819495425
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 9, quote 0, reply 1, retweet 0
 
 > Just submitted another critical alongside @thedawgyg. We're seriously destroying this program.
 
@@ -3357,7 +3407,7 @@ Tags (automatic): Platform: HackerOne
 ### Post — @samwcyo — 2017-06-15 03:29 UTC (2017-06-15 04:29 WAT)
 
 - URL: https://x.com/samwcyo/status/875193421085978624
-- Metrics (at fetch): not returned
+- Metrics (at fetch): bookmark 0, impression 0, like 20, quote 0, reply 4, retweet 0
 
 > Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://hackerone.com/zlz #TogetherWeHitHarder
 
@@ -3424,7 +3474,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2017-06-02 · Post · @ngalongc I found a very similar bug on Yahoo's mail app using your 23 encoding trick. Thanks for t
+## 2017-06-02 · Reply · @ngalongc I found a very similar bug on Yahoo's mail app using your 23 encoding trick. Thanks for t
 
 
 ### Post — @samwcyo — 2017-06-02 17:32 UTC (2017-06-02 18:32 WAT)
@@ -3557,7 +3607,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2017-05-05 · Post · @spetr0x "Wow someone upvoted my bug! I guess I'm a decent hunter. Let's check who upv-- oh. Spetr0x
+## 2017-05-05 · Reply · @spetr0x "Wow someone upvoted my bug! I guess I'm a decent hunter. Let's check who upv-- oh. Spetr0x
 
 
 ### Post — @samwcyo — 2017-05-05 03:42 UTC (2017-05-05 04:42 WAT)
@@ -3598,6 +3648,22 @@ Tags (automatic): Platform: HackerOne
 - Metrics (at fetch): bookmark 0, impression 0, like 4, quote 0, reply 0, retweet 0
 
 > Yay, I was awarded a $1,000 bounty on @Hacker0x01! https://t.co/jVIHI6O6Ck #TogetherWeHitHarder
+
+
+---
+
+## 2017-04-22 · Reply · @seanmeals Did you ever report SSRF to Yahoo? If so, what was your payment?
+
+
+Tags (automatic): SSRF
+
+
+### Post — @samwcyo — 2017-04-22 21:34 UTC (2017-04-22 22:34 WAT)
+
+- URL: https://x.com/samwcyo/status/855897648708153344
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 1, retweet 0
+
+> @seanmeals Did you ever report SSRF to Yahoo? If so, what was your payment?
 
 
 ---
@@ -3696,7 +3762,23 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2017-03-12 · Post · @codinghorror Hi Jeff. I'm seeking to contact you with regards to bug report 194876 on HackerOne. I 
+## 2017-04-09 · Reply · @seanmeals Is a page vulnerable to cross-site scripting if it responds 301 but embeds your payload w
+
+
+Tags (automatic): XSS
+
+
+### Post — @samwcyo — 2017-04-09 08:00 UTC (2017-04-09 09:00 WAT)
+
+- URL: https://x.com/samwcyo/status/850981670819946501
+- Metrics (at fetch): bookmark 0, impression 0, like 0, quote 0, reply 0, retweet 0
+
+> @seanmeals Is a page vulnerable to cross-site scripting if it responds 301 but embeds your payload within the content body?
+
+
+---
+
+## 2017-03-12 · Reply · @codinghorror Hi Jeff. I'm seeking to contact you with regards to bug report 194876 on HackerOne. I 
 
 
 Tags (automatic): Platform: HackerOne
@@ -3744,7 +3826,7 @@ Tags (automatic): Platform: HackerOne
 
 ---
 
-## 2017-02-12 · Post · @martenmickos Hey Marten! I got a notification that HackerOne would be sending me some swag. Just cu
+## 2017-02-12 · Reply · @martenmickos Hey Marten! I got a notification that HackerOne would be sending me some swag. Just cu
 
 
 Tags (automatic): Platform: HackerOne

@@ -1,6 +1,6 @@
 # @zksecurityXYZ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-25 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 460
 - Conversations/threads: 381
@@ -8922,3 +8922,21 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 0, impression 308, like 10, quote 0, reply 1, retweet 0
 
 > hello world
+
+### Post — @zksecurityXYZ — 2026-11-25 16:35 UTC
+
+- URL: https://x.com/zksecurityXYZ/status/2125629516282274272
+- Metrics (at fetch): bookmark 1, impression 815, like 13, quote 0, reply 2, retweet 1
+
+> happy to partner with @lucidcomputing on inference proofs! https://x.com/AbdelStark/status/2125621384433009028
+
+> **@AbdelStark — 2026-11-25 16:03 UTC** (https://x.com/AbdelStark/status/2125621384433009028)
+>
+> We benchmark everything AI can do.
+>
+> Nobody benchmarks whether we can verify what it actually ran.
+>
+> So we built InferenceProofs.
+>
+> (video, 74s: https://video.twimg.com/amplify_video/2125621150877184000/vid/avc1/1280x720/RGkcHTZJq8UTksRB.mp4 — not transcribed)
+

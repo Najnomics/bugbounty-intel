@@ -1,4 +1,4 @@
-# HackerOne disclosed reports by weakness (12783 reports)
+# HackerOne disclosed reports by weakness (12794 reports)
 
 
 ## Unspecified (1280)
@@ -1284,7 +1284,7 @@
 - [3460138](reports/2026/3460138.md) Open Email Relay on WordPress Gutenberg Plugin via formAction parameter leads to phishing and spam campaigns — wordpress — - —  — 
 - [4227402](reports/2026/4227402.md) Multiple Vulnerabilities in curl/libcurl URL Parser (RFC3986 Compliance Issues) — curl — critical —  — 
 
-## Information Disclosure (1195)
+## Information Disclosure (1196)
 
 - [231460](reports/2017/231460.md) Open prod Jenkins instance — snapchat — high — $15,000 — Information Disclosure
 - [911606](reports/2021/911606.md) Leaked JFrog Artifactory  username and password exposed on GitHub - https://snapchat.jfrog.io — snapchat — high — $15,000 — Information Disclosure
@@ -2481,6 +2481,7 @@
 - [4117330](reports/2026/4117330.md) Anonymous Translation Suggestion IP Address Exposure Through Change API — weblate — low —  — Information Disclosure
 - [4218369](reports/2026/4218369.md) Cross-IP Cookie Disclosure via Empty Custom Host Header Truncation — curl — medium —  — Information Disclosure
 - [4172841](reports/2026/4172841.md) Sensitive Access Tokens Logged in Server Log Files — ibm — high —  — Information Disclosure
+- [4206093](reports/2026/4206093.md) Cross-agency advertiser and website name disclosure in XLS reports — revive_adserver — medium —  — Information Disclosure
 
 ## Cross-site Scripting (XSS) - Generic (744)
 
@@ -3948,7 +3949,7 @@
 - [3665151](reports/2026/3665151.md) Brave Shields Domain Reordering Leads to Origin Confusion — brave — low —  — Violation of Secure Design Principles
 - [3829030](reports/2026/3829030.md) Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption — yelp — low —  — Violation of Secure Design Principles
 
-## Improper Access Control - Generic (710)
+## Improper Access Control - Generic (712)
 
 - [2293343](reports/2025/2293343.md) Account Takeover via Password Reset without user interactions — gitlab — critical — $35,000 — Improper Access Control - Generic
 - [1685822](reports/2022/1685822.md) RepositoryPipeline allows importing of local git repos — gitlab — medium — $22,300 — Improper Access Control - Generic
@@ -4660,6 +4661,8 @@
 - [4119675](reports/2026/4119675.md) Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creating site-wide Language rows without language.add — weblate — medium —  — Improper Access Control - Generic
 - [3892948](reports/2026/3892948.md) Broken access control: any member can self-assign arbitrary BuddyPress member types via the ungated "types" REST parameter, bypassing the bp_moderate  — wordpress — medium —  — Improper Access Control - Generic
 - [4118627](reports/2026/4118627.md) weblate.org: a removed customer owner regains ownership with one GET to /fosdem/donate/, even after token rotation, and can lock out the other owners — weblate — medium —  — Improper Access Control - Generic
+- [4215622](reports/2026/4215622.md) Unauthenticated cross-tracker variable injection can suppress conversions — revive_adserver — medium —  — Improper Access Control - Generic
+- [4211442](reports/2026/4211442.md) Cross-advertiser tracker association exposes tracker metadata — revive_adserver — medium —  — Improper Access Control - Generic
 
 ## Improper Authentication - Generic (675)
 
@@ -5339,7 +5342,7 @@
 - [4180338](reports/2026/4180338.md) Unauthenticated API Writes  to Full IBM Software Access — ibm — critical —  — Improper Authentication - Generic
 - [3883702](reports/2026/3883702.md) DNS Rebinding Enables Unauthorized MCP Tool Access — ibm — critical —  — Improper Authentication - Generic
 
-## Cross-site Scripting (XSS) - Reflected (523)
+## Cross-site Scripting (XSS) - Reflected (525)
 
 - [1549206](reports/2022/1549206.md) Reflected xss in https://sh.reddit.com — reddit — high — $5,000 — Cross-site Scripting (XSS) - Reflected
 - [2352968](reports/2024/2352968.md) Reflected XSS on Pangle Endpoint  — tiktok — high — $5,000 — Cross-site Scripting (XSS) - Reflected
@@ -5864,6 +5867,8 @@
 - [3971985](reports/2026/3971985.md) Reflected XSS in popup invocation options — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
 - [3878649](reports/2026/3878649.md) Reflected XSS via wrong permission check in conversion statistics — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
 - [3942028](reports/2026/3942028.md) Reflected XSS via invocation banner ID field in admin-generate.php — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [4235206](reports/2026/4235206.md) Reflected XSS through the ct0 delivery parameter — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
+- [4195061](reports/2026/4195061.md) Reflected XSS through delivery macro re-injection — revive_adserver — medium —  — Cross-site Scripting (XSS) - Reflected
 
 ## Uncontrolled Resource Consumption (511)
 
@@ -8333,7 +8338,7 @@
 - [1813453](reports/2025/1813453.md) [MK8DX] Improper ranking/replay file parsing — nintendo — critical —  — Memory Corruption - Generic
 - [3871977](reports/2026/3871977.md) Connector/ODBC: malicious server's long version string wraps size_t PrefixLen via negative _snprintf return, causing heap out-of-bounds write — mariadb — medium —  — Memory Corruption - Generic
 
-## Code Injection (300)
+## Code Injection (301)
 
 - [925585](reports/2021/925585.md) RCE via npm misconfig -- installing internal libraries from the public registry — paypal — critical — $30,000 — Code Injection
 - [1125425](reports/2021/1125425.md) RCE via unsafe inline Kramdown options when rendering certain Wiki pages — gitlab — critical — $20,000 — Code Injection
@@ -8635,8 +8640,9 @@
 - [3923967](reports/2026/3923967.md) WordPress 7.1 Media Processing Race Enables Persistent PHP File Write and Author-to-RCE — wordpress — high —  — Code Injection
 - [3772818](reports/2026/3772818.md) Code injection allows unprivileged local attacker to execute arbitrary code in Nextcloud's OAuth/web renderer process — nextcloud — low —  — Code Injection
 - [3859000](reports/2026/3859000.md) Formula injection in conversion tracking report export — revive_adserver — medium —  — Code Injection
+- [4193662](reports/2026/4193662.md) Formula injection via entity names in XLS reports — revive_adserver — medium —  — Code Injection
 
-## Insecure Direct Object Reference (IDOR) (293)
+## Insecure Direct Object Reference (IDOR) (294)
 
 - [767770](reports/2022/767770.md) Private objects exposed through project import — gitlab — critical — $20,000 — Insecure Direct Object Reference (IDOR)
 - [743953](reports/2022/743953.md) Steal private objects of other projects via project import — gitlab — critical — $20,000 — Insecure Direct Object Reference (IDOR)
@@ -8931,6 +8937,7 @@
 - [3883840](reports/2026/3883840.md) Cross-agency disclosure in website listing — revive_adserver — medium —  — Insecure Direct Object Reference (IDOR)
 - [3929216](reports/2026/3929216.md) Cross-agency delivery rule set creation — revive_adserver — medium —  — Insecure Direct Object Reference (IDOR)
 - [4191937](reports/2026/4191937.md) IDOR: private ████████ post comments can be read and written by any authenticated user — essity — high —  — Insecure Direct Object Reference (IDOR)
+- [4204516](reports/2026/4204516.md) Cross-agency campaign and banner name disclosure in zone linking — revive_adserver — medium —  — Insecure Direct Object Reference (IDOR)
 
 ## Open Redirect (273)
 
@@ -9445,6 +9452,243 @@
 - [3623149](reports/2026/3623149.md) SSRF via User-Controlled Push proxyServer in Notifications Push Registration — nextcloud — medium —  — Server-Side Request Forgery (SSRF)
 - [4129950](reports/2026/4129950.md) IDN decoding inserts authority delimiters and can redirect proxy CONNECT to a different host — curl — high —  — Server-Side Request Forgery (SSRF)
 
+## SQL Injection (234)
+
+- [383127](reports/2018/383127.md) SQL Injection in report_xml.php through countryFilter[] parameter — valve — critical — $25,000 — SQL Injection
+- [273946](reports/2017/273946.md) www.drivegrab.com SQL injection — grab — high — $4,500 — SQL Injection
+- [403616](reports/2018/403616.md) [www.zomato.com] SQLi - /php/██████████ - item_id — eternal — critical — $4,500 — SQL Injection
+- [150156](reports/2016/150156.md) SQL Injection on sctrack.email.uber.com.cn — uber — - — $4,000 — SQL Injection
+- [125932](reports/2016/125932.md) SQL injection in Wordpress Plugin Huge IT Video Gallery at https://drive.uber.com/frmarketplace/ — uber — - — $3,000 — SQL Injection
+- [206872](reports/2017/206872.md) SQL injection in 3rd party software Anomali — uber — high — $2,500 — SQL Injection
+- [476150](reports/2021/476150.md) SQLI on desafio5estrelas.com  — uber — medium — $2,500 — SQL Injection
+- [298176](reports/2018/298176.md) SQL injection in MilestoneFinder order method — gitlab — critical — $2,000 — SQL Injection
+- [952501](reports/2020/952501.md) Solr Injection in `user_id` parameter at :/v2/leaderboard_v2.json — eternal — critical — $2,000 — SQL Injection
+- [838855](reports/2020/838855.md) [www.zomato.com] Blind SQL Injection in /php/geto2banner — eternal — critical — $2,000 — SQL Injection
+- [836079](reports/2020/836079.md) [www.zomato.com] Blind SQL Injection in /php/widgets_handler.php — eternal — critical — $2,000 — SQL Injection
+- [361623](reports/2021/361623.md) SQLI on uberpartner.eu leads to exposure of sensitive user data of Uber partners — uber — high — $1,500 — SQL Injection
+- [258582](reports/2017/258582.md) [www.zomato.com] Union SQLi + Waf Bypass — eternal — - — $1,000 — SQL Injection
+- [300176](reports/2018/300176.md) [https://reviews.zomato.com] Time Based SQL Injection — eternal — critical — $1,000 — SQL Injection
+- [297534](reports/2018/297534.md) [www.zomato.com] Boolean SQLi - /█████.php — eternal — - — $1,000 — SQL Injection
+- [301257](reports/2018/301257.md) [www.zomato.com] Boolean SQLi - /███████.php — eternal — - — $1,000 — SQL Injection
+- [358669](reports/2018/358669.md) [www.zomato.com] SQLi on `order_id` parameter — eternal — critical — $1,000 — SQL Injection
+- [3078856](reports/2025/3078856.md) Apache Airflow Sql injection by authenticated user — ibb — low — $505 — SQL Injection
+- [1650264](reports/2023/1650264.md) GitHub Security Lab (GHSL) Vulnerability Report: SQLInjection in FileContentProvider.kt (GHSL-2022-059) — owncloud — medium — $300 — SQL Injection
+- [923020](reports/2021/923020.md) SQL injection on admin.acronis.host development web service — acronis — high — $250 — SQL Injection
+- [291764](reports/2019/291764.md) SQL Injection found in NextCloud Android App Content Provider — nextcloud — low — $150 — SQL Injection
+- [518669](reports/2019/518669.md) SQLi allow query restriction bypass on exposed FileContentProvider — nextcloud — low — $100 — SQL Injection
+- [844428](reports/2020/844428.md) [www.zomato.com] Abusing LocalParams (city) to Inject SOLR query — eternal — low — $100 — SQL Injection
+- [1216085](reports/2021/1216085.md) ccc ctf  — h1-ctf — critical — $100 — SQL Injection
+- [17227](reports/2014/17227.md) SQL injection, time zoom script, tile ID — uzbey — - —  — SQL Injection
+- [23014](reports/2014/23014.md) SQL Injection — uzbey — - —  — SQL Injection
+- [31756](reports/2015/31756.md) Drupal 7 pre auth sql injection and remote code execution — ibb — - —  — SQL Injection
+- [59664](reports/2015/59664.md) SQL Injection Vulnerability in Concrete5 version 5.7.3.1 — concretecms — - —  — SQL Injection
+- [81701](reports/2016/81701.md) Possible SQL injection on "Jump to twitter" — gratipay — low —  — SQL Injection
+- [117073](reports/2016/117073.md) [informatica.com] Blind SQL Injection — informatica — critical —  — SQL Injection
+- [125181](reports/2016/125181.md) SQLi in love.uber.com — uber — - —  — SQL Injection
+- [38778](reports/2016/38778.md) SQL injection in conc/index.php/ccm/system/search/users/submit — concretecms — - —  — SQL Injection
+- [115304](reports/2016/115304.md) Blind SQL INJ — paragonie — - —  — SQL Injection
+- [144359](reports/2016/144359.md) Time Based SQL injection in url parameter — websummit — - —  — SQL Injection
+- [135288](reports/2016/135288.md) Multiple vulnerabilities in a WordPress plugin at drive.uber.com — uber — - —  — SQL Injection
+- [109395](reports/2016/109395.md) gmmovinparts.com SQLi via forgot_password.jsp — gm — - —  — SQL Injection
+- [116764](reports/2016/116764.md) vk.com/login.php  — vkcom — - —  — SQL Injection
+- [178057](reports/2017/178057.md) [ipm.informatica.com] Sql injection Oracle  — informatica — critical —  — SQL Injection
+- [178632](reports/2017/178632.md) [afocusp.informatica.com] Sql injection  afocusp.informatica.com:37777 — informatica — critical —  — SQL Injection
+- [189332](reports/2017/189332.md) SQL injection vulnerability on a DoD website — deptofdefense — medium —  — SQL Injection
+- [198292](reports/2017/198292.md) Time-based Blind SQLi on news.starbucks.com — starbucks — high —  — SQL Injection
+- [200623](reports/2017/200623.md) SQL injection vulnerability on a DoD website — deptofdefense — high —  — SQL Injection
+- [207695](reports/2017/207695.md) sqli — ui — critical —  — SQL Injection
+- [221757](reports/2017/221757.md) Blind SQL Injection — ok — critical —  — SQL Injection
+- [193436](reports/2017/193436.md) SQL injection vulnerability on a DoD website — deptofdefense — medium —  — SQL Injection
+- [193936](reports/2017/193936.md) SQL injection vulnerability on a DoD website — deptofdefense — high —  — SQL Injection
+- [196300](reports/2017/196300.md) Blind SQLi in a DoD Website — deptofdefense — medium —  — SQL Injection
+- [188929](reports/2017/188929.md) Time Based SQL Injection vulnerability on a DoD website — deptofdefense — medium —  — SQL Injection
+- [189069](reports/2017/189069.md) SQL injection vulnerability on a DoD website — deptofdefense — medium —  — SQL Injection
+- [192079](reports/2017/192079.md) SQL Injection vulnerability in a DoD website — deptofdefense — high —  — SQL Injection
+- [192110](reports/2017/192110.md) SQL Injection vulnerability in a DoD website — deptofdefense — high —  — SQL Injection
+- [195051](reports/2017/195051.md) SQL injection vulnerability in a DoD website — deptofdefense — medium —  — SQL Injection
+- [202619](reports/2017/202619.md) SQL injection vulnerability on a DoD website — deptofdefense — medium —  — SQL Injection
+- [201512](reports/2017/201512.md) SQL Injection vulnerability in a DoD website — deptofdefense — medium —  — SQL Injection
+- [216699](reports/2017/216699.md) SQL Injection vulnerability in a DoD website — deptofdefense — high —  — SQL Injection
+- [189851](reports/2017/189851.md) Time Based SQL Injection vulnerability on a DoD website — deptofdefense — medium —  — SQL Injection
+- [248037](reports/2017/248037.md) SQL TEST — gratipay — none —  — SQL Injection
+- [246412](reports/2017/246412.md) SQL Injection, exploitable in boolean mode — eternal — critical —  — SQL Injection
+- [226211](reports/2017/226211.md) SQL Injection vulnerability in a DoD website — deptofdefense — medium —  — SQL Injection
+- [197754](reports/2017/197754.md) SQL Injection vulnerability in a DoD website — deptofdefense — medium —  — SQL Injection
+- [227587](reports/2017/227587.md) SQL Injection vulnerability in a DoD website — deptofdefense — medium —  — SQL Injection
+- [211988](reports/2017/211988.md) sql injection vulnerablity found — legalrobot — none —  — SQL Injection
+- [179920](reports/2017/179920.md) WordPress DB Class, bad implementation of prepare method guides to sqli and information disclosure — wordpress — critical —  — SQL Injection
+- [269279](reports/2018/269279.md) SQL injection in partner id field on https://www.teavana.com (Sign-up form) — starbucks — medium —  — SQL Injection
+- [319279](reports/2018/319279.md) [critical] sql injection by GET method — khanacademy — high —  — SQL Injection
+- [311922](reports/2018/311922.md)  SQL injection  — deptofdefense — high —  — SQL Injection
+- [319465](reports/2018/319465.md) `sql` does not properly escape parameters when building SQL queries, resulting in potential SQLi — nodejs-ecosystem — medium —  — SQL Injection
+- [311244](reports/2018/311244.md) [query-mysql] SQL Injection due to lack of user input sanitization allows to run arbitrary SQL queries when fetching data from database — nodejs-ecosystem — critical —  — SQL Injection
+- [310280](reports/2018/310280.md) [Informational] Possible SQL Injection in inc/ajax-actions-frontend.php — mapsmarker_com_e_u — medium —  — SQL Injection
+- [397445](reports/2018/397445.md) [express-cart] Customer and admin email enumeration through MongoDB injection — nodejs-ecosystem — high —  — SQL Injection
+- [374748](reports/2018/374748.md) SQL injection in Serendipity (serendipity_fetchComments) — hannob — high —  — SQL Injection
+- [374027](reports/2018/374027.md) blind sql injection — hannob — high —  — SQL Injection
+- [435066](reports/2018/435066.md) SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter — security — critical —  — SQL Injection
+- [360539](reports/2019/360539.md) SQL Injection Proof of Concept for Starbucks URL — starbucks — high —  — SQL Injection
+- [390359](reports/2019/390359.md) SOAP WSDL Parser SQL Code Execution — deptofdefense — critical —  — SQL Injection
+- [297478](reports/2019/297478.md) SQL injection in https://labs.data.gov/dashboard/datagov/csv_to_json via User-agent  — gsa_bbp — critical —  — SQL Injection
+- [506654](reports/2019/506654.md) [typeorm] SQL Injection — nodejs-ecosystem — high —  — SQL Injection
+- [319458](reports/2019/319458.md) typeorm does not properly escape parameters when building SQL queries, resulting in potential SQLi — nodejs-ecosystem — medium —  — SQL Injection
+- [507222](reports/2019/507222.md) [untitled-model] sql injection — nodejs-ecosystem — high —  — SQL Injection
+- [549355](reports/2019/549355.md) Blind SQL Injection on starbucks.com.gt and WAF Bypass  :* — starbucks — high —  — SQL Injection
+- [508487](reports/2019/508487.md) Arbitrary SQL command injection — nextcloud — critical —  — SQL Injection
+- [592400](reports/2019/592400.md) Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice — starbucks — critical —  — SQL Injection
+- [531051](reports/2019/531051.md) SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database — starbucks — critical —  — SQL Injection
+- [384397](reports/2019/384397.md) SQL Injection vulnerability located at ████████ — deptofdefense — high —  — SQL Injection
+- [519631](reports/2019/519631.md) SQL Injection in ████ — deptofdefense — high —  — SQL Injection
+- [419017](reports/2019/419017.md) SQL Injection in ████ — deptofdefense — high —  — SQL Injection
+- [665688](reports/2019/665688.md) Дайте swag — vkcom — none —  — SQL Injection
+- [489483](reports/2019/489483.md) SQL Injection in the get_publications.php on the https://█████ — deptofdefense — high —  — SQL Injection
+- [488795](reports/2019/488795.md) SQL injection on the https://████/ — deptofdefense — high —  — SQL Injection
+- [272506](reports/2019/272506.md)  SQL injections — deptofdefense — high —  — SQL Injection
+- [390879](reports/2019/390879.md) SQL Injection on www.██████████ on countID parameter — deptofdefense — high —  — SQL Injection
+- [381771](reports/2019/381771.md) ████████ SQL — deptofdefense — high —  — SQL Injection
+- [381758](reports/2019/381758.md) sql injection on  /messagecenter/messagingcenter at https://www.███████/ — deptofdefense — high —  — SQL Injection
+- [348047](reports/2019/348047.md) Code reversion allowing SQLI again in ███████ — deptofdefense — high —  — SQL Injection
+- [313037](reports/2019/313037.md) Blind SQL injection on ████████ — deptofdefense — high —  — SQL Injection
+- [310031](reports/2019/310031.md) SQL injection on █████ due to tech.cfm  — deptofdefense — high —  — SQL Injection
+- [577612](reports/2019/577612.md) MSSQL injection via param Customwho in https://█████/News/Transcripts/Search/Sort/ and WAF bypass — deptofdefense — high —  — SQL Injection
+- [433792](reports/2019/433792.md) Blind SQL injection in third-party software, that allows to reveal user statistic from rocket.chat and possibly hack into the rocketchat.agilecrm.com — rocket_chat — - —  — SQL Injection
+- [197755](reports/2019/197755.md) SQL injection found in US Navy Website (http://███/) — deptofdefense — medium —  — SQL Injection
+- [214798](reports/2019/214798.md) SQL injection on https://███████ — deptofdefense — medium —  — SQL Injection
+- [227102](reports/2019/227102.md) Two Error-Based SQLi in courses.aspx on ██████████ — deptofdefense — medium —  — SQL Injection
+- [242882](reports/2019/242882.md) Blind SQL Injection on DoD Site — deptofdefense — medium —  — SQL Injection
+- [484801](reports/2019/484801.md) [███]  SQL injection & Reflected XSS — deptofdefense — medium —  — SQL Injection
+- [648346](reports/2019/648346.md) [████████] Boolean SQL Injection (/personnel.php?content=profile&rcnum=*) — deptofdefense — medium —  — SQL Injection
+- [761382](reports/2020/761382.md) stripo blog search  SQL Injection — stripo — medium —  — SQL Injection
+- [506644](reports/2020/506644.md) [@azhou/basemodel] SQL injection — nodejs-ecosystem — high —  — SQL Injection
+- [508346](reports/2020/508346.md) [increments] sql injection — nodejs-ecosystem — high —  — SQL Injection
+- [761304](reports/2020/761304.md)  SQL Injection on cookie parameter — mtn_group — high —  — SQL Injection
+- [447742](reports/2020/447742.md) SQL Injection in Login Page: https://█████/█████████/login.php — deptofdefense — high —  — SQL Injection
+- [674838](reports/2020/674838.md) SQL Injection - https://███/█████████/MSI.portal — deptofdefense — medium —  — SQL Injection
+- [692326](reports/2020/692326.md) Followup - SQL Injection - https://██████████/██████/MSI.portal — deptofdefense — high —  — SQL Injection
+- [722145](reports/2020/722145.md) [CRITICAL] Sql Injection on http://axa.dxi.eu — 8x8-bounty — critical —  — SQL Injection
+- [808832](reports/2020/808832.md) Information Disclosure in https://www.rockstargames.com/search — rockstargames — low —  — SQL Injection
+- [491191](reports/2020/491191.md) SQL Injection in the `move_papers.php` on the https://██████████ — deptofdefense — high —  — SQL Injection
+- [869574](reports/2020/869574.md) SQL Injection or Denial of Service due to a Prototype Pollution — nodejs-ecosystem — critical —  — SQL Injection
+- [922567](reports/2020/922567.md) SQL injection (stacked queries) in the export to Excel functionality on Vidyo Server — 8x8-bounty — high —  — SQL Injection
+- [876800](reports/2020/876800.md) Time-base SQL Injection in Search Users — concretecms — medium —  — SQL Injection
+- [982202](reports/2020/982202.md) SQLi in login form of █████ — deptofdefense — critical —  — SQL Injection
+- [995122](reports/2020/995122.md) [SQLI ]Time  Bassed Injection at ██████████ via referer header — deptofdefense — high —  — SQL Injection
+- [1018621](reports/2020/1018621.md) [████] SQL Injections on Referer Header exploitable via Time-Based method — deptofdefense — high —  — SQL Injection
+- [1034625](reports/2020/1034625.md) Blind SQL injection at tsftp.informatica.com — informatica — critical —  — SQL Injection
+- [1024984](reports/2020/1024984.md) [SQLI ]Time Bassed Injection at ██████████ via /██████/library.php?c=G14 parameter — deptofdefense — high —  — SQL Injection
+- [1039315](reports/2020/1039315.md) Sql injection on docs.atavist.com — automattic — high —  — SQL Injection
+- [1044698](reports/2021/1044698.md) [intensedebate.com] SQL Injection Time Based On /js/commentAction/ — automattic — critical —  — SQL Injection
+- [1042746](reports/2021/1042746.md) [intensedebate.com] SQL Injection Time Based on /changeReplaceOpt.php — automattic — critical —  — SQL Injection
+- [1069561](reports/2021/1069561.md) SQL Injection  intensedebate.com — automattic — medium —  — SQL Injection
+- [1069263](reports/2021/1069263.md) First CTF ever! — h1-ctf — critical —  — SQL Injection
+- [1015406](reports/2021/1015406.md) SQL Injection in www.██████████ — deptofdefense — high —  — SQL Injection
+- [1066233](reports/2021/1066233.md) CTF Writeup — h1-ctf — critical —  — SQL Injection
+- [983710](reports/2021/983710.md) SQL injection when configuring a database  — impresscms — low —  — SQL Injection
+- [1067037](reports/2021/1067037.md) Taking Grinch Down To Save Holidays — h1-ctf — critical —  — SQL Injection
+- [1107536](reports/2021/1107536.md) Blind Based SQL Injection in 3d.sc.money — cs_money — - —  — SQL Injection
+- [1102591](reports/2021/1102591.md) Blind SQL iNJECTION  — deptofdefense — medium —  — SQL Injection
+- [1109311](reports/2021/1109311.md) SQL injection in  https://www.acronis.cz/ via the log parameter — acronis — medium —  — SQL Injection
+- [1216408](reports/2021/1216408.md) H1-CTF 100k Solution - Congratz on the 100k Rep todayisnew — h1-ctf — critical —  — SQL Injection
+- [1215919](reports/2021/1215919.md) ccc.h1ctf.com CTF — h1-ctf — critical —  — SQL Injection
+- [1216591](reports/2021/1216591.md) 100K CTF's Writeup — h1-ctf — critical —  — SQL Injection
+- [1278928](reports/2021/1278928.md) blind sql on  [ https://argocd.upchieve.org/login?return_url=id= ] — upchieve — critical —  — SQL Injection
+- [865436](reports/2021/865436.md) SQL Injection on the administrator panel — mtn_group — critical —  — SQL Injection
+- [954667](reports/2021/954667.md) SQLi on █████████ — deptofdefense — high —  — SQL Injection
+- [1069531](reports/2021/1069531.md) Blind SQL Injection  — mtn_group — critical —  — SQL Injection
+- [962889](reports/2021/962889.md) SQL Injection in agent-manager — acronis — high —  — SQL Injection
+- [925007](reports/2021/925007.md) blind sql on [selfcare.mtn.com.af] — mtn_group — medium —  — SQL Injection
+- [924855](reports/2021/924855.md) SQL injection [futexpert.mtngbissau.com] — mtn_group — high —  — SQL Injection
+- [1262757](reports/2021/1262757.md) SQL injection located in `███` in POST param `████████`  — deptofdefense — high —  — SQL Injection
+- [1224660](reports/2021/1224660.md) bypass sql injection #1109311 — acronis — medium —  — SQL Injection
+- [1355817](reports/2021/1355817.md) SQL Injection in IBM access control panel & Broken access in admin panel — ibm — critical —  — SQL Injection
+- [1002641](reports/2021/1002641.md) SQL Injection leads to retrieve the contents of an entire database.  — makerdao_bbp — critical —  — SQL Injection
+- [703819](reports/2022/703819.md) SQL Injection and plaintext passwords via User Search — ibm — high —  — SQL Injection
+- [1434017](reports/2022/1434017.md) Saving Christmas from Grinchy Gods — h1-ctf — critical —  — SQL Injection
+- [968240](reports/2022/968240.md) SQL injection at /admin.php?/cp/members/create — expressionengine — medium —  — SQL Injection
+- [1525200](reports/2022/1525200.md) SQL Injection at https://files.palantir.com/ due to CVE-2021-38159 — palantir_public — high —  — SQL Injection
+- [1489744](reports/2022/1489744.md) SQL Injection in █████ — deptofdefense — critical —  — SQL Injection
+- [1125752](reports/2022/1125752.md) SQL Injection on https://soa-accp.glbx.tva.gov/ via "/api/" path - VI-21-015 — tennessee-valley-authority — critical —  — SQL Injection
+- [723044](reports/2022/723044.md) SQL INJECTION  in https://████/██████████  — deptofdefense — medium —  — SQL Injection
+- [771215](reports/2022/771215.md) Blind SQL Injection — deptofdefense — medium —  — SQL Injection
+- [1527284](reports/2022/1527284.md) SQL injection in URL path processing on www.ibm.com — ibm — critical —  — SQL Injection
+- [1390331](reports/2022/1390331.md) SQL injextion via vulnerable doctrine/dbal version — nextcloud — high —  — SQL Injection
+- [277380](reports/2022/277380.md) SQL Injection on █████ — deptofdefense — high —  — SQL Injection
+- [232378](reports/2022/232378.md) SQL Injection on https://████████/ — deptofdefense — high —  — SQL Injection
+- [1567516](reports/2022/1567516.md) sql injection via https://setup.p2p.ihost.com/ — ibm — critical —  — SQL Injection
+- [1663299](reports/2022/1663299.md) Ability to escape database transaction through SQL injection, leading to arbitrary code execution — security — high —  — SQL Injection
+- [1627995](reports/2022/1627995.md) SQL injection at [https://█████████] [HtUS] — deptofdefense — critical —  — SQL Injection
+- [1626198](reports/2022/1626198.md) SQL injection at [█████████] [HtUS] — deptofdefense — critical —  — SQL Injection
+- [1627970](reports/2022/1627970.md) time based SQL injection at [https://███] [HtUS] — deptofdefense — critical —  — SQL Injection
+- [1581059](reports/2022/1581059.md) Regex account takeover — rocket_chat — critical —  — SQL Injection
+- [1081145](reports/2022/1081145.md) SQL Injection through /include/findusers.php — impresscms — critical —  — SQL Injection
+- [1626226](reports/2022/1626226.md) Unauthenticated SQL Injection at █████████  [HtUS] — deptofdefense — critical —  — SQL Injection
+- [1213207](reports/2022/1213207.md) SQL Injection on [█████████] — sony — high —  — SQL Injection
+- [1628408](reports/2023/1628408.md) SQL Injection at https://████████.asp (█████████) [selMajcom] [HtUS] — deptofdefense — critical —  — SQL Injection
+- [1723896](reports/2023/1723896.md) Sql Injection At █████████ — deptofdefense — medium —  — SQL Injection
+- [1893800](reports/2023/1893800.md) SQL Injection in CVE Discovery Search  — security — high —  — SQL Injection
+- [1878584](reports/2023/1878584.md) Time Based SQL Injection — us-department-of-state — critical —  — SQL Injection
+- [1935151](reports/2023/1935151.md) SQL Injection at https://████ via ███ parameter — sony — critical —  — SQL Injection
+- [1757676](reports/2023/1757676.md) NoSQL injection in listEmojiCustom method call — rocket_chat — high —  — SQL Injection
+- [2020429](reports/2023/2020429.md) Blind Sql Injection https:/████████ — deptofdefense — medium —  — SQL Injection
+- [1506129](reports/2023/1506129.md) SQL Injection in version 1.4.3 and below — impresscms — high —  — SQL Injection
+- [2073717](reports/2023/2073717.md) SqlInject at ██████ — deptofdefense — medium —  — SQL Injection
+- [2072306](reports/2023/2072306.md) Blind Sql Injection in https://████████/ — deptofdefense — high —  — SQL Injection
+- [2081316](reports/2023/2081316.md) Blind Sql Injection in https://█████/qsSearch.aspx — deptofdefense — high —  — SQL Injection
+- [269347](reports/2023/269347.md) SQL Injection in parameter REPORT — torproject — medium —  — SQL Injection
+- [2256032](reports/2024/2256032.md) SQL injection at ███████ — sony — critical —  — SQL Injection
+- [2312334](reports/2024/2312334.md) Time based SQL injection at████████ — deptofdefense — high —  — SQL Injection
+- [2209130](reports/2024/2209130.md) SQL Injection on prod.oidc-proxy.prod.webservices.mozgcp.net via invite_code parameter - Mozilla social inscription — mozilla — critical —  — SQL Injection
+- [2266081](reports/2024/2266081.md) Blind SQL Injection on █████ via URI Path — mars — critical —  — SQL Injection
+- [2433970](reports/2024/2433970.md) SQL injection on ██████████ via 'where' parameter — deptofdefense — medium —  — SQL Injection
+- [2453475](reports/2024/2453475.md) Sqli on ██████ search functionality — mars — medium —  — SQL Injection
+- [2446550](reports/2024/2446550.md) sqli on █████████ search functionality — mars — medium —  — SQL Injection
+- [690349](reports/2024/690349.md) SQL injection in /errors/viewbuild/ — valve — critical —  — SQL Injection
+- [1436751](reports/2024/1436751.md) SQL injection in https://demor.adr.acronis.com/ via the username parameter — acronis — high —  — SQL Injection
+- [2597543](reports/2024/2597543.md) Blind Sql Injection in https://████ — deptofdefense — medium —  — SQL Injection
+- [2737595](reports/2024/2737595.md) SQL Injection — deptofdefense — high —  — SQL Injection
+- [2633959](reports/2025/2633959.md) SQL injection in URL path leads to Database Access — mtn_group — critical —  — SQL Injection
+- [2759243](reports/2025/2759243.md) Time-based blind SQL injection — deptofdefense — medium —  — SQL Injection
+- [2599826](reports/2025/2599826.md) Boolen Based Blind Sql Injection Via User Agent in ███.mil — deptofdefense — medium —  — SQL Injection
+- [2882887](reports/2025/2882887.md) CVE-2024-53908: Django Potential SQL injection in `HasKey(lhs, rhs)` on Oracle — ibb — high —  — SQL Injection
+- [2958619](reports/2025/2958619.md) SQLi | in URL paths — mtn_group — critical —  — SQL Injection
+- [3198980](reports/2025/3198980.md) Woocommerce SQL Injection in WC_Report_Coupon_Usage — automattic — medium —  — SQL Injection
+- [2588426](reports/2025/2588426.md) SQL injection in JSONField KeyTransform — django — high —  — SQL Injection
+- [3292573](reports/2025/3292573.md) SQL Injection when using FilteredRelation — django — critical —  — SQL Injection
+- [3395221](reports/2025/3395221.md) Error-Based & Time-Based SQL Injection in 'keyword' Parameter of admin-search.php Allowing Full Database Access in Revive Adserver v6.0.0 — revive_adserver — high —  — SQL Injection
+- [3335709](reports/2025/3335709.md) SQL Injection in Django ORM via Unvalidated `_connector` in Q Objects — django — critical —  — SQL Injection
+- [3417967](reports/2025/3417967.md) Potential SQL Injection when annotating FilteredRelation on PostgreSQL — django — high —  — SQL Injection
+- [2830573](reports/2026/2830573.md) SQL injection identified on IBM endpoint.  — ibm — critical —  — SQL Injection
+- [3127152](reports/2026/3127152.md) SQL Injection - data[account][id] parameter — deptofdefense — high —  — SQL Injection
+- [3127562](reports/2026/3127562.md) SQL Injection via URL — deptofdefense — high —  — SQL Injection
+- [3234050](reports/2026/3234050.md) SQL Injection in URI Path Leading to Full Database Disclosure on ████████ — deptofdefense — high —  — SQL Injection
+- [3257171](reports/2026/3257171.md) SQL Injection - JSON 'name' parameter — deptofdefense — high —  — SQL Injection
+- [186367](reports/2026/186367.md) SQLi in LASCO CME Query — deptofdefense — high —  — SQL Injection
+- [3127198](reports/2026/3127198.md) SQL Injection - entryid parameter in 'formbuilderv2-confirmation.php' — deptofdefense — high —  — SQL Injection
+- [3006666](reports/2026/3006666.md) Error-based blind SQL injection — deptofdefense — medium —  — SQL Injection
+- [3249794](reports/2026/3249794.md) SQL injection in structure plugin — expressionengine — medium —  — SQL Injection
+- [3277276](reports/2026/3277276.md) SQLi at █████ parameter — mars — critical —  — SQL Injection
+- [3293803](reports/2026/3293803.md) SQLi At `███████` via `theme_name`  — mars — critical —  — SQL Injection
+- [3578842](reports/2026/3578842.md) SQL Injection vulnerability found on ibm.com endpoint — ibm — critical —  — SQL Injection
+- [3591725](reports/2026/3591725.md) SQL Injection Detection Bypass in AWS WAF Managed Rules (AWSManagedRulesSQLiRuleSet) — aws_vdp — none —  — SQL Injection
+- [3564655](reports/2026/3564655.md) Complete authentication bypass to admin permissions — rocket_chat — critical —  — SQL Injection
+- [3462991](reports/2026/3462991.md) SQL Injection in Column Type Parameter Allows Arbitrary SQL Execution — nextcloud — high —  — SQL Injection
+- [3653196](reports/2026/3653196.md) Blind SQL injection via clientid parameter in zone‑include.php — revive_adserver — high —  — SQL Injection
+- [3809973](reports/2026/3809973.md) Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) — essity — critical —  — SQL Injection
+- [3873072](reports/2026/3873072.md) Unauthenticated SQL Injection via REST Batch Route Confusion ████████ — essity — critical —  — SQL Injection
+- [3778282](reports/2026/3778282.md) Critical SQL Injection WDM API (████████) — essity — critical —  — SQL Injection
+- [3848978](reports/2026/3848978.md) `SHOW [CREATE|GRANTS] ...` / `mariadb-dump` Unescaped SQL Generation — mariadb — - —  — SQL Injection
+- [3662095](reports/2026/3662095.md) SQL Injection found on ibm.com subdomain — ibm — critical —  — SQL Injection
+- [3730301](reports/2026/3730301.md) SQL Injection vulnerability found on IBM.com subdomain — ibm — - —  — SQL Injection
+- [3890289](reports/2026/3890289.md) Connector/C++ string escaper re-escapes its own output, enabling SQL injection — mariadb — medium —  — SQL Injection
+- [3890329](reports/2026/3890329.md) Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL — mariadb — medium —  — SQL Injection
+- [3891779](reports/2026/3891779.md) Connector/ODBC injects unquoted column names into positioned DELETE and UPDATE via MADB_DynStrGetWhere — mariadb — medium —  — SQL Injection
+- [3849007](reports/2026/3849007.md) MariaDB CLI Utility Issues — mariadb — - —  — SQL Injection
+- [3797662](reports/2026/3797662.md) SQL Injection via Unsanitized Identifiers and String Literals in `@aws-cdk/aws-redshift-alpha` Custom Resource Handlers — aws_vdp — high —  — SQL Injection
+- [4152726](reports/2026/4152726.md) Blind SQL Injection — IBM Training Course Search API — ibm — critical —  — SQL Injection
+- [3896779](reports/2026/3896779.md) Blind SQL injection due to request precedence issue in global input registration — revive_adserver — high —  — SQL Injection
+- [4228805](reports/2026/4228805.md) SQL injection via includebanner array keys in zone-include.php — revive_adserver — medium —  — SQL Injection
+- [4216475](reports/2026/4216475.md) error based SQL injection on ████████ — essity — critical —  — SQL Injection
+
 ## Path Traversal (233)
 
 - [1439593](reports/2022/1439593.md) Arbitrary file read  via the bulk imports UploadsPipeline — gitlab — critical — $29,000 — Path Traversal
@@ -9680,241 +9924,6 @@
 - [3678395](reports/2026/3678395.md) Path Traversal in mbstream Extract — mariadb — high —  — Path Traversal
 - [4037976](reports/2026/4037976.md) Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `VCS_METADATA_DIRS` entries. — weblate — medium —  — Path Traversal
 - [4191812](reports/2026/4191812.md) Unauthenticated arbitrary local file read via ABCpdf on www.████████ — essity — high —  — Path Traversal
-
-## SQL Injection (232)
-
-- [383127](reports/2018/383127.md) SQL Injection in report_xml.php through countryFilter[] parameter — valve — critical — $25,000 — SQL Injection
-- [273946](reports/2017/273946.md) www.drivegrab.com SQL injection — grab — high — $4,500 — SQL Injection
-- [403616](reports/2018/403616.md) [www.zomato.com] SQLi - /php/██████████ - item_id — eternal — critical — $4,500 — SQL Injection
-- [150156](reports/2016/150156.md) SQL Injection on sctrack.email.uber.com.cn — uber — - — $4,000 — SQL Injection
-- [125932](reports/2016/125932.md) SQL injection in Wordpress Plugin Huge IT Video Gallery at https://drive.uber.com/frmarketplace/ — uber — - — $3,000 — SQL Injection
-- [206872](reports/2017/206872.md) SQL injection in 3rd party software Anomali — uber — high — $2,500 — SQL Injection
-- [476150](reports/2021/476150.md) SQLI on desafio5estrelas.com  — uber — medium — $2,500 — SQL Injection
-- [298176](reports/2018/298176.md) SQL injection in MilestoneFinder order method — gitlab — critical — $2,000 — SQL Injection
-- [952501](reports/2020/952501.md) Solr Injection in `user_id` parameter at :/v2/leaderboard_v2.json — eternal — critical — $2,000 — SQL Injection
-- [838855](reports/2020/838855.md) [www.zomato.com] Blind SQL Injection in /php/geto2banner — eternal — critical — $2,000 — SQL Injection
-- [836079](reports/2020/836079.md) [www.zomato.com] Blind SQL Injection in /php/widgets_handler.php — eternal — critical — $2,000 — SQL Injection
-- [361623](reports/2021/361623.md) SQLI on uberpartner.eu leads to exposure of sensitive user data of Uber partners — uber — high — $1,500 — SQL Injection
-- [258582](reports/2017/258582.md) [www.zomato.com] Union SQLi + Waf Bypass — eternal — - — $1,000 — SQL Injection
-- [300176](reports/2018/300176.md) [https://reviews.zomato.com] Time Based SQL Injection — eternal — critical — $1,000 — SQL Injection
-- [297534](reports/2018/297534.md) [www.zomato.com] Boolean SQLi - /█████.php — eternal — - — $1,000 — SQL Injection
-- [301257](reports/2018/301257.md) [www.zomato.com] Boolean SQLi - /███████.php — eternal — - — $1,000 — SQL Injection
-- [358669](reports/2018/358669.md) [www.zomato.com] SQLi on `order_id` parameter — eternal — critical — $1,000 — SQL Injection
-- [3078856](reports/2025/3078856.md) Apache Airflow Sql injection by authenticated user — ibb — low — $505 — SQL Injection
-- [1650264](reports/2023/1650264.md) GitHub Security Lab (GHSL) Vulnerability Report: SQLInjection in FileContentProvider.kt (GHSL-2022-059) — owncloud — medium — $300 — SQL Injection
-- [923020](reports/2021/923020.md) SQL injection on admin.acronis.host development web service — acronis — high — $250 — SQL Injection
-- [291764](reports/2019/291764.md) SQL Injection found in NextCloud Android App Content Provider — nextcloud — low — $150 — SQL Injection
-- [518669](reports/2019/518669.md) SQLi allow query restriction bypass on exposed FileContentProvider — nextcloud — low — $100 — SQL Injection
-- [844428](reports/2020/844428.md) [www.zomato.com] Abusing LocalParams (city) to Inject SOLR query — eternal — low — $100 — SQL Injection
-- [1216085](reports/2021/1216085.md) ccc ctf  — h1-ctf — critical — $100 — SQL Injection
-- [17227](reports/2014/17227.md) SQL injection, time zoom script, tile ID — uzbey — - —  — SQL Injection
-- [23014](reports/2014/23014.md) SQL Injection — uzbey — - —  — SQL Injection
-- [31756](reports/2015/31756.md) Drupal 7 pre auth sql injection and remote code execution — ibb — - —  — SQL Injection
-- [59664](reports/2015/59664.md) SQL Injection Vulnerability in Concrete5 version 5.7.3.1 — concretecms — - —  — SQL Injection
-- [81701](reports/2016/81701.md) Possible SQL injection on "Jump to twitter" — gratipay — low —  — SQL Injection
-- [117073](reports/2016/117073.md) [informatica.com] Blind SQL Injection — informatica — critical —  — SQL Injection
-- [125181](reports/2016/125181.md) SQLi in love.uber.com — uber — - —  — SQL Injection
-- [38778](reports/2016/38778.md) SQL injection in conc/index.php/ccm/system/search/users/submit — concretecms — - —  — SQL Injection
-- [115304](reports/2016/115304.md) Blind SQL INJ — paragonie — - —  — SQL Injection
-- [144359](reports/2016/144359.md) Time Based SQL injection in url parameter — websummit — - —  — SQL Injection
-- [135288](reports/2016/135288.md) Multiple vulnerabilities in a WordPress plugin at drive.uber.com — uber — - —  — SQL Injection
-- [109395](reports/2016/109395.md) gmmovinparts.com SQLi via forgot_password.jsp — gm — - —  — SQL Injection
-- [116764](reports/2016/116764.md) vk.com/login.php  — vkcom — - —  — SQL Injection
-- [178057](reports/2017/178057.md) [ipm.informatica.com] Sql injection Oracle  — informatica — critical —  — SQL Injection
-- [178632](reports/2017/178632.md) [afocusp.informatica.com] Sql injection  afocusp.informatica.com:37777 — informatica — critical —  — SQL Injection
-- [189332](reports/2017/189332.md) SQL injection vulnerability on a DoD website — deptofdefense — medium —  — SQL Injection
-- [198292](reports/2017/198292.md) Time-based Blind SQLi on news.starbucks.com — starbucks — high —  — SQL Injection
-- [200623](reports/2017/200623.md) SQL injection vulnerability on a DoD website — deptofdefense — high —  — SQL Injection
-- [207695](reports/2017/207695.md) sqli — ui — critical —  — SQL Injection
-- [221757](reports/2017/221757.md) Blind SQL Injection — ok — critical —  — SQL Injection
-- [193436](reports/2017/193436.md) SQL injection vulnerability on a DoD website — deptofdefense — medium —  — SQL Injection
-- [193936](reports/2017/193936.md) SQL injection vulnerability on a DoD website — deptofdefense — high —  — SQL Injection
-- [196300](reports/2017/196300.md) Blind SQLi in a DoD Website — deptofdefense — medium —  — SQL Injection
-- [188929](reports/2017/188929.md) Time Based SQL Injection vulnerability on a DoD website — deptofdefense — medium —  — SQL Injection
-- [189069](reports/2017/189069.md) SQL injection vulnerability on a DoD website — deptofdefense — medium —  — SQL Injection
-- [192079](reports/2017/192079.md) SQL Injection vulnerability in a DoD website — deptofdefense — high —  — SQL Injection
-- [192110](reports/2017/192110.md) SQL Injection vulnerability in a DoD website — deptofdefense — high —  — SQL Injection
-- [195051](reports/2017/195051.md) SQL injection vulnerability in a DoD website — deptofdefense — medium —  — SQL Injection
-- [202619](reports/2017/202619.md) SQL injection vulnerability on a DoD website — deptofdefense — medium —  — SQL Injection
-- [201512](reports/2017/201512.md) SQL Injection vulnerability in a DoD website — deptofdefense — medium —  — SQL Injection
-- [216699](reports/2017/216699.md) SQL Injection vulnerability in a DoD website — deptofdefense — high —  — SQL Injection
-- [189851](reports/2017/189851.md) Time Based SQL Injection vulnerability on a DoD website — deptofdefense — medium —  — SQL Injection
-- [248037](reports/2017/248037.md) SQL TEST — gratipay — none —  — SQL Injection
-- [246412](reports/2017/246412.md) SQL Injection, exploitable in boolean mode — eternal — critical —  — SQL Injection
-- [226211](reports/2017/226211.md) SQL Injection vulnerability in a DoD website — deptofdefense — medium —  — SQL Injection
-- [197754](reports/2017/197754.md) SQL Injection vulnerability in a DoD website — deptofdefense — medium —  — SQL Injection
-- [227587](reports/2017/227587.md) SQL Injection vulnerability in a DoD website — deptofdefense — medium —  — SQL Injection
-- [211988](reports/2017/211988.md) sql injection vulnerablity found — legalrobot — none —  — SQL Injection
-- [179920](reports/2017/179920.md) WordPress DB Class, bad implementation of prepare method guides to sqli and information disclosure — wordpress — critical —  — SQL Injection
-- [269279](reports/2018/269279.md) SQL injection in partner id field on https://www.teavana.com (Sign-up form) — starbucks — medium —  — SQL Injection
-- [319279](reports/2018/319279.md) [critical] sql injection by GET method — khanacademy — high —  — SQL Injection
-- [311922](reports/2018/311922.md)  SQL injection  — deptofdefense — high —  — SQL Injection
-- [319465](reports/2018/319465.md) `sql` does not properly escape parameters when building SQL queries, resulting in potential SQLi — nodejs-ecosystem — medium —  — SQL Injection
-- [311244](reports/2018/311244.md) [query-mysql] SQL Injection due to lack of user input sanitization allows to run arbitrary SQL queries when fetching data from database — nodejs-ecosystem — critical —  — SQL Injection
-- [310280](reports/2018/310280.md) [Informational] Possible SQL Injection in inc/ajax-actions-frontend.php — mapsmarker_com_e_u — medium —  — SQL Injection
-- [397445](reports/2018/397445.md) [express-cart] Customer and admin email enumeration through MongoDB injection — nodejs-ecosystem — high —  — SQL Injection
-- [374748](reports/2018/374748.md) SQL injection in Serendipity (serendipity_fetchComments) — hannob — high —  — SQL Injection
-- [374027](reports/2018/374027.md) blind sql injection — hannob — high —  — SQL Injection
-- [435066](reports/2018/435066.md) SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter — security — critical —  — SQL Injection
-- [360539](reports/2019/360539.md) SQL Injection Proof of Concept for Starbucks URL — starbucks — high —  — SQL Injection
-- [390359](reports/2019/390359.md) SOAP WSDL Parser SQL Code Execution — deptofdefense — critical —  — SQL Injection
-- [297478](reports/2019/297478.md) SQL injection in https://labs.data.gov/dashboard/datagov/csv_to_json via User-agent  — gsa_bbp — critical —  — SQL Injection
-- [506654](reports/2019/506654.md) [typeorm] SQL Injection — nodejs-ecosystem — high —  — SQL Injection
-- [319458](reports/2019/319458.md) typeorm does not properly escape parameters when building SQL queries, resulting in potential SQLi — nodejs-ecosystem — medium —  — SQL Injection
-- [507222](reports/2019/507222.md) [untitled-model] sql injection — nodejs-ecosystem — high —  — SQL Injection
-- [549355](reports/2019/549355.md) Blind SQL Injection on starbucks.com.gt and WAF Bypass  :* — starbucks — high —  — SQL Injection
-- [508487](reports/2019/508487.md) Arbitrary SQL command injection — nextcloud — critical —  — SQL Injection
-- [592400](reports/2019/592400.md) Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice — starbucks — critical —  — SQL Injection
-- [531051](reports/2019/531051.md) SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database — starbucks — critical —  — SQL Injection
-- [384397](reports/2019/384397.md) SQL Injection vulnerability located at ████████ — deptofdefense — high —  — SQL Injection
-- [519631](reports/2019/519631.md) SQL Injection in ████ — deptofdefense — high —  — SQL Injection
-- [419017](reports/2019/419017.md) SQL Injection in ████ — deptofdefense — high —  — SQL Injection
-- [665688](reports/2019/665688.md) Дайте swag — vkcom — none —  — SQL Injection
-- [489483](reports/2019/489483.md) SQL Injection in the get_publications.php on the https://█████ — deptofdefense — high —  — SQL Injection
-- [488795](reports/2019/488795.md) SQL injection on the https://████/ — deptofdefense — high —  — SQL Injection
-- [272506](reports/2019/272506.md)  SQL injections — deptofdefense — high —  — SQL Injection
-- [390879](reports/2019/390879.md) SQL Injection on www.██████████ on countID parameter — deptofdefense — high —  — SQL Injection
-- [381771](reports/2019/381771.md) ████████ SQL — deptofdefense — high —  — SQL Injection
-- [381758](reports/2019/381758.md) sql injection on  /messagecenter/messagingcenter at https://www.███████/ — deptofdefense — high —  — SQL Injection
-- [348047](reports/2019/348047.md) Code reversion allowing SQLI again in ███████ — deptofdefense — high —  — SQL Injection
-- [313037](reports/2019/313037.md) Blind SQL injection on ████████ — deptofdefense — high —  — SQL Injection
-- [310031](reports/2019/310031.md) SQL injection on █████ due to tech.cfm  — deptofdefense — high —  — SQL Injection
-- [577612](reports/2019/577612.md) MSSQL injection via param Customwho in https://█████/News/Transcripts/Search/Sort/ and WAF bypass — deptofdefense — high —  — SQL Injection
-- [433792](reports/2019/433792.md) Blind SQL injection in third-party software, that allows to reveal user statistic from rocket.chat and possibly hack into the rocketchat.agilecrm.com — rocket_chat — - —  — SQL Injection
-- [197755](reports/2019/197755.md) SQL injection found in US Navy Website (http://███/) — deptofdefense — medium —  — SQL Injection
-- [214798](reports/2019/214798.md) SQL injection on https://███████ — deptofdefense — medium —  — SQL Injection
-- [227102](reports/2019/227102.md) Two Error-Based SQLi in courses.aspx on ██████████ — deptofdefense — medium —  — SQL Injection
-- [242882](reports/2019/242882.md) Blind SQL Injection on DoD Site — deptofdefense — medium —  — SQL Injection
-- [484801](reports/2019/484801.md) [███]  SQL injection & Reflected XSS — deptofdefense — medium —  — SQL Injection
-- [648346](reports/2019/648346.md) [████████] Boolean SQL Injection (/personnel.php?content=profile&rcnum=*) — deptofdefense — medium —  — SQL Injection
-- [761382](reports/2020/761382.md) stripo blog search  SQL Injection — stripo — medium —  — SQL Injection
-- [506644](reports/2020/506644.md) [@azhou/basemodel] SQL injection — nodejs-ecosystem — high —  — SQL Injection
-- [508346](reports/2020/508346.md) [increments] sql injection — nodejs-ecosystem — high —  — SQL Injection
-- [761304](reports/2020/761304.md)  SQL Injection on cookie parameter — mtn_group — high —  — SQL Injection
-- [447742](reports/2020/447742.md) SQL Injection in Login Page: https://█████/█████████/login.php — deptofdefense — high —  — SQL Injection
-- [674838](reports/2020/674838.md) SQL Injection - https://███/█████████/MSI.portal — deptofdefense — medium —  — SQL Injection
-- [692326](reports/2020/692326.md) Followup - SQL Injection - https://██████████/██████/MSI.portal — deptofdefense — high —  — SQL Injection
-- [722145](reports/2020/722145.md) [CRITICAL] Sql Injection on http://axa.dxi.eu — 8x8-bounty — critical —  — SQL Injection
-- [808832](reports/2020/808832.md) Information Disclosure in https://www.rockstargames.com/search — rockstargames — low —  — SQL Injection
-- [491191](reports/2020/491191.md) SQL Injection in the `move_papers.php` on the https://██████████ — deptofdefense — high —  — SQL Injection
-- [869574](reports/2020/869574.md) SQL Injection or Denial of Service due to a Prototype Pollution — nodejs-ecosystem — critical —  — SQL Injection
-- [922567](reports/2020/922567.md) SQL injection (stacked queries) in the export to Excel functionality on Vidyo Server — 8x8-bounty — high —  — SQL Injection
-- [876800](reports/2020/876800.md) Time-base SQL Injection in Search Users — concretecms — medium —  — SQL Injection
-- [982202](reports/2020/982202.md) SQLi in login form of █████ — deptofdefense — critical —  — SQL Injection
-- [995122](reports/2020/995122.md) [SQLI ]Time  Bassed Injection at ██████████ via referer header — deptofdefense — high —  — SQL Injection
-- [1018621](reports/2020/1018621.md) [████] SQL Injections on Referer Header exploitable via Time-Based method — deptofdefense — high —  — SQL Injection
-- [1034625](reports/2020/1034625.md) Blind SQL injection at tsftp.informatica.com — informatica — critical —  — SQL Injection
-- [1024984](reports/2020/1024984.md) [SQLI ]Time Bassed Injection at ██████████ via /██████/library.php?c=G14 parameter — deptofdefense — high —  — SQL Injection
-- [1039315](reports/2020/1039315.md) Sql injection on docs.atavist.com — automattic — high —  — SQL Injection
-- [1044698](reports/2021/1044698.md) [intensedebate.com] SQL Injection Time Based On /js/commentAction/ — automattic — critical —  — SQL Injection
-- [1042746](reports/2021/1042746.md) [intensedebate.com] SQL Injection Time Based on /changeReplaceOpt.php — automattic — critical —  — SQL Injection
-- [1069561](reports/2021/1069561.md) SQL Injection  intensedebate.com — automattic — medium —  — SQL Injection
-- [1069263](reports/2021/1069263.md) First CTF ever! — h1-ctf — critical —  — SQL Injection
-- [1015406](reports/2021/1015406.md) SQL Injection in www.██████████ — deptofdefense — high —  — SQL Injection
-- [1066233](reports/2021/1066233.md) CTF Writeup — h1-ctf — critical —  — SQL Injection
-- [983710](reports/2021/983710.md) SQL injection when configuring a database  — impresscms — low —  — SQL Injection
-- [1067037](reports/2021/1067037.md) Taking Grinch Down To Save Holidays — h1-ctf — critical —  — SQL Injection
-- [1107536](reports/2021/1107536.md) Blind Based SQL Injection in 3d.sc.money — cs_money — - —  — SQL Injection
-- [1102591](reports/2021/1102591.md) Blind SQL iNJECTION  — deptofdefense — medium —  — SQL Injection
-- [1109311](reports/2021/1109311.md) SQL injection in  https://www.acronis.cz/ via the log parameter — acronis — medium —  — SQL Injection
-- [1216408](reports/2021/1216408.md) H1-CTF 100k Solution - Congratz on the 100k Rep todayisnew — h1-ctf — critical —  — SQL Injection
-- [1215919](reports/2021/1215919.md) ccc.h1ctf.com CTF — h1-ctf — critical —  — SQL Injection
-- [1216591](reports/2021/1216591.md) 100K CTF's Writeup — h1-ctf — critical —  — SQL Injection
-- [1278928](reports/2021/1278928.md) blind sql on  [ https://argocd.upchieve.org/login?return_url=id= ] — upchieve — critical —  — SQL Injection
-- [865436](reports/2021/865436.md) SQL Injection on the administrator panel — mtn_group — critical —  — SQL Injection
-- [954667](reports/2021/954667.md) SQLi on █████████ — deptofdefense — high —  — SQL Injection
-- [1069531](reports/2021/1069531.md) Blind SQL Injection  — mtn_group — critical —  — SQL Injection
-- [962889](reports/2021/962889.md) SQL Injection in agent-manager — acronis — high —  — SQL Injection
-- [925007](reports/2021/925007.md) blind sql on [selfcare.mtn.com.af] — mtn_group — medium —  — SQL Injection
-- [924855](reports/2021/924855.md) SQL injection [futexpert.mtngbissau.com] — mtn_group — high —  — SQL Injection
-- [1262757](reports/2021/1262757.md) SQL injection located in `███` in POST param `████████`  — deptofdefense — high —  — SQL Injection
-- [1224660](reports/2021/1224660.md) bypass sql injection #1109311 — acronis — medium —  — SQL Injection
-- [1355817](reports/2021/1355817.md) SQL Injection in IBM access control panel & Broken access in admin panel — ibm — critical —  — SQL Injection
-- [1002641](reports/2021/1002641.md) SQL Injection leads to retrieve the contents of an entire database.  — makerdao_bbp — critical —  — SQL Injection
-- [703819](reports/2022/703819.md) SQL Injection and plaintext passwords via User Search — ibm — high —  — SQL Injection
-- [1434017](reports/2022/1434017.md) Saving Christmas from Grinchy Gods — h1-ctf — critical —  — SQL Injection
-- [968240](reports/2022/968240.md) SQL injection at /admin.php?/cp/members/create — expressionengine — medium —  — SQL Injection
-- [1525200](reports/2022/1525200.md) SQL Injection at https://files.palantir.com/ due to CVE-2021-38159 — palantir_public — high —  — SQL Injection
-- [1489744](reports/2022/1489744.md) SQL Injection in █████ — deptofdefense — critical —  — SQL Injection
-- [1125752](reports/2022/1125752.md) SQL Injection on https://soa-accp.glbx.tva.gov/ via "/api/" path - VI-21-015 — tennessee-valley-authority — critical —  — SQL Injection
-- [723044](reports/2022/723044.md) SQL INJECTION  in https://████/██████████  — deptofdefense — medium —  — SQL Injection
-- [771215](reports/2022/771215.md) Blind SQL Injection — deptofdefense — medium —  — SQL Injection
-- [1527284](reports/2022/1527284.md) SQL injection in URL path processing on www.ibm.com — ibm — critical —  — SQL Injection
-- [1390331](reports/2022/1390331.md) SQL injextion via vulnerable doctrine/dbal version — nextcloud — high —  — SQL Injection
-- [277380](reports/2022/277380.md) SQL Injection on █████ — deptofdefense — high —  — SQL Injection
-- [232378](reports/2022/232378.md) SQL Injection on https://████████/ — deptofdefense — high —  — SQL Injection
-- [1567516](reports/2022/1567516.md) sql injection via https://setup.p2p.ihost.com/ — ibm — critical —  — SQL Injection
-- [1663299](reports/2022/1663299.md) Ability to escape database transaction through SQL injection, leading to arbitrary code execution — security — high —  — SQL Injection
-- [1627995](reports/2022/1627995.md) SQL injection at [https://█████████] [HtUS] — deptofdefense — critical —  — SQL Injection
-- [1626198](reports/2022/1626198.md) SQL injection at [█████████] [HtUS] — deptofdefense — critical —  — SQL Injection
-- [1627970](reports/2022/1627970.md) time based SQL injection at [https://███] [HtUS] — deptofdefense — critical —  — SQL Injection
-- [1581059](reports/2022/1581059.md) Regex account takeover — rocket_chat — critical —  — SQL Injection
-- [1081145](reports/2022/1081145.md) SQL Injection through /include/findusers.php — impresscms — critical —  — SQL Injection
-- [1626226](reports/2022/1626226.md) Unauthenticated SQL Injection at █████████  [HtUS] — deptofdefense — critical —  — SQL Injection
-- [1213207](reports/2022/1213207.md) SQL Injection on [█████████] — sony — high —  — SQL Injection
-- [1628408](reports/2023/1628408.md) SQL Injection at https://████████.asp (█████████) [selMajcom] [HtUS] — deptofdefense — critical —  — SQL Injection
-- [1723896](reports/2023/1723896.md) Sql Injection At █████████ — deptofdefense — medium —  — SQL Injection
-- [1893800](reports/2023/1893800.md) SQL Injection in CVE Discovery Search  — security — high —  — SQL Injection
-- [1878584](reports/2023/1878584.md) Time Based SQL Injection — us-department-of-state — critical —  — SQL Injection
-- [1935151](reports/2023/1935151.md) SQL Injection at https://████ via ███ parameter — sony — critical —  — SQL Injection
-- [1757676](reports/2023/1757676.md) NoSQL injection in listEmojiCustom method call — rocket_chat — high —  — SQL Injection
-- [2020429](reports/2023/2020429.md) Blind Sql Injection https:/████████ — deptofdefense — medium —  — SQL Injection
-- [1506129](reports/2023/1506129.md) SQL Injection in version 1.4.3 and below — impresscms — high —  — SQL Injection
-- [2073717](reports/2023/2073717.md) SqlInject at ██████ — deptofdefense — medium —  — SQL Injection
-- [2072306](reports/2023/2072306.md) Blind Sql Injection in https://████████/ — deptofdefense — high —  — SQL Injection
-- [2081316](reports/2023/2081316.md) Blind Sql Injection in https://█████/qsSearch.aspx — deptofdefense — high —  — SQL Injection
-- [269347](reports/2023/269347.md) SQL Injection in parameter REPORT — torproject — medium —  — SQL Injection
-- [2256032](reports/2024/2256032.md) SQL injection at ███████ — sony — critical —  — SQL Injection
-- [2312334](reports/2024/2312334.md) Time based SQL injection at████████ — deptofdefense — high —  — SQL Injection
-- [2209130](reports/2024/2209130.md) SQL Injection on prod.oidc-proxy.prod.webservices.mozgcp.net via invite_code parameter - Mozilla social inscription — mozilla — critical —  — SQL Injection
-- [2266081](reports/2024/2266081.md) Blind SQL Injection on █████ via URI Path — mars — critical —  — SQL Injection
-- [2433970](reports/2024/2433970.md) SQL injection on ██████████ via 'where' parameter — deptofdefense — medium —  — SQL Injection
-- [2453475](reports/2024/2453475.md) Sqli on ██████ search functionality — mars — medium —  — SQL Injection
-- [2446550](reports/2024/2446550.md) sqli on █████████ search functionality — mars — medium —  — SQL Injection
-- [690349](reports/2024/690349.md) SQL injection in /errors/viewbuild/ — valve — critical —  — SQL Injection
-- [1436751](reports/2024/1436751.md) SQL injection in https://demor.adr.acronis.com/ via the username parameter — acronis — high —  — SQL Injection
-- [2597543](reports/2024/2597543.md) Blind Sql Injection in https://████ — deptofdefense — medium —  — SQL Injection
-- [2737595](reports/2024/2737595.md) SQL Injection — deptofdefense — high —  — SQL Injection
-- [2633959](reports/2025/2633959.md) SQL injection in URL path leads to Database Access — mtn_group — critical —  — SQL Injection
-- [2759243](reports/2025/2759243.md) Time-based blind SQL injection — deptofdefense — medium —  — SQL Injection
-- [2599826](reports/2025/2599826.md) Boolen Based Blind Sql Injection Via User Agent in ███.mil — deptofdefense — medium —  — SQL Injection
-- [2882887](reports/2025/2882887.md) CVE-2024-53908: Django Potential SQL injection in `HasKey(lhs, rhs)` on Oracle — ibb — high —  — SQL Injection
-- [2958619](reports/2025/2958619.md) SQLi | in URL paths — mtn_group — critical —  — SQL Injection
-- [3198980](reports/2025/3198980.md) Woocommerce SQL Injection in WC_Report_Coupon_Usage — automattic — medium —  — SQL Injection
-- [2588426](reports/2025/2588426.md) SQL injection in JSONField KeyTransform — django — high —  — SQL Injection
-- [3292573](reports/2025/3292573.md) SQL Injection when using FilteredRelation — django — critical —  — SQL Injection
-- [3395221](reports/2025/3395221.md) Error-Based & Time-Based SQL Injection in 'keyword' Parameter of admin-search.php Allowing Full Database Access in Revive Adserver v6.0.0 — revive_adserver — high —  — SQL Injection
-- [3335709](reports/2025/3335709.md) SQL Injection in Django ORM via Unvalidated `_connector` in Q Objects — django — critical —  — SQL Injection
-- [3417967](reports/2025/3417967.md) Potential SQL Injection when annotating FilteredRelation on PostgreSQL — django — high —  — SQL Injection
-- [2830573](reports/2026/2830573.md) SQL injection identified on IBM endpoint.  — ibm — critical —  — SQL Injection
-- [3127152](reports/2026/3127152.md) SQL Injection - data[account][id] parameter — deptofdefense — high —  — SQL Injection
-- [3127562](reports/2026/3127562.md) SQL Injection via URL — deptofdefense — high —  — SQL Injection
-- [3234050](reports/2026/3234050.md) SQL Injection in URI Path Leading to Full Database Disclosure on ████████ — deptofdefense — high —  — SQL Injection
-- [3257171](reports/2026/3257171.md) SQL Injection - JSON 'name' parameter — deptofdefense — high —  — SQL Injection
-- [186367](reports/2026/186367.md) SQLi in LASCO CME Query — deptofdefense — high —  — SQL Injection
-- [3127198](reports/2026/3127198.md) SQL Injection - entryid parameter in 'formbuilderv2-confirmation.php' — deptofdefense — high —  — SQL Injection
-- [3006666](reports/2026/3006666.md) Error-based blind SQL injection — deptofdefense — medium —  — SQL Injection
-- [3249794](reports/2026/3249794.md) SQL injection in structure plugin — expressionengine — medium —  — SQL Injection
-- [3277276](reports/2026/3277276.md) SQLi at █████ parameter — mars — critical —  — SQL Injection
-- [3293803](reports/2026/3293803.md) SQLi At `███████` via `theme_name`  — mars — critical —  — SQL Injection
-- [3578842](reports/2026/3578842.md) SQL Injection vulnerability found on ibm.com endpoint — ibm — critical —  — SQL Injection
-- [3591725](reports/2026/3591725.md) SQL Injection Detection Bypass in AWS WAF Managed Rules (AWSManagedRulesSQLiRuleSet) — aws_vdp — none —  — SQL Injection
-- [3564655](reports/2026/3564655.md) Complete authentication bypass to admin permissions — rocket_chat — critical —  — SQL Injection
-- [3462991](reports/2026/3462991.md) SQL Injection in Column Type Parameter Allows Arbitrary SQL Execution — nextcloud — high —  — SQL Injection
-- [3653196](reports/2026/3653196.md) Blind SQL injection via clientid parameter in zone‑include.php — revive_adserver — high —  — SQL Injection
-- [3809973](reports/2026/3809973.md) Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) — essity — critical —  — SQL Injection
-- [3873072](reports/2026/3873072.md) Unauthenticated SQL Injection via REST Batch Route Confusion ████████ — essity — critical —  — SQL Injection
-- [3778282](reports/2026/3778282.md) Critical SQL Injection WDM API (████████) — essity — critical —  — SQL Injection
-- [3848978](reports/2026/3848978.md) `SHOW [CREATE|GRANTS] ...` / `mariadb-dump` Unescaped SQL Generation — mariadb — - —  — SQL Injection
-- [3662095](reports/2026/3662095.md) SQL Injection found on ibm.com subdomain — ibm — critical —  — SQL Injection
-- [3730301](reports/2026/3730301.md) SQL Injection vulnerability found on IBM.com subdomain — ibm — - —  — SQL Injection
-- [3890289](reports/2026/3890289.md) Connector/C++ string escaper re-escapes its own output, enabling SQL injection — mariadb — medium —  — SQL Injection
-- [3890329](reports/2026/3890329.md) Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL — mariadb — medium —  — SQL Injection
-- [3891779](reports/2026/3891779.md) Connector/ODBC injects unquoted column names into positioned DELETE and UPDATE via MADB_DynStrGetWhere — mariadb — medium —  — SQL Injection
-- [3849007](reports/2026/3849007.md) MariaDB CLI Utility Issues — mariadb — - —  — SQL Injection
-- [3797662](reports/2026/3797662.md) SQL Injection via Unsanitized Identifiers and String Literals in `@aws-cdk/aws-redshift-alpha` Custom Resource Handlers — aws_vdp — high —  — SQL Injection
-- [4152726](reports/2026/4152726.md) Blind SQL Injection — IBM Training Course Search API — ibm — critical —  — SQL Injection
-- [3896779](reports/2026/3896779.md) Blind SQL injection due to request precedence issue in global input registration — revive_adserver — high —  — SQL Injection
 
 ## Command Injection - Generic (210)
 
@@ -11801,6 +11810,45 @@
 - [3693636](reports/2026/3693636.md) wallet-rpc crash via malformed /gettransactions response (empty txs → vector::front() in check_tx_key / check_tx_proof) — monero — high —  — NULL Pointer Dereference
 - [3824331](reports/2026/3824331.md) Null Dereference in X509ToObject — nodejs — medium —  — NULL Pointer Dereference
 
+## Insufficient Session Expiration (36)
+
+- [2123094](reports/2023/2123094.md) Argocd's web terminal session doesn't expire — ibb — medium — $2,540 — Insufficient Session Expiration
+- [1547684](reports/2022/1547684.md) Disconnecting an external login provider does not revoke session — shopify — medium — $1,600 — Insufficient Session Expiration
+- [347748](reports/2018/347748.md) Improper session handling on web browsers — x — medium — $560 — Insufficient Session Expiration
+- [417382](reports/2018/417382.md) Revoking user session in https://hackerone.com/settings/sessions does not revoke the GraphQL query session — security — low — $500 — Insufficient Session Expiration
+- [1162443](reports/2024/1162443.md) No Session Expiry after log-out, attacker can reuse the old cookies — shopify — low — $500 — Insufficient Session Expiration
+- [390126](reports/2019/390126.md) Узнаем несколько цифр номера телефона юзера (можно флудить смс), всего раз узнав его remixsid и его ид юзера, и установка оффлайна юзерам. — vkcom — high — $300 — Insufficient Session Expiration
+- [3062299](reports/2025/3062299.md) Logout Bypass Vulnerability in Hiro.so — hiro — medium — $150 — Insufficient Session Expiration
+- [1294231](reports/2021/1294231.md) Login session not expire — basecamp — low — $100 — Insufficient Session Expiration
+- [997127](reports/2021/997127.md) Lack of session expiration after password reset on TikTok Careers Portal — tiktok — low — $50 — Insufficient Session Expiration
+- [272839](reports/2017/272839.md) Weak Session ID Implementation - No Session change on Password change — unikrn — medium — $40 — Insufficient Session Expiration
+- [223327](reports/2017/223327.md) No expiration of session ID after Password change — weblate — low —  — Insufficient Session Expiration
+- [216294](reports/2017/216294.md) Session replay vulnerability in www.urbandictionary.com — urbandictionary — high —  — Insufficient Session Expiration
+- [250688](reports/2017/250688.md) The Federalsit session cookie (federalist.sid) is not properly invalidated - backdoor access to the account is possible — gsa_bbp — low —  — Insufficient Session Expiration
+- [273881](reports/2017/273881.md) Invalidate session after password reset on https://polldaddy.com — automattic — - —  — Insufficient Session Expiration
+- [293363](reports/2017/293363.md) The Microsoft Store Uber App Does Not Implement Server-side Token Revocation — uber — medium —  — Insufficient Session Expiration
+- [263873](reports/2019/263873.md) Improper Session management can cause account takeover[https://micropurchase.18f.gov] — gsa_bbp — medium —  — Insufficient Session Expiration
+- [514577](reports/2019/514577.md) Failure to Invalid Session after Password Change — omise — medium —  — Insufficient Session Expiration
+- [952035](reports/2020/952035.md) Admin web sessions remain active after logout of Shopify ID — shopify — - —  — Insufficient Session Expiration
+- [659957](reports/2020/659957.md) Session misconfiguration on forget password feature at https://ort-admin.pingone.com — pingidentity — low —  — Insufficient Session Expiration
+- [662108](reports/2021/662108.md) Being able to change account contents even after password change — kartpay — medium —  — Insufficient Session Expiration
+- [1069392](reports/2021/1069392.md) Old Session Does Not Expires After Password Change — deptofdefense — medium —  — Insufficient Session Expiration
+- [1108662](reports/2021/1108662.md) The POS app doesn't revoke the Xauth token  — shopify — low —  — Insufficient Session Expiration
+- [774393](reports/2021/774393.md) Web Server Predictable Session ID on EdgeSwitch  — ui — high —  — Insufficient Session Expiration
+- [1006677](reports/2021/1006677.md) [www.drive2.ru] Insufficient Session Expiration - Previously issued email change tokens do not expire upon issuing a new email change token — drive_net_inc — low —  — Insufficient Session Expiration
+- [996122](reports/2021/996122.md) Insufficient Session Expiration on Adobe Connect | https://█████████ — deptofdefense — medium —  — Insufficient Session Expiration
+- [1241483](reports/2021/1241483.md) Insufficient Session Expiration — urbancompany — low —  — Insufficient Session Expiration
+- [1295187](reports/2021/1295187.md) Failed to validate Session after Password Change — upchieve — low —  — Insufficient Session Expiration
+- [1319892](reports/2021/1319892.md) Possible to invite any team member without being logged in. [ Session Management Issue ] — trycourier — medium —  — Insufficient Session Expiration
+- [1172205](reports/2021/1172205.md) Insufficient session expiration in the **com.shopify.ping** android app — shopify — low —  — Insufficient Session Expiration
+- [948345](reports/2022/948345.md) Broken Authentication Session Token Bug — trycourier — medium —  — Insufficient Session Expiration
+- [1632186](reports/2022/1632186.md) Can use the Reddit android app as usual even though revoking the access of it from reddit.com — reddit — critical —  — Insufficient Session Expiration
+- [2469706](reports/2024/2469706.md) Session Not Expire / 2FA Bypass — security — medium —  — Insufficient Session Expiration
+- [3101207](reports/2025/3101207.md) Improper Session Invalidation – Auto Sign-In Without Credentials After Logout (Affects Chrome & Firefox) — dust — medium —  — Insufficient Session Expiration
+- [3073507](reports/2025/3073507.md) Apache Airflow Fab Provider: Application does not invalidate session after password change via Airflow cli — ibb — low —  — Insufficient Session Expiration
+- [3269777](reports/2025/3269777.md) Replayable Password Change Request Across Sessions. — malwarebytes — none —  — Insufficient Session Expiration
+- [4207136](reports/2026/4207136.md) Entity deletion can leave agency, advertiser, and publisher accounts active — revive_adserver — low —  — Insufficient Session Expiration
+
 ## Information Exposure Through Directory Listing (36)
 
 - [301812](reports/2021/301812.md) Bitmoji source code is accessible — snapchat — medium — $1,000 — Information Exposure Through Directory Listing
@@ -11877,44 +11925,6 @@
 - [3910393](reports/2026/3910393.md) Stack Buffer Overflow in MariaDB CONNECT storage engine when reading DOUBLE columns from TABLE_TYPE=DOS tables — mariadb — - —  — Stack Overflow
 - [3770768](reports/2026/3770768.md) [Switch] Remote stack buffer overflow in the LDN/LP2P DHCP server leads to control-flow hijack — nintendo — high —  — Stack Overflow
 - [3891319](reports/2026/3891319.md) Stack buffer overflow in 9 of 10 Connector/ODBC catalog functions via unbounded name — mariadb — medium —  — Stack Overflow
-
-## Insufficient Session Expiration (35)
-
-- [2123094](reports/2023/2123094.md) Argocd's web terminal session doesn't expire — ibb — medium — $2,540 — Insufficient Session Expiration
-- [1547684](reports/2022/1547684.md) Disconnecting an external login provider does not revoke session — shopify — medium — $1,600 — Insufficient Session Expiration
-- [347748](reports/2018/347748.md) Improper session handling on web browsers — x — medium — $560 — Insufficient Session Expiration
-- [417382](reports/2018/417382.md) Revoking user session in https://hackerone.com/settings/sessions does not revoke the GraphQL query session — security — low — $500 — Insufficient Session Expiration
-- [1162443](reports/2024/1162443.md) No Session Expiry after log-out, attacker can reuse the old cookies — shopify — low — $500 — Insufficient Session Expiration
-- [390126](reports/2019/390126.md) Узнаем несколько цифр номера телефона юзера (можно флудить смс), всего раз узнав его remixsid и его ид юзера, и установка оффлайна юзерам. — vkcom — high — $300 — Insufficient Session Expiration
-- [3062299](reports/2025/3062299.md) Logout Bypass Vulnerability in Hiro.so — hiro — medium — $150 — Insufficient Session Expiration
-- [1294231](reports/2021/1294231.md) Login session not expire — basecamp — low — $100 — Insufficient Session Expiration
-- [997127](reports/2021/997127.md) Lack of session expiration after password reset on TikTok Careers Portal — tiktok — low — $50 — Insufficient Session Expiration
-- [272839](reports/2017/272839.md) Weak Session ID Implementation - No Session change on Password change — unikrn — medium — $40 — Insufficient Session Expiration
-- [223327](reports/2017/223327.md) No expiration of session ID after Password change — weblate — low —  — Insufficient Session Expiration
-- [216294](reports/2017/216294.md) Session replay vulnerability in www.urbandictionary.com — urbandictionary — high —  — Insufficient Session Expiration
-- [250688](reports/2017/250688.md) The Federalsit session cookie (federalist.sid) is not properly invalidated - backdoor access to the account is possible — gsa_bbp — low —  — Insufficient Session Expiration
-- [273881](reports/2017/273881.md) Invalidate session after password reset on https://polldaddy.com — automattic — - —  — Insufficient Session Expiration
-- [293363](reports/2017/293363.md) The Microsoft Store Uber App Does Not Implement Server-side Token Revocation — uber — medium —  — Insufficient Session Expiration
-- [263873](reports/2019/263873.md) Improper Session management can cause account takeover[https://micropurchase.18f.gov] — gsa_bbp — medium —  — Insufficient Session Expiration
-- [514577](reports/2019/514577.md) Failure to Invalid Session after Password Change — omise — medium —  — Insufficient Session Expiration
-- [952035](reports/2020/952035.md) Admin web sessions remain active after logout of Shopify ID — shopify — - —  — Insufficient Session Expiration
-- [659957](reports/2020/659957.md) Session misconfiguration on forget password feature at https://ort-admin.pingone.com — pingidentity — low —  — Insufficient Session Expiration
-- [662108](reports/2021/662108.md) Being able to change account contents even after password change — kartpay — medium —  — Insufficient Session Expiration
-- [1069392](reports/2021/1069392.md) Old Session Does Not Expires After Password Change — deptofdefense — medium —  — Insufficient Session Expiration
-- [1108662](reports/2021/1108662.md) The POS app doesn't revoke the Xauth token  — shopify — low —  — Insufficient Session Expiration
-- [774393](reports/2021/774393.md) Web Server Predictable Session ID on EdgeSwitch  — ui — high —  — Insufficient Session Expiration
-- [1006677](reports/2021/1006677.md) [www.drive2.ru] Insufficient Session Expiration - Previously issued email change tokens do not expire upon issuing a new email change token — drive_net_inc — low —  — Insufficient Session Expiration
-- [996122](reports/2021/996122.md) Insufficient Session Expiration on Adobe Connect | https://█████████ — deptofdefense — medium —  — Insufficient Session Expiration
-- [1241483](reports/2021/1241483.md) Insufficient Session Expiration — urbancompany — low —  — Insufficient Session Expiration
-- [1295187](reports/2021/1295187.md) Failed to validate Session after Password Change — upchieve — low —  — Insufficient Session Expiration
-- [1319892](reports/2021/1319892.md) Possible to invite any team member without being logged in. [ Session Management Issue ] — trycourier — medium —  — Insufficient Session Expiration
-- [1172205](reports/2021/1172205.md) Insufficient session expiration in the **com.shopify.ping** android app — shopify — low —  — Insufficient Session Expiration
-- [948345](reports/2022/948345.md) Broken Authentication Session Token Bug — trycourier — medium —  — Insufficient Session Expiration
-- [1632186](reports/2022/1632186.md) Can use the Reddit android app as usual even though revoking the access of it from reddit.com — reddit — critical —  — Insufficient Session Expiration
-- [2469706](reports/2024/2469706.md) Session Not Expire / 2FA Bypass — security — medium —  — Insufficient Session Expiration
-- [3101207](reports/2025/3101207.md) Improper Session Invalidation – Auto Sign-In Without Credentials After Logout (Affects Chrome & Firefox) — dust — medium —  — Insufficient Session Expiration
-- [3073507](reports/2025/3073507.md) Apache Airflow Fab Provider: Application does not invalidate session after password change via Airflow cli — ibb — low —  — Insufficient Session Expiration
-- [3269777](reports/2025/3269777.md) Replayable Password Change Request Across Sessions. — malwarebytes — none —  — Insufficient Session Expiration
 
 ## Information Exposure Through an Error Message (33)
 
@@ -12963,6 +12973,13 @@
 - [1302395](reports/2024/1302395.md) Sauce Labs API key unencrypted in an old commit — rails — medium —  — Use of Hard-coded Cryptographic Key
 - [3295650](reports/2025/3295650.md) Exposure of Hard-coded Private Keys and Credentials in curl Source Repository (CWE-321) — curl — critical —  — Use of Hard-coded Cryptographic Key
 
+## XML Injection (4)
+
+- [845832](reports/2020/845832.md) SVG file upload leads to XML injection — lab45 — low —  — XML Injection
+- [997381](reports/2021/997381.md) XML Injection on https://www.█████████ (███ parameter) — deptofdefense — high —  — XML Injection
+- [1150799](reports/2021/1150799.md) XML Injection / External Service Interaction (HTTP/DNS) On https://█████████.mil — deptofdefense — high —  — XML Injection
+- [4209444](reports/2026/4209444.md) VAST XML injection can replace video playback tracking — revive_adserver — medium —  — XML Injection
+
 ## Improper Handling of URL Encoding (Hex Encoding) (4)
 
 - [688048](reports/2021/688048.md) Incorrect IPv6 literal parsing leads to validated connection to unexpected https server. — curl — medium —  — Improper Handling of URL Encoding (Hex Encoding)
@@ -13053,12 +13070,6 @@
 - [926638](reports/2020/926638.md) curl overwrites local file with -J option if file non-readable, but file writable. — curl — medium —  — Improper Handling of Insufficient Permissions or Privileges
 - [946384](reports/2021/946384.md) A member-member privilege could access the https://console.rockset.com/billing?tab=payment page even though the billing page is hidden from the menu.  — rockset — medium —  — Improper Handling of Insufficient Permissions or Privileges
 - [3636044](reports/2026/3636044.md) HTTP/2 PUSH_PROMISE header loss on OOM bypasses scheme validation (regression of 2e8c922a89) — curl — medium —  — Improper Handling of Insufficient Permissions or Privileges
-
-## XML Injection (3)
-
-- [845832](reports/2020/845832.md) SVG file upload leads to XML injection — lab45 — low —  — XML Injection
-- [997381](reports/2021/997381.md) XML Injection on https://www.█████████ (███ parameter) — deptofdefense — high —  — XML Injection
-- [1150799](reports/2021/1150799.md) XML Injection / External Service Interaction (HTTP/DNS) On https://█████████.mil — deptofdefense — high —  — XML Injection
 
 ## Use of Hard-coded Password (3)
 

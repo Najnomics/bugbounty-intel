@@ -573,3 +573,10 @@ session-feed: apex-hunter/thegraph 2026-11-16 — 3 technique rows appended
 - Repo advisories (Zcash/Ethereum/Solana tracked repos): 0 new since 2026-10-01 not already captured (solana-program/solana-program-library security-advisories 404). Global rust GHSA since 2026-11-19: no new crypto beyond snark-verifier/falcon-rust (already captured).
 - Backfill: n6c (trailofbits) +331 → 2012-02-13 DONE; n6e (samczsun/pcaversaccio) +355 → 2023-03-22 OPEN.
 - mdpsec.com checked (unchanged: 591 reports / 150 critical).
+
+## 2026-11-26 run (Africa/Lagos)
+- X: search_posts_all (3 grouped queries over researchers.md handles, since 2026-11-25T08:20Z, non-reply) + get_posts_by_ids for full note/article text; 12 reads incl. 5 backfill calls (u1 ×5, t2 ×2). Linked writeups fetched: monke.ie (Human-Model Differentials), slcyber.io (Sanitizer API bypasses). Not fetched: X article image/photo media (not transcribed), zkSecurity's scottaaronson.blog link (non-security).
+- Telegram: t.me/s/defendor_eng (+2385–2388), t.me/s/dailybountywriteup (+14999); medium RSS for 14999 links (7/9 ok; libcurl and osintteam items not in feed). tg_fetch_writeups.py runs: Wayback (web/2/) returned mostly 403/404 → recorded as failed.
+- HackerOne: GraphQL disclosed_at:[2026-11-24 TO 2026-11-26] → +11 (inventory 12,794).
+- CVE/advisory: cvelistV5 delta zips cve_2026-11-25_0500Z → cve_2026-11-26_0500Z (+608/594); CISA KEV 2026.11.25; github/advisory-database pull (fb93ce73); repo advisories via REST for zcash/ethereum/solana repos (+2 lightwalletd). NVD, OSV, ZDI, kernel CNA, Exploit-DB not refreshed this run.
+- mdpsec.com checked (591/150/267/6 platforms, unchanged).

@@ -89,3 +89,13 @@ _Auto-maintained from `harness/findings.jsonl`. 6 finding(s). Full verbatim post
 ## 2026-11-23 — "CSS: the bomb inside your inbox" (OWASP London, 2 Dec 2026)
 - Outlook CSS-sanitiser bypass; CSS+HTML-only email account compromise past CSS sanitisation, hardened CSP and a popular HTML filter; deanonymisation of a privacy-first encrypted mail provider; ATO on multiple major webmail providers; open-source CSS weaponisation toolkit promised.
 - **Local:** [post](../posts/garethheyes/2026-11-23-2124868803670712723.md), [talk page](../writeups/garethheyes/portswigger-talk-css-bomb-inside-your-inbox.md)
+
+## 2026-11-26 run additions
+
+### Variant of Assetnote's Chrome Sanitizer API bypass (Chrome URL reparsing)
+
+- Post: https://x.com/garethheyes/status/2125629582015611281 — verbatim: [`posts/garethheyes/2026-11-25-2125629582015611281.md`](../posts/garethheyes/2026-11-25-2125629582015611281.md)
+- **Bug / class:** Sanitizer API (`setHTML`) bypass; DOM XSS via scheme check on unparsable URL. Gareth built a *variant* of @hash_kitten's "Bypass #2: URL Reparsing" (details of his variant not in the post; a photo is attached, not transcribed).
+- **Root cause:** `ProtocolIsJavaScript` via full `KURL` parse missed invalid URLs such as `javascript://://-alert(1)//`.
+- **How found:** diffing a suspicious Chromium commit (c7d115c0) touching `sanitizer.cc`; patch-diffing of fixes.
+- **Takeaways:** see writeup [`writeups/SLCyberSec/two-bypasses-for-chromes-sanitizer-api.md`](../writeups/SLCyberSec/two-bypasses-for-chromes-sanitizer-api.md) and harness digest [`harness/bug-classes/2026-11-26-human-model-differentials-sanitizer-api-url-reparse-lightwalletd.md`](../harness/bug-classes/2026-11-26-human-model-differentials-sanitizer-api-url-reparse-lightwalletd.md).

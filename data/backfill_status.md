@@ -1,6 +1,6 @@
 # Backfill status (X full-archive search)
 
-Updated 2026-11-25 08:42 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
+Updated 2026-11-26 06:59 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
 
 | Handle | Before (d427256) | Now | Oldest captured |
 |---|---|---|---|
@@ -65,8 +65,8 @@ Updated 2026-11-25 08:42 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @ryotkak | 161 | 200 | 2019-05-29 |
 | @xssdoctor | 156 | 204 | 2018-11-20 |
 | @Neodyme | 16 | 208 | 2021-08-21 |
-| @samwcyo | 31 | 210 | 2017-02-12 |
 | @krishnsec | 26 | 213 | 2021-08-17 |
+| @samwcyo | 31 | 215 | 2017-02-12 |
 | @PaulosYibelo | – | 216 | 2015-01-10 |
 | @0xacb | 109 | 220 | 2014-01-05 |
 | @0xriptide | 48 | 229 | 2014-07-21 |
@@ -84,9 +84,9 @@ Updated 2026-11-25 08:42 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @anchabadze | 94 | 474 | 2025-02-05 |
 | @samczsun | 53 | 499 | 2016-01-19 |
 | @zellic_io | 27 | 550 | 2022-01-27 |
-| @S1r1u5_ | 66 | 558 | 2017-02-26 |
-| @garethheyes | 59 | 573 | 2008-10-22 |
-| @irsdl | 35 | 621 | 2010-05-25 |
+| @S1r1u5_ | 66 | 560 | 2017-02-26 |
+| @garethheyes | 59 | 578 | 2008-10-22 |
+| @irsdl | 35 | 624 | 2010-05-25 |
 | @ChainLight_io | 150 | 1081 | 2022-11-05 |
 | @saxenism | 651 | 1193 | 2020-03-15 |
 | @NahamSec | 176 | 1214 | 2016-09-01 |
@@ -94,7 +94,7 @@ Updated 2026-11-25 08:42 WAT (Africa/Lagos). Counts = verbatim posts per account
 | @mdp_sec | 586 | 1976 | 2026-07-22 |
 | @pcaversaccio | 37 | 2281 | 2022-06-13 |
 
-Total: 5581 → 22160
+Total: 5581 → 22175
 
 ## Search cursors (pass 5, until_id paging)
 
@@ -106,9 +106,9 @@ Each cursor pages backwards with `until_id` = oldest post id already fetched by 
 | ryo | 185 | 2019-05-29 | 1133535728468578304 | DONE (start of timeline reached 2026-11-25) | `from:ryotkak -is:retweet (-is:reply OR to:ryotkak)` |
 | xss | 180 | 2018-11-20 | 1065024835372371973 | DONE (start of timeline reached 2026-11-25) | `from:xssdoctor -is:retweet (-is:reply OR to:xssdoctor)` |
 | t1 | 193 | 2024-01-05 | 1743207438994505739 | DONE (2026-11-25: back to 2024-01-05 returned posts already archived via t1b (reaches 2013); closed, overlap) | `(from:GuplerSaxanoid OR from:krishnsec OR from:ajxchapman OR from:RootxRavi) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR critical OR P1 OR XSS OR SSRF OR RCE OR SQLi OR IDOR OR bypass OR injection OR payload OR poc OR writeup OR disclosed OR triaged OR hackerone OR bugcrowd OR immunefi OR 🧵)` |
-| t2 | 193 | 2018-01-11 | 951552364070219778 | OPEN | `(from:deadrosesxyz OR from:samwcyo OR from:Guhu95) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR critical OR XSS OR SSRF OR RCE OR IDOR OR bypass OR injection OR payload OR poc OR writeup OR disclosed OR hackerone OR immunefi OR audit OR attack OR 🧵)` |
+| t2 | 242 | 2017-02-12 | 830850694768889857 | DONE (reached start of t2b segment (2017-02-12); closed 2026-11-26) | `(from:deadrosesxyz OR from:samwcyo OR from:Guhu95) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR critical OR XSS OR SSRF OR RCE OR IDOR OR bypass OR injection OR payload OR poc OR writeup OR disclosed OR hackerone OR immunefi OR audit OR attack OR 🧵)` |
 | t3 | 214 | 2022-03-22 | 1506061295862358023 | DONE (2026-11-25: back to 2022-03-22 overlaps t3b/n6a/n6b; closed) | `(from:nullity00 OR from:Neodyme OR from:osec_io OR from:0xteddav OR from:zellic_io OR from:lavados OR from:0xPARC) -is:retweet -is:reply (bug OR vuln OR vulnerability OR exploit OR CVE OR attack OR soundness OR underconstrained OR nonce OR "side channel" OR circuit OR audit OR disclosure OR advisory OR fuzz OR writeup OR 🧵)` |
-| u1 | 215 | 2025-11-19 | 1991161227909988716 | OPEN | `(from:S1r1u5_ OR from:zseano OR from:irsdl OR from:garethheyes) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR SQLi OR IDOR OR bypass OR injection OR payload OR poc OR writeup OR disclosed OR hackerone OR bugcrowd OR 🧵) [end_time 2026-10-20T00:00:00Z]` |
+| u1 | 340 | 2025-02-20 | 1892565249150038387 | OPEN | `(from:S1r1u5_ OR from:zseano OR from:irsdl OR from:garethheyes) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR SQLi OR IDOR OR bypass OR injection OR payload OR poc OR writeup OR disclosed OR hackerone OR bugcrowd OR 🧵) [end_time 2026-10-20T00:00:00Z]` |
 | nah3 | 714 | 2019-11-06 | 1192138362678734849 | DONE (reached start of segment cursor nah3m) | `from:NahamSec -is:retweet (-is:reply OR to:NahamSec) (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
 | rhy3 | 184 | 2017-06-13 | 874697245341478914 | DONE (closed manually) | `from:Rhynorater -is:retweet (-is:reply OR to:Rhynorater) (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
 | cmi3 | 50 | 2016-07-31 | 759768576274333696 | DONE (closed manually) | `from:cmichelio -is:retweet (-is:reply OR to:cmichelio)` |
@@ -182,10 +182,8 @@ Each cursor pages backwards with `until_id` = oldest post id already fetched by 
 | t25 | 23 | 2026-11-25 | superseded/OPEN |
 | t25b | 0 | – | superseded/OPEN |
 
-## 2026-11-25 morning-run re-do (second pass)
-- Re-ran after the 06:49 run was interrupted. Incremental top-up since 05:30Z: 5 grouped searches, +21 posts (mostly @mdp_sec replies; two security-relevant: [Warlock Max BB Arena result](../posts/mdp_sec/2026-11-25-2125469650624651528.md), [HuntDeck ATO median stats](../posts/mdp_sec/2026-11-25-2125472047858131161.md)).
-- Open cursors advanced 4 rounds: chl (+100, DONE: all overlap with chl3), t1 (+100, DONE: overlap with t1b), t3 (+100, DONE: overlap with t3b/n6a/n6b), u1 (+100 to 2025-11-19, OPEN), t2 (+25 to 2018-01-11, OPEN; page 2017-2018 samwcyo fetched but not ingested because the connector returned it inline only, resume from until_id 951552364070219778). Net new unique posts from these four rounds were only ~15 -> the historical backfill for these accounts is essentially exhausted.
-- X reads used today: ~88 of 1000.
+## ## 2026-11-26 morning run
+- u1 advanced 5 rounds (+125 posts, oldest 2025-02-20, OPEN: gap remains down to 2020-12 where u1b begins); t2 advanced 2 rounds to 2017-02-12 and closed (overlaps t2b). X reads used: ~25 of 1000.
 
 ## How to resume (next pass)
 1. For each OPEN pass-5 cursor above, call X full-archive search with the exact `query` and `until_id`, `max_results` 25, and ALWAYS include `post.fields` created_at,author_id,conversation_id,attachments,entities,note_post plus `expansions` author_id,attachments.media_keys,referenced_posts (omitting created_at/author_id drops them from the response).
