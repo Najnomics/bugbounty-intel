@@ -1,11 +1,61 @@
 # @galnagli — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 314
-- Conversations/threads: 217
+- Posts in this file: 315
+- Conversations/threads: 218
 - Oldest post captured: 2020-07-24
-- Newest post captured: 2026-11-23
+- Newest post captured: 2026-11-25
+
+
+---
+
+## 2026-11-25 · Post · Neon Cyber and Antigravity for Pentesting + Bug Bounty showing glimpses of the future - agents that 
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @galnagli — 2026-11-25 10:27 UTC (2026-11-25 11:27 WAT)
+
+- URL: https://x.com/galnagli/status/2125536914648547486
+- Metrics (at fetch): bookmark 61, impression 16428, like 169, quote 2, reply 13, repost 4
+
+> Neon Cyber and Antigravity for Pentesting + Bug Bounty showing glimpses of the future - agents that are way better than any human researcher by far
+>
+> We’re still early with more to come🧑🏻‍🍳 https://twitter.com/galnagli/status/2123296653692301598
+
+**Links in post:** https://twitter.com/galnagli/status/2123296653692301598
+
+**Quoted post (full text):**
+
+    #### Quoted post — @galnagli — 2026-11-19 06:05 UTC (2026-11-19 07:05 WAT)
+    
+    - URL: https://x.com/galnagli/status/2123296653692301598
+    - Metrics (at fetch): bookmark 9, impression 3010, like 28, quote 0, reply 5, repost 2
+    
+    > Gemini 4 Neon is fast, low-cost with SOTA intelligence in Web Penetration Testing and wide range of cybersecurity tasks ⚡️
+    >
+    > Excited to collaborate with @GoogleDeepMind's team on making Gemini the world's best cyber defender - more to come! [pic.x.com/LktOo1vrnc] https://twitter.com/ralucaadapopa/status/2123189881543561408
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXd2NCKWYAA5UiT.jpg — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/ralucaadapopa/status/2123189881543561408
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @3466862294 — 2026-11-18 23:01 UTC (2026-11-19 00:01 WAT)
+        
+        - URL: https://x.com/3466862294/status/2123189881543561408
+        - Metrics (at fetch): bookmark 14, impression 10470, like 132, quote 3, reply 7, retweet 15
+        
+        > Our new model, Gemini 4 Neon, is a fast and low-cost model, excelling at cyber defense tasks across the range of cybersecurity capabilities. 
+        > https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+        
+        **Links in post:** https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+        
+    
 
 
 ---
@@ -128,9 +178,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @14130366 — 2026-11-18 19:58 UTC (2026-11-18 20:58 WAT)
+#### Root post — @sundarpichai — 2026-11-18 19:58 UTC (2026-11-18 20:58 WAT)
 
-- URL: https://x.com/14130366/status/2123143850210533408
+- URL: https://x.com/sundarpichai/status/2123143850210533408
 - Metrics (at fetch): bookmark 309, impression 544541, like 6470, quote 148, reply 362, retweet 262
 
 > Happy WedNEsday! [pic.x.com/yD0VKPOGEx]
@@ -154,9 +204,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @284333988 — 2026-11-18 02:15 UTC (2026-11-18 03:15 WAT)
+#### Root post — @OfficialLoganK — 2026-11-18 02:15 UTC (2026-11-18 03:15 WAT)
 
-- URL: https://x.com/284333988/status/2122876403091959982
+- URL: https://x.com/OfficialLoganK/status/2122876403091959982
 - Metrics (at fetch): bookmark 370, impression 1397113, like 9420, quote 723, reply 520, retweet 464
 
 > Gemini
@@ -615,9 +665,9 @@ Tags (automatic): RCE, Memory corruption / native, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @209811713 — 2026-10-21 18:58 UTC (2026-10-21 19:58 WAT)
+    #### Quoted post — @TheHackersNews — 2026-10-21 18:58 UTC (2026-10-21 19:58 WAT)
     
-    - URL: https://x.com/209811713/status/2112981939984671090
+    - URL: https://x.com/TheHackersNews/status/2112981939984671090
     - Metrics (at fetch): bookmark 4578, impression 3580621, like 14858, quote 1546, reply 263, repost 2847
     
     > 🚨 CRITICAL: GitLab flaw (CVSS 10.0) affects 12 years of releases.
@@ -2252,9 +2302,9 @@ Tags (automatic): RCE, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1566463268 — 2025-12-03 15:44 UTC (2025-12-03 16:44 WAT)
+    #### Quoted post — @reactjs — 2025-12-03 15:44 UTC (2025-12-03 16:44 WAT)
     
-    - URL: https://x.com/1566463268/status/1996244264192274535
+    - URL: https://x.com/reactjs/status/1996244264192274535
     - Metrics (at fetch): not returned
     
     > There is critical vulnerability in React Server Components disclosed as CVE-2025-55182 that impacts React 19 and frameworks that use it.
@@ -3776,9 +3826,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1600519214519013377 — 2023-04-13 10:00 UTC (2023-04-13 11:00 WAT)
+    #### Quoted post — @ctbbpodcast — 2023-04-13 10:00 UTC (2023-04-13 11:00 WAT)
     
-    - URL: https://x.com/1600519214519013377/status/1646453170837520386
+    - URL: https://x.com/ctbbpodcast/status/1646453170837520386
     - Metrics (at fetch): bookmark 33, impression 40629, like 88, quote 2, reply 0, retweet 20
     
     > The latest million-dollar hacker @naglinagli hopped on the pod this week to talk about his recon setup, live hacking events, ChatGPT hax, and an SSRF that achieved him "Best Bug" at a recent live hacking event.
@@ -4617,9 +4667,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2897791291 — 2021-08-31 22:36 UTC (2021-08-31 23:36 WAT)
+    #### Quoted post — @iamnoooob — 2021-08-31 22:36 UTC (2021-08-31 23:36 WAT)
     
-    - URL: https://x.com/2897791291/status/1432834821907042305
+    - URL: https://x.com/iamnoooob/status/1432834821907042305
     - Metrics (at fetch): bookmark 175, impression 0, like 1076, quote 16, reply 20, retweet 437
     
     > Here's our writeup of CVE-2021-26084 Confluence RCE now that it's out in public. Although, there are still a few mysteries to be solved. cc: @rootxharsh 

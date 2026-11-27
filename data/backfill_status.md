@@ -1,191 +1,91 @@
 # Backfill status (X full-archive search)
 
-Updated 2026-11-26 06:59 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit d427256 (start of this pass).
+Updated 2026-11-27 07:15 WAT (Africa/Lagos). Counts = verbatim posts per account in the archive (retweets excluded). 'Before' = commit 4602bed2 (start of this pass).
 
-| Handle | Before (d427256) | Now | Oldest captured |
+| Handle | Before (4602bed2) | Now | Oldest captured |
 |---|---|---|---|
-| @iguardz | – | 0 | – |
-| @GuidoVranken | – | 0 | – |
-| @Cyfrin | – | 0 | – |
-| @hackwithsuryesh | – | 0 | – |
-| @kiki | – | 0 | – |
-| @Offside_Labs | – | 0 | – |
-| @spaceraccoon | – | 0 | – |
-| @chatterjisubham | – | 1 | 2026-11-21 |
-| @ipwning | – | 1 | 2026-11-25 |
-| @mikio815 | – | 3 | 2026-11-21 |
-| @SLCyberSec | – | 4 | 2026-11-16 |
-| @depi_ | – | 8 | 2026-11-11 |
-| @GuplerSaxanoid | 8 | 9 | 2026-11-01 |
+| @Cyfrin | 0 | 1 | 2025-12-23 |
+| @ipwning | 1 | 1 | 2026-11-25 |
+| @chatterjisubham | 1 | 2 | 2026-11-21 |
+| @SLCyberSec | 4 | 4 | 2026-11-16 |
+| @mikio815 | 3 | 4 | 2026-11-21 |
+| @GuplerSaxanoid | 9 | 9 | 2026-11-01 |
+| @depi_ | 8 | 10 | 2026-11-11 |
+| @nullity00 | 10 | 10 | 2023-05-23 |
 | @trust__90 | 10 | 10 | 2026-04-05 |
-| @nullity00 | 1 | 10 | 2023-05-23 |
 | @al_f4lc0n | 13 | 13 | 2026-03-15 |
 | @Shanon40439853 | 24 | 24 | 2023-07-24 |
-| @KeiZo_Zo | 24 | 29 | 2022-09-26 |
+| @KeiZo_Zo | 29 | 29 | 2022-09-26 |
 | @bbarwik | 32 | 32 | 2018-09-22 |
-| @brutecat | – | 33 | 2024-10-30 |
-| @0xvivekd | 35 | 39 | 2025-11-11 |
-| @jovanbulck | 31 | 43 | 2018-04-16 |
+| @brutecat | 33 | 33 | 2024-10-30 |
+| @0xvivekd | 39 | 39 | 2025-11-11 |
+| @jovanbulck | 43 | 43 | 2018-04-16 |
 | @0xiczc | 45 | 45 | 2017-05-31 |
-| @0xteddav | 24 | 49 | 2022-06-24 |
+| @0xteddav | 49 | 49 | 2022-06-24 |
 | @PwningEth | 53 | 53 | 2022-06-18 |
-| @keterka | 59 | 62 | 2025-10-25 |
-| @usmannk | 48 | 63 | 2023-08-16 |
-| @immunefi | – | 66 | 2021-09-16 |
-| @Swartz068 | 44 | 68 | 2024-12-30 |
+| @keterka | 62 | 62 | 2025-10-25 |
+| @usmannk | 63 | 65 | 2023-08-16 |
+| @Swartz068 | 68 | 68 | 2024-12-30 |
 | @brandon_shi | 68 | 68 | 2021-06-04 |
-| @str4d | – | 71 | 2013-09-06 |
-| @Guhu95 | 30 | 75 | 2023-08-19 |
-| @j00ru | 38 | 75 | 2011-07-12 |
-| @kevin_mizu | 40 | 77 | 2021-09-11 |
-| @deadrosesxyz | 32 | 82 | 2023-03-14 |
+| @str4d | 71 | 71 | 2013-09-06 |
+| @Guhu95 | 75 | 75 | 2023-08-19 |
+| @j00ru | 75 | 75 | 2011-07-12 |
+| @kevin_mizu | 77 | 77 | 2021-09-11 |
+| @immunefi | 66 | 83 | 2021-09-16 |
 | @_bagipro | 84 | 84 | 2020-08-16 |
-| @_blockian | 86 | 87 | 2023-03-03 |
-| @csanuragjain | 53 | 88 | 2018-11-14 |
-| @lavados | 25 | 90 | 2014-06-13 |
-| @naresh_1337 | 69 | 93 | 2026-05-22 |
-| @Piki_eth | 49 | 97 | 2024-09-21 |
-| @Kiki_developer | 44 | 105 | 2023-01-26 |
-| @RootxRavi | 27 | 109 | 2022-10-11 |
-| @Suryesh_92 | 99 | 110 | 2024-05-10 |
-| @orange_8361 | 45 | 125 | 2016-04-21 |
-| @infinitelogins | 33 | 128 | 2020-01-17 |
-| @SuyashS91823422 | 82 | 136 | 2021-10-06 |
-| @Assass1nmarcos | 45 | 141 | 2018-11-24 |
-| @asymmetric_re | 137 | 141 | 2024-01-29 |
-| @kobigurk | 45 | 142 | 2014-01-16 |
-| @0xPARC | 25 | 146 | 2021-11-11 |
-| @bluethroat_labs | 146 | 148 | 2025-12-02 |
-| @farazsth98 | 78 | 164 | 2019-09-30 |
-| @ma1fan | 44 | 167 | 2018-07-19 |
-| @kankodu | 57 | 169 | 2022-07-26 |
-| @fransrosen | 57 | 174 | 2011-06-29 |
-| @WhiteHatMage | 134 | 177 | 2025-11-29 |
-| @asanso | 67 | 195 | 2011-01-30 |
-| @ryotkak | 161 | 200 | 2019-05-29 |
-| @xssdoctor | 156 | 204 | 2018-11-20 |
-| @Neodyme | 16 | 208 | 2021-08-21 |
-| @krishnsec | 26 | 213 | 2021-08-17 |
-| @samwcyo | 31 | 215 | 2017-02-12 |
-| @PaulosYibelo | – | 216 | 2015-01-10 |
-| @0xacb | 109 | 220 | 2014-01-05 |
-| @0xriptide | 48 | 229 | 2014-07-21 |
-| @cmichelio | 181 | 244 | 2016-07-31 |
-| @infosec_au | 51 | 251 | 2015-07-16 |
-| @lonelysloth_sec | 50 | 255 | 2023-12-17 |
-| @ajxchapman | 26 | 297 | 2013-03-23 |
-| @galnagli | 68 | 314 | 2020-07-24 |
-| @albinowax | 59 | 347 | 2011-03-08 |
-| @osec_io | 22 | 389 | 2022-02-09 |
-| @zseano | 47 | 424 | 2015-08-11 |
-| @DevDacian | 32 | 425 | 2023-02-23 |
-| @Rhynorater | 188 | 439 | 2017-06-13 |
-| @zksecurityXYZ | 121 | 460 | 2023-05-16 |
-| @anchabadze | 94 | 474 | 2025-02-05 |
-| @samczsun | 53 | 499 | 2016-01-19 |
-| @zellic_io | 27 | 550 | 2022-01-27 |
-| @S1r1u5_ | 66 | 560 | 2017-02-26 |
-| @garethheyes | 59 | 578 | 2008-10-22 |
-| @irsdl | 35 | 624 | 2010-05-25 |
-| @ChainLight_io | 150 | 1081 | 2022-11-05 |
-| @saxenism | 651 | 1193 | 2020-03-15 |
-| @NahamSec | 176 | 1214 | 2016-09-01 |
-| @trailofbits | 65 | 1466 | 2012-02-13 |
-| @mdp_sec | 586 | 1976 | 2026-07-22 |
-| @pcaversaccio | 37 | 2281 | 2022-06-13 |
+| @deadrosesxyz | 82 | 86 | 2023-03-14 |
+| @_blockian | 87 | 87 | 2023-03-03 |
+| @csanuragjain | 88 | 88 | 2018-11-14 |
+| @lavados | 90 | 90 | 2014-06-13 |
+| @naresh_1337 | 93 | 94 | 2026-05-22 |
+| @Piki_eth | 97 | 98 | 2024-09-21 |
+| @Kiki_developer | 105 | 105 | 2023-01-26 |
+| @RootxRavi | 109 | 109 | 2022-10-11 |
+| @Suryesh_92 | 110 | 110 | 2024-05-10 |
+| @orange_8361 | 125 | 125 | 2016-04-21 |
+| @infinitelogins | 128 | 129 | 2020-01-17 |
+| @SuyashS91823422 | 136 | 139 | 2021-10-06 |
+| @Assass1nmarcos | 141 | 141 | 2018-11-24 |
+| @asymmetric_re | 141 | 141 | 2024-01-29 |
+| @kobigurk | 142 | 142 | 2014-01-16 |
+| @0xPARC | 146 | 146 | 2021-11-11 |
+| @bluethroat_labs | 148 | 148 | 2025-12-02 |
+| @farazsth98 | 164 | 164 | 2019-09-30 |
+| @ma1fan | 167 | 167 | 2018-07-19 |
+| @kankodu | 169 | 169 | 2022-07-26 |
+| @fransrosen | 174 | 174 | 2011-06-29 |
+| @WhiteHatMage | 177 | 177 | 2025-11-29 |
+| @asanso | 195 | 195 | 2011-01-30 |
+| @ryotkak | 200 | 200 | 2019-05-29 |
+| @xssdoctor | 204 | 207 | 2018-11-20 |
+| @Neodyme | 208 | 208 | 2021-08-21 |
+| @krishnsec | 213 | 213 | 2021-08-17 |
+| @samwcyo | 215 | 215 | 2017-02-12 |
+| @PaulosYibelo | 216 | 216 | 2015-01-10 |
+| @0xacb | 220 | 223 | 2014-01-05 |
+| @0xriptide | 229 | 232 | 2014-07-21 |
+| @cmichelio | 244 | 244 | 2016-07-31 |
+| @infosec_au | 251 | 251 | 2015-07-16 |
+| @lonelysloth_sec | 255 | 273 | 2023-12-17 |
+| @ajxchapman | 297 | 297 | 2013-03-23 |
+| @galnagli | 314 | 315 | 2020-07-24 |
+| @albinowax | 347 | 347 | 2011-03-08 |
+| @osec_io | 389 | 389 | 2022-02-09 |
+| @zseano | 424 | 425 | 2015-08-11 |
+| @DevDacian | 425 | 426 | 2023-02-23 |
+| @Rhynorater | 439 | 439 | 2017-06-13 |
+| @zksecurityXYZ | 460 | 462 | 2023-05-16 |
+| @anchabadze | 474 | 475 | 2025-02-05 |
+| @samczsun | 499 | 499 | 2016-01-19 |
+| @zellic_io | 550 | 550 | 2022-01-27 |
+| @S1r1u5_ | 560 | 570 | 2017-02-26 |
+| @garethheyes | 578 | 582 | 2008-10-22 |
+| @irsdl | 624 | 624 | 2010-05-25 |
+| @ChainLight_io | 1081 | 1081 | 2022-11-05 |
+| @NahamSec | 1214 | 1214 | 2016-09-01 |
+| @saxenism | 1193 | 1235 | 2020-03-15 |
+| @trailofbits | 1466 | 1467 | 2012-02-13 |
+| @mdp_sec | 1976 | 2199 | 2026-07-22 |
+| @pcaversaccio | 2281 | 2285 | 2022-06-13 |
 
-Total: 5581 → 22175
-
-## Search cursors (pass 5, until_id paging)
-
-Each cursor pages backwards with `until_id` = oldest post id already fetched by that cursor, using the exact query below. To resume: run the same query with `until_id` set to the value shown. DONE = X returned zero further results (or closed manually, noted). Machine state: `/workspace/raw/x2state.json` on the bot box (same fields).
-
-| Cursor | Fetched | Oldest reached | until_id (resume) | State | Query |
-|---|---|---|---|---|---|
-| chl | 350 | 2024-04-22 | 1782445622920110438 | DONE (2026-11-25: back to 2024-04-22 returned only posts already archived via chl3/chl3m; closed, low-yield overlap) | `from:ChainLight_io -is:retweet (-is:reply OR to:ChainLight_io)` |
-| ryo | 185 | 2019-05-29 | 1133535728468578304 | DONE (start of timeline reached 2026-11-25) | `from:ryotkak -is:retweet (-is:reply OR to:ryotkak)` |
-| xss | 180 | 2018-11-20 | 1065024835372371973 | DONE (start of timeline reached 2026-11-25) | `from:xssdoctor -is:retweet (-is:reply OR to:xssdoctor)` |
-| t1 | 193 | 2024-01-05 | 1743207438994505739 | DONE (2026-11-25: back to 2024-01-05 returned posts already archived via t1b (reaches 2013); closed, overlap) | `(from:GuplerSaxanoid OR from:krishnsec OR from:ajxchapman OR from:RootxRavi) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR critical OR P1 OR XSS OR SSRF OR RCE OR SQLi OR IDOR OR bypass OR injection OR payload OR poc OR writeup OR disclosed OR triaged OR hackerone OR bugcrowd OR immunefi OR 🧵)` |
-| t2 | 242 | 2017-02-12 | 830850694768889857 | DONE (reached start of t2b segment (2017-02-12); closed 2026-11-26) | `(from:deadrosesxyz OR from:samwcyo OR from:Guhu95) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR critical OR XSS OR SSRF OR RCE OR IDOR OR bypass OR injection OR payload OR poc OR writeup OR disclosed OR hackerone OR immunefi OR audit OR attack OR 🧵)` |
-| t3 | 214 | 2022-03-22 | 1506061295862358023 | DONE (2026-11-25: back to 2022-03-22 overlaps t3b/n6a/n6b; closed) | `(from:nullity00 OR from:Neodyme OR from:osec_io OR from:0xteddav OR from:zellic_io OR from:lavados OR from:0xPARC) -is:retweet -is:reply (bug OR vuln OR vulnerability OR exploit OR CVE OR attack OR soundness OR underconstrained OR nonce OR "side channel" OR circuit OR audit OR disclosure OR advisory OR fuzz OR writeup OR 🧵)` |
-| u1 | 340 | 2025-02-20 | 1892565249150038387 | OPEN | `(from:S1r1u5_ OR from:zseano OR from:irsdl OR from:garethheyes) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR SQLi OR IDOR OR bypass OR injection OR payload OR poc OR writeup OR disclosed OR hackerone OR bugcrowd OR 🧵) [end_time 2026-10-20T00:00:00Z]` |
-| nah3 | 714 | 2019-11-06 | 1192138362678734849 | DONE (reached start of segment cursor nah3m) | `from:NahamSec -is:retweet (-is:reply OR to:NahamSec) (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
-| rhy3 | 184 | 2017-06-13 | 874697245341478914 | DONE (closed manually) | `from:Rhynorater -is:retweet (-is:reply OR to:Rhynorater) (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
-| cmi3 | 50 | 2016-07-31 | 759768576274333696 | DONE (closed manually) | `from:cmichelio -is:retweet (-is:reply OR to:cmichelio)` |
-| chl3 | 800 | 2023-05-11 | 1656638541198430209 | DONE (reached start of segment cursor chl3m) | `from:ChainLight_io -is:retweet (-is:reply OR to:ChainLight_io)` |
-| ryo3 | 38 | 2019-05-29 | 1133535728468578304 | DONE (closed manually) | `from:ryotkak -is:retweet (-is:reply OR to:ryotkak)` |
-| xss3 | 17 | 2023-07-10 | 1678433299356680192 | DONE (closed manually) | `from:xssdoctor -is:retweet (-is:reply OR to:xssdoctor) (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR injection OR payload OR poc OR writeup OR hackerone OR bugcrowd OR recon OR takeover OR 🧵 OR tip OR research)` |
-| t1b | 398 | 2013-03-23 | 315523413340979200 | DONE | `(from:GuplerSaxanoid OR from:krishnsec OR from:ajxchapman OR from:RootxRavi) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
-| t2b | 228 | 2017-02-12 | 830850654457446402 | DONE (closed manually) | `(from:deadrosesxyz OR from:samwcyo OR from:Guhu95) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR RCE OR bypass OR poc OR writeup OR hackerone OR immunefi OR audit OR critical OR attack OR hack OR 🧵)` |
-| t3b | 275 | 2014-06-13 | 477388174596243456 | DONE | `(from:nullity00 OR from:Neodyme OR from:osec_io OR from:0xteddav OR from:zellic_io OR from:lavados OR from:0xPARC) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR poc OR writeup OR immunefi OR audit OR critical OR attack OR hack OR fuzz OR 🧵 OR zk OR circuit)` |
-| u1b | 682 | 2020-12-14 | 1338514279281156098 | DONE (reached start of segment cursor u1s) | `(from:S1r1u5_ OR from:zseano OR from:irsdl OR from:garethheyes) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
-| g7b | 221 | 2016-04-21 | 723051664635138048 | DONE (closed manually) | `(from:WhiteHatMage OR from:Kiki_developer OR from:orange_8361 OR from:farazsth98 OR from:samczsun) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR RCE OR bypass OR poc OR writeup OR hackerone OR immunefi OR audit OR critical OR attack OR hack OR 🧵)` |
-| g8b | 102 | 2011-07-12 | 90844361222389760 | DONE (closed manually) | `(from:kevin_mizu OR from:SuyashS91823422 OR from:j00ru OR from:Suryesh_92) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR RCE OR bypass OR poc OR writeup OR hackerone OR immunefi OR audit OR critical OR attack OR hack OR 🧵)` |
-| g9b | 100 | 2014-01-05 | 419875510852665344 | DONE (closed manually) | `(from:usmannk OR from:0xacb) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR RCE OR bypass OR poc OR writeup OR hackerone OR immunefi OR audit OR critical OR attack OR hack OR 🧵)` |
-| g10b | 465 | 2021-05-01 | 1388447765886341122 | DONE (reached start of segment cursor g10s) | `(from:galnagli OR from:ma1fan OR from:infinitelogins OR from:infosec_au OR from:Assass1nmarcos) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
-| g11b | 416 | 2018-01-17 | 953422449273720833 | DONE (reached start of segment cursor g11s) | `(from:Piki_eth OR from:lonelysloth_sec OR from:fransrosen OR from:anchabadze) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR RCE OR bypass OR poc OR writeup OR hackerone OR immunefi OR audit OR critical OR attack OR hack OR 🧵)` |
-| g12b | 580 | 2021-09-23 | 1440994386280648714 | DONE (reached start of segment cursor g12s) | `(from:DevDacian OR from:0xriptide OR from:albinowax) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR RCE OR bypass OR poc OR writeup OR hackerone OR immunefi OR audit OR critical OR attack OR hack OR 🧵)` |
-| g5b | 64 | 2018-04-16 | 985868223504633856 | DONE (closed manually) | `(from:kankodu OR from:jovanbulck OR from:csanuragjain) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR RCE OR bypass OR poc OR writeup OR hackerone OR immunefi OR audit OR critical OR attack OR hack OR 🧵)` |
-| c1b | 215 | 2011-01-30 | 31725974613655552 | DONE | `(from:asanso OR from:kobigurk OR from:GuidoVranken OR from:str4d) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR poc OR writeup OR immunefi OR audit OR critical OR attack OR hack OR fuzz OR 🧵 OR zk OR circuit)` |
-| c2b | 277 | 2012-04-03 | 187174882516283392 | DONE | `(from:trailofbits OR from:pcaversaccio) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR poc OR writeup OR immunefi OR audit OR critical OR attack OR hack OR fuzz OR 🧵 OR zk OR circuit)` |
-| g6b | 18 | 2023-07-02 | 1675587380982730753 | DONE (closed manually) | `(from:0xvivekd OR from:zksecurityXYZ) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR RCE OR bypass OR poc OR writeup OR hackerone OR immunefi OR audit OR critical OR attack OR hack OR 🧵)` |
-| nah3s | 45 | 2018-03-18 | 975501835044765696 | DONE | `from:NahamSec -is:retweet (-is:reply OR to:NahamSec) (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
-| u1s | 290 | 2016-10-17 | 788143521135988736 | DONE (reached start of segment cursor u1t) | `(from:S1r1u5_ OR from:zseano OR from:irsdl OR from:garethheyes) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
-| u1t | 275 | 2014-05-22 | 469461617760301056 | DONE | `(from:S1r1u5_ OR from:zseano OR from:irsdl OR from:garethheyes) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
-| g10s | 171 | 2015-07-16 | 621607513830469632 | DONE | `(from:galnagli OR from:ma1fan OR from:infinitelogins OR from:infosec_au OR from:Assass1nmarcos) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
-| g11s | 24 | 2017-06-15 | 875407440417873920 | DONE (reached start of segment cursor g11t) | `(from:Piki_eth OR from:lonelysloth_sec OR from:fransrosen OR from:anchabadze) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR RCE OR bypass OR poc OR writeup OR hackerone OR immunefi OR audit OR critical OR attack OR hack OR 🧵)` |
-| g11t | 96 | 2011-06-29 | 86194689644048384 | DONE | `(from:Piki_eth OR from:lonelysloth_sec OR from:fransrosen OR from:anchabadze) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR RCE OR bypass OR poc OR writeup OR hackerone OR immunefi OR audit OR critical OR attack OR hack OR 🧵)` |
-| g12s | 74 | 2017-11-30 | 936185965185560578 | DONE (reached start of segment cursor g12t) | `(from:DevDacian OR from:0xriptide OR from:albinowax) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR RCE OR bypass OR poc OR writeup OR hackerone OR immunefi OR audit OR critical OR attack OR hack OR 🧵)` |
-| g12t | 94 | 2011-03-08 | 45208238723039232 | DONE | `(from:DevDacian OR from:0xriptide OR from:albinowax) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR RCE OR bypass OR poc OR writeup OR hackerone OR immunefi OR audit OR critical OR attack OR hack OR 🧵)` |
-| u1u | 194 | 2011-04-07 | 56100459307479040 | DONE (reached start of segment cursor u1v) | `(from:S1r1u5_ OR from:zseano OR from:irsdl OR from:garethheyes) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
-| u1v | 194 | 2008-10-22 | 970249637 | DONE | `(from:S1r1u5_ OR from:zseano OR from:irsdl OR from:garethheyes) -is:retweet -is:reply (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
-| chl3s | 13 | 2022-11-05 | 1588861091278651392 | DONE | `from:ChainLight_io -is:retweet (-is:reply OR to:ChainLight_io)` |
-| chl3m | 124 | 2022-12-06 | 1600129926623277056 | DONE (reached start of segment cursor chl3s) | `from:ChainLight_io -is:retweet (-is:reply OR to:ChainLight_io)` |
-| nah3m | 120 | 2019-03-05 | 1103002478163853312 | DONE (reached start of segment cursor nah3s) | `from:NahamSec -is:retweet (-is:reply OR to:NahamSec) (bug OR vuln OR exploit OR bounty OR CVE OR XSS OR SSRF OR RCE OR IDOR OR bypass OR poc OR writeup OR hackerone OR bugcrowd OR recon OR 🧵 OR tip)` |
-| mdp5 | 0 | 2026-07-22 | 2079869121513378138 | DONE (timeline floor; no earlier original posts returned) | `from:mdp_sec -is:retweet (-is:reply OR to:mdp_sec)` |
-| sax5 | 50 | 2024-08-21 | 1826316681574318390 | DONE (superseded by sax5k at 2024-08-21; closed) | `from:saxenism -is:retweet (-is:reply OR to:saxenism)` |
-| sax5k | 373 | 2020-03-15 | 1239266311294701568 | DONE (reached account start (2020-03-15)) | `from:saxenism -is:retweet (-is:reply OR to:saxenism) (bug OR vuln OR exploit OR bounty OR CVE OR poc OR audit OR security OR attack OR hack OR zk OR circuit OR tee OR sgx OR solidity OR evm OR 🧵 OR thread OR critical OR immunefi OR code4rena OR finding)` |
-| n6a | 475 | 2021-08-21 | 1429086758172565511 | DONE | `(from:Neodyme OR from:osec_io) -is:retweet -is:reply` |
-| n6b | 355 | 2023-05-16 | 1658515564309118978 | DONE | `from:zksecurityXYZ -is:retweet -is:reply` |
-| n6c | 1392 | 2012-02-13 | 169174545574539267 | DONE | `from:trailofbits -is:retweet -is:reply` |
-| n6d | 23 | 2025-06-19 | 1935760517177675877 | DONE (closed after 1 page: 22/23 already archived (low yield)) | `(from:asymmetric_re OR from:zellic_io OR from:ChainLight_io) -is:retweet -is:reply (vulnerability OR bug OR exploit OR audit OR critical OR disclosure OR postmortem OR writeup OR blog)` |
-| n6e | 2640 | 2016-01-19 | 689442579633451008 | DONE (reached start: samczsun 2016-01-19, empty terminal page 2026-11-24) | `(from:samczsun OR from:pcaversaccio) -is:retweet -is:reply` |
-| n7a | 230 | 2015-01-10 | 554038256095227905 | DONE | `(from:brutecat OR from:PaulosYibelo OR from:spaceraccoon) -is:retweet -is:reply` |
-
-## Older cursors (passes 1–4, next_token paging) — superseded by pass-5 cursors above
-
-| Cursor | Fetched | Oldest reached | State |
-|---|---|---|---|
-| saxenism | 14 | 2026-11-03 | superseded/OPEN |
-| saxk | 319 | 2025-09-09 | superseded/OPEN |
-| g1 | 145 | 2017-05-31 | DONE |
-| g2 | 42 | 2026-10-21 | superseded/OPEN |
-| g3 | 224 | 2020-08-16 | DONE |
-| g4 | 240 | 2021-06-04 | DONE |
-| g5 | 256 | 2025-04-22 | superseded/OPEN |
-| g2b | 81 | 2018-09-22 | DONE |
-| cr1 | 24 | 2018-10-29 | superseded/OPEN |
-| c1 | 137 | 2023-09-21 | superseded/OPEN |
-| c2 | 164 | 2024-12-24 | superseded/OPEN |
-| g6 | 146 | 2026-01-26 | superseded/OPEN |
-| g7 | 235 | 2024-07-20 | superseded/OPEN |
-| g8 | 119 | 2025-02-12 | superseded/OPEN |
-| g9 | 120 | 2026-01-14 | superseded/OPEN |
-| g10 | 134 | 2026-05-14 | superseded/OPEN |
-| g11 | 138 | 2026-08-01 | superseded/OPEN |
-| g12 | 24 | 2026-09-27 | superseded/OPEN |
-| nah | 137 | 2025-01-17 | superseded/OPEN |
-| rhy | 148 | 2023-08-25 | superseded/OPEN |
-| cmi | 146 | 2017-07-01 | superseded/OPEN |
-| asy | 7 | 2024-01-29 | DONE |
-| g8o | 75 | 2024-05-11 | superseded/OPEN |
-| t25 | 23 | 2026-11-25 | superseded/OPEN |
-| t25b | 0 | – | superseded/OPEN |
-
-## ## 2026-11-26 morning run
-- u1 advanced 5 rounds (+125 posts, oldest 2025-02-20, OPEN: gap remains down to 2020-12 where u1b begins); t2 advanced 2 rounds to 2017-02-12 and closed (overlaps t2b). X reads used: ~25 of 1000.
-
-## How to resume (next pass)
-1. For each OPEN pass-5 cursor above, call X full-archive search with the exact `query` and `until_id`, `max_results` 25, and ALWAYS include `post.fields` created_at,author_id,conversation_id,attachments,entities,note_post plus `expansions` author_id,attachments.media_keys,referenced_posts (omitting created_at/author_id drops them from the response).
-2. Ingest with `/workspace/raw/auto.py <cursor labels…>` (maps each result file to its cursor by author, advances until_id), then `/workspace/raw/push.sh "<msg>"` (regenerates ARCHIVE.md files + this status, commits, pushes).
-3. A cursor is DONE when a call returns zero results. cmi3 (cmichelio) was closed manually at 2016-07 (pre-security-era posts); xss3, ryo3, rhy3, g5b, g6b, t2b, g7b, g8b, g9b returned zero / reached account start.
+Open cursors still in `/workspace/raw/x2state.json`: 20 (u1 marked DONE this run; saxk advanced to n=442 oldest 2024-04-11). Prefer finishing open cursors over adding names when quota is tight.

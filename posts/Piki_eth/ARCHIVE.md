@@ -1,11 +1,44 @@
 # @Piki_eth — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 97
-- Conversations/threads: 71
+- Posts in this file: 98
+- Conversations/threads: 72
 - Oldest post captured: 2024-09-21
-- Newest post captured: 2026-11-23
+- Newest post captured: 2026-11-25
+
+
+---
+
+## 2026-11-25 · Reply · @matthubuilds Will there more validators on mainnet .?
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @matthubuilds — 2026-11-25 11:14 UTC (2026-11-25 12:14 WAT)
+
+- URL: https://x.com/matthubuilds/status/2125548569252032667
+- Metrics (at fetch): bookmark 1, impression 1821, like 60, quote 1, reply 9, retweet 4
+
+> big updates 
+> most onchain apps today are stitched together. assets on one chain, prices from an oracle, liquidity somewhere else. every seam is a trust assumption.
+> TxEVM puts the assets, the price data and your contracts on the same chain. fewer seams, less to trust.
+> testnet is open. builders, go break it.
+
+**Links in post:** https://twitter.com/TxFlow_L1/status/2125542694835609635
+
+**Quoted post** 2125542694835609635: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @Piki_eth — 2026-11-25 14:42 UTC (2026-11-25 15:42 WAT)
+
+- URL: https://x.com/Piki_eth/status/2125601052364046840
+- Metrics (at fetch): bookmark 0, impression 35, like 0, quote 0, reply 0, repost 0
+
+> @matthubuilds Will there more validators on mainnet .?
 
 
 ---
@@ -71,9 +104,9 @@ Tags (automatic): Platform: HackenProof
 
 **Context — conversation root by another account:**
 
-#### Root post — @1301404276556812288 — 2026-11-18 15:04 UTC (2026-11-18 16:04 WAT)
+#### Root post — @v4rvl — 2026-11-18 15:04 UTC (2026-11-18 16:04 WAT)
 
-- URL: https://x.com/1301404276556812288/status/2123069964944814107
+- URL: https://x.com/v4rvl/status/2123069964944814107
 - Metrics (at fetch): bookmark 1, impression 786, like 13, quote 0, reply 6, retweet 2
 
 > I have 5 invites for Immunefi studio. 
@@ -1403,9 +1436,9 @@ Tags (automatic): Smart contract / DeFi, Platform: Code4rena / Sherlock / Cantin
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1358831196747235328 — 2025-11-06 01:44 UTC (2025-11-06 02:44 WAT)
+    #### Quoted post — @code4rena — 2025-11-06 01:44 UTC (2025-11-06 02:44 WAT)
     
-    - URL: https://x.com/1358831196747235328/status/1986248191537537077
+    - URL: https://x.com/code4rena/status/1986248191537537077
     - Metrics (at fetch): bookmark 2, impression 4779, like 44, quote 3, reply 4, retweet 2
     
     > The results of the $33,000 Hybra Finance Competitive Audit are in!
@@ -1533,9 +1566,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1873810196125876225 — 2025-07-14 15:34 UTC (2025-07-14 16:34 WAT)
+    #### Quoted post — @monad_dev — 2025-07-14 15:34 UTC (2025-07-14 16:34 WAT)
     
-    - URL: https://x.com/1873810196125876225/status/1944782452981158044
+    - URL: https://x.com/monad_dev/status/1944782452981158044
     - Metrics (at fetch): bookmark 36, impression 34050, like 615, quote 27, reply 94, retweet 99
     
     > Mission 6: Multiplayer Apps with @multisynq
@@ -1759,9 +1792,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1070099092246802432 — 2024-09-28 14:30 UTC (2024-09-28 15:30 WAT)
+    #### Quoted post — @SamuelXeus — 2024-09-28 14:30 UTC (2024-09-28 15:30 WAT)
     
-    - URL: https://x.com/1070099092246802432/status/1840036268195140071
+    - URL: https://x.com/SamuelXeus/status/1840036268195140071
     - Metrics (at fetch): bookmark 1312, impression 321220, like 1195, quote 21, reply 116, retweet 250
     
     > Have you heard about the @0xSonicLabs airdrop yet?

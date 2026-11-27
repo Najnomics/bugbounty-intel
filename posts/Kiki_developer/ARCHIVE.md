@@ -1,6 +1,6 @@
 # @Kiki_developer — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 105
 - Conversations/threads: 82
@@ -1569,9 +1569,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1544845931140743168 — 2023-05-23 13:52 UTC (2023-05-23 14:52 WAT)
+    #### Quoted post — @1_00_proof — 2023-05-23 13:52 UTC (2023-05-23 14:52 WAT)
     
-    - URL: https://x.com/1544845931140743168/status/1661007142298714112
+    - URL: https://x.com/1_00_proof/status/1661007142298714112
     - Metrics (at fetch): not returned
     
     > @KyberNetwork ... but no longer! thanks to a fruitful collaboration between the KyberSwap team &amp; me.  

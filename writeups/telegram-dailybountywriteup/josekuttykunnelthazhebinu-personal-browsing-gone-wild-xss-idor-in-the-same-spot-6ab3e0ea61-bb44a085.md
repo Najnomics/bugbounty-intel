@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@josekuttykunnelthazhebinu/personal-browsing-gone-wild-xss-idor-in-the-same-spot-6ab3e0ea6190?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@josekuttykunnelthazhebinu
-- **Fetched:** 2026-11-17
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 12097)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

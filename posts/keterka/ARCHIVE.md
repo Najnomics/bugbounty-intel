@@ -1,6 +1,6 @@
 # @keterka — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 62
 - Conversations/threads: 54
@@ -15,9 +15,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @1471962504087625733 — 2026-11-16 17:50 UTC (2026-11-16 18:50 WAT)
+#### Root post — @windhustler — 2026-11-16 17:50 UTC (2026-11-16 18:50 WAT)
 
-- URL: https://x.com/1471962504087625733/status/2122386904771432757
+- URL: https://x.com/windhustler/status/2122386904771432757
 - Metrics (at fetch): bookmark 4, impression 2970, like 272, quote 0, reply 77, retweet 0
 
 > The weekend was super busy. My daughter was born on Saturday, one day before my 35th birthday! [pic.x.com/PiyfzpZdX6]
@@ -41,9 +41,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — post being replied to:**
 
-#### Parent post — @1556885890487750656 — 2026-11-14 19:58 UTC (2026-11-14 20:58 WAT)
+#### Parent post — @BengalCatBalu — 2026-11-14 19:58 UTC (2026-11-14 20:58 WAT)
 
-- URL: https://x.com/1556885890487750656/status/2121694207094243665
+- URL: https://x.com/BengalCatBalu/status/2121694207094243665
 - Metrics (at fetch): bookmark 0, impression 620, like 28, quote 0, reply 3, retweet 3
 
 > RareWeek by @RareSkills_io was a truly unique experience.

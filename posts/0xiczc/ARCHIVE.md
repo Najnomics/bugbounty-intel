@@ -1,6 +1,6 @@
 # @0xiczc — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 45
 - Conversations/threads: 18
@@ -515,9 +515,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1191702416971968512 — 2023-01-09 14:33 UTC (2023-01-09 15:33 WAT)
+    #### Quoted post — @zksync — 2023-01-09 14:33 UTC (2023-01-09 15:33 WAT)
     
-    - URL: https://x.com/1191702416971968512/status/1612457648619917313
+    - URL: https://x.com/zksync/status/1612457648619917313
     - Metrics (at fetch): bookmark 1, impression 22618, like 50, quote 4, reply 1, repost 6
     
     > Following on from the initial audit from @OpenZeppelin, a second audit report from @secure3io has confirmed that our zero-compromise approach to security continues, with all initial audit findings fixed and zero critical issues so far.

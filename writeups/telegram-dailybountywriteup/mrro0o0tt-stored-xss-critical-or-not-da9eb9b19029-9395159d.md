@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@mrro0o0tt/stored-xss-critical-or-not-da9eb9b19029?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@mrro0o0tt
-- **Fetched:** 2026-11-18
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 7648)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

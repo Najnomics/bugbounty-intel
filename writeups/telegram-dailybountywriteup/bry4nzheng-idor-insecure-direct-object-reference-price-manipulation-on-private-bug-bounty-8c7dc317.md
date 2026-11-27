@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@bry4nzheng/idor-insecure-direct-object-reference-price-manipulation-on-private-bug-bounty-program-2527431ffcfd?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@bry4nzheng
-- **Fetched:** 2026-11-20
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 5263)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

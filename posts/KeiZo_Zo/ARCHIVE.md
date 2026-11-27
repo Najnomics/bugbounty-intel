@@ -1,6 +1,6 @@
 # @KeiZo_Zo — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 29
 - Conversations/threads: 21
@@ -18,9 +18,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Context — conversation root by another account:**
 
-#### Root post — @1301404276556812288 — 2026-06-24 19:31 UTC (2026-06-24 20:31 WAT)
+#### Root post — @v4rvl — 2026-06-24 19:31 UTC (2026-06-24 20:31 WAT)
 
-- URL: https://x.com/1301404276556812288/status/2069865939722543462
+- URL: https://x.com/v4rvl/status/2069865939722543462
 - Metrics (at fetch): bookmark 11, impression 21060, like 53, quote 1, reply 10, retweet 3
 
 > Anyone bug hunting on @cantinasecurity and has an idea of what is going on with @MezoNetwork or @dYdX? 
@@ -98,9 +98,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1633975370985746432 — 2026-11-15 05:21 UTC (2026-11-15 06:21 WAT)
+#### Root post — @ControlZ_1337 — 2026-11-15 05:21 UTC (2026-11-15 06:21 WAT)
 
-- URL: https://x.com/1633975370985746432/status/2121835846110237162
+- URL: https://x.com/ControlZ_1337/status/2121835846110237162
 - Metrics (at fetch): bookmark 10, impression 1648, like 37, quote 0, reply 2, retweet 0
 
 > And that’s exactly why almost everything ends up being a duplicate. Researchers need to find a way to bring their own unique edge to the research process when using LLM’s if they want to discover findings others miss, or at least find them first. https://twitter.com/aegiryy/status/2121824856673239486

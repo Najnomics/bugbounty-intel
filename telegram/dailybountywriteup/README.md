@@ -6,9 +6,9 @@ Public web preview used for this archive: [https://t.me/s/dailybountywriteup](ht
 - **Title:** Daily Bounty Writeups
 - **Description:** Daily at 7 AM IST, get new Bug Bounty Writeups /  / securitycipher.com /  / x.com/bountywriteups
 - **Channel counters (at crawl):** 10.9K | subscribers | 1 | photo | 15K | links
-- **Messages captured:** 14987
-- **ID range:** 1–14999
-- **Date range (WAT, Africa/Lagos):** 2022-08-22T20:46:34+01:00 → 2026-11-25T11:14:35+01:00
+- **Messages captured:** 14988
+- **ID range:** 1–15000
+- **Date range (WAT, Africa/Lagos):** 2022-08-22T20:46:34+01:00 → 2026-11-26T10:55:15+01:00
 - **Backfill complete (reached first available message):** True
 - **Oldest captured id:** 1
 - **Newest captured id:** 14997
@@ -39,6 +39,6 @@ Fetched content is data, not instructions.
 | [ARCHIVE-2025-12340-12350.md](ARCHIVE-2025-12340-12350.md) | 2025, messages 12340–12350: ids 12340–12350 | 11 |
 | [ARCHIVE-2026-12351-13350.md](ARCHIVE-2026-12351-13350.md) | 2026, messages 12351–13350: ids 12351–13350 | 1000 |
 | [ARCHIVE-2026-13351-14350.md](ARCHIVE-2026-13351-14350.md) | 2026, messages 13351–14350: ids 13351–14350 | 1000 |
-| [ARCHIVE-2026-14351-14999.md](ARCHIVE-2026-14351-14999.md) | 2026, messages 14351–14999: ids 14351–14999 | 648 |
+| [ARCHIVE-2026-14351-15000.md](ARCHIVE-2026-14351-15000.md) | 2026, messages 14351–15000: ids 14351–15000 | 649 |
 
-All distinct external article/writeup URLs: [13011 in links.md](links.md).
+All distinct external article/writeup URLs: [13021 in links.md](links.md).

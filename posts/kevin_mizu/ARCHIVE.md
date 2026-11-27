@@ -1,6 +1,6 @@
 # @kevin_mizu — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 77
 - Conversations/threads: 60
@@ -1211,9 +1211,9 @@ Tags (automatic): Request smuggling / desync
 
 **Quoted post (full text):**
 
-    #### Quoted post — @72546363 — 2024-04-10 07:08 UTC (2024-04-10 08:08 WAT)
+    #### Quoted post — @Icare1337 — 2024-04-10 07:08 UTC (2024-04-10 08:08 WAT)
     
-    - URL: https://x.com/72546363/status/1777956864501670003
+    - URL: https://x.com/Icare1337/status/1777956864501670003
     - Metrics (at fetch): not returned
     
     > https://github.com/Icare1337/LibreOffice_Tips_Bug_Bounty
@@ -1469,9 +1469,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @736615159653924864 — 2023-11-13 14:09 UTC (2023-11-13 15:09 WAT)
+    #### Quoted post — @intigriti — 2023-11-13 14:09 UTC (2023-11-13 15:09 WAT)
     
-    - URL: https://x.com/736615159653924864/status/1724066913561493834
+    - URL: https://x.com/intigriti/status/1724066913561493834
     - Metrics (at fetch): not returned
     
     > 📚 Can't get enough of this challenge? Here's the official writeup by @kevin_mizu 💜

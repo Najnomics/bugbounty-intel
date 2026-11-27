@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@Alharbe0/from-simple-restriction-bypass-to-internal-privilege-escalation-to-high-impact-idor-e7b8366ac70d?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@Alharbe0
-- **Fetched:** 2026-11-16
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 10514)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

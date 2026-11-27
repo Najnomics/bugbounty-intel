@@ -1,6 +1,6 @@
 # @zellic_io — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 550
 - Conversations/threads: 130
@@ -865,9 +865,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @823927742911709185 — 2026-05-15 17:20 UTC (2026-05-15 18:20 WAT)
+    #### Quoted post — @offensive_con — 2026-05-15 17:20 UTC (2026-05-15 18:20 WAT)
     
-    - URL: https://x.com/823927742911709185/status/2055337476072317314
+    - URL: https://x.com/offensive_con/status/2055337476072317314
     - Metrics (at fetch): bookmark 13, impression 24104, like 55, quote 1, reply 3, retweet 3
     
     > Enhanced Insecurity Mode: 23 RCEs in Edge's "Safe" WebAssembly Interpreter by @eternalsakura13 and R1nd0 [pic.x.com/y0nJsyIw0V]
@@ -1232,9 +1232,9 @@ Tags (automatic): XSS, Account takeover
 
 **Quoted post (full text):**
 
-    #### Quoted post — @789591129696133120 — 2026-01-14 14:04 UTC (2026-01-14 15:04 WAT)
+    #### Quoted post — @samm0uda — 2026-01-14 14:04 UTC (2026-01-14 15:04 WAT)
     
-    - URL: https://x.com/789591129696133120/status/2011439232083210309
+    - URL: https://x.com/samm0uda/status/2011439232083210309
     - Metrics (at fetch): bookmark 736, impression 215057, like 1323, quote 18, reply 38, retweet 225
     
     > $312,500 worth of stored/reflected XSS vulnerabilities in Meta’s Conversions API Gateway allowed Javascript code to run on any Facebook domain and millions of third-party websites. The flaw enabled zero-click Facebook account takeover and more:
@@ -1865,9 +1865,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1358831196747235328 — 2025-06-17 15:03 UTC (2025-06-17 16:03 WAT)
+    #### Quoted post — @code4rena — 2025-06-17 15:03 UTC (2025-06-17 16:03 WAT)
     
-    - URL: https://x.com/1358831196747235328/status/1934990384566018249
+    - URL: https://x.com/code4rena/status/1934990384566018249
     - Metrics (at fetch): bookmark 92, impression 209199, like 754, quote 47, reply 98, retweet 120
     
     > Code4rena will run audit contests for free, as public goods.
@@ -1916,9 +1916,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1530530365 — 2025-06-16 20:21 UTC (2025-06-16 21:21 WAT)
+    #### Quoted post — @chainlink — 2025-06-16 20:21 UTC (2025-06-16 21:21 WAT)
     
-    - URL: https://x.com/1530530365/status/1934707986926325790
+    - URL: https://x.com/chainlink/status/1934707986926325790
     - Metrics (at fetch): bookmark 13, impression 60138, like 593, quote 3, reply 24, retweet 78
     
     > The competitive audit for a new version of Chainlink Rewards, featuring a $200K prize pool, has just begun on @code4rena and will run for 30 days.
@@ -2307,9 +2307,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1416402399384662021 — 2025-05-19 14:01 UTC (2025-05-19 15:01 WAT)
+    #### Quoted post — @saharaai — 2025-05-19 14:01 UTC (2025-05-19 15:01 WAT)
     
-    - URL: https://x.com/1416402399384662021/status/1924465527503937646
+    - URL: https://x.com/saharaai/status/1924465527503937646
     - Metrics (at fetch): bookmark 601, impression 1597886, like 6580, quote 5468, reply 3103, retweet 3292
     
     > 🔥The SIWA Public Testnet is now live!
@@ -3044,9 +3044,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1463071986515599362 — 2024-07-10 16:45 UTC (2024-07-10 17:45 WAT)
+    #### Quoted post — @Starknet — 2024-07-10 16:45 UTC (2024-07-10 17:45 WAT)
     
-    - URL: https://x.com/1463071986515599362/status/1811079269470327254
+    - URL: https://x.com/Starknet/status/1811079269470327254
     - Metrics (at fetch): bookmark 58, impression 232408, like 731, quote 78, reply 95, retweet 164
     
     > It's official: STRK staking is coming to Starknet! 🕺
@@ -3076,9 +3076,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1544385947156058112 — 2024-09-27 15:26 UTC (2024-09-27 16:26 WAT)
+    #### Quoted post — @hexagate_ — 2024-09-27 15:26 UTC (2024-09-27 16:26 WAT)
     
-    - URL: https://x.com/1544385947156058112/status/1839688065528291725
+    - URL: https://x.com/hexagate_/status/1839688065528291725
     - Metrics (at fetch): bookmark 0, impression 2123, like 5, quote 1, reply 1, retweet 0
     
     > 1/ 🚀 We are excited to announce that @zellic_io and Hexagate are partnering together to power invariant mapping and monitoring for protocols at all stages: pre and post-deployment!
@@ -3634,9 +3634,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: 
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1358831196747235328 — 2024-08-12 21:31 UTC (2024-08-12 22:31 WAT)
+    #### Quoted post — @code4rena — 2024-08-12 21:31 UTC (2024-08-12 22:31 WAT)
     
-    - URL: https://x.com/1358831196747235328/status/1823110076653248715
+    - URL: https://x.com/code4rena/status/1823110076653248715
     - Metrics (at fetch): bookmark 3, impression 11794, like 10, quote 2, reply 1, retweet 0
     
     > Not one but TWO Dark Horse competitors jumped to the top of the competition leaderboard with solo findings
@@ -3753,9 +3753,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: 
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1358831196747235328 — 2024-08-22 14:11 UTC (2024-08-22 15:11 WAT)
+    #### Quoted post — @code4rena — 2024-08-22 14:11 UTC (2024-08-22 15:11 WAT)
     
-    - URL: https://x.com/1358831196747235328/status/1826623238094684274
+    - URL: https://x.com/code4rena/status/1826623238094684274
     - Metrics (at fetch): bookmark 12, impression 51226, like 104, quote 20, reply 4, retweet 10
     
     > We’re excited to announce that Code4rena and Zellic are joining forces ⚡️
@@ -4089,9 +4089,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1126385176467124224 — 2024-02-07 03:54 UTC (2024-02-07 04:54 WAT)
+    #### Quoted post — @gf_256 — 2024-02-07 03:54 UTC (2024-02-07 04:54 WAT)
     
-    - URL: https://x.com/1126385176467124224/status/1755077432875307173
+    - URL: https://x.com/gf_256/status/1755077432875307173
     - Metrics (at fetch): bookmark 1806, impression 319793, like 1859, quote 26, reply 21, retweet 209
     
     > In 2008, the Danish government used cutting-edge cryptography to auction 25,000 tons of beets.
@@ -4369,9 +4369,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1501279850727821312 — 2024-01-03 20:05 UTC (2024-01-03 21:05 WAT)
+    #### Quoted post — @RDNTCapital — 2024-01-03 20:05 UTC (2024-01-03 21:05 WAT)
     
-    - URL: https://x.com/1501279850727821312/status/1742638375629177244
+    - URL: https://x.com/RDNTCapital/status/1742638375629177244
     - Metrics (at fetch): bookmark 6, impression 19411, like 69, quote 3, reply 2, retweet 2
     
     > In no particular order, we want to thank @paladin_marco, @hexagate_, @BlockSecTeam, @LayerZero_Labs, @MaybeMaxPower, @samczsun, @chaoslabs, @pcaversaccio, Daniel from @OriginProtocol, Stephen Tong from @zellic_io, @chainalysis, @tayvano_, @cryptogle, @pashov, @trmlabs, @0x4C756B65 for their analysis, code reviews, & ongoing work to hunt down the exploiter.
@@ -6397,9 +6397,9 @@ Tags (automatic): Race condition, Smart contract / DeFi, Blockchain / L1-L2 / br
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1508441849601703948 — 2023-01-03 00:46 UTC (2023-01-03 01:46 WAT)
+    #### Quoted post — @valoremxyz — 2023-01-03 00:46 UTC (2023-01-03 01:46 WAT)
     
-    - URL: https://x.com/1508441849601703948/status/1610074975289081857
+    - URL: https://x.com/valoremxyz/status/1610074975289081857
     - Metrics (at fetch): bookmark 1, impression 3787, like 6, quote 1, reply 1, retweet 3
     
     > First round of audit complete: https://github.com/valorem-labs-inc/valorem-core/blob/master/audits/Valorem%20-%20Zellic%20Audit%20Report.pdf
@@ -6646,9 +6646,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @4916110689 — 2022-09-26 21:55 UTC (2022-09-26 22:55 WAT)
+    #### Quoted post — @hacker_ — 2022-09-26 21:55 UTC (2022-09-26 22:55 WAT)
     
-    - URL: https://x.com/4916110689/status/1574518042737790976
+    - URL: https://x.com/hacker_/status/1574518042737790976
     - Metrics (at fetch): bookmark 224, impression 0, like 4953, quote 58, reply 307, retweet 284
     
     > I'm uncomfortable tweeting stuff like this out, but...
@@ -7160,9 +7160,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @122360573 — 2022-08-19 06:09 UTC (2022-08-19 07:09 WAT)
+    #### Quoted post — @Mudit__Gupta — 2022-08-19 06:09 UTC (2022-08-19 07:09 WAT)
     
-    - URL: https://x.com/122360573/status/1560509312606298112
+    - URL: https://x.com/Mudit__Gupta/status/1560509312606298112
     - Metrics (at fetch): bookmark 36, impression 0, like 171, quote 5, reply 40, retweet 18
     
     > How much salary should a senior solidity auditor be paid?
@@ -8357,9 +8357,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1474053478557356039 — 2022-06-23 15:03 UTC (2022-06-23 16:03 WAT)
+    #### Quoted post — @cega_fi — 2022-06-23 15:03 UTC (2022-06-23 16:03 WAT)
     
-    - URL: https://x.com/1474053478557356039/status/1539987457772605443
+    - URL: https://x.com/cega_fi/status/1539987457772605443
     - Metrics (at fetch): bookmark 28, impression 0, like 421, quote 48, reply 29, retweet 141
     
     > 1/ Today we are excited to announce the mainnet launch of Cega. https://t.co/9S9dBdhcgC

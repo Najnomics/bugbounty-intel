@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@rajqureshi07/the-story-of-how-i-was-able-to-chain-ssrf-with-command-injection-vulnerability-ef31feb30ea9?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@rajqureshi07
-- **Fetched:** 2026-11-16
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 1986)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

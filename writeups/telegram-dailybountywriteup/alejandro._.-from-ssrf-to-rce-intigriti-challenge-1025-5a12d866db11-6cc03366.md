@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@alejandro._./from-ssrf-to-rce-intigriti-challenge-1025-5a12d866db11?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@alejandro._.
-- **Fetched:** 2026-11-16
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 11274)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

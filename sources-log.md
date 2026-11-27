@@ -367,6 +367,15 @@ Full HTTP requests, wildcard payloads, WAF-bypass SQL, XSS polyglots, Algolia cu
 - **Crypto**: 76 RustSec crypto-crate advisories (openssl mirrors omitted) + 0xPARC zk-bug-tracker README under `projects/crypto/`.
 - **Backfill (partial)**: first/second timeline pages for fransrosen, albinowax, garethheyes, kevin_mizu, infosec_au, samwcyo, orange_8361, samczsun, jovanbulck, lonelysloth_sec, 0xiczc, zksecurityXYZ, _bagipro, j00ru, zseano, irsdl, galnagli — new posts merged into existing `posts/<handle>/` folders. Many accounts still thin (see report).
 
+## 2026-11-27 (Africa/Lagos) — Morning bug bounty intel
+
+- X full-archive / recent search for all handles in researchers.md (+ new posts since 2026-11-25T07:00:40Z); get_posts_by_ids for full note_tweet text. Verbatim under `posts/<handle>/` + ARCHIVE.md.
+- Writeups fetched: mehmetince.net CVE-2026-6460; AWS Cairn/MONAI; Chrome 158 notes; Trailmark v0.9.0 + README; BB Arena home/CTF/SWE-2.1; mdpsec hunting-prompts README. huntdeck.io still 403.
+- Telegram t.me/s/defendor_eng + dailybountywriteup incremental; Medium RSS + Wayback batch for pending writeups.
+- HackerOne GraphQL enum disclosed_at:[2026-11-25 TO 2026-11-27] + reports/<id>.json; mdpsec hacktivity re-check (18 undisclosed).
+- CVE: cvelistV5 delta zips 2026-11-26/27; NVD lastMod since 2026-11-25; GHSA git pull; KEV refetch (unchanged); project security-advisories sweep (0 new).
+- Backfill: u1 DONE (0 more); saxk pages 14→18 (n 319→442, oldest 2024-04-11).
+
 ## 2026-11-11 — Backfill pass (full-archive X search)
 
 - Full-archive keyword searches (security terms; unfiltered for small accounts) across all watched researchers plus 13 crypto/protocol accounts. Results regenerated into `posts/<handle>/ARCHIVE.md` (verbatim, threads grouped, quoted posts inlined) and `data/x_posts.jsonl`.

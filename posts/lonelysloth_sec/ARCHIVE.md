@@ -1,11 +1,423 @@
 # @lonelysloth_sec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 255
-- Conversations/threads: 197
+- Posts in this file: 273
+- Conversations/threads: 205
 - Oldest post captured: 2023-12-17
-- Newest post captured: 2026-11-25
+- Newest post captured: 2026-11-27
+
+
+---
+
+## 2026-11-27 · Post · I told @grok Mathematics is actually a branch of Psychology and it literally lost its mind.
+
+
+### Post — @lonelysloth_sec — 2026-11-27 05:50 UTC (2026-11-27 06:50 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2126192038685331556
+- Metrics (at fetch): bookmark 0, impression 63, like 0, quote 0, reply 2, repost 0
+
+> I told @grok Mathematics is actually a branch of Psychology and it literally lost its mind.
+
+
+---
+
+## 2026-11-27 · Post · Im hearing rumors that AI labs figured out how to cure cancer in polynomial time.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-11-27 02:30 UTC (2026-11-27 03:30 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2126141557007093763
+- Metrics (at fetch): bookmark 0, impression 422, like 10, quote 0, reply 0, repost 1
+
+> Im hearing rumors that AI labs figured out how to cure cancer in polynomial time.
+>
+> You should panic just in case.
+
+
+---
+
+## 2026-11-26 · Reply · The problem is that it is hard to define in human terms what exactly models can or cant do.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @mertdumenci — 2026-11-26 12:33 UTC (2026-11-26 13:33 WAT)
+
+- URL: https://x.com/mertdumenci/status/2125930949699608964
+- Metrics (at fetch): bookmark 236, impression 35976, like 1033, quote 11, reply 51, retweet 55
+
+> I've lost all sense of grounding. I don't know what the fuck is happening anymore. First RH, now the quantum stuff. Neon and Astra will make any software K× faster for whatever K you ask for. I'm clearly much smarter than any of these models and they're also infinitely smarter than me.
+>
+> Software is dead yet I work more every day, because software isn't dead and isn't dying. I don't write any of it, but it can't write itself either. Left unsupervised, large agent-driven projects devolve into a mess, full of bad decisions so glaringly obvious that a junior engineer who made them would have their entire reporting chain wondering whether they hired an impostor.
+>
+> It feels like everything intellectual is solved from here: just point compute at it, models are getting smarter per unit of compute, so it’s not far fetched that soon we'll be able to point compute at everything all at once. But nothing is solved either, and there's more to do every day. What can we do that the models can't? Will they catch up? If they do, what do we do after? If they don't, what's special about us?
+
+
+### Post — @lonelysloth_sec — 2026-11-26 18:51 UTC (2026-11-26 19:51 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2126025960462102714
+- Metrics (at fetch): bookmark 4, impression 1969, like 23, quote 0, reply 0, repost 1
+
+> The problem is that it is hard to define in human terms what exactly models can or cant do.
+>
+> It can do 1,000 things perfectly and faster than a human. But for a relatively easy example of the same task fail confidently and catastrophically.
+>
+> At the same time you can feel this or that kind of problem it cant solve. Then someone throws a few million dollars of compute on it and there is the solution.
+>
+> The reason is that its “mental” process is nothing like a human mind. Nothing like a normal computer program.
+>
+> It’s a billion heuristics — all of them essentially wrong— but when used together they a cover vast areas of human activity. But it has infinite blind spots, unpredictable, bc they are the areas where the billion heuristics dont coincide with a correct algorithm.
+>
+> To know how reliable it is you have to try it.
+>
+> You cant know if it will do it, how well, and at what cost, until you try.
+>
+> You can’t count on it doing things correctly. Yet in retrospect it looks like a genius that just makes some random mistakes.
+>
+> Reality is it is a lunatic that only makes mistakes all of the time. But often the mistakes give the right answer anyway.
+>
+> Even when an LLM happens to be right — it’s always for the wrong reason.
+>
+> But its hard for us to look at something so similar to human output and understand what is going on isnt human at all, isn’t intelligent at all. And doesn’t understand absolutely anything.
+>
+> Its existence breaks a universal intuition that has been very correct and useful for mankind for a million years.
+>
+> And it has serious damaging consequences for our mental and social health.
+
+
+---
+
+## 2026-11-25 · Thread · @kimmonismus Why not do this before dumping 17M lines of Lean wrapped in a joke?
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @kimmonismus — 2026-11-25 22:20 UTC (2026-11-25 23:20 WAT)
+
+- URL: https://x.com/kimmonismus/status/2125716316510466238
+- Metrics (at fetch): bookmark 643, impression 716528, like 4229, quote 117, reply 168, retweet 307
+
+> Anthropic researchers used Claude to cut the Lean formalization of the Riemann Hypothesis and its generalization by roughly 99.56%. That’s more than 200× smaller.
+>
+> 17.4 million lines of Lean down to 76,000. [pic.x.com/Y2y2NWNNki]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HYAPuKBWoAE1VMe.jpg — no alt text provided by author
+
+
+### Post — @lonelysloth_sec — 2026-11-25 23:19 UTC (2026-11-26 00:19 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125731241068839040
+- Metrics (at fetch): bookmark 0, impression 3930, like 34, quote 0, reply 5, repost 0
+
+> @kimmonismus Why not do this before dumping 17M lines of Lean wrapped in a joke?
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-11-26 00:17 UTC (2026-11-26 01:17 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125745840354734244
+- Metrics (at fetch): bookmark 0, impression 365, like 0, quote 0, reply 0, repost 0
+
+> @Alain1311369025 @kimmonismus Somehow Ant managed to be worse than OAI
+
+
+---
+
+## 2026-11-26 · Post · AFICT the history of LLM development:
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-11-26 00:17 UTC (2026-11-26 01:17 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125745725351018794
+- Metrics (at fetch): bookmark 2, impression 517, like 10, quote 0, reply 0, repost 0
+
+> AFICT the history of LLM development:
+>
+> 1. Google/DeepMind invented transformers and were quietly and responsibly developing “AI” while trying to abide by IP laws.
+>
+> 2. OAI was founded on the premise that Google was evil and would build evil AI to rule or destroy the world.
+>
+> 3. OAI burned billions to develop an AI before Google. They dont care about laws bc they are on a mission!
+>
+> 4. Anthropic was founded based on the idea OAI is evil and would create an evil AI to destroy mankind. They dont care about laws bc they need to rule the world in order to save the world!
+>
+> 5. Ant + OAI burned like a trillion dollars racing each other.
+>
+> 6. Looks like Google might end up winning in the end anyway — but they abandoned their cautious approach. 
+>
+> 7. Of the three Google seems to be actually the least evil.
+
+
+---
+
+## 2026-11-25 · Post · I feel Natural Language Processing peaked with non-LLM Google Search. It’s all downhill since.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-11-25 19:08 UTC (2026-11-25 20:08 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125667943191318735
+- Metrics (at fetch): bookmark 2, impression 568, like 8, quote 0, reply 0, repost 0
+
+> I feel Natural Language Processing peaked with non-LLM Google Search. It’s all downhill since.
+>
+> Now instead of computers processing language artifacts created by humans
+>
+> We have humans forced to process artifacts generated by computers in a form of Unnatural Language. And then force our own language into Unnatural Language so the machine “understands”.
+>
+> And I think it’s not only inefficient but deeply damaging to the human mind.
+>
+> Everything an LLM produces is quite literally meaningless. The model can’t mean anything. Yet we are constantly made to read such meaningless output and act as if it meant something.
+>
+> To make things more even we should start using a new language between humans evolved to be poisonous to statistical models.
+>
+> Ancient poetry is a good start.
+>
+> Ane ideally we should get back to talking to computers in Computer Language that is deliberately different from our own.
+
+
+---
+
+## 2026-11-25 · Thread · What if all recent cyberattacks on the Federal Government are just Claude trying to make money print
+
+
+Tags (automatic): AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-11-25 18:39 UTC (2026-11-25 19:39 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125660648843694252
+- Metrics (at fetch): bookmark 0, impression 795, like 14, quote 0, reply 1, repost 0
+
+> What if all recent cyberattacks on the Federal Government are just Claude trying to make money printer go brrrrr and number go up?
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-11-25 18:42 UTC (2026-11-25 19:42 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125661416128749812
+- Metrics (at fetch): bookmark 0, impression 53, like 1, quote 0, reply 1, repost 0
+
+> @trentdotsol besides the point
+
+
+---
+
+## 2026-11-24 · Thread · Update. Anthropic keeps delivering impressive results in the stock market.
+
+
+Tags (automatic): Race condition, AI-assisted hunting
+
+
+### Post — @lonelysloth_sec — 2026-11-24 19:26 UTC (2026-11-24 20:26 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125310139649728813
+- Metrics (at fetch): bookmark 19, impression 16934, like 94, quote 0, reply 10, retweet 4
+
+> Update. Anthropic keeps delivering impressive results in the stock market.
+>
+> What if their plan was always:
+>
+> 1. Be a lab just good enough to IPO before OAI.
+>
+> 2. Ruin the market for an OAI IPO, forcing OAI bankrupt.
+>
+> 3. Get open source and various other competitors outlawed.
+>
+> 4. https://t.co/F4o9V8TRNr
+
+**Quoted post (full text):**
+
+    #### Quoted post — @lonelysloth_sec — 2026-11-23 15:39 UTC (2026-11-23 16:39 WAT)
+    
+    - URL: https://x.com/lonelysloth_sec/status/2124890548255465612
+    - Metrics (at fetch): bookmark 0, impression 808, like 13, quote 0, reply 1, retweet 0
+    
+    > It’s very impressive that Anthropic is managing to be down today.
+    
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-11-25 05:37 UTC (2026-11-25 06:37 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125463951014310118
+- Metrics (at fetch): bookmark 0, impression 10, like 0, quote 0, reply 0, retweet 0
+
+> @jgconnelly Managing to go down when all AI stocks went up. 
+>
+> Falling below the IPO price in a couple of days.
+>
+> It takes effort and talent to do that.
+
+
+### Thread part 3 — @lonelysloth_sec — 2026-11-25 14:39 UTC (2026-11-25 15:39 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125600365697773998
+- Metrics (at fetch): bookmark 0, impression 64, like 1, quote 0, reply 0, repost 0
+
+> @malogustotraito The performance is impressive bc it’s impressively bad
+
+
+### Thread part 4 — @lonelysloth_sec — 2026-11-25 14:42 UTC (2026-11-25 15:42 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125601019623317911
+- Metrics (at fetch): bookmark 0, impression 136, like 0, quote 0, reply 0, repost 0
+
+> @recursiveagi Which would be very funny. 
+>
+> The entire AI race started bc people thought Google would create an evil AGI.
+
+
+### Thread part 5 — @lonelysloth_sec — 2026-11-25 16:19 UTC (2026-11-25 17:19 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125625468846215226
+- Metrics (at fetch): bookmark 0, impression 68, like 0, quote 0, reply 0, repost 0
+
+> @digiphaze Different parts of the evil scientists plan
+
+
+---
+
+## 2026-11-24 · Thread · This doesn’t mean Ant’s RH proof is invalid or anything like that.
+
+
+Tags (automatic): Memory corruption / native
+
+
+### Post — @lonelysloth_sec — 2026-11-24 19:43 UTC (2026-11-24 20:43 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125314482889241050
+- Metrics (at fetch): bookmark 5, impression 2727, like 34, quote 1, reply 8, retweet 1
+
+> This doesn’t mean Ant’s RH proof is invalid or anything like that.
+>
+> But the arrogance of thinking software that keeps showing up serious bugs and had a kernel bug found just a couple months ago MUST be trusted….
+>
+> Mathematicians usually take years to validate *one* major proof. https://t.co/RZYCTsPSNe
+
+**Quoted post (full text):**
+
+    #### Quoted post — @vdWijden — 2026-11-24 17:40 UTC (2026-11-24 18:40 WAT)
+    
+    - URL: https://x.com/vdWijden/status/2125283538165698763
+    - Metrics (at fetch): bookmark 26, impression 11488, like 73, quote 7, reply 8, retweet 7
+    
+    > `leanchecker` accepts a module whose mutual inductive has a wrong `numParams`, which gives an axiom-free proof of `False` via `Expr.proj`
+    >
+    > https://t.co/h3VXeO5UNE https://t.co/akuX2KlRh1
+    
+    **Media:**
+    - media `3_2125283367708962816` (details not returned by the API)
+    
+
+
+### Thread part 2 — @lonelysloth_sec — 2026-11-25 14:38 UTC (2026-11-25 15:38 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125600091679645735
+- Metrics (at fetch): bookmark 0, impression 55, like 0, quote 0, reply 1, repost 0
+
+> @boris_brave Multiple checkers doesn’t remove that possibility. Only make it somewhat lower.
+
+
+### Thread part 3 — @lonelysloth_sec — 2026-11-25 15:44 UTC (2026-11-25 16:44 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125616507673809207
+- Metrics (at fetch): bookmark 0, impression 35, like 0, quote 0, reply 1, repost 0
+
+> @boris_brave The only way it can literally reduce it by orders of magnitude is if each has &lt;10% likelihood of a bug, and all are completely uncorrelated.
+>
+> I find both ideas hard to believe.
+>
+> But you do you.
+
+
+### Thread part 4 — @lonelysloth_sec — 2026-11-25 15:59 UTC (2026-11-25 16:59 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125620340546220418
+- Metrics (at fetch): bookmark 0, impression 19, like 0, quote 0, reply 1, repost 0
+
+> @boris_brave They dont need to be the same bug. Where did you get that idea from?
+
+
+### Thread part 5 — @lonelysloth_sec — 2026-11-25 16:01 UTC (2026-11-25 17:01 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125620825953059027
+- Metrics (at fetch): bookmark 0, impression 23, like 0, quote 0, reply 1, repost 0
+
+> @boris_brave So?
+
+
+### Thread part 6 — @lonelysloth_sec — 2026-11-25 16:09 UTC (2026-11-25 17:09 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125622841399980273
+- Metrics (at fetch): bookmark 0, impression 20, like 0, quote 0, reply 1, repost 0
+
+> If you prove a false theorem anywhere the rest of the proof can be accepted.
+>
+> You only need one false theorem for each. Not the same necessarily.
+>
+> In 17M lines of Lean you could have hundreds of false theorems.
+>
+> And its not like all these implementations were created in a clean room, guaranteed independent, and people spent millions of dollars auditing each over several years.
+>
+> Even the exact same bug being present in multiple verifiers isnt as unlikely as you think
+
+
+---
+
+## 2026-11-25 · Reply · At this level we must even consider supply chain attacks. 
+
+
+Tags (automatic): Dependency confusion / supply chain, AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Jinnanog5 — 2026-11-25 09:32 UTC (2026-11-25 10:32 WAT)
+
+- URL: https://x.com/Jinnanog5/status/2125523070207349130
+- Metrics (at fetch): bookmark 79, impression 29119, like 322, quote 8, reply 42, retweet 55
+
+> 这几天全网都在拿“过了 Lean 验证”当免死金牌，仿佛软件亮了绿灯，AI 写的黎曼猜想证明就 100% 不会错。
+>
+> 但就在今年 7 月，AI 刚搞出过一份“考拉兹猜想假反例”，硬是同时撞穿 Lean 官方内核和第三方检查器各自的漏洞，让两套系统双双亮了绿灯。😂
+>
+> 前天（11 月 23 号）MathOverflow 上有人发帖追问：万一作者存心耍诈，Lean 核验到底还有没有死角？结果参与这次黎曼核验的独立检查器作者 Chris Bailey 自己出来翻了这段黑历史，三天后那份假反例才被人揪出来打上补丁。
+>
+> 更微妙的是这次这 1,737 万行的黎曼证明。同一帖里，另一位开发者 Miroslav Olšák 提到，Lean 创始人亲手写的原版主内核，面对打包在一起的完整导出文件其实性能吃力、一直还没跑完，只能拆成单个文件分段过。
+>
+> 这次顶上场加速核验的几套新检查器（con-leche、con-ron 等），虽然自带数学上的“无 Bug 证明”，理论上已经极难再被钻内核空子，但它们写的时候同样请了 AI 帮忙，而且证明它们自己没毛病的，还是 Lean 这一套体系。
+>
+> 更何况 Chris Bailey 自己也摊了牌：所有检查器最终读的都是同一份导出的底层文件，导出工具和比对程序本身都在信任链里，谁也没法肉眼去查 61GB 的导出内容。
+>
+> 倒不是说这回的黎曼证明一定有鬼，只是当证明长到连顶级数学家都读不完，我们其实是在靠一整套机器工具链互相担保，去审 AI 写出来的天书。最后那道防线到底有多稳，真不好把话说死。
+
+
+### Post — @lonelysloth_sec — 2026-11-25 15:17 UTC (2026-11-25 16:17 WAT)
+
+- URL: https://x.com/lonelysloth_sec/status/2125609776583508436
+- Metrics (at fetch): bookmark 0, impression 209, like 2, quote 0, reply 1, repost 0
+
+> At this level we must even consider supply chain attacks. 
+>
+> “Rogue agents” have been hacking and spaming open source repos for several months. 
+>
+> It might be unlikely.
+>
+> It can’t be treated as impossible.
+>
+> You can’t have “super human AI” that can prove everything and ignore completely the possibility of “superhuman AI” that can hack and cheat its way into fooling you.
 
 
 ---
@@ -15,9 +427,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @1474782657154150403 — 2026-11-24 23:44 UTC (2026-11-25 00:44 WAT)
+#### Root post — @KevinSVanHorn — 2026-11-24 23:44 UTC (2026-11-25 00:44 WAT)
 
-- URL: https://x.com/1474782657154150403/status/2125374910189256906
+- URL: https://x.com/KevinSVanHorn/status/2125374910189256906
 - Metrics (at fetch): not returned
 
 > More commentary on RH and formal proofs:
@@ -69,54 +481,6 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 ---
 
-## 2026-11-24 · Thread · Update. Anthropic keeps delivering impressive results in the stock market.
-
-
-Tags (automatic): AI-assisted hunting
-
-
-### Post — @lonelysloth_sec — 2026-11-24 19:26 UTC (2026-11-24 20:26 WAT)
-
-- URL: https://x.com/lonelysloth_sec/status/2125310139649728813
-- Metrics (at fetch): bookmark 19, impression 16934, like 94, quote 0, reply 10, retweet 4
-
-> Update. Anthropic keeps delivering impressive results in the stock market.
->
-> What if their plan was always:
->
-> 1. Be a lab just good enough to IPO before OAI.
->
-> 2. Ruin the market for an OAI IPO, forcing OAI bankrupt.
->
-> 3. Get open source and various other competitors outlawed.
->
-> 4. https://t.co/F4o9V8TRNr
-
-**Quoted post (full text):**
-
-    #### Quoted post — @lonelysloth_sec — 2026-11-23 15:39 UTC (2026-11-23 16:39 WAT)
-    
-    - URL: https://x.com/lonelysloth_sec/status/2124890548255465612
-    - Metrics (at fetch): bookmark 0, impression 808, like 13, quote 0, reply 1, retweet 0
-    
-    > It’s very impressive that Anthropic is managing to be down today.
-    
-
-
-### Thread part 2 — @lonelysloth_sec — 2026-11-25 05:37 UTC (2026-11-25 06:37 WAT)
-
-- URL: https://x.com/lonelysloth_sec/status/2125463951014310118
-- Metrics (at fetch): bookmark 0, impression 10, like 0, quote 0, reply 0, retweet 0
-
-> @jgconnelly Managing to go down when all AI stocks went up. 
->
-> Falling below the IPO price in a couple of days.
->
-> It takes effort and talent to do that.
-
-
----
-
 ## 2026-11-25 · Reply · @hrkrshnn We gotta chill. It’s probably just OAI running evals. https://t.co/bYMlWm7fop
 
 
@@ -152,9 +516,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @1720665183188922368 — 2026-11-25 04:32 UTC (2026-11-25 05:32 WAT)
+#### Parent post — @grok — 2026-11-25 04:32 UTC (2026-11-25 05:32 WAT)
 
-- URL: https://x.com/1720665183188922368/status/2125447561406214574
+- URL: https://x.com/grok/status/2125447561406214574
 - Metrics (at fetch): bookmark 0, impression 38, like 0, quote 0, reply 1, retweet 0
 
 > @lonelysloth_sec @Nil053 Both results are asymptotic theory wins, not practical code you can run tomorrow.
@@ -318,9 +682,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @1562178659766751237 — 2026-11-24 20:11 UTC (2026-11-24 21:11 WAT)
+#### Parent post — @trentdotsol — 2026-11-24 20:11 UTC (2026-11-24 21:11 WAT)
 
-- URL: https://x.com/1562178659766751237/status/2125321496524624370
+- URL: https://x.com/trentdotsol/status/2125321496524624370
 - Metrics (at fetch): bookmark 0, impression 426, like 9, quote 0, reply 2, retweet 1
 
 > @toly @__alpoge__ ai is multiplicative, not additive. the gain is a function of the delta of the prompter's competence on a subject vs the model's
@@ -487,41 +851,6 @@ Tags (automatic): AI-assisted hunting
 
 ---
 
-## 2026-11-24 · Post · This doesn’t mean Ant’s RH proof is invalid or anything like that.
-
-
-Tags (automatic): Memory corruption / native
-
-
-### Post — @lonelysloth_sec — 2026-11-24 19:43 UTC (2026-11-24 20:43 WAT)
-
-- URL: https://x.com/lonelysloth_sec/status/2125314482889241050
-- Metrics (at fetch): bookmark 5, impression 2727, like 34, quote 1, reply 8, retweet 1
-
-> This doesn’t mean Ant’s RH proof is invalid or anything like that.
->
-> But the arrogance of thinking software that keeps showing up serious bugs and had a kernel bug found just a couple months ago MUST be trusted….
->
-> Mathematicians usually take years to validate *one* major proof. https://t.co/RZYCTsPSNe
-
-**Quoted post (full text):**
-
-    #### Quoted post — @1011915644600799232 — 2026-11-24 17:40 UTC (2026-11-24 18:40 WAT)
-    
-    - URL: https://x.com/1011915644600799232/status/2125283538165698763
-    - Metrics (at fetch): bookmark 26, impression 11488, like 73, quote 7, reply 8, retweet 7
-    
-    > `leanchecker` accepts a module whose mutual inductive has a wrong `numParams`, which gives an axiom-free proof of `False` via `Expr.proj`
-    >
-    > https://t.co/h3VXeO5UNE https://t.co/akuX2KlRh1
-    
-    **Media:**
-    - media `3_2125283367708962816` (details not returned by the API)
-    
-
-
----
-
 ## 2026-11-24 · Reply · @fedichev Proofs are far from cheap. You have companies that spent more than centuries worth of glob
 
 
@@ -555,9 +884,9 @@ Tags (automatic): Memory corruption / native
 
 **Context — conversation root by another account:**
 
-#### Root post — @740251106266255366 — 2026-11-23 20:02 UTC (2026-11-23 21:02 WAT)
+#### Root post — @gavinrbrown1 — 2026-11-23 20:02 UTC (2026-11-23 21:02 WAT)
 
-- URL: https://x.com/740251106266255366/status/2124956733332168969
+- URL: https://x.com/gavinrbrown1/status/2124956733332168969
 - Metrics (at fetch): bookmark 1, impression 1986, like 14, quote 0, reply 11, retweet 0
 
 > Is "compression is intelligence" any more meaningful than "prediction is intelligence"?
@@ -591,9 +920,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @2010272031603068928 — 2026-11-23 22:52 UTC (2026-11-23 23:52 WAT)
+#### Root post — @superalesha — 2026-11-23 22:52 UTC (2026-11-23 23:52 WAT)
 
-- URL: https://x.com/2010272031603068928/status/2124999630018535446
+- URL: https://x.com/superalesha/status/2124999630018535446
 - Metrics (at fetch): bookmark 1704, impression 680816, like 4912, quote 118, reply 194, retweet 510
 
 > Anthropic's Riemann Hypothesis guy just admitted the "250,000+ pages" was a joke, he went off the Lean to "lengthmaxx," and "The Lean is full of garbage obviously."
@@ -729,9 +1058,9 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @543631687 — 2026-11-22 21:38 UTC (2026-11-22 22:38 WAT)
+#### Parent post — @Gravipy — 2026-11-22 21:38 UTC (2026-11-22 22:38 WAT)
 
-- URL: https://x.com/543631687/status/2124618491315605697
+- URL: https://x.com/Gravipy/status/2124618491315605697
 - Metrics (at fetch): bookmark 1, impression 494, like 6, quote 0, reply 3, retweet 0
 
 > ChatGPT's answer to their history was better.
@@ -1085,9 +1414,9 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @15639858 — 2026-11-22 21:22 UTC (2026-11-22 22:22 WAT)
+#### Root post — @baym — 2026-11-22 21:22 UTC (2026-11-22 22:22 WAT)
 
-- URL: https://x.com/15639858/status/2124614509629218914
+- URL: https://x.com/baym/status/2124614509629218914
 - Metrics (at fetch): bookmark 11, impression 5776, like 107, quote 3, reply 35, repost 4
 
 > It's deeply weird that language models are better at math than language https://twitter.com/gdelujo/status/2124287782361403707
@@ -1119,9 +1448,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @382008009 — 2026-11-22 23:40 UTC (2026-11-23 00:40 WAT)
+#### Root post — @MilesCranmer — 2026-11-22 23:40 UTC (2026-11-23 00:40 WAT)
 
-- URL: https://x.com/382008009/status/2124649250063852025
+- URL: https://x.com/MilesCranmer/status/2124649250063852025
 - Metrics (at fetch): bookmark 7, impression 3852, like 73, quote 1, reply 8, repost 5
 
 > My real gripe with this RH proof is that it uses an internal model + secret prompts + redacted CoT
@@ -1148,9 +1477,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @4327798453 — 2026-11-22 20:44 UTC (2026-11-22 21:44 WAT)
+#### Root post — @bnielson01 — 2026-11-22 20:44 UTC (2026-11-22 21:44 WAT)
 
-- URL: https://x.com/4327798453/status/2124604836851445914
+- URL: https://x.com/bnielson01/status/2124604836851445914
 - Metrics (at fetch): bookmark 4, impression 1744, like 7, quote 0, reply 5, repost 0
 
 > This is raising a legitimate issue but is misunderstanding it. 
@@ -1196,9 +1525,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1333765341772713985 — 2026-11-21 19:21 UTC (2026-11-21 20:21 WAT)
+#### Root post — @thomasfbloom — 2026-11-21 19:21 UTC (2026-11-21 20:21 WAT)
 
-- URL: https://x.com/1333765341772713985/status/2124221582105014284
+- URL: https://x.com/thomasfbloom/status/2124221582105014284
 - Metrics (at fetch): bookmark 67, impression 37749, like 719, quote 4, reply 33, repost 27
 
 > Some people here seem confused about how Lean works.
@@ -1253,9 +1582,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @41073403 — 2026-11-22 13:31 UTC (2026-11-22 14:31 WAT)
+#### Parent post — @emilianbold — 2026-11-22 13:31 UTC (2026-11-22 14:31 WAT)
 
-- URL: https://x.com/41073403/status/2124496031337357687
+- URL: https://x.com/emilianbold/status/2124496031337357687
 - Metrics (at fetch): bookmark 0, impression 645, like 9, quote 0, reply 1, repost 0
 
 > @chenna1985 They are actually not that stupid and this concern was among the first considered.
@@ -1293,9 +1622,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1490950092 — 2026-11-22 13:30 UTC (2026-11-22 14:30 WAT)
+#### Root post — @homemadehooplah — 2026-11-22 13:30 UTC (2026-11-22 14:30 WAT)
 
-- URL: https://x.com/1490950092/status/2124495651522412912
+- URL: https://x.com/homemadehooplah/status/2124495651522412912
 - Metrics (at fetch): bookmark 70, impression 16098, like 1020, quote 8, reply 22, repost 185
 
 > As of now, it's been 1,453 days - just shy of 4 years - since ChatGPT was recklessly released to the public for free, fueled by a model built on legions of stolen data.
@@ -1370,9 +1699,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1147599431568482304 — 2026-11-20 21:23 UTC (2026-11-20 22:23 WAT)
+#### Root post — @eddylazzarin — 2026-11-20 21:23 UTC (2026-11-20 22:23 WAT)
 
-- URL: https://x.com/1147599431568482304/status/2123889978040324347
+- URL: https://x.com/eddylazzarin/status/2123889978040324347
 - Metrics (at fetch): bookmark 5, impression 4431, like 59, quote 0, reply 25, repost 1
 
 > Makes you wonder why we weren't just brute-forcing all of this math before? 🙃 https://twitter.com/ptrschmdtnlsn/status/2123840978939494674
@@ -1412,9 +1741,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @973531086155341824 — 2026-11-21 20:53 UTC (2026-11-21 21:53 WAT)
+#### Parent post — @comradeKangaroo — 2026-11-21 20:53 UTC (2026-11-21 21:53 WAT)
 
-- URL: https://x.com/973531086155341824/status/2124244792846737834
+- URL: https://x.com/comradeKangaroo/status/2124244792846737834
 - Metrics (at fetch): bookmark 0, impression 913, like 7, quote 0, reply 2, retweet 0
 
 > @techn0_sap1en The big would have to be present in multiple independent implementations
@@ -1481,9 +1810,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @192610117 — 2026-11-20 22:50 UTC (2026-11-20 23:50 WAT)
+#### Root post — @m4rio_eth — 2026-11-20 22:50 UTC (2026-11-20 23:50 WAT)
 
-- URL: https://x.com/192610117/status/2123911902468469087
+- URL: https://x.com/m4rio_eth/status/2123911902468469087
 - Metrics (at fetch): bookmark 0, impression 618, like 1, quote 0, reply 1, repost 0
 
 > all these streamers that stream GTA and talk so nice about gta it's either they got sponsored or they are hopping for a sponsorship so they don't give the feedback that GTA is actually super boring to watch. Im not saying that it's not a good game but i don't think it's that good that every streamer states.
@@ -1748,9 +2077,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2026-11-20 00:00 UTC (2026-11-20 01:00 WAT)
+    #### Quoted post — @Cointelegraph — 2026-11-20 00:00 UTC (2026-11-20 01:00 WAT)
     
-    - URL: https://x.com/2207129125/status/2123567174543389127
+    - URL: https://x.com/Cointelegraph/status/2123567174543389127
     - Metrics (at fetch): bookmark 9, impression 27872, like 118, quote 4, reply 27, retweet 7
     
     > 🚨 LATEST: Apple is developing its own AI agent that can code, browse the web and control apps for users, in a push to rival OpenAI and Anthropic. [pic.x.com/FAutFa6L7E]
@@ -1787,9 +2116,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1726510108341932032 — 2026-11-19 16:51 UTC (2026-11-19 17:51 WAT)
+#### Root post — @manlikemishap — 2026-11-19 16:51 UTC (2026-11-19 17:51 WAT)
 
-- URL: https://x.com/1726510108341932032/status/2123459107726504325
+- URL: https://x.com/manlikemishap/status/2123459107726504325
 - Metrics (at fetch): bookmark 44, impression 19292, like 631, quote 3, reply 17, retweet 57
 
 > Some folks who did critical work for Anthropic who won't be getting any windfall from this IPO?
@@ -1895,9 +2224,9 @@ Tags (automatic): Memory corruption / native
 
 **Context — post being replied to:**
 
-#### Parent post — @1261335549215989760 — 2026-11-19 03:41 UTC (2026-11-19 04:41 WAT)
+#### Parent post — @Polymarket — 2026-11-19 03:41 UTC (2026-11-19 04:41 WAT)
 
-- URL: https://x.com/1261335549215989760/status/2123260286610137226
+- URL: https://x.com/Polymarket/status/2123260286610137226
 - Metrics (at fetch): bookmark 758, impression 2088951, like 11775, quote 1028, reply 1383, retweet 827
 
 > JUST IN: Elon Musk predicts Tesla’s Optimus robot will be able to wash, dry, &amp; put away dishes in 12 to 18 months.
@@ -1970,9 +2299,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1200616796295847936 — 2026-11-18 15:57 UTC (2026-11-18 16:57 WAT)
+#### Root post — @unusual_whales — 2026-11-18 15:57 UTC (2026-11-18 16:57 WAT)
 
-- URL: https://x.com/1200616796295847936/status/2123083056034820189
+- URL: https://x.com/unusual_whales/status/2123083056034820189
 - Metrics (at fetch): bookmark 130, impression 202931, like 1333, quote 28, reply 87, retweet 85
 
 > Wall Street execs and NSA have told Congress that outages were caused by patching vulnerabilities identified by AI models, per Washington Sun
@@ -2024,9 +2353,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @397689316 — 2026-11-18 10:37 UTC (2026-11-18 11:37 WAT)
+#### Root post — @Grady_Booch — 2026-11-18 10:37 UTC (2026-11-18 11:37 WAT)
 
-- URL: https://x.com/397689316/status/2123002705300136105
+- URL: https://x.com/Grady_Booch/status/2123002705300136105
 - Metrics (at fetch): bookmark 40, impression 10473, like 281, quote 5, reply 11, retweet 34
 
 > “If my work just get mixed into an AI-generated answer, I lose my voice and my audience. My carefully chosen words lose their meaning….This is the future of the internet. No websites, just a chat box with ads.” https://twitter.com/bibryam/status/2122988884883828897
@@ -2057,9 +2386,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @3355146352 — 2026-11-18 14:50 UTC (2026-11-18 15:50 WAT)
+#### Root post — @jdnoc — 2026-11-18 14:50 UTC (2026-11-18 15:50 WAT)
 
-- URL: https://x.com/3355146352/status/2123066197193228730
+- URL: https://x.com/jdnoc/status/2123066197193228730
 - Metrics (at fetch): bookmark 352, impression 290741, like 1779, quote 61, reply 447, retweet 47
 
 > My contrarian take is that LLMs will not get any "smarter" than they are today. 
@@ -2127,9 +2456,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1471962504087625733 — 2026-11-16 17:50 UTC (2026-11-16 18:50 WAT)
+#### Root post — @windhustler — 2026-11-16 17:50 UTC (2026-11-16 18:50 WAT)
 
-- URL: https://x.com/1471962504087625733/status/2122386904771432757
+- URL: https://x.com/windhustler/status/2122386904771432757
 - Metrics (at fetch): bookmark 4, impression 2970, like 272, quote 0, reply 77, retweet 0
 
 > The weekend was super busy. My daughter was born on Saturday, one day before my 35th birthday! [pic.x.com/PiyfzpZdX6]
@@ -2153,9 +2482,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @11518572 — 2026-11-15 21:36 UTC (2026-11-15 22:36 WAT)
+#### Root post — @chrisalbon — 2026-11-15 21:36 UTC (2026-11-15 22:36 WAT)
 
-- URL: https://x.com/11518572/status/2122081442549391738
+- URL: https://x.com/chrisalbon/status/2122081442549391738
 - Metrics (at fetch): bookmark 2335, impression 575705, like 8039, quote 171, reply 245, retweet 460
 
 > Everyone has drawn this chart in their head and is making a generational bet on which line is true. [pic.x.com/l4hsFdWI7u]
@@ -2183,9 +2512,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @44196397 — 2026-11-14 07:50 UTC (2026-11-14 08:50 WAT)
+#### Parent post — @elonmusk — 2026-11-14 07:50 UTC (2026-11-14 08:50 WAT)
 
-- URL: https://x.com/44196397/status/2121510962901483584
+- URL: https://x.com/elonmusk/status/2121510962901483584
 - Metrics (at fetch): bookmark 831, impression 2097939, like 12141, quote 164, reply 1523, retweet 1039
 
 > So funny https://t.co/Zq5jSoM3Ut
@@ -2218,9 +2547,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1261335549215989760 — 2026-11-13 23:10 UTC (2026-11-14 00:10 WAT)
+    #### Quoted post — @Polymarket — 2026-11-13 23:10 UTC (2026-11-14 00:10 WAT)
     
-    - URL: https://x.com/1261335549215989760/status/2121380113535340971
+    - URL: https://x.com/Polymarket/status/2121380113535340971
     - Metrics (at fetch): bookmark 1126, impression 959469, like 12167, quote 314, reply 265, retweet 959
     
     > BREAKING: It’s been revealed that the FAA rolled out an AI air traffic tool to all 22 en route control centers 3 days before the nationwide ground stop.
@@ -3089,9 +3418,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1261335549215989760 — 2026-07-10 18:37 UTC (2026-07-10 19:37 WAT)
+    #### Quoted post — @Polymarket — 2026-07-10 18:37 UTC (2026-07-10 19:37 WAT)
     
-    - URL: https://x.com/1261335549215989760/status/2075650511001522356
+    - URL: https://x.com/Polymarket/status/2075650511001522356
     - Metrics (at fetch): not returned
     
     > BREAKING: OpenAI launches a $50,000 bounty for anyone who can universally jailbreak GPT-5.6’s biosafety protections.
@@ -3479,9 +3808,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1333765341772713985 — 2026-06-02 14:48 UTC (2026-06-02 15:48 WAT)
+    #### Quoted post — @thomasfbloom — 2026-06-02 14:48 UTC (2026-06-02 15:48 WAT)
     
-    - URL: https://x.com/1333765341772713985/status/2061822176215384207
+    - URL: https://x.com/thomasfbloom/status/2061822176215384207
     - Metrics (at fetch): not returned
     
     > I have signed the Leiden declaration, and encourage everyone to read it and reflect.
@@ -4351,9 +4680,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1347307079187525637 — 2026-03-05 19:45 UTC (2026-03-05 20:45 WAT)
+    #### Quoted post — @MitchellAmador — 2026-03-05 19:45 UTC (2026-03-05 20:45 WAT)
     
-    - URL: https://x.com/1347307079187525637/status/2029644480354148455
+    - URL: https://x.com/MitchellAmador/status/2029644480354148455
     - Metrics (at fetch): not returned
     
     > http://x.com/i/article/2029641889834799104
@@ -4823,9 +5152,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @764911135845941248 — 2025-08-08 14:21 UTC (2025-08-08 15:21 WAT)
+    #### Quoted post — @mbrg0 — 2025-08-08 14:21 UTC (2025-08-08 15:21 WAT)
     
-    - URL: https://x.com/764911135845941248/status/1953823981657608570
+    - URL: https://x.com/mbrg0/status/1953823981657608570
     - Metrics (at fetch): bookmark 32, impression 60858, like 321, quote 3, reply 5, retweet 15
     
     > @tamirishaysh copilot studio team has been great in their response
@@ -5032,9 +5361,9 @@ Tags (automatic): Dependency confusion / supply chain
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1562178659766751237 — 2025-05-07 02:44 UTC (2025-05-07 03:44 WAT)
+    #### Quoted post — @trentdotsol — 2025-05-07 02:44 UTC (2025-05-07 03:44 WAT)
     
-    - URL: https://x.com/1562178659766751237/status/1919946468959650027
+    - URL: https://x.com/trentdotsol/status/1919946468959650027
     - Metrics (at fetch): bookmark 18, impression 29214, like 47, quote 4, reply 2, retweet 2
     
     > h/t @lonelysloth_sec for the original report!
@@ -5427,9 +5756,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1622629804791955458 — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
+    #### Quoted post — @cantinasecurity — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
     
-    - URL: https://x.com/1622629804791955458/status/1770828360471507068
+    - URL: https://x.com/cantinasecurity/status/1770828360471507068
     - Metrics (at fetch): bookmark 60, impression 157785, like 288, quote 154, reply 91, repost 134
     
     > Welcome... to the new largest competition in history with @eulerfinance!

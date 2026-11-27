@@ -2,7 +2,7 @@
 
 Every distinct http(s) URL found in channel messages, excluding Telegram/social/gig-marketplace links. Titles are taken from the Telegram link preview or the surrounding message text. Nothing is invented.
 
-Total distinct URLs: **13011**
+Total distinct URLs: **13021**
 
 | Message | Date (WAT) | Title | URL |
 | --- | --- | --- | --- |
@@ -13017,3 +13017,13 @@ Total distinct URLs: **13011**
 | [14999](https://t.me/dailybountywriteup/14999) | 2026-11-25 11:14:35 | HackerOne Account Takeover | https://masimshahzad.medium.com/hackerone-account-takeover-the-20k-leaked-cookie-4e97e094b7e7 |
 | [14999](https://t.me/dailybountywriteup/14999) | 2026-11-25 11:14:35 | 🐛 Bug Bounty Writeup | https://medium.com/@akashmotkar001/p4-information-disclosure-through-http-response-headers-7e58940d07ac |
 | [14999](https://t.me/dailybountywriteup/14999) | 2026-11-25 11:14:35 | libcurl Obeyed a List I Never Gave It | https://rajnamdev.medium.com/libcurl-obeyed-a-list-i-never-gave-it-f727c4922666 |
+| [15000](https://t.me/dailybountywriteup/15000) | 2026-11-26 10:55:15 | Bug bounty | https://medium.com/@systemframe/bug-bounty-o-que-%C3%A9-e-como-funcionam-os-programas-de-recompensa-system-frame-a17c95792f69 |
+| [15000](https://t.me/dailybountywriteup/15000) | 2026-11-26 10:55:15 | Server-Side Request Forgery (SSRF) in LTI 1.3 Dynamic Registration Endpoint | https://medium.com/@yahiaemara11/server-side-request-forgery-ssrf-in-lti-1-3-dynamic-registration-endpoint-15e352ab956e |
+| [15000](https://t.me/dailybountywriteup/15000) | 2026-11-26 10:55:15 | XSS Attacks Explained | https://medium.com/@vigneshkumaroffsec/xss-attacks-explained-the-types-the-contexts-and-how-to-find-them-65f73849da5e |
+| [15000](https://t.me/dailybountywriteup/15000) | 2026-11-26 10:55:15 | Google Pixel Lock Screen Bypass | https://masimshahzad.medium.com/google-pixel-lock-screen-bypass-the-70k-sim-swap-ed6821e4e6b1 |
+| [15000](https://t.me/dailybountywriteup/15000) | 2026-11-26 10:55:15 | Apple Auth Bypass | https://masimshahzad.medium.com/apple-auth-bypass-one-default-password-for-every-user-b6767b7edfa8 |
+| [15000](https://t.me/dailybountywriteup/15000) | 2026-11-26 10:55:15 | GitHub Cache Poisoning | https://masimshahzad.medium.com/github-cache-poisoning-the-7-500-header-that-broke-repos-3a506aa1184b |
+| [15000](https://t.me/dailybountywriteup/15000) | 2026-11-26 10:55:15 | Seventeen Years in a bin Folder | https://medium.com/codetodeploy/seventeen-years-in-a-bin-folder-73adcff06aad |
+| [15000](https://t.me/dailybountywriteup/15000) | 2026-11-26 10:55:15 | Professional Bug Bounty Hunting Workflow | https://medium.com/techaion/professional-bug-bounty-hunting-workflow-e5c16672012f |
+| [15000](https://t.me/dailybountywriteup/15000) | 2026-11-26 10:55:15 | When ‘Forgot Password’ Becomes ‘Found Account Takeover’ — Part 1 | https://medium.com/@at0625309/when-forgot-password-becomes-found-account-takeover-part-1-identification-46578b0afbc2 |
+| [15000](https://t.me/dailybountywriteup/15000) | 2026-11-26 10:55:15 | When a Security Fix Misses an Extraction Path | https://medium.com/@sidhantchaurasiya12/when-a-security-fix-misses-an-extraction-path-investigating-a-powershell-windows-cab-path-02369e81239a |

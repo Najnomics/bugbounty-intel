@@ -1,6 +1,6 @@
 # @asanso — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 195
 - Conversations/threads: 181
@@ -147,9 +147,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @1041276721759043584 — 2026-11-19 14:08 UTC (2026-11-19 15:08 WAT)
+#### Parent post — @P3b7_ — 2026-11-19 14:08 UTC (2026-11-19 15:08 WAT)
 
-- URL: https://x.com/1041276721759043584/status/2123418046165381317
+- URL: https://x.com/P3b7_/status/2123418046165381317
 - Metrics (at fetch): bookmark 197, impression 152328, like 1501, quote 34, reply 222, retweet 94
 
 > Personal update: I’ll be leaving @ledger at the end of 2026. After nine years, those words are strange to type.
@@ -2061,9 +2061,9 @@ Tags (automatic): OAuth
 
 **Quoted post (full text):**
 
-    #### Quoted post — @619169001 — 2020-10-26 15:13 UTC (2020-10-26 16:13 WAT)
+    #### Quoted post — @WardBeullens — 2020-10-26 15:13 UTC (2020-10-26 16:13 WAT)
     
-    - URL: https://x.com/619169001/status/1320745485490135041
+    - URL: https://x.com/WardBeullens/status/1320745485490135041
     - Metrics (at fetch): not returned
     
     > Wasn't there supposed to be a pot of gold here somewhere? #NISTPQC #Rainbow https://twitter.com/IACRePrint/status/1320659868907429888
@@ -2145,9 +2145,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @197931263 — 2020-09-09 21:33 UTC (2020-09-09 22:33 WAT)
+    #### Quoted post — @jurajsomorovsky — 2020-09-09 21:33 UTC (2020-09-09 22:33 WAT)
     
-    - URL: https://x.com/197931263/status/1303808790194774023
+    - URL: https://x.com/jurajsomorovsky/status/1303808790194774023
     - Metrics (at fetch): not returned
     
     > It was quite common a few years ago that servers repeated their DH shares in DHE settings. But it is not common nowadays. We should all probably blame @asanso who found this cool bug in OpenSSL and forced them to set the DH key renewal to be default case: http://blog.intothesymmetry.com/2016/01/openssl-key-recovery-attack-on-dh-small.html
@@ -2236,9 +2236,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @51049452 — 2020-04-16 16:33 UTC (2020-04-16 17:33 WAT)
+    #### Quoted post — @FiloSottile — 2020-04-16 16:33 UTC (2020-04-16 17:33 WAT)
     
-    - URL: https://x.com/51049452/status/1250824770742083584
+    - URL: https://x.com/FiloSottile/status/1250824770742083584
     - Metrics (at fetch): not returned
     
     > aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhhh https://twitter.com/tqbf/status/1250823774179557381
@@ -2332,9 +2332,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @258480276 — 2019-11-08 17:09 UTC (2019-11-08 18:09 WAT)
+    #### Quoted post — @drakefjustin — 2019-11-08 17:09 UTC (2019-11-08 18:09 WAT)
     
-    - URL: https://x.com/258480276/status/1192851753731010560
+    - URL: https://x.com/drakefjustin/status/1192851753731010560
     - Metrics (at fetch): not returned
     
     > SLONK is a conceptually simple universal SNARK with the smallest known proof size (~0.5kB) and verification time. Concrete prover time for practical circuits still unknown but promising thanks to good constants. https://ethresear.ch/t/slonk-a-simple-universal-snark/6420
@@ -3080,9 +3080,9 @@ Tags (automatic): OAuth
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2352887570 — 2016-09-06 16:54 UTC (2016-09-06 17:54 WAT)
+    #### Quoted post — @filedescriptor — 2016-09-06 16:54 UTC (2016-09-06 17:54 WAT)
     
-    - URL: https://x.com/2352887570/status/773202711588114432
+    - URL: https://x.com/filedescriptor/status/773202711588114432
     - Metrics (at fetch): bookmark 0, impression 0, like 106, quote 3, reply 4, retweet 58
     
     > New blog post! How URL encoded hostname in IE can lead to something unexpected: https://t.co/n8uEcNfY5n
@@ -3106,9 +3106,9 @@ Tags (automatic): OAuth
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2352887570 — 2016-09-06 16:54 UTC (2016-09-06 17:54 WAT)
+    #### Quoted post — @filedescriptor — 2016-09-06 16:54 UTC (2016-09-06 17:54 WAT)
     
-    - URL: https://x.com/2352887570/status/773202711588114432
+    - URL: https://x.com/filedescriptor/status/773202711588114432
     - Metrics (at fetch): bookmark 0, impression 0, like 106, quote 3, reply 4, retweet 58
     
     > New blog post! How URL encoded hostname in IE can lead to something unexpected: https://t.co/n8uEcNfY5n

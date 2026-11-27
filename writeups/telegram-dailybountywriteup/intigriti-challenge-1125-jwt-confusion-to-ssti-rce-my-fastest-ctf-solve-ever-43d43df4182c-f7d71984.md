@@ -2,7 +2,7 @@
 
 - **Source URL:** https://savi0r.medium.com/intigriti-challenge-1125-jwt-confusion-to-ssti-rce-my-fastest-ctf-solve-ever-43d43df4182c?source=rss------bug_bounty-5
 - **Fetched from:** https://savi0r.medium.com/feed
-- **Fetched:** 2026-11-16
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 11730)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

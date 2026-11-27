@@ -1,6 +1,6 @@
 # @ChainLight_io — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 1081
 - Conversations/threads: 321
@@ -58,9 +58,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1048192561863507968 — 2025-04-14 19:21 UTC (2025-04-14 20:21 WAT)
+    #### Quoted post — @shoucccc — 2025-04-14 19:21 UTC (2025-04-14 20:21 WAT)
     
-    - URL: https://x.com/1048192561863507968/status/1911862514440376446
+    - URL: https://x.com/shoucccc/status/1911862514440376446
     - Metrics (at fetch): bookmark 78, impression 82647, like 285, quote 38, reply 28, repost 38
     
     > .@KiloEx_perp is hacked. $6M+ loss already. Likely due to price oracle access control issues. [pic.x.com/4jpQJZYLys]
@@ -86,9 +86,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1191702416971968512 — 2025-04-15 13:49 UTC (2025-04-15 14:49 WAT)
+    #### Quoted post — @zksync — 2025-04-15 13:49 UTC (2025-04-15 14:49 WAT)
     
-    - URL: https://x.com/1191702416971968512/status/1912141160744632737
+    - URL: https://x.com/zksync/status/1912141160744632737
     - Metrics (at fetch): bookmark 98, impression 980789, like 1258, quote 463, reply 1125, repost 177
     
     > ZKsync security team has identified a compromised admin account that took control of ~$5M worth of ZK tokens — the remaining unclaimed tokens from the ZKsync airdrop. Necessary security measures are being taken.
@@ -424,9 +424,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1622664510405500928 — 2025-03-22 14:05 UTC (2025-03-22 15:05 WAT)
+    #### Quoted post — @zothdotio — 2025-03-22 14:05 UTC (2025-03-22 15:05 WAT)
     
-    - URL: https://x.com/1622664510405500928/status/1903447852418035986
+    - URL: https://x.com/zothdotio/status/1903447852418035986
     - Metrics (at fetch): bookmark 5, impression 16606, like 71, quote 20, reply 29, repost 10
     
     > Security Incident Update –
@@ -548,9 +548,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @8467082 — 2025-02-26 15:16 UTC (2025-02-26 16:16 WAT)
+    #### Quoted post — @safe — 2025-02-26 15:16 UTC (2025-02-26 16:16 WAT)
     
-    - URL: https://x.com/8467082/status/1894768522720350673
+    - URL: https://x.com/safe/status/1894768522720350673
     - Metrics (at fetch): bookmark 582, impression 4653148, like 1973, quote 648, reply 485, retweet 441
     
     > https://t.co/9zhPMCmGbB
@@ -1526,9 +1526,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, TEE / enclave, AI-assisted hu
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1119511010262405120 — 2024-10-18 03:10 UTC (2024-10-18 04:10 WAT)
+    #### Quoted post — @junorouse — 2024-10-18 03:10 UTC (2024-10-18 04:10 WAT)
     
-    - URL: https://x.com/1119511010262405120/status/1847112895055962201
+    - URL: https://x.com/junorouse/status/1847112895055962201
     - Metrics (at fetch): bookmark 4, impression 10440, like 36, quote 4, reply 0, retweet 5
     
     > Register to win 2BTC: https://ctf.scan.sx/
@@ -2088,9 +2088,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1756434947202748416 — 2024-12-16 23:50 UTC (2024-12-17 00:50 WAT)
+    #### Quoted post — @_SEAL_Org — 2024-12-16 23:50 UTC (2024-12-17 00:50 WAT)
     
-    - URL: https://x.com/1756434947202748416/status/1868805837311074576
+    - URL: https://x.com/_SEAL_Org/status/1868805837311074576
     - Metrics (at fetch): bookmark 83, impression 123493, like 347, quote 42, reply 13, retweet 154
     
     > ⚠️ Reminder that if you ever stored your private keys or seed phrases in LastPass prior to 2023, your funds might be at risk. We've seen 15+ cases of potential LastPass-related hacks TODAY
@@ -2115,9 +2115,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @19748227 — 2024-12-22 22:30 UTC (2024-12-22 23:30 WAT)
+    #### Quoted post — @tayvano_ — 2024-12-22 22:30 UTC (2024-12-22 23:30 WAT)
     
-    - URL: https://x.com/19748227/status/1870960207842701358
+    - URL: https://x.com/tayvano_/status/1870960207842701358
     - Metrics (at fetch): bookmark 629, impression 2151449, like 2090, quote 304, reply 167, retweet 171
     
     > DPRK's trading career is...uh....going.....🙈
@@ -2492,9 +2492,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1041953252424601602 — 2024-11-28 09:53 UTC (2024-11-28 10:53 WAT)
+    #### Quoted post — @XTexchange — 2024-11-28 09:53 UTC (2024-11-28 10:53 WAT)
     
-    - URL: https://x.com/1041953252424601602/status/1862072439154569282
+    - URL: https://x.com/XTexchange/status/1862072439154569282
     - Metrics (at fetch): bookmark 3, impression 28796, like 59, quote 18, reply 24, retweet 8
     
     > 🚨 XT Statement on Abnormal Transfer of Platform Wallet Assets 🚨
@@ -2535,9 +2535,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1398285533965606912 — 2024-12-01 16:48 UTC (2024-12-01 17:48 WAT)
+    #### Quoted post — @Clipper_DEX — 2024-12-01 16:48 UTC (2024-12-01 17:48 WAT)
     
-    - URL: https://x.com/1398285533965606912/status/1863263893470003460
+    - URL: https://x.com/Clipper_DEX/status/1863263893470003460
     - Metrics (at fetch): bookmark 2, impression 5707, like 25, quote 5, reply 5, retweet 9
     
     > Statement on Clipper Security Incident Dec 1, 2024
@@ -2608,9 +2608,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1833183120126095360 — 2024-11-25 16:10 UTC (2024-11-25 17:10 WAT)
+    #### Quoted post — @pumpdotscience — 2024-11-25 16:10 UTC (2024-11-25 17:10 WAT)
     
-    - URL: https://x.com/1833183120126095360/status/1861080069021827114
+    - URL: https://x.com/pumpdotscience/status/1861080069021827114
     - Metrics (at fetch): bookmark 27, impression 104810, like 182, quote 27, reply 118, retweet 22
     
     > The T5j2UBTvLYPCwDP5MVkSALN7fwuLFDL9jUXJNjjb8sc wallet was exploited today from on oversight in our github repository. The exploiter was able to find the keypair in the source code of our website
@@ -2641,9 +2641,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3012852462 — 2024-11-28 03:42 UTC (2024-11-28 04:42 WAT)
+    #### Quoted post — @zachxbt — 2024-11-28 03:42 UTC (2024-11-28 04:42 WAT)
     
-    - URL: https://x.com/3012852462/status/1861978997376069918
+    - URL: https://x.com/zachxbt/status/1861978997376069918
     - Metrics (at fetch): bookmark 240, impression 758801, like 2851, quote 108, reply 405, retweet 364
     
     > It was announced that Binance would delist GFT on Nov 26, 2024. 
@@ -2820,9 +2820,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1501279850727821312 — 2024-10-16 19:27 UTC (2024-10-16 20:27 WAT)
+    #### Quoted post — @RDNTCapital — 2024-10-16 19:27 UTC (2024-10-16 20:27 WAT)
     
-    - URL: https://x.com/1501279850727821312/status/1846634050100039881
+    - URL: https://x.com/RDNTCapital/status/1846634050100039881
     - Metrics (at fetch): bookmark 27, impression 416030, like 255, quote 65, reply 0, retweet 57
     
     > We are aware of an issue with the Radiant Lending markets on Binance Chain and Arbitrum. We are working with SEAL911, Hypernative, ZeroShadow &amp; Chainalysis and will provide an update as soon as possible. Markets on Base and Mainnet are paused until further notice.
@@ -2927,9 +2927,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1501279850727821312 — 2024-10-16 19:27 UTC (2024-10-16 20:27 WAT)
+    #### Quoted post — @RDNTCapital — 2024-10-16 19:27 UTC (2024-10-16 20:27 WAT)
     
-    - URL: https://x.com/1501279850727821312/status/1846634050100039881
+    - URL: https://x.com/RDNTCapital/status/1846634050100039881
     - Metrics (at fetch): bookmark 27, impression 416030, like 255, quote 65, reply 0, retweet 57
     
     > We are aware of an issue with the Radiant Lending markets on Binance Chain and Arbitrum. We are working with SEAL911, Hypernative, ZeroShadow &amp; Chainalysis and will provide an update as soon as possible. Markets on Base and Mainnet are paused until further notice.
@@ -3118,9 +3118,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1542947918709080065 — 2024-10-04 18:19 UTC (2024-10-04 19:19 WAT)
+    #### Quoted post — @eigencloud — 2024-10-04 18:19 UTC (2024-10-04 19:19 WAT)
     
-    - URL: https://x.com/1542947918709080065/status/1842268416083653038
+    - URL: https://x.com/eigencloud/status/1842268416083653038
     - Metrics (at fetch): bookmark 82, impression 1309658, like 642, quote 449, reply 0, retweet 60
     
     > Community Update
@@ -3288,9 +3288,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1656587853781172225 — 2024-09-27 01:39 UTC (2024-09-27 02:39 WAT)
+    #### Quoted post — @Bedrock_DeFi — 2024-09-27 01:39 UTC (2024-09-27 02:39 WAT)
     
-    - URL: https://x.com/1656587853781172225/status/1839479965685100780
+    - URL: https://x.com/Bedrock_DeFi/status/1839479965685100780
     - Metrics (at fetch): bookmark 23, impression 138230, like 181, quote 61, reply 17, retweet 33
     
     > ⚠️Important Announcement from the Bedrock Team
@@ -3321,9 +3321,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1586316973687934976 — 2024-09-25 22:32 UTC (2024-09-25 23:32 WAT)
+    #### Quoted post — @rehold_io — 2024-09-25 22:32 UTC (2024-09-25 23:32 WAT)
     
-    - URL: https://x.com/1586316973687934976/status/1839070595289329814
+    - URL: https://x.com/rehold_io/status/1839070595289329814
     - Metrics (at fetch): bookmark 13, impression 57288, like 90, quote 57, reply 0, retweet 28
     
     > Important Security Alert!
@@ -3359,9 +3359,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1668050036414881796 — 2024-09-23 18:04 UTC (2024-09-23 19:04 WAT)
+    #### Quoted post — @veritas_web3 — 2024-09-23 18:04 UTC (2024-09-23 19:04 WAT)
     
-    - URL: https://x.com/1668050036414881796/status/1838278370338983981
+    - URL: https://x.com/veritas_web3/status/1838278370338983981
     - Metrics (at fetch): bookmark 0, impression 5350, like 9, quote 1, reply 1, retweet 4
     
     > Bankroll Network Hit by $230K Exploit
@@ -3391,9 +3391,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @872984298973941764 — 2024-09-29 17:42 UTC (2024-09-29 18:42 WAT)
+    #### Quoted post — @zilliqa — 2024-09-29 17:42 UTC (2024-09-29 18:42 WAT)
     
-    - URL: https://x.com/872984298973941764/status/1840447094232096810
+    - URL: https://x.com/zilliqa/status/1840447094232096810
     - Metrics (at fetch): bookmark 1, impression 13108, like 200, quote 5, reply 13, retweet 38
     
     > Dear Community,
@@ -3501,9 +3501,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1465397176587145230 — 2024-09-16 08:55 UTC (2024-09-16 09:55 WAT)
+    #### Quoted post — @DeltaPrimeDefi — 2024-09-16 08:55 UTC (2024-09-16 09:55 WAT)
     
-    - URL: https://x.com/1465397176587145230/status/1835603279369125893
+    - URL: https://x.com/DeltaPrimeDefi/status/1835603279369125893
     - Metrics (at fetch): bookmark 14, impression 54353, like 114, quote 28, reply 33, retweet 30
     
     > DeltaPrime Blue exploited, this is the current status:
@@ -3534,9 +3534,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1669901087531302912 — 2024-09-19 15:27 UTC (2024-09-19 16:27 WAT)
+    #### Quoted post — @bananagun — 2024-09-19 15:27 UTC (2024-09-19 16:27 WAT)
     
-    - URL: https://x.com/1669901087531302912/status/1836789190953963606
+    - URL: https://x.com/bananagun/status/1836789190953963606
     - Metrics (at fetch): bookmark 20, impression 89639, like 420, quote 33, reply 76, retweet 59
     
     > UPDATE ON BOT SITUATION
@@ -3732,9 +3732,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1652749213652987905 — 2024-09-03 19:55 UTC (2024-09-03 20:55 WAT)
+    #### Quoted post — @Penpiexyz_io — 2024-09-03 19:55 UTC (2024-09-03 20:55 WAT)
     
-    - URL: https://x.com/1652749213652987905/status/1831058385330118831
+    - URL: https://x.com/Penpiexyz_io/status/1831058385330118831
     - Metrics (at fetch): not returned
     
     > Alert: Penpie has encountered a security compromise.
@@ -3930,9 +3930,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1498303808836935681 — 2024-08-28 10:09 UTC (2024-08-28 11:09 WAT)
+    #### Quoted post — @bgdlabs — 2024-08-28 10:09 UTC (2024-08-28 11:09 WAT)
     
-    - URL: https://x.com/1498303808836935681/status/1828736554262470792
+    - URL: https://x.com/bgdlabs/status/1828736554262470792
     - Metrics (at fetch): not returned
     
     > Today, a series of transactions across different networks were detected showing what it looked like an exploit on some Aave peripheral contracts (not part of the Aave Protocol itself).
@@ -3965,9 +3965,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @50703014 — 2024-08-26 17:02 UTC (2024-08-26 18:02 WAT)
+    #### Quoted post — @moo9000 — 2024-08-26 17:02 UTC (2024-08-26 18:02 WAT)
     
-    - URL: https://x.com/50703014/status/1828115904225243302
+    - URL: https://x.com/moo9000/status/1828115904225243302
     - Metrics (at fetch): not returned
     
     > Looks like @ton_blockchain failed stress test, as infrastructure crashes in DOGS airdrop.
@@ -3999,9 +3999,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2561813820 — 2024-08-27 13:28 UTC (2024-08-27 14:28 WAT)
+    #### Quoted post — @evonide — 2024-08-27 13:28 UTC (2024-08-27 14:28 WAT)
     
-    - URL: https://x.com/2561813820/status/1828424380348801393
+    - URL: https://x.com/evonide/status/1828424380348801393
     - Metrics (at fetch): not returned
     
     > Found a critical vulnerability in Circle's USDC Cross-Chain Transfer Protocol allowing to mint USDC on Cosmos https://www.asymmetric.re/blog/circles-cctp-noble-mint-bug
@@ -4144,9 +4144,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1161769867399315456 — 2024-08-15 23:18 UTC (2024-08-16 00:18 WAT)
+    #### Quoted post — @Vowcurrency — 2024-08-15 23:18 UTC (2024-08-16 00:18 WAT)
     
-    - URL: https://x.com/1161769867399315456/status/1824224265551393116
+    - URL: https://x.com/Vowcurrency/status/1824224265551393116
     - Metrics (at fetch): not returned
     
     > Update. 
@@ -4205,9 +4205,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1044836083530452992 — 2024-08-16 21:35 UTC (2024-08-16 22:35 WAT)
+    #### Quoted post — @Optimism — 2024-08-16 21:35 UTC (2024-08-16 22:35 WAT)
     
-    - URL: https://x.com/1044836083530452992/status/1824560736657670314
+    - URL: https://x.com/Optimism/status/1824560736657670314
     - Metrics (at fetch): not returned
     
     > Today, @OPLabsPBC posted an upgrade proposal detailing findings from a recent series of community-driven audits on the Fault Proof System, including the plan to fix the bugs identified as part of the audits.
@@ -4465,9 +4465,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1481272552009969664 — 2024-08-06 12:51 UTC (2024-08-06 13:51 WAT)
+    #### Quoted post — @Ronin_Network — 2024-08-06 12:51 UTC (2024-08-06 13:51 WAT)
     
-    - URL: https://x.com/1481272552009969664/status/1820804772917588339
+    - URL: https://x.com/Ronin_Network/status/1820804772917588339
     - Metrics (at fetch): not returned
     
     > Earlier today, we were notified by white-hats about a potential exploit on the Ronin bridge. After verifying the reports, the bridge was paused approximately 40 minutes after the first on-chain action was spotted.
@@ -4505,9 +4505,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1481272552009969664 — 2024-08-06 15:36 UTC (2024-08-06 16:36 WAT)
+    #### Quoted post — @Ronin_Network — 2024-08-06 15:36 UTC (2024-08-06 16:36 WAT)
     
-    - URL: https://x.com/1481272552009969664/status/1820846361945792751
+    - URL: https://x.com/Ronin_Network/status/1820846361945792751
     - Metrics (at fetch): not returned
     
     > Update:
@@ -4544,9 +4544,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1003718268484489216 — 2024-08-07 07:02 UTC (2024-08-07 08:02 WAT)
+    #### Quoted post — @Nexera_Official — 2024-08-07 07:02 UTC (2024-08-07 08:02 WAT)
     
-    - URL: https://x.com/1003718268484489216/status/1821079381831512315
+    - URL: https://x.com/Nexera_Official/status/1821079381831512315
     - Metrics (at fetch): not returned
     
     > Announcement
@@ -4581,9 +4581,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1521630706861940737 — 2024-08-11 20:33 UTC (2024-08-11 21:33 WAT)
+    #### Quoted post — @CantoPublic — 2024-08-11 20:33 UTC (2024-08-11 21:33 WAT)
     
-    - URL: https://x.com/1521630706861940737/status/1822733054689026460
+    - URL: https://x.com/CantoPublic/status/1822733054689026460
     - Metrics (at fetch): not returned
     
     > Canto chain is currently experiencing an issue with consensus that has caused the chain to halt.
@@ -4666,9 +4666,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1022028994772910086 — 2024-08-01 15:28 UTC (2024-08-01 16:28 WAT)
+    #### Quoted post — @terra_money — 2024-08-01 15:28 UTC (2024-08-01 16:28 WAT)
     
-    - URL: https://x.com/1022028994772910086/status/1819032544274194885
+    - URL: https://x.com/terra_money/status/1819032544274194885
     - Metrics (at fetch): not returned
     
     > Yesterday, the Terra blockchain was the target of a malicious attack exploiting a Cosmos chain vulnerability, resulting in the unauthorized withdrawal of approximately $4 million worth of assets.
@@ -4731,9 +4731,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1006743460483756032 — 2024-08-03 15:24 UTC (2024-08-03 16:24 WAT)
+    #### Quoted post — @ambergroup_io — 2024-08-03 15:24 UTC (2024-08-03 16:24 WAT)
     
-    - URL: https://x.com/1006743460483756032/status/1819756271823884715
+    - URL: https://x.com/ambergroup_io/status/1819756271823884715
     - Metrics (at fetch): not returned
     
     > In light of recent developments with ZKX, while we honor our contractual confidential obligations with our clients including ZKX, we’d like to share our perspective and necessary information as an investor and market maker to promote transparency and support the community. We believe in putting our clients and their communities first and we aim to offer insights that can benefit future projects and industry participants.
@@ -4951,9 +4951,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1654567240895987712 — 2024-07-24 16:42 UTC (2024-07-24 17:42 WAT)
+    #### Quoted post — @monoswapio — 2024-07-24 16:42 UTC (2024-07-24 17:42 WAT)
     
-    - URL: https://x.com/1654567240895987712/status/1816151998267547851
+    - URL: https://x.com/monoswapio/status/1816151998267547851
     - Metrics (at fetch): bookmark 21, impression 100032, like 87, quote 59, reply 75, retweet 29
     
     > 🚨 ALERT: MonoSwap has been hacked. DO NOT add liquidity or stake in our farming pools at the moment.
@@ -4987,9 +4987,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1295699399478259713 — 2024-07-23 18:16 UTC (2024-07-23 19:16 WAT)
+    #### Quoted post — @spectra_finance — 2024-07-23 18:16 UTC (2024-07-23 19:16 WAT)
     
-    - URL: https://x.com/1295699399478259713/status/1815813300111786488
+    - URL: https://x.com/spectra_finance/status/1815813300111786488
     - Metrics (at fetch): bookmark 8, impression 46454, like 74, quote 12, reply 7, retweet 21
     
     > 🚨 The Spectra App has been disabled and router contracts terminated to contain a coordinated attack on our users' interactions with the app.
@@ -5036,9 +5036,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1061731562637553664 — 2024-07-27 17:33 UTC (2024-07-27 18:33 WAT)
+    #### Quoted post — @Casper_Network — 2024-07-27 17:33 UTC (2024-07-27 18:33 WAT)
     
-    - URL: https://x.com/1061731562637553664/status/1817252082560258372
+    - URL: https://x.com/Casper_Network/status/1817252082560258372
     - Metrics (at fetch): bookmark 9, impression 51908, like 386, quote 18, reply 42, retweet 61
     
     > Casper Association, Casper Labs and the Validators/community are actively working to resolve the issue. The network has been halted and the security breach is contained. The issue has been identified and a solution is being worked on.  Further updates will be provided.
@@ -5118,9 +5118,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @955744720092835841 — 2024-07-18 16:56 UTC (2024-07-18 17:56 WAT)
+    #### Quoted post — @WazirXIndia — 2024-07-18 16:56 UTC (2024-07-18 17:56 WAT)
     
-    - URL: https://x.com/955744720092835841/status/1813981143437611440
+    - URL: https://x.com/WazirXIndia/status/1813981143437611440
     - Metrics (at fetch): bookmark 148, impression 562097, like 780, quote 141, reply 546, retweet 234
     
     > At WazirX, our commitment to transparency and community welfare is paramount. There was a cyber attack on one of our multisig wallets. Below are the preliminary findings to clarify the situation:
@@ -5157,9 +5157,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1400345386531921922 — 2024-07-16 13:41 UTC (2024-07-16 14:41 WAT)
+    #### Quoted post — @lifiprotocol — 2024-07-16 13:41 UTC (2024-07-16 14:41 WAT)
     
-    - URL: https://x.com/1400345386531921922/status/1813207291778215955
+    - URL: https://x.com/lifiprotocol/status/1813207291778215955
     - Metrics (at fetch): bookmark 111, impression 556335, like 653, quote 180, reply 0, retweet 269
     
     > Please do not interact with any http://LI.FI powered applications for now! 
@@ -5207,9 +5207,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1361909631187001350 — 2024-07-19 12:26 UTC (2024-07-19 13:26 WAT)
+    #### Quoted post — @Scroll_ZKP — 2024-07-19 12:26 UTC (2024-07-19 13:26 WAT)
     
-    - URL: https://x.com/1361909631187001350/status/1814275555681771784
+    - URL: https://x.com/Scroll_ZKP/status/1814275555681771784
     - Metrics (at fetch): bookmark 92, impression 458562, like 1050, quote 106, reply 1081, retweet 192
     
     > Scroll was notified of a potential exploit within our ecosystem.
@@ -5239,9 +5239,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2598199994 — 2024-07-14 17:32 UTC (2024-07-14 18:32 WAT)
+    #### Quoted post — @Minterest — 2024-07-14 17:32 UTC (2024-07-14 18:32 WAT)
     
-    - URL: https://x.com/2598199994/status/1812540672248820033
+    - URL: https://x.com/Minterest/status/1812540672248820033
     - Metrics (at fetch): bookmark 4, impression 29330, like 35, quote 14, reply 13, retweet 19
     
     > Important Update from Minterest 
@@ -5337,9 +5337,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1781051237556772865 — 2024-07-12 12:40 UTC (2024-07-12 13:40 WAT)
+    #### Quoted post — @DoughFina — 2024-07-12 12:40 UTC (2024-07-12 13:40 WAT)
     
-    - URL: https://x.com/1781051237556772865/status/1811742461229752334
+    - URL: https://x.com/DoughFina/status/1811742461229752334
     - Metrics (at fetch): bookmark 2, impression 2841, like 8, quote 1, reply 6, retweet 0
     
     > Attention Dough Finance Users,
@@ -5400,9 +5400,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1007669285194485761 — 2024-07-10 00:11 UTC (2024-07-10 01:11 WAT)
+    #### Quoted post — @wasabiwallet — 2024-07-10 00:11 UTC (2024-07-10 01:11 WAT)
     
-    - URL: https://x.com/1007669285194485761/status/1810829065588228193
+    - URL: https://x.com/wasabiwallet/status/1810829065588228193
     - Metrics (at fetch): bookmark 9, impression 55365, like 159, quote 13, reply 6, retweet 68
     
     > We have been informed that a coordinator named WasabiCoordinator is trying to slowly siphon funds from its users using a sophisticated attack. We advise everyone connected to this coordinator to stop coinjoining immediately. We will release a new version soon preventing this.
@@ -5426,9 +5426,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1756434947202748416 — 2024-07-15 00:48 UTC (2024-07-15 01:48 WAT)
+    #### Quoted post — @_SEAL_Org — 2024-07-15 00:48 UTC (2024-07-15 01:48 WAT)
     
-    - URL: https://x.com/1756434947202748416/status/1812650365982056634
+    - URL: https://x.com/_SEAL_Org/status/1812650365982056634
     - Metrics (at fetch): bookmark 1, impression 2538, like 27, quote 1, reply 0, retweet 10
     
     > @web3isgreat FYI -- We just published a writeup about this incident &amp; how we're protecting crypto projects through our volunteer first responders program SEAL 911: https://securityalliance.notion.site/A-Squarespace-Retrospective-or-How-to-Coordinate-an-Industry-Wide-Incident-Response-fead693b66c14543a48283d85aec19ad
@@ -5607,9 +5607,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1405656630872662019 — 2024-07-03 19:40 UTC (2024-07-03 20:40 WAT)
+    #### Quoted post — @opentensor — 2024-07-03 19:40 UTC (2024-07-03 20:40 WAT)
     
-    - URL: https://x.com/1405656630872662019/status/1808586723712250158
+    - URL: https://x.com/opentensor/status/1808586723712250158
     - Metrics (at fetch): bookmark 27, impression 109900, like 461, quote 29, reply 48, retweet 82
     
     > Bittensor Community Update
@@ -5676,9 +5676,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @209811713 — 2024-07-04 03:40 UTC (2024-07-04 04:40 WAT)
+    #### Quoted post — @TheHackersNews — 2024-07-04 03:40 UTC (2024-07-04 04:40 WAT)
     
-    - URL: https://x.com/209811713/status/1808707317124223014
+    - URL: https://x.com/TheHackersNews/status/1808707317124223014
     - Metrics (at fetch): bookmark 26, impression 40726, like 197, quote 26, reply 9, retweet 132
     
     > Twilio reports a data breach exposing 33 million Authy phone numbers, urges users to update apps and stay vigilant against phishing.
@@ -5765,9 +5765,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @585633925 — 2024-06-25 21:36 UTC (2024-06-25 22:36 WAT)
+    #### Quoted post — @h0wlu — 2024-06-25 21:36 UTC (2024-06-25 22:36 WAT)
     
-    - URL: https://x.com/585633925/status/1805716659338199145
+    - URL: https://x.com/h0wlu/status/1805716659338199145
     - Metrics (at fetch): bookmark 43, impression 143135, like 198, quote 23, reply 21, retweet 28
     
     > Today I was contacted by OpenBounty (@ShentuChain) to add their platform to Web3 Bug Bounty alerts. Never heard about them before so I decided to investigate as it seemed a bit sus 1/6
@@ -5790,9 +5790,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1297925400090337280 — 2024-06-29 14:58 UTC (2024-06-29 15:58 WAT)
+    #### Quoted post — @RektHQ — 2024-06-29 14:58 UTC (2024-06-29 15:58 WAT)
     
-    - URL: https://x.com/1297925400090337280/status/1807066129313186150
+    - URL: https://x.com/RektHQ/status/1807066129313186150
     - Metrics (at fetch): bookmark 9, impression 12725, like 105, quote 3, reply 2, retweet 25
     
     > Amid the Kraken controversy, @CertiK faces mounting allegations of front-running bug bounties and superficial audits, raising concerns and scrutiny from security researchers.   
@@ -5959,9 +5959,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1804058795628531712 — 2024-06-28 09:42 UTC (2024-06-28 10:42 WAT)
+    #### Quoted post — @lumos_io — 2024-06-28 09:42 UTC (2024-06-28 10:42 WAT)
     
-    - URL: https://x.com/1804058795628531712/status/1806624321684779334
+    - URL: https://x.com/lumos_io/status/1806624321684779334
     - Metrics (at fetch): bookmark 15, impression 15062, like 38, quote 10, reply 9, retweet 11
     
     > Introducing Lumos Macro Stats.
@@ -6039,9 +6039,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @32495046 — 2024-06-19 12:24 UTC (2024-06-19 13:24 WAT)
+    #### Quoted post — @c7five — 2024-06-19 12:24 UTC (2024-06-19 13:24 WAT)
     
-    - URL: https://x.com/32495046/status/1803403565865771370
+    - URL: https://x.com/c7five/status/1803403565865771370
     - Metrics (at fetch): not returned
     
     > Kraken Security Update:
@@ -6066,9 +6066,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @32495046 — 2024-06-19 12:24 UTC (2024-06-19 13:24 WAT)
+    #### Quoted post — @c7five — 2024-06-19 12:24 UTC (2024-06-19 13:24 WAT)
     
-    - URL: https://x.com/32495046/status/1803403590033387626
+    - URL: https://x.com/c7five/status/1803403590033387626
     - Metrics (at fetch): not returned
     
     > Our team found a flaw deriving from a recent UX change that would promptly credit client accounts before their assets cleared - allowing clients to effectively trade crypto markets in real time. This UX change was not thoroughly tested against this specific attack vector.
@@ -6093,9 +6093,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @32495046 — 2024-06-19 12:25 UTC (2024-06-19 13:25 WAT)
+    #### Quoted post — @c7five — 2024-06-19 12:25 UTC (2024-06-19 13:25 WAT)
     
-    - URL: https://x.com/32495046/status/1803403622853779962
+    - URL: https://x.com/c7five/status/1803403622853779962
     - Metrics (at fetch): not returned
     
     > We have had a Bug Bounty program in place at Kraken for nearly ten years. This program is run internally and is fully staffed by some of the brightest minds in the community. Our program, like many others, has clear rules of the road… 
@@ -6122,9 +6122,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @493351331 — 2024-06-19 17:52 UTC (2024-06-19 18:52 WAT)
+    #### Quoted post — @jconorgrogan — 2024-06-19 17:52 UTC (2024-06-19 18:52 WAT)
     
-    - URL: https://x.com/493351331/status/1803486112608034854
+    - URL: https://x.com/jconorgrogan/status/1803486112608034854
     - Metrics (at fetch): bookmark 29, impression 80979, like 474, quote 24, reply 29, retweet 17
     
     > @CertiK @tayvano_ @krakenfx You guys realize that Tornadocash is OFAC sanctioned right? And you are US-domiciled right? [pic.x.com/gdXENua3Tf]
@@ -6289,9 +6289,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1547573880448962562 — 2024-06-10 13:33 UTC (2024-06-10 14:33 WAT)
+    #### Quoted post — @UwU_Lend — 2024-06-10 13:33 UTC (2024-06-10 14:33 WAT)
     
-    - URL: https://x.com/1547573880448962562/status/1800159455767843009
+    - URL: https://x.com/UwU_Lend/status/1800159455767843009
     - Metrics (at fetch): not returned
     
     > The protocol was paused a little under an hour ago while the team investigates the situation. Please rest assured that we were made aware of the situation immediately and are taking all necessary steps, doing our best here. Stay tuned for further updates.
@@ -6314,9 +6314,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1640269960554377219 — 2024-06-13 08:03 UTC (2024-06-13 09:03 WAT)
+    #### Quoted post — @CyversAlerts — 2024-06-13 08:03 UTC (2024-06-13 09:03 WAT)
     
-    - URL: https://x.com/1640269960554377219/status/1801163462816473466
+    - URL: https://x.com/CyversAlerts/status/1801163462816473466
     - Metrics (at fetch): not returned
     
     > 🚨ALERT🚨@UwU_Lend has suffered another security breach by the same attacker!
@@ -6368,9 +6368,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 
 **Quoted post (full text):**
 
-    #### Quoted post — @9130922 — 2024-06-09 13:13 UTC (2024-06-09 14:13 WAT)
+    #### Quoted post — @loopringorg — 2024-06-09 13:13 UTC (2024-06-09 14:13 WAT)
     
-    - URL: https://x.com/9130922/status/1799791898296451515
+    - URL: https://x.com/loopringorg/status/1799791898296451515
     - Metrics (at fetch): bookmark 51, impression 224726, like 322, quote 82, reply 83, retweet 128
     
     > 🚨Incident Alert: Loopring Smart Wallets Compromised🚨
@@ -6455,9 +6455,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1754797902936121344 — 2024-06-10 20:10 UTC (2024-06-10 21:10 WAT)
+    #### Quoted post — @YOLO_Blast — 2024-06-10 20:10 UTC (2024-06-10 21:10 WAT)
     
-    - URL: https://x.com/1754797902936121344/status/1800259276277198952
+    - URL: https://x.com/YOLO_Blast/status/1800259276277198952
     - Metrics (at fetch): not returned
     
     > Due to a reported security vulnerability on the Bazaar LBP smart contract, the YOLO LBP sale has ended ahead of time. Users will not be able to participate in the LBP any further. Any users holding rYOLO from purchasing during the sale will receive an ETH refund based on the amount spent, to be collated over the next few days. 
@@ -6482,9 +6482,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1506600408193638405 — 2024-06-13 23:05 UTC (2024-06-14 00:05 WAT)
+    #### Quoted post — @nftperp — 2024-06-13 23:05 UTC (2024-06-14 00:05 WAT)
     
-    - URL: https://x.com/1506600408193638405/status/1801390530104070159
+    - URL: https://x.com/nftperp/status/1801390530104070159
     - Metrics (at fetch): not returned
     
     > We've identified a critical bug in one of our contracts (clearingHouse) - all vulnerable contracts have been paused until further notice.
@@ -6509,9 +6509,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2985599460 — 2024-06-13 08:23 UTC (2024-06-13 09:23 WAT)
+    #### Quoted post — @star_okx — 2024-06-13 08:23 UTC (2024-06-13 09:23 WAT)
     
-    - URL: https://x.com/2985599460/status/1801168579410415678
+    - URL: https://x.com/star_okx/status/1801168579410415678
     - Metrics (at fetch): not returned
     
     > 继续曝光：现在黑客团伙都如此嚣张的吗？AI换脸犯罪行为的实施者和受益者和受害人的沟通记录，不断诱导受害人此事件是OKX监守自盗，受害人还来威胁OKX提供超额补偿🤣 [pic.x.com/sZOB0EZpWr]
@@ -6540,9 +6540,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2412652615 — 2024-06-07 10:21 UTC (2024-06-07 11:21 WAT)
+    #### Quoted post — @coingecko — 2024-06-07 10:21 UTC (2024-06-07 11:21 WAT)
     
-    - URL: https://x.com/2412652615/status/1799023945934655886
+    - URL: https://x.com/coingecko/status/1799023945934655886
     - Metrics (at fetch): not returned
     
     > 🚨 Important Security Notice: On 5 June, 2024, we experienced a data breach via our third-party email platform, GetResponse.
@@ -6671,9 +6671,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1635868402987450368 — 2024-06-02 03:04 UTC (2024-06-02 04:04 WAT)
+    #### Quoted post — @velocorexyz — 2024-06-02 03:04 UTC (2024-06-02 04:04 WAT)
     
-    - URL: https://x.com/1635868402987450368/status/1797102058157539839
+    - URL: https://x.com/velocorexyz/status/1797102058157539839
     - Metrics (at fetch): bookmark 16, impression 261428, like 159, quote 57, reply 71, retweet 54
     
     > Emergency Notice 
@@ -6701,9 +6701,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1635868402987450368 — 2024-06-02 11:32 UTC (2024-06-02 12:32 WAT)
+    #### Quoted post — @velocorexyz — 2024-06-02 11:32 UTC (2024-06-02 12:32 WAT)
     
-    - URL: https://x.com/1635868402987450368/status/1797229772399067587
+    - URL: https://x.com/velocorexyz/status/1797229772399067587
     - Metrics (at fetch): not returned
     
     > Post-mortem on the exploit of Velocore
@@ -6739,9 +6739,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1636106911085912069 — 2024-06-02 15:05 UTC (2024-06-02 16:05 WAT)
+    #### Quoted post — @LineaBuild — 2024-06-02 15:05 UTC (2024-06-02 16:05 WAT)
     
-    - URL: https://x.com/1636106911085912069/status/1797283402745573837
+    - URL: https://x.com/LineaBuild/status/1797283402745573837
     - Metrics (at fetch): not returned
     
     > 🔊Update on Velocore Incident
@@ -6769,9 +6769,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1297925400090337280 — 2024-06-01 07:41 UTC (2024-06-01 08:41 WAT)
+    #### Quoted post — @RektHQ — 2024-06-01 07:41 UTC (2024-06-01 08:41 WAT)
     
-    - URL: https://x.com/1297925400090337280/status/1796809167392637229
+    - URL: https://x.com/RektHQ/status/1796809167392637229
     - Metrics (at fetch): not returned
     
     > Centralized Japanese crypto exchange @DMM_Bitcoin exploited for more than $304 million in Bitcoin.
@@ -6805,9 +6805,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1278266969532203008 — 2024-05-28 07:25 UTC (2024-05-28 08:25 WAT)
+    #### Quoted post — @Phalcon_xyz — 2024-05-28 07:25 UTC (2024-05-28 08:25 WAT)
     
-    - URL: https://x.com/1278266969532203008/status/1795355758235693089
+    - URL: https://x.com/Phalcon_xyz/status/1795355758235693089
     - Metrics (at fetch): not returned
     
     > ALERT! Our system has detected attack transactions targeting @TradeOnOrion 's contract on #BSC, resulting in a loss of ~$645K. 
@@ -6975,9 +6975,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1288572182444961793 — 2024-05-24 17:50 UTC (2024-05-24 18:50 WAT)
+    #### Quoted post — @GoGalaGames — 2024-05-24 17:50 UTC (2024-05-24 18:50 WAT)
     
-    - URL: https://x.com/1288572182444961793/status/1794063373677568414
+    - URL: https://x.com/GoGalaGames/status/1794063373677568414
     - Metrics (at fetch): bookmark 7, impression 52965, like 891, quote 12, reply 118, retweet 201
     
     > All remaining 4.4 billion $GALA from the exploiter's wallet has been burnt🙏 
@@ -7067,9 +7067,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1679310423928233985 — 2024-05-24 10:34 UTC (2024-05-24 11:34 WAT)
+    #### Quoted post — @TonUP_io — 2024-05-24 10:34 UTC (2024-05-24 11:34 WAT)
     
-    - URL: https://x.com/1679310423928233985/status/1793953653956772315
+    - URL: https://x.com/TonUP_io/status/1793953653956772315
     - Metrics (at fetch): bookmark 0, impression 4012, like 13, quote 1, reply 2, retweet 3
     
     > To Our Valued Community,
@@ -7207,9 +7207,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1403698101060313090 — 2024-05-16 08:17 UTC (2024-05-16 09:17 WAT)
+    #### Quoted post — @ALEXLabBTC — 2024-05-16 08:17 UTC (2024-05-16 09:17 WAT)
     
-    - URL: https://x.com/1403698101060313090/status/1791020176332230988
+    - URL: https://x.com/ALEXLabBTC/status/1791020176332230988
     - Metrics (at fetch): bookmark 52, impression 287801, like 392, quote 98, reply 146, retweet 86
     
     > ALEX Security Update
@@ -7313,9 +7313,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1464168784336494592 — 2024-05-14 11:29 UTC (2024-05-14 12:29 WAT)
+    #### Quoted post — @predyfinance — 2024-05-14 11:29 UTC (2024-05-14 12:29 WAT)
     
-    - URL: https://x.com/1464168784336494592/status/1790343639492681762
+    - URL: https://x.com/predyfinance/status/1790343639492681762
     - Metrics (at fetch): bookmark 6, impression 14042, like 22, quote 8, reply 1, retweet 10
     
     > Important Announcement  - May. 14, 2024
@@ -7431,9 +7431,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1408948807136473091 — 2024-05-06 22:36 UTC (2024-05-06 23:36 WAT)
+    #### Quoted post — @GnusAi — 2024-05-06 22:36 UTC (2024-05-06 23:36 WAT)
     
-    - URL: https://x.com/1408948807136473091/status/1787612336221479286
+    - URL: https://x.com/GnusAi/status/1787612336221479286
     - Metrics (at fetch): bookmark 4, impression 29746, like 99, quote 5, reply 48, retweet 18
     
     > Dear Gnuses,
@@ -7491,9 +7491,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1278266969532203008 — 2024-05-10 02:10 UTC (2024-05-10 03:10 WAT)
+    #### Quoted post — @Phalcon_xyz — 2024-05-10 02:10 UTC (2024-05-10 03:10 WAT)
     
-    - URL: https://x.com/1278266969532203008/status/1788753403121692689
+    - URL: https://x.com/Phalcon_xyz/status/1788753403121692689
     - Metrics (at fetch): bookmark 4, impression 9013, like 13, quote 3, reply 0, retweet 7
     
     > ALERT! Our system detected attack transactions targeting @GalaxyFoxToken, and the loss is over $300K.
@@ -7616,9 +7616,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1532219858540056576 — 2024-05-01 07:32 UTC (2024-05-01 08:32 WAT)
+    #### Quoted post — @PikeFinance — 2024-05-01 07:32 UTC (2024-05-01 08:32 WAT)
     
-    - URL: https://x.com/1532219858540056576/status/1785572875124330644
+    - URL: https://x.com/PikeFinance/status/1785572875124330644
     - Metrics (at fetch): not returned
     
     > Attention Users:
@@ -7678,9 +7678,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1640269960554377219 — 2024-05-03 11:53 UTC (2024-05-03 12:53 WAT)
+    #### Quoted post — @CyversAlerts — 2024-05-03 11:53 UTC (2024-05-03 12:53 WAT)
     
-    - URL: https://x.com/1640269960554377219/status/1786363410243858869
+    - URL: https://x.com/CyversAlerts/status/1786363410243858869
     - Metrics (at fetch): not returned
     
     > 🚨ALERT🚨Are we mistaken, or has someone truly lost $68M worth of $WBTC? Our system has detected another address falling victim to address poisoning, losing 1155 $WBTC. 😢
@@ -7716,9 +7716,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3012852462 — 2024-04-29 13:19 UTC (2024-04-29 14:19 WAT)
+    #### Quoted post — @zachxbt — 2024-04-29 13:19 UTC (2024-04-29 14:19 WAT)
     
-    - URL: https://x.com/3012852462/status/1784935501935390930
+    - URL: https://x.com/zachxbt/status/1784935501935390930
     - Metrics (at fetch): not returned
     
     > 1/ How Lazarus Group laundered $200M from 25+ crypto hacks to fiat from 2020 - 2023
@@ -7820,9 +7820,9 @@ Tags (automatic): Path normalization, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1438291472898428928 — 2024-04-24 18:11 UTC (2024-04-24 19:11 WAT)
+    #### Quoted post — @yiedlai — 2024-04-24 18:11 UTC (2024-04-24 19:11 WAT)
     
-    - URL: https://x.com/1438291472898428928/status/1783196959811252264
+    - URL: https://x.com/yiedlai/status/1783196959811252264
     - Metrics (at fetch): not returned
     
     > Some updates of the YIEDL Y-Bull vault hacking:
@@ -7875,9 +7875,9 @@ Tags (automatic): Path normalization, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1532219858540056576 — 2024-04-28 11:02 UTC (2024-04-28 12:02 WAT)
+    #### Quoted post — @PikeFinance — 2024-04-28 11:02 UTC (2024-04-28 12:02 WAT)
     
-    - URL: https://x.com/1532219858540056576/status/1784538581002043772
+    - URL: https://x.com/PikeFinance/status/1784538581002043772
     - Metrics (at fetch): not returned
     
     > Hey community - after intensive investigation and collaboration with security and integration partners, we're ready to delve into what happened 2 days ago.
@@ -7905,9 +7905,9 @@ Tags (automatic): Path normalization, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1278266969532203008 — 2024-04-28 02:41 UTC (2024-04-28 03:41 WAT)
+    #### Quoted post — @Phalcon_xyz — 2024-04-28 02:41 UTC (2024-04-28 03:41 WAT)
     
-    - URL: https://x.com/1278266969532203008/status/1784412609103446097
+    - URL: https://x.com/Phalcon_xyz/status/1784412609103446097
     - Metrics (at fetch): not returned
     
     > ALERT! Our system has detected some suspicious transactions targeting on an unknown contract on #BSC and a contract of @PlayEmberSword on #Polygon , resulting in a loss of $240K. Please revoke any approvals to 0x389a9ae29fbe53cca7bc8b7a4d9d0a04078e1c24 on #BSC and 0x6f7b4c0121e68c06a22f46b3f7f3004c76c7d8ff on #Ploygon ASAP.
@@ -7939,9 +7939,9 @@ Tags (automatic): Path normalization, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1494146332528885767 — 2024-04-25 12:41 UTC (2024-04-25 13:41 WAT)
+    #### Quoted post — @CertiKAlert — 2024-04-25 12:41 UTC (2024-04-25 13:41 WAT)
     
-    - URL: https://x.com/1494146332528885767/status/1783476515331616847
+    - URL: https://x.com/CertiKAlert/status/1783476515331616847
     - Metrics (at fetch): not returned
     
     > #CertiKInsight 🚨
@@ -8215,9 +8215,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1357335559337889793 — 2024-04-19 09:44 UTC (2024-04-19 10:44 WAT)
+    #### Quoted post — @hedgeyfinance — 2024-04-19 09:44 UTC (2024-04-19 10:44 WAT)
     
-    - URL: https://x.com/1357335559337889793/status/1781257581488418862
+    - URL: https://x.com/hedgeyfinance/status/1781257581488418862
     - Metrics (at fetch): not returned
     
     > Security Alert: We're investigating an attack on the Hedgey Token Claim Contract. If you have created active claims, please cancel them using the "End Token Claim" button at https://app.hedgey.finance/token-claims. 
@@ -8397,9 +8397,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1287576585353039872 — 2024-04-05 19:31 UTC (2024-04-05 20:31 WAT)
+    #### Quoted post — @0xCygaar — 2024-04-05 19:31 UTC (2024-04-05 20:31 WAT)
     
-    - URL: https://x.com/1287576585353039872/status/1776331763477819701
+    - URL: https://x.com/0xCygaar/status/1776331763477819701
     - Metrics (at fetch): bookmark 511, impression 424164, like 1504, quote 95, reply 164, retweet 389
     
     > A simple explanation of why your Solana transactions are failing:
@@ -8429,9 +8429,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1260559704335568896 — 2024-04-04 16:17 UTC (2024-04-04 17:17 WAT)
+    #### Quoted post — @nansen_ai — 2024-04-04 16:17 UTC (2024-04-04 17:17 WAT)
     
-    - URL: https://x.com/1260559704335568896/status/1775920526751662305
+    - URL: https://x.com/nansen_ai/status/1775920526751662305
     - Metrics (at fetch): bookmark 177, impression 480194, like 895, quote 106, reply 168, retweet 97
     
     > gm
@@ -8963,9 +8963,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @990716955236749312 — 2024-03-20 17:14 UTC (2024-03-20 18:14 WAT)
+    #### Quoted post — @Dolomite_io — 2024-03-20 17:14 UTC (2024-03-20 18:14 WAT)
     
-    - URL: https://x.com/990716955236749312/status/1770499040741859645
+    - URL: https://x.com/Dolomite_io/status/1770499040741859645
     - Metrics (at fetch): bookmark 5, impression 36500, like 47, quote 16, reply 3, retweet 13
     
     > This impacts Dolomite's old contracts from 2019 on Ethereum Mainnet.
@@ -9327,9 +9327,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1728841353570684928 — 2024-03-11 08:26 UTC (2024-03-11 09:26 WAT)
+    #### Quoted post — @blastozone — 2024-03-11 08:26 UTC (2024-03-11 09:26 WAT)
     
-    - URL: https://x.com/1728841353570684928/status/1767104856609673667
+    - URL: https://x.com/blastozone/status/1767104856609673667
     - Metrics (at fetch): bookmark 9, impression 77086, like 105, quote 41, reply 28, retweet 27
     
     > Important.
@@ -9353,9 +9353,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1686089393268752384 — 2024-03-16 00:25 UTC (2024-03-16 01:25 WAT)
+    #### Quoted post — @blast — 2024-03-16 00:25 UTC (2024-03-16 01:25 WAT)
     
-    - URL: https://x.com/1686089393268752384/status/1768795611292209443
+    - URL: https://x.com/blast/status/1768795611292209443
     - Metrics (at fetch): bookmark 12, impression 121321, like 388, quote 7, reply 130, retweet 71
     
     > Final Update
@@ -9778,9 +9778,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1135437024578625537 — 2024-02-14 07:37 UTC (2024-02-14 08:37 WAT)
+    #### Quoted post — @Orbit_Chain — 2024-02-14 07:37 UTC (2024-02-14 08:37 WAT)
     
-    - URL: https://x.com/1135437024578625537/status/1757670387092173257
+    - URL: https://x.com/Orbit_Chain/status/1757670387092173257
     - Metrics (at fetch): bookmark 1, impression 22085, like 40, quote 1, reply 0, retweet 12
     
     > ‘Orbit Bridge Exploit’ Asset Recovery &amp; Ecosystem Normalization Plan(Draft)
@@ -9992,9 +9992,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1166548668083658752 — 2024-02-09 21:01 UTC (2024-02-09 22:01 WAT)
+    #### Quoted post — @playdapp_io — 2024-02-09 21:01 UTC (2024-02-09 22:01 WAT)
     
-    - URL: https://x.com/1166548668083658752/status/1756060784692736038
+    - URL: https://x.com/playdapp_io/status/1756060784692736038
     - Metrics (at fetch): not returned
     
     > We are writing to inform you of a critical security incident involving the PLA token contract. The PLA token contract has been hacked and additional PLA tokens have been issued. We understand the gravity of this situation and assure you that we are taking immediate action.
@@ -10070,9 +10070,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @274991683 — 2024-02-06 16:16 UTC (2024-02-06 17:16 WAT)
+    #### Quoted post — @josephfcox — 2024-02-06 16:16 UTC (2024-02-06 17:16 WAT)
     
-    - URL: https://x.com/274991683/status/1754901892524568804
+    - URL: https://x.com/josephfcox/status/1754901892524568804
     - Metrics (at fetch): not returned
     
     > New impact from 404 Media: OnlyFake, the underground website we showed allowed anyone to make highly convincing photos of fake IDs in minutes, has gone dark. Comes after our investigation showing it could be used to bypass ID verification
@@ -10296,9 +10296,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1389649651540836354 — 2024-01-30 11:04 UTC (2024-01-30 12:04 WAT)
+    #### Quoted post — @MIM_Spell — 2024-01-30 11:04 UTC (2024-01-30 12:04 WAT)
     
-    - URL: https://x.com/1389649651540836354/status/1752286636740579440
+    - URL: https://x.com/MIM_Spell/status/1752286636740579440
     - Metrics (at fetch): not returned
     
     > We are aware of an exploit involving certain cauldrons on Ethereum.
@@ -10328,9 +10328,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3012852462 — 2024-01-31 14:05 UTC (2024-01-31 15:05 WAT)
+    #### Quoted post — @zachxbt — 2024-01-31 14:05 UTC (2024-01-31 15:05 WAT)
     
-    - URL: https://x.com/3012852462/status/1752694489905528943
+    - URL: https://x.com/zachxbt/status/1752694489905528943
     - Metrics (at fetch): bookmark 390, impression 2661210, like 4823, quote 726, reply 675, retweet 1168
     
     > It appears @Ripple was hacked for ~213M XRP ($112.5M)
@@ -10391,9 +10391,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @274991683 — 2024-01-31 14:26 UTC (2024-01-31 15:26 WAT)
+    #### Quoted post — @josephfcox — 2024-01-31 14:26 UTC (2024-01-31 15:26 WAT)
     
-    - URL: https://x.com/274991683/status/1752699912293056839
+    - URL: https://x.com/josephfcox/status/1752699912293056839
     - Metrics (at fetch): not returned
     
     > New from 404 Media: Binance code &amp; internal passwords exposed on GitHub for months. Includes code for how Binance implements 2FA, much more  
@@ -10609,9 +10609,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2505753812 — 2024-01-24 20:57 UTC (2024-01-24 21:57 WAT)
+    #### Quoted post — @GAMEEToken — 2024-01-24 20:57 UTC (2024-01-24 21:57 WAT)
     
-    - URL: https://x.com/2505753812/status/1750261532418523437
+    - URL: https://x.com/GAMEEToken/status/1750261532418523437
     - Metrics (at fetch): not returned
     
     > 1/9 Situation Update: All contracts and community-owned funds are secure, but the hacker still controls ~200M $GMEE tokens on Polygon. To safeguard our users, we've paused the Polygon-Ethereum bridge, along with trading and deposits on Polygon. A remediation plan is underway. Thank you for your patience and support.
@@ -10719,9 +10719,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1323334073453023233 — 2024-01-23 13:01 UTC (2024-01-23 14:01 WAT)
+    #### Quoted post — @DeFi — 2024-01-23 13:01 UTC (2024-01-23 14:01 WAT)
     
-    - URL: https://x.com/1323334073453023233/status/1749779351053152479
+    - URL: https://x.com/DeFi/status/1749779351053152479
     - Metrics (at fetch): not returned
     
     > The event with fake emails earlier today was caused by an issue of @MailerLite - our mail service provider.
@@ -10881,9 +10881,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1431204614 — 2024-01-20 15:11 UTC (2024-01-20 16:11 WAT)
+    #### Quoted post — @Trezor — 2024-01-20 15:11 UTC (2024-01-20 16:11 WAT)
     
-    - URL: https://x.com/1431204614/status/1748724846861705494
+    - URL: https://x.com/Trezor/status/1748724846861705494
     - Metrics (at fetch): not returned
     
     > 🚨Security Alert 🚨
@@ -10927,9 +10927,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1326658439527936000 — 2024-01-19 16:07 UTC (2024-01-19 17:07 WAT)
+    #### Quoted post — @MantaNetwork — 2024-01-19 16:07 UTC (2024-01-19 17:07 WAT)
     
-    - URL: https://x.com/1326658439527936000/status/1748376581918302524
+    - URL: https://x.com/MantaNetwork/status/1748376581918302524
     - Metrics (at fetch): not returned
     
     > On January 18, 2024, Manta Network reserved a total of 3m $MANTA tokens out of the 50 million unlocked Ecosystem Fund token allocation to expand the Korean ecosystem. 2m $MANTA was dispersed to Bithumb to secure liquidity.
@@ -10958,9 +10958,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2024-01-16 01:01 UTC (2024-01-16 02:01 WAT)
+    #### Quoted post — @Cointelegraph — 2024-01-16 01:01 UTC (2024-01-16 02:01 WAT)
     
-    - URL: https://x.com/2207129125/status/1747061376802312203
+    - URL: https://x.com/Cointelegraph/status/1747061376802312203
     - Metrics (at fetch): not returned
     
     > Justin Sun-linked stablecoin TUSD @tusdio has fallen significantly below its peg, with holders selling more than $330 million of the token on Binance. https://cointelegraph.com/news/tusd-stablecoin-depeg-justin-sun-binance-launchpool-true-usd
@@ -11218,9 +11218,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, Platform: Code4rena / Sherloc
 
 **Quoted post (full text):**
 
-    #### Quoted post — @18481050 — 2024-01-09 21:42 UTC (2024-01-09 22:42 WAT)
+    #### Quoted post — @SECGov — 2024-01-09 21:42 UTC (2024-01-09 22:42 WAT)
     
-    - URL: https://x.com/18481050/status/1744837121406349714
+    - URL: https://x.com/SECGov/status/1744837121406349714
     - Metrics (at fetch): bookmark 944, impression 9033828, like 15713, quote 4403, reply 11535, retweet 4254
     
     > The @SECGov X account was compromised, and an unauthorized post was posted. The SEC has not approved the listing and trading of spot bitcoin exchange-traded products.
@@ -11242,9 +11242,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, Platform: Code4rena / Sherloc
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2412652615 — 2024-01-10 18:59 UTC (2024-01-10 19:59 WAT)
+    #### Quoted post — @coingecko — 2024-01-10 18:59 UTC (2024-01-10 19:59 WAT)
     
-    - URL: https://x.com/2412652615/status/1745158344191717746
+    - URL: https://x.com/coingecko/status/1745158344191717746
     - Metrics (at fetch): bookmark 25, impression 415849, like 1349, quote 166, reply 288, retweet 504
     
     > Our Twitter accounts @CoinGecko and @GeckoTerminal have been compromised. We're taking immediate steps to investigate the situation and secure our accounts.
@@ -11274,9 +11274,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK, Platform: Code4rena / Sherloc
 
 **Quoted post (full text):**
 
-    #### Quoted post — @950915985422221312 — 2024-01-12 20:36 UTC (2024-01-12 21:36 WAT)
+    #### Quoted post — @peckshield — 2024-01-12 20:36 UTC (2024-01-12 21:36 WAT)
     
-    - URL: https://x.com/950915985422221312/status/1745907642118123774
+    - URL: https://x.com/peckshield/status/1745907642118123774
     - Metrics (at fetch): bookmark 36, impression 27680, like 129, quote 10, reply 10, retweet 23
     
     > The @Wise_Lending market was exploited today, resulting in ~177 ETH loss (~$464K).
@@ -11345,9 +11345,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2023-07-27 01:49 UTC (2023-07-27 02:49 WAT)
+    #### Quoted post — @Cointelegraph — 2023-07-27 01:49 UTC (2023-07-27 02:49 WAT)
     
-    - URL: https://x.com/2207129125/status/1684380347046465541
+    - URL: https://x.com/Cointelegraph/status/1684380347046465541
     - Metrics (at fetch): bookmark 0, impression 24465, like 42, quote 5, reply 21, retweet 18
     
     > Crypto payments platform @coinspaid suspects North Korea’s Lazarus Group is behind a $37.3 million exploit of its platform on July 22. While customer funds are safe, the firm’s balance sheet took a big hit. https://t.co/IssH0et2Gw
@@ -11528,9 +11528,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1501279850727821312 — 2024-01-03 20:05 UTC (2024-01-03 21:05 WAT)
+    #### Quoted post — @RDNTCapital — 2024-01-03 20:05 UTC (2024-01-03 21:05 WAT)
     
-    - URL: https://x.com/1501279850727821312/status/1742638364933714112
+    - URL: https://x.com/RDNTCapital/status/1742638364933714112
     - Metrics (at fetch): bookmark 32, impression 147984, like 431, quote 22, reply 6, retweet 53
     
     > Radiant Capital was subject to a flash-loan-based exploit upon launching the new native USDC market on Arbitrum on January 2nd at 06:53:29 PM +UTC, leading to the protocol accruing bad debt in the WETH market totaling about 1.3% of total protocol TVL. 🧵1/10👇
@@ -11577,9 +11577,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @993673575230996480 — 2024-01-05 12:45 UTC (2024-01-05 13:45 WAT)
+    #### Quoted post — @CertiK — 2024-01-05 12:45 UTC (2024-01-05 13:45 WAT)
     
-    - URL: https://x.com/993673575230996480/status/1743252309662912937
+    - URL: https://x.com/CertiK/status/1743252309662912937
     - Metrics (at fetch): bookmark 24, impression 100390, like 188, quote 42, reply 64, retweet 55
     
     > A verified account, associated with a well-known media, contacted one of our employees. Unfortunately, it appears that this account was compromised, leading to a phishing attack on our employee.  
@@ -11789,9 +11789,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1135437024578625537 — 2024-01-01 07:39 UTC (2024-01-01 08:39 WAT)
+    #### Quoted post — @Orbit_Chain — 2024-01-01 07:39 UTC (2024-01-01 08:39 WAT)
     
-    - URL: https://x.com/1135437024578625537/status/1741725778956730778
+    - URL: https://x.com/Orbit_Chain/status/1741725778956730778
     - Metrics (at fetch): bookmark 6, impression 87844, like 115, quote 37, reply 6, retweet 71
     
     > 🚨Urgent🚨
@@ -11858,9 +11858,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @292132128 — 2023-12-30 08:25 UTC (2023-12-30 09:25 WAT)
+    #### Quoted post — @compoundfinance — 2023-12-30 08:25 UTC (2023-12-30 09:25 WAT)
     
-    - URL: https://x.com/292132128/status/1741012550958080239
+    - URL: https://x.com/compoundfinance/status/1741012550958080239
     - Metrics (at fetch): bookmark 0, impression 47498, like 128, quote 9, reply 77, retweet 33
     
     > The Compound Labs X account was compromised yesterday for ~4 hours until we regained control of the account and removed the spam messages. 
@@ -12787,9 +12787,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3158128251 — 2023-06-13 20:20 UTC (2023-06-13 21:20 WAT)
+    #### Quoted post — @0xWiz_ — 2023-06-13 20:20 UTC (2023-06-13 21:20 WAT)
     
-    - URL: https://x.com/3158128251/status/1668715012863545344
+    - URL: https://x.com/0xWiz_/status/1668715012863545344
     - Metrics (at fetch): bookmark 17, impression 24124, like 101, quote 14, reply 9, retweet 16
     
     > Today I'm announcing the release of @nounsdao Governance Pools [pic.x.com/V6Z4g3PZpX]
@@ -12913,9 +12913,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1382854043433783296 — 2023-12-05 01:02 UTC (2023-12-05 02:02 WAT)
+    #### Quoted post — @thirdweb — 2023-12-05 01:02 UTC (2023-12-05 02:02 WAT)
     
-    - URL: https://x.com/1382854043433783296/status/1731841493407576247
+    - URL: https://x.com/thirdweb/status/1731841493407576247
     - Metrics (at fetch): bookmark 388, impression 1196585, like 1102, quote 451, reply 165, retweet 483
     
     > IMPORTANT 
@@ -12977,9 +12977,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1287576585353039872 — 2023-12-08 04:37 UTC (2023-12-08 05:37 WAT)
+    #### Quoted post — @0xCygaar — 2023-12-08 04:37 UTC (2023-12-08 05:37 WAT)
     
-    - URL: https://x.com/1287576585353039872/status/1732982626183729618
+    - URL: https://x.com/0xCygaar/status/1732982626183729618
     - Metrics (at fetch): bookmark 9, impression 8762, like 57, quote 2, reply 1, retweet 6
     
     > Here's the ELI5 explanation:
@@ -13009,9 +13009,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1640269960554377219 — 2023-12-08 10:20 UTC (2023-12-08 11:20 WAT)
+    #### Quoted post — @CyversAlerts — 2023-12-08 10:20 UTC (2023-12-08 11:20 WAT)
     
-    - URL: https://x.com/1640269960554377219/status/1733069135049904619
+    - URL: https://x.com/CyversAlerts/status/1733069135049904619
     - Metrics (at fetch): bookmark 27, impression 93400, like 93, quote 22, reply 4, retweet 24
     
     > 🚨ALERT🚨Our system has detected an abnormal transaction related to the @KyberNetwork exploiter.
@@ -13074,9 +13074,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1333467482 — 2023-12-07 01:37 UTC (2023-12-07 02:37 WAT)
+    #### Quoted post — @CoinDesk — 2023-12-07 01:37 UTC (2023-12-07 02:37 WAT)
     
-    - URL: https://x.com/1333467482/status/1732574910805844121
+    - URL: https://x.com/CoinDesk/status/1732574910805844121
     - Metrics (at fetch): bookmark 35, impression 116907, like 310, quote 59, reply 45, retweet 94
     
     > More than 72% of Ethereum’s block builders are "censoring" transactions sanctioned by U.S. govt OFAC, data shows, underscoring how “credibly neutral” blockchains have become more centralized as a result of MEV @skesslr reports $ETH
@@ -13242,9 +13242,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1546814146385268737 — 2023-11-30 12:16 UTC (2023-11-30 13:16 WAT)
+    #### Quoted post — @pashov — 2023-11-30 12:16 UTC (2023-11-30 13:16 WAT)
     
-    - URL: https://x.com/1546814146385268737/status/1730199127038795881
+    - URL: https://x.com/pashov/status/1730199127038795881
     - Metrics (at fetch): bookmark 105, impression 171923, like 709, quote 124, reply 106, retweet 79
     
     > Kyberswap exploiter's latest message.
@@ -13273,9 +13273,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1511770076738990082 — 2023-11-29 07:58 UTC (2023-11-29 08:58 WAT)
+    #### Quoted post — @VelodromeFi — 2023-11-29 07:58 UTC (2023-11-29 08:58 WAT)
     
-    - URL: https://x.com/1511770076738990082/status/1729771762752135463
+    - URL: https://x.com/VelodromeFi/status/1729771762752135463
     - Metrics (at fetch): bookmark 25, impression 548527, like 648, quote 189, reply 79, retweet 330
     
     > Our frontend is currently compromised. Please do not interact with Velodrome for the time being. The team are investigating and will communicate more here when we have it.
@@ -13300,9 +13300,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1052454006537314306 — 2023-11-30 16:13 UTC (2023-11-30 17:13 WAT)
+    #### Quoted post — @BNBChain — 2023-11-30 16:13 UTC (2023-11-30 17:13 WAT)
     
-    - URL: https://x.com/1052454006537314306/status/1730258869861990683
+    - URL: https://x.com/BNBChain/status/1730258869861990683
     - Metrics (at fetch): bookmark 0, impression 18409, like 67, quote 2, reply 24, retweet 17
     
     > Attention Developers.
@@ -13337,9 +13337,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1358831196747235328 — 2023-11-30 03:45 UTC (2023-11-30 04:45 WAT)
+    #### Quoted post — @code4rena — 2023-11-30 03:45 UTC (2023-11-30 04:45 WAT)
     
-    - URL: https://x.com/1358831196747235328/status/1730070398665117794
+    - URL: https://x.com/code4rena/status/1730070398665117794
     - Metrics (at fetch): bookmark 8, impression 19806, like 69, quote 6, reply 9, retweet 2
     
     > For 69 minutes on Monday, this account was hijacked via sim swap and used to send a phishing link.
@@ -13367,9 +13367,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2023-11-28 12:37 UTC (2023-11-28 13:37 WAT)
+    #### Quoted post — @Cointelegraph — 2023-11-28 12:37 UTC (2023-11-28 13:37 WAT)
     
-    - URL: https://x.com/2207129125/status/1729479646251721098
+    - URL: https://x.com/Cointelegraph/status/1729479646251721098
     - Metrics (at fetch): bookmark 1, impression 19994, like 40, quote 2, reply 10, retweet 7
     
     > Hong Kong authorities reported 145 victims and $18.9 million lost in a scam by the unlicensed cryptocurrency exchange Hounax. https://cointelegraph.com/news/hong-kong-authorities-145-victims-18-9-m-lost-hounax-scam
@@ -13394,9 +13394,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1333467482 — 2023-11-29 15:51 UTC (2023-11-29 16:51 WAT)
+    #### Quoted post — @CoinDesk — 2023-11-29 15:51 UTC (2023-11-29 16:51 WAT)
     
-    - URL: https://x.com/1333467482/status/1729890773481427408
+    - URL: https://x.com/CoinDesk/status/1729890773481427408
     - Metrics (at fetch): bookmark 1, impression 21734, like 59, quote 5, reply 18, retweet 24
     
     > The U.S. government has blocked another crypto mixing service, Sinbad, from the global financial system alleging it helped North Korea launder funds stolen from crypto projects including Axie Infinity and Horizon Bridge. 
@@ -13567,9 +13567,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @902839045356744704 — 2023-11-22 12:34 UTC (2023-11-22 13:34 WAT)
+    #### Quoted post — @justinsuntron — 2023-11-22 12:34 UTC (2023-11-22 13:34 WAT)
     
-    - URL: https://x.com/902839045356744704/status/1727304656622326180
+    - URL: https://x.com/justinsuntron/status/1727304656622326180
     - Metrics (at fetch): bookmark 50, impression 840268, like 1066, quote 234, reply 505, retweet 173
     
     > HTX and Heco Cross-Chain Bridge Undergo Hacker Attack. HTX Will Fully Compensate for HTX's hot wallet Losses. Deposits and Withdrawals Temporarily Suspended. All Funds in HTX Are Secure, and the Community Can Rest Assured. We are investigating the specific reasons for the hacker
@@ -13591,9 +13591,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @865963965649571840 — 2023-11-24 18:18 UTC (2023-11-24 19:18 WAT)
+    #### Quoted post — @KyberNetwork — 2023-11-24 18:18 UTC (2023-11-24 19:18 WAT)
     
-    - URL: https://x.com/865963965649571840/status/1728115858889929021
+    - URL: https://x.com/KyberNetwork/status/1728115858889929021
     - Metrics (at fetch): bookmark 59, impression 296749, like 687, quote 46, reply 102, retweet 227
     
     > 1/ We've overcome many challenges since our 2017 inception, but by far these last 2 days have been the most difficult. At the core of our mission is a commitment to security, making this recent event a heavy burden on our hearts. We’d like to be transparent about what happened.
@@ -13617,9 +13617,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @902926941413453824 — 2023-11-21 20:36 UTC (2023-11-21 21:36 WAT)
+    #### Quoted post — @cz_binance — 2023-11-21 20:36 UTC (2023-11-21 21:36 WAT)
     
-    - URL: https://x.com/902926941413453824/status/1727063503125766367
+    - URL: https://x.com/cz_binance/status/1727063503125766367
     - Metrics (at fetch): bookmark 6099, impression 29951463, like 143542, quote 9265, reply 35447, retweet 30490
     
     > Today, I stepped down as CEO of Binance. Admittedly, it was not easy to let go emotionally. But I know it is the right thing to do. I made mistakes, and I must take responsibility. This is best for our community, for Binance, and for myself.
@@ -13676,9 +13676,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1552936386 — 2023-11-21 00:09 UTC (2023-11-21 01:09 WAT)
+    #### Quoted post — @DavidLRipley — 2023-11-21 00:09 UTC (2023-11-21 01:09 WAT)
     
-    - URL: https://x.com/1552936386/status/1726754746265227386
+    - URL: https://x.com/DavidLRipley/status/1726754746265227386
     - Metrics (at fetch): bookmark 87, impression 639336, like 3904, quote 60, reply 289, retweet 616
     
     > We strongly disagree with the SEC claims, stand firm in our view that we do not list securities, and plan to vigorously defend our position.
@@ -13760,9 +13760,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1038484278810570752 — 2023-11-18 10:07 UTC (2023-11-18 11:07 WAT)
+    #### Quoted post — @NotDeGhost — 2023-11-18 10:07 UTC (2023-11-18 11:07 WAT)
     
-    - URL: https://x.com/1038484278810570752/status/1725818101155922169
+    - URL: https://x.com/NotDeGhost/status/1725818101155922169
     - Metrics (at fetch): bookmark 6, impression 11719, like 46, quote 1, reply 4, retweet 5
     
     > I wrote a YUL challenge for @curta_ctf https://t.co/9zC5Wc4nXH. if you solve it and are interested in working @osec_io, please shoot me a DM :) https://t.co/fwsuJBbtof
@@ -14230,9 +14230,9 @@ Tags (automatic): Smart contract / DeFi, Platform: Code4rena / Sherlock / Cantin
 
 **Quoted post (full text):**
 
-    #### Quoted post — @909929047626354688 — 2023-11-18 21:16 UTC (2023-11-18 22:16 WAT)
+    #### Quoted post — @arcus_xyz — 2023-11-18 21:16 UTC (2023-11-18 22:16 WAT)
     
-    - URL: https://x.com/909929047626354688/status/1725986476943385062
+    - URL: https://x.com/arcus_xyz/status/1725986476943385062
     - Metrics (at fetch): bookmark 53, impression 392161, like 1031, quote 75, reply 112, retweet 60
     
     > Sorry, highly profitable trading strategies have now been banned on dYdX
@@ -14729,9 +14729,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @902839045356744704 — 2023-11-10 11:42 UTC (2023-11-10 12:42 WAT)
+    #### Quoted post — @justinsuntron — 2023-11-10 11:42 UTC (2023-11-10 12:42 WAT)
     
-    - URL: https://x.com/902839045356744704/status/1722942733680296246
+    - URL: https://x.com/justinsuntron/status/1722942733680296246
     - Metrics (at fetch): not returned
     
     > We are currently investigating the Poloniex hack incident. Poloniex maintains a healthy financial position and will fully reimburse the affected funds. Additionally, we are exploring opportunities for collaboration with other exchanges to facilitate the recovery of these funds.
@@ -14755,9 +14755,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3012852462 — 2023-11-12 17:40 UTC (2023-11-12 18:40 WAT)
+    #### Quoted post — @zachxbt — 2023-11-12 17:40 UTC (2023-11-12 18:40 WAT)
     
-    - URL: https://x.com/3012852462/status/1723757797316133240
+    - URL: https://x.com/zachxbt/status/1723757797316133240
     - Metrics (at fetch): not returned
     
     > It appears someone had 27M USDT stolen yesterday.
@@ -14788,9 +14788,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @902926941413453824 — 2023-11-10 17:27 UTC (2023-11-10 18:27 WAT)
+    #### Quoted post — @cz_binance — 2023-11-10 17:27 UTC (2023-11-10 18:27 WAT)
     
-    - URL: https://x.com/902926941413453824/status/1723029611796152385
+    - URL: https://x.com/cz_binance/status/1723029611796152385
     - Metrics (at fetch): not returned
     
     > Executives from a client were lured on a 'business trip' to Montenegro, where they were abducted and forced to empty their wallets. Total loss ~$12.5m.
@@ -14864,9 +14864,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1372839285834006531 — 2023-11-09 07:55 UTC (2023-11-09 08:55 WAT)
+    #### Quoted post — @thestandard_io — 2023-11-09 07:55 UTC (2023-11-09 08:55 WAT)
     
-    - URL: https://x.com/1372839285834006531/status/1722523225454682314
+    - URL: https://x.com/thestandard_io/status/1722523225454682314
     - Metrics (at fetch): not returned
     
     > 🚨Update🚨
@@ -14896,9 +14896,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1158139840866791424 — 2023-11-12 17:06 UTC (2023-11-12 18:06 WAT)
+    #### Quoted post — @vxunderground — 2023-11-12 17:06 UTC (2023-11-12 18:06 WAT)
     
-    - URL: https://x.com/1158139840866791424/status/1723749038057574425
+    - URL: https://x.com/vxunderground/status/1723749038057574425
     - Metrics (at fetch): not returned
     
     > An unknown Threat Actor(s) claim to have compromised Coin Cloud. 
@@ -14969,9 +14969,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1489737129546551296 — 2023-11-10 21:13 UTC (2023-11-10 22:13 WAT)
+    #### Quoted post — @hyperlane — 2023-11-10 21:13 UTC (2023-11-10 22:13 WAT)
     
-    - URL: https://x.com/1489737129546551296/status/1723086431625867461
+    - URL: https://x.com/hyperlane/status/1723086431625867461
     - Metrics (at fetch): not returned
     
     > Security panel with @0xkydo, @rushimanche, @junorouse, moderated by @jacobwillemsma. [pic.x.com/WI4VZgKTPB]
@@ -15249,9 +15249,9 @@ Tags (automatic): Path normalization
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1658686037177290753 — 2023-11-02 19:12 UTC (2023-11-02 20:12 WAT)
+    #### Quoted post — @TeamUnibot — 2023-11-02 19:12 UTC (2023-11-02 20:12 WAT)
     
-    - URL: https://x.com/1658686037177290753/status/1720156911147045219
+    - URL: https://x.com/TeamUnibot/status/1720156911147045219
     - Metrics (at fetch): not returned
     
     > Unibot Update 🦄🤖
@@ -15306,9 +15306,9 @@ Tags (automatic): Path normalization
 
 **Quoted post (full text):**
 
-    #### Quoted post — @867100084248469505 — 2023-11-04 18:19 UTC (2023-11-04 19:19 WAT)
+    #### Quoted post — @aave — 2023-11-04 18:19 UTC (2023-11-04 19:19 WAT)
     
-    - URL: https://x.com/867100084248469505/status/1720868368331219100
+    - URL: https://x.com/aave/status/1720868368331219100
     - Metrics (at fetch): not returned
     
     > Today we received a report of an issue on a certain feature of the Aave Protocol. After validation by community developers, the guardian has taken the following temporary prevention measure (no funds are at risk):
@@ -15331,9 +15331,9 @@ Tags (automatic): Path normalization
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3012852462 — 2023-11-05 00:29 UTC (2023-11-05 01:29 WAT)
+    #### Quoted post — @zachxbt — 2023-11-05 00:29 UTC (2023-11-05 01:29 WAT)
     
-    - URL: https://x.com/3012852462/status/1720961400313373127
+    - URL: https://x.com/zachxbt/status/1720961400313373127
     - Metrics (at fetch): not returned
     
     > Community Alert: There is currently a fake @Ledger Live app on the official @Microsoft App Store which was resulted in 16.8+ BTC ($588K) stolen
@@ -15362,9 +15362,9 @@ Tags (automatic): Path normalization
 
 **Quoted post (full text):**
 
-    #### Quoted post — @209811713 — 2023-11-01 09:03 UTC (2023-11-01 10:03 WAT)
+    #### Quoted post — @TheHackersNews — 2023-11-01 09:03 UTC (2023-11-01 10:03 WAT)
     
-    - URL: https://x.com/209811713/status/1719641244421280016
+    - URL: https://x.com/TheHackersNews/status/1719641244421280016
     - Metrics (at fetch): not returned
     
     > 🚨 ALERT:  State-sponsored North Korean hackers are using a sneaky #macOS malware called KANDYKORN to target crypto engineers via Discord.
@@ -15821,9 +15821,9 @@ Tags (automatic): Path normalization, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1433763300878307330 — 2023-10-25 00:07 UTC (2023-10-25 01:07 WAT)
+    #### Quoted post — @MaestroBots — 2023-10-25 00:07 UTC (2023-10-25 01:07 WAT)
     
-    - URL: https://x.com/1433763300878307330/status/1716969767804747820
+    - URL: https://x.com/MaestroBots/status/1716969767804747820
     - Metrics (at fetch): not returned
     
     > We regret to inform our users that the Maestro Router was compromised tonight. We have swiftly taken action and revoked all the router's functionalities.
@@ -15849,9 +15849,9 @@ Tags (automatic): Path normalization, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1692001718568091648 — 2023-10-28 12:00 UTC (2023-10-28 13:00 WAT)
+    #### Quoted post — @AstridFinance — 2023-10-28 12:00 UTC (2023-10-28 13:00 WAT)
     
-    - URL: https://x.com/1692001718568091648/status/1718236380009230406
+    - URL: https://x.com/AstridFinance/status/1718236380009230406
     - Metrics (at fetch): not returned
     
     > Unfortunately our smart contract was exploited due to a fix recommended by our auditor.
@@ -15881,9 +15881,9 @@ Tags (automatic): Path normalization, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3012852462 — 2023-10-23 20:59 UTC (2023-10-23 21:59 WAT)
+    #### Quoted post — @zachxbt — 2023-10-23 20:59 UTC (2023-10-23 21:59 WAT)
     
-    - URL: https://x.com/3012852462/status/1716559951907152255
+    - URL: https://x.com/zachxbt/status/1716559951907152255
     - Metrics (at fetch): not returned
     
     > It seems the influencer ProTheDoge is back at it promoting scams as an official partner of the project. 
@@ -15933,9 +15933,9 @@ Tags (automatic): Path normalization, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3012852462 — 2023-10-27 13:48 UTC (2023-10-27 14:48 WAT)
+    #### Quoted post — @zachxbt — 2023-10-27 13:48 UTC (2023-10-27 14:48 WAT)
     
-    - URL: https://x.com/3012852462/status/1717901088521687330
+    - URL: https://x.com/zachxbt/status/1717901088521687330
     - Metrics (at fetch): not returned
     
     > Just on October 25, 2023 alone another ~$4.4M was drained from 25+ victims as a result of the LastPass hack. 
@@ -16057,9 +16057,9 @@ Tags (automatic): Path normalization, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1433763300878307330 — 2023-10-25 11:39 UTC (2023-10-25 12:39 WAT)
+    #### Quoted post — @MaestroBots — 2023-10-25 11:39 UTC (2023-10-25 12:39 WAT)
     
-    - URL: https://x.com/1433763300878307330/status/1717143778668994648
+    - URL: https://x.com/MaestroBots/status/1717143778668994648
     - Metrics (at fetch): not returned
     
     > Telegram trading bot Maestro refunds users 610 ETH after router exploit:
@@ -16214,9 +16214,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1604186457165406210 — 2023-10-26 16:47 UTC (2023-10-26 17:47 WAT)
+    #### Quoted post — @curta_ctf — 2023-10-26 16:47 UTC (2023-10-26 17:47 WAT)
     
-    - URL: https://x.com/1604186457165406210/status/1717583616694198351
+    - URL: https://x.com/curta_ctf/status/1717583616694198351
     - Metrics (at fetch): not returned
     
     > Curta Cup 🏆
@@ -16311,9 +16311,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2023-10-16 21:40 UTC (2023-10-16 22:40 WAT)
+    #### Quoted post — @Cointelegraph — 2023-10-16 21:40 UTC (2023-10-16 22:40 WAT)
     
-    - URL: https://x.com/2207129125/status/1714033577308930372
+    - URL: https://x.com/Cointelegraph/status/1714033577308930372
     - Metrics (at fetch): not returned
     
     > Dear community, we hold ourselves to high journalistic standards and consider it important to address the mistakes we make with full transparency. Here is what happened today regarding the tweet about the BlackRock Bitcoin ETF: https://cointelegraph.com/news/clarification-sharing-false-spot-bitcoin-etf-news
@@ -16366,9 +16366,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1609545829886595075 — 2023-10-18 17:20 UTC (2023-10-18 18:20 WAT)
+    #### Quoted post — @Hope_money_ — 2023-10-18 17:20 UTC (2023-10-18 18:20 WAT)
     
-    - URL: https://x.com/1609545829886595075/status/1714692934719992075
+    - URL: https://x.com/Hope_money_/status/1714692934719992075
     - Metrics (at fetch): not returned
     
     > On October 18, 2023, at 11:48:59 AM +UTC, the HopeLend protocol fell victim to a hacker attack. It is important to note that the hacker did not profit from this attack.
@@ -16410,9 +16410,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2023-10-22 00:15 UTC (2023-10-22 01:15 WAT)
+    #### Quoted post — @Cointelegraph — 2023-10-22 00:15 UTC (2023-10-22 01:15 WAT)
     
-    - URL: https://x.com/2207129125/status/1715884453866737832
+    - URL: https://x.com/Cointelegraph/status/1715884453866737832
     - Metrics (at fetch): not returned
     
     > Bitcoin core developer Antoine Riard has stepped back from Lightning Network's development due to security challenges. 
@@ -16468,9 +16468,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @128484298 — 2023-10-16 10:48 UTC (2023-10-16 11:48 WAT)
+    #### Quoted post — @Dinosn — 2023-10-16 10:48 UTC (2023-10-16 11:48 WAT)
     
-    - URL: https://x.com/128484298/status/1713869636154822847
+    - URL: https://x.com/Dinosn/status/1713869636154822847
     - Metrics (at fetch): not returned
     
     > “EtherHiding” — Hiding Web2 Malicious Code in Web3 Smart Contracts https://www.reddit.com/r/netsec/comments/1791sxu/etherhiding_hiding_web2_malicious_code_in_web3/
@@ -16718,9 +16718,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1451655951782580227 — 2023-10-11 21:28 UTC (2023-10-11 22:28 WAT)
+    #### Quoted post — @tangibleDAO — 2023-10-11 21:28 UTC (2023-10-11 22:28 WAT)
     
-    - URL: https://x.com/1451655951782580227/status/1712218741398966774
+    - URL: https://x.com/tangibleDAO/status/1712218741398966774
     - Metrics (at fetch): not returned
     
     > An update on $USDR
@@ -16752,9 +16752,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1451655951782580227 — 2023-10-11 23:34 UTC (2023-10-12 00:34 WAT)
+    #### Quoted post — @tangibleDAO — 2023-10-11 23:34 UTC (2023-10-12 00:34 WAT)
     
-    - URL: https://x.com/1451655951782580227/status/1712250414618562725
+    - URL: https://x.com/tangibleDAO/status/1712250414618562725
     - Metrics (at fetch): not returned
     
     > As we’ve all seen, USDR has suffered a serious depeg.
@@ -16805,9 +16805,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1297925400090337280 — 2023-10-11 22:39 UTC (2023-10-11 23:39 WAT)
+    #### Quoted post — @RektHQ — 2023-10-11 22:39 UTC (2023-10-11 23:39 WAT)
     
-    - URL: https://x.com/1297925400090337280/status/1712236556847641002
+    - URL: https://x.com/RektHQ/status/1712236556847641002
     - Metrics (at fetch): not returned
     
     > As @SBF_FTX 's trial occupies the crypto hivemind's attention, it's business as usual on @BNBCHAIN.
@@ -16841,9 +16841,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @956912092644347904 — 2023-10-08 13:24 UTC (2023-10-08 14:24 WAT)
+    #### Quoted post — @3commas_io — 2023-10-08 13:24 UTC (2023-10-08 14:24 WAT)
     
-    - URL: https://x.com/956912092644347904/status/1711009607496130808
+    - URL: https://x.com/3commas_io/status/1711009607496130808
     - Metrics (at fetch): not returned
     
     > Notice of Incident.  We've identified a security incident that has come to our attention concerning the security of 3Commas accounts. 📚Learn more and stay secure: 
@@ -16873,9 +16873,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @950915985422221312 — 2023-10-13 21:21 UTC (2023-10-13 22:21 WAT)
+    #### Quoted post — @peckshield — 2023-10-13 21:21 UTC (2023-10-13 22:21 WAT)
     
-    - URL: https://x.com/950915985422221312/status/1712941596361331096
+    - URL: https://x.com/peckshield/status/1712941596361331096
     - Metrics (at fetch): not returned
     
     > #PeckShieldAlert The known @c0ffeebabe.eth MEV bot frontran an exploiting tx with 93.4 ETH ($146.9k) bribe and its own income of 75.79 ETH ($118K) was fully returned to @Wise_Token, which then rewarded the bot 1 ETH.
@@ -16946,9 +16946,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1522909236627390467 — 2023-10-14 04:45 UTC (2023-10-14 05:45 WAT)
+    #### Quoted post — @AdityaK0010 — 2023-10-14 04:45 UTC (2023-10-14 05:45 WAT)
     
-    - URL: https://x.com/1522909236627390467/status/1713053362743337275
+    - URL: https://x.com/AdityaK0010/status/1713053362743337275
     - Metrics (at fetch): not returned
     
     > Great write up by @ChainLight_io team on the Liquidation Fee Vulnerability , they found in Perpetual Protocol.
@@ -16984,9 +16984,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1573675534151655424 — 2023-10-13 14:30 UTC (2023-10-13 15:30 WAT)
+    #### Quoted post — @RareSkills_io — 2023-10-13 14:30 UTC (2023-10-13 15:30 WAT)
     
-    - URL: https://x.com/1573675534151655424/status/1712838269497737646
+    - URL: https://x.com/RareSkills_io/status/1712838269497737646
     - Metrics (at fetch): not returned
     
     > Top 5 winners for the first gas contest:
@@ -17216,9 +17216,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: 
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3012852462 — 2023-10-04 22:29 UTC (2023-10-04 23:29 WAT)
+    #### Quoted post — @zachxbt — 2023-10-04 22:29 UTC (2023-10-04 23:29 WAT)
     
-    - URL: https://x.com/3012852462/status/1709697295464141208
+    - URL: https://x.com/zachxbt/status/1709697295464141208
     - Metrics (at fetch): not returned
     
     > The same scammer profited $385K (234 ETH) in the past 24 hours off SIM swapping four different FriendTech users. [pic.x.com/03BoBEqGax]
@@ -17242,9 +17242,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: 
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2023-10-03 19:04 UTC (2023-10-03 20:04 WAT)
+    #### Quoted post — @Cointelegraph — 2023-10-03 19:04 UTC (2023-10-03 20:04 WAT)
     
-    - URL: https://x.com/2207129125/status/1709283321858191472
+    - URL: https://x.com/Cointelegraph/status/1709283321858191472
     - Metrics (at fetch): not returned
     
     > In Q3, Web3 projects endured a 153% year-over-year increase in exploits and fraud, according to Immunefi. https://cointelegraph.com/news/crypto-suffered-153-percent-yoy-increase-hacks-scams-q3-immunefi
@@ -17354,9 +17354,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: 
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2023-09-30 13:00 UTC (2023-09-30 14:00 WAT)
+    #### Quoted post — @Cointelegraph — 2023-09-30 13:00 UTC (2023-09-30 14:00 WAT)
     
-    - URL: https://x.com/2207129125/status/1708104565676032291
+    - URL: https://x.com/Cointelegraph/status/1708104565676032291
     - Metrics (at fetch): not returned
     
     > Paradigm calls out the SEC, claiming they're using allegations not just to accuse, but to change the law—bypassing the regular rulemaking.
@@ -17442,9 +17442,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: 
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2023-09-30 02:28 UTC (2023-09-30 03:28 WAT)
+    #### Quoted post — @Cointelegraph — 2023-09-30 02:28 UTC (2023-09-30 03:28 WAT)
     
-    - URL: https://x.com/2207129125/status/1707945383299895742
+    - URL: https://x.com/Cointelegraph/status/1707945383299895742
     - Metrics (at fetch): not returned
     
     > The US SEC presented a Slack conversation between Terraform Labs co-founders Do Kwon and Daniel Shin discussing the manipulation of transactions to lure in investors. "I can just create fake transactions that look real," a message stated. https://cointelegraph.com/news/terraform-labs-do-kwon-slack-chat-evidence
@@ -17510,9 +17510,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Memory cor
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1162883382700912640 — 2023-09-19 23:49 UTC (2023-09-20 00:49 WAT)
+    #### Quoted post — @balancer — 2023-09-19 23:49 UTC (2023-09-20 00:49 WAT)
     
-    - URL: https://x.com/1162883382700912640/status/1704281611326357567
+    - URL: https://x.com/balancer/status/1704281611326357567
     - Metrics (at fetch): not returned
     
     > The balancer frontend is under an attack. The issue is currently under investigation. Please do NOT interact with the balancer UI until further notice!
@@ -17532,9 +17532,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Memory cor
 
 **Quoted post (full text):**
 
-    #### Quoted post — @919250799984648192 — 2023-09-25 02:50 UTC (2023-09-25 03:50 WAT)
+    #### Quoted post — @MixinKernel — 2023-09-25 02:50 UTC (2023-09-25 03:50 WAT)
     
-    - URL: https://x.com/919250799984648192/status/1706139175018529139
+    - URL: https://x.com/MixinKernel/status/1706139175018529139
     - Metrics (at fetch): bookmark 66, impression 710720, like 343, quote 277, reply 148, retweet 117
     
     > [Announcement] In the early morning of September 23, 2023 Hong Kong time, the database of Mixin Network's cloud service provider was attacked by hackers, resulting in the loss of some assets on the mainnet. We have contacted Google and blockchain security company @SlowMist_Team to assist with the investigation. After initial verification, the funds involved are approximately US$200 million. Deposit and withdrawal services on Mixin Network have been temporarily suspended. After discussion and consensus among all nodes, these services will be reopened once the vulnerabilities are confirmed and fixed. During this period, transfers are not affected.
@@ -17556,9 +17556,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Memory cor
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1288422600700436481 — 2023-09-22 12:17 UTC (2023-09-22 13:17 WAT)
+    #### Quoted post — @LinearFinance — 2023-09-22 12:17 UTC (2023-09-22 13:17 WAT)
     
-    - URL: https://x.com/1288422600700436481/status/1705194580906238128
+    - URL: https://x.com/LinearFinance/status/1705194580906238128
     - Metrics (at fetch): not returned
     
     > 📢 Linear Finance Update 🚨
@@ -17590,9 +17590,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Memory cor
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1260559704335568896 — 2023-09-22 08:30 UTC (2023-09-22 09:30 WAT)
+    #### Quoted post — @nansen_ai — 2023-09-22 08:30 UTC (2023-09-22 09:30 WAT)
     
-    - URL: https://x.com/1260559704335568896/status/1705137387838574904
+    - URL: https://x.com/nansen_ai/status/1705137387838574904
     - Metrics (at fetch): not returned
     
     > 🚨 Important update from us at Nansen. Please take a moment to read this. [pic.x.com/syKE0sNnC6]
@@ -17694,9 +17694,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1333467482 — 2023-09-13 11:44 UTC (2023-09-13 12:44 WAT)
+    #### Quoted post — @CoinDesk — 2023-09-13 11:44 UTC (2023-09-13 12:44 WAT)
     
-    - URL: https://x.com/1333467482/status/1701924791731491134
+    - URL: https://x.com/CoinDesk/status/1701924791731491134
     - Metrics (at fetch): not returned
     
     > North Korean attackers are linked to a recent $54 million crypto exploit, according to data cited by @ZachXBT and verified by CoinDesk. By @shauryamalwa.
@@ -17746,9 +17746,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1669901087531302912 — 2023-09-11 19:51 UTC (2023-09-11 20:51 WAT)
+    #### Quoted post — @bananagun — 2023-09-11 19:51 UTC (2023-09-11 20:51 WAT)
     
-    - URL: https://x.com/1669901087531302912/status/1701322684313817459
+    - URL: https://x.com/bananagun/status/1701322684313817459
     - Metrics (at fetch): bookmark 77, impression 1173773, like 538, quote 378, reply 526, retweet 80
     
     > Announcement
@@ -17776,9 +17776,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @18481050 — 2023-09-13 16:34 UTC (2023-09-13 17:34 WAT)
+    #### Quoted post — @SECGov — 2023-09-13 16:34 UTC (2023-09-13 17:34 WAT)
     
-    - URL: https://x.com/18481050/status/1701997841508454617
+    - URL: https://x.com/SECGov/status/1701997841508454617
     - Metrics (at fetch): not returned
     
     > Today we charged Stoner Cats 2 LLC with conducting an unregistered offering of crypto asset securities in the form of purported non-fungible tokens (NFTs) that raised approximately $8 million from investors to finance an animated web series called Stoner Cats.
@@ -17798,9 +17798,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3278906401 — 2023-09-12 13:16 UTC (2023-09-12 14:16 WAT)
+    #### Quoted post — @MetaMask — 2023-09-12 13:16 UTC (2023-09-12 14:16 WAT)
     
-    - URL: https://x.com/3278906401/status/1701585470512095636
+    - URL: https://x.com/MetaMask/status/1701585470512095636
     - Metrics (at fetch): not returned
     
     > Today marks a major milestone for MetaMask: we're launching MetaMask Snaps Open Beta, the first step towards our journey to create a fully permissionless ecosystem with MetaMask. 🦊
@@ -17980,9 +17980,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2023-09-10 01:50 UTC (2023-09-10 02:50 WAT)
+    #### Quoted post — @Cointelegraph — 2023-09-10 01:50 UTC (2023-09-10 02:50 WAT)
     
-    - URL: https://x.com/2207129125/status/1700688062156767279
+    - URL: https://x.com/Cointelegraph/status/1700688062156767279
     - Metrics (at fetch): not returned
     
     > Ethereum co-founder Vitalik Buterin had his X (formerly Twitter) account compromised, which led to victims being lured into clicking on a malicious link promising a free NFT, ultimately resulting in their funds being stolen. https://cointelegraph.com/news/ethereum-vitalik-buterin-x-hackers-drain
@@ -18004,9 +18004,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @234044087 — 2023-09-07 22:25 UTC (2023-09-07 23:25 WAT)
+    #### Quoted post — @CFTC — 2023-09-07 22:25 UTC (2023-09-07 23:25 WAT)
     
-    - URL: https://x.com/234044087/status/1699911727792693687
+    - URL: https://x.com/CFTC/status/1699911727792693687
     - Metrics (at fetch): not returned
     
     > Today @CFTC issued orders against operators of three DeFi protocols for offering illegal digital asset derivatives trading. Learn more: https://www.cftc.gov/PressRoom/PressReleases/8774-23
@@ -18028,9 +18028,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1646685096 — 2023-09-06 14:10 UTC (2023-09-06 15:10 WAT)
+    #### Quoted post — @ameensol — 2023-09-06 14:10 UTC (2023-09-06 15:10 WAT)
     
-    - URL: https://x.com/1646685096/status/1699424914229321966
+    - URL: https://x.com/ameensol/status/1699424914229321966
     - Metrics (at fetch): not returned
     
     > 1/ New privacy paper with @VitalikButerin, Jacob Illum (@chainalysis), @mat_nadler, @fschaer!
@@ -18061,9 +18061,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1628067904083181570 — 2023-09-05 22:45 UTC (2023-09-05 23:45 WAT)
+    #### Quoted post — @base — 2023-09-05 22:45 UTC (2023-09-05 23:45 WAT)
     
-    - URL: https://x.com/1628067904083181570/status/1699192035553812658
+    - URL: https://x.com/base/status/1699192035553812658
     - Metrics (at fetch): not returned
     
     > Earlier today we had a delay in block production due in part to our internal infrastructure requiring a refresh. 
@@ -18142,9 +18142,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1622629804791955458 — 2023-09-04 16:34 UTC (2023-09-04 17:34 WAT)
+    #### Quoted post — @cantinasecurity — 2023-09-04 16:34 UTC (2023-09-04 17:34 WAT)
     
-    - URL: https://x.com/1622629804791955458/status/1698736235060011178
+    - URL: https://x.com/cantinasecurity/status/1698736235060011178
     - Metrics (at fetch): not returned
     
     > Are you ready security researchers?
@@ -18250,9 +18250,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1333467482 — 2023-09-02 20:51 UTC (2023-09-02 21:51 WAT)
+    #### Quoted post — @CoinDesk — 2023-09-02 20:51 UTC (2023-09-02 21:51 WAT)
     
-    - URL: https://x.com/1333467482/status/1698076078651150694
+    - URL: https://x.com/CoinDesk/status/1698076078651150694
     - Metrics (at fetch): not returned
     
     > .@SECGov took its first NFT-related enforcement action this week.
@@ -18300,9 +18300,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @385328034 — 2023-09-01 14:53 UTC (2023-09-01 15:53 WAT)
+    #### Quoted post — @RuneKek — 2023-09-01 14:53 UTC (2023-09-01 15:53 WAT)
     
-    - URL: https://x.com/385328034/status/1697623700013822244
+    - URL: https://x.com/RuneKek/status/1697623700013822244
     - Metrics (at fetch): not returned
     
     > The last phase of Endgame is the launch of a native blockchain for Maker with the codename NewChain
@@ -18352,9 +18352,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1649242358960263168 — 2023-08-31 11:27 UTC (2023-08-31 12:27 WAT)
+    #### Quoted post — @kroma_network — 2023-08-31 11:27 UTC (2023-08-31 12:27 WAT)
     
-    - URL: https://x.com/1649242358960263168/status/1697209411817840925
+    - URL: https://x.com/kroma_network/status/1697209411817840925
     - Metrics (at fetch): not returned
     
     > ⚒️Come join us for the ZK Builder's Meetup! Hosted by Kroma and @VivaLeverage. Featuring leading ZK projects! 🚀
@@ -18433,9 +18433,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1162883382700912640 — 2023-08-22 15:52 UTC (2023-08-22 16:52 WAT)
+    #### Quoted post — @balancer — 2023-08-22 15:52 UTC (2023-08-22 16:52 WAT)
     
-    - URL: https://x.com/1162883382700912640/status/1694014645378724280
+    - URL: https://x.com/balancer/status/1694014645378724280
     - Metrics (at fetch): bookmark 89, impression 1366797, like 1217, quote 489, reply 120, retweet 713
     
     > Balancer has received a critical vulnerability report affecting a number of V2 Pools.
@@ -18466,9 +18466,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1162883382700912640 — 2023-08-27 12:37 UTC (2023-08-27 13:37 WAT)
+    #### Quoted post — @balancer — 2023-08-27 12:37 UTC (2023-08-27 13:37 WAT)
     
-    - URL: https://x.com/1162883382700912640/status/1695777503699435751
+    - URL: https://x.com/balancer/status/1695777503699435751
     - Metrics (at fetch): not returned
     
     > Balancer is aware of an exploit related to the vulnerability below.
@@ -18483,9 +18483,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
     
     **Quoted post (full text):**
     
-        #### Quoted post — @1162883382700912640 — 2023-08-22 15:52 UTC (2023-08-22 16:52 WAT)
+        #### Quoted post — @balancer — 2023-08-22 15:52 UTC (2023-08-22 16:52 WAT)
         
-        - URL: https://x.com/1162883382700912640/status/1694014645378724280
+        - URL: https://x.com/balancer/status/1694014645378724280
         - Metrics (at fetch): bookmark 89, impression 1366797, like 1217, quote 489, reply 120, retweet 713
         
         > Balancer has received a critical vulnerability report affecting a number of V2 Pools.
@@ -18548,9 +18548,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1643286556730351616 — 2023-08-26 02:49 UTC (2023-08-26 03:49 WAT)
+    #### Quoted post — @pepecoineth — 2023-08-26 02:49 UTC (2023-08-26 03:49 WAT)
     
-    - URL: https://x.com/1643286556730351616/status/1695267128428114005
+    - URL: https://x.com/pepecoineth/status/1695267128428114005
     - Metrics (at fetch): not returned
     
     > an announcement to the $PEPE community: 
@@ -18601,9 +18601,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2023-08-23 19:04 UTC (2023-08-23 20:04 WAT)
+    #### Quoted post — @Cointelegraph — 2023-08-23 19:04 UTC (2023-08-23 20:04 WAT)
     
-    - URL: https://x.com/2207129125/status/1694425420903624792
+    - URL: https://x.com/Cointelegraph/status/1694425420903624792
     - Metrics (at fetch): not returned
     
     > Another Tornado Cash co-founder has been arrested. https://cointelegraph.com/news/tornado-cash-co-founders-charged-with-money-laundering-sanctions-violations-ofac
@@ -18625,9 +18625,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @902926941413453824 — 2023-08-27 07:39 UTC (2023-08-27 08:39 WAT)
+    #### Quoted post — @cz_binance — 2023-08-27 07:39 UTC (2023-08-27 08:39 WAT)
     
-    - URL: https://x.com/902926941413453824/status/1695702559057453226
+    - URL: https://x.com/cz_binance/status/1695702559057453226
     - Metrics (at fetch): not returned
     
     > New rounds of phishing attacks already underway for the poor users of FTX, BlockFi, Genesis, as a result of the Kroll data leak, which seems to be a result of a SIM swap on an employee.🤷‍♂️
@@ -18748,9 +18748,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2023-08-15 05:11 UTC (2023-08-15 06:11 WAT)
+    #### Quoted post — @Cointelegraph — 2023-08-15 05:11 UTC (2023-08-15 06:11 WAT)
     
-    - URL: https://x.com/2207129125/status/1691316548932456448
+    - URL: https://x.com/Cointelegraph/status/1691316548932456448
     - Metrics (at fetch): not returned
     
     > 471 ETH, worth $865,000 has been stolen from @BuildOnBase project @RocketSwapLabs due to a brute force hack on the protocol’s server, prompting an emergency plan to help retrieve the funds. https://cointelegraph.com/news/base-dex-rocketswap-announces-emergency-plan-after-exploit
@@ -18772,9 +18772,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @11478432 — 2023-08-18 17:17 UTC (2023-08-18 18:17 WAT)
+    #### Quoted post — @hkalodner — 2023-08-18 17:17 UTC (2023-08-18 18:17 WAT)
     
-    - URL: https://x.com/11478432/status/1692586523919532348
+    - URL: https://x.com/hkalodner/status/1692586523919532348
     - Metrics (at fetch): not returned
     
     > 1/ Was Arbitrum One down for an hour? No
@@ -18798,9 +18798,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2023-08-18 12:59 UTC (2023-08-18 13:59 WAT)
+    #### Quoted post — @Cointelegraph — 2023-08-18 12:59 UTC (2023-08-18 13:59 WAT)
     
-    - URL: https://x.com/2207129125/status/1692521616226558390
+    - URL: https://x.com/Cointelegraph/status/1692521616226558390
     - Metrics (at fetch): not returned
     
     > The sudden price slump in the top two cryptocurrencies late on Thursday led to the biggest liquidation event of 2023, with $1 billion worth of leveraged positions getting liquidated. https://cointelegraph.com/news/bitcoin-ether-price-slump-crypto-bloodbath-1-b-liquidations
@@ -18915,9 +18915,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1298453554500255745 — 2023-08-11 20:33 UTC (2023-08-11 21:33 WAT)
+    #### Quoted post — @cypher_protocol — 2023-08-11 20:33 UTC (2023-08-11 21:33 WAT)
     
-    - URL: https://x.com/1298453554500255745/status/1690099245217644544
+    - URL: https://x.com/cypher_protocol/status/1690099245217644544
     - Metrics (at fetch): not returned
     
     > released post-mortem to discord and tg last night
@@ -18945,9 +18945,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2023-08-09 15:50 UTC (2023-08-09 16:50 WAT)
+    #### Quoted post — @Cointelegraph — 2023-08-09 15:50 UTC (2023-08-09 16:50 WAT)
     
-    - URL: https://x.com/2207129125/status/1689303167148883968
+    - URL: https://x.com/Cointelegraph/status/1689303167148883968
     - Metrics (at fetch): not returned
     
     > According to PeckShield, Aave protocol's Earning Farm has been compromised by a reentrancy attack, resulting in the theft of at least $287,000 worth of ETH. https://cointelegraph.com/news/aave-earning-farm-protocol-targeted-by-reentrancy-attack-peckshield
@@ -18969,9 +18969,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @30018058 — 2023-08-07 14:08 UTC (2023-08-07 15:08 WAT)
+    #### Quoted post — @paypal — 2023-08-07 14:08 UTC (2023-08-07 15:08 WAT)
     
-    - URL: https://x.com/30018058/status/1688552795278872576
+    - URL: https://x.com/paypal/status/1688552795278872576
     - Metrics (at fetch): not returned
     
     > Today, we’re unveiling a new stablecoin, PayPal USD (PYUSD). It’s designed for payments and is backed by highly liquid and secure assets. Starting today and rolling out in the next few weeks, you’ll be able to buy, sell, hold and transfer PYUSD. Learn more http://paypal.com/pyusd [pic.x.com/53ur2KmjU7]
@@ -19123,9 +19123,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1119511010262405120 — 2023-08-08 11:19 UTC (2023-08-08 12:19 WAT)
+    #### Quoted post — @junorouse — 2023-08-08 11:19 UTC (2023-08-08 12:19 WAT)
     
-    - URL: https://x.com/1119511010262405120/status/1688872548149465088
+    - URL: https://x.com/junorouse/status/1688872548149465088
     - Metrics (at fetch): not returned
     
     > Last weekend, me and @jinmo123 took 4th place in the  mev-share CTF with @chainlight_io.
@@ -19266,9 +19266,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1029330822942347265 — 2023-08-03 16:25 UTC (2023-08-03 17:25 WAT)
+    #### Quoted post — @offchain — 2023-08-03 16:25 UTC (2023-08-03 17:25 WAT)
     
-    - URL: https://x.com/1029330822942347265/status/1687137574052143116
+    - URL: https://x.com/offchain/status/1687137574052143116
     - Metrics (at fetch): not returned
     
     > After months in dev, we’re announcing BOLD (Bounded Liquidity Delay), a new dispute protocol that enables permissionless validation for Arbitrum chains, potentially removing the need for permissioned validation, dramatically improving decentralization. 
@@ -19291,9 +19291,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @902926941413453824 — 2023-08-02 15:42 UTC (2023-08-02 16:42 WAT)
+    #### Quoted post — @cz_binance — 2023-08-02 15:42 UTC (2023-08-02 16:42 WAT)
     
-    - URL: https://x.com/902926941413453824/status/1686764372616515585
+    - URL: https://x.com/cz_binance/status/1686764372616515585
     - Metrics (at fetch): not returned
     
     > I want to share this (luckily) unsuccessful, but very clever and close scam incident from yesterday 👇.  Saved $20m. Hope it may also save you one day.
@@ -19409,9 +19409,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1488166395531739140 — 2023-07-25 16:01 UTC (2023-07-25 17:01 WAT)
+    #### Quoted post — @dlnews — 2023-07-25 16:01 UTC (2023-07-25 17:01 WAT)
     
-    - URL: https://x.com/1488166395531739140/status/1683870083272130562
+    - URL: https://x.com/dlnews/status/1683870083272130562
     - Metrics (at fetch): not returned
     
     > Blockchain security firm @BlockSecTeam told @dlnews that other DeFi protocols that rely on a particular @syncswap code could be vulnerable to the same attack that drained $3.4 million from @Era_Lend. 
@@ -19487,9 +19487,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1333467482 — 2023-07-27 11:11 UTC (2023-07-27 12:11 WAT)
+    #### Quoted post — @CoinDesk — 2023-07-27 11:11 UTC (2023-07-27 12:11 WAT)
     
-    - URL: https://x.com/1333467482/status/1684521850825588737
+    - URL: https://x.com/CoinDesk/status/1684521850825588737
     - Metrics (at fetch): not returned
     
     > .@SuiFoundation has terminated its relationship with decentralized exchange MovEx after a breach of their contract that caused additional sui (SUI) tokens to be circulated in the open market. By @shauryamalwa.
@@ -19539,9 +19539,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 
 **Quoted post (full text):**
 
-    #### Quoted post — @902926941413453824 — 2023-07-30 16:12 UTC (2023-07-30 17:12 WAT)
+    #### Quoted post — @cz_binance — 2023-07-30 16:12 UTC (2023-07-30 17:12 WAT)
     
-    - URL: https://x.com/902926941413453824/status/1685684907106881536
+    - URL: https://x.com/cz_binance/status/1685684907106881536
     - Metrics (at fetch): not returned
     
     > Happy Birthday #Ethereum! @VitalikButerin 
@@ -19625,9 +19625,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK, AI-ass
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2023-07-22 10:00 UTC (2023-07-22 11:00 WAT)
+    #### Quoted post — @Cointelegraph — 2023-07-22 10:00 UTC (2023-07-22 11:00 WAT)
     
-    - URL: https://x.com/2207129125/status/1682692123659849729
+    - URL: https://x.com/Cointelegraph/status/1682692123659849729
     - Metrics (at fetch): bookmark 1, impression 31867, like 60, quote 3, reply 40, retweet 20
     
     > How a man lost his life savings to crypto fraud on Instagram and Telegram: Vermont issues investor alert. https://t.co/L0vDJmkJLa
@@ -19670,9 +19670,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @984188226826010624 — 2023-07-17 15:00 UTC (2023-07-17 16:00 WAT)
+    #### Quoted post — @Uniswap — 2023-07-17 15:00 UTC (2023-07-17 16:00 WAT)
     
-    - URL: https://x.com/984188226826010624/status/1680955621343129600
+    - URL: https://x.com/Uniswap/status/1680955621343129600
     - Metrics (at fetch): bookmark 433, impression 1311204, like 3486, quote 465, reply 813, retweet 1219
     
     > 1/ New beta drop! 👀
@@ -19704,9 +19704,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1530530365 — 2023-07-17 16:00 UTC (2023-07-17 17:00 WAT)
+    #### Quoted post — @chainlink — 2023-07-17 16:00 UTC (2023-07-17 17:00 WAT)
     
-    - URL: https://x.com/1530530365/status/1680970793331613697
+    - URL: https://x.com/chainlink/status/1680970793331613697
     - Metrics (at fetch): bookmark 219, impression 1782911, like 4363, quote 482, reply 224, retweet 1453
     
     > 1/ The Chainlink Cross-Chain Interoperability Protocol (CCIP) has officially launched on Avalanche, Ethereum, Optimism, and Polygon mainnets.
@@ -19737,9 +19737,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1508757666272890882 — 2023-07-22 18:57 UTC (2023-07-22 19:57 WAT)
+    #### Quoted post — @ConicFinance — 2023-07-22 18:57 UTC (2023-07-22 19:57 WAT)
     
-    - URL: https://x.com/1508757666272890882/status/1682827169838387206
+    - URL: https://x.com/ConicFinance/status/1682827169838387206
     - Metrics (at fetch): bookmark 21, impression 52544, like 140, quote 12, reply 16, retweet 28
     
     > Post Mortem :  ETH and crvUSD Omnipool Exploits
@@ -19759,9 +19759,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3012852462 — 2023-07-23 02:30 UTC (2023-07-23 03:30 WAT)
+    #### Quoted post — @zachxbt — 2023-07-23 02:30 UTC (2023-07-23 03:30 WAT)
     
-    - URL: https://x.com/3012852462/status/1682941291825627137
+    - URL: https://x.com/zachxbt/status/1682941291825627137
     - Metrics (at fetch): bookmark 49, impression 421449, like 883, quote 75, reply 65, retweet 150
     
     > Earlier today Alphapo hot wallets were drained for $23M+ on ETH, TRON, BTC.
@@ -19821,9 +19821,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1604186457165406210 — 2023-07-21 18:42 UTC (2023-07-21 19:42 WAT)
+    #### Quoted post — @curta_ctf — 2023-07-21 18:42 UTC (2023-07-21 19:42 WAT)
     
-    - URL: https://x.com/1604186457165406210/status/1682460992989478913
+    - URL: https://x.com/curta_ctf/status/1682460992989478913
     - Metrics (at fetch): bookmark 0, impression 3996, like 18, quote 2, reply 0, retweet 1
     
     > FIRSTBLOOD!
@@ -19878,9 +19878,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2023-07-12 20:03 UTC (2023-07-12 21:03 WAT)
+    #### Quoted post — @Cointelegraph — 2023-07-12 20:03 UTC (2023-07-12 21:03 WAT)
     
-    - URL: https://x.com/2207129125/status/1679219856275800065
+    - URL: https://x.com/Cointelegraph/status/1679219856275800065
     - Metrics (at fetch): bookmark 3, impression 40930, like 95, quote 15, reply 17, retweet 37
     
     > Google Play Store officially welcomes NFT games but says developers must follow rules against gambling and glamorization of earnings. https://t.co/O5GlipnGQN
@@ -19939,9 +19939,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1051053836 — 2023-07-13 19:44 UTC (2023-07-13 20:44 WAT)
+    #### Quoted post — @Ripple — 2023-07-13 19:44 UTC (2023-07-13 20:44 WAT)
     
-    - URL: https://x.com/1051053836/status/1679577577210675200
+    - URL: https://x.com/Ripple/status/1679577577210675200
     - Metrics (at fetch): bookmark 335, impression 3406618, like 32759, quote 1385, reply 11417, retweet 12198
     
     > XRP is not a security.
@@ -19966,9 +19966,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @989912836901089282 — 2023-07-10 21:20 UTC (2023-07-10 22:20 WAT)
+    #### Quoted post — @blockworks — 2023-07-10 21:20 UTC (2023-07-10 22:20 WAT)
     
-    - URL: https://x.com/989912836901089282/status/1678514661296144385
+    - URL: https://x.com/blockworks/status/1678514661296144385
     - Metrics (at fetch): bookmark 6, impression 19262, like 81, quote 4, reply 9, retweet 14
     
     > NEWS: Arkham and Intelligence may not actually belong in the same sentence
@@ -20105,9 +20105,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1488166395531739140 — 2023-07-09 11:43 UTC (2023-07-09 12:43 WAT)
+    #### Quoted post — @dlnews — 2023-07-09 11:43 UTC (2023-07-09 12:43 WAT)
     
-    - URL: https://x.com/1488166395531739140/status/1678006901412356097
+    - URL: https://x.com/dlnews/status/1678006901412356097
     - Metrics (at fetch): bookmark 1, impression 9681, like 19, quote 2, reply 2, retweet 6
     
     > All the money North Korean hackers cash out goes to fund their missile programme, said Erin Plante, vice-president of investigations at Chainalysis.
@@ -20202,9 +20202,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2023-07-10 08:06 UTC (2023-07-10 09:06 WAT)
+    #### Quoted post — @Cointelegraph — 2023-07-10 08:06 UTC (2023-07-10 09:06 WAT)
     
-    - URL: https://x.com/2207129125/status/1678314755768090630
+    - URL: https://x.com/Cointelegraph/status/1678314755768090630
     - Metrics (at fetch): bookmark 1, impression 28831, like 48, quote 3, reply 86, retweet 14
     
     > 🚨Hack Alert: Arcadia Finance code vulnerability allows hacker to drain ~$455k https://t.co/zjVWcH2ij8
@@ -20222,9 +20222,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1333467482 — 2023-07-09 16:35 UTC (2023-07-09 17:35 WAT)
+    #### Quoted post — @CoinDesk — 2023-07-09 16:35 UTC (2023-07-09 17:35 WAT)
     
-    - URL: https://x.com/1333467482/status/1678080466803408898
+    - URL: https://x.com/CoinDesk/status/1678080466803408898
     - Metrics (at fetch): bookmark 3, impression 104830, like 562, quote 11, reply 45, retweet 141
     
     > .@BlackRock refiled its spot #bitcoin ETF application with @Nasdaq this week, this time naming @coinbase as its surveillance-sharing partner.
@@ -20295,9 +20295,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1481340056426143744 — 2023-07-05 16:50 UTC (2023-07-05 17:50 WAT)
+    #### Quoted post — @blur_io — 2023-07-05 16:50 UTC (2023-07-05 17:50 WAT)
     
-    - URL: https://x.com/1481340056426143744/status/1676634676516229120
+    - URL: https://x.com/blur_io/status/1676634676516229120
     - Metrics (at fetch): not returned
     
     > 3/ GAS OPTIMIZATIONS
@@ -20375,9 +20375,9 @@ Tags (automatic): Race condition, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1265598699796697088 — 2023-07-02 19:44 UTC (2023-07-02 20:44 WAT)
+    #### Quoted post — @PolyNetwork2 — 2023-07-02 19:44 UTC (2023-07-02 20:44 WAT)
     
-    - URL: https://x.com/1265598699796697088/status/1675591279005106178
+    - URL: https://x.com/PolyNetwork2/status/1675591279005106178
     - Metrics (at fetch): not returned
     
     > Dear users,
@@ -20398,9 +20398,9 @@ Tags (automatic): Race condition, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @108172903 — 2023-06-29 13:04 UTC (2023-06-29 14:04 WAT)
+    #### Quoted post — @banteg — 2023-06-29 13:04 UTC (2023-06-29 14:04 WAT)
     
-    - URL: https://x.com/108172903/status/1674403392993542145
+    - URL: https://x.com/banteg/status/1674403392993542145
     - Metrics (at fetch): not returned
     
     > are you for real? [pic.x.com/9jeTavC5Gm]
@@ -20421,9 +20421,9 @@ Tags (automatic): Race condition, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1333467482 — 2023-06-30 22:01 UTC (2023-06-30 23:01 WAT)
+    #### Quoted post — @CoinDesk — 2023-06-30 22:01 UTC (2023-06-30 23:01 WAT)
     
-    - URL: https://x.com/1333467482/status/1674901046156570624
+    - URL: https://x.com/CoinDesk/status/1674901046156570624
     - Metrics (at fetch): not returned
     
     > This week, @Azuki pledged to revamp its NFT ecosystem after its Elementals NFT drop, @CandyDigital merged with @palmnft and @warnermusic is launching a music accelerator with 0xpolygon. 
@@ -20502,9 +20502,9 @@ Tags (automatic): Race condition, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @804029200315334656 — 2023-06-20 16:01 UTC (2023-06-20 17:01 WAT)
+    #### Quoted post — @gakonst — 2023-06-20 16:01 UTC (2023-06-20 17:01 WAT)
     
-    - URL: https://x.com/804029200315334656/status/1671186635814473728
+    - URL: https://x.com/gakonst/status/1671186635814473728
     - Metrics (at fetch): not returned
     
     > We are excited to release Reth v0.1.0-alpha! 🎉🎉🎉
@@ -20577,9 +20577,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @950915985422221312 — 2023-04-15 18:33 UTC (2023-04-15 19:33 WAT)
+    #### Quoted post — @peckshield — 2023-04-15 18:33 UTC (2023-04-15 19:33 WAT)
     
-    - URL: https://x.com/950915985422221312/status/1647307128267476992
+    - URL: https://x.com/peckshield/status/1647307128267476992
     - Metrics (at fetch): not returned
     
     > The loss of today's @HundredFinance hack is ~$7m.
@@ -20595,9 +20595,9 @@ Tags (automatic): Platform: Immunefi
     
     **Quoted post (full text):**
     
-        #### Quoted post — @1390271842125066242 — 2023-04-15 14:37 UTC (2023-04-15 15:37 WAT)
+        #### Quoted post — @HundredFinance — 2023-04-15 14:37 UTC (2023-04-15 15:37 WAT)
         
-        - URL: https://x.com/1390271842125066242/status/1647247792589471745
+        - URL: https://x.com/HundredFinance/status/1647247792589471745
         - Metrics (at fetch): bookmark 5, impression 199358, like 33, quote 35, reply 11, retweet 15
         
         > It looks that Hundred got hacked on #Optimism. We will update when there is more information to it.
@@ -20642,9 +20642,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1333467482 — 2023-06-23 15:33 UTC (2023-06-23 16:33 WAT)
+    #### Quoted post — @CoinDesk — 2023-06-23 15:33 UTC (2023-06-23 16:33 WAT)
     
-    - URL: https://x.com/1333467482/status/1672266629160247296
+    - URL: https://x.com/CoinDesk/status/1672266629160247296
     - Metrics (at fetch): not returned
     
     > A leveraged bitcoin futures exchange-traded fund is set to begin trading next week, an executive with sponsor Volatility Shares tells @amitoj. 
@@ -20666,9 +20666,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1029330822942347265 — 2023-06-21 17:15 UTC (2023-06-21 18:15 WAT)
+    #### Quoted post — @offchain — 2023-06-21 17:15 UTC (2023-06-21 18:15 WAT)
     
-    - URL: https://x.com/1029330822942347265/status/1671567601292705792
+    - URL: https://x.com/offchain/status/1671567601292705792
     - Metrics (at fetch): not returned
     
     > Today, we're releasing tooling that will make building your own Arbitrum Orbit chain easier than ever.
@@ -20692,9 +20692,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
 
 **Quoted post (full text):**
 
-    #### Quoted post — @331497846 — 2023-06-22 05:55 UTC (2023-06-22 06:55 WAT)
+    #### Quoted post — @HatforceSec — 2023-06-22 05:55 UTC (2023-06-22 06:55 WAT)
     
-    - URL: https://x.com/331497846/status/1671758690808913922
+    - URL: https://x.com/HatforceSec/status/1671758690808913922
     - Metrics (at fetch): not returned
     
     > 1/ 🧵 Do you still need a manual smart contract audit? #GPT #LLM [pic.x.com/YGZfUDnXA0]
@@ -20766,9 +20766,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1278266969532203008 — 2023-06-24 05:14 UTC (2023-06-24 06:14 WAT)
+    #### Quoted post — @Phalcon_xyz — 2023-06-24 05:14 UTC (2023-06-24 06:14 WAT)
     
-    - URL: https://x.com/1278266969532203008/status/1672473343734480896
+    - URL: https://x.com/Phalcon_xyz/status/1672473343734480896
     - Metrics (at fetch): not returned
     
     > 1/ @shidonetwork on BSC was exploited through a flash loan, taking advantage of the lock and claim mechanism, as well as the price difference between the two pools. Consequently, the attacker managed to steal 977 WBNB from the pool. [pic.x.com/jmlR8zfWPH]
@@ -20851,9 +20851,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1392644856753709057 — 2023-06-20 12:59 UTC (2023-06-20 13:59 WAT)
+    #### Quoted post — @TerraSwap_io — 2023-06-20 12:59 UTC (2023-06-20 13:59 WAT)
     
-    - URL: https://x.com/1392644856753709057/status/1671140806223343617
+    - URL: https://x.com/TerraSwap_io/status/1671140806223343617
     - Metrics (at fetch): not returned
     
     > 2/
@@ -20902,9 +20902,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3012852462 — 2023-06-16 19:07 UTC (2023-06-16 20:07 WAT)
+    #### Quoted post — @zachxbt — 2023-06-16 19:07 UTC (2023-06-16 20:07 WAT)
     
-    - URL: https://x.com/3012852462/status/1669783717236342785
+    - URL: https://x.com/zachxbt/status/1669783717236342785
     - Metrics (at fetch): not returned
     
     > 1/ It’s unfortunate I have to make this thread but I am being sued by MachiBigBrother for an article I published in June 2022.
@@ -20951,9 +20951,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2412652615 — 2023-06-19 14:38 UTC (2023-06-19 15:38 WAT)
+    #### Quoted post — @coingecko — 2023-06-19 14:38 UTC (2023-06-19 15:38 WAT)
     
-    - URL: https://x.com/2412652615/status/1670803164855934980
+    - URL: https://x.com/coingecko/status/1670803164855934980
     - Metrics (at fetch): not returned
     
     > JUST IN: Do Kwon has been sentenced to 4 months in prison in Montenegro on charges of using a false passport.
@@ -20978,9 +20978,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1333467482 — 2023-06-17 05:14 UTC (2023-06-17 06:14 WAT)
+    #### Quoted post — @CoinDesk — 2023-06-17 05:14 UTC (2023-06-17 06:14 WAT)
     
-    - URL: https://x.com/1333467482/status/1669936457547481096
+    - URL: https://x.com/CoinDesk/status/1669936457547481096
     - Metrics (at fetch): not returned
     
     > The @SECGov, @binance and @binanceUS have announced a proposed agreement to ensure that U.S. customer funds can only be accessed by the U.S.-based crypto trading platform. The agreement needs judicial sign-off.
@@ -21028,9 +21028,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
 
 **Quoted post (full text):**
 
-    #### Quoted post — @950915985422221312 — 2023-06-17 19:18 UTC (2023-06-17 20:18 WAT)
+    #### Quoted post — @peckshield — 2023-06-17 19:18 UTC (2023-06-17 20:18 WAT)
     
-    - URL: https://x.com/950915985422221312/status/1670148905810403330
+    - URL: https://x.com/peckshield/status/1670148905810403330
     - Metrics (at fetch): not returned
     
     > The loss of today's @MidasCapitalxyz hack is &gt;$600K.
@@ -21044,9 +21044,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
     
     **Quoted post (full text):**
     
-        #### Quoted post — @950915985422221312 — 2023-04-15 18:33 UTC (2023-04-15 19:33 WAT)
+        #### Quoted post — @peckshield — 2023-04-15 18:33 UTC (2023-04-15 19:33 WAT)
         
-        - URL: https://x.com/950915985422221312/status/1647307128267476992
+        - URL: https://x.com/peckshield/status/1647307128267476992
         - Metrics (at fetch): not returned
         
         > The loss of today's @HundredFinance hack is ~$7m.
@@ -21062,9 +21062,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, AI-assiste
         
         **Quoted post (full text):**
         
-            #### Quoted post — @1390271842125066242 — 2023-04-15 14:37 UTC (2023-04-15 15:37 WAT)
+            #### Quoted post — @HundredFinance — 2023-04-15 14:37 UTC (2023-04-15 15:37 WAT)
             
-            - URL: https://x.com/1390271842125066242/status/1647247792589471745
+            - URL: https://x.com/HundredFinance/status/1647247792589471745
             - Metrics (at fetch): bookmark 5, impression 199358, like 33, quote 35, reply 11, retweet 15
             
             > It looks that Hundred got hacked on #Optimism. We will update when there is more information to it.
@@ -21114,9 +21114,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3158128251 — 2023-06-14 15:17 UTC (2023-06-14 16:17 WAT)
+    #### Quoted post — @0xWiz_ — 2023-06-14 15:17 UTC (2023-06-14 16:17 WAT)
     
-    - URL: https://x.com/3158128251/status/1669001067487428611
+    - URL: https://x.com/0xWiz_/status/1669001067487428611
     - Metrics (at fetch): not returned
     
     > zk infra like @RelicProtocol unlock an entirely new design space for what’s possible onchain https://twitter.com/TM0B1L/status/1668999301895278592
@@ -21192,9 +21192,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1115465940831891457 — 2023-06-09 02:33 UTC (2023-06-09 03:33 WAT)
+    #### Quoted post — @binanceUS — 2023-06-09 02:33 UTC (2023-06-09 03:33 WAT)
     
-    - URL: https://x.com/1115465940831891457/status/1666996908651323393
+    - URL: https://x.com/binanceUS/status/1666996908651323393
     - Metrics (at fetch): not returned
     
     > The SEC has taken to using extremely aggressive and intimidating tactics in its pursuit of an ideological campaign against the American digital asset industry. http://Binance.US and our business partners have not been spared in the use of these tactics, which has created [pic.x.com/rlIe6swIoY]
@@ -21243,9 +21243,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1265037073 — 2023-06-09 18:26 UTC (2023-06-09 19:26 WAT)
+    #### Quoted post — @RobinhoodApp — 2023-06-09 18:26 UTC (2023-06-09 19:26 WAT)
     
-    - URL: https://x.com/1265037073/status/1667236704506327040
+    - URL: https://x.com/RobinhoodApp/status/1667236704506327040
     - Metrics (at fetch): not returned
     
     > Earlier this week, the SEC sued crypto companies Binance and Coinbase. The SEC has alleged that a number of cryptocurrencies trading on those platforms are unregistered securities, including three that are currently supported on Robinhood Crypto. (1/4)
@@ -21277,9 +21277,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1318636587203350530 — 2023-06-10 04:23 UTC (2023-06-10 05:23 WAT)
+    #### Quoted post — @tusdio — 2023-06-10 04:23 UTC (2023-06-10 05:23 WAT)
     
-    - URL: https://x.com/1318636587203350530/status/1667386940948369408
+    - URL: https://x.com/tusdio/status/1667386940948369408
     - Metrics (at fetch): not returned
     
     > Announcement:
@@ -21393,9 +21393,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @219517617 — 2023-06-08 08:04 UTC (2023-06-08 09:04 WAT)
+    #### Quoted post — @1nf0s3cpt — 2023-06-08 08:04 UTC (2023-06-08 09:04 WAT)
     
-    - URL: https://x.com/219517617/status/1666717723043430404
+    - URL: https://x.com/1nf0s3cpt/status/1666717723043430404
     - Metrics (at fetch): not returned
     
     > 🔥We are thrilled to announce that DeFiHackLabs partners with @chainlight_io  
@@ -21427,9 +21427,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @219517617 — 2023-06-08 08:04 UTC (2023-06-08 09:04 WAT)
+    #### Quoted post — @1nf0s3cpt — 2023-06-08 08:04 UTC (2023-06-08 09:04 WAT)
     
-    - URL: https://x.com/219517617/status/1666717723043430404
+    - URL: https://x.com/1nf0s3cpt/status/1666717723043430404
     - Metrics (at fetch): not returned
     
     > 🔥We are thrilled to announce that DeFiHackLabs partners with @chainlight_io  
@@ -21464,9 +21464,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @219517617 — 2023-06-08 08:04 UTC (2023-06-08 09:04 WAT)
+    #### Quoted post — @1nf0s3cpt — 2023-06-08 08:04 UTC (2023-06-08 09:04 WAT)
     
-    - URL: https://x.com/219517617/status/1666717723043430404
+    - URL: https://x.com/1nf0s3cpt/status/1666717723043430404
     - Metrics (at fetch): not returned
     
     > 🔥We are thrilled to announce that DeFiHackLabs partners with @chainlight_io  
@@ -21619,9 +21619,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3012852462 — 2023-06-03 19:39 UTC (2023-06-03 20:39 WAT)
+    #### Quoted post — @zachxbt — 2023-06-03 19:39 UTC (2023-06-03 20:39 WAT)
     
-    - URL: https://x.com/3012852462/status/1665080799253733377
+    - URL: https://x.com/zachxbt/status/1665080799253733377
     - Metrics (at fetch): not returned
     
     > Some things to note about this hack.
@@ -21652,9 +21652,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @219517617 — 2023-05-31 01:41 UTC (2023-05-31 02:41 WAT)
+    #### Quoted post — @1nf0s3cpt — 2023-05-31 01:41 UTC (2023-05-31 02:41 WAT)
     
-    - URL: https://x.com/219517617/status/1663722228641570817
+    - URL: https://x.com/1nf0s3cpt/status/1663722228641570817
     - Metrics (at fetch): not returned
     
     > 🚨Fake exploit alert again!
@@ -21877,9 +21877,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @877807935493033984 — 2023-05-26 15:00 UTC (2023-05-26 16:00 WAT)
+    #### Quoted post — @Binance — 2023-05-26 15:00 UTC (2023-05-26 16:00 WAT)
     
-    - URL: https://x.com/877807935493033984/status/1662111353686077441
+    - URL: https://x.com/Binance/status/1662111353686077441
     - Metrics (at fetch): not returned
     
     > Access instant liquidity from your NFTs with #Binance NFT Loan!  
@@ -21993,9 +21993,9 @@ Tags (automatic): Mobile / Android / iOS, Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3129477561 — 2023-05-21 18:35 UTC (2023-05-21 19:35 WAT)
+    #### Quoted post — @ConsenSys — 2023-05-21 18:35 UTC (2023-05-21 19:35 WAT)
     
-    - URL: https://x.com/3129477561/status/1660353691956772864
+    - URL: https://x.com/ConsenSys/status/1660353691956772864
     - Metrics (at fetch): bookmark 2, impression 14109, like 60, quote 5, reply 4, retweet 6
     
     > The tax section in our terms of service falls under the "fees and payment" section, and it exclusively pertains to products and paid plans offered by ConsenSys. For example, Infura has credit card developer subscriptions which include sales tax.
@@ -22040,9 +22040,9 @@ Tags (automatic): Mobile / Android / iOS, Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1496567813737091075 — 2023-05-21 08:16 UTC (2023-05-21 09:16 WAT)
+    #### Quoted post — @optimizoor — 2023-05-21 08:16 UTC (2023-05-21 09:16 WAT)
     
-    - URL: https://x.com/1496567813737091075/status/1660197911731507200
+    - URL: https://x.com/optimizoor/status/1660197911731507200
     - Metrics (at fetch): bookmark 17, impression 87273, like 263, quote 8, reply 50, retweet 31
     
     > I need to raise funds for Solady audit. 
@@ -22068,9 +22068,9 @@ Tags (automatic): Mobile / Android / iOS, Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2652239532 — 2023-05-16 13:05 UTC (2023-05-16 14:05 WAT)
+    #### Quoted post — @Ledger — 2023-05-16 13:05 UTC (2023-05-16 14:05 WAT)
     
-    - URL: https://x.com/2652239532/status/1658458714771169282
+    - URL: https://x.com/Ledger/status/1658458714771169282
     - Metrics (at fetch): not returned
     
     > Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
@@ -22097,9 +22097,9 @@ Tags (automatic): Mobile / Android / iOS, Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1488166395531739140 — 2023-05-20 08:34 UTC (2023-05-20 09:34 WAT)
+    #### Quoted post — @dlnews — 2023-05-20 08:34 UTC (2023-05-20 09:34 WAT)
     
-    - URL: https://x.com/1488166395531739140/status/1659840015592050689
+    - URL: https://x.com/dlnews/status/1659840015592050689
     - Metrics (at fetch): not returned
     
     > Crypto loves anonymity. But at MakerDAO, it might become a requirement.
@@ -22187,9 +22187,9 @@ Tags (automatic): Mobile / Android / iOS, Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1488918141950431245 — 2023-05-18 12:05 UTC (2023-05-18 13:05 WAT)
+    #### Quoted post — @matchbox_dao — 2023-05-18 12:05 UTC (2023-05-18 13:05 WAT)
     
-    - URL: https://x.com/1488918141950431245/status/1659168260951265282
+    - URL: https://x.com/matchbox_dao/status/1659168260951265282
     - Metrics (at fetch): bookmark 1, impression 117246, like 360, quote 30, reply 28, retweet 250
     
     > 𝔸𝕥𝕥𝕖𝕟𝕥𝕚𝕠𝕟 ℙ𝕚𝕝𝕠𝕥𝕤 🏁🏎️
@@ -22377,9 +22377,9 @@ Tags (automatic): Smart contract / DeFi, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @70203939 — 2023-05-11 13:31 UTC (2023-05-11 14:31 WAT)
+    #### Quoted post — @worldnetwork — 2023-05-11 13:31 UTC (2023-05-11 14:31 WAT)
     
-    - URL: https://x.com/70203939/status/1656653377152114689
+    - URL: https://x.com/worldnetwork/status/1656653377152114689
     - Metrics (at fetch): bookmark 129, impression 733099, like 1951, quote 131, reply 219, retweet 621
     
     > World ID &amp; World App are coming to the @OptimismFND Mainnet 🪩 🔴
@@ -22472,9 +22472,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1573675534151655424 — 2023-05-11 05:34 UTC (2023-05-11 06:34 WAT)
+    #### Quoted post — @RareSkills_io — 2023-05-11 05:34 UTC (2023-05-11 06:34 WAT)
     
-    - URL: https://x.com/1573675534151655424/status/1656533089198440448
+    - URL: https://x.com/RareSkills_io/status/1656533089198440448
     - Metrics (at fetch): not returned
     
     > We have reviewed 22 submissions. Here are the final scores
@@ -22584,9 +22584,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1573675534151655424 — 2023-05-11 05:34 UTC (2023-05-11 06:34 WAT)
+    #### Quoted post — @RareSkills_io — 2023-05-11 05:34 UTC (2023-05-11 06:34 WAT)
     
-    - URL: https://x.com/1573675534151655424/status/1656533089198440448
+    - URL: https://x.com/RareSkills_io/status/1656533089198440448
     - Metrics (at fetch): not returned
     
     > We have reviewed 22 submissions. Here are the final scores
@@ -22646,9 +22646,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1135437024578625537 — 2023-05-01 02:33 UTC (2023-05-01 03:33 WAT)
+    #### Quoted post — @Orbit_Chain — 2023-05-01 02:33 UTC (2023-05-01 03:33 WAT)
     
-    - URL: https://x.com/1135437024578625537/status/1652863848670728192
+    - URL: https://x.com/Orbit_Chain/status/1652863848670728192
     - Metrics (at fetch): not returned
     
     > 📢​Orbit Chain One-Pager! (May 2023)
@@ -22703,9 +22703,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @574032254 — 2023-05-02 13:06 UTC (2023-05-02 14:06 WAT)
+    #### Quoted post — @coinbase — 2023-05-02 13:06 UTC (2023-05-02 14:06 WAT)
     
-    - URL: https://x.com/574032254/status/1653385513011740672
+    - URL: https://x.com/coinbase/status/1653385513011740672
     - Metrics (at fetch): not returned
     
     > Today Coinbase launched Coinbase International Exchange @CoinbaseIntExch and will begin by offering BTC &amp; ETH perpetual futures settled in USDC with up to 5x leverage to institutional clients in eligible jurisdictions outside of the U.S.
@@ -22727,9 +22727,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @877807935493033984 — 2023-05-05 11:28 UTC (2023-05-05 12:28 WAT)
+    #### Quoted post — @Binance — 2023-05-05 11:28 UTC (2023-05-05 12:28 WAT)
     
-    - URL: https://x.com/877807935493033984/status/1654448067255361537
+    - URL: https://x.com/Binance/status/1654448067255361537
     - Metrics (at fetch): not returned
     
     > #Binance will list @pepecoineth $PEPE and @RealFlokiInu $FLOKI in the innovation zone.
@@ -22770,9 +22770,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1544385947156058112 — 2023-05-06 12:18 UTC (2023-05-06 13:18 WAT)
+    #### Quoted post — @hexagate_ — 2023-05-06 12:18 UTC (2023-05-06 13:18 WAT)
     
-    - URL: https://x.com/1544385947156058112/status/1654822859288506368
+    - URL: https://x.com/hexagate_/status/1654822859288506368
     - Metrics (at fetch): not returned
     
     > Today @melotoken got exploited for $90k by utilizing a public mint bug on the MELO token -
@@ -22802,9 +22802,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @877807935493033984 — 2023-05-08 03:49 UTC (2023-05-08 04:49 WAT)
+    #### Quoted post — @Binance — 2023-05-08 03:49 UTC (2023-05-08 04:49 WAT)
     
-    - URL: https://x.com/877807935493033984/status/1655419624962527233
+    - URL: https://x.com/Binance/status/1655419624962527233
     - Metrics (at fetch): not returned
     
     > To prevent a similar recurrence in the future, our fees have been adjusted. We will continue to monitor on-chain activity and adjust accordingly if needed.
@@ -22949,9 +22949,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1481340056426143744 — 2023-05-01 18:19 UTC (2023-05-01 19:19 WAT)
+    #### Quoted post — @blur_io — 2023-05-01 18:19 UTC (2023-05-01 19:19 WAT)
     
-    - URL: https://x.com/1481340056426143744/status/1653101805914722305
+    - URL: https://x.com/blur_io/status/1653101805914722305
     - Metrics (at fetch): bookmark 2, impression 40494, like 83, quote 2, reply 3, retweet 2
     
     > 9/ The smart contracts for Blend have been audited by Code4rena and Chain Light. Audits will be available on the Blur Foundation website shortly.
@@ -23022,9 +23022,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1604186457165406210 — 2023-04-27 17:29 UTC (2023-04-27 18:29 WAT)
+    #### Quoted post — @curta_ctf — 2023-04-27 17:29 UTC (2023-04-27 18:29 WAT)
     
-    - URL: https://x.com/1604186457165406210/status/1651639658701365258
+    - URL: https://x.com/curta_ctf/status/1651639658701365258
     - Metrics (at fetch): bookmark 1, impression 7774, like 13, quote 2, reply 1, retweet 3
     
     > First blood for Puzzle #9 by @chainlight_io!
@@ -23190,9 +23190,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1604186457165406210 — 2023-04-22 22:52 UTC (2023-04-22 23:52 WAT)
+    #### Quoted post — @curta_ctf — 2023-04-22 22:52 UTC (2023-04-22 23:52 WAT)
     
-    - URL: https://x.com/1604186457165406210/status/1649909108919738373
+    - URL: https://x.com/curta_ctf/status/1649909108919738373
     - Metrics (at fetch): bookmark 0, impression 4530, like 19, quote 1, reply 1, retweet 1
     
     > Firstblood @chainlight_io 🎉🎉🎉
@@ -23270,9 +23270,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1573675534151655424 — 2023-04-18 12:00 UTC (2023-04-18 13:00 WAT)
+    #### Quoted post — @RareSkills_io — 2023-04-18 12:00 UTC (2023-04-18 13:00 WAT)
     
-    - URL: https://x.com/1573675534151655424/status/1648295439249317889
+    - URL: https://x.com/RareSkills_io/status/1648295439249317889
     - Metrics (at fetch): bookmark 38, impression 23184, like 69, quote 2, reply 6, retweet 20
     
     > Here is the CTF with the 0.1Ξ prize.
@@ -23317,9 +23317,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1573675534151655424 — 2023-04-18 12:00 UTC (2023-04-18 13:00 WAT)
+    #### Quoted post — @RareSkills_io — 2023-04-18 12:00 UTC (2023-04-18 13:00 WAT)
     
-    - URL: https://x.com/1573675534151655424/status/1648295439249317889
+    - URL: https://x.com/RareSkills_io/status/1648295439249317889
     - Metrics (at fetch): bookmark 38, impression 23184, like 69, quote 2, reply 6, retweet 20
     
     > Here is the CTF with the 0.1Ξ prize.
@@ -23381,9 +23381,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1604186457165406210 — 2023-04-15 15:30 UTC (2023-04-15 16:30 WAT)
+    #### Quoted post — @curta_ctf — 2023-04-15 15:30 UTC (2023-04-15 16:30 WAT)
     
-    - URL: https://x.com/1604186457165406210/status/1647261105440403456
+    - URL: https://x.com/curta_ctf/status/1647261105440403456
     - Metrics (at fetch): bookmark 1, impression 6705, like 15, quote 1, reply 1, retweet 2
     
     > Insane. Firstblood in 20 minutes by @chainlight_io!
@@ -23466,9 +23466,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1119511010262405120 — 2023-04-13 08:07 UTC (2023-04-13 09:07 WAT)
+    #### Quoted post — @junorouse — 2023-04-13 08:07 UTC (2023-04-13 09:07 WAT)
     
-    - URL: https://x.com/1119511010262405120/status/1646424901602123776
+    - URL: https://x.com/junorouse/status/1646424901602123776
     - Metrics (at fetch): not returned
     
     > I summarized the entire exploit step.
@@ -23539,9 +23539,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3313312856 — 2023-04-12 22:38 UTC (2023-04-12 23:38 WAT)
+    #### Quoted post — @etherscan — 2023-04-12 22:38 UTC (2023-04-12 23:38 WAT)
     
-    - URL: https://x.com/3313312856/status/1646281789735047168
+    - URL: https://x.com/etherscan/status/1646281789735047168
     - Metrics (at fetch): not returned
     
     > Hi Shapella 👋
@@ -23694,9 +23694,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1604186457165406210 — 2023-04-04 12:17 UTC (2023-04-04 13:17 WAT)
+    #### Quoted post — @curta_ctf — 2023-04-04 12:17 UTC (2023-04-04 13:17 WAT)
     
-    - URL: https://x.com/1604186457165406210/status/1643226276239474690
+    - URL: https://x.com/curta_ctf/status/1643226276239474690
     - Metrics (at fetch): not returned
     
     > Firstblood! 
@@ -23724,9 +23724,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1295028541139177482 — 2023-04-03 23:07 UTC (2023-04-04 00:07 WAT)
+    #### Quoted post — @EulerFinance — 2023-04-03 23:07 UTC (2023-04-04 00:07 WAT)
     
-    - URL: https://x.com/1295028541139177482/status/1643027386802270210
+    - URL: https://x.com/EulerFinance/status/1643027386802270210
     - Metrics (at fetch): bookmark 33, impression 660388, like 1983, quote 197, reply 116, retweet 318
     
     > Following successful negotiations, all of the recoverable funds taken from the Euler protocol on March 13th have now been successfully returned by the exploiter.
@@ -23793,9 +23793,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1442376532064804865 — 2023-03-31 18:21 UTC (2023-03-31 19:21 WAT)
+    #### Quoted post — @numencyber — 2023-03-31 18:21 UTC (2023-03-31 19:21 WAT)
     
-    - URL: https://x.com/1442376532064804865/status/1641868400216645635
+    - URL: https://x.com/numencyber/status/1641868400216645635
     - Metrics (at fetch): not returned
     
     > After an intense 48-hr rollercoaster of excitement, we are excited to officially announce the winners of #NumenCTF 🎉
@@ -23842,9 +23842,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1366256262921523205 — 2023-03-28 21:17 UTC (2023-03-28 22:17 WAT)
+    #### Quoted post — @safemoon — 2023-03-28 21:17 UTC (2023-03-28 22:17 WAT)
     
-    - URL: https://x.com/1366256262921523205/status/1640825402795991048
+    - URL: https://x.com/safemoon/status/1640825402795991048
     - Metrics (at fetch): not returned
     
     > To the @SAFEMOON community: We want to inform you that our LP has been compromised. 
@@ -23887,9 +23887,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1333467482 — 2023-03-28 07:44 UTC (2023-03-28 08:44 WAT)
+    #### Quoted post — @CoinDesk — 2023-03-28 07:44 UTC (2023-03-28 08:44 WAT)
     
-    - URL: https://x.com/1333467482/status/1640620888813862914
+    - URL: https://x.com/CoinDesk/status/1640620888813862914
     - Metrics (at fetch): not returned
     
     > The hacker behind the $200 million Euler attack, who identifies as “Jacob,” said in a blockchain message that they intend to return the entirety of the funds to @EulerFinance.
@@ -24179,9 +24179,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1604186457165406210 — 2023-03-08 16:35 UTC (2023-03-08 17:35 WAT)
+    #### Quoted post — @curta_ctf — 2023-03-08 16:35 UTC (2023-03-08 17:35 WAT)
     
-    - URL: https://x.com/1604186457165406210/status/1633506662945308672
+    - URL: https://x.com/curta_ctf/status/1633506662945308672
     - Metrics (at fetch): bookmark 0, impression 7520, like 14, quote 4, reply 1, retweet 4
     
     > First blood for Puzzle #2 by @chainlight_io!
@@ -24258,9 +24258,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1285964146568093696 — 2023-03-06 18:29 UTC (2023-03-06 19:29 WAT)
+    #### Quoted post — @jinmo123 — 2023-03-06 18:29 UTC (2023-03-06 19:29 WAT)
     
-    - URL: https://x.com/1285964146568093696/status/1632810633568845825
+    - URL: https://x.com/jinmo123/status/1632810633568845825
     - Metrics (at fetch): bookmark 0, impression 2845, like 8, quote 2, reply 1, retweet 0
     
     > @real_philogy (1) 999e6 -&gt; 999e18 (2) price*eth_sell_amount -&gt; price/eth_sell_amount (3) Using returndatacopy for gas optimization can be dangerous https://t.co/UAClpiYUqp
@@ -24372,9 +24372,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1604186457165406210 — 2023-03-02 01:00 UTC (2023-03-02 02:00 WAT)
+    #### Quoted post — @curta_ctf — 2023-03-02 01:00 UTC (2023-03-02 02:00 WAT)
     
-    - URL: https://x.com/1604186457165406210/status/1631097020684410880
+    - URL: https://x.com/curta_ctf/status/1631097020684410880
     - Metrics (at fetch): bookmark 42, impression 38932, like 174, quote 4, reply 7, retweet 53
     
     > We are excited to announce that Curta is LIVE!
@@ -24420,9 +24420,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3012852462 — 2023-02-28 20:25 UTC (2023-02-28 21:25 WAT)
+    #### Quoted post — @zachxbt — 2023-02-28 20:25 UTC (2023-02-28 21:25 WAT)
     
-    - URL: https://x.com/3012852462/status/1630665458134163476
+    - URL: https://x.com/zachxbt/status/1630665458134163476
     - Metrics (at fetch): bookmark 62, impression 498397, like 1802, quote 112, reply 151, retweet 306
     
     > Let’s call out the crypto exchange @bitbns for hiding a $7.5m hack from their users on February 1 2022 and then proceeding to tell them it was “system maintenance” 
@@ -24456,9 +24456,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1304194975798755328 — 2023-02-28 00:32 UTC (2023-02-28 01:32 WAT)
+    #### Quoted post — @hard_protocol — 2023-02-28 00:32 UTC (2023-02-28 01:32 WAT)
     
-    - URL: https://x.com/1304194975798755328/status/1630365209079476226
+    - URL: https://x.com/hard_protocol/status/1630365209079476226
     - Metrics (at fetch): bookmark 0, impression 5479, like 24, quote 3, reply 0, retweet 7
     
     > ERC-20 assets coming to #KAVA Lend 👊 
@@ -24512,9 +24512,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1628067904083181570 — 2023-02-24 21:04 UTC (2023-02-24 22:04 WAT)
+    #### Quoted post — @base — 2023-02-24 21:04 UTC (2023-02-24 22:04 WAT)
     
-    - URL: https://x.com/1628067904083181570/status/1629225746731237388
+    - URL: https://x.com/base/status/1629225746731237388
     - Metrics (at fetch): bookmark 39, impression 205763, like 1157, quote 25, reply 45, retweet 215
     
     > 1/ Web3 developers – join us on Base, a new, open-source Ethereum L2 with a vision for decentralization and scale.
@@ -24588,9 +24588,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: 
 
 **Quoted post (full text):**
 
-    #### Quoted post — @4754640552 — 2022-08-17 08:30 UTC (2022-08-17 09:30 WAT)
+    #### Quoted post — @theori_io — 2022-08-17 08:30 UTC (2022-08-17 09:30 WAT)
     
-    - URL: https://x.com/4754640552/status/1559819843704324101
+    - URL: https://x.com/theori_io/status/1559819843704324101
     - Metrics (at fetch): bookmark 1, impression 0, like 66, quote 4, reply 1, retweet 13
     
     > We came, we saw, we conquered.
@@ -24726,9 +24726,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1481340056426143744 — 2023-02-20 16:39 UTC (2023-02-20 17:39 WAT)
+    #### Quoted post — @blur_io — 2023-02-20 16:39 UTC (2023-02-20 17:39 WAT)
     
-    - URL: https://x.com/1481340056426143744/status/1627709640585940994
+    - URL: https://x.com/blur_io/status/1627709640585940994
     - Metrics (at fetch): bookmark 9, impression 341761, like 1238, quote 48, reply 203, retweet 218
     
     > Blur Bidding Pools have reached a new ATH of $132.65M TVL, or, around 2.4x Aptos TVL and 0.5x Solana TVL.
@@ -24757,9 +24757,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1334836889807958016 — 2022-08-22 00:06 UTC (2022-08-22 01:06 WAT)
+    #### Quoted post — @paradigm_ctf — 2022-08-22 00:06 UTC (2022-08-22 01:06 WAT)
     
-    - URL: https://x.com/1334836889807958016/status/1561504937858568192
+    - URL: https://x.com/paradigm_ctf/status/1561504937858568192
     - Metrics (at fetch): bookmark 30, impression 0, like 356, quote 28, reply 17, retweet 42
     
     > We're done! Thanks to everyone for playing Paradigm CTF 2022. Congrats to @theori_io, @hexens, and @PwningEth for scoring in the top 3!
@@ -24792,9 +24792,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1351396188097040386 — 2023-02-20 02:07 UTC (2023-02-20 03:07 WAT)
+    #### Quoted post — @revertfinance — 2023-02-20 02:07 UTC (2023-02-20 03:07 WAT)
     
-    - URL: https://x.com/1351396188097040386/status/1627490043026890752
+    - URL: https://x.com/revertfinance/status/1627490043026890752
     - Metrics (at fetch): bookmark 6, impression 29938, like 37, quote 10, reply 3, retweet 13
     
     > 1/ Short update on the exploit. 
@@ -24836,9 +24836,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @950915985422221312 — 2022-12-15 03:14 UTC (2022-12-15 04:14 WAT)
+    #### Quoted post — @peckshield — 2022-12-15 03:14 UTC (2022-12-15 04:14 WAT)
     
-    - URL: https://x.com/950915985422221312/status/1603226968706936832
+    - URL: https://x.com/peckshield/status/1603226968706936832
     - Metrics (at fetch): bookmark 2, impression 0, like 61, quote 6, reply 5, retweet 9
     
     > FPR Token on BSC is exploited  (w/ ～$29k) https://bscscan.com/tx/0x1f8e814029a073c52a8668e6ff5bb3264445a8b29886cc9e3ca8ed5f89ccacd3
@@ -24965,9 +24965,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @950915985422221312 — 2022-12-02 02:44 UTC (2022-12-02 03:44 WAT)
+    #### Quoted post — @peckshield — 2022-12-02 02:44 UTC (2022-12-02 03:44 WAT)
     
-    - URL: https://x.com/950915985422221312/status/1598508401755144196
+    - URL: https://x.com/peckshield/status/1598508401755144196
     - Metrics (at fetch): not returned
     
     > Our analysis shows the $aBNBc token contract has an unlimited mint bug. Specifically, while mint()  is protected with onlyMinter modifier, there is another function (w/ 0x3b3a5522 func. signature) that completely bypasses the caller verification to have arbitrary mint !!! [pic.x.com/caRgasNNHq] https://twitter.com/PeckShieldAlert/status/1598491115887661056
@@ -25028,9 +25028,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1135437024578625537 — 2022-12-01 08:35 UTC (2022-12-01 09:35 WAT)
+    #### Quoted post — @Orbit_Chain — 2022-12-01 08:35 UTC (2022-12-01 09:35 WAT)
     
-    - URL: https://x.com/1135437024578625537/status/1598234303036813313
+    - URL: https://x.com/Orbit_Chain/status/1598234303036813313
     - Metrics (at fetch): not returned
     
     > 📢We support TON blockchain

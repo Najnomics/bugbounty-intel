@@ -1,6 +1,6 @@
 # @Neodyme — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 208
 - Conversations/threads: 137
@@ -612,9 +612,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1531913920650280962 — 2025-09-03 15:07 UTC (2025-09-03 16:07 WAT)
+    #### Quoted post — @tbc_munich — 2025-09-03 15:07 UTC (2025-09-03 16:07 WAT)
     
-    - URL: https://x.com/1531913920650280962/status/1963257548594638861
+    - URL: https://x.com/tbc_munich/status/1963257548594638861
     - Metrics (at fetch): bookmark 0, impression 1560, like 25, quote 2, reply 10, retweet 2
     
     > Meet our Bronze Sponsors 🚀 
@@ -658,9 +658,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1375046230858993664 — 2025-08-26 18:30 UTC (2025-08-26 19:30 WAT)
+    #### Quoted post — @MarinadeFinance — 2025-08-26 18:30 UTC (2025-08-26 19:30 WAT)
     
-    - URL: https://x.com/1375046230858993664/status/1960409410817417664
+    - URL: https://x.com/MarinadeFinance/status/1960409410817417664
     - Metrics (at fetch): bookmark 0, impression 3240, like 37, quote 2, reply 8, retweet 4
     
     > Sandwiching has been a recurring issue in Solana’s history. 
@@ -1920,9 +1920,9 @@ Tags (automatic): Dependency confusion / supply chain, Blockchain / L1-L2 / brid
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2652239532 — 2023-12-14 13:58 UTC (2023-12-14 14:58 WAT)
+    #### Quoted post — @Ledger — 2023-12-14 13:58 UTC (2023-12-14 14:58 WAT)
     
-    - URL: https://x.com/2652239532/status/1735298142118072512
+    - URL: https://x.com/Ledger/status/1735298142118072512
     - Metrics (at fetch): bookmark 153, impression 732601, like 2202, quote 213, reply 314, retweet 740
     
     > Update: 
@@ -2300,9 +2300,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1375046230858993664 — 2023-10-27 15:53 UTC (2023-10-27 16:53 WAT)
+    #### Quoted post — @MarinadeFinance — 2023-10-27 15:53 UTC (2023-10-27 16:53 WAT)
     
-    - URL: https://x.com/1375046230858993664/status/1717932577053426019
+    - URL: https://x.com/MarinadeFinance/status/1717932577053426019
     - Metrics (at fetch): bookmark 8, impression 49015, like 129, quote 6, reply 13, retweet 52
     
     > Marinade is completing preparations for an upgrade to its liquid staking smart contract. 
@@ -2730,9 +2730,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1407411848446611459 — 2023-06-10 17:04 UTC (2023-06-10 18:04 WAT)
+    #### Quoted post — @SolanaFndn — 2023-06-10 17:04 UTC (2023-06-10 18:04 WAT)
     
-    - URL: https://x.com/1407411848446611459/status/1667578529612017666
+    - URL: https://x.com/SolanaFndn/status/1667578529612017666
     - Metrics (at fetch): bookmark 37, impression 2616321, like 2525, quote 137, reply 222, retweet 702
     
     > The Solana Foundation disagrees with the characterization of SOL as a security. We welcome the continued engagement of policymakers as constructive partners on regulation to achieve legal clarity on these issues for the thousands of entrepreneurs across the U.S. building in the digital assets space.
@@ -2912,9 +2912,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1586801129173782530 — 2023-02-12 12:47 UTC (2023-02-12 13:47 WAT)
+    #### Quoted post — @SuperteamDE — 2023-02-12 12:47 UTC (2023-02-12 13:47 WAT)
     
-    - URL: https://x.com/1586801129173782530/status/1624751982455189505
+    - URL: https://x.com/SuperteamDE/status/1624751982455189505
     - Metrics (at fetch): bookmark 0, impression 7891, like 39, quote 2, reply 2, retweet 6
     
     > While we're busy in Berlin, our team is taking a Munich trip to host a Solana Blockchain Night in the Bavarian capital.

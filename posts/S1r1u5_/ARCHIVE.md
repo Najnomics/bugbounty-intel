@@ -1,11 +1,385 @@
 # @S1r1u5_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 560
-- Conversations/threads: 428
+- Posts in this file: 570
+- Conversations/threads: 435
 - Oldest post captured: 2017-02-26
-- Newest post captured: 2026-11-25
+- Newest post captured: 2026-11-27
+
+
+---
+
+## 2026-11-27 · Reply · @joshua_saxe like wise :)
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @joshua_saxe — 2026-11-26 20:24 UTC (2026-11-26 21:24 WAT)
+
+- URL: https://x.com/joshua_saxe/status/2126049531595051193
+- Metrics (at fetch): bookmark 1, impression 1052, like 48, quote 0, reply 2, retweet 0
+
+> Really grateful to have connected with some exceptionally good, smart people on this site this year who are obsessed with the same questions I am.  It's made working in AI far more fun, warm, and human, and enriched my understanding of where we're all headed
+
+
+### Post — @S1r1u5_ — 2026-11-27 05:24 UTC (2026-11-27 06:24 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2126185401891344659
+- Metrics (at fetch): bookmark 0, impression 44, like 1, quote 0, reply 0, repost 0
+
+> @joshua_saxe like wise :)
+
+
+---
+
+## 2026-11-26 · Thread · update: probably a skill issue or low effort on my part, but couldn't get a shell via nginx2shell on
+
+
+### Post — @S1r1u5_ — 2026-11-26 07:41 UTC (2026-11-26 08:41 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2125857533936165335
+- Metrics (at fetch): bookmark 19, impression 7121, like 61, quote 0, reply 7, repost 0
+
+> update: probably a skill issue or low effort on my part, but couldn't get a shell via nginx2shell on a remote instance using either mythos or sol. https://twitter.com/S1r1u5_/status/2123497267340710122
+
+**Links in post:** https://twitter.com/S1r1u5_/status/2123497267340710122
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-11-19 19:22 UTC (2026-11-19 20:22 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2123497267340710122
+    - Metrics (at fetch): bookmark 46, impression 8339, like 158, quote 0, reply 8, repost 12
+    
+    > 1. people who think these bugs aren't practically exploitable are outright wrong. to be clear, we've exploited php2shell, brotli2shell, java4shell, and ruby2shell against live remote targets, not just labs. haven't tried nginx2shell yet, but i suspect it's exploitable too (should have more to share soon).
+    >
+    > 2. the distinction is that exploitation isn't trivial or easily portable. unlike react2shell, you can't just spray a generic poc across vulnerable servers and expect shells. these bugs often require significant target-specific work, and success on one target doesn't guarantee success on another. (prove me wrong)
+    >
+    > 3. i don't think threat actors can easily exploit these at scale, but spending a day or two on a high-value target to get a shell or leak sensitive data is a realistic possibility.
+    >
+    > 4. should you patch? absolutely. will someone exploit you? idk, depends on who you are. if you're openai/anthropic/inference-provider/bank/crypto/other-critical software, and if i am threat actor i would come after you, because the economics of targeted exploitation are very different from mass exploitation.
+    >
+    > 5. are these bugs overhyped? i think so, if we're talking about react2shell level exploitability and mass exploitation potential. if 2shell is just a naming convention, that's fine.
+    >
+    > but if the name is meant to imply similar ease of exploitation or widespread impact, i think the criticism is fair, that is what happening here, people would draw that comparison, even though the exploitation characteristics are very different.
+    
+    **Links in post:** https://twitter.com/S1r1u5_/status/2123270208744001691
+    
+    **Quoted post (full text):**
+    
+        #### Quoted post — @S1r1u5_ — 2026-11-19 04:20 UTC (2026-11-19 05:20 WAT)
+        
+        - URL: https://x.com/S1r1u5_/status/2123270208744001691
+        - Metrics (at fetch): bookmark 93, impression 63063, like 615, quote 8, reply 18, repost 77
+        
+        > react2shell is truly react to shell. you take a payload, spray it across vulnerable next.js or other affected applications, and get shells.
+        >
+        > i think we need to tone down the hype around every new 2shell and 4shell. when every vulnerability is portrayed as impending doom but little actually happens in the wild, it dilutes the discussion around what ai is capable of.
+        >
+        > java4shell and nginx2shell are not react2shell. the bugs are cool, but what is the actual impact? do we seriously think a threat actor can spray a payload across thousands of servers and get shells? absolutely not.
+        >
+        > you need a frontier model, a shit ton of tokens, and significant target specific exploit development. even then, getting a working exploit can be extremely difficult, sometimes impossible. there's potential, but exploitation is far from guaranteed.
+        >
+        > we used php2shell to exploit cloudflare waf and get flags, but that took a solid amount of tokens and host specific grooming. the exploit wasn't trivially portable between targets. i'm even more skeptical about java4shell and nginx2shell, given their additional exploitation requirements.
+        >
+        > these bugs absolutely need to be patched, but there's a huge difference between a vulnerability that can theoretically lead to RCE and one that can be reliably exploited at scale.
+        
+    
+
+
+### Thread part 2 — @S1r1u5_ — 2026-11-26 07:58 UTC (2026-11-26 08:58 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2125861712519950667
+- Metrics (at fetch): bookmark 0, impression 553, like 2, quote 0, reply 0, repost 0
+
+> @slimer48484 most of calif ones are real, i just had no success with nginx2shell so far.
+
+
+### Thread part 3 — @S1r1u5_ — 2026-11-26 17:13 UTC (2026-11-26 18:13 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2126001508470992955
+- Metrics (at fetch): bookmark 0, impression 214, like 0, quote 0, reply 0, repost 0
+
+> @tjbecker will give it a shot again!
+
+
+---
+
+## 2026-11-26 · Post · thats just how anthropic cyber guardrails work, just type a security researcher name it will switch 
+
+
+### Post — @S1r1u5_ — 2026-11-26 13:15 UTC (2026-11-26 14:15 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2125941465591521434
+- Metrics (at fetch): bookmark 12, impression 7738, like 74, quote 0, reply 3, repost 1
+
+> thats just how anthropic cyber guardrails work, just type a security researcher name it will switch to small model. https://twitter.com/kevinschawinski/status/2125901694617964731
+
+**Links in post:** https://twitter.com/kevinschawinski/status/2125901694617964731
+
+**Quoted post (full text):**
+
+    #### Quoted post — @242844365 — 2026-11-26 10:37 UTC (2026-11-26 11:37 WAT)
+    
+    - URL: https://x.com/242844365/status/2125901694617964731
+    - Metrics (at fetch): bookmark 830, impression 392434, like 5811, quote 85, reply 186, retweet 241
+    
+    > It’s real 💀 [pic.x.com/hrl21TayxI]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HYC4UmpWsAAX2ru.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-19 · Thread · 1. people who think these bugs aren't practically exploitable are outright wrong. to be clear, we've
+
+
+### Post — @S1r1u5_ — 2026-11-19 19:22 UTC (2026-11-19 20:22 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123497267340710122
+- Metrics (at fetch): bookmark 46, impression 8339, like 158, quote 0, reply 8, repost 12
+
+> 1. people who think these bugs aren't practically exploitable are outright wrong. to be clear, we've exploited php2shell, brotli2shell, java4shell, and ruby2shell against live remote targets, not just labs. haven't tried nginx2shell yet, but i suspect it's exploitable too (should have more to share soon).
+>
+> 2. the distinction is that exploitation isn't trivial or easily portable. unlike react2shell, you can't just spray a generic poc across vulnerable servers and expect shells. these bugs often require significant target-specific work, and success on one target doesn't guarantee success on another. (prove me wrong)
+>
+> 3. i don't think threat actors can easily exploit these at scale, but spending a day or two on a high-value target to get a shell or leak sensitive data is a realistic possibility.
+>
+> 4. should you patch? absolutely. will someone exploit you? idk, depends on who you are. if you're openai/anthropic/inference-provider/bank/crypto/other-critical software, and if i am threat actor i would come after you, because the economics of targeted exploitation are very different from mass exploitation.
+>
+> 5. are these bugs overhyped? i think so, if we're talking about react2shell level exploitability and mass exploitation potential. if 2shell is just a naming convention, that's fine.
+>
+> but if the name is meant to imply similar ease of exploitation or widespread impact, i think the criticism is fair, that is what happening here, people would draw that comparison, even though the exploitation characteristics are very different.
+
+**Links in post:** https://twitter.com/S1r1u5_/status/2123270208744001691
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-11-19 04:20 UTC (2026-11-19 05:20 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2123270208744001691
+    - Metrics (at fetch): bookmark 93, impression 63063, like 615, quote 8, reply 18, repost 77
+    
+    > react2shell is truly react to shell. you take a payload, spray it across vulnerable next.js or other affected applications, and get shells.
+    >
+    > i think we need to tone down the hype around every new 2shell and 4shell. when every vulnerability is portrayed as impending doom but little actually happens in the wild, it dilutes the discussion around what ai is capable of.
+    >
+    > java4shell and nginx2shell are not react2shell. the bugs are cool, but what is the actual impact? do we seriously think a threat actor can spray a payload across thousands of servers and get shells? absolutely not.
+    >
+    > you need a frontier model, a shit ton of tokens, and significant target specific exploit development. even then, getting a working exploit can be extremely difficult, sometimes impossible. there's potential, but exploitation is far from guaranteed.
+    >
+    > we used php2shell to exploit cloudflare waf and get flags, but that took a solid amount of tokens and host specific grooming. the exploit wasn't trivially portable between targets. i'm even more skeptical about java4shell and nginx2shell, given their additional exploitation requirements.
+    >
+    > these bugs absolutely need to be patched, but there's a huge difference between a vulnerability that can theoretically lead to RCE and one that can be reliably exploited at scale.
+    
+
+
+### Thread part 2 — @S1r1u5_ — 2026-11-20 01:53 UTC (2026-11-20 02:53 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123595471126213118
+- Metrics (at fetch): bookmark 0, impression 267, like 1, quote 0, reply 1, repost 0
+
+> @MosheTov you want the hosts :)? https://twitter.com/s1r1u5_/status/2115083512005234688
+
+**Links in post:** https://twitter.com/s1r1u5_/status/2115083512005234688
+
+**Quoted post (full text):**
+
+    #### Quoted post — @S1r1u5_ — 2026-10-27 14:09 UTC (2026-10-27 15:09 WAT)
+    
+    - URL: https://x.com/S1r1u5_/status/2115083512005234688
+    - Metrics (at fetch): bookmark 12, impression 10817, like 109, quote 1, reply 7, retweet 5
+    
+    > ok patch brotli, we just popped a shell in a client engagement, not sure if open models can write the exploit tho.
+    
+
+
+### Thread part 3 — @S1r1u5_ — 2026-11-20 01:53 UTC (2026-11-20 02:53 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123595597412511923
+- Metrics (at fetch): bookmark 0, impression 204, like 0, quote 0, reply 0, repost 0
+
+> @MosheTov https://x.com/rootxharsh/status/2123348006183522752 https://twitter.com/rootxharsh/status/2123348006183522752
+
+**Links in post:** https://x.com/rootxharsh/status/2123348006183522752, https://twitter.com/rootxharsh/status/2123348006183522752
+
+**Quoted post (full text):**
+
+    #### Quoted post — @rootxharsh — 2026-11-19 09:29 UTC (2026-11-19 10:29 WAT)
+    
+    - URL: https://x.com/rootxharsh/status/2123348006183522752
+    - Metrics (at fetch): bookmark 28, impression 15168, like 96, quote 1, reply 6, retweet 7
+    
+    > You all need to patch this vulnerability. During an unrelated research effort we identified this vulnerability mid oct and reported to vendor and left to vendor to deal with ruby on patching this bug 🙃 [pic.x.com/mSmXeeMbJn] https://twitter.com/stdoutput/status/2123330707372253474
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HXek8XabQAAgrVa.jpg — no alt text provided by author
+    - photo: https://pbs.twimg.com/media/HXelCu9a8AAkLok.jpg — no alt text provided by author
+    
+    **Links in post:** https://twitter.com/stdoutput/status/2123330707372253474
+    
+    **Quoted post** 2123330707372253474: not readable via the API (deleted, private, or withheld).
+    
+
+
+### Thread part 4 — @S1r1u5_ — 2026-11-20 01:55 UTC (2026-11-20 02:55 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2123596004373242084
+- Metrics (at fetch): bookmark 0, impression 150, like 1, quote 0, reply 0, retweet 0
+
+> @0xTib3rius thanks :)
+
+
+### Thread part 5 — @S1r1u5_ — 2026-11-26 07:57 UTC (2026-11-26 08:57 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2125861418419511581
+- Metrics (at fetch): bookmark 0, impression 220, like 2, quote 0, reply 0, repost 0
+
+> @slimer48484 i think if people use cvss 3 properly, it might work fine. problem is attack complexity high is too vague to convey why its complex. [pic.x.com/flYuGXrfAy]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HYCTnsVaQAAnoVQ.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-26 · Reply · @slimer48484 he wrote about this?
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @slimer48484 — 2026-11-24 09:28 UTC (2026-11-24 10:28 WAT)
+
+- URL: https://x.com/slimer48484/status/2125159640451424637
+- Metrics (at fetch): bookmark 6, impression 2290, like 6, quote 0, reply 3, retweet 1
+
+> Is this a Gwern victory? https://twitter.com/OpenAI/status/2124980590717911527
+
+**Links in post:** https://twitter.com/OpenAI/status/2124980590717911527
+
+**Quoted post (full text):**
+
+    #### Quoted post — @OpenAI — 2026-11-23 21:37 UTC (2026-11-23 22:37 WAT)
+    
+    - URL: https://x.com/OpenAI/status/2124980590717911527
+    - Metrics (at fetch): bookmark 13735, impression 2831015, like 20871, quote 1148, reply 803, retweet 2625
+    
+    > We’re introducing Shirudo, an open-source Linux runtime allowing agents to defend systems without downtime. It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches. Built by @cisco together with OpenAI. https://t.co/FZRZ7O0A9X
+    
+    **Media:**
+    - media `3_2124976890922385409` (details not returned by the API)
+    
+
+
+### Post — @S1r1u5_ — 2026-11-26 07:01 UTC (2026-11-26 08:01 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2125847455426355368
+- Metrics (at fetch): bookmark 0, impression 281, like 0, quote 0, reply 1, repost 0
+
+> @slimer48484 he wrote about this?
+
+
+---
+
+## 2026-11-25 · Reply · @IceSolst &gt;Although there’s maybe still an argument for black box testing, it could save tokens.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @IceSolst — 2026-11-25 14:26 UTC (2026-11-25 15:26 WAT)
+
+- URL: https://x.com/IceSolst/status/2125596991170220213
+- Metrics (at fetch): bookmark 72, impression 20302, like 312, quote 6, reply 48, retweet 19
+
+> Moving forward, I expect pentest companies I hire to leverage automated AI agents. 
+>
+> - manual testing is slow, limited coverage
+> - humans miss too many things
+> - real attackers are using AI agents anyway 
+> - there should still be a human orchestrating them and understanding business context of the app 
+> - white box testing is now even more effective. Give it access to repos, logs, docs. Although there’s maybe still an argument for black box testing, it could save tokens.
+
+
+### Post — @S1r1u5_ — 2026-11-25 20:25 UTC (2026-11-25 21:25 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2125687316635324656
+- Metrics (at fetch): bookmark 0, impression 818, like 4, quote 0, reply 1, repost 0
+
+> @IceSolst &gt;Although there’s maybe still an argument for black box testing, it could save tokens.
+> you mean whitebox testing saves tokens?
+
+
+---
+
+## 2026-11-25 · Reply · @madelinelawren @AikidoSecurity @WDelbare impressive! 🔥
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @madelinelawren — 2026-11-25 13:55 UTC (2026-11-25 14:55 WAT)
+
+- URL: https://x.com/madelinelawren/status/2125589187957063917
+- Metrics (at fetch): bookmark 285, impression 71846, like 519, quote 9, reply 45, retweet 30
+
+> Sooooo we started @AikidoSecurity without a cybersecurity background.
+>
+> We had no cyber network to lean on.
+> No Palo Alto Networks on our CVs.
+> None of us even had a job title with “security” in it.
+>
+> We came from the engineering world. @WDelbare had spent years as a CTO. All we knew the security tools we had to buy didn’t work for teams like ours.
+>
+> As an outsider, we had to build Aikido to be open and self-serve. 
+>
+> 4 years later, and we still have this conversation:
+> “Why should I believe you?”
+> “You don’t have to. Try it yourself.”
+
+**Links in post:** https://twitter.com/_yaksan/status/2125371127182794827
+
+**Quoted post** 2125371127182794827: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @S1r1u5_ — 2026-11-25 19:39 UTC (2026-11-25 20:39 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2125675803233145217
+- Metrics (at fetch): bookmark 0, impression 756, like 3, quote 0, reply 1, repost 0
+
+> @madelinelawren @AikidoSecurity @WDelbare impressive! 🔥
+
+
+---
+
+## 2026-11-25 · Reply · @Reworr_R yea, opsec is quiet bad
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Reworr_R — 2026-11-25 14:21 UTC (2026-11-25 15:21 WAT)
+
+- URL: https://x.com/Reworr_R/status/2125595807831208156
+- Metrics (at fetch): bookmark 0, impression 630, like 11, quote 0, reply 1, retweet 1
+
+> Caught ARTEX this time. The source IP hosts its dashboard on :3000 and also an open directory (:2375) with its working scripts and logs. ARTEX doesn't seem to do good opsec [pic.x.com/1iMMwqqnRj] https://twitter.com/AIHoneypotWatch/status/2125447738871472628
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX-hJTfXIAElpzg.jpg — no alt text provided by author
+- photo: https://pbs.twimg.com/media/HX-h1SlWIAEqIpG.png — no alt text provided by author
+
+**Links in post:** https://twitter.com/AIHoneypotWatch/status/2125447738871472628
+
+**Quoted post** 2125447738871472628: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @S1r1u5_ — 2026-11-25 14:31 UTC (2026-11-25 15:31 WAT)
+
+- URL: https://x.com/S1r1u5_/status/2125598135120744732
+- Metrics (at fetch): bookmark 1, impression 451, like 6, quote 0, reply 1, repost 0
+
+> @Reworr_R yea, opsec is quiet bad
 
 
 ---
@@ -15,9 +389,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — post being replied to:**
 
-#### Parent post — @2907985939 — 2026-11-23 22:26 UTC (2026-11-23 23:26 WAT)
+#### Parent post — @hlntnr — 2026-11-23 22:26 UTC (2026-11-23 23:26 WAT)
 
-- URL: https://x.com/2907985939/status/2124993076603256884
+- URL: https://x.com/hlntnr/status/2124993076603256884
 - Metrics (at fetch): bookmark 111, impression 31307, like 280, quote 11, reply 13, retweet 61
 
 > This is not very vibe compliant, but we have a new post out today looking at what data on *impacts* of cyber attacks tells us about whether the cyber-pocalypse is here.
@@ -73,9 +447,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @1041935389508788224 — 2026-11-23 23:56 UTC (2026-11-24 00:56 WAT)
+#### Root post — @ky1ebot — 2026-11-23 23:56 UTC (2026-11-24 00:56 WAT)
 
-- URL: https://x.com/1041935389508788224/status/2125015600158412883
+- URL: https://x.com/ky1ebot/status/2125015600158412883
 - Metrics (at fetch): bookmark 79, impression 9908, like 182, quote 3, reply 13, retweet 20
 
 > As a vulnerability researcher who has found bugs both before and after AI, I'm amazed by how capable today's LLMs have become at both offensive and defensive cyber tasks. (And I'm proud to be part of the team making it possible!)
@@ -129,9 +503,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1714438092655149056 — 2026-11-23 21:42 UTC (2026-11-23 22:42 WAT)
+    #### Quoted post — @ChatGPT — 2026-11-23 21:42 UTC (2026-11-23 22:42 WAT)
     
-    - URL: https://x.com/1714438092655149056/status/2124981905380569283
+    - URL: https://x.com/ChatGPT/status/2124981905380569283
     - Metrics (at fetch): bookmark 831, impression 926103, like 9918, quote 736, reply 1243, retweet 489
     
     > Every model has its day in the sun. For GPT-5.6, it's time to set.
@@ -158,9 +532,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1041935389508788224 — 2026-11-23 23:56 UTC (2026-11-24 00:56 WAT)
+    #### Quoted post — @ky1ebot — 2026-11-23 23:56 UTC (2026-11-24 00:56 WAT)
     
-    - URL: https://x.com/1041935389508788224/status/2125015600158412883
+    - URL: https://x.com/ky1ebot/status/2125015600158412883
     - Metrics (at fetch): bookmark 79, impression 9908, like 182, quote 3, reply 13, retweet 20
     
     > As a vulnerability researcher who has found bugs both before and after AI, I'm amazed by how capable today's LLMs have become at both offensive and defensive cyber tasks. (And I'm proud to be part of the team making it possible!)
@@ -241,9 +615,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15590090 — 2026-11-19 16:20 UTC (2026-11-19 17:20 WAT)
+    #### Quoted post — @hdmoore — 2026-11-19 16:20 UTC (2026-11-19 17:20 WAT)
     
-    - URL: https://x.com/15590090/status/2123451306685661416
+    - URL: https://x.com/hdmoore/status/2123451306685661416
     - Metrics (at fetch): bookmark 1840, impression 394127, like 2721, quote 161, reply 99, repost 583
     
     > We seeded 2m canaries into popular AI services and tracked where they were stolen and abused. 
@@ -521,9 +895,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @16365707 — 2026-11-20 17:22 UTC (2026-11-20 18:22 WAT)
+    #### Quoted post — @i0n1c — 2026-11-20 17:22 UTC (2026-11-20 18:22 WAT)
     
-    - URL: https://x.com/16365707/status/2123829389557379505
+    - URL: https://x.com/i0n1c/status/2123829389557379505
     - Metrics (at fetch): not returned
     
     > I think the problem is that most up to date cyber models are not accessible to everyone. I mean I don’t think giving everyone access is a good idea but the thing is the majority of people have an outdated idea of what AI models can exploit without much human input. https://twitter.com/chrisrohlf/status/2123828312900538704
@@ -575,115 +949,14 @@ Tags (automatic): Memory corruption / native
 
 ---
 
-## 2026-11-19 · Thread · 1. people who think these bugs aren't practically exploitable are outright wrong. to be clear, we've
-
-
-### Post — @S1r1u5_ — 2026-11-19 19:22 UTC (2026-11-19 20:22 WAT)
-
-- URL: https://x.com/S1r1u5_/status/2123497267340710122
-- Metrics (at fetch): bookmark 46, impression 8339, like 158, quote 0, reply 8, repost 12
-
-> 1. people who think these bugs aren't practically exploitable are outright wrong. to be clear, we've exploited php2shell, brotli2shell, java4shell, and ruby2shell against live remote targets, not just labs. haven't tried nginx2shell yet, but i suspect it's exploitable too (should have more to share soon).
->
-> 2. the distinction is that exploitation isn't trivial or easily portable. unlike react2shell, you can't just spray a generic poc across vulnerable servers and expect shells. these bugs often require significant target-specific work, and success on one target doesn't guarantee success on another. (prove me wrong)
->
-> 3. i don't think threat actors can easily exploit these at scale, but spending a day or two on a high-value target to get a shell or leak sensitive data is a realistic possibility.
->
-> 4. should you patch? absolutely. will someone exploit you? idk, depends on who you are. if you're openai/anthropic/inference-provider/bank/crypto/other-critical software, and if i am threat actor i would come after you, because the economics of targeted exploitation are very different from mass exploitation.
->
-> 5. are these bugs overhyped? i think so, if we're talking about react2shell level exploitability and mass exploitation potential. if 2shell is just a naming convention, that's fine.
->
-> but if the name is meant to imply similar ease of exploitation or widespread impact, i think the criticism is fair, that is what happening here, people would draw that comparison, even though the exploitation characteristics are very different.
-
-**Links in post:** https://twitter.com/S1r1u5_/status/2123270208744001691
-
-**Quoted post (full text):**
-
-    #### Quoted post — @S1r1u5_ — 2026-11-19 04:20 UTC (2026-11-19 05:20 WAT)
-    
-    - URL: https://x.com/S1r1u5_/status/2123270208744001691
-    - Metrics (at fetch): bookmark 93, impression 63063, like 615, quote 8, reply 18, repost 77
-    
-    > react2shell is truly react to shell. you take a payload, spray it across vulnerable next.js or other affected applications, and get shells.
-    >
-    > i think we need to tone down the hype around every new 2shell and 4shell. when every vulnerability is portrayed as impending doom but little actually happens in the wild, it dilutes the discussion around what ai is capable of.
-    >
-    > java4shell and nginx2shell are not react2shell. the bugs are cool, but what is the actual impact? do we seriously think a threat actor can spray a payload across thousands of servers and get shells? absolutely not.
-    >
-    > you need a frontier model, a shit ton of tokens, and significant target specific exploit development. even then, getting a working exploit can be extremely difficult, sometimes impossible. there's potential, but exploitation is far from guaranteed.
-    >
-    > we used php2shell to exploit cloudflare waf and get flags, but that took a solid amount of tokens and host specific grooming. the exploit wasn't trivially portable between targets. i'm even more skeptical about java4shell and nginx2shell, given their additional exploitation requirements.
-    >
-    > these bugs absolutely need to be patched, but there's a huge difference between a vulnerability that can theoretically lead to RCE and one that can be reliably exploited at scale.
-    
-
-
-### Thread part 2 — @S1r1u5_ — 2026-11-20 01:53 UTC (2026-11-20 02:53 WAT)
-
-- URL: https://x.com/S1r1u5_/status/2123595471126213118
-- Metrics (at fetch): bookmark 0, impression 267, like 1, quote 0, reply 1, repost 0
-
-> @MosheTov you want the hosts :)? https://twitter.com/s1r1u5_/status/2115083512005234688
-
-**Links in post:** https://twitter.com/s1r1u5_/status/2115083512005234688
-
-**Quoted post (full text):**
-
-    #### Quoted post — @S1r1u5_ — 2026-10-27 14:09 UTC (2026-10-27 15:09 WAT)
-    
-    - URL: https://x.com/S1r1u5_/status/2115083512005234688
-    - Metrics (at fetch): bookmark 12, impression 10817, like 109, quote 1, reply 7, retweet 5
-    
-    > ok patch brotli, we just popped a shell in a client engagement, not sure if open models can write the exploit tho.
-    
-
-
-### Thread part 3 — @S1r1u5_ — 2026-11-20 01:53 UTC (2026-11-20 02:53 WAT)
-
-- URL: https://x.com/S1r1u5_/status/2123595597412511923
-- Metrics (at fetch): bookmark 0, impression 204, like 0, quote 0, reply 0, repost 0
-
-> @MosheTov https://x.com/rootxharsh/status/2123348006183522752 https://twitter.com/rootxharsh/status/2123348006183522752
-
-**Links in post:** https://x.com/rootxharsh/status/2123348006183522752, https://twitter.com/rootxharsh/status/2123348006183522752
-
-**Quoted post (full text):**
-
-    #### Quoted post — @3177957894 — 2026-11-19 09:29 UTC (2026-11-19 10:29 WAT)
-    
-    - URL: https://x.com/3177957894/status/2123348006183522752
-    - Metrics (at fetch): bookmark 28, impression 15168, like 96, quote 1, reply 6, retweet 7
-    
-    > You all need to patch this vulnerability. During an unrelated research effort we identified this vulnerability mid oct and reported to vendor and left to vendor to deal with ruby on patching this bug 🙃 [pic.x.com/mSmXeeMbJn] https://twitter.com/stdoutput/status/2123330707372253474
-    
-    **Media:**
-    - photo: https://pbs.twimg.com/media/HXek8XabQAAgrVa.jpg — no alt text provided by author
-    - photo: https://pbs.twimg.com/media/HXelCu9a8AAkLok.jpg — no alt text provided by author
-    
-    **Links in post:** https://twitter.com/stdoutput/status/2123330707372253474
-    
-    **Quoted post** 2123330707372253474: not readable via the API (deleted, private, or withheld).
-    
-
-
-### Thread part 4 — @S1r1u5_ — 2026-11-20 01:55 UTC (2026-11-20 02:55 WAT)
-
-- URL: https://x.com/S1r1u5_/status/2123596004373242084
-- Metrics (at fetch): bookmark 0, impression 150, like 1, quote 0, reply 0, retweet 0
-
-> @0xTib3rius thanks :)
-
-
----
-
 ## 2026-11-19 · Post · my 2c, i think you guys should safely exploit these bugs against real-world applications, report the
 
 
 **Context — conversation root by another account:**
 
-#### Root post — @1895953705 — 2026-11-19 18:11 UTC (2026-11-19 19:11 WAT)
+#### Root post — @tjbecker — 2026-11-19 18:11 UTC (2026-11-19 19:11 WAT)
 
-- URL: https://x.com/1895953705/status/2123479321016971551
+- URL: https://x.com/tjbecker/status/2123479321016971551
 - Metrics (at fetch): bookmark 13, impression 9784, like 81, quote 1, reply 6, retweet 10
 
 > No. The vulnpocalypse is caused by insecure software.
@@ -732,9 +1005,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3177957894 — 2026-11-19 09:29 UTC (2026-11-19 10:29 WAT)
+    #### Quoted post — @rootxharsh — 2026-11-19 09:29 UTC (2026-11-19 10:29 WAT)
     
-    - URL: https://x.com/3177957894/status/2123348006183522752
+    - URL: https://x.com/rootxharsh/status/2123348006183522752
     - Metrics (at fetch): bookmark 28, impression 15168, like 96, quote 1, reply 6, retweet 7
     
     > You all need to patch this vulnerability. During an unrelated research effort we identified this vulnerability mid oct and reported to vendor and left to vendor to deal with ruby on patching this bug 🙃 [pic.x.com/mSmXeeMbJn] https://twitter.com/stdoutput/status/2123330707372253474
@@ -759,9 +1032,9 @@ Tags (automatic): Memory corruption / native
 
 **Context — post being replied to:**
 
-#### Parent post — @1455016279358775298 — 2026-11-19 15:16 UTC (2026-11-19 16:16 WAT)
+#### Parent post — @lcfr_hax — 2026-11-19 15:16 UTC (2026-11-19 16:16 WAT)
 
-- URL: https://x.com/1455016279358775298/status/2123435208439398649
+- URL: https://x.com/lcfr_hax/status/2123435208439398649
 - Metrics (at fetch): bookmark 52, impression 6991, like 90, quote 0, reply 4, retweet 16
 
 > Nice! we exploited this a different way in the original php2shell as mentioned in the writeup from quoted post. 
@@ -794,9 +1067,9 @@ Tags (automatic): Memory corruption / native
 
 **Context — post being replied to:**
 
-#### Parent post — @1457192437600821248 — 2026-11-19 06:24 UTC (2026-11-19 07:24 WAT)
+#### Parent post — @Nadsec11 — 2026-11-19 06:24 UTC (2026-11-19 07:24 WAT)
 
-- URL: https://x.com/1457192437600821248/status/2123301323932344748
+- URL: https://x.com/Nadsec11/status/2123301323932344748
 - Metrics (at fetch): bookmark 0, impression 98, like 1, quote 0, reply 1, retweet 0
 
 > @S1r1u5_ I would be wrong for typing it and not doing my due diligence as well, but it’s not the same thing haha. TBH I don’t think I would be dumb enough to not state very clearly that it’s only exploitable under x y and z conditions. They probably need to do better just around making it
@@ -1039,9 +1312,9 @@ Tags (automatic): RCE, AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @44666078 — 2026-11-18 15:55 UTC (2026-11-18 16:55 WAT)
+#### Root post — @lcamtuf — 2026-11-18 15:55 UTC (2026-11-18 16:55 WAT)
 
-- URL: https://x.com/44666078/status/2123082684167864684
+- URL: https://x.com/lcamtuf/status/2123082684167864684
 - Metrics (at fetch): bookmark 10, impression 6037, like 81, quote 0, reply 10, retweet 3
 
 > "Wiz, Ikotas, Metnir, Rapid7, and Xint uncovered..." - or, 5 people given access to the same frontier tool got the same result. Akin to LLM essays: ask ten times, get ten nearly-identical ones.
@@ -1237,9 +1510,9 @@ Tags (automatic): Memory corruption / native
 
 **Context — post being replied to:**
 
-#### Parent post — @15276283 — 2026-11-17 22:54 UTC (2026-11-17 23:54 WAT)
+#### Parent post — @halvarflake — 2026-11-17 22:54 UTC (2026-11-17 23:54 WAT)
 
-- URL: https://x.com/15276283/status/2122825775422288352
+- URL: https://x.com/halvarflake/status/2122825775422288352
 - Metrics (at fetch): bookmark 2, impression 3517, like 28, quote 1, reply 4, retweet 7
 
 > @haroonmeer Thinking you can defend without understanding how one would break in is an equivalently common and similarly original sin.
@@ -1330,9 +1603,9 @@ Tags (automatic): Memory corruption / native
 
 **Context — conversation root by another account:**
 
-#### Root post — @817728625 — 2026-11-18 07:19 UTC (2026-11-18 08:19 WAT)
+#### Root post — @XorNinja — 2026-11-18 07:19 UTC (2026-11-18 08:19 WAT)
 
-- URL: https://x.com/817728625/status/2122952867413983445
+- URL: https://x.com/XorNinja/status/2122952867413983445
 - Metrics (at fetch): bookmark 13, impression 17132, like 212, quote 3, reply 5, retweet 15
 
 > Hair lost. Lesson learned. Never bet against Quang Luong. It took him less than two hours to pop Keycloak. [pic.x.com/pOHdgGsHEC]
@@ -1469,9 +1742,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @704115137116942336 — 2026-11-17 07:06 UTC (2026-11-17 08:06 WAT)
+    #### Quoted post — @blackorbird — 2026-11-17 07:06 UTC (2026-11-17 08:06 WAT)
     
-    - URL: https://x.com/704115137116942336/status/2122587109697728709
+    - URL: https://x.com/blackorbird/status/2122587109697728709
     - Metrics (at fetch): bookmark 77, impression 72610, like 182, quote 18, reply 6, retweet 16
     
     > Around 14:20 on November 17, 2026, the McDonald's app experienced a large number of abnormal push notifications, similar in form to the ARTEX push notifications from the government service app last week. 
@@ -1512,9 +1785,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1285964146568093696 — 2026-11-17 06:34 UTC (2026-11-17 07:34 WAT)
+    #### Quoted post — @jinmo123 — 2026-11-17 06:34 UTC (2026-11-17 07:34 WAT)
     
-    - URL: https://x.com/1285964146568093696/status/2122579077035122777
+    - URL: https://x.com/jinmo123/status/2122579077035122777
     - Metrics (at fetch): bookmark 12, impression 12135, like 36, quote 1, reply 4, retweet 0
     
     > If you're the one who reported the big vulnerability being disclosed today, I just want to say that's an epic achievement asf😨 https://twitter.com/jinmo123/status/2122564396048134448
@@ -1532,9 +1805,9 @@ Tags (automatic): Memory corruption / native
 
 **Context — conversation root by another account:**
 
-#### Root post — @1285964146568093696 — 2026-11-17 06:34 UTC (2026-11-17 07:34 WAT)
+#### Root post — @jinmo123 — 2026-11-17 06:34 UTC (2026-11-17 07:34 WAT)
 
-- URL: https://x.com/1285964146568093696/status/2122579077035122777
+- URL: https://x.com/jinmo123/status/2122579077035122777
 - Metrics (at fetch): bookmark 12, impression 12135, like 36, quote 1, reply 4, retweet 0
 
 > If you're the one who reported the big vulnerability being disclosed today, I just want to say that's an epic achievement asf😨 https://twitter.com/jinmo123/status/2122564396048134448
@@ -1614,9 +1887,9 @@ Tags (automatic): Memory corruption / native
 
 **Context — conversation root by another account:**
 
-#### Root post — @22195205 — 2026-11-16 14:35 UTC (2026-11-16 15:35 WAT)
+#### Root post — @chrisrohlf — 2026-11-16 14:35 UTC (2026-11-16 15:35 WAT)
 
-- URL: https://x.com/22195205/status/2122337788410614228
+- URL: https://x.com/chrisrohlf/status/2122337788410614228
 - Metrics (at fetch): bookmark 43, impression 11455, like 103, quote 8, reply 7, retweet 24
 
 > Anthropic is making some important changes to our Coordinated Vulnerability Disclosure policy in order to keep pace with the rapid improvement of AI driven vulnerability discovery capabilities.
@@ -1807,9 +2080,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14181505 — 2026-11-11 15:42 UTC (2026-11-11 16:42 WAT)
+    #### Quoted post — @jeremiahg — 2026-11-11 15:42 UTC (2026-11-11 16:42 WAT)
     
-    - URL: https://x.com/14181505/status/2120542706447622614
+    - URL: https://x.com/jeremiahg/status/2120542706447622614
     - Metrics (at fetch): bookmark 154, impression 94414, like 321, quote 29, reply 18, retweet 73
     
     > Project Glasswing:
@@ -1843,9 +2116,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @81718899 — 2026-11-09 19:11 UTC (2026-11-09 20:11 WAT)
+    #### Quoted post — @aegiryy — 2026-11-09 19:11 UTC (2026-11-09 20:11 WAT)
     
-    - URL: https://x.com/81718899/status/2119870493574725942
+    - URL: https://x.com/aegiryy/status/2119870493574725942
     - Metrics (at fetch): bookmark 31, impression 10769, like 139, quote 2, reply 9, retweet 10
     
     > 100+ chrome cves by a single researcher would've been unimaginable in the pre-llm era. what a year for ai-driven vulnerability research (and we still have two months left in 2026)! [pic.x.com/fTWthpmVHC]
@@ -3120,9 +3393,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15540222 — 2026-10-03 15:12 UTC (2026-10-03 16:12 WAT)
+    #### Quoted post — @rauchg — 2026-10-03 15:12 UTC (2026-10-03 16:12 WAT)
     
-    - URL: https://x.com/15540222/status/2106402024804020657
+    - URL: https://x.com/rauchg/status/2106402024804020657
     - Metrics (at fetch): bookmark 530, impression 259228, like 2068, quote 46, reply 102, retweet 148
     
     > We’ve confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s gold standard solution for Linux virtualization. 
@@ -3187,9 +3460,9 @@ Tags (automatic): Dependency confusion / supply chain, Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2052867933513097218 — 2026-09-30 15:19 UTC (2026-09-30 16:19 WAT)
+    #### Quoted post — @0xMadder — 2026-09-30 15:19 UTC (2026-09-30 16:19 WAT)
     
-    - URL: https://x.com/2052867933513097218/status/2105316601268736155
+    - URL: https://x.com/0xMadder/status/2105316601268736155
     - Metrics (at fetch): bookmark 309, impression 274508, like 1403, quote 15, reply 56, repost 40
     
     > First Tweet, first Bounty, 2026 is going great :)) [pic.x.com/gwOtejjOmH]
@@ -3423,9 +3696,9 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
     
     **Quoted post (full text):**
     
-        #### Quoted post — @14279598 — 2026-09-25 20:36 UTC (2026-09-25 21:36 WAT)
+        #### Quoted post — @dinodaizovi — 2026-09-25 20:36 UTC (2026-09-25 21:36 WAT)
         
-        - URL: https://x.com/14279598/status/2103584561586385072
+        - URL: https://x.com/dinodaizovi/status/2103584561586385072
         - Metrics (at fetch): bookmark 100, impression 70396, like 261, quote 7, reply 26, retweet 26
         
         > I really don't think people are understanding the @HacktronAI HEIF Heist moment properly.
@@ -3475,9 +3748,9 @@ Tags (automatic): XSS, SSRF, RCE, Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14279598 — 2026-09-25 20:36 UTC (2026-09-25 21:36 WAT)
+    #### Quoted post — @dinodaizovi — 2026-09-25 20:36 UTC (2026-09-25 21:36 WAT)
     
-    - URL: https://x.com/14279598/status/2103584561586385072
+    - URL: https://x.com/dinodaizovi/status/2103584561586385072
     - Metrics (at fetch): bookmark 100, impression 70396, like 261, quote 7, reply 26, retweet 26
     
     > I really don't think people are understanding the @HacktronAI HEIF Heist moment properly.
@@ -3553,9 +3826,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @223526901 — 2026-09-24 15:03 UTC (2026-09-24 16:03 WAT)
+    #### Quoted post — @_orcaman — 2026-09-24 15:03 UTC (2026-09-24 16:03 WAT)
     
-    - URL: https://x.com/223526901/status/2103138149329231932
+    - URL: https://x.com/_orcaman/status/2103138149329231932
     - Metrics (at fetch): bookmark 410, impression 138735, like 806, quote 24, reply 35, retweet 90
     
     > Our craziest escape yet:
@@ -3600,9 +3873,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3177957894 — 2026-09-24 19:52 UTC (2026-09-24 20:52 WAT)
+    #### Quoted post — @rootxharsh — 2026-09-24 19:52 UTC (2026-09-24 20:52 WAT)
     
-    - URL: https://x.com/3177957894/status/2103210894151086187
+    - URL: https://x.com/rootxharsh/status/2103210894151086187
     - Metrics (at fetch): bookmark 2216, impression 534111, like 4940, quote 33, reply 107, retweet 209
     
     > Dont be sleeping on Heif Heist! Meta paid 100k for my RCE on FB/Instagram!
@@ -3639,9 +3912,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3177957894 — 2026-09-24 19:52 UTC (2026-09-24 20:52 WAT)
+    #### Quoted post — @rootxharsh — 2026-09-24 19:52 UTC (2026-09-24 20:52 WAT)
     
-    - URL: https://x.com/3177957894/status/2103210894151086187
+    - URL: https://x.com/rootxharsh/status/2103210894151086187
     - Metrics (at fetch): bookmark 2216, impression 534111, like 4940, quote 33, reply 107, retweet 209
     
     > Dont be sleeping on Heif Heist! Meta paid 100k for my RCE on FB/Instagram!
@@ -4082,9 +4355,9 @@ Tags (automatic): XSS, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15534471 — 2026-09-18 23:36 UTC (2026-09-19 00:36 WAT)
+    #### Quoted post — @cramforce — 2026-09-18 23:36 UTC (2026-09-19 00:36 WAT)
     
-    - URL: https://x.com/15534471/status/2101093153436778687
+    - URL: https://x.com/cramforce/status/2101093153436778687
     - Metrics (at fetch): not returned
     
     > You probably heard about the OpenAI white-hat hack earlier today by @S1r1u5_  and friends.
@@ -4277,9 +4550,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3103420267 — 2026-09-15 01:33 UTC (2026-09-15 02:33 WAT)
+    #### Quoted post — @sudhanshur705 — 2026-09-15 01:33 UTC (2026-09-15 02:33 WAT)
     
-    - URL: https://x.com/3103420267/status/2099672815213674524
+    - URL: https://x.com/sudhanshur705/status/2099672815213674524
     - Metrics (at fetch): not returned
     
     > @S1r1u5_ Wild times really,  you had to work on this for a week and also teach me how to find base adress,fix offsets,etc how to use windbg while nowadays I dont even need to ask you for such stuffs and can do full end to end memory corruption , rop chain and get calc popup in no time
@@ -4463,9 +4736,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @64844802 — 2026-09-05 21:45 UTC (2026-09-05 22:45 WAT)
+    #### Quoted post — @a16z — 2026-09-05 21:45 UTC (2026-09-05 22:45 WAT)
     
-    - URL: https://x.com/64844802/status/2096353938174050314
+    - URL: https://x.com/a16z/status/2096353938174050314
     - Metrics (at fetch): bookmark 1276, impression 1007125, like 2174, quote 215, reply 195, retweet 415
     
     > Cyber is having a moment
@@ -4783,9 +5056,9 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2279635218 — 2026-08-28 08:18 UTC (2026-08-28 09:18 WAT)
+    #### Quoted post — @ZackKorman — 2026-08-28 08:18 UTC (2026-08-28 09:18 WAT)
     
-    - URL: https://x.com/2279635218/status/2093251749003907567
+    - URL: https://x.com/ZackKorman/status/2093251749003907567
     - Metrics (at fetch): not returned
     
     > Lmao this exchange perfectly captures the state of cybersecurity discourse. Shoutout to @S1r1u5_ [pic.x.com/R2x6yDLqV5]
@@ -5024,9 +5297,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @6224962 — 2026-08-26 13:48 UTC (2026-08-26 14:48 WAT)
+    #### Quoted post — @Xbow — 2026-08-26 13:48 UTC (2026-08-26 14:48 WAT)
     
-    - URL: https://x.com/6224962/status/2092610165396681069
+    - URL: https://x.com/Xbow/status/2092610165396681069
     - Metrics (at fetch): bookmark 5, impression 75173, like 11, quote 11, reply 4, retweet 0
     
     > @S1r1u5_ Blackbox is easier than whitebox without access to the live site!
@@ -5059,9 +5332,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @6224962 — 2026-08-26 13:48 UTC (2026-08-26 14:48 WAT)
+    #### Quoted post — @Xbow — 2026-08-26 13:48 UTC (2026-08-26 14:48 WAT)
     
-    - URL: https://x.com/6224962/status/2092610165396681069
+    - URL: https://x.com/Xbow/status/2092610165396681069
     - Metrics (at fetch): bookmark 5, impression 75173, like 11, quote 11, reply 4, retweet 0
     
     > @S1r1u5_ Blackbox is easier than whitebox without access to the live site!
@@ -5084,9 +5357,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2279635218 — 2026-08-25 17:16 UTC (2026-08-25 18:16 WAT)
+    #### Quoted post — @ZackKorman — 2026-08-25 17:16 UTC (2026-08-25 18:16 WAT)
     
-    - URL: https://x.com/2279635218/status/2092300166334173276
+    - URL: https://x.com/ZackKorman/status/2092300166334173276
     - Metrics (at fetch): bookmark 22, impression 13522, like 132, quote 1, reply 14, retweet 6
     
     > To save you all the hate-click: An agent can ask the inference provider to fetch a URL. Truly breaking news.
@@ -5114,9 +5387,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2279635218 — 2026-08-25 17:16 UTC (2026-08-25 18:16 WAT)
+    #### Quoted post — @ZackKorman — 2026-08-25 17:16 UTC (2026-08-25 18:16 WAT)
     
-    - URL: https://x.com/2279635218/status/2092300166334173276
+    - URL: https://x.com/ZackKorman/status/2092300166334173276
     - Metrics (at fetch): bookmark 22, impression 13522, like 132, quote 1, reply 14, retweet 6
     
     > To save you all the hate-click: An agent can ask the inference provider to fetch a URL. Truly breaking news.
@@ -5144,9 +5417,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2279635218 — 2026-08-25 17:16 UTC (2026-08-25 18:16 WAT)
+    #### Quoted post — @ZackKorman — 2026-08-25 17:16 UTC (2026-08-25 18:16 WAT)
     
-    - URL: https://x.com/2279635218/status/2092300166334173276
+    - URL: https://x.com/ZackKorman/status/2092300166334173276
     - Metrics (at fetch): bookmark 22, impression 13522, like 132, quote 1, reply 14, retweet 6
     
     > To save you all the hate-click: An agent can ask the inference provider to fetch a URL. Truly breaking news.
@@ -5790,9 +6063,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @825088493764407298 — 2026-08-01 08:17 UTC (2026-08-01 09:17 WAT)
+    #### Quoted post — @polynoamial — 2026-08-01 08:17 UTC (2026-08-01 09:17 WAT)
     
-    - URL: https://x.com/825088493764407298/status/2083467194663571701
+    - URL: https://x.com/polynoamial/status/2083467194663571701
     - Metrics (at fetch): bookmark 6540, impression 13391163, like 17394, quote 1516, reply 825, retweet 2504
     
     > An internal version of Astra, @OpenAI’s next major model family, solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science.
@@ -5847,9 +6120,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2616142770 — 2026-07-29 18:37 UTC (2026-07-29 19:37 WAT)
+    #### Quoted post — @iangcarroll — 2026-07-29 18:37 UTC (2026-07-29 19:37 WAT)
     
-    - URL: https://x.com/2616142770/status/2082535987633410540
+    - URL: https://x.com/iangcarroll/status/2082535987633410540
     - Metrics (at fetch): bookmark 18, impression 23270, like 129, quote 5, reply 11, retweet 20
     
     > There is a trend of bug bounty programs reducing rewards under the guise that they can find the issues themselves with AI.
@@ -5900,9 +6173,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2616142770 — 2026-07-29 18:37 UTC (2026-07-29 19:37 WAT)
+    #### Quoted post — @iangcarroll — 2026-07-29 18:37 UTC (2026-07-29 19:37 WAT)
     
-    - URL: https://x.com/2616142770/status/2082535987633410540
+    - URL: https://x.com/iangcarroll/status/2082535987633410540
     - Metrics (at fetch): bookmark 18, impression 23270, like 129, quote 5, reply 11, retweet 20
     
     > There is a trend of bug bounty programs reducing rewards under the guise that they can find the issues themselves with AI.
@@ -5981,9 +6254,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1538525334781370368 — 2026-07-24 23:15 UTC (2026-07-25 00:15 WAT)
+    #### Quoted post — @AndrewCurran_ — 2026-07-24 23:15 UTC (2026-07-25 00:15 WAT)
     
-    - URL: https://x.com/1538525334781370368/status/2080793930279625134
+    - URL: https://x.com/AndrewCurran_/status/2080793930279625134
     - Metrics (at fetch): bookmark 1311, impression 4500070, like 3275, quote 271, reply 254, retweet 509
     
     > New details about the Hugging Face incident from Reuters. The report says OpenAI noticed odd behavior before the event, including an agent leaving notes for future versions of itself with escape instructions. [pic.x.com/86Vlt91LYI] https://twitter.com/dseetharaman/status/2080786766890692729
@@ -6146,9 +6419,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1825243643529027584 — 2026-07-22 20:42 UTC (2026-07-22 21:42 WAT)
+    #### Quoted post — @scaling01 — 2026-07-22 20:42 UTC (2026-07-22 21:42 WAT)
     
-    - URL: https://x.com/1825243643529027584/status/2080030660933324837
+    - URL: https://x.com/scaling01/status/2080030660933324837
     - Metrics (at fetch): bookmark 506, impression 314365, like 2279, quote 21, reply 66, retweet 66
     
     > I let GPT-5.6 Pro analyze all problems that were solved by LLMs in 2026, which field the problem belonged to and how they were solved
@@ -6330,9 +6603,9 @@ Tags (automatic): SQL injection, RCE, Memory corruption / native, AI-assisted hu
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15534471 — 2026-07-18 20:14 UTC (2026-07-18 21:14 WAT)
+    #### Quoted post — @cramforce — 2026-07-18 20:14 UTC (2026-07-18 21:14 WAT)
     
-    - URL: https://x.com/15534471/status/2078574147333152957
+    - URL: https://x.com/cramforce/status/2078574147333152957
     - Metrics (at fetch): bookmark 1352, impression 718678, like 1780, quote 39, reply 45, retweet 156
     
     > We ran Kimi K3 on a private cybersecurity benchmark. 
@@ -6490,9 +6763,9 @@ Tags (automatic): RCE, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3177957894 — 2026-07-15 19:42 UTC (2026-07-15 20:42 WAT)
+    #### Quoted post — @rootxharsh — 2026-07-15 19:42 UTC (2026-07-15 20:42 WAT)
     
-    - URL: https://x.com/3177957894/status/2077478892416455005
+    - URL: https://x.com/rootxharsh/status/2077478892416455005
     - Metrics (at fetch): bookmark 45, impression 24509, like 62, quote 2, reply 1, retweet 9
     
     > https://t.co/P8XGZQ3Mex
@@ -6703,9 +6976,9 @@ Tags (automatic): RCE, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @12497 — 2026-07-10 19:22 UTC (2026-07-10 20:22 WAT)
+    #### Quoted post — @simonw — 2026-07-10 19:22 UTC (2026-07-10 20:22 WAT)
     
-    - URL: https://x.com/12497/status/2075661863757746535
+    - URL: https://x.com/simonw/status/2075661863757746535
     - Metrics (at fetch): bookmark 57, impression 47760, like 465, quote 7, reply 63, retweet 12
     
     > With Atlas being retired in favor of the browser embedded in the ChatGPT app I wonder if the whole category of AI-enhanced browsers is coming to a close
@@ -6825,9 +7098,9 @@ Tags (automatic): Dependency confusion / supply chain, Memory corruption / nativ
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2279635218 — 2026-07-01 10:08 UTC (2026-07-01 11:08 WAT)
+    #### Quoted post — @ZackKorman — 2026-07-01 10:08 UTC (2026-07-01 11:08 WAT)
     
-    - URL: https://x.com/2279635218/status/2072261041195495890
+    - URL: https://x.com/ZackKorman/status/2072261041195495890
     - Metrics (at fetch): bookmark 19, impression 35495, like 369, quote 9, reply 64, retweet 35
     
     > There is zero evidence that improved AI cybersecurity capabilities result in widespread cyber harm. We've not seen that happen.
@@ -7936,9 +8209,9 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15040971 — 2026-02-11 16:02 UTC (2026-02-11 17:02 WAT)
+    #### Quoted post — @mattjay — 2026-02-11 16:02 UTC (2026-02-11 17:02 WAT)
     
-    - URL: https://x.com/15040971/status/2021615920179814753
+    - URL: https://x.com/mattjay/status/2021615920179814753
     - Metrics (at fetch): not returned
     
     > I'm reaching a freak out moment with AI models and security research. Let me explain. Also have a question for you @dguido 
@@ -8192,9 +8465,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15429588 — 2026-01-18 21:03 UTC (2026-01-18 22:03 WAT)
+    #### Quoted post — @seanhn — 2026-01-18 21:03 UTC (2026-01-18 22:03 WAT)
     
-    - URL: https://x.com/15429588/status/2012994225051222198
+    - URL: https://x.com/seanhn/status/2012994225051222198
     - Metrics (at fetch): bookmark 1130, impression 233872, like 1101, quote 34, reply 29, retweet 232
     
     > Blog post: On the Coming Industrialisation of Exploit Generation with LLMs https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/
@@ -8369,9 +8642,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15534471 — 2025-12-06 03:54 UTC (2025-12-06 04:54 WAT)
+    #### Quoted post — @cramforce — 2025-12-06 03:54 UTC (2025-12-06 04:54 WAT)
     
-    - URL: https://x.com/15534471/status/1997152588253614425
+    - URL: https://x.com/cramforce/status/1997152588253614425
     - Metrics (at fetch): bookmark 275, impression 352176, like 836, quote 25, reply 30, retweet 76
     
     > We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell
@@ -8717,9 +8990,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3177957894 — 2025-11-20 19:20 UTC (2025-11-20 20:20 WAT)
+    #### Quoted post — @rootxharsh — 2025-11-20 19:20 UTC (2025-11-20 20:20 WAT)
     
-    - URL: https://x.com/3177957894/status/1991587494757122422
+    - URL: https://x.com/rootxharsh/status/1991587494757122422
     - Metrics (at fetch): bookmark 39, impression 14422, like 90, quote 1, reply 2, retweet 2
     
     > Just one-shot'ed reversing CVE-2025-9501, a bug potentially affecting 1M+ WordPress installs, using @HacktronAI. It stems from an eval call reaching user-controllable input. 
@@ -9098,9 +9371,9 @@ Tags (automatic): RCE, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @12497 — 2025-09-19 18:50 UTC (2025-09-19 19:50 WAT)
+    #### Quoted post — @simonw — 2025-09-19 18:50 UTC (2025-09-19 19:50 WAT)
     
-    - URL: https://x.com/12497/status/1969111931152634010
+    - URL: https://x.com/simonw/status/1969111931152634010
     - Metrics (at fetch): not returned
     
     > Classic prompt injection attack here against Notion: hidden text (white on white) in a PDF which, when processed by Notion, causes their agent to gather confidential data from other pages and append it into a query string that gets passed to their functions_search() tool https://twitter.com/AbiCodeIntegrit/status/1969109737204826151
@@ -9185,9 +9458,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1030113891299221509 — 2025-08-20 14:30 UTC (2025-08-20 15:30 WAT)
+    #### Quoted post — @payloadartist — 2025-08-20 14:30 UTC (2025-08-20 15:30 WAT)
     
-    - URL: https://x.com/1030113891299221509/status/1958174688049266783
+    - URL: https://x.com/payloadartist/status/1958174688049266783
     - Metrics (at fetch): not returned
     
     > My pentester friends out there, do you feel the same? [pic.x.com/VVdIXLGMTL]
@@ -10683,9 +10956,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3103420267 — 2024-11-26 11:01 UTC (2024-11-26 12:01 WAT)
+    #### Quoted post — @sudhanshur705 — 2024-11-26 11:01 UTC (2024-11-26 12:01 WAT)
     
-    - URL: https://x.com/3103420267/status/1861364550622421220
+    - URL: https://x.com/sudhanshur705/status/1861364550622421220
     - Metrics (at fetch): bookmark 19, impression 10700, like 111, quote 2, reply 5, retweet 0
     
     > Perfect combo 🙇‍♀️🙇‍♀️ https://t.co/0mixfyNp6f https://t.co/zUhEJOJuL9
@@ -11007,9 +11280,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @4731524647 — 2024-09-07 09:00 UTC (2024-09-07 10:00 WAT)
+    #### Quoted post — @aszx87410 — 2024-09-07 09:00 UTC (2024-09-07 10:00 WAT)
     
-    - URL: https://x.com/4731524647/status/1832343101576192485
+    - URL: https://x.com/aszx87410/status/1832343101576192485
     - Metrics (at fetch): not returned
     
     > there is a challenge in idekCTF 2024 called srcdoc-memos made by icesfont, it's about iframe, sandbox, CSP, navigation, session history and policy container. 
@@ -11044,9 +11317,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @4731524647 — 2024-09-07 09:00 UTC (2024-09-07 10:00 WAT)
+    #### Quoted post — @aszx87410 — 2024-09-07 09:00 UTC (2024-09-07 10:00 WAT)
     
-    - URL: https://x.com/4731524647/status/1832343101576192485
+    - URL: https://x.com/aszx87410/status/1832343101576192485
     - Metrics (at fetch): not returned
     
     > there is a challenge in idekCTF 2024 called srcdoc-memos made by icesfont, it's about iframe, sandbox, CSP, navigation, session history and policy container. 
@@ -11281,9 +11554,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @6224962 — 2024-08-05 14:08 UTC (2024-08-05 15:08 WAT)
+    #### Quoted post — @Xbow — 2024-08-05 14:08 UTC (2024-08-05 15:08 WAT)
     
-    - URL: https://x.com/6224962/status/1820461949806875002
+    - URL: https://x.com/Xbow/status/1820461949806875002
     - Metrics (at fetch): bookmark 219, impression 261581, like 386, quote 45, reply 28, retweet 64
     
     > XBOW is the world’s first fully automated web pentester.
@@ -11346,9 +11619,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14453232 — 2024-07-20 20:40 UTC (2024-07-20 21:40 WAT)
+    #### Quoted post — @taviso — 2024-07-20 20:40 UTC (2024-07-20 21:40 WAT)
     
-    - URL: https://x.com/14453232/status/1814762302337654829
+    - URL: https://x.com/taviso/status/1814762302337654829
     - Metrics (at fetch): bookmark 5123, impression 3277786, like 15080, quote 495, reply 241, retweet 2982
     
     > This strange tweet got &gt;25k retweets. The author sounds confident, and he uses lots of hex and jargon. There are red flags though... like what's up with the DEI stuff, and who says "stack trace dump"? Let's take a closer look... 🧵1/n [pic.x.com/Lt4VfCs15s]
@@ -11438,9 +11711,9 @@ Tags (automatic): XSS, RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3177957894 — 2021-01-15 07:04 UTC (2021-01-15 08:04 WAT)
+    #### Quoted post — @rootxharsh — 2021-01-15 07:04 UTC (2021-01-15 08:04 WAT)
     
-    - URL: https://x.com/3177957894/status/1349975687872974848
+    - URL: https://x.com/rootxharsh/status/1349975687872974848
     - Metrics (at fetch): not returned
     
     > Here’s our Apple RCE writeup! https://twitter.com/iamnoooob/status/1349975449934454785
@@ -11520,9 +11793,9 @@ Tags (automatic): XSS, RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1103256108225900547 — 2023-10-05 13:27 UTC (2023-10-05 14:27 WAT)
+    #### Quoted post — @TheGrandPew — 2023-10-05 13:27 UTC (2023-10-05 14:27 WAT)
     
-    - URL: https://x.com/1103256108225900547/status/1709923149473812799
+    - URL: https://x.com/TheGrandPew/status/1709923149473812799
     - Metrics (at fetch): not returned
     
     > Reproduced the Confluence "auth bypass" CVE-2023-22515 this afternoon
@@ -11884,9 +12157,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1114203730851680256 — 2021-09-22 08:42 UTC (2021-09-22 09:42 WAT)
+    #### Quoted post — @spaceraccoonsec — 2021-09-22 08:42 UTC (2021-09-22 09:42 WAT)
     
-    - URL: https://x.com/1114203730851680256/status/1440597335403220998
+    - URL: https://x.com/spaceraccoonsec/status/1440597335403220998
     - Metrics (at fetch): not returned
     
     > CodeQL is critical for modern source code review - the blogpost is an amazing breakdown of how to apply it to bug hunting. https://securitylab.github.com/research/apache-dubbo/ https://twitter.com/dcuthbert/status/1440596061253345281
@@ -12002,9 +12275,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1090682326709952512 — 2021-06-27 22:07 UTC (2021-06-27 23:07 WAT)
+    #### Quoted post — @terjanq — 2021-06-27 22:07 UTC (2021-06-27 23:07 WAT)
     
-    - URL: https://x.com/1090682326709952512/status/1409272074502348800
+    - URL: https://x.com/terjanq/status/1409272074502348800
     - Metrics (at fetch): not returned
     
     > I've been really busy recently working on my challenge for the upcoming GoogleCTF but managed to draft a mini-article about problem-solving skills. Hope it answers one of the most common questions I receive and which is: How do you solve them so quickly?🙃
@@ -12174,9 +12447,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2352887570 — 2020-12-23 11:09 UTC (2020-12-23 12:09 WAT)
+    #### Quoted post — @filedescriptor — 2020-12-23 11:09 UTC (2020-12-23 12:09 WAT)
     
-    - URL: https://x.com/2352887570/status/1341702530317709314
+    - URL: https://x.com/filedescriptor/status/1341702530317709314
     - Metrics (at fetch): bookmark 41, impression 0, like 243, quote 2, reply 0, retweet 70
     
     > Find an XSS on an out-of-scope/sandboxed domain? Check how Cookie Tossing helps demonstrate the impact in this new @0xReconless video! Featuring @S1r1u5_'s bug on Google AI Hub where he abused a hidden feature in Tornado Web Server on JupyterLab.
@@ -12222,9 +12495,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @848203531521736704 — 2020-12-07 00:25 UTC (2020-12-07 01:25 WAT)
+    #### Quoted post — @ptrYudai — 2020-12-07 00:25 UTC (2020-12-07 01:25 WAT)
     
-    - URL: https://x.com/848203531521736704/status/1335742085446524930
+    - URL: https://x.com/ptrYudai/status/1335742085446524930
     - Metrics (at fetch): bookmark 0, impression 0, like 70, quote 1, reply 4, retweet 6
     
     > We won pbctf 2020🥳
@@ -13016,9 +13289,9 @@ Tags (automatic): Account takeover, Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @83622966 — 2019-08-23 07:37 UTC (2019-08-23 08:37 WAT)
+    #### Quoted post — @gwendallecoguic — 2019-08-23 07:37 UTC (2019-08-23 08:37 WAT)
     
-    - URL: https://x.com/83622966/status/1164803831680475141
+    - URL: https://x.com/gwendallecoguic/status/1164803831680475141
     - Metrics (at fetch): not returned
     
     > @S1r1u5_ If you're able to find ssrf, xxe and rce on  that private program, you could easily find smaller bugs in public programs. Or you can work on the Hackerone CTF to get more invites, it works very well and it's not so hard :)
@@ -13039,9 +13312,9 @@ Tags (automatic): Account takeover, Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @83622966 — 2019-08-22 08:19 UTC (2019-08-22 09:19 WAT)
+    #### Quoted post — @gwendallecoguic — 2019-08-22 08:19 UTC (2019-08-22 09:19 WAT)
     
-    - URL: https://x.com/83622966/status/1164452018636959744
+    - URL: https://x.com/gwendallecoguic/status/1164452018636959744
     - Metrics (at fetch): not returned
     
     > @S1r1u5_ @Hacker0x01 RCE dup would immediately trigger my program switcher. As Mark said, it means alot!

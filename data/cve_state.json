@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-26 (Africa/Lagos)",
+ "generated": "2026-11-27 (Africa/Lagos)",
  "note": "Markers for the daily incremental CVE run. See cves/README.md \"Daily incremental procedure\".",
  "sources": {
   "cvelistV5": {
    "status": "complete",
-   "records": 432545,
+   "records": 433060,
    "years": "1999-2026",
-   "max_dateUpdated": "2026-11-26T04:55:58.110Z",
+   "max_dateUpdated": "2026-11-27T05:00:21.214Z",
    "source": "https://github.com/CVEProject/cvelistV5 (release zip)",
    "incremental": "download https://github.com/CVEProject/cvelistV5/releases latest *_delta_CVEs_at_*.zip or the daily cumulative delta since max_dateUpdated; re-run tools/intel-pipeline/cve_build.py"
   },
   "nvd": {
    "status": "complete",
-   "records": 431944,
-   "max_lastModified": "2026-11-25T05:18:40.243",
-   "api_timestamp": "2026-11-25T05:58:37.636",
+   "records": 433070,
+   "max_lastModified": "2026-11-27T05:19:02.963",
+   "api_timestamp": "2026-11-27T05:53:32.663",
    "incremental": "GET https://services.nvd.nist.gov/rest/json/cves/2.0?lastModStartDate=<max_lastModified>&lastModEndDate=<now> (max 120-day window, 2000/page, sleep 6s), then tools/intel-pipeline/nvd_build.py"
   },
   "cisa_kev": {
@@ -26,8 +26,8 @@
   },
   "ghsa": {
    "status": "complete",
-   "records": 38044,
-   "max_modified": "2026-11-25T21:35:43Z",
+   "records": 38048,
+   "max_modified": "2026-11-25T22:54:30Z",
    "source": "https://github.com/github/advisory-database (reviewed)",
    "incremental": "GitHub REST GET /advisories?type=reviewed&sort=updated&direction=desc until modified <= max_modified"
   },

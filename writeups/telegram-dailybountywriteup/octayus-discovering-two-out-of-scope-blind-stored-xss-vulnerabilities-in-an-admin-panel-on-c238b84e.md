@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@octayus/discovering-two-out-of-scope-blind-stored-xss-vulnerabilities-in-an-admin-panel-on-a-public-bug-c0262fa35238?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@octayus
-- **Fetched:** 2026-11-19
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 7098)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

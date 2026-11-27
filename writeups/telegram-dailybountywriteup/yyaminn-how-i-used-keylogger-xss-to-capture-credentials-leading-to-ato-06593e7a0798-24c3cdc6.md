@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@yyaminn/how-i-used-keylogger-xss-to-capture-credentials-leading-to-ato-06593e7a0798?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@yyaminn
-- **Fetched:** 2026-11-19
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 6595)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

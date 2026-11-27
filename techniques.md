@@ -2,9 +2,26 @@
 
 High-level methodology, recon tips, and bug patterns pulled from the public sources in this repo. Each item is linked to its source. This is a workflow aid, not an exploit guide: reproduction steps and payloads stay in the original writeups.
 
-Last updated: 25 November 2026 (Africa/Lagos).
+Last updated: 27 November 2026 (Africa/Lagos).
 
 ---
+
+## 2026-11-27 additions (daily X sweep, HackerOne, Telegram, CVE)
+
+**PostgreSQL composite ALTER TYPE after PREPARE → type-confusion RCE (CVE-2026-6460 / 22-year core primitive).** `CREATE TYPE t AS (key uuid); PREPARE … SELECT '(attacker-uuid)'::t; ALTER TYPE t ALTER ATTRIBUTE key TYPE bytea CASCADE; EXECUTE` — prepared Datum bytes are not rewritten, so `byteaout` detoasts attacker-controlled UUID as a fake ExpandedObjectHeader → methods table → `system()`. Same primitive with 3 UUIDs forging an array leaks pointers via `unnest` text→bigint. Lowest-privilege login role. Also: pg_clickhouse Array→Datum OOB (fixed 2026-06-23). Sources: [@0xacb thread](posts/0xacb/2026-11-26-2125948257977184643.md), [mdisec writeup](writeups/0xacb/mdisec-pg-clickhouse-type-confusion-rce-cve-2026-6460.md).
+
+**Cairn AI agents found a zero-day path traversal (MONAI Label CVE-2026-133968, CVSS 9.8).** Chinese-nexus actor's unauthenticated Cairn instance: agents mapped API → filename path traversal → wrote `sitecustomize.py` → triggered training endpoint → root reverse shell in ~11 min. Also sprayed Redis/SSRF/cred attacks for hours without human steps. Sources: [AWS blog](writeups/mdp_sec/aws-cairn-ai-agents-zero-day-monai-label-cve-2026-133968.md), [mdp_sec roundup](posts/mdp_sec/2026-11-25-2125502246758584345.md).
+
+**AI-credited CVE week (java4shell / nginx2root / Chrome 158 Claude-assisted).** Calif Codex found OpenJDK Base64 RCE (~1h, <$200); Wiz Atlas + Xint automated nginx HTTP/2 UAF family; Chrome 158 credits Anthropic researchers for 8 fixes incl. 2 criticals. Prefer existing local writeups under `writeups/irsdl/`, `writeups/albinowax/`, `writeups/farazsth98/`, `writeups/mdp_sec/chrome-158-*.md`.
+
+**Trailmark v0.9.0 call-graph reachability.** Trail of Bits tool maps "what calls what" across 8 verification languages (Lean/Dafny/F*/Rocq/WhyML/TLA+/Tamarin/ProVerif). `uv tool install trailmark`; use `reachable_from` / `paths_between`. Sources: [post](posts/trailofbits/2026-11-25-2125561387241857029.md), [release](writeups/trailofbits/trailmark-v0-9-0-release.md).
+
+**BB Arena: refusals > headline solves; CE class weak for agents.** Read refusals first (Fable 100/100, Astra 76…); DeepSeek/Opus class splits differ; best ranked model only 3/10 on black-box code-execution labs. CTF live (8 labs / 32 flags). Sources: [board-reading article](posts/mdp_sec/2026-11-26-2125809861527261304.md), [CE note](posts/mdp_sec/2026-11-26-2126083577351934357.md), [CTF](writeups/mdp_sec/blackboxarena-ctf-2026-11-26.md).
+
+**HackerOne:** Nextcloud Notes Unicode RTLO (U+202E) in attachment filenames → misleading executable-looking UI ([#3490059](hackerone/reports/2026/3490059.md)). Strip RTLO/bidi overrides from uploaded names.
+
+**Telegram / Defendor:** Braiins Stratum V1 share-hijack (≥1k mining sites); Chainflip/Cyber/Fusionist cross-chain hacks (~$12M/$1.1M/$5.7M — vault signature / compromised verifier / unbacked bridge mint); Freysa AI agent tricked into releasing 13.19 ETH. See `telegram/defendor_eng/`.
+
 
 ## 2026-11-25 additions (daily X sweep, HackerOne, CVE)
 

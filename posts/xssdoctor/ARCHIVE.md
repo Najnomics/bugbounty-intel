@@ -1,11 +1,90 @@
 # @xssdoctor — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 204
-- Conversations/threads: 138
+- Posts in this file: 207
+- Conversations/threads: 141
 - Oldest post captured: 2018-11-20
-- Newest post captured: 2026-11-23
+- Newest post captured: 2026-11-25
+
+
+---
+
+## 2026-11-25 · Reply · @MiniMjStar @OreoB1scuit @busf4ctor @gr3pme @Rhynorater Yeah doctor lector really gave us a bad name
+
+
+**Context — post being replied to:**
+
+#### Parent post — @MiniMjStar — 2026-11-25 15:49 UTC (2026-11-25 16:49 WAT)
+
+- URL: https://x.com/MiniMjStar/status/2125617811565302122
+- Metrics (at fetch): bookmark 0, impression 31, like 0, quote 0, reply 2, retweet 0
+
+> @OreoB1scuit @busf4ctor @gr3pme @xssdoctor @Rhynorater Doctors Ain't Dangerous? Doctor Lecter was 🥸
+
+
+### Post — @xssdoctor — 2026-11-25 16:24 UTC (2026-11-25 17:24 WAT)
+
+- URL: https://x.com/xssdoctor/status/2125626623533924686
+- Metrics (at fetch): bookmark 0, impression 29, like 1, quote 0, reply 1, repost 0
+
+> @MiniMjStar @OreoB1scuit @busf4ctor @gr3pme @Rhynorater Yeah doctor lector really gave us a bad name
+
+
+---
+
+## 2026-11-25 · Post · Probably my favorite research of 2026. Absolutely mind blowing https://twitter.com/monkehack/status/
+
+
+### Post — @xssdoctor — 2026-11-25 13:20 UTC (2026-11-25 14:20 WAT)
+
+- URL: https://x.com/xssdoctor/status/2125580320577827201
+- Metrics (at fetch): bookmark 92, impression 13599, like 103, quote 0, reply 1, repost 6
+
+> Probably my favorite research of 2026. Absolutely mind blowing https://twitter.com/monkehack/status/2125568597774750138
+
+**Links in post:** https://twitter.com/monkehack/status/2125568597774750138
+
+**Quoted post (full text):**
+
+    #### Quoted post — @monkehack — 2026-11-25 12:33 UTC (2026-11-25 13:33 WAT)
+    
+    - URL: https://x.com/monkehack/status/2125568597774750138
+    - Metrics (at fetch): bookmark 717, impression 44517, like 531, quote 11, reply 20, retweet 82
+    
+    > In the last few months, I developed some new AI hacking techniques involving data compression and gadgets found within linguistics. I presented this work for the first time during Prompt2Pwn, but I've written it up here for you to read -&gt;
+    >
+    > https://www.monke.ie/p/human-model-differentials-and-language-hacking
+    
+    **Links in post:** https://www.monke.ie/p/human-model-differentials-and-language-hacking
+    
+
+
+---
+
+## 2026-11-25 · Reply · @monkehack I’m OBSESSED with this. I have your slides open right now
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @monkehack — 2026-11-25 12:33 UTC (2026-11-25 13:33 WAT)
+
+- URL: https://x.com/monkehack/status/2125568597774750138
+- Metrics (at fetch): bookmark 717, impression 44517, like 531, quote 11, reply 20, retweet 82
+
+> In the last few months, I developed some new AI hacking techniques involving data compression and gadgets found within linguistics. I presented this work for the first time during Prompt2Pwn, but I've written it up here for you to read -&gt;
+>
+> https://www.monke.ie/p/human-model-differentials-and-language-hacking
+
+**Links in post:** https://www.monke.ie/p/human-model-differentials-and-language-hacking
+
+
+### Post — @xssdoctor — 2026-11-25 13:19 UTC (2026-11-25 14:19 WAT)
+
+- URL: https://x.com/xssdoctor/status/2125580141715997123
+- Metrics (at fetch): bookmark 0, impression 180, like 1, quote 0, reply 1, repost 0
+
+> @monkehack I’m OBSESSED with this. I have your slides open right now
 
 
 ---
@@ -15,9 +94,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — post being replied to:**
 
-#### Parent post — @4309561582 — 2026-11-23 16:33 UTC (2026-11-23 17:33 WAT)
+#### Parent post — @busf4ctor — 2026-11-23 16:33 UTC (2026-11-23 17:33 WAT)
 
-- URL: https://x.com/4309561582/status/2124904161414402219
+- URL: https://x.com/busf4ctor/status/2124904161414402219
 - Metrics (at fetch): bookmark 1, impression 368, like 3, quote 0, reply 2, retweet 0
 
 > Don't hate me, @xssdoctor too guaranteed me all doctors are like that
@@ -38,9 +117,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @1367644064498282500 — 2026-11-22 21:02 UTC (2026-11-22 22:02 WAT)
+#### Root post — @monkehack — 2026-11-22 21:02 UTC (2026-11-22 22:02 WAT)
 
-- URL: https://x.com/1367644064498282500/status/2124609435095953760
+- URL: https://x.com/monkehack/status/2124609435095953760
 - Metrics (at fetch): bookmark 0, impression 1172, like 37, quote 0, reply 5, retweet 0
 
 > Prompt2Pwn was one of the best events I attended all year. Thank you so much @NahamSec and @zenitysec_labs, it was superb
@@ -2731,19 +2810,3 @@ Tags (automatic): Platform: HackerOne
     **Media:**
     - media `7_1064885165246304257` (details not returned by the API)
     
-
-### Post — @xssdoctor — 2026-11-25 13:20 UTC
-
-- URL: https://x.com/xssdoctor/status/2125580320577827201
-- Metrics (at fetch): bookmark 75, impression 10841, like 84, quote 0, reply 1, retweet 5
-
-> Probably my favorite research of 2026. Absolutely mind blowing https://x.com/monkehack/status/2125568597774750138
-
-> **@monkehack — 2025/2026-11-25 12:33 UTC** (https://x.com/monkehack/status/2125568597774750138; Ciarán Cotter)
->
-> In the last few months, I developed some new AI hacking techniques involving data compression and gadgets found within linguistics. I presented this work for the first time during Prompt2Pwn, but I've written it up here for you to read ->
->
-> https://www.monke.ie/p/human-model-differentials-and-language-hacking
->
-> (Full article saved at [`writeups/monkehack/human-model-differentials-and-language-hacking.md`](../../writeups/monkehack/human-model-differentials-and-language-hacking.md))
-

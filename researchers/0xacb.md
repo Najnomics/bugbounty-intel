@@ -63,3 +63,12 @@ _Auto-maintained from `harness/findings.jsonl`. 4 finding(s). Full verbatim post
 - Post: https://x.com/0xacb/status/2125593599224184836 — verbatim: [`posts/0xacb/2026-11-25-2125593599224184836.md`](../posts/0xacb/2026-11-25-2125593599224184836.md)
 - **What he says:** "pure backwards text" isn't dead; he pulled off a bypass in a real engagement months ago "with nothing but reversed portuguese sentences"; model behind the target unknown. Details of target undisclosed.
 - **Takeaway:** add reversed/permuted-text variants in non-English languages to prompt-injection/guardrail fuzzing; see the 2026-11-26 digest.
+
+## 2026-11-27 run additions
+
+### PostgreSQL type-confusion → RCE (CVE-2026-6460 / pg_clickhouse + 22-year core primitive)
+
+- Thread: https://x.com/0xacb/status/2125948257977184643 — verbatim: [`posts/0xacb/2026-11-26-2125948257977184643.md`](../posts/0xacb/2026-11-26-2125948257977184643.md)
+- Writeup (@mdisec): [`writeups/0xacb/mdisec-pg-clickhouse-type-confusion-rce-cve-2026-6460.md`](../writeups/0xacb/mdisec-pg-clickhouse-type-confusion-rce-cve-2026-6460.md)
+- **Root cause:** (1) pg_clickhouse Array→Datum conversion OOB (fixed 2026-06-23); (2) core: `PREPARE` a composite typed as uuid, `ALTER TYPE … ALTER ATTRIBUTE … TYPE bytea`, `EXECUTE` — prepared bytes not rewritten → `byteaout` detoasts attacker UUID as ExpandedObjectHeader → fake methods → `system()`; same primitive leaks pointers via array `unnest` text→bigint. Lowest-privilege login role.
+- **Takeaway:** fuzz `CREATE TYPE`/`ALTER TYPE` against prepared statements on managed Postgres; hunt Datum-rebuilding extensions.

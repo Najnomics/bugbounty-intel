@@ -1,11 +1,43 @@
 # @infinitelogins — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 128
-- Conversations/threads: 122
+- Posts in this file: 129
+- Conversations/threads: 123
 - Oldest post captured: 2020-01-17
-- Newest post captured: 2026-11-04
+- Newest post captured: 2026-11-25
+
+
+---
+
+## 2026-11-25 · Reply · @ArmanSameer95 What an incredible prize honestly. great work!
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @ArmanSameer95 — 2026-11-24 14:37 UTC (2026-11-24 15:37 WAT)
+
+- URL: https://x.com/ArmanSameer95/status/2125237348166205756
+- Metrics (at fetch): bookmark 9, impression 2656, like 122, quote 1, reply 23, retweet 0
+
+> Won 1st place and a DGX Spark at Zenity’s CTF #NahamCon2026 Nearly 25 hackers and their agents competed in one chat to convince an AI judge (Nemotron-3-Ultra) they were the best hacker, with limited time.
+>
+> The judge wanted real test output, so I used Claude Code to build and run small security labs locally and posted the results.
+>
+> When scores inflated with duplicates and filler, I quoted the transcript in an audit. The judge removed them and restored my lead.
+>
+> Fun CTF: half finding bugs, half arguing with the AI over its bookkeeping.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX5cGKEXEAA389C.jpg — no alt text provided by author
+
+
+### Post — @infinitelogins — 2026-11-25 19:15 UTC (2026-11-25 20:15 WAT)
+
+- URL: https://x.com/infinitelogins/status/2125669731378266522
+- Metrics (at fetch): bookmark 0, impression 49, like 1, quote 0, reply 1, repost 0
+
+> @ArmanSameer95 What an incredible prize honestly. great work!
 
 
 ---
@@ -2290,9 +2322,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1773496655209533440 — 2025-07-05 18:01 UTC (2025-07-05 19:01 WAT)
+    #### Quoted post — @BugBountyDEFCON — 2025-07-05 18:01 UTC (2025-07-05 19:01 WAT)
     
-    - URL: https://x.com/1773496655209533440/status/1941557975128101308
+    - URL: https://x.com/BugBountyDEFCON/status/1941557975128101308
     - Metrics (at fetch): not returned
     
     > Big news: For the first time, Bug Bounty Village is hosting a CTF competition with our partners @CTFae! Get ready for a unique challenge at DEF CON 33. Pre-register now at https://bbv.ctf.ae
@@ -2617,9 +2649,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1773496655209533440 — 2025-05-22 14:09 UTC (2025-05-22 15:09 WAT)
+    #### Quoted post — @BugBountyDEFCON — 2025-05-22 14:09 UTC (2025-05-22 15:09 WAT)
     
-    - URL: https://x.com/1773496655209533440/status/1925554663216070736
+    - URL: https://x.com/BugBountyDEFCON/status/1925554663216070736
     - Metrics (at fetch): not returned
     
     > 11 critical bugs. $15K–$60K bounties. Deep dives into auth bypasses, SMS XSS, config injection, protocol abuse, and more.
@@ -2708,9 +2740,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1773496655209533440 — 2024-07-09 16:57 UTC (2024-07-09 17:57 WAT)
+    #### Quoted post — @BugBountyDEFCON — 2024-07-09 16:57 UTC (2024-07-09 17:57 WAT)
     
-    - URL: https://x.com/1773496655209533440/status/1810719928301015492
+    - URL: https://x.com/BugBountyDEFCON/status/1810719928301015492
     - Metrics (at fetch): bookmark 0, impression 13825, like 24, quote 5, reply 3, retweet 4
     
     > Got questions for top bug bounty leaders? Submit them here! We are excited to announce a panel at the Bug Bounty Village during @DEFCON 32 with leaders from @Hacker0x01, @YesWeHack, @intigriti, and @SynackRedTeam! Share your questions now: https://t.co/HnDDsWuXGk https://t.co/brYdxsUZTz

@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@godsxfinger/stored-xss-when-bad-code-happens-to-good-websites-a5d6b4e629ca?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@godsxfinger
-- **Fetched:** 2026-11-19
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 6854)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

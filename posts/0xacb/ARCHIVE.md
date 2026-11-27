@@ -1,11 +1,72 @@
 # @0xacb — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 220
-- Conversations/threads: 183
+- Posts in this file: 223
+- Conversations/threads: 185
 - Oldest post captured: 2014-01-05
-- Newest post captured: 2026-11-24
+- Newest post captured: 2026-11-26
+
+
+---
+
+## 2026-11-26 · Thread · Turning a 22-year-old PostgreSQL type-confusion primitive into RCE. 
+
+
+Tags (automatic): RCE
+
+
+### Post — @0xacb — 2026-11-26 13:42 UTC (2026-11-26 14:42 WAT)
+
+- URL: https://x.com/0xacb/status/2125948257977184643
+- Metrics (at fetch): bookmark 28, impression 3140, like 52, quote 1, reply 4, repost 4
+
+> Turning a 22-year-old PostgreSQL type-confusion primitive into RCE. 
+>
+> Great write-up by @mdisec on exploiting pg_clickhouse (CVE-2026-6460). Translating ClickHouse arrays into native PostgreSQL Datum values went slightly wrong and that single conversion mistake led straight to code execution.
+>
+> Read the full blog here 👇
+
+
+### Thread part 2 — @0xacb — 2026-11-26 13:42 UTC (2026-11-26 14:42 WAT)
+
+- URL: https://x.com/0xacb/status/2125948259256373320
+- Metrics (at fetch): bookmark 10, impression 499, like 7, quote 0, reply 0, repost 3
+
+> @mdisec https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460
+
+**Links in post:** https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460
+
+
+---
+
+## 2026-11-25 · Post · Cosmic stuff by @monkehack 🤯
+
+
+### Post — @0xacb — 2026-11-25 14:13 UTC (2026-11-25 15:13 WAT)
+
+- URL: https://x.com/0xacb/status/2125593599224184836
+- Metrics (at fetch): bookmark 8, impression 1731, like 20, quote 0, reply 2, repost 0
+
+> Cosmic stuff by @monkehack 🤯
+>
+> I don't think pure backwards text is as dead as it looks, though. I pulled off a bypass in a real scenario a few months ago with nothing but reversed portuguese sentences. Never figured out which model was behind it. https://twitter.com/monkehack/status/2125568597774750138
+
+**Links in post:** https://twitter.com/monkehack/status/2125568597774750138
+
+**Quoted post (full text):**
+
+    #### Quoted post — @monkehack — 2026-11-25 12:33 UTC (2026-11-25 13:33 WAT)
+    
+    - URL: https://x.com/monkehack/status/2125568597774750138
+    - Metrics (at fetch): bookmark 717, impression 44517, like 531, quote 11, reply 20, retweet 82
+    
+    > In the last few months, I developed some new AI hacking techniques involving data compression and gadgets found within linguistics. I presented this work for the first time during Prompt2Pwn, but I've written it up here for you to read -&gt;
+    >
+    > https://www.monke.ie/p/human-model-differentials-and-language-hacking
+    
+    **Links in post:** https://www.monke.ie/p/human-model-differentials-and-language-hacking
+    
 
 
 ---
@@ -15,9 +76,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @1287465618632040449 — 2026-11-24 20:33 UTC (2026-11-24 21:33 WAT)
+#### Root post — @castilho101 — 2026-11-24 20:33 UTC (2026-11-24 21:33 WAT)
 
-- URL: https://x.com/1287465618632040449/status/2125326906207633613
+- URL: https://x.com/castilho101/status/2125326906207633613
 - Metrics (at fetch): bookmark 19, impression 1040, like 23, quote 0, reply 3, retweet 6
 
 > I gave a presentation with my good friend @s3np41k1r1t0 at @BugBountyDEFCON, and it just got published. We presented some ways to escalate your blind AFW with deterministic RCE primitives in popular technologies. Hope you like it!
@@ -379,9 +440,9 @@ Tags (automatic): Path normalization
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1494707118712184832 — 2026-10-20 14:28 UTC (2026-10-20 15:28 WAT)
+    #### Quoted post — @ethiack — 2026-10-20 14:28 UTC (2026-10-20 15:28 WAT)
     
-    - URL: https://x.com/1494707118712184832/status/2112551591416930545
+    - URL: https://x.com/ethiack/status/2112551591416930545
     - Metrics (at fetch): bookmark 16, impression 6925, like 29, quote 3, reply 1, repost 6
     
     > Yesterday we asked: what if you could turn back the clock?
@@ -3073,9 +3134,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1494707118712184832 — 2025-08-04 14:52 UTC (2025-08-04 15:52 WAT)
+    #### Quoted post — @ethiack — 2025-08-04 14:52 UTC (2025-08-04 15:52 WAT)
     
-    - URL: https://x.com/1494707118712184832/status/1952382056748724418
+    - URL: https://x.com/ethiack/status/1952382056748724418
     - Metrics (at fetch): not returned
     
     > What happens when a WAF blocks every XSS payload you throw at it? You get creative.
@@ -4141,9 +4202,9 @@ Tags (automatic): RCE, Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @731525029972848644 — 2018-12-02 12:16 UTC (2018-12-02 13:16 WAT)
+    #### Quoted post — @kernelpaniek — 2018-12-02 12:16 UTC (2018-12-02 13:16 WAT)
     
-    - URL: https://x.com/731525029972848644/status/1069203671001587712
+    - URL: https://x.com/kernelpaniek/status/1069203671001587712
     - Metrics (at fetch): not returned
     
     > Got a nice bufferoverflow on steam, but unable to exploit due all the added null bytes :’( [pic.x.com/UrBjU17JoE]
@@ -4589,21 +4650,3 @@ Tags (automatic): Path normalization
 
 > http://t.co/mE5KorMuUC
 > Forgotten router password? Just hack into the router. Amazing #security
-
-### Post — @0xacb — 2026-11-25 14:13 UTC
-
-- URL: https://x.com/0xacb/status/2125593599224184836
-- Metrics (at fetch): bookmark 5, impression 1176, like 15, quote 0, reply 2, retweet 0
-
-> Cosmic stuff by @monkehack 🤯
->
-> I don't think pure backwards text is as dead as it looks, though. I pulled off a bypass in a real scenario a few months ago with nothing but reversed portuguese sentences. Never figured out which model was behind it. https://x.com/monkehack/status/2125568597774750138
-
-> **@monkehack — 2025/2026-11-25 12:33 UTC** (https://x.com/monkehack/status/2125568597774750138; Ciarán Cotter)
->
-> In the last few months, I developed some new AI hacking techniques involving data compression and gadgets found within linguistics. I presented this work for the first time during Prompt2Pwn, but I've written it up here for you to read ->
->
-> https://www.monke.ie/p/human-model-differentials-and-language-hacking
->
-> (Full article saved at [`writeups/monkehack/human-model-differentials-and-language-hacking.md`](../../writeups/monkehack/human-model-differentials-and-language-hacking.md))
-

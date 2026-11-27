@@ -1,6 +1,6 @@
 # @orange_8361 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 125
 - Conversations/threads: 122
@@ -458,9 +458,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1177545689460592640 — 2025-02-04 15:04 UTC (2025-02-04 16:04 WAT)
+    #### Quoted post — @PortSwiggerRes — 2025-02-04 15:04 UTC (2025-02-04 16:04 WAT)
     
-    - URL: https://x.com/1177545689460592640/status/1886792856204959824
+    - URL: https://x.com/PortSwiggerRes/status/1886792856204959824
     - Metrics (at fetch): bookmark 506, impression 226524, like 866, quote 40, reply 24, retweet 291
     
     > The results are in! We're proud to announce the Top ten web hacking techniques of 2024! https://t.co/XHPEeqPQLR
@@ -1233,9 +1233,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1187929919713464320 — 2021-06-10 16:13 UTC (2021-06-10 17:13 WAT)
+    #### Quoted post — @GHSecurityLab — 2021-06-10 16:13 UTC (2021-06-10 17:13 WAT)
     
-    - URL: https://x.com/1187929919713464320/status/1403022518529761285
+    - URL: https://x.com/GHSecurityLab/status/1403022518529761285
     - Metrics (at fetch): bookmark 204, impression 0, like 1302, quote 57, reply 9, retweet 568
     
     > Kill -9 your way to root on most modern Linux using @kevin_backhouse's latest polkit finding (CVE-2021-3560) https://t.co/sW6YS9CCPr
@@ -2008,9 +2008,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @815023955547484160 — 2018-10-05 12:07 UTC (2018-10-05 13:07 WAT)
+    #### Quoted post — @_niklasb — 2018-10-05 12:07 UTC (2018-10-05 13:07 WAT)
     
-    - URL: https://x.com/815023955547484160/status/1048182859956203525
+    - URL: https://x.com/_niklasb/status/1048182859956203525
     - Metrics (at fetch): bookmark 1, impression 0, like 60, quote 1, reply 1, retweet 13
     
     > Wow this is clever: Reporting a WebKit bug to Google, because they have to use WKWebView on iOS https://t.co/dhMakqBkCM
@@ -2084,9 +2084,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14862447 — 2018-07-01 18:25 UTC (2018-07-01 19:25 WAT)
+    #### Quoted post — @BlackhatEvents — 2018-07-01 18:25 UTC (2018-07-01 19:25 WAT)
     
-    - URL: https://x.com/14862447/status/1013488671507533824
+    - URL: https://x.com/BlackhatEvents/status/1013488671507533824
     - Metrics (at fetch): bookmark 2, impression 0, like 71, quote 1, reply 0, retweet 19
     
     > Orange Tsai (@orange_8361) details 0-days found in common frameworks (Java Spring, Ruby on Rails, Next.js, and Python aiohttp) using approach capable of bypassing reverse proxy protections and adapting to multi-layered web architecture https://t.co/HsP5k3p9Ef
@@ -2209,9 +2209,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @785690779809222660 — 2018-03-06 15:47 UTC (2018-03-06 16:47 WAT)
+    #### Quoted post — @mehqq_ — 2018-03-06 15:47 UTC (2018-03-06 16:47 WAT)
     
-    - URL: https://x.com/785690779809222660/status/971049724705882114
+    - URL: https://x.com/mehqq_/status/971049724705882114
     - Metrics (at fetch): not returned
     
     > Found another off-by-one remote code execution vulnerability (CVE-2018-6789) in Exim mail server! It was challenging but interesting and we finally achieve RCE and bypass mitigations (ASLR, NX …) successfully. Details here:
@@ -2257,9 +2257,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @785690779809222660 — 2017-12-11 15:17 UTC (2017-12-11 16:17 WAT)
+    #### Quoted post — @mehqq_ — 2017-12-11 15:17 UTC (2017-12-11 16:17 WAT)
     
-    - URL: https://x.com/785690779809222660/status/940239020017123334
+    - URL: https://x.com/mehqq_/status/940239020017123334
     - Metrics (at fetch): not returned
     
     > We found RCE and DoS vulnerabilities (CVE-2017-16943, CVE-2017-16944) in the most popular mail server Exim last month. The advisory and technical details are now released!

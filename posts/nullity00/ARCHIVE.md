@@ -1,6 +1,6 @@
 # @nullity00 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 10
 - Conversations/threads: 10
@@ -60,9 +60,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @1628039684189200385 — 2026-11-16 00:21 UTC (2026-11-16 01:21 WAT)
+#### Root post — @0xTimofey — 2026-11-16 00:21 UTC (2026-11-16 01:21 WAT)
 
-- URL: https://x.com/1628039684189200385/status/2122122871434858841
+- URL: https://x.com/0xTimofey/status/2122122871434858841
 - Metrics (at fetch): bookmark 1, impression 1448, like 33, quote 1, reply 3, retweet 0
 
 > Yooo this is the place where myself and @0xT1MOH almost died eating spicy food
@@ -89,9 +89,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @807322483242180608 — 2026-11-11 22:23 UTC (2026-11-11 23:23 WAT)
+#### Root post — @ratankaliani — 2026-11-11 22:23 UTC (2026-11-11 23:23 WAT)
 
-- URL: https://x.com/807322483242180608/status/2120643680973574153
+- URL: https://x.com/ratankaliani/status/2120643680973574153
 - Metrics (at fetch): bookmark 30, impression 14961, like 354, quote 0, reply 68, retweet 3
 
 > I joined @AnthropicAI last week.
@@ -169,9 +169,9 @@ Tags (automatic): ZK
     
     **Quoted post (full text):**
     
-        #### Quoted post — @706491515527364610 — 2023-08-06 18:36 UTC (2023-08-06 19:36 WAT)
+        #### Quoted post — @high_byte — 2023-08-06 18:36 UTC (2023-08-06 19:36 WAT)
         
-        - URL: https://x.com/706491515527364610/status/1688257695772508162
+        - URL: https://x.com/high_byte/status/1688257695772508162
         - Metrics (at fetch): not returned
         
         > @nullity00 you can form a group like @notfellows
@@ -208,9 +208,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @706491515527364610 — 2023-08-06 18:36 UTC (2023-08-06 19:36 WAT)
+    #### Quoted post — @high_byte — 2023-08-06 18:36 UTC (2023-08-06 19:36 WAT)
     
-    - URL: https://x.com/706491515527364610/status/1688257695772508162
+    - URL: https://x.com/high_byte/status/1688257695772508162
     - Metrics (at fetch): not returned
     
     > @nullity00 you can form a group like @notfellows

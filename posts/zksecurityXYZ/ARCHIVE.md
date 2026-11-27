@@ -1,11 +1,64 @@
 # @zksecurityXYZ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 460
-- Conversations/threads: 381
+- Posts in this file: 462
+- Conversations/threads: 383
 - Oldest post captured: 2023-05-16
-- Newest post captured: 2026-11-21
+- Newest post captured: 2026-11-25
+
+
+---
+
+## 2026-11-25 · Post · what is going on guys https://scottaaronson.blog/?p=10362 ? [pic.x.com/8om98Q1lAL]
+
+
+### Post — @zksecurityXYZ — 2026-11-25 16:36 UTC (2026-11-25 17:36 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2125629825373323562
+- Metrics (at fetch): bookmark 2, impression 2476, like 17, quote 0, reply 2, repost 4
+
+> what is going on guys https://scottaaronson.blog/?p=10362 ? [pic.x.com/8om98Q1lAL]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX_BAXmWEAE9ALu.png — no alt text provided by author
+
+**Links in post:** https://scottaaronson.blog/?p=10362
+
+
+---
+
+## 2026-11-25 · Post · happy to partner with @lucidcomputing on inference proofs! https://twitter.com/AbdelStark/status/212
+
+
+Tags (automatic): ZK
+
+
+### Post — @zksecurityXYZ — 2026-11-25 16:35 UTC (2026-11-25 17:35 WAT)
+
+- URL: https://x.com/zksecurityXYZ/status/2125629516282274272
+- Metrics (at fetch): bookmark 1, impression 1048, like 19, quote 0, reply 2, repost 1
+
+> happy to partner with @lucidcomputing on inference proofs! https://twitter.com/AbdelStark/status/2125621384433009028
+
+**Links in post:** https://twitter.com/AbdelStark/status/2125621384433009028
+
+**Quoted post (full text):**
+
+    #### Quoted post — @513341499 — 2026-11-25 16:03 UTC (2026-11-25 17:03 WAT)
+    
+    - URL: https://x.com/513341499/status/2125621384433009028
+    - Metrics (at fetch): bookmark 12, impression 5938, like 99, quote 3, reply 13, retweet 17
+    
+    > We benchmark everything AI can do.
+    >
+    > Nobody benchmarks whether we can verify what it actually ran.
+    >
+    > So we built InferenceProofs. [pic.x.com/Jn3CN4lseQ]
+    
+    **Media:**
+    - video: https://pbs.twimg.com/amplify_video_thumb/2125621150877184000/img/RKKz-QmNtij1hFFK.jpg — no alt text provided by author
+    
 
 
 ---
@@ -40,9 +93,9 @@ Tags (automatic): ZK
     
     **Quoted post (full text):**
     
-        #### Quoted post — @2072955966341914624 — 2026-11-19 09:11 UTC (2026-11-19 10:11 WAT)
+        #### Quoted post — @rotn256 — 2026-11-19 09:11 UTC (2026-11-19 10:11 WAT)
         
-        - URL: https://x.com/2072955966341914624/status/2123343338300428779
+        - URL: https://x.com/rotn256/status/2123343338300428779
         - Metrics (at fetch): bookmark 0, impression 752, like 10, quote 1, reply 0, retweet 2
         
         > Don't get the controversy, Astra 6.2 is a perfectly cromulent model. Its https://zk.golf improvements last 24 hours: [pic.x.com/6X1cKf1KSl]
@@ -114,9 +167,9 @@ Tags (automatic): ZK
 
 **Context — conversation root by another account:**
 
-#### Root post — @851971800 — 2026-11-18 15:56 UTC (2026-11-18 16:56 WAT)
+#### Root post — @_patrickogrady — 2026-11-18 15:56 UTC (2026-11-18 16:56 WAT)
 
-- URL: https://x.com/851971800/status/2123083044680867887
+- URL: https://x.com/_patrickogrady/status/2123083044680867887
 - Metrics (at fetch): bookmark 4, impression 1674, like 33, quote 0, reply 2, retweet 1
 
 > Bajillion is now in ALPHA (and under audit at @zksecurityXYZ):
@@ -311,9 +364,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1529875152460193794 — 2026-11-03 04:30 UTC (2026-11-03 05:30 WAT)
+    #### Quoted post — @ethereumfndn — 2026-11-03 04:30 UTC (2026-11-03 05:30 WAT)
     
-    - URL: https://x.com/1529875152460193794/status/2117474349792006258
+    - URL: https://x.com/ethereumfndn/status/2117474349792006258
     - Metrics (at fetch): bookmark 30, impression 26546, like 177, quote 11, reply 10, repost 23
     
     > What's the most work that could possibly be required to verify an Ethereum block?
@@ -361,9 +414,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1565117390010036224 — 2026-10-28 14:00 UTC (2026-10-28 15:00 WAT)
+    #### Quoted post — @SuccinctLabs — 2026-10-28 14:00 UTC (2026-10-28 15:00 WAT)
     
-    - URL: https://x.com/1565117390010036224/status/2115443475520930014
+    - URL: https://x.com/SuccinctLabs/status/2115443475520930014
     - Metrics (at fetch): bookmark 40, impression 73795, like 175, quote 20, reply 22, repost 25
     
     > Introducing the definitive guide to ZK in 2026.
@@ -613,9 +666,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1582127706560376832 — 2026-10-12 13:03 UTC (2026-10-12 14:03 WAT)
+    #### Quoted post — @AptosLabs — 2026-10-12 13:03 UTC (2026-10-12 14:03 WAT)
     
-    - URL: https://x.com/1582127706560376832/status/2109631017388834977
+    - URL: https://x.com/AptosLabs/status/2109631017388834977
     - Metrics (at fetch): bookmark 4, impression 2268, like 18, quote 1, reply 0, retweet 2
     
     > Under the hood:
@@ -1107,9 +1160,9 @@ Tags (automatic): ZK, Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2312333412 — 2026-09-03 12:18 UTC (2026-09-03 13:18 WAT)
+    #### Quoted post — @ethereum — 2026-09-03 12:18 UTC (2026-09-03 13:18 WAT)
     
-    - URL: https://x.com/2312333412/status/2095486647634645071
+    - URL: https://x.com/ethereum/status/2095486647634645071
     - Metrics (at fetch): bookmark 304, impression 496953, like 2821, quote 148, reply 691, retweet 542
     
     > Ethereum is for shipping.
@@ -1300,9 +1353,9 @@ Tags (automatic): ZK
     
     **Quoted post (full text):**
     
-        #### Quoted post — @1529875152460193794 — 2026-08-20 17:06 UTC (2026-08-20 18:06 WAT)
+        #### Quoted post — @ethereumfndn — 2026-08-20 17:06 UTC (2026-08-20 18:06 WAT)
         
-        - URL: https://x.com/1529875152460193794/status/2090485714660302877
+        - URL: https://x.com/ethereumfndn/status/2090485714660302877
         - Metrics (at fetch): bookmark 101, impression 84348, like 391, quote 21, reply 26, retweet 91
         
         > http://better.codes is live
@@ -1379,9 +1432,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1529875152460193794 — 2026-08-20 17:06 UTC (2026-08-20 18:06 WAT)
+    #### Quoted post — @ethereumfndn — 2026-08-20 17:06 UTC (2026-08-20 18:06 WAT)
     
-    - URL: https://x.com/1529875152460193794/status/2090485714660302877
+    - URL: https://x.com/ethereumfndn/status/2090485714660302877
     - Metrics (at fetch): bookmark 101, impression 84348, like 391, quote 21, reply 26, retweet 91
     
     > http://better.codes is live
@@ -1711,9 +1764,9 @@ Tags (automatic): Smart contract / DeFi, ZK, Memory corruption / native, AI-assi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1249690221077311489 — 2026-08-05 19:01 UTC (2026-08-05 20:01 WAT)
+    #### Quoted post — @nico_mnbl — 2026-08-05 19:01 UTC (2026-08-05 20:01 WAT)
     
-    - URL: https://x.com/1249690221077311489/status/2085078828578140586
+    - URL: https://x.com/nico_mnbl/status/2085078828578140586
     - Metrics (at fetch): bookmark 0, impression 4289, like 16, quote 1, reply 3, retweet 0
     
     > @zksecurityXYZ @cryptodavidw @kobigurk Yo, where was my post Mr Security?
@@ -1777,9 +1830,9 @@ Tags (automatic): ZK, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1041276721759043584 — 2026-03-24 13:37 UTC (2026-03-24 14:37 WAT)
+    #### Quoted post — @P3b7_ — 2026-03-24 13:37 UTC (2026-03-24 14:37 WAT)
     
-    - URL: https://x.com/1041276721759043584/status/2036437219288711625
+    - URL: https://x.com/P3b7_/status/2036437219288711625
     - Metrics (at fetch): bookmark 117, impression 100060, like 156, quote 13, reply 20, retweet 27
     
     > https://t.co/2vkUYFpbjC
@@ -1867,9 +1920,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2021606427740291073 — 2026-07-28 13:55 UTC (2026-07-28 14:55 WAT)
+    #### Quoted post — @TachyonZcash — 2026-07-28 13:55 UTC (2026-07-28 14:55 WAT)
     
-    - URL: https://x.com/2021606427740291073/status/2082102669297295840
+    - URL: https://x.com/TachyonZcash/status/2082102669297295840
     - Metrics (at fetch): bookmark 56, impression 66604, like 367, quote 28, reply 42, retweet 105
     
     > We're excited to announce a machine-checked proof, written in Lean, that Zcash's new Ironwood pool cannot contain undetectable counterfeiting bugs.
@@ -4088,9 +4141,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @977164339533832192 — 2026-02-27 12:30 UTC (2026-02-27 13:30 WAT)
+    #### Quoted post — @zeroknowledgefm — 2026-02-27 12:30 UTC (2026-02-27 13:30 WAT)
     
-    - URL: https://x.com/977164339533832192/status/2027360790680903922
+    - URL: https://x.com/zeroknowledgefm/status/2027360790680903922
     - Metrics (at fetch): bookmark 6, impression 5264, like 43, quote 2, reply 5, retweet 3
     
     > zkSummit14 will take place on May 7th 2026 in Rome! 
@@ -5297,9 +5350,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1604942990417580032 — 2025-10-01 22:01 UTC (2025-10-01 23:01 WAT)
+    #### Quoted post — @Lighter_xyz — 2025-10-01 22:01 UTC (2025-10-01 23:01 WAT)
     
-    - URL: https://x.com/1604942990417580032/status/1973508660061180363
+    - URL: https://x.com/Lighter_xyz/status/1973508660061180363
     - Metrics (at fetch): bookmark 524, impression 2405639, like 3534, quote 427, reply 589, retweet 570
     
     > The Lighter public mainnet is live after 8 months of private beta!  
@@ -5375,9 +5428,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1249690221077311489 — 2025-09-12 14:57 UTC (2025-09-12 15:57 WAT)
+    #### Quoted post — @nico_mnbl — 2025-09-12 14:57 UTC (2025-09-12 15:57 WAT)
     
-    - URL: https://x.com/1249690221077311489/status/1966516416321905005
+    - URL: https://x.com/nico_mnbl/status/1966516416321905005
     - Metrics (at fetch): bookmark 6, impression 11290, like 155, quote 2, reply 28, retweet 2
     
     > personal update: today was my last day at @BainCapCrypto. I am grateful beyond words to have worked with such a wonderful group of people 🙏🙏
@@ -5473,9 +5526,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1166273105456578561 — 2025-08-14 01:33 UTC (2025-08-14 02:33 WAT)
+    #### Quoted post — @PhalaNetwork — 2025-08-14 01:33 UTC (2025-08-14 02:33 WAT)
     
-    - URL: https://x.com/1166273105456578561/status/1955805066985939139
+    - URL: https://x.com/PhalaNetwork/status/1955805066985939139
     - Metrics (at fetch): bookmark 2, impression 15601, like 103, quote 4, reply 14, retweet 24
     
     > Historic moment for confidential computing.
@@ -5983,9 +6036,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1457801460666744835 — 2025-06-25 14:40 UTC (2025-06-25 15:40 WAT)
+    #### Quoted post — @archetypevc — 2025-06-25 14:40 UTC (2025-06-25 15:40 WAT)
     
-    - URL: https://x.com/1457801460666744835/status/1937883720934969714
+    - URL: https://x.com/archetypevc/status/1937883720934969714
     - Metrics (at fetch): bookmark 18, impression 3683, like 47, quote 1, reply 5, retweet 10
     
     > In Session 05 of Proof is in the Pudding, @cryptodavidw dives into:
@@ -6114,9 +6167,9 @@ Tags (automatic): TEE / enclave
 
 **Quoted post (full text):**
 
-    #### Quoted post — @991439317053591552 — 2025-05-22 15:04 UTC (2025-05-22 16:04 WAT)
+    #### Quoted post — @MinaProtocol — 2025-05-22 15:04 UTC (2025-05-22 16:04 WAT)
     
-    - URL: https://x.com/991439317053591552/status/1925568348408225939
+    - URL: https://x.com/MinaProtocol/status/1925568348408225939
     - Metrics (at fetch): bookmark 9, impression 32979, like 314, quote 11, reply 38, retweet 52
     
     > Private attestations on Mina are here! 
@@ -6486,9 +6539,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1435911698624434180 — 2025-03-07 14:50 UTC (2025-03-07 15:50 WAT)
+    #### Quoted post — @__zkhack__ — 2025-03-07 14:50 UTC (2025-03-07 15:50 WAT)
     
-    - URL: https://x.com/1435911698624434180/status/1898023434644341201
+    - URL: https://x.com/__zkhack__/status/1898023434644341201
     - Metrics (at fetch): bookmark 0, impression 1424, like 4, quote 1, reply 1, retweet 1
     
     > @Ingo_zk @yuval_domb @xxiang_xie @wangxiao1254 @primus_labs @rel_zeta_tech @liameagen @xyz_pierre @PrivacyScaling @intmaxIO @zksecurityXYZ released an article exploring how BitVM enables arbitrary computation on Bitcoin without changing its core protocol by using circuit abstractions that simulate covenants and statefulness via one-time signatures.
@@ -6645,9 +6698,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1457801460666744835 — 2025-02-25 16:21 UTC (2025-02-25 17:21 WAT)
+    #### Quoted post — @archetypevc — 2025-02-25 16:21 UTC (2025-02-25 17:21 WAT)
     
-    - URL: https://x.com/1457801460666744835/status/1894422368908357783
+    - URL: https://x.com/archetypevc/status/1894422368908357783
     - Metrics (at fetch): bookmark 21, impression 6052, like 20, quote 3, reply 1, retweet 8
     
     > For Session 03 of Proof is in the Pudding, @cryptodavidw breaks down a recent paper on Fiat-Shamir, GKR, and how to prove false statements (paper linked below)
@@ -7105,9 +7158,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1435911698624434180 — 2024-11-22 14:00 UTC (2024-11-22 15:00 WAT)
+    #### Quoted post — @__zkhack__ — 2024-11-22 14:00 UTC (2024-11-22 15:00 WAT)
     
-    - URL: https://x.com/1435911698624434180/status/1859960171935473848
+    - URL: https://x.com/__zkhack__/status/1859960171935473848
     - Metrics (at fetch): bookmark 3, impression 6816, like 15, quote 1, reply 2, retweet 4
     
     > @TACEO_IO @cursive_team @PrivacyScaling @SuccinctJT @zksecurityXYZ @Ingo_zk @TomerSolberg @bedlamresearch @0xkrane @Lamby0x @asulanet @sylvechv @wraitii @hyle_org @a16zcrypto Together with @zircuit, @zkSecurityXYZ released Halo Hero, a course on #Halo2 development and PlonKish arithmetization in general, targeted at Rust developers who have only some understanding of succinct proofs.
@@ -7399,9 +7452,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1457801460666744835 — 2024-10-16 16:03 UTC (2024-10-16 17:03 WAT)
+    #### Quoted post — @archetypevc — 2024-10-16 16:03 UTC (2024-10-16 17:03 WAT)
     
-    - URL: https://x.com/1457801460666744835/status/1846582649357251036
+    - URL: https://x.com/archetypevc/status/1846582649357251036
     - Metrics (at fetch): bookmark 28, impression 8576, like 45, quote 8, reply 3, retweet 13
     
     > For Session 02 of Proof is in the Pudding, @cryptodavidw pulls back the curtain on zkTLS
@@ -8263,9 +8316,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @953893947822280704 — 2024-03-07 12:35 UTC (2024-03-07 13:35 WAT)
+    #### Quoted post — @StarkWareLtd — 2024-03-07 12:35 UTC (2024-03-07 13:35 WAT)
     
-    - URL: https://x.com/953893947822280704/status/1765717878077059334
+    - URL: https://x.com/StarkWareLtd/status/1765717878077059334
     - Metrics (at fetch): bookmark 7, impression 16624, like 75, quote 3, reply 10, retweet 12
     
     > You’ve heard about Stwo, the new prover that’s too good to be true.
@@ -8331,9 +8384,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1455262825820135431 — 2024-02-26 15:34 UTC (2024-02-26 16:34 WAT)
+    #### Quoted post — @schaliasosvons — 2024-02-26 15:34 UTC (2024-02-26 16:34 WAT)
     
-    - URL: https://x.com/1455262825820135431/status/1762139034720129185
+    - URL: https://x.com/schaliasosvons/status/1762139034720129185
     - Metrics (at fetch): bookmark 76, impression 53470, like 280, quote 9, reply 16, retweet 44
     
     > Excited to share our latest work on ZKPs security: "SoK: What don’t we know? Understanding Security Vulnerabilities in SNARKs" (w/ @0xSerious, @infosecual, @cryptodavidw, @MMJahanara, @convoluted_code).
@@ -8390,9 +8443,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1208081236616515585 — 2023-12-29 18:22 UTC (2023-12-29 19:22 WAT)
+    #### Quoted post — @AleoHQ — 2023-12-29 18:22 UTC (2023-12-29 19:22 WAT)
     
-    - URL: https://x.com/1208081236616515585/status/1740800381259547050
+    - URL: https://x.com/AleoHQ/status/1740800381259547050
     - Metrics (at fetch): bookmark 18, impression 83620, like 399, quote 16, reply 44, retweet 79
     
     > As Aleo nears mainnet, ensuring security is vital.
@@ -8922,21 +8975,3 @@ Tags (automatic): ZK
 - Metrics (at fetch): bookmark 0, impression 308, like 10, quote 0, reply 1, retweet 0
 
 > hello world
-
-### Post — @zksecurityXYZ — 2026-11-25 16:35 UTC
-
-- URL: https://x.com/zksecurityXYZ/status/2125629516282274272
-- Metrics (at fetch): bookmark 1, impression 815, like 13, quote 0, reply 2, retweet 1
-
-> happy to partner with @lucidcomputing on inference proofs! https://x.com/AbdelStark/status/2125621384433009028
-
-> **@AbdelStark — 2026-11-25 16:03 UTC** (https://x.com/AbdelStark/status/2125621384433009028)
->
-> We benchmark everything AI can do.
->
-> Nobody benchmarks whether we can verify what it actually ran.
->
-> So we built InferenceProofs.
->
-> (video, 74s: https://video.twimg.com/amplify_video/2125621150877184000/vid/avc1/1280x720/RGkcHTZJq8UTksRB.mp4 — not transcribed)
-

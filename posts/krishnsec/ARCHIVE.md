@@ -1,6 +1,6 @@
 # @krishnsec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 213
 - Conversations/threads: 203
@@ -798,9 +798,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @883005552309276672 — 2026-05-27 15:34 UTC (2026-05-27 16:34 WAT)
+    #### Quoted post — @_jensec — 2026-05-27 15:34 UTC (2026-05-27 16:34 WAT)
     
-    - URL: https://x.com/883005552309276672/status/2059659583086575915
+    - URL: https://x.com/_jensec/status/2059659583086575915
     - Metrics (at fetch): bookmark 30, impression 17515, like 272, quote 4, reply 19, retweet 19
     
     > AI will kill bug bounties NOT because it’s better than human hunters.
@@ -2637,9 +2637,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1115286026774179841 — 2023-07-23 05:24 UTC (2023-07-23 06:24 WAT)
+    #### Quoted post — @ADITYASHENDE17 — 2023-07-23 05:24 UTC (2023-07-23 06:24 WAT)
     
-    - URL: https://x.com/1115286026774179841/status/1682985081919672320
+    - URL: https://x.com/ADITYASHENDE17/status/1682985081919672320
     - Metrics (at fetch): bookmark 5, impression 31532, like 33, quote 1, reply 3, retweet 0
     
     > Nowadays money platform is @yeswehack 🥳🤚

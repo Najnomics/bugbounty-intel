@@ -1,6 +1,6 @@
 # @SLCyberSec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 4
 - Conversations/threads: 4
@@ -54,9 +54,9 @@ Tags (automatic): RCE
 
 **Context — conversation root by another account:**
 
-#### Root post — @1089376824 — 2026-11-24 13:58 UTC (2026-11-24 14:58 WAT)
+#### Root post — @ITSecurityguard — 2026-11-24 13:58 UTC (2026-11-24 14:58 WAT)
 
-- URL: https://x.com/1089376824/status/2125227491677859895
+- URL: https://x.com/ITSecurityguard/status/2125227491677859895
 - Metrics (at fetch): bookmark 24, impression 3905, like 64, quote 1, reply 2, retweet 14
 
 > Call it drupal2shell or fail2install here's @SLCyberSec newest research on Pre-Auth RCE in Drupal core 👇🏻

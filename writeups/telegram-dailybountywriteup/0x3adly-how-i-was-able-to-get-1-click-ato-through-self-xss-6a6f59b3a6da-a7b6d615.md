@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@0x3adly/how-i-was-able-to-get-1-click-ato-through-self-xss-6a6f59b3a6da?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@0x3adly
-- **Fetched:** 2026-11-20
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 5364)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

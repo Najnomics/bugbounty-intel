@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@amitdutta6026/from-subtle-idor-to-full-account-takeover-including-admin-access-43b468c5542b?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@amitdutta6026
-- **Fetched:** 2026-11-17
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 12337)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

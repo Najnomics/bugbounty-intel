@@ -1,6 +1,6 @@
 # @PwningEth — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 53
 - Conversations/threads: 31
@@ -482,9 +482,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1360461034377654272 — 2022-08-30 13:00 UTC (2022-08-30 14:00 WAT)
+    #### Quoted post — @auroraisnear — 2022-08-30 13:00 UTC (2022-08-30 14:00 WAT)
     
-    - URL: https://x.com/1360461034377654272/status/1564598873531658240
+    - URL: https://x.com/auroraisnear/status/1564598873531658240
     - Metrics (at fetch): bookmark 11, impression 0, like 38, quote 2, reply 1, repost 12
     
     > Further details about how Aurora Labs team solved those bugs and the root cause of each one can be found in our dedicated blog post below 👇
@@ -536,9 +536,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1334836889807958016 — 2022-08-22 00:06 UTC (2022-08-22 01:06 WAT)
+    #### Quoted post — @paradigm_ctf — 2022-08-22 00:06 UTC (2022-08-22 01:06 WAT)
     
-    - URL: https://x.com/1334836889807958016/status/1561504937858568192
+    - URL: https://x.com/paradigm_ctf/status/1561504937858568192
     - Metrics (at fetch): bookmark 30, impression 0, like 356, quote 28, reply 17, retweet 42
     
     > We're done! Thanks to everyone for playing Paradigm CTF 2022. Congrats to @theori_io, @hexens, and @PwningEth for scoring in the top 3!

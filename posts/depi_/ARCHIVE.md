@@ -1,11 +1,65 @@
 # @depi_ — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 8
-- Conversations/threads: 5
+- Posts in this file: 10
+- Conversations/threads: 7
 - Oldest post captured: 2026-11-11
-- Newest post captured: 2026-11-19
+- Newest post captured: 2026-11-26
+
+
+---
+
+## 2026-11-26 · Reply · @Wlayzz @0xLupin @_Worty It's a battle between him and @adrienf_ 🤪
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @0xLupin — 2026-11-25 16:58 UTC (2026-11-25 17:58 WAT)
+
+- URL: https://x.com/0xLupin/status/2125635162067312766
+- Metrics (at fetch): bookmark 1, impression 1846, like 30, quote 0, reply 1, retweet 1
+
+> You won’t believe how many amazing memes there is in our Slack channel 😂 https://twitter.com/depi_/status/2125615727256457359
+
+**Links in post:** https://twitter.com/depi_/status/2125615727256457359
+
+**Quoted post (full text):**
+
+    #### Quoted post — @depi_ — 2026-11-25 15:40 UTC (2026-11-25 16:40 WAT)
+    
+    - URL: https://x.com/depi_/status/2125615727256457359
+    - Metrics (at fetch): bookmark 1, impression 1860, like 20, quote 1, reply 1, repost 5
+    
+    > Find someone who looks at you the way @_Worty  looks at an npm token with publish permissions 🩵 [pic.x.com/HHBma9UhYf]
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HX-0H-0XoAAhLIB.jpg — no alt text provided by author
+    
+
+
+### Post — @depi_ — 2026-11-26 09:26 UTC (2026-11-26 10:26 WAT)
+
+- URL: https://x.com/depi_/status/2125883997259497848
+- Metrics (at fetch): bookmark 0, impression 35, like 2, quote 0, reply 0, repost 0
+
+> @Wlayzz @0xLupin @_Worty It's a battle between him and @adrienf_ 🤪
+
+
+---
+
+## 2026-11-25 · Post · Find someone who looks at you the way @_Worty  looks at an npm token with publish permissions 🩵 [pic
+
+
+### Post — @depi_ — 2026-11-25 15:40 UTC (2026-11-25 16:40 WAT)
+
+- URL: https://x.com/depi_/status/2125615727256457359
+- Metrics (at fetch): bookmark 1, impression 1860, like 20, quote 1, reply 1, repost 5
+
+> Find someone who looks at you the way @_Worty  looks at an npm token with publish permissions 🩵 [pic.x.com/HHBma9UhYf]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX-0H-0XoAAhLIB.jpg — no alt text provided by author
 
 
 ---
@@ -148,12 +202,3 @@ Tags (automatic): RCE, Dependency confusion / supply chain
 - Metrics (at fetch): bookmark 18, impression 1141, like 28, quote 0, reply 0, retweet 8
 
 > https://t.co/H5EWFNlDOh
-
-### Post — @depi_ — 2026-11-25 15:40 UTC
-
-- URL: https://x.com/depi_/status/2125615727256457359
-- Metrics (at fetch): bookmark 0, impression 1176, like 16, quote 1, reply 1, retweet 4
-- Media: 1 photo (https://pbs.twimg.com/media/HX-0H-0XoAAhLIB.jpg; not transcribed)
-
-> Find someone who looks at you the way @_Worty  looks at an npm token with publish permissions 🩵
-

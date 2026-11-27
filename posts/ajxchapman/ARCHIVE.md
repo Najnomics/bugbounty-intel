@@ -1,6 +1,6 @@
 # @ajxchapman — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 297
 - Conversations/threads: 202
@@ -703,9 +703,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1878837020 — 2024-10-09 18:44 UTC (2024-10-09 19:44 WAT)
+    #### Quoted post — @codingo_ — 2024-10-09 18:44 UTC (2024-10-09 19:44 WAT)
     
-    - URL: https://x.com/1878837020/status/1844086562226884750
+    - URL: https://x.com/codingo_/status/1844086562226884750
     - Metrics (at fetch): bookmark 17, impression 55184, like 136, quote 5, reply 18, retweet 9
     
     > I appreciate the tags here - this user was was not permanently banned, but has received a one-year ban after accumulating nine infractions, not just one, over multiple customers https://twitter.com/golu_369/status/1843639780556583122
@@ -941,9 +941,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @44606815 — 2024-05-25 23:42 UTC (2024-05-26 00:42 WAT)
+    #### Quoted post — @rebane2001 — 2024-05-25 23:42 UTC (2024-05-26 00:42 WAT)
     
-    - URL: https://x.com/44606815/status/1794514468040261978
+    - URL: https://x.com/rebane2001/status/1794514468040261978
     - Metrics (at fetch): not returned
     
     > just finished a new blogpost on how i exploited the V8 javascript engine at a CTF!
@@ -1587,9 +1587,9 @@ Tags (automatic): XSS, Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @961961458346135552 — 2023-11-05 20:09 UTC (2023-11-05 21:09 WAT)
+    #### Quoted post — @InsiderPhD — 2023-11-05 20:09 UTC (2023-11-05 21:09 WAT)
     
-    - URL: https://x.com/961961458346135552/status/1721258529854529732
+    - URL: https://x.com/InsiderPhD/status/1721258529854529732
     - Metrics (at fetch): bookmark 1, impression 10649, like 5, quote 2, reply 3, retweet 0
     
     > @adrien_jeanneau @joaxcar Sure, I’d be fine with: “Hello whilst the CVSS for this vulnerability suggests a high, after some internal investigation there are a number of factors that reduce the impact for us. Specifically x, y and z. For that reason we can only reward at the medium level…”
@@ -2278,9 +2278,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1602746592 — 2023-06-12 20:12 UTC (2023-06-12 21:12 WAT)
+    #### Quoted post — @GitHubSecurity — 2023-06-12 20:12 UTC (2023-06-12 21:12 WAT)
     
-    - URL: https://x.com/1602746592/status/1668350571378769920
+    - URL: https://x.com/GitHubSecurity/status/1668350571378769920
     - Metrics (at fetch): bookmark 27, impression 102424, like 144, quote 2, reply 4, retweet 33
     
     > Introducing @github's revamped VIP bug bounty program! Check out the perks of being a Hacktocat and how you can earn an invite: https://t.co/ZlRdl5LH7X
@@ -2303,9 +2303,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3122875095 — 2023-06-02 10:51 UTC (2023-06-02 11:51 WAT)
+    #### Quoted post — @_JohnHammond — 2023-06-02 10:51 UTC (2023-06-02 11:51 WAT)
     
-    - URL: https://x.com/3122875095/status/1664585595203772419
+    - URL: https://x.com/_JohnHammond/status/1664585595203772419
     - Metrics (at fetch): not returned
     
     > Okay I'm down a rabbit hole but I'm wracking my brain on this, desperately wanting to figure out how the #MOVEit exploit comes together.
@@ -2341,9 +2341,9 @@ Tags (automatic): SSRF
 
 **Quoted post (full text):**
 
-    #### Quoted post — @736615159653924864 — 2023-04-04 09:44 UTC (2023-04-04 10:44 WAT)
+    #### Quoted post — @intigriti — 2023-04-04 09:44 UTC (2023-04-04 10:44 WAT)
     
-    - URL: https://x.com/736615159653924864/status/1643187667914440710
+    - URL: https://x.com/intigriti/status/1643187667914440710
     - Metrics (at fetch): not returned
     
     > ⏰ It's CHALLENGE O'CLOCK!
@@ -2488,9 +2488,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @429002176 — 2022-09-25 18:00 UTC (2022-09-25 19:00 WAT)
+    #### Quoted post — @MrTuxracer — 2022-09-25 18:00 UTC (2022-09-25 19:00 WAT)
     
-    - URL: https://x.com/429002176/status/1574096580734377984
+    - URL: https://x.com/MrTuxracer/status/1574096580734377984
     - Metrics (at fetch): bookmark 11, impression 0, like 70, quote 3, reply 4, retweet 6
     
     > @Nutritionist_AP My secret: having savings to survive two years without having to find a single bug. This is a tremendous psychological effect 😊
@@ -2702,9 +2702,9 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @128484298 — 2021-12-27 13:36 UTC (2021-12-27 14:36 WAT)
+    #### Quoted post — @Dinosn — 2021-12-27 13:36 UTC (2021-12-27 14:36 WAT)
     
-    - URL: https://x.com/128484298/status/1475460520698384386
+    - URL: https://x.com/Dinosn/status/1475460520698384386
     - Metrics (at fetch): bookmark 16, impression 0, like 1337, quote 27, reply 42, retweet 211
     
     > Stop adding your yearly bug bounty sum, if you want to inspire people show them how you did it, not how much you gain from it.  Stay humble.
@@ -2774,9 +2774,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @881166992841080833 — 2021-10-03 10:59 UTC (2021-10-03 11:59 WAT)
+    #### Quoted post — @stokfredrik — 2021-10-03 10:59 UTC (2021-10-03 11:59 WAT)
     
-    - URL: https://x.com/881166992841080833/status/1444618197613924355
+    - URL: https://x.com/stokfredrik/status/1444618197613924355
     - Metrics (at fetch): bookmark 32, impression 0, like 395, quote 5, reply 17, retweet 74
     
     > Bugbounty is a marathon, not a sprint &amp; if you approach it with a pentest mindset, both in kind of bugs reported &amp; exploitation, you might set yourself up for failure.
@@ -3051,9 +3051,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @955512326718828544 — 2021-07-17 22:54 UTC (2021-07-17 23:54 WAT)
+    #### Quoted post — @ArchAngelDDay — 2021-07-17 22:54 UTC (2021-07-17 23:54 WAT)
     
-    - URL: https://x.com/955512326718828544/status/1416531839607480320
+    - URL: https://x.com/ArchAngelDDay/status/1416531839607480320
     - Metrics (at fetch): bookmark 41, impression 0, like 160, quote 7, reply 12, retweet 42
     
     > I've been on both the @hackerone program side and the #bugbounty hunter side of frustrating CVSS discussions, so I gave some thought into what I think is the root of many of the frustrations, and how they might be circumvented. Read my thoughts here: http://dday.us/2021/07/17/scalingbounties.html
@@ -3194,9 +3194,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @961961458346135552 — 2021-03-29 07:45 UTC (2021-03-29 08:45 WAT)
+    #### Quoted post — @InsiderPhD — 2021-03-29 07:45 UTC (2021-03-29 08:45 WAT)
     
-    - URL: https://x.com/961961458346135552/status/1376440383656357889
+    - URL: https://x.com/InsiderPhD/status/1376440383656357889
     - Metrics (at fetch): bookmark 6, impression 0, like 981, quote 12, reply 107, retweet 23
     
     > Big News: Happy to announce I have joined @Bugcrowd as an Application Security Engineer. I’ll be working on appeals with the existing team, so that means you’ll know that there’s a friendly face and fellow hunter on the other side! [pic.x.com/QOqfEzQfoD]
@@ -3291,9 +3291,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @56648500 — 2021-03-18 09:54 UTC (2021-03-18 10:54 WAT)
+    #### Quoted post — @gynvael — 2021-03-18 09:54 UTC (2021-03-18 10:54 WAT)
     
-    - URL: https://x.com/56648500/status/1372486438806298628
+    - URL: https://x.com/gynvael/status/1372486438806298628
     - Metrics (at fetch): bookmark 3, impression 0, like 91, quote 2, reply 10, retweet 18
     
     > So have bug bounty programs run by e.g. @Bugcrowd [1] and @Hacker0x01 [2] become a way to buy silence from security researchers? Pretty disappointing.
@@ -4170,9 +4170,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @83622966 — 2020-07-08 12:00 UTC (2020-07-08 13:00 WAT)
+    #### Quoted post — @gwendallecoguic — 2020-07-08 12:00 UTC (2020-07-08 13:00 WAT)
     
-    - URL: https://x.com/83622966/status/1280834255506079746
+    - URL: https://x.com/gwendallecoguic/status/1280834255506079746
     - Metrics (at fetch): bookmark 1, impression 0, like 39, quote 1, reply 8, retweet 3
     
     > I wonder if those big companies who make billions/year pay the platform fees, that would just make the shame bigger @Bugcrowd @caseyjohnellis @Dell #bugbounty #payyourbugs [pic.x.com/8nDUBk2xYW]
@@ -4279,9 +4279,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1602746592 — 2020-03-25 19:20 UTC (2020-03-25 20:20 WAT)
+    #### Quoted post — @GitHubSecurity — 2020-03-25 19:20 UTC (2020-03-25 20:20 WAT)
     
-    - URL: https://x.com/1602746592/status/1242894138753732608
+    - URL: https://x.com/GitHubSecurity/status/1242894138753732608
     - Metrics (at fetch): bookmark 8, impression 0, like 95, quote 2, reply 0, retweet 19
     
     > Six years of the GitHub Security Bug Bounty program https://github.blog/2020-03-25-six-years-of-the-github-security-bug-bounty-program/
@@ -4606,9 +4606,9 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @736615159653924864 — 2019-05-19 19:37 UTC (2019-05-19 20:37 WAT)
+    #### Quoted post — @intigriti — 2019-05-19 19:37 UTC (2019-05-19 20:37 WAT)
     
-    - URL: https://x.com/736615159653924864/status/1130195705048514561
+    - URL: https://x.com/intigriti/status/1130195705048514561
     - Metrics (at fetch): bookmark 0, impression 0, like 6, quote 1, reply 1, retweet 0
     
     > @ajxchapman @ScottMcGready @figjam @Random_Robbie Hi Alex, following your tweet we've updated our payment FAQ to be more clear. Thanks for your feedback. If you have any further questions or feedback, make sure to let us know! https://t.co/U507f51Uvm

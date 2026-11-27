@@ -1,6 +1,6 @@
 # @kobigurk — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 142
 - Conversations/threads: 124
@@ -74,9 +74,9 @@ Tags (automatic): ZK
 
 **Context — conversation root by another account:**
 
-#### Root post — @804029200315334656 — 2026-11-23 18:26 UTC (2026-11-23 19:26 WAT)
+#### Root post — @gakonst — 2026-11-23 18:26 UTC (2026-11-23 19:26 WAT)
 
-- URL: https://x.com/804029200315334656/status/2124932644454756602
+- URL: https://x.com/gakonst/status/2124932644454756602
 - Metrics (at fetch): bookmark 3, impression 5087, like 21, quote 0, reply 8, retweet 0
 
 > any voice cloning service i have tried FWIW completely fails at doing my accent properly, is there any voice cloner that works well for ESLs? would pay a lot for it
@@ -139,9 +139,9 @@ Tags (automatic): ZK
 
 **Context — conversation root by another account:**
 
-#### Root post — @969814171033378816 — 2026-11-23 03:02 UTC (2026-11-23 04:02 WAT)
+#### Root post — @adust09 — 2026-11-23 03:02 UTC (2026-11-23 04:02 WAT)
 
-- URL: https://x.com/969814171033378816/status/2124700134344691929
+- URL: https://x.com/adust09/status/2124700134344691929
 - Metrics (at fetch): bookmark 6, impression 839, like 14, quote 0, reply 1, repost 1
 
 > New post: Proving Rust code in Lean with Aeneas.
@@ -305,9 +305,9 @@ Tags (automatic): AI-assisted hunting
     
     **Quoted post (full text):**
     
-        #### Quoted post — @2072955966341914624 — 2026-11-19 09:11 UTC (2026-11-19 10:11 WAT)
+        #### Quoted post — @rotn256 — 2026-11-19 09:11 UTC (2026-11-19 10:11 WAT)
         
-        - URL: https://x.com/2072955966341914624/status/2123343338300428779
+        - URL: https://x.com/rotn256/status/2123343338300428779
         - Metrics (at fetch): bookmark 0, impression 752, like 10, quote 1, reply 0, retweet 2
         
         > Don't get the controversy, Astra 6.2 is a perfectly cromulent model. Its https://zk.golf improvements last 24 hours: [pic.x.com/6X1cKf1KSl]
@@ -353,9 +353,9 @@ Tags (automatic): ZK
 
 **Context — post being replied to:**
 
-#### Parent post — @977164339533832192 — 2026-11-19 13:53 UTC (2026-11-19 14:53 WAT)
+#### Parent post — @zeroknowledgefm — 2026-11-19 13:53 UTC (2026-11-19 14:53 WAT)
 
-- URL: https://x.com/977164339533832192/status/2123414274924269695
+- URL: https://x.com/zeroknowledgefm/status/2123414274924269695
 - Metrics (at fetch): bookmark 0, impression 113, like 1, quote 0, reply 0, retweet 0
 
 > Hear the full episode on zkGolf and Clean with the @zksecurityXYZ team (and some of our co-hosts): @g_dellimmagine, Mathias Hall-Andersen, @kobigurk and @nico_mnbl 
@@ -393,9 +393,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2072955966341914624 — 2026-11-19 09:11 UTC (2026-11-19 10:11 WAT)
+    #### Quoted post — @rotn256 — 2026-11-19 09:11 UTC (2026-11-19 10:11 WAT)
     
-    - URL: https://x.com/2072955966341914624/status/2123343338300428779
+    - URL: https://x.com/rotn256/status/2123343338300428779
     - Metrics (at fetch): bookmark 0, impression 752, like 10, quote 1, reply 0, retweet 2
     
     > Don't get the controversy, Astra 6.2 is a perfectly cromulent model. Its https://zk.golf improvements last 24 hours: [pic.x.com/6X1cKf1KSl]
@@ -427,9 +427,9 @@ Tags (automatic): ZK
 
 **Context — post being replied to:**
 
-#### Parent post — @1359512713886638088 — 2026-11-13 10:40 UTC (2026-11-13 11:40 WAT)
+#### Parent post — @mitschabaude — 2026-11-13 10:40 UTC (2026-11-13 11:40 WAT)
 
-- URL: https://x.com/1359512713886638088/status/2121191435420520562
+- URL: https://x.com/mitschabaude/status/2121191435420520562
 - Metrics (at fetch): bookmark 4, impression 865, like 8, quote 0, reply 3, retweet 0
 
 > True but one nuance is that being fully AI psychotic tends to make your work *less* ambitious, as agents will always try to descope / estimate work in weeks that takes hours / argue for a half-assed "realistic" roadmap.
@@ -1253,9 +1253,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1740207766445187072 — 2024-04-23 13:41 UTC (2024-04-23 14:41 WAT)
+    #### Quoted post — @__geometrydev__ — 2024-04-23 13:41 UTC (2024-04-23 14:41 WAT)
     
-    - URL: https://x.com/1740207766445187072/status/1782766679539556768
+    - URL: https://x.com/__geometrydev__/status/1782766679539556768
     - Metrics (at fetch): bookmark 11, impression 42868, like 159, quote 7, reply 3, retweet 33
     
     > We are happy to announce our collaboration with @MinaFoundation and @CelestiaOrg.
@@ -1949,9 +1949,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1549020536197480448 — 2023-05-11 13:01 UTC (2023-05-11 14:01 WAT)
+    #### Quoted post — @Ingo_zk — 2023-05-11 13:01 UTC (2023-05-11 14:01 WAT)
     
-    - URL: https://x.com/1549020536197480448/status/1656645811994755072
+    - URL: https://x.com/Ingo_zk/status/1656645811994755072
     - Metrics (at fetch): not returned
     
     > 🎙️Twitter Space happening soon - 2pm GMT today🎙️
@@ -2064,9 +2064,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1240120646304247819 — 2023-03-06 16:40 UTC (2023-03-06 17:40 WAT)
+    #### Quoted post — @dan_tehrani — 2023-03-06 16:40 UTC (2023-03-06 17:40 WAT)
     
-    - URL: https://x.com/1240120646304247819/status/1632783117743452161
+    - URL: https://x.com/dan_tehrani/status/1632783117743452161
     - Metrics (at fetch): bookmark 3, impression 7677, like 32, quote 4, reply 0, retweet 0
     
     > Will be speaking about the client-side zk research we’ve been doing at @personae_labs at @zeroknowledgefm zkSummit9!
@@ -2141,9 +2141,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @977164339533832192 — 2022-12-01 15:52 UTC (2022-12-01 16:52 WAT)
+    #### Quoted post — @zeroknowledgefm — 2022-12-01 15:52 UTC (2022-12-01 16:52 WAT)
     
-    - URL: https://x.com/977164339533832192/status/1598344211803217920
+    - URL: https://x.com/zeroknowledgefm/status/1598344211803217920
     - Metrics (at fetch): bookmark 11, impression 0, like 67, quote 7, reply 7, retweet 15
     
     > This week, @AnnaRRose and @kobigurk chat with @danboneh. This episode covers open problems in ZK such as how to generate ZK proofs on large amounts of data, private DAO treasuries, onchain trusted setups, proof of reserve schemes and more! 
@@ -2301,9 +2301,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1549020536197480448 — 2022-09-22 19:35 UTC (2022-09-22 20:35 WAT)
+    #### Quoted post — @Ingo_zk — 2022-09-22 19:35 UTC (2022-09-22 20:35 WAT)
     
-    - URL: https://x.com/1549020536197480448/status/1573033153672921093
+    - URL: https://x.com/Ingo_zk/status/1573033153672921093
     - Metrics (at fetch): bookmark 65, impression 0, like 168, quote 5, reply 9, retweet 42
     
     > 😇New Paper🦁
@@ -2579,9 +2579,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1435911698624434180 — 2022-03-01 16:23 UTC (2022-03-01 17:23 WAT)
+    #### Quoted post — @__zkhack__ — 2022-03-01 16:23 UTC (2022-03-01 17:23 WAT)
     
-    - URL: https://x.com/1435911698624434180/status/1498695517458649090
+    - URL: https://x.com/__zkhack__/status/1498695517458649090
     - Metrics (at fetch): not returned
     
     > We are LIVE! 🚨
@@ -2615,9 +2615,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1463071986515599362 — 2021-12-27 12:57 UTC (2021-12-27 13:57 WAT)
+    #### Quoted post — @Starknet — 2021-12-27 12:57 UTC (2021-12-27 13:57 WAT)
     
-    - URL: https://x.com/1463071986515599362/status/1475450642764288006
+    - URL: https://x.com/Starknet/status/1475450642764288006
     - Metrics (at fetch): not returned
     
     > Mark your calendars✨:
@@ -2655,9 +2655,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @804029200315334656 — 2021-12-22 02:20 UTC (2021-12-22 03:20 WAT)
+    #### Quoted post — @gakonst — 2021-12-22 02:20 UTC (2021-12-22 03:20 WAT)
     
-    - URL: https://x.com/804029200315334656/status/1473478436991741967
+    - URL: https://x.com/gakonst/status/1473478436991741967
     - Metrics (at fetch): not returned
     
     > IMO problem is that there's too many junior tutorials (any dev can learn basic Solidity syntax in a weekend) vs more advanced ones for senior ppl, some examples being gas optimizations, patterns for vault/staking/governance/asset transfer contracts, fuzzing/testing workflows etc. https://twitter.com/ViktorBunin/status/1473474704740655106
@@ -2702,9 +2702,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @977164339533832192 — 2021-11-18 17:52 UTC (2021-11-18 18:52 WAT)
+    #### Quoted post — @zeroknowledgefm — 2021-11-18 17:52 UTC (2021-11-18 18:52 WAT)
     
-    - URL: https://x.com/977164339533832192/status/1461391984686510093
+    - URL: https://x.com/zeroknowledgefm/status/1461391984686510093
     - Metrics (at fetch): not returned
     
     > Coming up next week as part of ZK Hack - we dig into Aztec Connect with the team form @aztecnetwork!! 
@@ -2789,9 +2789,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1435911698624434180 — 2021-09-15 14:26 UTC (2021-09-15 15:26 WAT)
+    #### Quoted post — @__zkhack__ — 2021-09-15 14:26 UTC (2021-09-15 15:26 WAT)
     
-    - URL: https://x.com/1435911698624434180/status/1438147237918482439
+    - URL: https://x.com/__zkhack__/status/1438147237918482439
     - Metrics (at fetch): not returned
     
     > We are excited to launch ZK Hack, starting on 26th October! 
@@ -2826,9 +2826,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1060338957869858816 — 2021-08-28 17:56 UTC (2021-08-28 18:56 WAT)
+    #### Quoted post — @gubsheep — 2021-08-28 17:56 UTC (2021-08-28 18:56 WAT)
     
-    - URL: https://x.com/1060338957869858816/status/1431677199518687232
+    - URL: https://x.com/gubsheep/status/1431677199518687232
     - Metrics (at fetch): not returned
     
     > zk application R&amp;D is important bc the application layer of eth needs innovation at the level of *new tech*. 
@@ -2943,9 +2943,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1303067320856670210 — 2021-07-07 21:27 UTC (2021-07-07 22:27 WAT)
+    #### Quoted post — @arkworks_rs — 2021-07-07 21:27 UTC (2021-07-07 22:27 WAT)
     
-    - URL: https://x.com/1303067320856670210/status/1412886038272352256
+    - URL: https://x.com/arkworks_rs/status/1412886038272352256
     - Metrics (at fetch): not returned
     
     > arkworks users, there was a soundness bug in `mul_by_inverse` in ark-r1cs-std from v0.2.0 to v0.3.0. It is now fixed in v0.3.1. See https://github.com/arkworks-rs/r1cs-std/pull/70
@@ -3041,9 +3041,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @801236832 — 2019-09-08 22:24 UTC (2019-09-08 23:24 WAT)
+    #### Quoted post — @hudsonjameson — 2019-09-08 22:24 UTC (2019-09-08 23:24 WAT)
     
-    - URL: https://x.com/801236832/status/1170825166802292742
+    - URL: https://x.com/hudsonjameson/status/1170825166802292742
     - Metrics (at fetch): not returned
     
     > @badcryptobitch @zooko @greerso @StarkWareLtd @kobigurk can maybe answer the comments from @zooko @badcryptobitch?

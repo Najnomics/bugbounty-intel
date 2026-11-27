@@ -1,11 +1,406 @@
 # @immunefi — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 66
-- Conversations/threads: 61
+- Posts in this file: 83
+- Conversations/threads: 72
 - Oldest post captured: 2021-09-16
-- Newest post captured: 2026-11-24
+- Newest post captured: 2026-11-26
+
+
+---
+
+## 2026-11-26 · Post · Security researcher @taichiaudit had the highest accuracy rate among researchers with 3+ chief findi
+
+
+### Post — @immunefi — 2026-11-26 17:18 UTC (2026-11-26 18:18 WAT)
+
+- URL: https://x.com/immunefi/status/2126002554115072500
+- Metrics (at fetch): bookmark 4, impression 2464, like 39, quote 0, reply 5, repost 5
+
+> Security researcher @taichiaudit had the highest accuracy rate among researchers with 3+ chief findings in the @plether_fi Audit Competition 🔥
+>
+> They submitted 5 reports, and 3 of them were valid chief findings (60%), including 1 Critical and 1 High.
+>
+> Congrats, @taichiaudit 🎉 [pic.x.com/su6R1Ih005]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HYEUDmwa0AA4RJj.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-26 · Thread · Before mainnet, @plether_fi put its code in front of our entire community.
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @immunefi — 2026-11-26 13:18 UTC (2026-11-26 14:18 WAT)
+
+- URL: https://x.com/immunefi/status/2125942235607011816
+- Metrics (at fetch): bookmark 17, impression 5682, like 70, quote 6, reply 4, repost 11
+
+> Before mainnet, @plether_fi put its code in front of our entire community.
+>
+> 310 security researchers stepped up to take on the challenge.
+>
+> 📝 1,391 reports
+> 🐛 63 unique bugs
+> 🔴 18 unique Criticals
+> 🔍 Reports on 90% of code
+>
+> All found before real funds were at risk.
+>
+> Top 5 SRs: @xdeltabear @Omisanin0 @Web3_Vinay @MclovinDev @dj_capybara
+>
+> Watch the 14 days, hour by hour 👇
+
+**Media:**
+- video: https://pbs.twimg.com/amplify_video_thumb/2125942207257714688/img/-VEPuAM4BjJElqGz.jpg — no alt text provided by author
+
+
+### Thread part 2 — @immunefi — 2026-11-26 13:18 UTC (2026-11-26 14:18 WAT)
+
+- URL: https://x.com/immunefi/status/2125942253080412501
+- Metrics (at fetch): bookmark 0, impression 866, like 16, quote 1, reply 1, repost 1
+
+> Leaderboard:
+>
+> 🥇 deltabear: $21,526
+> 🥈 Omisanin0: $11,250
+> 🥉 Web3Vinay: $9,150
+> 🎖️ Mclovin: $4,459
+> 🎖️ Unineko: $4,270
+>
+> Good job to everyone who competed 🎉
+>
+> Full leaderboard and competition details: https://immunefi.com/audit-competition/plether/leaderboard/#top [pic.x.com/gVuNN8Spvy]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HYDdNqpaUAAHoIg.png — no alt text provided by author
+
+**Links in post:** https://immunefi.com/audit-competition/plether/leaderboard/#top
+
+
+### Thread part 3 — @immunefi — 2026-11-26 13:18 UTC (2026-11-26 14:18 WAT)
+
+- URL: https://x.com/immunefi/status/2125942265822753279
+- Metrics (at fetch): bookmark 0, impression 506, like 9, quote 0, reply 0, repost 1
+
+> Run an audit competition before your launch: https://immunefi.com/audit-competitions/
+
+**Links in post:** https://immunefi.com/audit-competitions/
+
+
+### Thread part 4 — @immunefi — 2026-11-26 15:15 UTC (2026-11-26 16:15 WAT)
+
+- URL: https://x.com/immunefi/status/2125971621508685947
+- Metrics (at fetch): bookmark 0, impression 98, like 2, quote 0, reply 0, repost 0
+
+> @plether_fi 🫡
+
+
+---
+
+## 2026-11-26 · Reply · @maigadohcrypto doing our part 🫡
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @maigadohcrypto — 2026-11-25 17:30 UTC (2026-11-25 18:30 WAT)
+
+- URL: https://x.com/maigadohcrypto/status/2125643379333624231
+- Metrics (at fetch): bookmark 0, impression 1217, like 37, quote 0, reply 3, retweet 2
+
+> Honestly immunefi cooked with credit, when you submit a valid issue, even its a duplicate  of another valid issue, you get your credit back, this is massive👍👍 https://twitter.com/immunefi/status/2125574231727730708
+
+**Links in post:** https://twitter.com/immunefi/status/2125574231727730708
+
+**Quoted post (full text):**
+
+    #### Quoted post — @immunefi — 2026-11-25 12:56 UTC (2026-11-25 13:56 WAT)
+    
+    - URL: https://x.com/immunefi/status/2125574231727730708
+    - Metrics (at fetch): bookmark 7, impression 4005, like 56, quote 1, reply 4, repost 8
+    
+    > When submission fees began in March, one complaint came up more than any other.
+    >
+    > You'd find a valid bug, pay to submit it, and lose the fee because someone else reported it first. Sometimes the protocol already knew about the bug privately and couldn't disclose it until a fix shipped. Either way, the work was valid, it wasn't your fault, and the fee was gone.
+    >
+    > Researchers asked us to fix this from day one. Fixing it fairly meant knowing exactly which reports deserved credit, so we built the tooling to find out. In April, we started labeling duplicates of valid reports. In July, we started tracking private known issues. In September, we started showing the original report behind every duplicate closure.
+    >
+    > On November 2, we launched credits. Every fee-paid valid report since fees began earns credits equal to the fee, including duplicates, private known issues and mediations decided in your favor.
+    >
+    > Three weeks later:
+    >
+    > Nearly 900 researchers have now earned credits for valid work.
+    >
+    > mrcryptocurrency, a junior whitehat, joined @immunefi in November. He spent 100 credits to submit a bug, and four days later he was paid his first bounty, $10,000, and earned 100 credits on top of it.
+    >
+    > Keep hunting. Valid work earns credits.
+    
+    **Media:**
+    - photo: https://pbs.twimg.com/media/HX-Of5zbQAADfIg.jpg — no alt text provided by author
+    
+
+
+### Post — @immunefi — 2026-11-26 10:18 UTC (2026-11-26 11:18 WAT)
+
+- URL: https://x.com/immunefi/status/2125897016605851763
+- Metrics (at fetch): bookmark 0, impression 150, like 1, quote 0, reply 0, repost 0
+
+> @maigadohcrypto doing our part 🫡
+
+
+---
+
+## 2026-11-26 · Thread · $25,000 from one report, on a program picked with Studio Signals.
+
+
+Tags (automatic): AI-assisted hunting, Platform: Immunefi
+
+
+### Post — @immunefi — 2026-11-26 10:00 UTC (2026-11-26 11:00 WAT)
+
+- URL: https://x.com/immunefi/status/2125892386970915281
+- Metrics (at fetch): bookmark 6, impression 2750, like 27, quote 0, reply 1, repost 3
+
+> $25,000 from one report, on a program picked with Studio Signals.
+>
+> "Thanks to Signal, I found a project that had a pretty high Accepted-to-Closed ratio and also offered a good reward for the network shutdown impact, which is what I mainly target in bug bounties. That's how I managed to earn $25,000. If I didn't have access to Signal, I definitely wouldn't have reported this bug." @Ziusz
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HYCv3AkaYAAAENb.jpg — no alt text provided by author
+
+
+### Thread part 2 — @immunefi — 2026-11-26 10:00 UTC (2026-11-26 11:00 WAT)
+
+- URL: https://x.com/immunefi/status/2125892400371601704
+- Metrics (at fetch): bookmark 0, impression 482, like 3, quote 0, reply 0, repost 0
+
+> Studio is live, invite-only. Ask a researcher you know who's already in Studio for an invite, or request one at https://studio.immunefi.com
+>
+> Learn more about Studio: https://immunefi.com/blog/company-announcement/immunefi-studio-the-all-in-one-research-suite-for-the-ai-era/
+
+**Links in post:** https://studio.immunefi.com, https://immunefi.com/blog/company-announcement/immunefi-studio-the-all-in-one-research-suite-for-the-ai-era/
+
+
+---
+
+## 2026-11-25 · Thread · The @plether_fi audit competition results drop tomorrow!
+
+
+### Post — @immunefi — 2026-11-25 17:15 UTC (2026-11-25 18:15 WAT)
+
+- URL: https://x.com/immunefi/status/2125639417796948184
+- Metrics (at fetch): bookmark 5, impression 3581, like 60, quote 2, reply 4, repost 2
+
+> The @plether_fi audit competition results drop tomorrow!
+>
+> Stay tuned 🚀 [pic.x.com/9gRgl481c6]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX_JyTkbwAA9JLD.jpg — no alt text provided by author
+
+
+### Thread part 2 — @immunefi — 2026-11-26 09:59 UTC (2026-11-26 10:59 WAT)
+
+- URL: https://x.com/immunefi/status/2125892216681804234
+- Metrics (at fetch): bookmark 0, impression 82, like 1, quote 0, reply 0, repost 0
+
+> @xKeywordx @plether_fi 🫶
+
+
+---
+
+## 2026-11-26 · Reply · @bryan_johnson intern agrees
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @bryan_johnson — 2026-11-25 18:44 UTC (2026-11-25 19:44 WAT)
+
+- URL: https://x.com/bryan_johnson/status/2125661798074360005
+- Metrics (at fetch): bookmark 117, impression 67637, like 1332, quote 18, reply 40, retweet 61
+
+> Sleep deprivation is a security risk. 
+>
+> Losing an hour of sleep during spring daylight saving time increased phishing click rates by 13% across 11,218 people. [pic.x.com/YSun2gYAGG]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX_QQUJbsAAZ91j.png — no alt text provided by author
+
+
+### Post — @immunefi — 2026-11-26 09:58 UTC (2026-11-26 10:58 WAT)
+
+- URL: https://x.com/immunefi/status/2125892002646544617
+- Metrics (at fetch): bookmark 0, impression 204, like 3, quote 0, reply 0, repost 0
+
+> @bryan_johnson intern agrees
+
+
+---
+
+## 2026-11-25 · Post · $125,000 just got unlocked in the @base Everest Audit Competition 🔥
+
+
+Tags (automatic): Smart contract / DeFi, Platform: Immunefi
+
+
+### Post — @immunefi — 2026-11-25 18:30 UTC (2026-11-25 19:30 WAT)
+
+- URL: https://x.com/immunefi/status/2125658301077880929
+- Metrics (at fetch): bookmark 19, impression 5893, like 79, quote 1, reply 6, repost 7
+
+> $125,000 just got unlocked in the @base Everest Audit Competition 🔥
+>
+> Researchers have found two unique Highs, and the pool has jumped to $125K.
+>
+> The other $125,000 is still on the table, and nobody has claimed it.
+>
+> One Critical is all it takes to unlock the full $250K pool!
+>
+> 20 unique findings so far:
+>
+> ✦ 2 High
+> ✦ 9 Medium
+> ✦ 8 Low
+> ✦ 1 Insight
+>
+> That's 0 Criticals across 135K+ lines of Rust and Solidity.
+>
+> Less than 6 days left. Will you be the one to find it?
+> https://immunefi.com/audit-competition/audit-comp-base-everest/information/
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX_a9cUaUAAMuCX.jpg — no alt text provided by author
+
+**Links in post:** https://immunefi.com/audit-competition/audit-comp-base-everest/information/
+
+
+---
+
+## 2026-11-25 · Thread · The FBI warns that an AI hacking tool has taken some attackers from first contact to privileged acce
+
+
+Tags (automatic): SQL injection, SSRF, Memory corruption / native, AI-assisted hunting
+
+
+### Post — @immunefi — 2026-11-25 15:43 UTC (2026-11-25 16:43 WAT)
+
+- URL: https://x.com/immunefi/status/2125616255533306197
+- Metrics (at fetch): bookmark 15, impression 3487, like 47, quote 0, reply 9, repost 2
+
+> The FBI warns that an AI hacking tool has taken some attackers from first contact to privileged access in under 3 hours.
+>
+> The speed is alarming, but the bigger change is who can now do this. According to the FBI, the tool lets attackers with minimal technical expertise run complex campaigns against multiple targets at once. Work that used to require a team of skilled hackers is increasingly automated.
+>
+> It also isn't going after the obvious targets. The FBI says it excels at finding the systems that get the least security attention: partner portals, mobile backends, legacy services and third-party integrations. The bugs it exploited weren't exotic either: SQL injection, SSRF, missing authentication on APIs, and admin passwords hardcoded in JavaScript.
+>
+> But AI hasn't made fixing bugs as cheap as finding them. An attacker only has to exploit a bug. A defender has to assess it, patch it, test the fix and ship it without breaking anything. When bugs are found faster than teams can fix them, you get what we've been calling the vulnerability apocalypse.
+>
+> For years, companies could get away with an annual penetration test, a few security reviews, and patching vulnerabilities as they became public. That model depended on two things: finding vulnerabilities being slow and difficult, and attackers sticking to the systems you had already reviewed. AI is removing both.
+>
+> Crypto learned early that if there's money sitting in software, someone will spend every waking hour trying to take it. That's why the industry built a security culture around audits, bug bounties, and financially incentivized security researchers who get paid only for real, exploitable bugs, so teams spend their limited fix time on what actually matters.
+>
+> The rest of software needs to start thinking the same way.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX-0uDabgAAIgFt.jpg — no alt text provided by author
+
+
+### Thread part 2 — @immunefi — 2026-11-25 15:43 UTC (2026-11-25 16:43 WAT)
+
+- URL: https://x.com/immunefi/status/2125616267570933968
+- Metrics (at fetch): bookmark 1, impression 573, like 3, quote 0, reply 0, repost 0
+
+> Full report: https://www.ic3.gov/CSA/2026/261113.pdf
+>
+> Vulnerability Apocalypse blog: https://mitchellamador.com/p/the-vulnerability-apocalypse
+
+**Links in post:** https://www.ic3.gov/CSA/2026/261113.pdf, https://mitchellamador.com/p/the-vulnerability-apocalypse
+
+
+---
+
+## 2026-11-25 · Post · When submission fees began in March, one complaint came up more than any other.
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @immunefi — 2026-11-25 12:56 UTC (2026-11-25 13:56 WAT)
+
+- URL: https://x.com/immunefi/status/2125574231727730708
+- Metrics (at fetch): bookmark 7, impression 4005, like 56, quote 1, reply 4, repost 8
+
+> When submission fees began in March, one complaint came up more than any other.
+>
+> You'd find a valid bug, pay to submit it, and lose the fee because someone else reported it first. Sometimes the protocol already knew about the bug privately and couldn't disclose it until a fix shipped. Either way, the work was valid, it wasn't your fault, and the fee was gone.
+>
+> Researchers asked us to fix this from day one. Fixing it fairly meant knowing exactly which reports deserved credit, so we built the tooling to find out. In April, we started labeling duplicates of valid reports. In July, we started tracking private known issues. In September, we started showing the original report behind every duplicate closure.
+>
+> On November 2, we launched credits. Every fee-paid valid report since fees began earns credits equal to the fee, including duplicates, private known issues and mediations decided in your favor.
+>
+> Three weeks later:
+>
+> Nearly 900 researchers have now earned credits for valid work.
+>
+> mrcryptocurrency, a junior whitehat, joined @immunefi in November. He spent 100 credits to submit a bug, and four days later he was paid his first bounty, $10,000, and earned 100 credits on top of it.
+>
+> Keep hunting. Valid work earns credits.
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX-Of5zbQAADfIg.jpg — no alt text provided by author
+
+
+---
+
+## 2026-11-25 · Reply · @asyncmarcin1337 @eonix_studio 👀👀
+
+
+**Context — post being replied to:**
+
+#### Parent post — @asyncmarcin1337 — 2026-11-25 11:32 UTC (2026-11-25 12:32 WAT)
+
+- URL: https://x.com/asyncmarcin1337/status/2125553318491537909
+- Metrics (at fetch): bookmark 0, impression 39, like 1, quote 0, reply 1, retweet 0
+
+> @eonix_studio @immunefi This kind of info you can get by using Studio👀 let me know if you need an invite
+
+
+### Post — @immunefi — 2026-11-25 12:16 UTC (2026-11-25 13:16 WAT)
+
+- URL: https://x.com/immunefi/status/2125564365420040401
+- Metrics (at fetch): bookmark 0, impression 89, like 1, quote 0, reply 0, repost 0
+
+> @asyncmarcin1337 @eonix_studio 👀👀
+
+
+---
+
+## 2026-11-25 · Post · Someone just got paid $12,500 for finding a bug in a blockchain itself.
+
+
+Tags (automatic): Blockchain / L1-L2 / bridge, Platform: Immunefi
+
+
+### Post — @immunefi — 2026-11-25 10:04 UTC (2026-11-25 11:04 WAT)
+
+- URL: https://x.com/immunefi/status/2125530943352193378
+- Metrics (at fetch): bookmark 14, impression 4249, like 73, quote 0, reply 7, repost 3
+
+> Someone just got paid $12,500 for finding a bug in a blockchain itself.
+>
+> @gzeon is an Immunefi All Star, 6th on the 90-day leaderboard and 20th for 2026.
+>
+> So far in 2026, Immunefi researchers have had 330 high-severity blockchain reports paid, found by 150 different researchers. 67 of them have found two or more. gzeon has 7 🚀
+>
+> congrats ser!
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX9nIOjbwAA9DfE.jpg — no alt text provided by author
 
 
 ---
@@ -48,9 +443,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Context — post being replied to:**
 
-#### Parent post — @1695353782639480832 — 2026-11-23 21:11 UTC (2026-11-23 22:11 WAT)
+#### Parent post — @HolyDevoti0n — 2026-11-23 21:11 UTC (2026-11-23 22:11 WAT)
 
-- URL: https://x.com/1695353782639480832/status/2124974261358018838
+- URL: https://x.com/HolyDevoti0n/status/2124974261358018838
 - Metrics (at fetch): bookmark 0, impression 631, like 19, quote 0, reply 3, retweet 0
 
 > Joining now. Let me see what I can do :D https://t.co/d2zL3o6pe9
@@ -126,9 +521,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Context — post being replied to:**
 
-#### Parent post — @1639057579241267220 — 2026-11-24 07:59 UTC (2026-11-24 08:59 WAT)
+#### Parent post — @Yurikk28 — 2026-11-24 07:59 UTC (2026-11-24 08:59 WAT)
 
-- URL: https://x.com/1639057579241267220/status/2125137216574021996
+- URL: https://x.com/Yurikk28/status/2125137216574021996
 - Metrics (at fetch): bookmark 0, impression 380, like 9, quote 0, reply 2, retweet 1
 
 > Got 5 invites to @immunefi Studio 🔑
@@ -157,9 +552,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Context — post being replied to:**
 
-#### Parent post — @2055002642095501312 — 2026-11-24 08:39 UTC (2026-11-24 09:39 WAT)
+#### Parent post — @xdeltabear — 2026-11-24 08:39 UTC (2026-11-24 09:39 WAT)
 
-- URL: https://x.com/2055002642095501312/status/2125147156772532547
+- URL: https://x.com/xdeltabear/status/2125147156772532547
 - Metrics (at fetch): bookmark 0, impression 73, like 1, quote 0, reply 1, retweet 0
 
 > @gr99v33 @immunefi Or use this link for the invite:  https://t.co/F37wqLVzSk
@@ -180,9 +575,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Context — post being replied to:**
 
-#### Parent post — @2055002642095501312 — 2026-11-24 00:08 UTC (2026-11-24 01:08 WAT)
+#### Parent post — @xdeltabear — 2026-11-24 00:08 UTC (2026-11-24 01:08 WAT)
 
-- URL: https://x.com/2055002642095501312/status/2125018611626484061
+- URL: https://x.com/xdeltabear/status/2125018611626484061
 - Metrics (at fetch): bookmark 3, impression 1538, like 71, quote 0, reply 14, retweet 3
 
 > I just found a confirmed bug on @immunefi #immunefitribe https://t.co/t9Se4ZST6t
@@ -712,9 +1107,9 @@ Tags (automatic): Smart contract / DeFi, Memory corruption / native, AI-assisted
 
 **Context — conversation root by another account:**
 
-#### Root post — @1473075684 — 2026-11-16 14:35 UTC (2026-11-16 15:35 WAT)
+#### Root post — @Valistheaeth — 2026-11-16 14:35 UTC (2026-11-16 15:35 WAT)
 
-- URL: https://x.com/1473075684/status/2122337720101994511
+- URL: https://x.com/Valistheaeth/status/2122337720101994511
 - Metrics (at fetch): bookmark 2, impression 486, like 20, quote 0, reply 2, retweet 0
 
 > Ok Hold My Bear on that one ! https://twitter.com/immunefi/status/2122337400932520023
@@ -756,9 +1151,9 @@ Tags (automatic): Smart contract / DeFi, Memory corruption / native, AI-assisted
 
 **Context — conversation root by another account:**
 
-#### Root post — @1755914511163244544 — 2026-11-16 08:43 UTC (2026-11-16 09:43 WAT)
+#### Root post — @Abhan1041 — 2026-11-16 08:43 UTC (2026-11-16 09:43 WAT)
 
-- URL: https://x.com/1755914511163244544/status/2122249279205146948
+- URL: https://x.com/Abhan1041/status/2122249279205146948
 - Metrics (at fetch): bookmark 0, impression 983, like 38, quote 0, reply 9, retweet 1
 
 > I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=critical&status=confirmed&gifId=2&programType=audit-competition
@@ -1844,100 +2239,3 @@ Tags (automatic): Smart contract / DeFi, Platform: Immunefi
 > https://medium.com/immunefi/introducing-immunefis-luxury-hoodies-f9f9286520c7
 
 **Links in post:** https://medium.com/immunefi/introducing-immunefis-luxury-hoodies-f9f9286520c7
-
-### Post — @immunefi — 2026-11-25 10:04 UTC
-
-- URL: https://x.com/immunefi/status/2125530943352193378
-- Metrics (at fetch): bookmark 12, impression 3547, like 57, quote 0, reply 6, retweet 4
-- Media: 1 photo (https://pbs.twimg.com/media/HX9nIOjbwAA9DfE.jpg)
-
-> Someone just got paid $12,500 for finding a bug in a blockchain itself.
->
-> @gzeon is an Immunefi All Star, 6th on the 90-day leaderboard and 20th for 2026.
->
-> So far in 2026, Immunefi researchers have had 330 high-severity blockchain reports paid, found by 150 different researchers. 67 of them have found two or more. gzeon has 7 🚀
->
-> congrats ser!
-
-
-### Post — @immunefi — 2026-11-25 12:56 UTC
-
-- URL: https://x.com/immunefi/status/2125574231727730708
-- Metrics (at fetch): bookmark 6, impression 3205, like 54, quote 1, reply 4, retweet 9
-- Media: 1 photo (https://pbs.twimg.com/media/HX-Of5zbQAADfIg.jpg)
-
-> When submission fees began in March, one complaint came up more than any other.
->
-> You'd find a valid bug, pay to submit it, and lose the fee because someone else reported it first. Sometimes the protocol already knew about the bug privately and couldn't disclose it until a fix shipped. Either way, the work was valid, it wasn't your fault, and the fee was gone.
->
-> Researchers asked us to fix this from day one. Fixing it fairly meant knowing exactly which reports deserved credit, so we built the tooling to find out. In April, we started labeling duplicates of valid reports. In July, we started tracking private known issues. In September, we started showing the original report behind every duplicate closure.
->
-> On November 2, we launched credits. Every fee-paid valid report since fees began earns credits equal to the fee, including duplicates, private known issues and mediations decided in your favor.
->
-> Three weeks later:
->
-> Nearly 900 researchers have now earned credits for valid work.
->
-> mrcryptocurrency, a junior whitehat, joined @immunefi in November. He spent 100 credits to submit a bug, and four days later he was paid his first bounty, $10,000, and earned 100 credits on top of it.
->
-> Keep hunting. Valid work earns credits.
-
-
-### Post — @immunefi — 2026-11-25 15:43 UTC
-
-- URL: https://x.com/immunefi/status/2125616255533306197
-- Metrics (at fetch): bookmark 13, impression 2784, like 43, quote 0, reply 7, retweet 3
-- Media: 1 photo (https://pbs.twimg.com/media/HX-0uDabgAAIgFt.jpg)
-
-> The FBI warns that an AI hacking tool has taken some attackers from first contact to privileged access in under 3 hours.
->
-> The speed is alarming, but the bigger change is who can now do this. According to the FBI, the tool lets attackers with minimal technical expertise run complex campaigns against multiple targets at once. Work that used to require a team of skilled hackers is increasingly automated.
->
-> It also isn't going after the obvious targets. The FBI says it excels at finding the systems that get the least security attention: partner portals, mobile backends, legacy services and third-party integrations. The bugs it exploited weren't exotic either: SQL injection, SSRF, missing authentication on APIs, and admin passwords hardcoded in JavaScript.
->
-> But AI hasn't made fixing bugs as cheap as finding them. An attacker only has to exploit a bug. A defender has to assess it, patch it, test the fix and ship it without breaking anything. When bugs are found faster than teams can fix them, you get what we've been calling the vulnerability apocalypse.
->
-> For years, companies could get away with an annual penetration test, a few security reviews, and patching vulnerabilities as they became public. That model depended on two things: finding vulnerabilities being slow and difficult, and attackers sticking to the systems you had already reviewed. AI is removing both.
->
-> Crypto learned early that if there's money sitting in software, someone will spend every waking hour trying to take it. That's why the industry built a security culture around audits, bug bounties, and financially incentivized security researchers who get paid only for real, exploitable bugs, so teams spend their limited fix time on what actually matters.
->
-> The rest of software needs to start thinking the same way.
-
-
-### Post — @immunefi — 2026-11-25 18:30 UTC
-
-- URL: https://x.com/immunefi/status/2125658301077880929
-- Metrics (at fetch): bookmark 16, impression 4215, like 62, quote 1, reply 4, retweet 6
-- Media: 1 photo (https://pbs.twimg.com/media/HX_a9cUaUAAMuCX.jpg)
-
-> $125,000 just got unlocked in the @base Everest Audit Competition 🔥
->
-> Researchers have found two unique Highs, and the pool has jumped to $125K.
->
-> The other $125,000 is still on the table, and nobody has claimed it.
->
-> One Critical is all it takes to unlock the full $250K pool!
->
-> 20 unique findings so far:
->
-> ✦ 2 High
-> ✦ 9 Medium
-> ✦ 8 Low
-> ✦ 1 Insight
->
-> That's 0 Criticals across 135K+ lines of Rust and Solidity.
->
-> Less than 6 days left. Will you be the one to find it?
-> https://immunefi.com/audit-competition/audit-comp-base-everest/information/
-
-
-### Post — @immunefi — 2026-11-25 17:15 UTC
-
-- URL: https://x.com/immunefi/status/2125639417796948184
-- Metrics (at fetch): bookmark 4, impression 2689, like 50, quote 2, reply 4, retweet 3
-- Media: 1 photo (https://pbs.twimg.com/media/HX_JyTkbwAA9JLD.jpg)
-
-> The @plether_fi audit competition results drop tomorrow!
->
-> Stay tuned 🚀
-

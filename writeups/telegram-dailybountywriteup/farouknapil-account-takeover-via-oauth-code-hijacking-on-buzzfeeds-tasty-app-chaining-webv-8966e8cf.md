@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@farouknapil/account-takeover-via-oauth-code-hijacking-on-buzzfeeds-tasty-app-chaining-webview-deeplinks-e2ff9a77b773?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@farouknapil
-- **Fetched:** 2026-11-17
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 13539)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

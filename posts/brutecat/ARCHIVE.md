@@ -1,6 +1,6 @@
 # @brutecat — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 33
 - Conversations/threads: 32
@@ -29,9 +29,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14130366 — 2026-10-28 17:01 UTC (2026-10-28 18:01 WAT)
+    #### Quoted post — @sundarpichai — 2026-10-28 17:01 UTC (2026-10-28 18:01 WAT)
     
-    - URL: https://x.com/14130366/status/2115489219804352921
+    - URL: https://x.com/sundarpichai/status/2115489219804352921
     - Metrics (at fetch): bookmark 3984, impression 7006939, like 33980, quote 1920, reply 2066, retweet 2734
     
     > I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.
@@ -83,9 +83,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2026-11-21 18:01 UTC (2026-11-21 19:01 WAT)
+    #### Quoted post — @pwn_ai — 2026-11-21 18:01 UTC (2026-11-21 19:01 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/2124201550122041564
+    - URL: https://x.com/pwn_ai/status/2124201550122041564
     - Metrics (at fetch): bookmark 227, impression 131732, like 359, quote 56, reply 19, repost 69
     
     > Good morning, we are releasing Upload2Shell - where you upload a file and get a shell. 

@@ -1,6 +1,6 @@
 # @farazsth98 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 164
 - Conversations/threads: 129
@@ -92,9 +92,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Context — conversation root by another account:**
 
-#### Root post — @1195005701258506242 — 2026-11-23 17:18 UTC (2026-11-23 18:18 WAT)
+#### Root post — @v4bel — 2026-11-23 17:18 UTC (2026-11-23 18:18 WAT)
 
-- URL: https://x.com/1195005701258506242/status/2124915557569073502
+- URL: https://x.com/v4bel/status/2124915557569073502
 - Metrics (at fetch): bookmark 98, impression 65144, like 1598, quote 5, reply 12, retweet 51
 
 > Who slapped a 9.8 on this?
@@ -124,9 +124,9 @@ Tags (automatic): Memory corruption / native
 
 **Context — conversation root by another account:**
 
-#### Root post — @1635620960152829952 — 2026-11-18 15:30 UTC (2026-11-18 16:30 WAT)
+#### Root post — @roddux — 2026-11-18 15:30 UTC (2026-11-18 16:30 WAT)
 
-- URL: https://x.com/1635620960152829952/status/2123076402509402463
+- URL: https://x.com/roddux/status/2123076402509402463
 - Metrics (at fetch): bookmark 3, impression 2052, like 6, quote 0, reply 3, retweet 0
 
 > are we really getting nginx2shell and nginx2root on the same day? lol https://twitter.com/ikotas00/status/2123071157083754677
@@ -1821,9 +1821,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @993673575230996480 — 2024-06-19 15:30 UTC (2024-06-19 16:30 WAT)
+    #### Quoted post — @CertiK — 2024-06-19 15:30 UTC (2024-06-19 16:30 WAT)
     
-    - URL: https://x.com/993673575230996480/status/1803450205389402215
+    - URL: https://x.com/CertiK/status/1803450205389402215
     - Metrics (at fetch): bookmark 467, impression 1144997, like 2291, quote 404, reply 908, retweet 810
     
     > CertiK recently identified a series of critical vulnerabilities in @krakenfx exchange which could potentially lead to hundreds of millions of dollars in losses.
@@ -2083,9 +2083,9 @@ Tags (automatic): Platform: Immunefi
     
     **Quoted post (full text):**
     
-        #### Quoted post — @212962007 — 2024-02-13 17:20 UTC (2024-02-13 18:20 WAT)
+        #### Quoted post — @_fel1x — 2024-02-13 17:20 UTC (2024-02-13 18:20 WAT)
         
-        - URL: https://x.com/212962007/status/1757454744581222548
+        - URL: https://x.com/_fel1x/status/1757454744581222548
         - Metrics (at fetch): bookmark 15, impression 18457, like 82, quote 3, reply 3, retweet 15
         
         > First post on the Asymmetric Research blog. A critical bug in Polygon's Heimdall validator that put over $2B of crypto assets at risk. https://t.co/fg3HyCpYkm
@@ -2124,9 +2124,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @212962007 — 2024-02-13 17:20 UTC (2024-02-13 18:20 WAT)
+    #### Quoted post — @_fel1x — 2024-02-13 17:20 UTC (2024-02-13 18:20 WAT)
     
-    - URL: https://x.com/212962007/status/1757454744581222548
+    - URL: https://x.com/_fel1x/status/1757454744581222548
     - Metrics (at fetch): bookmark 15, impression 18457, like 82, quote 3, reply 3, retweet 15
     
     > First post on the Asymmetric Research blog. A critical bug in Polygon's Heimdall validator that put over $2B of crypto assets at risk. https://t.co/fg3HyCpYkm
@@ -2697,9 +2697,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1494146332528885767 — 2022-11-21 08:54 UTC (2022-11-21 09:54 WAT)
+    #### Quoted post — @CertiKAlert — 2022-11-21 08:54 UTC (2022-11-21 09:54 WAT)
     
-    - URL: https://x.com/1494146332528885767/status/1594615286556393478
+    - URL: https://x.com/CertiKAlert/status/1594615286556393478
     - Metrics (at fetch): bookmark 0, impression 0, like 9, quote 3, reply 0, retweet 3
     
     > #CertiKSkynetAlert 🚨
@@ -3290,9 +3290,9 @@ Tags (automatic): Mobile / Android / iOS, Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @736011642626932739 — 2020-02-02 09:19 UTC (2020-02-02 10:19 WAT)
+    #### Quoted post — @infosectcbr — 2020-02-02 09:19 UTC (2020-02-02 10:19 WAT)
     
-    - URL: https://x.com/736011642626932739/status/1223898851943149568
+    - URL: https://x.com/infosectcbr/status/1223898851943149568
     - Metrics (at fetch): not returned
     
     > Pointer Compression in V8 and what it means for browser exploitation by @farazsth98 https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html

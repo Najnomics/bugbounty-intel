@@ -1,6 +1,6 @@
 # @ryotkak — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 200
 - Conversations/threads: 133
@@ -526,9 +526,9 @@ Tags (automatic): AI-assisted hunting
     
     **Quoted post (full text):**
     
-        #### Quoted post — @1566463268 — 2025-12-11 20:38 UTC (2025-12-11 21:38 WAT)
+        #### Quoted post — @reactjs — 2025-12-11 20:38 UTC (2025-12-11 21:38 WAT)
         
-        - URL: https://x.com/1566463268/status/1999217365628903739
+        - URL: https://x.com/reactjs/status/1999217365628903739
         - Metrics (at fetch): bookmark 1460, impression 3260807, like 6241, quote 1446, reply 384, retweet 1170
         
         > Researchers have found two new vulnerabilities in React Server Components while attempting to exploit the patches last week.
@@ -574,9 +574,9 @@ Tags (automatic): AI-assisted hunting
     
     **Quoted post (full text):**
     
-        #### Quoted post — @1566463268 — 2025-12-11 20:38 UTC (2025-12-11 21:38 WAT)
+        #### Quoted post — @reactjs — 2025-12-11 20:38 UTC (2025-12-11 21:38 WAT)
         
-        - URL: https://x.com/1566463268/status/1999217365628903739
+        - URL: https://x.com/reactjs/status/1999217365628903739
         - Metrics (at fetch): bookmark 1460, impression 3260807, like 6241, quote 1446, reply 384, retweet 1170
         
         > Researchers have found two new vulnerabilities in React Server Components while attempting to exploit the patches last week.
@@ -611,9 +611,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1566463268 — 2025-12-11 20:38 UTC (2025-12-11 21:38 WAT)
+    #### Quoted post — @reactjs — 2025-12-11 20:38 UTC (2025-12-11 21:38 WAT)
     
-    - URL: https://x.com/1566463268/status/1999217365628903739
+    - URL: https://x.com/reactjs/status/1999217365628903739
     - Metrics (at fetch): bookmark 1460, impression 3260807, like 6241, quote 1446, reply 384, retweet 1170
     
     > Researchers have found two new vulnerabilities in React Server Components while attempting to exploit the patches last week.
@@ -651,9 +651,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1566463268 — 2025-12-11 20:38 UTC (2025-12-11 21:38 WAT)
+    #### Quoted post — @reactjs — 2025-12-11 20:38 UTC (2025-12-11 21:38 WAT)
     
-    - URL: https://x.com/1566463268/status/1999217365628903739
+    - URL: https://x.com/reactjs/status/1999217365628903739
     - Metrics (at fetch): bookmark 1460, impression 3260807, like 6241, quote 1446, reply 384, retweet 1170
     
     > Researchers have found two new vulnerabilities in React Server Components while attempting to exploit the patches last week.
@@ -2660,9 +2660,9 @@ Tags (automatic): OAuth
 
 **Quoted post (full text):**
 
-    #### Quoted post — @116285769 — 2021-08-04 16:30 UTC (2021-08-04 17:30 WAT)
+    #### Quoted post — @msftsecresponse — 2021-08-04 16:30 UTC (2021-08-04 17:30 WAT)
     
-    - URL: https://x.com/116285769/status/1422958166258569218
+    - URL: https://x.com/msftsecresponse/status/1422958166258569218
     - Metrics (at fetch): not returned
     
     > Congratulations to our MSRC 2021 Most Valuable Security Researchers! Thank you to all the researchers who have helped secure our customers. Check out our blog for the full list: https://msrc-blog.microsoft.com/2021/08/04/congratulations-to-the-msrc-2021-most-valuable-security-researchers/
@@ -3001,9 +3001,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @113419064 — 2021-01-19 23:31 UTC (2021-01-20 00:31 WAT)
+    #### Quoted post — @golang — 2021-01-19 23:31 UTC (2021-01-20 00:31 WAT)
     
-    - URL: https://x.com/113419064/status/1351673649850421249
+    - URL: https://x.com/golang/status/1351673649850421249
     - Metrics (at fetch): bookmark 3, impression 0, like 305, quote 12, reply 3, retweet 106
     
     > Go 1.15.7 and 1.14.14 have been released!

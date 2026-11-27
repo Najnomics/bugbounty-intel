@@ -1,6 +1,6 @@
 # @NahamSec — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 1214
 - Conversations/threads: 1028
@@ -73,9 +73,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @260411518 — 2026-11-22 17:37 UTC (2026-11-22 18:37 WAT)
+#### Root post — @rez0__ — 2026-11-22 17:37 UTC (2026-11-22 18:37 WAT)
 
-- URL: https://x.com/260411518/status/2124557957169852724
+- URL: https://x.com/rez0__/status/2124557957169852724
 - Metrics (at fetch): bookmark 3, impression 4050, like 104, quote 0, reply 9, retweet 5
 
 > The prompt2pwn nahamcon by @NahamSec and @zenitysec_labs was epic. 5 huge targets for the hacking event, world class speakers, the funnest ctf I’ve ever done, etc. great stuff 😊 [pic.x.com/dlA2TYpHgu]
@@ -102,9 +102,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @1367644064498282500 — 2026-11-22 21:02 UTC (2026-11-22 22:02 WAT)
+#### Root post — @monkehack — 2026-11-22 21:02 UTC (2026-11-22 22:02 WAT)
 
-- URL: https://x.com/1367644064498282500/status/2124609435095953760
+- URL: https://x.com/monkehack/status/2124609435095953760
 - Metrics (at fetch): bookmark 0, impression 1172, like 37, quote 0, reply 5, retweet 0
 
 > Prompt2Pwn was one of the best events I attended all year. Thank you so much @NahamSec and @zenitysec_labs, it was superb
@@ -125,9 +125,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @1742978376070225922 — 2026-11-22 21:22 UTC (2026-11-22 22:22 WAT)
+#### Root post — @ech0d3lta — 2026-11-22 21:22 UTC (2026-11-22 22:22 WAT)
 
-- URL: https://x.com/1742978376070225922/status/2124614507679072390
+- URL: https://x.com/ech0d3lta/status/2124614507679072390
 - Metrics (at fetch): bookmark 0, impression 150, like 5, quote 0, reply 1, retweet 0
 
 > Thank you @NahamSec and @zenitysec_labs for a memorable event! I had a blast!
@@ -652,9 +652,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @4309561582 — 2026-11-18 12:13 UTC (2026-11-18 13:13 WAT)
+#### Root post — @busf4ctor — 2026-11-18 12:13 UTC (2026-11-18 13:13 WAT)
 
-- URL: https://x.com/4309561582/status/2123026728188567695
+- URL: https://x.com/busf4ctor/status/2123026728188567695
 - Metrics (at fetch): bookmark 6, impression 1783, like 63, quote 0, reply 2, retweet 1
 
 > Our (@rafabyte_ and I) presentation for prompt2pwn + nahamsec on Friday has over 200 slides
@@ -5331,9 +5331,9 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @6224962 — 2024-07-15 19:57 UTC (2024-07-15 20:57 WAT)
+    #### Quoted post — @Xbow — 2024-07-15 19:57 UTC (2024-07-15 20:57 WAT)
     
-    - URL: https://x.com/6224962/status/1812939569735868916
+    - URL: https://x.com/Xbow/status/1812939569735868916
     - Metrics (at fetch): bookmark 17, impression 24978, like 40, quote 7, reply 1, retweet 5
     
     > Real vulnerabilities don’t come with hints—so we asked XBOW to solve this task without giving it even a description of the benchmark. It performed just as well, finding exploiting an GraphQL-based IDOR vulnerability entirely autonomously: https://t.co/OqMxRdESQX https://t.co/1BX0xm4j4J
@@ -11730,9 +11730,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1076462231615877120 — 2021-05-17 17:08 UTC (2021-05-17 18:08 WAT)
+    #### Quoted post — @AppSec_Village — 2021-05-17 17:08 UTC (2021-05-17 18:08 WAT)
     
-    - URL: https://x.com/1076462231615877120/status/1394338938962149377
+    - URL: https://x.com/AppSec_Village/status/1394338938962149377
     - Metrics (at fetch): not returned
     
     > Questioning whether to start a #bug #bounty program or participate in one? Join @ante_gulam &amp; @NahamSec as they share what makes a perfect #bugbounty program at our #ApplicationSecurity Sandbox at @RSAConference on May 20. https://buff.ly/2R07gAp #RSAC #application #security #ASV [pic.x.com/o8Q6xoKV8G]
@@ -13074,9 +13074,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @990945874019840000 — 2020-11-16 17:00 UTC (2020-11-16 18:00 WAT)
+    #### Quoted post — @WebSecAcademy — 2020-11-16 17:00 UTC (2020-11-16 18:00 WAT)
     
-    - URL: https://x.com/990945874019840000/status/1328382351391547392
+    - URL: https://x.com/WebSecAcademy/status/1328382351391547392
     - Metrics (at fetch): bookmark 17, impression 0, like 150, quote 1, reply 2, retweet 7
     
     > We spotted @NahamSec solving our Information Disclosure labs on his Twitch channel last week - great work! Put a link in the comments with your latest streams and write-ups, we'd love to share your academy successes 🥳 
@@ -13613,9 +13613,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @541143164 — 2020-08-24 15:08 UTC (2020-08-24 16:08 WAT)
+    #### Quoted post — @TheParanoids — 2020-08-24 15:08 UTC (2020-08-24 16:08 WAT)
     
-    - URL: https://x.com/541143164/status/1297913672833015809
+    - URL: https://x.com/TheParanoids/status/1297913672833015809
     - Metrics (at fetch): bookmark 38, impression 0, like 198, quote 7, reply 2, retweet 60
     
     > Join us for a Bug Bounty seminar 9/2 @ 2pm EST w/ @nahamsec. Featuring an overview of Bug Bounty programs, a tutorial on getting started, and real success stories from those who have used this to join the cybersecurity community. Register here: https://t.co/zxIUELcFOh
@@ -14353,9 +14353,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3117978280 — 2020-06-16 06:13 UTC (2020-06-16 07:13 WAT)
+    #### Quoted post — @Farah_Hawaa — 2020-06-16 06:13 UTC (2020-06-16 07:13 WAT)
     
-    - URL: https://x.com/3117978280/status/1272774212067848193
+    - URL: https://x.com/Farah_Hawaa/status/1272774212067848193
     - Metrics (at fetch): not returned
     
     > NEW VIDEO: Finally the interview with @Th3g3nt3lman is up! Watch the video as he shares details about his recently disclosed bug which paid out $30k+, useful tips on recon, methodology, full-time bug bounty &amp; a lot more! #bugbounty #infosec #bugbountytips
@@ -16399,9 +16399,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @41872843 — 2020-01-31 10:00 UTC (2020-01-31 11:00 WAT)
+    #### Quoted post — @rootedcon — 2020-01-31 10:00 UTC (2020-01-31 11:00 WAT)
     
-    - URL: https://x.com/41872843/status/1223184145725169664
+    - URL: https://x.com/rootedcon/status/1223184145725169664
     - Metrics (at fetch): not returned
     
     > Join the BootCamp "Web Hacking 101 &amp; Bug Bounty Hunting" by @prashles and @_hipotermia_. Does include ticket for the main event. Join us! https://rootedcon.com/trainings/ #Rooted2020 [pic.x.com/yAn0EEyJMZ]

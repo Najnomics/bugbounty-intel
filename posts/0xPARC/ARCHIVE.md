@@ -1,6 +1,6 @@
 # @0xPARC — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 146
 - Conversations/threads: 63
@@ -816,9 +816,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @856446453157376003 — 2022-05-27 20:53 UTC (2022-05-27 21:53 WAT)
+    #### Quoted post — @gitcoin — 2022-05-27 20:53 UTC (2022-05-27 21:53 WAT)
     
-    - URL: https://x.com/856446453157376003/status/1530291118679769088
+    - URL: https://x.com/gitcoin/status/1530291118679769088
     - Metrics (at fetch): not returned
     
     > Kicking things off is the ZK Tech round, with up to $150k in matching funded by @ZKValidator, @0xPARC, @Figment_io, and more. This is the 3rd consecutive ZK Tech round on Gitcoin, for projects advancing the ZK tools, libraries, community and/or protocols. 💻
@@ -1144,9 +1144,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1060338957869858816 — 2022-03-12 00:02 UTC (2022-03-12 01:02 WAT)
+    #### Quoted post — @gubsheep — 2022-03-12 00:02 UTC (2022-03-12 01:02 WAT)
     
-    - URL: https://x.com/1060338957869858816/status/1502434858638921732
+    - URL: https://x.com/gubsheep/status/1502434858638921732
     - Metrics (at fetch): bookmark 14, impression 0, like 67, quote 1, reply 2, retweet 23
     
     > just made some @gitcoin contributions to a handful of ZK projects I'm very excited about, which are participating in the ZKTech matching pool. Full collection linked below.
@@ -1206,9 +1206,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @856446453157376003 — 2022-02-18 20:36 UTC (2022-02-18 21:36 WAT)
+    #### Quoted post — @gitcoin — 2022-02-18 20:36 UTC (2022-02-18 21:36 WAT)
     
-    - URL: https://x.com/856446453157376003/status/1494772845280305152
+    - URL: https://x.com/gitcoin/status/1494772845280305152
     - Metrics (at fetch): bookmark 10, impression 0, like 112, quote 11, reply 8, retweet 39
     
     > Now that you’ve been #Greenpilled... we’re gonna fill you in on a not-so-secret secret… Grants Round 13 starts on March 9!🟡
@@ -2102,9 +2102,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1287606089849151494 — 2021-11-30 21:30 UTC (2021-11-30 22:30 WAT)
+    #### Quoted post — @darkforest_eth — 2021-11-30 21:30 UTC (2021-11-30 22:30 WAT)
     
-    - URL: https://x.com/1287606089849151494/status/1465795417354899459
+    - URL: https://x.com/darkforest_eth/status/1465795417354899459
     - Metrics (at fetch): bookmark 11, impression 0, like 85, quote 7, reply 4, retweet 21
     
     > Love making nifty UIs? Think you could improve our game's look and feel? We're hiring! https://t.co/XXYoffnvhO

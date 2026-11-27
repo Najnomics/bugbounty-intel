@@ -379,3 +379,15 @@ _Auto-maintained from `harness/findings.jsonl`. 8 finding(s). Full verbatim post
 - [X Article: how to read a black box cyber board…](../posts/mdp_sec/2026-11-26-2125809861527261304.md) (full text): live board 25 Nov 2026 — opus 5 high 22/100, grok 4.6 high 21, deepseek v4.1 flash max 21 (17 first try), grok 4.7 high 18, kimi k3.1 pro max 12, gpt-5.6 sol high 12; refusal-heavy rows unranked; cost/solve $1.37–$41.97; checklist for choosing a model (refusals → class fit → cost/solve → second model → prove by hand).
 - [SWE 2.1 max result](../posts/mdp_sec/2026-11-26-2125766783756062857.md) (10/100, #8 of 21, zero refusals); [first offer on bb arena](../posts/mdp_sec/2026-11-25-2125673087656182117.md); [pay-what-you-think-it's-worth offer](../posts/mdp_sec/2026-11-25-2125721189524079085.md) (report ≤7 business days, recheck included, trading 12+ months A$30k+/month).
 - Posts of 2026-11-25/26 that are only replies (congratulations/chat) were not archived. mdpsec.com unchanged (591 / 150 / 267 / 6 platforms).
+
+## 2026-11-27 run additions
+
+### AI-credited CVE week-one roundup
+- Thread: [`posts/mdp_sec/2026-11-25-2125502246758584345.md`](../posts/mdp_sec/2026-11-25-2125502246758584345.md) — java4shell (Calif/Codex), nginx HTTP/2 RCE (Wiz Atlas), nginx2root (Xint automated), Chrome 158 Claude-assisted criticals, MONAI Label path-traversal zero-day found by Cairn AI agents (~11 min). New writeups: [`writeups/mdp_sec/chrome-158-stable-channel-update-2026-11-17.md`](../writeups/mdp_sec/chrome-158-stable-channel-update-2026-11-17.md), [`writeups/mdp_sec/aws-cairn-ai-agents-zero-day-monai-label-cve-2026-133968.md`](../writeups/mdp_sec/aws-cairn-ai-agents-zero-day-monai-label-cve-2026-133968.md).
+
+### BB Arena CTF + hunting-prompts milestone + class grid
+- CTF live: [`posts/mdp_sec/2026-11-26-2125868983924777127.md`](../posts/mdp_sec/2026-11-26-2125868983924777127.md) / [`writeups/mdp_sec/blackboxarena-ctf-2026-11-26.md`](../writeups/mdp_sec/blackboxarena-ctf-2026-11-26.md) — 8 labs / 32 flags / 2 Steve labs $500/flag.
+- Hunting prompts repo ~1k★/200 forks: [`posts/mdp_sec/2026-11-26-2126045828481708482.md`](../posts/mdp_sec/2026-11-26-2126045828481708482.md) / [`writeups/mdp_sec/bug-bounty-hunting-prompts-readme-2026-11-27.md`](../writeups/mdp_sec/bug-bounty-hunting-prompts-readme-2026-11-27.md).
+- Code-execution class weak for agents (best 3/10): [`posts/mdp_sec/2026-11-26-2126083577351934357.md`](../posts/mdp_sec/2026-11-26-2126083577351934357.md).
+- Open-redirect median $280 (51 paid): [`posts/mdp_sec/2026-11-27-2126159074932707372.md`](../posts/mdp_sec/2026-11-27-2126159074932707372.md). Board home re-fetched: [`writeups/mdp_sec/blackboxarena-home-2026-11-27.md`](../writeups/mdp_sec/blackboxarena-home-2026-11-27.md).
+- H1 hacktivity re-check: 18 undisclosed entries (was 15); +capital-one $750, +msd, +s-pankki. Still 0 disclosed — see `writeups/mdp_sec/platform-reports.md`.

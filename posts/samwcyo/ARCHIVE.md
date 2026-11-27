@@ -1,6 +1,6 @@
 # @samwcyo — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 215
 - Conversations/threads: 199
@@ -468,9 +468,9 @@ Tags (automatic): Path normalization
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15540222 — 2026-02-26 03:37 UTC (2026-02-26 04:37 WAT)
+    #### Quoted post — @rauchg — 2026-02-26 03:37 UTC (2026-02-26 04:37 WAT)
     
-    - URL: https://x.com/15540222/status/2026864132423823499
+    - URL: https://x.com/rauchg/status/2026864132423823499
     - Metrics (at fetch): bookmark 548, impression 975887, like 4133, quote 228, reply 324, repost 138
     
     > We've identified, responsibly disclosed, and confirmed 2 critical, 2 high, 2 medium, 1 low security vulnerabilities in Cloudflare's vibe-coded framework Vinext.
@@ -551,9 +551,9 @@ Tags (automatic): Path normalization
 
 **Quoted post (full text):**
 
-    #### Quoted post — @31218035 — 2025-03-21 11:16 UTC (2025-03-21 12:16 WAT)
+    #### Quoted post — @bl4sty — 2025-03-21 11:16 UTC (2025-03-21 12:16 WAT)
     
-    - URL: https://x.com/31218035/status/1903042940127084788
+    - URL: https://x.com/bl4sty/status/1903042940127084788
     - Metrics (at fetch): bookmark 28, impression 44243, like 239, quote 10, reply 29, retweet 15
     
     > anyone looking for a questionable side hustle? 😂 https://t.co/SEnr6OZnY5
@@ -1120,9 +1120,9 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1126385176467124224 — 2023-07-25 16:22 UTC (2023-07-25 17:22 WAT)
+    #### Quoted post — @gf_256 — 2023-07-25 16:22 UTC (2023-07-25 17:22 WAT)
     
-    - URL: https://x.com/1126385176467124224/status/1683875257881436164
+    - URL: https://x.com/gf_256/status/1683875257881436164
     - Metrics (at fetch): bookmark 8, impression 26934, like 29, quote 1, reply 2, retweet 5
     
     > yea its already here lol https://httptoolkit.com/blog/apple-private-access-tokens-attestation/
@@ -1297,9 +1297,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1126385176467124224 — 2022-05-31 18:15 UTC (2022-05-31 19:15 WAT)
+    #### Quoted post — @gf_256 — 2022-05-31 18:15 UTC (2022-05-31 19:15 WAT)
     
-    - URL: https://x.com/1126385176467124224/status/1531700881963552771
+    - URL: https://x.com/gf_256/status/1531700881963552771
     - Metrics (at fetch): bookmark 18, impression 0, like 129, quote 1, reply 6, retweet 16
     
     > Vice Motherboard interviewed me! I got to poop on Discord bots for being a security hazard, hooray😊 https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers
@@ -1353,9 +1353,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @958878694931685376 — 2022-04-23 04:21 UTC (2022-04-23 05:21 WAT)
+    #### Quoted post — @djIsLucid — 2022-04-23 04:21 UTC (2022-04-23 05:21 WAT)
     
-    - URL: https://x.com/958878694931685376/status/1517720313341095936
+    - URL: https://x.com/djIsLucid/status/1517720313341095936
     - Metrics (at fetch): not returned
     
     > Day 79 #100DaysOfHacking #BugBounty #MobSec - Used the application pretty thoroughly and dug through iOS app memory. Strangely I noticed multiple instances of my phone's /etc/passwd file in memory. Maybe I'm just a noob but I can't think of very many reasons why this type of \1
@@ -1497,9 +1497,9 @@ Tags (automatic): SQL injection
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1297925400090337280 — 2021-12-13 16:32 UTC (2021-12-13 17:32 WAT)
+    #### Quoted post — @RektHQ — 2021-12-13 16:32 UTC (2021-12-13 17:32 WAT)
     
-    - URL: https://x.com/1297925400090337280/status/1470431503045828614
+    - URL: https://x.com/RektHQ/status/1470431503045828614
     - Metrics (at fetch): not returned
     
     > Four cases in ten days. 
@@ -1536,9 +1536,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @209811713 — 2021-10-13 13:10 UTC (2021-10-13 14:10 WAT)
+    #### Quoted post — @TheHackersNews — 2021-10-13 13:10 UTC (2021-10-13 14:10 WAT)
     
-    - URL: https://x.com/209811713/status/1448274886347034624
+    - URL: https://x.com/TheHackersNews/status/1448274886347034624
     - Metrics (at fetch): not returned
     
     > A critical #vulnerability in #OpenSea, the world's largest non-fungible token (NFT) marketplace, could have allowed hackers to drain #cryptocurrency funds from users' wallets.
@@ -1759,9 +1759,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @887597226738032641 — 2021-05-10 15:05 UTC (2021-05-10 16:05 WAT)
+    #### Quoted post — @DailySwig — 2021-05-10 15:05 UTC (2021-05-10 16:05 WAT)
     
-    - URL: https://x.com/887597226738032641/status/1391771267091603457
+    - URL: https://x.com/DailySwig/status/1391771267091603457
     - Metrics (at fetch): bookmark 5, impression 0, like 16, quote 2, reply 0, retweet 1
     
     > Users of the Pega Infinity enterprise software platform are urged to update against a critical vulnerability (cc @samwcyo)
@@ -2021,9 +2021,9 @@ Tags (automatic): IDOR / BOLA
 
 **Quoted post (full text):**
 
-    #### Quoted post — @736615159653924864 — 2019-12-04 15:47 UTC (2019-12-04 16:47 WAT)
+    #### Quoted post — @intigriti — 2019-12-04 15:47 UTC (2019-12-04 16:47 WAT)
     
-    - URL: https://x.com/736615159653924864/status/1202253010291843072
+    - URL: https://x.com/intigriti/status/1202253010291843072
     - Metrics (at fetch): bookmark 65, impression 0, like 297, quote 5, reply 3, retweet 105
     
     > ⚠️Open staging environments can lead to production account takeover
@@ -2295,9 +2295,9 @@ Tags (automatic): SQL injection, Auth bypass
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3378488919 — 2020-09-13 18:09 UTC (2020-09-13 19:09 WAT)
+    #### Quoted post — @gregxsunday — 2020-09-13 18:09 UTC (2020-09-13 19:09 WAT)
     
-    - URL: https://x.com/3378488919/status/1305206975769309184
+    - URL: https://x.com/gregxsunday/status/1305206975769309184
     - Metrics (at fetch): bookmark 37, impression 0, like 128, quote 3, reply 1, retweet 35
     
     > This week I've taken a deeper look into secondary context path traversal vulnerability based on the example of @samwcyo and @Rhynorater's report from Starbucks. It was awarded max - $4k, but considering the impact, it seems rather low. Enjoy! https://t.co/WoGOKSFlAG
@@ -3064,9 +3064,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @4916110689 — 2018-01-11 18:52 UTC (2018-01-11 19:52 WAT)
+    #### Quoted post — @hacker_ — 2018-01-11 18:52 UTC (2018-01-11 19:52 WAT)
     
-    - URL: https://x.com/4916110689/status/951527150628327425
+    - URL: https://x.com/hacker_/status/951527150628327425
     - Metrics (at fetch): not returned
     
     > ☢ Write-Up Alert: "Chaining Bugs to Steal Yahoo Contacts!" 
@@ -3114,9 +3114,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @789158876176379904 — 2018-01-01 17:12 UTC (2018-01-01 18:12 WAT)
+    #### Quoted post — @EdOverflow — 2018-01-01 17:12 UTC (2018-01-01 18:12 WAT)
     
-    - URL: https://x.com/789158876176379904/status/947878330753257472
+    - URL: https://x.com/EdOverflow/status/947878330753257472
     - Metrics (at fetch): bookmark 1, impression 0, like 162, quote 5, reply 6, retweet 59
     
     > Happy New Year everyone! To start off 2018 here is a project that I have been working on for a little while: Bug Bounty Guide, a launchpad for bug bounty programs and bug bounty hunters. https://bugbountyguide.com/

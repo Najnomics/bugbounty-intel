@@ -1,11 +1,95 @@
 # @garethheyes — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 578
-- Conversations/threads: 512
+- Posts in this file: 582
+- Conversations/threads: 515
 - Oldest post captured: 2008-10-22
-- Newest post captured: 2026-11-23
+- Newest post captured: 2026-11-26
+
+
+---
+
+## 2026-11-26 · Post · My site uses it to randomize the escape room puzzles https://twitter.com/firefoxwebdevs/status/21259
+
+
+### Post — @garethheyes — 2026-11-26 19:54 UTC (2026-11-26 20:54 WAT)
+
+- URL: https://x.com/garethheyes/status/2126041822590075208
+- Metrics (at fetch): bookmark 1, impression 896, like 3, quote 0, reply 0, repost 0
+
+> My site uses it to randomize the escape room puzzles https://twitter.com/firefoxwebdevs/status/2125972245218767162
+
+**Links in post:** https://twitter.com/firefoxwebdevs/status/2125972245218767162
+
+**Quoted post (full text):**
+
+    #### Quoted post — @45496942 — 2026-11-26 15:17 UTC (2026-11-26 16:17 WAT)
+    
+    - URL: https://x.com/45496942/status/2125972245218767162
+    - Metrics (at fetch): bookmark 60, impression 9844, like 247, quote 4, reply 5, retweet 21
+    
+    > CSS random() is newly available in all major engines. But how random is it? Here's how it actually works: [pic.x.com/MjSxXTaHpu]
+    
+    **Media:**
+    - video: https://pbs.twimg.com/amplify_video_thumb/2125972053006098432/img/Qrb4aAaxU00m8SCV.jpg — no alt text provided by author
+    
+
+
+---
+
+## 2026-11-25 · Reply · @awesomekling @superlogical Have you tried the Herdr mac app? I don't know how I coped before withou
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @awesomekling — 2026-11-25 16:21 UTC (2026-11-25 17:21 WAT)
+
+- URL: https://x.com/awesomekling/status/2125625978697253072
+- Metrics (at fetch): bookmark 39, impression 27315, like 814, quote 7, reply 32, retweet 20
+
+> Rex by @superlogical is so good. Actual permanent quality-of-life upgrade. Can’t recommend it enough for terminal enjoyers 🤓
+
+
+### Post — @garethheyes — 2026-11-25 16:37 UTC (2026-11-25 17:37 WAT)
+
+- URL: https://x.com/garethheyes/status/2125629863394455594
+- Metrics (at fetch): bookmark 0, impression 834, like 1, quote 0, reply 0, repost 0
+
+> @awesomekling @superlogical Have you tried the Herdr mac app? I don't know how I coped before without it
+
+
+---
+
+## 2026-11-25 · Thread · I love this post by @hash_kitten so much, in fact I wanted to create a variant. Love this Chrome beh
+
+
+Tags (automatic): XSS
+
+
+### Post — @garethheyes — 2026-11-25 16:35 UTC (2026-11-25 17:35 WAT)
+
+- URL: https://x.com/garethheyes/status/2125629582015611281
+- Metrics (at fetch): bookmark 94, impression 5090, like 155, quote 0, reply 2, repost 18
+
+> I love this post by @hash_kitten so much, in fact I wanted to create a variant. Love this Chrome behaviour!
+>
+> https://www.slcyber.io/research/two-bypasses-for-chromes-sanitizer-api#:~:text=first%20colon.-,Bypass%20%232%3A%20URL%20Reparsing,-Two%20days%20after [pic.x.com/wG2bxc2BOD]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HX_Au36W4AAVys-.jpg — no alt text provided by author
+
+**Links in post:** https://www.slcyber.io/research/two-bypasses-for-chromes-sanitizer-api#:~:text=first%20colon.-,Bypass%20%232%3A%20URL%20Reparsing,-Two%20days%20after
+
+
+### Thread part 2 — @garethheyes — 2026-11-25 16:36 UTC (2026-11-25 17:36 WAT)
+
+- URL: https://x.com/garethheyes/status/2125629688169250871
+- Metrics (at fetch): bookmark 0, impression 679, like 1, quote 0, reply 0, repost 0
+
+> https://portswigger-labs.net/xss/xss.php?x=%3Cform+action=%22javascript://:-/1%22%3E%3Cinput+type=hidden+name=/=+value=alert(1)%3E%3Cbutton%3Eclick%20me%3C/button%3E%3C/form%3E
+
+**Links in post:** https://portswigger-labs.net/xss/xss.php?x=%3Cform+action=%22javascript://:-/1%22%3E%3Cinput+type=hidden+name=/=+value=alert(1)%3E%3Cbutton%3Eclick%20me%3C/button%3E%3C/form%3E
 
 
 ---
@@ -68,9 +152,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1600519214519013377 — 2026-11-19 11:00 UTC (2026-11-19 12:00 WAT)
+    #### Quoted post — @ctbbpodcast — 2026-11-19 11:00 UTC (2026-11-19 12:00 WAT)
     
-    - URL: https://x.com/1600519214519013377/status/2123370786782122260
+    - URL: https://x.com/ctbbpodcast/status/2123370786782122260
     - Metrics (at fetch): bookmark 22, impression 3079, like 54, quote 1, reply 0, retweet 5
     
     > CSS can do a lot of things, from making your site pretty to handing over your data...
@@ -100,9 +184,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1600519214519013377 — 2026-11-19 11:00 UTC (2026-11-19 12:00 WAT)
+    #### Quoted post — @ctbbpodcast — 2026-11-19 11:00 UTC (2026-11-19 12:00 WAT)
     
-    - URL: https://x.com/1600519214519013377/status/2123370786782122260
+    - URL: https://x.com/ctbbpodcast/status/2123370786782122260
     - Metrics (at fetch): bookmark 22, impression 3079, like 54, quote 1, reply 0, retweet 5
     
     > CSS can do a lot of things, from making your site pretty to handing over your data...
@@ -243,9 +327,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2215109990 — 2026-11-12 23:02 UTC (2026-11-13 00:02 WAT)
+    #### Quoted post — @d0nutptr — 2026-11-12 23:02 UTC (2026-11-13 00:02 WAT)
     
-    - URL: https://x.com/2215109990/status/2121015735850029405
+    - URL: https://x.com/d0nutptr/status/2121015735850029405
     - Metrics (at fetch): bookmark 22, impression 6624, like 52, quote 1, reply 4, retweet 5
     
     > amazing and gross. 
@@ -1500,9 +1584,9 @@ Tags (automatic): CSP / CSPT
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15534471 — 2025-12-06 03:54 UTC (2025-12-06 04:54 WAT)
+    #### Quoted post — @cramforce — 2025-12-06 03:54 UTC (2025-12-06 04:54 WAT)
     
-    - URL: https://x.com/15534471/status/1997152588253614425
+    - URL: https://x.com/cramforce/status/1997152588253614425
     - Metrics (at fetch): bookmark 275, impression 352176, like 836, quote 25, reply 30, retweet 76
     
     > We introduced a dedicated HackerOne program for Vercel WAF bypasses for CVE-2025-55182 / react2shell
@@ -2142,9 +2226,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @802058959 — 2025-05-29 16:23 UTC (2025-05-29 17:23 WAT)
+    #### Quoted post — @yshahinzadeh — 2025-05-29 16:23 UTC (2025-05-29 17:23 WAT)
     
-    - URL: https://x.com/802058959/status/1928125078102745482
+    - URL: https://x.com/yshahinzadeh/status/1928125078102745482
     - Metrics (at fetch): bookmark 795, impression 52807, like 883, quote 3, reply 15, retweet 139
     
     > been using this techniques to bypass many WAFs, open the console in the vulnrable page, run this code to extract variables refering to window object:
@@ -3144,9 +3228,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14511703 — 2024-07-02 20:53 UTC (2024-07-02 21:53 WAT)
+    #### Quoted post — @lucacarettoni — 2024-07-02 20:53 UTC (2024-07-02 21:53 WAT)
     
-    - URL: https://x.com/14511703/status/1808242573775196627
+    - URL: https://x.com/lucacarettoni/status/1808242573775196627
     - Metrics (at fetch): bookmark 216, impression 43734, like 287, quote 3, reply 1, retweet 92
     
     > After months of work (and bugs), @maxenceschmitt has finally released his fabulous research. Exploiting Client-Side Path Traversal to Perform Cross-Site Request Forgery or #CSPT2CSRF. 
@@ -3204,9 +3288,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1183468046851231744 — 2024-06-20 05:49 UTC (2024-06-20 06:49 WAT)
+    #### Quoted post — @therceman — 2024-06-20 05:49 UTC (2024-06-20 06:49 WAT)
     
-    - URL: https://x.com/1183468046851231744/status/1803666353892585642
+    - URL: https://x.com/therceman/status/1803666353892585642
     - Metrics (at fetch): bookmark 233, impression 39692, like 265, quote 4, reply 3, retweet 68
     
     > Bug Bounty Tip
@@ -3870,9 +3954,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1177545689460592640 — 2022-02-01 15:00 UTC (2022-02-01 16:00 WAT)
+    #### Quoted post — @PortSwiggerRes — 2022-02-01 15:00 UTC (2022-02-01 16:00 WAT)
     
-    - URL: https://x.com/1177545689460592640/status/1488527560673796100
+    - URL: https://x.com/PortSwiggerRes/status/1488527560673796100
     - Metrics (at fetch): bookmark 16, impression 0, like 98, quote 2, reply 2, retweet 27
     
     > The 'use' tag SVG vector has sadly been killed by Edge, so we’ve moved it to the XSS crypt. This vector was cool because you could use an external file with CORS headers to get JavaScript injection into the SVG!
@@ -3948,9 +4032,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @877509238934962176 — 2021-09-07 15:07 UTC (2021-09-07 16:07 WAT)
+    #### Quoted post — @BApp_Store — 2021-09-07 15:07 UTC (2021-09-07 16:07 WAT)
     
-    - URL: https://x.com/877509238934962176/status/1435258521285713920
+    - URL: https://x.com/BApp_Store/status/1435258521285713920
     - Metrics (at fetch): not returned
     
     > Updated: Hackvertor
@@ -3993,9 +4077,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @877509238934962176 — 2021-03-24 14:59 UTC (2021-03-24 15:59 WAT)
+    #### Quoted post — @BApp_Store — 2021-03-24 14:59 UTC (2021-03-24 15:59 WAT)
     
-    - URL: https://x.com/877509238934962176/status/1374737757206151172
+    - URL: https://x.com/BApp_Store/status/1374737757206151172
     - Metrics (at fetch): not returned
     
     > Updated: Hackvertor
@@ -4042,9 +4126,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @877509238934962176 — 2020-12-15 15:26 UTC (2020-12-15 16:26 WAT)
+    #### Quoted post — @BApp_Store — 2020-12-15 15:26 UTC (2020-12-15 16:26 WAT)
     
-    - URL: https://x.com/877509238934962176/status/1338868023428591616
+    - URL: https://x.com/BApp_Store/status/1338868023428591616
     - Metrics (at fetch): bookmark 0, impression 0, like 0, quote 1, reply 0, retweet 0
     
     > Updated: Hackvertor
@@ -4134,9 +4218,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @877509238934962176 — 2020-08-13 14:33 UTC (2020-08-13 15:33 WAT)
+    #### Quoted post — @BApp_Store — 2020-08-13 14:33 UTC (2020-08-13 15:33 WAT)
     
-    - URL: https://x.com/877509238934962176/status/1293918682645594114
+    - URL: https://x.com/BApp_Store/status/1293918682645594114
     - Metrics (at fetch): bookmark 0, impression 0, like 6, quote 1, reply 2, retweet 1
     
     > Updated: Hackvertor
@@ -4174,9 +4258,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @877509238934962176 — 2020-07-23 14:28 UTC (2020-07-23 15:28 WAT)
+    #### Quoted post — @BApp_Store — 2020-07-23 14:28 UTC (2020-07-23 15:28 WAT)
     
-    - URL: https://x.com/877509238934962176/status/1286307104463233030
+    - URL: https://x.com/BApp_Store/status/1286307104463233030
     - Metrics (at fetch): bookmark 1, impression 0, like 0, quote 1, reply 0, retweet 1
     
     > Updated: Hackvertor
@@ -4215,9 +4299,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @877509238934962176 — 2020-05-05 12:38 UTC (2020-05-05 13:38 WAT)
+    #### Quoted post — @BApp_Store — 2020-05-05 12:38 UTC (2020-05-05 13:38 WAT)
     
-    - URL: https://x.com/877509238934962176/status/1257650928548818945
+    - URL: https://x.com/BApp_Store/status/1257650928548818945
     - Metrics (at fetch): bookmark 0, impression 0, like 2, quote 1, reply 0, retweet 0
     
     > Updated: Hackvertor
@@ -4271,9 +4355,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @877509238934962176 — 2020-01-28 09:20 UTC (2020-01-28 10:20 WAT)
+    #### Quoted post — @BApp_Store — 2020-01-28 09:20 UTC (2020-01-28 10:20 WAT)
     
-    - URL: https://x.com/877509238934962176/status/1222086974267383808
+    - URL: https://x.com/BApp_Store/status/1222086974267383808
     - Metrics (at fetch): not returned
     
     > Updated: Taborator
@@ -4302,9 +4386,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @877509238934962176 — 2020-01-20 14:21 UTC (2020-01-20 15:21 WAT)
+    #### Quoted post — @BApp_Store — 2020-01-20 14:21 UTC (2020-01-20 15:21 WAT)
     
-    - URL: https://x.com/877509238934962176/status/1219263625627611136
+    - URL: https://x.com/BApp_Store/status/1219263625627611136
     - Metrics (at fetch): not returned
     
     > Updated: Taborator
@@ -4469,9 +4553,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2216306262 — 2019-05-15 14:54 UTC (2019-05-15 15:54 WAT)
+    #### Quoted post — @Burp_Suite — 2019-05-15 14:54 UTC (2019-05-15 15:54 WAT)
     
-    - URL: https://x.com/2216306262/status/1128674917229240321
+    - URL: https://x.com/Burp_Suite/status/1128674917229240321
     - Metrics (at fetch): not returned
     
     > Blog post: XSS without parentheses and semi-colons by @garethheyes
@@ -4537,9 +4621,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @990945874019840000 — 2019-04-12 13:45 UTC (2019-04-12 14:45 WAT)
+    #### Quoted post — @WebSecAcademy — 2019-04-12 13:45 UTC (2019-04-12 14:45 WAT)
     
-    - URL: https://x.com/990945874019840000/status/1116698920950931456
+    - URL: https://x.com/WebSecAcademy/status/1116698920950931456
     - Metrics (at fetch): not returned
     
     > We've added a new topic on exploiting XSS vulnerabilities, and three fun new labs involving stealing cookies, credentials, and using XSS to perform CSRF. 
@@ -4565,9 +4649,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @877509238934962176 — 2019-03-19 11:32 UTC (2019-03-19 12:32 WAT)
+    #### Quoted post — @BApp_Store — 2019-03-19 11:32 UTC (2019-03-19 12:32 WAT)
     
-    - URL: https://x.com/877509238934962176/status/1107968167249350656
+    - URL: https://x.com/BApp_Store/status/1107968167249350656
     - Metrics (at fetch): not returned
     
     > Updated: Hackvertor
@@ -4598,9 +4682,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @877509238934962176 — 2019-03-06 14:14 UTC (2019-03-06 15:14 WAT)
+    #### Quoted post — @BApp_Store — 2019-03-06 14:14 UTC (2019-03-06 15:14 WAT)
     
-    - URL: https://x.com/877509238934962176/status/1103297741550247938
+    - URL: https://x.com/BApp_Store/status/1103297741550247938
     - Metrics (at fetch): not returned
     
     > Updated: Hackvertor
@@ -5001,9 +5085,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @104911452 — 2017-10-06 20:03 UTC (2017-10-06 21:03 WAT)
+    #### Quoted post — @kinugawamasato — 2017-10-06 20:03 UTC (2017-10-06 21:03 WAT)
     
-    - URL: https://x.com/104911452/status/916393484147290113
+    - URL: https://x.com/kinugawamasato/status/916393484147290113
     - Metrics (at fetch): bookmark 4, impression 0, like 53, quote 1, reply 0, retweet 17
     
     > Nice post! I also found a bit complex Auditor bypass script gadgets :D It works via replaceChild().
@@ -9427,14 +9511,3 @@ Tags (automatic): XSS
 - Metrics (at fetch): not returned
 
 > trying to exploit toStaticHTML, Execute/HTML test in Hackvertor is so useful for this. Fiddler comes in handy too
-
-### Post — @garethheyes — 2026-11-25 16:35 UTC
-
-- URL: https://x.com/garethheyes/status/2125629582015611281
-- Metrics (at fetch): bookmark 63, impression 3750, like 127, quote 0, reply 2, retweet 14
-- Media: 1 photo (https://pbs.twimg.com/media/HX_Au36W4AAVys-.jpg; image not transcribed — presumably Gareth's variant PoC screenshot, content not verified)
-
-> I love this post by @hash_kitten so much, in fact I wanted to create a variant. Love this Chrome behaviour!
->
-> https://www.slcyber.io/research/two-bypasses-for-chromes-sanitizer-api#:~:text=first%20colon.-,Bypass%20%232%3A%20URL%20Reparsing,-Two%20days%20after
-

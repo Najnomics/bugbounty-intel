@@ -1,11 +1,27 @@
 # @mikio815 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 3
-- Conversations/threads: 3
+- Posts in this file: 4
+- Conversations/threads: 4
 - Oldest post captured: 2026-11-21
-- Newest post captured: 2026-11-23
+- Newest post captured: 2026-11-27
+
+
+---
+
+## 2026-11-27 · Post · VILLAIN Con 2026 International 来ました [pic.x.com/XSjgISbECU]
+
+
+### Post — @mikio815 — 2026-11-27 02:46 UTC (2026-11-27 03:46 WAT)
+
+- URL: https://x.com/mikio815/status/2126145682327408698
+- Metrics (at fetch): bookmark 0, impression 346, like 10, quote 0, reply 1, repost 0
+
+> VILLAIN Con 2026 International 来ました [pic.x.com/XSjgISbECU]
+
+**Media:**
+- photo: https://pbs.twimg.com/media/HYGV6RwbcAAovXX.jpg — no alt text provided by author
 
 
 ---
@@ -27,9 +43,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1714438092655149056 — 2026-11-23 21:42 UTC (2026-11-23 22:42 WAT)
+    #### Quoted post — @ChatGPT — 2026-11-23 21:42 UTC (2026-11-23 22:42 WAT)
     
-    - URL: https://x.com/1714438092655149056/status/2124981905380569283
+    - URL: https://x.com/ChatGPT/status/2124981905380569283
     - Metrics (at fetch): bookmark 831, impression 926103, like 9918, quote 736, reply 1243, retweet 489
     
     > Every model has its day in the sun. For GPT-5.6, it's time to set.
@@ -56,9 +72,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1261335549215989760 — 2026-11-22 17:51 UTC (2026-11-22 18:51 WAT)
+    #### Quoted post — @Polymarket — 2026-11-22 17:51 UTC (2026-11-22 18:51 WAT)
     
-    - URL: https://x.com/1261335549215989760/status/2124561333597209078
+    - URL: https://x.com/Polymarket/status/2124561333597209078
     - Metrics (at fetch): bookmark 5041, impression 2817669, like 19353, quote 2633, reply 2713, retweet 1956
     
     > JUST IN: Anthropic CEO Dario Amodei reportedly suggested immersive video games could pacify the masses left jobless by AI, preventing widespread political unrest. — WSJ [pic.x.com/EJ03El94kI]

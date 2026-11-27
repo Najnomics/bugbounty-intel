@@ -1,11 +1,59 @@
 # @usmannk — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 63
-- Conversations/threads: 60
+- Posts in this file: 65
+- Conversations/threads: 61
 - Oldest post captured: 2023-08-16
-- Newest post captured: 2026-11-22
+- Newest post captured: 2026-11-27
+
+
+---
+
+## 2026-11-26 · Thread · spent a bit yesterday trying to understand why i’d use nc in a non-embedded context.
+
+
+Tags (automatic): Mobile / Android / iOS, Memory corruption / native
+
+
+**Context — post being replied to:**
+
+#### Parent post — @gakonst — 2026-11-26 20:24 UTC (2026-11-26 21:24 WAT)
+
+- URL: https://x.com/gakonst/status/2126049356902170705
+- Metrics (at fetch): bookmark 12, impression 2576, like 21, quote 0, reply 9, retweet 0
+
+> @_xjdr bro plz try out my thing! works w sub as well as Vertex etc. just do /login google once you are in
+>
+> https://github.com/nanocodexyz/nanocode
+
+**Links in post:** https://github.com/nanocodexyz/nanocode
+
+
+### Post — @usmannk — 2026-11-26 21:31 UTC (2026-11-26 22:31 WAT)
+
+- URL: https://x.com/usmannk/status/2126066284228194448
+- Metrics (at fetch): bookmark 1, impression 230, like 1, quote 0, reply 1, repost 0
+
+> spent a bit yesterday trying to understand why i’d use nc in a non-embedded context.
+>
+> to me it feels like the docs examples missing a workflow that is like
+>
+> local cli -> (cheap vps always-on) remote brain -> (expensive vps spawned as needed) build machine
+>
+> is this not an intended usecase? or is the CF DO flow meant to do that?
+
+
+### Thread part 2 — @usmannk — 2026-11-27 00:04 UTC (2026-11-27 01:04 WAT)
+
+- URL: https://x.com/usmannk/status/2126104959544623563
+- Metrics (at fetch): bookmark 0, impression 76, like 0, quote 0, reply 0, repost 0
+
+> so this proj is building an iOS app and i want to steer from laptop/my phone/aspirationally steer itself while i’m away
+>
+> i figured easiest way would be hermes or nc on an always-on vps with on-demand macOS execution env. (dont have mac mini and always on macOS env is $$$)
+>
+>  i find hermes kind of annoying as a middleman here/YAGNI so i thought nc seems like a good solution
 
 
 ---
@@ -15,9 +63,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @14756283 — 2026-11-21 22:32 UTC (2026-11-21 23:32 WAT)
+#### Root post — @dunkhippo33 — 2026-11-21 22:32 UTC (2026-11-21 23:32 WAT)
 
-- URL: https://x.com/14756283/status/2124269730001514692
+- URL: https://x.com/dunkhippo33/status/2124269730001514692
 - Metrics (at fetch): bookmark 58, impression 10415, like 24, quote 0, reply 30, repost 0
 
 > what are people’s favorite restaurants / food places on DoorDash in SF that are both good (not necessarily great) AND also “affordable” (e.g. not crazy ridiculous after paying for the delivery fees / taxes / other fees / etc)?
@@ -87,9 +135,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1455573809193435142 — 2026-11-15 14:51 UTC (2026-11-15 15:51 WAT)
+#### Root post — @0xVishnya — 2026-11-15 14:51 UTC (2026-11-15 15:51 WAT)
 
-- URL: https://x.com/1455573809193435142/status/2121979459481833772
+- URL: https://x.com/0xVishnya/status/2121979459481833772
 - Metrics (at fetch): bookmark 48, impression 9937, like 102, quote 2, reply 39, retweet 2
 
 > Self-custodial, but where is my private key?
@@ -572,9 +620,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1399447726874673153 — 2026-07-22 23:07 UTC (2026-07-23 00:07 WAT)
+    #### Quoted post — @officer_secret — 2026-07-22 23:07 UTC (2026-07-23 00:07 WAT)
     
-    - URL: https://x.com/1399447726874673153/status/2080067349512675544
+    - URL: https://x.com/officer_secret/status/2080067349512675544
     - Metrics (at fetch): bookmark 53, impression 60576, like 188, quote 11, reply 18, repost 30
     
     > Looks like there is a USDC bridge possible exploit on Arbitrum!
@@ -1094,9 +1142,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1347307079187525637 — 2024-08-05 19:23 UTC (2024-08-05 20:23 WAT)
+    #### Quoted post — @MitchellAmador — 2024-08-05 19:23 UTC (2024-08-05 20:23 WAT)
     
-    - URL: https://x.com/1347307079187525637/status/1820541212304228824
+    - URL: https://x.com/MitchellAmador/status/1820541212304228824
     - Metrics (at fetch): not returned
     
     > A few new features shipped today. The first one for Projects on @immunefi: users can now search by report ID within the Immunefi dashboard.

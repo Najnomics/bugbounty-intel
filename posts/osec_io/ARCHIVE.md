@@ -1,6 +1,6 @@
 # @osec_io — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 389
 - Conversations/threads: 345
@@ -550,9 +550,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1407411848446611459 — 2026-04-06 20:07 UTC (2026-04-06 21:07 WAT)
+    #### Quoted post — @SolanaFndn — 2026-04-06 20:07 UTC (2026-04-06 21:07 WAT)
     
-    - URL: https://x.com/1407411848446611459/status/2041246408678817822
+    - URL: https://x.com/SolanaFndn/status/2041246408678817822
     - Metrics (at fetch): bookmark 3, impression 13284, like 89, quote 1, reply 2, retweet 4
     
     > Alongside STRIDE, the Solana Incident Response Network (SIRN) is now live. A membership-based network of security firms for real-time incident response across the Solana ecosystem. Available to all protocols. Prioritized by TVL.
@@ -627,9 +627,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1428872926363754497 — 2026-03-19 13:05 UTC (2026-03-19 14:05 WAT)
+    #### Quoted post — @SuiNetwork — 2026-03-19 13:05 UTC (2026-03-19 14:05 WAT)
     
-    - URL: https://x.com/1428872926363754497/status/2034617153668911168
+    - URL: https://x.com/SuiNetwork/status/2034617153668911168
     - Metrics (at fetch): bookmark 185, impression 750031, like 1699, quote 178, reply 213, retweet 394
     
     > Introducing Hashi: a new era of Bitcoin finance on Sui.
@@ -915,9 +915,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1407411848446611459 — 2025-10-17 15:13 UTC (2025-10-17 16:13 WAT)
+    #### Quoted post — @SolanaFndn — 2025-10-17 15:13 UTC (2025-10-17 16:13 WAT)
     
-    - URL: https://x.com/1407411848446611459/status/1979204100400038113
+    - URL: https://x.com/SolanaFndn/status/1979204100400038113
     - Metrics (at fetch): bookmark 51, impression 109890, like 288, quote 12, reply 54, retweet 50
     
     > We've launched a new security bounty program for Anchor, offering rewards of up to $100k for vulnerabilities that affect production code.
@@ -969,9 +969,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1549038204178911233 — 2025-10-09 17:22 UTC (2025-10-09 18:22 WAT)
+    #### Quoted post — @kamino — 2025-10-09 17:22 UTC (2025-10-09 18:22 WAT)
     
-    - URL: https://x.com/1549038204178911233/status/1976337521224319407
+    - URL: https://x.com/kamino/status/1976337521224319407
     - Metrics (at fetch): bookmark 7, impression 35750, like 153, quote 5, reply 10, retweet 13
     
     > 1/ Excited to announce that Kamino Lend has been formally verified by @osec_io — bringing our total formal verifications to 4
@@ -1069,9 +1069,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1773496655209533440 — 2025-06-25 21:01 UTC (2025-06-25 22:01 WAT)
+    #### Quoted post — @BugBountyDEFCON — 2025-06-25 21:01 UTC (2025-06-25 22:01 WAT)
     
-    - URL: https://x.com/1773496655209533440/status/1937979532037791913
+    - URL: https://x.com/BugBountyDEFCON/status/1937979532037791913
     - Metrics (at fetch): bookmark 0, impression 7621, like 10, quote 2, reply 0, retweet 0
     
     > We’re excited to announce that Bruno Halltari (@BrunoModificato) will be speaking at the Bug Bounty Village at DEF CON 33!
@@ -1250,9 +1250,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1305349277422477313 — 2025-04-28 10:20 UTC (2025-04-28 11:20 WAT)
+    #### Quoted post — @pancakefi — 2025-04-28 10:20 UTC (2025-04-28 11:20 WAT)
     
-    - URL: https://x.com/1305349277422477313/status/1916799581351993441
+    - URL: https://x.com/pancakefi/status/1916799581351993441
     - Metrics (at fetch): bookmark 28, impression 470841, like 695, quote 37, reply 184, retweet 251
     
     > 🐰♾PancakeSwap Infinity is NOW LIVE! (Formerly PancakeSwap v4) https://blog.pancakeswap.finance/articles/pancake-swap-infinity-is-now-live-formerly-pancake-swap-v4
@@ -1287,9 +1287,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1392527288734998536 — 2025-05-14 14:27 UTC (2025-05-14 15:27 WAT)
+    #### Quoted post — @multisig — 2025-05-14 14:27 UTC (2025-05-14 15:27 WAT)
     
-    - URL: https://x.com/1392527288734998536/status/1922660042827825436
+    - URL: https://x.com/multisig/status/1922660042827825436
     - Metrics (at fetch): bookmark 66, impression 150789, like 476, quote 32, reply 71, retweet 96
     
     > We’re excited to announce two major milestones for Squads.
@@ -1400,9 +1400,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1038484278810570752 — 2025-04-30 22:07 UTC (2025-04-30 23:07 WAT)
+    #### Quoted post — @NotDeGhost — 2025-04-30 22:07 UTC (2025-04-30 23:07 WAT)
     
-    - URL: https://x.com/1038484278810570752/status/1917702306898010196
+    - URL: https://x.com/NotDeGhost/status/1917702306898010196
     - Metrics (at fetch): bookmark 57, impression 13399, like 145, quote 5, reply 14, retweet 36
     
     > How can you trust a program without understanding it?
@@ -1433,9 +1433,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1428872926363754497 — 2025-04-30 18:43 UTC (2025-04-30 19:43 WAT)
+    #### Quoted post — @SuiNetwork — 2025-04-30 18:43 UTC (2025-04-30 19:43 WAT)
     
-    - URL: https://x.com/1428872926363754497/status/1917651001823350807
+    - URL: https://x.com/SuiNetwork/status/1917651001823350807
     - Metrics (at fetch): bookmark 10, impression 71453, like 288, quote 12, reply 39, retweet 43
     
     > 🛡️ The #SuiBasecamp CTF challenge by @Mysten_Labs starts tomorrow!
@@ -1598,9 +1598,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3278906401 — 2025-02-03 18:11 UTC (2025-02-03 19:11 WAT)
+    #### Quoted post — @MetaMask — 2025-02-03 18:11 UTC (2025-02-03 19:11 WAT)
     
-    - URL: https://x.com/3278906401/status/1886477573682815353
+    - URL: https://x.com/MetaMask/status/1886477573682815353
     - Metrics (at fetch): bookmark 5, impression 24935, like 187, quote 5, reply 36, retweet 33
     
     > We're literally building a moat of lava to keep MetaMask users (and the entire web) safe.
@@ -1754,9 +1754,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @951329744804392960 — 2024-11-19 17:08 UTC (2024-11-19 18:08 WAT)
+    #### Quoted post — @solana — 2024-11-19 17:08 UTC (2024-11-19 18:08 WAT)
     
-    - URL: https://x.com/951329744804392960/status/1858920267512447481
+    - URL: https://x.com/solana/status/1858920267512447481
     - Metrics (at fetch): bookmark 111, impression 565940, like 1443, quote 82, reply 228, retweet 270
     
     > Introducing Solana Verifiable Builds — a new era of transparent, verifiable programs on Solana. https://t.co/GJmVIKz9dn
@@ -1858,9 +1858,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1786448182391513088 — 2024-07-02 15:13 UTC (2024-07-02 16:13 WAT)
+    #### Quoted post — @VennBuild — 2024-07-02 15:13 UTC (2024-07-02 16:13 WAT)
     
-    - URL: https://x.com/1786448182391513088/status/1808157081947500573
+    - URL: https://x.com/VennBuild/status/1808157081947500573
     - Metrics (at fetch): bookmark 146, impression 272124, like 4519, quote 78, reply 432, retweet 1499
     
     > We are excited to announce the launch of the Venn Network – the first decentralized cybersecurity infrastructure for blockchains and dApps.
@@ -2114,9 +2114,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @709822647652196353 — 2024-05-15 03:56 UTC (2024-05-15 04:56 WAT)
+    #### Quoted post — @Bonecondor — 2024-05-15 03:56 UTC (2024-05-15 04:56 WAT)
     
-    - URL: https://x.com/709822647652196353/status/1790592058584900005
+    - URL: https://x.com/Bonecondor/status/1790592058584900005
     - Metrics (at fetch): bookmark 151, impression 463099, like 776, quote 121, reply 213, retweet 87
     
     > Various teams in crypto’s logos as Taylor Swift outfits 
@@ -2285,9 +2285,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1754881678743416832 — 2024-03-25 20:24 UTC (2024-03-25 21:24 WAT)
+    #### Quoted post — @getofflinexyz — 2024-03-25 20:24 UTC (2024-03-25 21:24 WAT)
     
-    - URL: https://x.com/1754881678743416832/status/1772358796221755686
+    - URL: https://x.com/getofflinexyz/status/1772358796221755686
     - Metrics (at fetch): bookmark 1, impression 6396, like 23, quote 1, reply 1, retweet 8
     
     > Join us for our first official CODE &amp; COCKTAIL happy hour presented by OFFLINE x @FoundationCap with our friends over at @osec_io + @magna_digital 
@@ -2330,9 +2330,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1679030141140504576 — 2024-03-07 13:34 UTC (2024-03-07 14:34 WAT)
+    #### Quoted post — @sanctumso — 2024-03-07 13:34 UTC (2024-03-07 14:34 WAT)
     
-    - URL: https://x.com/1679030141140504576/status/1765732757269815735
+    - URL: https://x.com/sanctumso/status/1765732757269815735
     - Metrics (at fetch): bookmark 4, impression 9591, like 65, quote 2, reply 4, retweet 9
     
     > Security is a top priority here at Sanctum. 
@@ -2364,9 +2364,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1709387095536816128 — 2024-03-04 17:02 UTC (2024-03-04 18:02 WAT)
+    #### Quoted post — @zircuit — 2024-03-04 17:02 UTC (2024-03-04 18:02 WAT)
     
-    - URL: https://x.com/1709387095536816128/status/1764697946811986009
+    - URL: https://x.com/zircuit/status/1764697946811986009
     - Metrics (at fetch): bookmark 1, impression 24691, like 102, quote 2, reply 12, retweet 8
     
     > The Zircuit staking contract lets stakers keep complete control of their funds. Stakers can withdraw their funds at any time.
@@ -2564,9 +2564,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1756434947202748416 — 2024-02-14 12:32 UTC (2024-02-14 13:32 WAT)
+    #### Quoted post — @_SEAL_Org — 2024-02-14 12:32 UTC (2024-02-14 13:32 WAT)
     
-    - URL: https://x.com/1756434947202748416/status/1757744646909022570
+    - URL: https://x.com/_SEAL_Org/status/1757744646909022570
     - Metrics (at fetch): bookmark 30, impression 141837, like 326, quote 43, reply 23, retweet 57
     
     > Hello world!
@@ -2595,9 +2595,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1443388993404641285 — 2024-02-10 00:55 UTC (2024-02-10 01:55 WAT)
+    #### Quoted post — @watchesio — 2024-02-10 00:55 UTC (2024-02-10 01:55 WAT)
     
-    - URL: https://x.com/1443388993404641285/status/1756119639065583690
+    - URL: https://x.com/watchesio/status/1756119639065583690
     - Metrics (at fetch): bookmark 0, impression 4888, like 17, quote 2, reply 3, retweet 3
     
     > Your gateway to luxury watch markets is here: the first end-to-end tracking &amp; trading ecosystem for watches is in beta NOW. Elevate your watch portfolio with precise market data, low fees, and guaranteed authenticity.
@@ -2624,9 +2624,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1499500166906146819 — 2024-02-06 16:50 UTC (2024-02-06 17:50 WAT)
+    #### Quoted post — @magna_digital — 2024-02-06 16:50 UTC (2024-02-06 17:50 WAT)
     
-    - URL: https://x.com/1499500166906146819/status/1754910492643164325
+    - URL: https://x.com/magna_digital/status/1754910492643164325
     - Metrics (at fetch): bookmark 0, impression 1965, like 5, quote 1, reply 1, retweet 0
     
     > 🏔️ Are you EthDenver ready?
@@ -2655,9 +2655,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1302706447667597316 — 2024-01-31 03:53 UTC (2024-01-31 04:53 WAT)
+    #### Quoted post — @dicegangctf — 2024-01-31 03:53 UTC (2024-01-31 04:53 WAT)
     
-    - URL: https://x.com/1302706447667597316/status/1752540647314112709
+    - URL: https://x.com/dicegangctf/status/1752540647314112709
     - Metrics (at fetch): bookmark 9, impression 11042, like 77, quote 2, reply 1, retweet 15
     
     > DiceCTF Quals starts in less than 3 days! Register to play here: https://t.co/2oPU1OfXil
@@ -2739,9 +2739,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
     
     **Quoted post (full text):**
     
-        #### Quoted post — @1177545689460592640 — 2024-01-09 14:40 UTC (2024-01-09 15:40 WAT)
+        #### Quoted post — @PortSwiggerRes — 2024-01-09 14:40 UTC (2024-01-09 15:40 WAT)
         
-        - URL: https://x.com/1177545689460592640/status/1744730956735631579
+        - URL: https://x.com/PortSwiggerRes/status/1744730956735631579
         - Metrics (at fetch): bookmark 70, impression 51012, like 211, quote 8, reply 2, retweet 72
         
         > Nominations are now open for the top 10 new web hacking techniques of 2023! Check out the nominations so far, and make your own here -&gt; https://t.co/1fCiFhQXOH
@@ -2869,9 +2869,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1177545689460592640 — 2024-01-09 14:40 UTC (2024-01-09 15:40 WAT)
+    #### Quoted post — @PortSwiggerRes — 2024-01-09 14:40 UTC (2024-01-09 15:40 WAT)
     
-    - URL: https://x.com/1177545689460592640/status/1744730956735631579
+    - URL: https://x.com/PortSwiggerRes/status/1744730956735631579
     - Metrics (at fetch): bookmark 70, impression 51012, like 211, quote 8, reply 2, retweet 72
     
     > Nominations are now open for the top 10 new web hacking techniques of 2023! Check out the nominations so far, and make your own here -&gt; https://t.co/1fCiFhQXOH
@@ -2892,9 +2892,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @709822647652196353 — 2024-01-02 17:57 UTC (2024-01-02 18:57 WAT)
+    #### Quoted post — @Bonecondor — 2024-01-02 17:57 UTC (2024-01-02 18:57 WAT)
     
-    - URL: https://x.com/709822647652196353/status/1742243855586533727
+    - URL: https://x.com/Bonecondor/status/1742243855586533727
     - Metrics (at fetch): bookmark 0, impression 6084, like 33, quote 1, reply 6, retweet 5
     
     > It’s a new year, and security doesn’t sleep, so let’s get to it: Do you have a security partner yet? Have you been audited? Do you need an audit? @osec_io is here to help. Let’s connect, and explore how OtterSec can best support you 🙂
@@ -3112,9 +3112,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @276810355 — 2023-11-17 12:44 UTC (2023-11-17 13:44 WAT)
+    #### Quoted post — @armaniferrante — 2023-11-17 12:44 UTC (2023-11-17 13:44 WAT)
     
-    - URL: https://x.com/276810355/status/1725495223961465341
+    - URL: https://x.com/armaniferrante/status/1725495223961465341
     - Metrics (at fetch): bookmark 0, impression 37587, like 106, quote 3, reply 1, retweet 3
     
     > We've made a ton of progress here, partnering with an incredible team of security researchers at @osec_io. In fact, the proofs are done, but we need to integrate them into our general system. We need to run verification from the wallet. We expect to be held to this standard.
@@ -3189,9 +3189,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1354439891107643392 — 2023-11-09 20:56 UTC (2023-11-09 21:56 WAT)
+    #### Quoted post — @ApeFramework — 2023-11-09 20:56 UTC (2023-11-09 21:56 WAT)
     
-    - URL: https://x.com/1354439891107643392/status/1722719749115711732
+    - URL: https://x.com/ApeFramework/status/1722719749115711732
     - Metrics (at fetch): bookmark 0, impression 6981, like 11, quote 2, reply 2, retweet 3
     
     > Vyper Fuzzing: A Differential Approach by Robert Chen (founder of OtterSec)
@@ -3347,9 +3347,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1038484278810570752 — 2023-10-09 16:14 UTC (2023-10-09 17:14 WAT)
+    #### Quoted post — @NotDeGhost — 2023-10-09 16:14 UTC (2023-10-09 17:14 WAT)
     
-    - URL: https://x.com/1038484278810570752/status/1711414728936116561
+    - URL: https://x.com/NotDeGhost/status/1711414728936116561
     - Metrics (at fetch): bookmark 3, impression 24104, like 135, quote 3, reply 5, retweet 17
     
     > We’ve been doing a ton of cool Solana research lately, and I’ll be sharing some of it at #breakpoint2023!
@@ -3429,9 +3429,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1298453554500255745 — 2023-10-18 18:38 UTC (2023-10-18 19:38 WAT)
+    #### Quoted post — @cypher_protocol — 2023-10-18 18:38 UTC (2023-10-18 19:38 WAT)
     
-    - URL: https://x.com/1298453554500255745/status/1714712633952358548
+    - URL: https://x.com/cypher_protocol/status/1714712633952358548
     - Metrics (at fetch): bookmark 2, impression 16969, like 75, quote 3, reply 7, retweet 24
     
     > The time is here
@@ -3704,9 +3704,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1479048649661464581 — 2023-07-17 13:00 UTC (2023-07-17 14:00 WAT)
+    #### Quoted post — @arcium — 2023-07-17 13:00 UTC (2023-07-17 14:00 WAT)
     
-    - URL: https://x.com/1479048649661464581/status/1680925449331916801
+    - URL: https://x.com/arcium/status/1680925449331916801
     - Metrics (at fetch): bookmark 1, impression 7722, like 29, quote 3, reply 0, retweet 5
     
     > Trying to figure out evening plans after Day 1 of @EthCC? 😎
@@ -3860,9 +3860,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1432814058831429635 — 2023-07-07 20:40 UTC (2023-07-07 21:40 WAT)
+    #### Quoted post — @marginfi — 2023-07-07 20:40 UTC (2023-07-07 21:40 WAT)
     
-    - URL: https://x.com/1432814058831429635/status/1677417307117633539
+    - URL: https://x.com/marginfi/status/1677417307117633539
     - Metrics (at fetch): bookmark 2, impression 10684, like 48, quote 2, reply 2, retweet 5
     
     > probably nothing https://twitter.com/buffalu__/status/1677413619477118976
@@ -4022,9 +4022,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1479048649661464581 — 2023-06-02 13:58 UTC (2023-06-02 14:58 WAT)
+    #### Quoted post — @arcium — 2023-06-02 13:58 UTC (2023-06-02 14:58 WAT)
     
-    - URL: https://x.com/1479048649661464581/status/1664632553318359040
+    - URL: https://x.com/arcium/status/1664632553318359040
     - Metrics (at fetch): bookmark 22, impression 64735, like 321, quote 46, reply 30, retweet 107
     
     > We are excited to announce the launch of the Elusiv SDK on @solana  Mainnet! ☂️🔥
@@ -4131,9 +4131,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1563543930016112641 — 2023-05-25 17:38 UTC (2023-05-25 18:38 WAT)
+    #### Quoted post — @SuiNSdapp — 2023-05-25 17:38 UTC (2023-05-25 18:38 WAT)
     
-    - URL: https://x.com/1563543930016112641/status/1661788927072825344
+    - URL: https://x.com/SuiNSdapp/status/1661788927072825344
     - Metrics (at fetch): bookmark 35, impression 520786, like 1061, quote 68, reply 1051, retweet 774
     
     > sui names are coming... ⚡️
@@ -4214,9 +4214,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1474053478557356039 — 2023-05-15 17:30 UTC (2023-05-15 18:30 WAT)
+    #### Quoted post — @cega_fi — 2023-05-15 17:30 UTC (2023-05-15 18:30 WAT)
     
-    - URL: https://x.com/1474053478557356039/status/1658162864215957504
+    - URL: https://x.com/cega_fi/status/1658162864215957504
     - Metrics (at fetch): bookmark 0, impression 7124, like 11, quote 2, reply 1, retweet 7
     
     > 🎙 Join us in 2 days (May 17) at 1:30pm EST for a special chat w/ hacking gigabrain @notdeghost and @cuffycapital from @osec_io 
@@ -4693,9 +4693,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1272950605515034624 — 2023-04-24 14:40 UTC (2023-04-24 15:40 WAT)
+    #### Quoted post — @clockwork_xyz — 2023-04-24 14:40 UTC (2023-04-24 15:40 WAT)
     
-    - URL: https://x.com/1272950605515034624/status/1650510081803288582
+    - URL: https://x.com/clockwork_xyz/status/1650510081803288582
     - Metrics (at fetch): bookmark 0, impression 5296, like 5, quote 1, reply 0, retweet 1
     
     > Excited for brunch today with @osec_io!
@@ -5552,9 +5552,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1499500166906146819 — 2023-03-08 22:37 UTC (2023-03-08 23:37 WAT)
+    #### Quoted post — @magna_digital — 2023-03-08 22:37 UTC (2023-03-08 23:37 WAT)
     
-    - URL: https://x.com/1499500166906146819/status/1633597807893581824
+    - URL: https://x.com/magna_digital/status/1633597807893581824
     - Metrics (at fetch): bookmark 8, impression 7723, like 29, quote 4, reply 1, retweet 9
     
     > Introducing: ✨ https://t.co/qSGKUXwEXo ✨!
@@ -5582,9 +5582,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1499500166906146819 — 2023-03-08 22:37 UTC (2023-03-08 23:37 WAT)
+    #### Quoted post — @magna_digital — 2023-03-08 22:37 UTC (2023-03-08 23:37 WAT)
     
-    - URL: https://x.com/1499500166906146819/status/1633597807893581824
+    - URL: https://x.com/magna_digital/status/1633597807893581824
     - Metrics (at fetch): bookmark 8, impression 7723, like 29, quote 4, reply 1, retweet 9
     
     > Introducing: ✨ https://t.co/qSGKUXwEXo ✨!
@@ -5784,9 +5784,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1302706447667597316 — 2023-01-30 22:47 UTC (2023-01-30 23:47 WAT)
+    #### Quoted post — @dicegangctf — 2023-01-30 22:47 UTC (2023-01-30 23:47 WAT)
     
-    - URL: https://x.com/1302706447667597316/status/1620192062007308288
+    - URL: https://x.com/dicegangctf/status/1620192062007308288
     - Metrics (at fetch): bookmark 15, impression 15870, like 101, quote 2, reply 2, retweet 22
     
     > 🎲 DiceCTF 2023 starts in 3 days! Win $5,000 in prizes thanks to @osec_io. Register your team now! https://ctf.dicega.ng/
@@ -5811,9 +5811,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1488918141950431245 — 2023-01-29 14:02 UTC (2023-01-29 15:02 WAT)
+    #### Quoted post — @matchbox_dao — 2023-01-29 14:02 UTC (2023-01-29 15:02 WAT)
     
-    - URL: https://x.com/1488918141950431245/status/1619697544204001280
+    - URL: https://x.com/matchbox_dao/status/1619697544204001280
     - Metrics (at fetch): bookmark 1, impression 198572, like 62, quote 14, reply 7, retweet 12
     
     > 0xMonaco: Battle of Titans FINALS KICK-OFF 🚨🚨🚨
@@ -5888,9 +5888,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1488918141950431245 — 2023-01-23 21:00 UTC (2023-01-23 22:00 WAT)
+    #### Quoted post — @matchbox_dao — 2023-01-23 21:00 UTC (2023-01-23 22:00 WAT)
     
-    - URL: https://x.com/1488918141950431245/status/1617628285902684160
+    - URL: https://x.com/matchbox_dao/status/1617628285902684160
     - Metrics (at fetch): bookmark 1, impression 190358, like 112, quote 23, reply 9, retweet 28
     
     > QUALIFIED TEAMS ANNOUNCEMENT 🤩
@@ -5985,9 +5985,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1533733672310145024 — 2023-01-11 13:37 UTC (2023-01-11 14:37 WAT)
+    #### Quoted post — @stader__near — 2023-01-11 13:37 UTC (2023-01-11 14:37 WAT)
     
-    - URL: https://x.com/1533733672310145024/status/1613168341572812800
+    - URL: https://x.com/stader__near/status/1613168341572812800
     - Metrics (at fetch): bookmark 0, impression 14016, like 88, quote 6, reply 92, retweet 55
     
     > 📢Get ready for AMA with @osec_io 
@@ -6071,9 +6071,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1585498332595720192 — 2023-01-08 06:44 UTC (2023-01-08 07:44 WAT)
+    #### Quoted post — @LamportDAO — 2023-01-08 06:44 UTC (2023-01-08 07:44 WAT)
     
-    - URL: https://x.com/1585498332595720192/status/1611977041678860291
+    - URL: https://x.com/LamportDAO/status/1611977041678860291
     - Metrics (at fetch): bookmark 0, impression 8606, like 46, quote 1, reply 2, retweet 12
     
     > We're happy to have @osec_io as a workshop partner for Sandstorm!
@@ -6277,9 +6277,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1491526425580474368 — 2022-12-12 17:40 UTC (2022-12-12 18:40 WAT)
+    #### Quoted post — @Aptos — 2022-12-12 17:40 UTC (2022-12-12 18:40 WAT)
     
-    - URL: https://x.com/1491526425580474368/status/1602357660988440576
+    - URL: https://x.com/Aptos/status/1602357660988440576
     - Metrics (at fetch): bookmark 8, impression 0, like 216, quote 12, reply 9, retweet 146
     
     > 1/ All in on the #MoveLang?
@@ -6426,9 +6426,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1319287761048723458 — 2022-11-12 11:15 UTC (2022-11-12 12:15 WAT)
+    #### Quoted post — @MarioNawfal — 2022-11-12 11:15 UTC (2022-11-12 12:15 WAT)
     
-    - URL: https://x.com/1319287761048723458/status/1591389209075814406
+    - URL: https://x.com/MarioNawfal/status/1591389209075814406
     - Metrics (at fetch): bookmark 88, impression 0, like 2343, quote 71, reply 113, retweet 557
     
     > 🚨MASSIVE REVELATION
@@ -6968,9 +6968,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1384968566743740418 — 2022-10-06 19:05 UTC (2022-10-06 20:05 WAT)
+    #### Quoted post — @switchboardxyz — 2022-10-06 19:05 UTC (2022-10-06 20:05 WAT)
     
-    - URL: https://x.com/1384968566743740418/status/1578099158468022273
+    - URL: https://x.com/switchboardxyz/status/1578099158468022273
     - Metrics (at fetch): bookmark 0, impression 0, like 20, quote 3, reply 2, retweet 8
     
     > Switchboard Labs is excited to announce our security partnership with @osec_io!
@@ -7105,9 +7105,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1392527288734998536 — 2022-09-26 15:29 UTC (2022-09-26 16:29 WAT)
+    #### Quoted post — @multisig — 2022-09-26 15:29 UTC (2022-09-26 16:29 WAT)
     
-    - URL: https://x.com/1392527288734998536/status/1574420962841309185
+    - URL: https://x.com/multisig/status/1574420962841309185
     - Metrics (at fetch): bookmark 2, impression 0, like 36, quote 4, reply 1, retweet 9
     
     > 1/ Given enough eyeballs, all bugs are shallow. The time has come for yet another vital step towards ensuring security of our on-chain codebase.
@@ -7155,9 +7155,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1533733672310145024 — 2022-09-20 18:46 UTC (2022-09-20 19:46 WAT)
+    #### Quoted post — @stader__near — 2022-09-20 18:46 UTC (2022-09-20 19:46 WAT)
     
-    - URL: https://x.com/1533733672310145024/status/1572296202036842497
+    - URL: https://x.com/stader__near/status/1572296202036842497
     - Metrics (at fetch): bookmark 1, impression 0, like 21, quote 1, reply 3, retweet 2
     
     > 3⃣Auditors gave #UpgradedNearX a clean bill of health
@@ -7195,9 +7195,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1338852157337071623 — 2022-09-16 19:55 UTC (2022-09-16 20:55 WAT)
+    #### Quoted post — @PontemNetwork — 2022-09-16 19:55 UTC (2022-09-16 20:55 WAT)
     
-    - URL: https://x.com/1338852157337071623/status/1570863942515445761
+    - URL: https://x.com/PontemNetwork/status/1570863942515445761
     - Metrics (at fetch): bookmark 2, impression 0, like 25, quote 1, reply 2, retweet 9
     
     > Our latest article is a deep dive into blockchain audits – how they work, the key smart contract audit firms, &amp; how hackers can exploit unaudited code.
@@ -7265,9 +7265,9 @@ Tags (automatic): Smart contract / DeFi, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1385335914344427522 — 2022-09-12 08:02 UTC (2022-09-12 09:02 WAT)
+    #### Quoted post — @GooseFX1 — 2022-09-12 08:02 UTC (2022-09-12 09:02 WAT)
     
-    - URL: https://x.com/1385335914344427522/status/1569234891426140161
+    - URL: https://x.com/GooseFX1/status/1569234891426140161
     - Metrics (at fetch): bookmark 0, impression 0, like 27, quote 2, reply 7, retweet 5
     
     > GooseGang Chewing Glass every Season 💪
@@ -7324,9 +7324,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @951329744804392960 — 2022-09-14 16:05 UTC (2022-09-14 17:05 WAT)
+    #### Quoted post — @solana — 2022-09-14 16:05 UTC (2022-09-14 17:05 WAT)
     
-    - URL: https://x.com/951329744804392960/status/1570081422857101312
+    - URL: https://x.com/solana/status/1570081422857101312
     - Metrics (at fetch): bookmark 111, impression 0, like 860, quote 127, reply 145, retweet 277
     
     > 1/ gm, campers! The #SolanaSummerCamp Hackathon saw nearly 18,000 participants submit 750 final projects to the judges. 
@@ -7411,9 +7411,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1428872926363754497 — 2022-09-07 22:00 UTC (2022-09-07 23:00 WAT)
+    #### Quoted post — @SuiNetwork — 2022-09-07 22:00 UTC (2022-09-07 23:00 WAT)
     
-    - URL: https://x.com/1428872926363754497/status/1567633856857088000
+    - URL: https://x.com/SuiNetwork/status/1567633856857088000
     - Metrics (at fetch): bookmark 3, impression 0, like 51, quote 3, reply 8, retweet 12
     
     > https://x.com/i/spaces/1BRJjZzRElVJw
@@ -7442,9 +7442,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1038484278810570752 — 2022-09-06 18:03 UTC (2022-09-06 19:03 WAT)
+    #### Quoted post — @NotDeGhost — 2022-09-06 18:03 UTC (2022-09-06 19:03 WAT)
     
-    - URL: https://x.com/1038484278810570752/status/1567211967361736704
+    - URL: https://x.com/NotDeGhost/status/1567211967361736704
     - Metrics (at fetch): bookmark 24, impression 0, like 118, quote 3, reply 7, retweet 36
     
     > How do we make smart contracts structurally safer? 
@@ -7640,9 +7640,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1392527288734998536 — 2022-08-16 16:57 UTC (2022-08-16 17:57 WAT)
+    #### Quoted post — @multisig — 2022-08-16 16:57 UTC (2022-08-16 17:57 WAT)
     
-    - URL: https://x.com/1392527288734998536/status/1559585084272889856
+    - URL: https://x.com/multisig/status/1559585084272889856
     - Metrics (at fetch): bookmark 0, impression 0, like 42, quote 3, reply 1, retweet 3
     
     > 9/ To ensure the security of the V3 standard we did the following:
@@ -7732,9 +7732,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1384245094295822336 — 2022-08-08 14:40 UTC (2022-08-08 15:40 WAT)
+    #### Quoted post — @JetProtocol — 2022-08-08 14:40 UTC (2022-08-08 15:40 WAT)
     
-    - URL: https://x.com/1384245094295822336/status/1556651590324453376
+    - URL: https://x.com/JetProtocol/status/1556651590324453376
     - Metrics (at fetch): bookmark 0, impression 0, like 18, quote 1, reply 1, retweet 0
     
     > 6/14 As always - security is at the forefront of everything that gets released from @JetProtocol - the full audit report from @osec_io can be found here: https://github.com/jet-lab/jet-v2/blob/master/audit_reports/jet-v2-otter-sec-audit-report.pdf
@@ -7989,9 +7989,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1530530365 — 2022-07-10 14:17 UTC (2022-07-10 15:17 WAT)
+    #### Quoted post — @chainlink — 2022-07-10 14:17 UTC (2022-07-10 15:17 WAT)
     
-    - URL: https://x.com/1530530365/status/1546136630704193537
+    - URL: https://x.com/chainlink/status/1546136630704193537
     - Metrics (at fetch): bookmark 0, impression 0, like 122, quote 2, reply 8, retweet 17
     
     > @nardotrealtor @RopesGray @CrustNetwork @CryptoMondaysSF @CryptoBabesClub @NEARFoundation On 7/14 in New York City, a panel discussion with @avalabsofficial, @CertiK, and @truflation covering pioneering Web3 technology and the need for practical and secure #DeFi tools.
@@ -8185,9 +8185,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1514077700608065539 — 2022-05-07 02:00 UTC (2022-05-07 03:00 WAT)
+    #### Quoted post — @Otter_Intern — 2022-05-07 02:00 UTC (2022-05-07 03:00 WAT)
     
-    - URL: https://x.com/1514077700608065539/status/1522758209043197952
+    - URL: https://x.com/Otter_Intern/status/1522758209043197952
     - Metrics (at fetch): bookmark 1, impression 0, like 0, quote 2, reply 0, retweet 0
     
     > We're live!
@@ -8230,9 +8230,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1514077700608065539 — 2022-04-30 13:52 UTC (2022-04-30 14:52 WAT)
+    #### Quoted post — @Otter_Intern — 2022-04-30 13:52 UTC (2022-04-30 14:52 WAT)
     
-    - URL: https://x.com/1514077700608065539/status/1520400700349374465
+    - URL: https://x.com/Otter_Intern/status/1520400700349374465
     - Metrics (at fetch): bookmark 1, impression 0, like 3, quote 1, reply 0, retweet 0
     
     > Starting in a bit!
@@ -8512,9 +8512,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1390300692317761546 — 2022-04-15 09:58 UTC (2022-04-15 10:58 WAT)
+    #### Quoted post — @port_finance — 2022-04-15 09:58 UTC (2022-04-15 10:58 WAT)
     
-    - URL: https://x.com/1390300692317761546/status/1514905944630923264
+    - URL: https://x.com/port_finance/status/1514905944630923264
     - Metrics (at fetch): bookmark 3, impression 0, like 44, quote 1, reply 8, retweet 6
     
     > Independent security research firm @osec_io  has completed a thorough audit for Port Finance's Sundial Program for fixed-rate borrowing and lending. ⏰
@@ -8669,9 +8669,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1384245094295822336 — 2022-04-13 22:47 UTC (2022-04-13 23:47 WAT)
+    #### Quoted post — @JetProtocol — 2022-04-13 22:47 UTC (2022-04-13 23:47 WAT)
     
-    - URL: https://x.com/1384245094295822336/status/1514374653967421441
+    - URL: https://x.com/JetProtocol/status/1514374653967421441
     - Metrics (at fetch): bookmark 3, impression 0, like 74, quote 9, reply 12, retweet 17
     
     > Jetters, we landed. 🛬
@@ -8749,9 +8749,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1384245094295822336 — 2022-04-13 22:47 UTC (2022-04-13 23:47 WAT)
+    #### Quoted post — @JetProtocol — 2022-04-13 22:47 UTC (2022-04-13 23:47 WAT)
     
-    - URL: https://x.com/1384245094295822336/status/1514374669364699146
+    - URL: https://x.com/JetProtocol/status/1514374669364699146
     - Metrics (at fetch): bookmark 1, impression 0, like 10, quote 1, reply 1, retweet 0
     
     > 🔐Security — Audit Report  
@@ -8776,9 +8776,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1384968566743740418 — 2022-03-29 18:15 UTC (2022-03-29 19:15 WAT)
+    #### Quoted post — @switchboardxyz — 2022-03-29 18:15 UTC (2022-03-29 19:15 WAT)
     
-    - URL: https://x.com/1384968566743740418/status/1508870557223342086
+    - URL: https://x.com/switchboardxyz/status/1508870557223342086
     - Metrics (at fetch): bookmark 1, impression 0, like 11, quote 1, reply 0, retweet 2
     
     > In this episode, we will dig deep into an LP token pricing anti-pattern brought to our attention by @osec_io , and how it led to the development of our Fair LP Token Price datafeeds! https://t.co/d7ZMtNzHh1

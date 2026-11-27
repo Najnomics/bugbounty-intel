@@ -1,6 +1,6 @@
 # @ma1fan — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 167
 - Conversations/threads: 153
@@ -15,9 +15,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @973201595965038592 — 2026-11-23 17:47 UTC (2026-11-23 18:47 WAT)
+#### Root post — @SagivMooly — 2026-11-23 17:47 UTC (2026-11-23 18:47 WAT)
 
-- URL: https://x.com/973201595965038592/status/2124922904567541805
+- URL: https://x.com/SagivMooly/status/2124922904567541805
 - Metrics (at fetch): bookmark 4, impression 1048, like 57, quote 0, reply 4, retweet 1
 
 > Eight years ago, I felt it was time to step down from the ivory tower of academia to make formal verification a standard practice in software development. 
@@ -206,9 +206,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1626748042278838274 — 2026-10-29 14:37 UTC (2026-10-29 15:37 WAT)
+    #### Quoted post — @0xHedgehood — 2026-10-29 14:37 UTC (2026-10-29 15:37 WAT)
     
-    - URL: https://x.com/1626748042278838274/status/2115815260330635638
+    - URL: https://x.com/0xHedgehood/status/2115815260330635638
     - Metrics (at fetch): bookmark 1, impression 4082, like 50, quote 4, reply 10, repost 10
     
     > security first 🦔
@@ -246,9 +246,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1155440097526996998 — 2026-10-28 19:55 UTC (2026-10-28 20:55 WAT)
+    #### Quoted post — @eladernst — 2026-10-28 19:55 UTC (2026-10-28 20:55 WAT)
     
-    - URL: https://x.com/1155440097526996998/status/2115532916206055662
+    - URL: https://x.com/eladernst/status/2115532916206055662
     - Metrics (at fetch): bookmark 21, impression 1960, like 22, quote 1, reply 2, repost 2
     
     > We extracted a Sei validator's private consensus key remotely. No login, no code execution, no bug in the cryptography.
@@ -301,9 +301,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1626748042278838274 — 2026-10-22 05:58 UTC (2026-10-22 06:58 WAT)
+    #### Quoted post — @0xHedgehood — 2026-10-22 05:58 UTC (2026-10-22 06:58 WAT)
     
-    - URL: https://x.com/1626748042278838274/status/2113147972611633372
+    - URL: https://x.com/0xHedgehood/status/2113147972611633372
     - Metrics (at fetch): bookmark 0, impression 5310, like 39, quote 4, reply 7, repost 5
     
     > we're working with ExVul on another audit of our smart contracts.
@@ -1062,9 +1062,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1703447900607664128 — 2026-03-25 03:35 UTC (2026-03-25 04:35 WAT)
+    #### Quoted post — @EXVULSEC — 2026-03-25 03:35 UTC (2026-03-25 04:35 WAT)
     
-    - URL: https://x.com/1703447900607664128/status/2036648031727292501
+    - URL: https://x.com/EXVULSEC/status/2036648031727292501
     - Metrics (at fetch): not returned
     
     > Check out this article: One Line, All Funds: How a Static IV Turned Nightly Wallet's Encryption Into a Two-Time Pad https://exvul.com/blog/nightly-wallet-static-iv-two-time-pad
@@ -1125,9 +1125,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1703447900607664128 — 2026-03-03 03:50 UTC (2026-03-03 04:50 WAT)
+    #### Quoted post — @EXVULSEC — 2026-03-03 03:50 UTC (2026-03-03 04:50 WAT)
     
-    - URL: https://x.com/1703447900607664128/status/2028679330533089425
+    - URL: https://x.com/EXVULSEC/status/2028679330533089425
     - Metrics (at fetch): not returned
     
     > 🚨NEW:  We  found a previously unknown bug in Anchor Framework (v0.31.0+)
@@ -1165,9 +1165,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1703447900607664128 — 2026-03-03 03:50 UTC (2026-03-03 04:50 WAT)
+    #### Quoted post — @EXVULSEC — 2026-03-03 03:50 UTC (2026-03-03 04:50 WAT)
     
-    - URL: https://x.com/1703447900607664128/status/2028679330533089425
+    - URL: https://x.com/EXVULSEC/status/2028679330533089425
     - Metrics (at fetch): not returned
     
     > 🚨NEW:  We  found a previously unknown bug in Anchor Framework (v0.31.0+)
@@ -1648,9 +1648,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1403698101060313090 — 2025-06-06 10:45 UTC (2025-06-06 11:45 WAT)
+    #### Quoted post — @ALEXLabBTC — 2025-06-06 10:45 UTC (2025-06-06 11:45 WAT)
     
-    - URL: https://x.com/1403698101060313090/status/1930939119913542029
+    - URL: https://x.com/ALEXLabBTC/status/1930939119913542029
     - Metrics (at fetch): not returned
     
     > 🚨 Security Incident Update from ALEX 🚨
@@ -1711,9 +1711,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1562178659766751237 — 2025-05-07 02:44 UTC (2025-05-07 03:44 WAT)
+    #### Quoted post — @trentdotsol — 2025-05-07 02:44 UTC (2025-05-07 03:44 WAT)
     
-    - URL: https://x.com/1562178659766751237/status/1919946468959650027
+    - URL: https://x.com/trentdotsol/status/1919946468959650027
     - Metrics (at fetch): bookmark 18, impression 29214, like 47, quote 4, reply 2, retweet 2
     
     > h/t @lonelysloth_sec for the original report!
@@ -1877,9 +1877,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @951329744804392960 — 2025-03-16 14:29 UTC (2025-03-16 15:29 WAT)
+    #### Quoted post — @solana — 2025-03-16 14:29 UTC (2025-03-16 15:29 WAT)
     
-    - URL: https://x.com/951329744804392960/status/1901279678620749997
+    - URL: https://x.com/solana/status/1901279678620749997
     - Metrics (at fetch): bookmark 252, impression 2284995, like 11358, quote 797, reply 2241, retweet 2485
     
     > Happy 5th birthday Solana fam! 🥳
@@ -1997,9 +1997,9 @@ Tags (automatic): RCE, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1686334388789735425 — 2025-02-21 17:17 UTC (2025-02-21 18:17 WAT)
+    #### Quoted post — @marcohextor — 2025-02-21 17:17 UTC (2025-02-21 18:17 WAT)
     
-    - URL: https://x.com/1686334388789735425/status/1892986922382803047
+    - URL: https://x.com/marcohextor/status/1892986922382803047
     - Metrics (at fetch): bookmark 6, impression 8500, like 52, quote 1, reply 7, retweet 6
     
     > In light of the recent @Bybit_Official billionaire hack, and in case you were wondering...
@@ -2027,9 +2027,9 @@ Tags (automatic): RCE, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1686334388789735425 — 2025-02-21 17:17 UTC (2025-02-21 18:17 WAT)
+    #### Quoted post — @marcohextor — 2025-02-21 17:17 UTC (2025-02-21 18:17 WAT)
     
-    - URL: https://x.com/1686334388789735425/status/1892986922382803047
+    - URL: https://x.com/marcohextor/status/1892986922382803047
     - Metrics (at fetch): bookmark 6, impression 8500, like 52, quote 1, reply 7, retweet 6
     
     > In light of the recent @Bybit_Official billionaire hack, and in case you were wondering...
@@ -2057,9 +2057,9 @@ Tags (automatic): RCE, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1703447900607664128 — 2025-02-21 02:06 UTC (2025-02-21 03:06 WAT)
+    #### Quoted post — @EXVULSEC — 2025-02-21 02:06 UTC (2025-02-21 03:06 WAT)
     
-    - URL: https://x.com/1703447900607664128/status/1892757846410088728
+    - URL: https://x.com/EXVULSEC/status/1892757846410088728
     - Metrics (at fetch): bookmark 1, impression 1983, like 6, quote 1, reply 1, retweet 1
     
     > BREAKING: Bitcoin Lightning Network Alert – What Really Happened?
@@ -2347,9 +2347,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1703447900607664128 — 2024-11-04 02:02 UTC (2024-11-04 03:02 WAT)
+    #### Quoted post — @EXVULSEC — 2024-11-04 02:02 UTC (2024-11-04 03:02 WAT)
     
-    - URL: https://x.com/1703447900607664128/status/1853256355974389996
+    - URL: https://x.com/EXVULSEC/status/1853256355974389996
     - Metrics (at fetch): bookmark 26, impression 19471, like 45, quote 6, reply 1, retweet 3
     
     > Why did the @swaylend  protocol failed to allow users to withdraw funds 3 days ago?  
@@ -2653,9 +2653,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1703447900607664128 — 2024-07-24 08:26 UTC (2024-07-24 09:26 WAT)
+    #### Quoted post — @EXVULSEC — 2024-07-24 08:26 UTC (2024-07-24 09:26 WAT)
     
-    - URL: https://x.com/1703447900607664128/status/1816027204306026738
+    - URL: https://x.com/EXVULSEC/status/1816027204306026738
     - Metrics (at fetch): bookmark 0, impression 918, like 0, quote 1, reply 0, retweet 0
     
     > 🛡️ Join the ExVul Web3 Scam Defender Challenge from July 24 to August 24! Protect your Web3 assets, spot fake URLs and impersonation accounts, and win big rewards:
@@ -2862,9 +2862,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1442376532064804865 — 2023-06-12 08:44 UTC (2023-06-12 09:44 WAT)
+    #### Quoted post — @numencyber — 2023-06-12 08:44 UTC (2023-06-12 09:44 WAT)
     
-    - URL: https://x.com/1442376532064804865/status/1668177360976486403
+    - URL: https://x.com/numencyber/status/1668177360976486403
     - Metrics (at fetch): bookmark 5, impression 6716, like 26, quote 4, reply 0, retweet 8
     
     > ICYMI, last week, we deconstructed the patch released by #Microsoft to craft a PoC exploit on Windows Server 2016.
@@ -2893,9 +2893,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1442376532064804865 — 2023-06-08 15:21 UTC (2023-06-08 16:21 WAT)
+    #### Quoted post — @numencyber — 2023-06-08 15:21 UTC (2023-06-08 16:21 WAT)
     
-    - URL: https://x.com/1442376532064804865/status/1666827840200003584
+    - URL: https://x.com/numencyber/status/1666827840200003584
     - Metrics (at fetch): bookmark 0, impression 5960, like 12, quote 1, reply 1, retweet 7
     
     > “Numen Cyber has deconstructed the patch released by #Microsoft to craft a PoC exploit for Windows Server 2016… 
@@ -3154,9 +3154,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1187929919713464320 — 2021-09-27 15:49 UTC (2021-09-27 16:49 WAT)
+    #### Quoted post — @GHSecurityLab — 2021-09-27 15:49 UTC (2021-09-27 16:49 WAT)
     
-    - URL: https://x.com/1187929919713464320/status/1442516736117547010
+    - URL: https://x.com/GHSecurityLab/status/1442516736117547010
     - Metrics (at fetch): bookmark 29, impression 0, like 196, quote 4, reply 2, retweet 76
     
     > Curious how the recently patched Chrome 0days (CVE-2021-30632, CVE-2021-30633) affected you? @mmolgtm explores the fascinating intricacies of exploiting optimized property access based type confusions in Chrome's v8 JIT https://t.co/evmPTWTcE5 https://t.co/IkSNmjw5BI

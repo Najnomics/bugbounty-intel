@@ -151,6 +151,23 @@ Source: `hackerone/reports/2024/1380157.md` (https://hackerone.com/reports/13801
 <iframe srcdoc="&#x3c;script src='/file-upload/<UPLOAD ID>/payload.js?download'></script>">
 ```
 
+## #3490059 Unicode RTLO character allowed in uploaded filenames leading to executable file upload and misleading UI handling in Nextcloud Notes — nextcloud — - — Violation of Secure Design Principles
+Source: `hackerone/reports/2026/3490059.md` (https://hackerone.com/reports/3490059)
+
+```
+   touch "invoice$(printf '\u202E')fdp.exe"
+   
+```
+
+```
+   invoicefdp.exe
+   
+```
+
+```
+invoice<U+202E>fdp.exe
+```
+
 ## #3765476 Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ████████ — essity — - — Missing Authentication for Critical Function
 Source: `hackerone/reports/2026/3765476.md` (https://hackerone.com/reports/3765476)
 

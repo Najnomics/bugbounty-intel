@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@zack0x01_/how-ive-found-idor-xss-all-users-account-takeover-a49d59cf5108?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@zack0x01_
-- **Fetched:** 2026-11-19
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 6515)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

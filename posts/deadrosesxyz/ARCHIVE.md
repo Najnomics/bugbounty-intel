@@ -1,11 +1,102 @@
 # @deadrosesxyz — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 82
-- Conversations/threads: 71
+- Posts in this file: 86
+- Conversations/threads: 74
 - Oldest post captured: 2023-03-14
-- Newest post captured: 2026-11-22
+- Newest post captured: 2026-11-26
+
+
+---
+
+## 2026-11-26 · Reply · @0xjaypeg surely, there's always a greater fool?
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @0xjaypeg — 2026-11-26 01:13 UTC (2026-11-26 02:13 WAT)
+
+- URL: https://x.com/0xjaypeg/status/2125759919664353652
+- Metrics (at fetch): bookmark 6, impression 8047, like 35, quote 0, reply 13, retweet 1
+
+> if u are buying pearl here, who do u think is the marginal buyer
+
+
+### Post — @deadrosesxyz — 2026-11-26 10:05 UTC (2026-11-26 11:05 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/2125893799419207775
+- Metrics (at fetch): bookmark 0, impression 254, like 0, quote 0, reply 0, repost 0
+
+> @0xjaypeg surely, there's always a greater fool?
+
+
+---
+
+## 2026-11-25 · Reply · @mdudas finally someone said it
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @mdudas — 2026-11-25 15:27 UTC (2026-11-25 16:27 WAT)
+
+- URL: https://x.com/mdudas/status/2125612253936230876
+- Metrics (at fetch): bookmark 47, impression 88713, like 328, quote 10, reply 51, retweet 13
+
+> if the argument for pearl is that it’s money / store of value, it seems like a really bad buy here to me at a $4B valuation, which is 35% of ZEC
+>
+> BTC and ZEC both had 93%+ drawdowns and multiple other massive drawdowns over many years 
+>
+> but they were held close to formation by “true believers” invested in a much longer term cultural, world view and philosophical beliefs rather than logic-based “venture bet” and corporate holders 
+>
+> simply can’t see the pearl holders sticking around through drawdowns that would ruin their funds or balance sheets. to me, it’s just one massive speculative short term meme bet on how high it goes before an astonishing correction
+
+
+### Post — @deadrosesxyz — 2026-11-25 16:15 UTC (2026-11-25 17:15 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/2125624546447315433
+- Metrics (at fetch): bookmark 0, impression 484, like 1, quote 0, reply 0, repost 0
+
+> @mdudas finally someone said it
+
+
+---
+
+## 2026-11-25 · Thread · @0xGeeGee the core business is still sound and the protocol is trading at 5x yearly revenue.
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @0xGeeGee — 2026-11-25 15:19 UTC (2026-11-25 16:19 WAT)
+
+- URL: https://x.com/0xGeeGee/status/2125610429938573642
+- Metrics (at fetch): bookmark 3, impression 2412, like 14, quote 0, reply 4, retweet 0
+
+> Could have held the short on maple much longer, always short the big management reshuffles unless there’s a very specific reason to be bullish about it
+>
+> As for chip, what made it interesting is what now is weighting on it obviously https://twitter.com/hammerfrog64/status/2125586133287669957
+
+**Links in post:** https://twitter.com/hammerfrog64/status/2125586133287669957
+
+**Quoted post** 2125586133287669957: not readable via the API (deleted, private, or withheld).
+
+
+### Post — @deadrosesxyz — 2026-11-25 15:38 UTC (2026-11-25 16:38 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/2125615208219480252
+- Metrics (at fetch): bookmark 0, impression 320, like 0, quote 0, reply 1, repost 0
+
+> @0xGeeGee the core business is still sound and the protocol is trading at 5x yearly revenue.
+>
+> definitely oversold at these levels.
+
+
+### Thread part 2 — @deadrosesxyz — 2026-11-25 15:40 UTC (2026-11-25 16:40 WAT)
+
+- URL: https://x.com/deadrosesxyz/status/2125615732805222402
+- Metrics (at fetch): bookmark 0, impression 108, like 0, quote 0, reply 0, repost 0
+
+> @0xGeeGee the team can just announce temporarily increasing buybacks to 30-50% and the token will 2x in a single candle.
 
 
 ---
@@ -15,9 +106,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @1600230048572792846 — 2026-11-22 16:59 UTC (2026-11-22 17:59 WAT)
+#### Root post — @sjdedic — 2026-11-22 16:59 UTC (2026-11-22 17:59 WAT)
 
-- URL: https://x.com/1600230048572792846/status/2124548356571590812
+- URL: https://x.com/sjdedic/status/2124548356571590812
 - Metrics (at fetch): bookmark 20, impression 8427, like 103, quote 0, reply 39, retweet 4
 
 > I'm currently accumulating 3 badly overlooked onchain businesses.
@@ -887,9 +978,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1358831196747235328 — 2026-05-13 09:21 UTC (2026-05-13 10:21 WAT)
+    #### Quoted post — @code4rena — 2026-05-13 09:21 UTC (2026-05-13 10:21 WAT)
     
-    - URL: https://x.com/1358831196747235328/status/2054492147156386042
+    - URL: https://x.com/code4rena/status/2054492147156386042
     - Metrics (at fetch): bookmark 19, impression 145544, like 280, quote 159, reply 27, repost 30
     
     > After careful consideration, we’ve made the decision to wind down @code4rena. This community has meant a great deal to everyone who has been part of building it, and sharing this news is not easy.
@@ -1025,9 +1116,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1877728835216568321 — 2025-01-11 16:16 UTC (2025-01-11 17:16 WAT)
+    #### Quoted post — @bountyhunt3rz — 2025-01-11 16:16 UTC (2025-01-11 17:16 WAT)
     
-    - URL: https://x.com/1877728835216568321/status/1878113703721078891
+    - URL: https://x.com/bountyhunt3rz/status/1878113703721078891
     - Metrics (at fetch): bookmark 88, impression 28790, like 129, quote 8, reply 5, retweet 13
     
     > bountyhunt3rz: life on the blockchain: EP1
@@ -1117,9 +1208,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1364431083824062464 — 2024-12-06 13:04 UTC (2024-12-06 14:04 WAT)
+    #### Quoted post — @SherlockDefi — 2024-12-06 13:04 UTC (2024-12-06 14:04 WAT)
     
-    - URL: https://x.com/1364431083824062464/status/1865019364505743743
+    - URL: https://x.com/SherlockDefi/status/1865019364505743743
     - Metrics (at fetch): bookmark 7, impression 28251, like 154, quote 4, reply 7, retweet 4
     
     > Introducing @deadrosesxyz, the next founding security researcher at @blackthornxyz.
@@ -1151,9 +1242,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1295028541139177482 — 2024-02-06 15:00 UTC (2024-02-06 16:00 WAT)
+    #### Quoted post — @EulerFinance — 2024-02-06 15:00 UTC (2024-02-06 16:00 WAT)
     
-    - URL: https://x.com/1295028541139177482/status/1754882657018687875
+    - URL: https://x.com/EulerFinance/status/1754882657018687875
     - Metrics (at fetch): bookmark 24, impression 32350, like 37, quote 2, reply 0, retweet 1
     
     > Reminder 👋
@@ -1337,9 +1428,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1295028541139177482 — 2024-01-11 13:13 UTC (2024-01-11 14:13 WAT)
+    #### Quoted post — @EulerFinance — 2024-01-11 13:13 UTC (2024-01-11 14:13 WAT)
     
-    - URL: https://x.com/1295028541139177482/status/1745433647078134029
+    - URL: https://x.com/EulerFinance/status/1745433647078134029
     - Metrics (at fetch): bookmark 91, impression 107944, like 325, quote 27, reply 15, retweet 60
     
     > 1/ The first building block of Euler v2 is here.
@@ -1918,9 +2009,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @706491515527364610 — 2023-04-27 16:43 UTC (2023-04-27 17:43 WAT)
+    #### Quoted post — @high_byte — 2023-04-27 16:43 UTC (2023-04-27 17:43 WAT)
     
-    - URL: https://x.com/706491515527364610/status/1651628243227746311
+    - URL: https://x.com/high_byte/status/1651628243227746311
     - Metrics (at fetch): bookmark 0, impression 4429, like 3, quote 1, reply 1, retweet 0
     
     > next up is @deadrosesxyz for his report on my own security tool, Zerem the neighborhood friendly circuit breaker.
@@ -1961,9 +2052,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15738703 — 2023-04-08 18:24 UTC (2023-04-08 19:24 WAT)
+    #### Quoted post — @zachobront — 2023-04-08 18:24 UTC (2023-04-08 19:24 WAT)
     
-    - URL: https://x.com/15738703/status/1644768121683574793
+    - URL: https://x.com/zachobront/status/1644768121683574793
     - Metrics (at fetch): bookmark 37, impression 14493, like 97, quote 2, reply 8, retweet 10
     
     > Anytime I don’t catch an issue, I stop and ask myself: What was I missing that would have allowed me to find it?

@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@l_s_/self-xss-login-csrf-oauth-account-takeover-6357f3395b49?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@l_s_
-- **Fetched:** 2026-11-16
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 6579)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

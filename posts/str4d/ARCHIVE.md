@@ -1,6 +1,6 @@
 # @str4d — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 71
 - Conversations/threads: 64
@@ -95,9 +95,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1361909631187001350 — 2022-07-19 05:41 UTC (2022-07-19 06:41 WAT)
+    #### Quoted post — @Scroll_ZKP — 2022-07-19 05:41 UTC (2022-07-19 06:41 WAT)
     
-    - URL: https://x.com/1361909631187001350/status/1549268276152500225
+    - URL: https://x.com/Scroll_ZKP/status/1549268276152500225
     - Metrics (at fetch): not returned
     
     > After over a year of building our zkEVM-based zkRollup in close collaboration with the @PrivacyScaling group at the Ethereum Foundation, we are releasing the pre-alpha version of Scroll for external testers! 📜
@@ -396,9 +396,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @9906082 — 2020-06-08 22:02 UTC (2020-06-08 23:02 WAT)
+    #### Quoted post — @justinsteven — 2020-06-08 22:02 UTC (2020-06-08 23:02 WAT)
     
-    - URL: https://x.com/9906082/status/1270113960021209088
+    - URL: https://x.com/justinsteven/status/1270113960021209088
     - Metrics (at fetch): not returned
     
     > An S3 bucket takeover and PGP signature bypass in fwupd (CVE-2020-10759) put me between a whooole bunch of Linux computers and their firmware updates. https://github.com/justinsteven/advisories/blob/master/2020_fwupd_dangling_s3_bucket_and_CVE-2020-10759_signature_verification_bypass.md [pic.x.com/T5nikrfZGM]
@@ -837,9 +837,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @22847791 — 2018-01-04 18:28 UTC (2018-01-04 19:28 WAT)
+    #### Quoted post — @socrates1024 — 2018-01-04 18:28 UTC (2018-01-04 19:28 WAT)
     
-    - URL: https://x.com/22847791/status/948984484644483074
+    - URL: https://x.com/socrates1024/status/948984484644483074
     - Metrics (at fetch): not returned
     
     > Experimenting with visualizing/translating SNARK circuits. Here's a treemap of the variables in Zcash Sprout  https://imgur.com/a/hJT8w
@@ -878,9 +878,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @51049452 — 2017-07-31 21:29 UTC (2017-07-31 22:29 WAT)
+    #### Quoted post — @FiloSottile — 2017-07-31 21:29 UTC (2017-07-31 22:29 WAT)
     
-    - URL: https://x.com/51049452/status/892135255083298817
+    - URL: https://x.com/FiloSottile/status/892135255083298817
     - Metrics (at fetch): bookmark 0, impression 0, like 13, quote 1, reply 0, retweet 5
     
     > To be 0day it must have been before 2015, when @gtank__ and I ran that attack against https://t.co/PQ2DwQnahz 👀 https://t.co/czafTg0k3v https://t.co/CLS9RPiujX

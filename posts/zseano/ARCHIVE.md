@@ -1,41 +1,11 @@
 # @zseano — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 424
+- Posts in this file: 425
 - Conversations/threads: 374
 - Oldest post captured: 2015-08-11
-- Newest post captured: 2026-11-23
-
-
----
-
-## 2026-11-23 · Reply · @ChatGPT don't do this.... please.
-
-
-Tags (automatic): AI-assisted hunting
-
-
-**Context — conversation root by another account:**
-
-#### Root post — @1714438092655149056 — 2026-11-23 21:42 UTC (2026-11-23 22:42 WAT)
-
-- URL: https://x.com/1714438092655149056/status/2124981905380569283
-- Metrics (at fetch): bookmark 831, impression 926103, like 9918, quote 736, reply 1243, retweet 489
-
-> Every model has its day in the sun. For GPT-5.6, it's time to set.
->
-> On December 23, we're deprecating GPT-5.6 Sol in Chat, and GPT-5.6 Sol and Terra in Work and Codex.
->
-> There's always more on the horizon.
-
-
-### Post — @zseano — 2026-11-23 23:25 UTC (2026-11-24 00:25 WAT)
-
-- URL: https://x.com/zseano/status/2125007893292528033
-- Metrics (at fetch): bookmark 1, impression 1097, like 17, quote 0, reply 0, retweet 0
-
-> @ChatGPT don't do this.... please.
+- Newest post captured: 2026-11-26
 
 
 ---
@@ -59,6 +29,44 @@ Tags (automatic): AI-assisted hunting
 - Metrics (at fetch): bookmark 0, impression 73, like 3, quote 0, reply 0, retweet 0
 
 > @keyswift_hunter @Venkywicky2 I’m working as quickly as I can :) I’m behind by a week or so because my kids were off school+nursery the other week with a sickness bug. I’m almost done 🙏🙏
+
+
+### Thread part 3 — @zseano — 2026-11-26 07:46 UTC (2026-11-26 08:46 WAT)
+
+- URL: https://x.com/zseano/status/2125858741392474243
+- Metrics (at fetch): bookmark 0, impression 46, like 2, quote 0, reply 0, repost 0
+
+> @touristfvs Working everyday on it :) I am slightly behind the planned schedule because my kids come down with a sickness bug so I had to take time off to look after them for a few days each time. Soon though I promise! 🙏
+
+
+---
+
+## 2026-11-23 · Reply · @ChatGPT don't do this.... please.
+
+
+Tags (automatic): AI-assisted hunting
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @ChatGPT — 2026-11-23 21:42 UTC (2026-11-23 22:42 WAT)
+
+- URL: https://x.com/ChatGPT/status/2124981905380569283
+- Metrics (at fetch): bookmark 831, impression 926103, like 9918, quote 736, reply 1243, retweet 489
+
+> Every model has its day in the sun. For GPT-5.6, it's time to set.
+>
+> On December 23, we're deprecating GPT-5.6 Sol in Chat, and GPT-5.6 Sol and Terra in Work and Codex.
+>
+> There's always more on the horizon.
+
+
+### Post — @zseano — 2026-11-23 23:25 UTC (2026-11-24 00:25 WAT)
+
+- URL: https://x.com/zseano/status/2125007893292528033
+- Metrics (at fetch): bookmark 1, impression 1097, like 17, quote 0, reply 0, retweet 0
+
+> @ChatGPT don't do this.... please.
 
 
 ---
@@ -1139,9 +1147,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1831435289341894656 — 2026-04-02 18:39 UTC (2026-04-02 19:39 WAT)
+    #### Quoted post — @IntCyberDigest — 2026-04-02 18:39 UTC (2026-04-02 19:39 WAT)
     
-    - URL: https://x.com/1831435289341894656/status/2039774692085526854
+    - URL: https://x.com/IntCyberDigest/status/2039774692085526854
     - Metrics (at fetch): bookmark 979, impression 503880, like 3652, quote 178, reply 128, retweet 833
     
     > 🚨‼️ BREAKING: Adobe has been breached by threat actor Mr. Raccoon, leaking 13 million support tickets with personal data, 15,000 employee records, all HackerOne submissions, internal documents and more.
@@ -1448,9 +1456,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @6224962 — 2025-08-07 19:51 UTC (2025-08-07 20:51 WAT)
+    #### Quoted post — @Xbow — 2025-08-07 19:51 UTC (2025-08-07 20:51 WAT)
     
-    - URL: https://x.com/6224962/status/1953544562154385743
+    - URL: https://x.com/Xbow/status/1953544562154385743
     - Metrics (at fetch): bookmark 52, impression 35461, like 118, quote 4, reply 3, retweet 7
     
     > Last chance to see XBOW’s demo at #BlackHat. (1/3)
@@ -1628,9 +1636,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1577241403 — 2025-03-02 14:59 UTC (2025-03-02 15:59 WAT)
+    #### Quoted post — @levelsio — 2025-03-02 14:59 UTC (2025-03-02 15:59 WAT)
     
-    - URL: https://x.com/1577241403/status/1896213734668095856
+    - URL: https://x.com/levelsio/status/1896213734668095856
     - Metrics (at fetch): bookmark 197, impression 90094, like 741, quote 22, reply 41, retweet 20
     
     > @pahennxyz So in my game there's many ways to crash, you can get killed, or crash into a mountain or building or ground
@@ -1766,9 +1774,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @934191732731842561 — 2024-10-12 22:56 UTC (2024-10-12 23:56 WAT)
+    #### Quoted post — @hackermondev — 2024-10-12 22:56 UTC (2024-10-12 23:56 WAT)
     
-    - URL: https://x.com/934191732731842561/status/1845237116881481975
+    - URL: https://x.com/hackermondev/status/1845237116881481975
     - Metrics (at fetch): not returned
     
     > Zendesk finally responded. Well, if you count a shady-looking GitHub account dropping a blog link as a response: https://support.zendesk.com/hc/en-us/articles/8187090244506-Email-user-verification-bug-bounty-report-retrospective
@@ -1782,9 +1790,9 @@ Tags (automatic): Platform: HackerOne
     
     **Quoted post (full text):**
     
-        #### Quoted post — @934191732731842561 — 2024-10-11 23:09 UTC (2024-10-12 00:09 WAT)
+        #### Quoted post — @hackermondev — 2024-10-11 23:09 UTC (2024-10-12 00:09 WAT)
         
-        - URL: https://x.com/934191732731842561/status/1844877950698537323
+        - URL: https://x.com/hackermondev/status/1844877950698537323
         - Metrics (at fetch): not returned
         
         > 1 Bug, $50K+ in bounties: how Zendesk left a backdoor in hundreds of companies #bugbountytips 
@@ -1812,9 +1820,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @104911452 — 2024-07-24 22:09 UTC (2024-07-24 23:09 WAT)
+    #### Quoted post — @kinugawamasato — 2024-07-24 22:09 UTC (2024-07-24 23:09 WAT)
     
-    - URL: https://x.com/104911452/status/1816234368714871185
+    - URL: https://x.com/kinugawamasato/status/1816234368714871185
     - Metrics (at fetch): bookmark 330, impression 95918, like 422, quote 15, reply 11, retweet 100
     
     > ooh, this works on Chrome Canary :D 
@@ -2234,9 +2242,9 @@ Tags (automatic): IDOR / BOLA
 
 **Quoted post (full text):**
 
-    #### Quoted post — @55643029 — 2023-01-19 22:38 UTC (2023-01-19 23:38 WAT)
+    #### Quoted post — @lorenzoFB — 2023-01-19 22:38 UTC (2023-01-19 23:38 WAT)
     
-    - URL: https://x.com/55643029/status/1616203511514992645
+    - URL: https://x.com/lorenzoFB/status/1616203511514992645
     - Metrics (at fetch): bookmark 6, impression 33712, like 78, quote 6, reply 6, retweet 38
     
     > NEW: T-Mobile got hacked, again. It's the eight time since 2018. 
@@ -2451,9 +2459,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1264663661655789569 — 2022-08-26 10:39 UTC (2022-08-26 11:39 WAT)
+    #### Quoted post — @trick3st — 2022-08-26 10:39 UTC (2022-08-26 11:39 WAT)
     
-    - URL: https://x.com/1264663661655789569/status/1563113885149720576
+    - URL: https://x.com/trick3st/status/1563113885149720576
     - Metrics (at fetch): bookmark 88, impression 0, like 177, quote 1, reply 8, retweet 67
     
     > Hey bug hunters 👋
@@ -2589,9 +2597,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @38752792 — 2022-07-01 19:43 UTC (2022-07-01 20:43 WAT)
+    #### Quoted post — @scarybeasts — 2022-07-01 19:43 UTC (2022-07-01 20:43 WAT)
     
-    - URL: https://x.com/38752792/status/1542957144747626496
+    - URL: https://x.com/scarybeasts/status/1542957144747626496
     - Metrics (at fetch): bookmark 42, impression 0, like 302, quote 23, reply 17, retweet 66
     
     > I've just published the technical post mortem for an incident I've been working on. I hope it's useful to defenders: https://t.co/dZAcsWyZoR
@@ -2620,9 +2628,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3278906401 — 2022-06-02 22:52 UTC (2022-06-02 23:52 WAT)
+    #### Quoted post — @MetaMask — 2022-06-02 22:52 UTC (2022-06-02 23:52 WAT)
     
-    - URL: https://x.com/3278906401/status/1532495402028572672
+    - URL: https://x.com/MetaMask/status/1532495402028572672
     - Metrics (at fetch): bookmark 39, impression 0, like 440, quote 9, reply 88, retweet 154
     
     > We'd like to thank the United Global Whitehat Security Team (UGWST) for this responsible disclosure. ❤
@@ -2775,9 +2783,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1278041212914667523 — 2022-03-18 01:43 UTC (2022-03-18 02:43 WAT)
+    #### Quoted post — @ofjaaah — 2022-03-18 01:43 UTC (2022-03-18 02:43 WAT)
     
-    - URL: https://x.com/1278041212914667523/status/1504634634738540548
+    - URL: https://x.com/ofjaaah/status/1504634634738540548
     - Metrics (at fetch): bookmark 0, impression 0, like 24, quote 1, reply 1, retweet 1
     
     > @zseano @h4t3c0mput3rs 
@@ -3360,9 +3368,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @736615159653924864 — 2021-06-25 12:00 UTC (2021-06-25 13:00 WAT)
+    #### Quoted post — @intigriti — 2021-06-25 12:00 UTC (2021-06-25 13:00 WAT)
     
-    - URL: https://x.com/736615159653924864/status/1408394597848555529
+    - URL: https://x.com/intigriti/status/1408394597848555529
     - Metrics (at fetch): not returned
     
     > 🔴LIVE MENTOR SESSION (starting now): 
@@ -3589,9 +3597,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @429002176 — 2021-01-29 17:54 UTC (2021-01-29 18:54 WAT)
+    #### Quoted post — @MrTuxracer — 2021-01-29 17:54 UTC (2021-01-29 18:54 WAT)
     
-    - URL: https://x.com/429002176/status/1355212613836283917
+    - URL: https://x.com/MrTuxracer/status/1355212613836283917
     - Metrics (at fetch): not returned
     
     > I need to give a huge shout-out to @Bugcrowd and specifically @codingo_ and @vortexau for quickly taking care of this and paying out a super appreciative #BugBounty out of their "make it right" fund.
@@ -3657,9 +3665,9 @@ Tags (automatic): XSS, Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @55643029 — 2021-01-26 19:13 UTC (2021-01-26 20:13 WAT)
+    #### Quoted post — @lorenzoFB — 2021-01-26 19:13 UTC (2021-01-26 20:13 WAT)
     
-    - URL: https://x.com/55643029/status/1354145337112461313
+    - URL: https://x.com/lorenzoFB/status/1354145337112461313
     - Metrics (at fetch): not returned
     
     > NEW: The buzzy new social media site Pillowfort is riddled with basic web bugs. Users found ways to force sign out others just using HTML code in posts. 
@@ -3934,9 +3942,9 @@ Tags (automatic): IDOR / BOLA
 
 **Quoted post (full text):**
 
-    #### Quoted post — @790164858 — 2020-12-03 13:04 UTC (2020-12-03 14:04 WAT)
+    #### Quoted post — @J0_mart — 2020-12-03 13:04 UTC (2020-12-03 14:04 WAT)
     
-    - URL: https://x.com/790164858/status/1334483560863031298
+    - URL: https://x.com/J0_mart/status/1334483560863031298
     - Metrics (at fetch): bookmark 2, impression 0, like 165, quote 2, reply 5, retweet 4
     
     > An encouraging comment is sometimes better than a bounty @securinti @intigriti &lt;3 https://t.co/b7TxRPVMhq
@@ -4171,9 +4179,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @429002176 — 2020-07-22 17:07 UTC (2020-07-22 18:07 WAT)
+    #### Quoted post — @MrTuxracer — 2020-07-22 17:07 UTC (2020-07-22 18:07 WAT)
     
-    - URL: https://x.com/429002176/status/1285984769906442240
+    - URL: https://x.com/MrTuxracer/status/1285984769906442240
     - Metrics (at fetch): not returned
     
     > Over the past 3.5 months, I've conducted a small GDPR case study involving the #BugBounty platforms @Hacker0x01, @Bugcrowd, @synack, @intigriti, and @zerocopter. The results are...interesting. #privacy #GDPR 
@@ -4203,9 +4211,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2479508881 — 2020-07-08 10:32 UTC (2020-07-08 11:32 WAT)
+    #### Quoted post — @AppcheckNG — 2020-07-08 10:32 UTC (2020-07-08 11:32 WAT)
     
-    - URL: https://x.com/2479508881/status/1280812040706314240
+    - URL: https://x.com/AppcheckNG/status/1280812040706314240
     - Metrics (at fetch): not returned
     
     > @zseano Just a quick one to say we are running this same session on the 23rd July if anyone fancies seeing the live version:
@@ -4846,9 +4854,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @17781815 — 2016-11-22 02:39 UTC (2016-11-22 03:39 WAT)
+    #### Quoted post — @yaworsk — 2016-11-22 02:39 UTC (2016-11-22 03:39 WAT)
     
-    - URL: https://x.com/17781815/status/800891418696790016
+    - URL: https://x.com/yaworsk/status/800891418696790016
     - Metrics (at fetch): bookmark 0, impression 0, like 21, quote 1, reply 3, retweet 3
     
     > Joined by @jhaddix to interview @zseano for Hacking ProTips 9 tonight. Awesome tips for how to dig deeper on #bugbounty programs! Avail Wed
@@ -5855,9 +5863,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @12681982 — 2016-07-25 17:19 UTC (2016-07-25 18:19 WAT)
+    #### Quoted post — @samhouston — 2016-07-25 17:19 UTC (2016-07-25 18:19 WAT)
     
-    - URL: https://x.com/12681982/status/757626419912450048
+    - URL: https://x.com/samhouston/status/757626419912450048
     - Metrics (at fetch): bookmark 0, impression 0, like 5, quote 1, reply 0, retweet 0
     
     > @phwd @Bugcrowd If it's any consolation, finding good valid (but dupe) bugs still shows us you've got skills. Helps w/private invites.

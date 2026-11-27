@@ -1,4 +1,4 @@
-# HackerOne disclosed reports by weakness (12794 reports)
+# HackerOne disclosed reports by weakness (12795 reports)
 
 
 ## Unspecified (1280)
@@ -3230,7 +3230,7 @@
 - [3889473](reports/2026/3889473.md) @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration) — 8x8-bounty — low —  — Cross-site Scripting (XSS) - Generic
 - [3981292](reports/2026/3981292.md) Cross-account XSS on app.basecamp.com: oEmbed option injection chained through Turbo defeats the CSP nonce — basecamp — high —  — Cross-site Scripting (XSS) - Generic
 
-## Violation of Secure Design Principles (716)
+## Violation of Secure Design Principles (717)
 
 - [125505](reports/2016/125505.md) Possibility to brute force invite codes in riders.uber.com — uber — - — $5,000 — Violation of Secure Design Principles
 - [815085](reports/2024/815085.md) Account creation with invalid email addresses / email is accepting % and %0d%0a line termination chars — security — low — $3,750 — Violation of Secure Design Principles
@@ -3948,6 +3948,7 @@
 - [3417819](reports/2026/3417819.md) FS Permissions Bypass — nodejs — high —  — Violation of Secure Design Principles
 - [3665151](reports/2026/3665151.md) Brave Shields Domain Reordering Leads to Origin Confusion — brave — low —  — Violation of Secure Design Principles
 - [3829030](reports/2026/3829030.md) Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption — yelp — low —  — Violation of Secure Design Principles
+- [3490059](reports/2026/3490059.md) Unicode RTLO character allowed in uploaded filenames leading to executable file upload and misleading UI handling in Nextcloud Notes — nextcloud — medium —  — Violation of Secure Design Principles
 
 ## Improper Access Control - Generic (712)
 

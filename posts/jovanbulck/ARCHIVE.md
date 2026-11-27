@@ -1,6 +1,6 @@
 # @jovanbulck — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 43
 - Conversations/threads: 37
@@ -254,9 +254,9 @@ Tags (automatic): TEE / enclave
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1198939019922608128 — 2021-12-06 12:17 UTC (2021-12-06 13:17 WAT)
+    #### Quoted post — @FritzAlder — 2021-12-06 12:17 UTC (2021-12-06 13:17 WAT)
     
-    - URL: https://x.com/1198939019922608128/status/1467830678918156288
+    - URL: https://x.com/FritzAlder/status/1467830678918156288
     - Metrics (at fetch): bookmark 1, impression 0, like 12, quote 1, reply 0, repost 6
     
     > Happy to announce at the next @fosdem we will again hold a Hardware-Aided Trusted Computing devroom to foster discussion on the emerging open-source #TEE ecosystem. Join us online Feb 5 2022 and submit talk proposals by December 23 2021. Spread the word! https://falder.org/fosdem22-cfp
@@ -567,9 +567,9 @@ Tags (automatic): TEE / enclave
 
 **Quoted post (full text):**
 
-    #### Quoted post — @22353836 — 2020-11-13 11:36 UTC (2020-11-13 12:36 WAT)
+    #### Quoted post — @sublevado — 2020-11-13 11:36 UTC (2020-11-13 12:36 WAT)
     
-    - URL: https://x.com/22353836/status/1327213760134701056
+    - URL: https://x.com/sublevado/status/1327213760134701056
     - Metrics (at fetch): not returned
     
     > With #VoltPillager, we show that Intel #SGX is vulnerable to low-cost hardware fault injection attacks - and that SGX cannot protect against an attacker with physical access (like malicious cloud provider). More details: https://zt-chen.github.io/voltpillager/

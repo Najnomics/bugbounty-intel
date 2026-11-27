@@ -2,7 +2,7 @@
 
 - **Source URL:** https://ch4ndan.medium.com/stored-xss-via-file-upload-using-svg-file-extension-515e23536d4d?source=rss------bug_bounty-5
 - **Fetched from:** https://ch4ndan.medium.com/feed
-- **Fetched:** 2026-11-16
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 7247)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

@@ -1,6 +1,6 @@
 # @fransrosen — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 174
 - Conversations/threads: 147
@@ -1023,9 +1023,9 @@ Tags (automatic): XSS, Mobile / Android / iOS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2850397899 — 2019-09-12 16:26 UTC (2019-09-12 17:26 WAT)
+    #### Quoted post — @SpotifyEng — 2019-09-12 16:26 UTC (2019-09-12 17:26 WAT)
     
-    - URL: https://x.com/2850397899/status/1172184719108313093
+    - URL: https://x.com/SpotifyEng/status/1172184719108313093
     - Metrics (at fetch): not returned
     
     > We just celebrated the 2nd year anniversary of our bug bounty program with @Hacker0x01. Read about what we've learned, best practices, and how we work with independent hackers to keep Spotify secure  https://bit.ly/2kevlmR
@@ -1068,9 +1068,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2215109990 — 2019-04-11 02:03 UTC (2019-04-11 03:03 WAT)
+    #### Quoted post — @d0nutptr — 2019-04-11 02:03 UTC (2019-04-11 03:03 WAT)
     
-    - URL: https://x.com/2215109990/status/1116159879322816513
+    - URL: https://x.com/d0nutptr/status/1116159879322816513
     - Metrics (at fetch): not returned
     
     > Here it is! My blog post on Sequential Import Chaining
@@ -1191,9 +1191,9 @@ Tags (automatic): Account takeover
 
 **Quoted post (full text):**
 
-    #### Quoted post — @606268342 — 2018-02-11 18:08 UTC (2018-02-11 19:08 WAT)
+    #### Quoted post — @omer_gil — 2018-02-11 18:08 UTC (2018-02-11 19:08 WAT)
     
-    - URL: https://x.com/606268342/status/962750099859431424
+    - URL: https://x.com/omer_gil/status/962750099859431424
     - Metrics (at fetch): not returned
     
     > My #BHUSA talk about the Web Cache Deception attack is now on YouTube:
@@ -1342,9 +1342,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @316504327 — 2017-06-22 23:02 UTC (2017-06-23 00:02 WAT)
+    #### Quoted post — @arneswinnen — 2017-06-22 23:02 UTC (2017-06-23 00:02 WAT)
     
-    - URL: https://x.com/316504327/status/878025379276926976
+    - URL: https://x.com/arneswinnen/status/878025379276926976
     - Metrics (at fetch): not returned
     
     > Authentication bypass on Airbnb via OAuth tokens theft #bugbounty  https://www.arneswinnen.net/2017/06/authentication-bypass-on-airbnb-via-oauth-tokens-theft/
@@ -1436,9 +1436,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @181226314 — 2017-02-03 19:24 UTC (2017-02-03 20:24 WAT)
+    #### Quoted post — @claudijd — 2017-02-03 19:24 UTC (2017-02-03 20:24 WAT)
     
-    - URL: https://x.com/181226314/status/827598728441769984
+    - URL: https://x.com/claudijd/status/827598728441769984
     - Metrics (at fetch): not returned
     
     > [blog] "'Deep Thoughts' on Subdomain Takeover Vulnerabilities" =&gt; https://blog.rubidus.com/2017/02/03/deep-thoughts-on-subdomain-takeovers/ Feedback welcome!
@@ -1484,9 +1484,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @11855992 — 2017-01-30 17:30 UTC (2017-01-30 18:30 WAT)
+    #### Quoted post — @sirdarckcat — 2017-01-30 17:30 UTC (2017-01-30 18:30 WAT)
     
-    - URL: https://x.com/11855992/status/826120494097252352
+    - URL: https://x.com/sirdarckcat/status/826120494097252352
     - Metrics (at fetch): not returned
     
     > #Google Vulnerability Rewards Program #VRP: 2016 Year in Review https://security.googleblog.com/2017/01/vulnerability-rewards-program-2016-year.html

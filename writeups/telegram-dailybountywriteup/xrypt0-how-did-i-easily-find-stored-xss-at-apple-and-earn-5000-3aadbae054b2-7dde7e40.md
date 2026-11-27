@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@xrypt0/how-did-i-easily-find-stored-xss-at-apple-and-earn-5000-3aadbae054b2?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@xrypt0
-- **Fetched:** 2026-11-20
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 5842)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

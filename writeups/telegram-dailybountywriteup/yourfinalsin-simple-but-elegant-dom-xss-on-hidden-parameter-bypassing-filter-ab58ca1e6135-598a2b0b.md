@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@YourFinalSin/simple-but-elegant-dom-xss-on-hidden-parameter-bypassing-filter-ab58ca1e6135?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@YourFinalSin
-- **Fetched:** 2026-11-19
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 6970)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

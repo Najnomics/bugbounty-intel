@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@0xnuy/from-blind-xss-to-full-server-takeover-0f63ead701ab?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@0xnuy
-- **Fetched:** 2026-11-17
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 9173)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

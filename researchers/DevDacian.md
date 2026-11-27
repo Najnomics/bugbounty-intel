@@ -59,3 +59,7 @@ _Auto-maintained from `harness/findings.jsonl`. 1 finding(s). Full verbatim post
 ## 2026-11-23 — Automatic refusal failover for audit agents
 - Fewer refusals on sol-6.1 than sol-6.2; opus-5.5 implemented failover: on safety refusal, retry automatically on sol-6 with Daybreak enabled — "working pretty well". Also: Cyfrin running 7 private audits in parallel with 19 auditors ([x.com](https://x.com/DevDacian/status/2124833996861497460)).
 - **Local:** [posts/DevDacian/2026-11-23-2124816890258452673.md](../posts/DevDacian/2026-11-23-2124816890258452673.md)
+
+## 2026-11-27 run additions
+
+- AI audit cadence note: quarterly/monthly rescans; ≥6-month-old audits without further work = highest risk; immutable contracts need pause/migrate — [`posts/DevDacian/2026-11-26-2125901013748253105.md`](../posts/DevDacian/2026-11-26-2125901013748253105.md).

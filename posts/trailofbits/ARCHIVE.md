@@ -1,11 +1,31 @@
 # @trailofbits — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 1466
-- Conversations/threads: 1394
+- Posts in this file: 1467
+- Conversations/threads: 1395
 - Oldest post captured: 2012-02-13
-- Newest post captured: 2026-11-12
+- Newest post captured: 2026-11-25
+
+
+---
+
+## 2026-11-25 · Post · Trailmark turns a codebase into a map of what calls what, so you can check whether user input can re
+
+
+### Post — @trailofbits — 2026-11-25 12:05 UTC (2026-11-25 13:05 WAT)
+
+- URL: https://x.com/trailofbits/status/2125561387241857029
+- Metrics (at fetch): bookmark 193, impression 10779, like 241, quote 2, reply 7, repost 30
+
+> Trailmark turns a codebase into a map of what calls what, so you can check whether user input can reach a given function without tracing calls by hand.
+>
+> v0.9.0 extends that map to 8 languages for formal verification, including Lean 4, Dafny, and TLA+.
+>
+> uv tool install trailmark
+> https://github.com/trailofbits/trailmark/releases/tag/v0.9.0
+
+**Links in post:** https://github.com/trailofbits/trailmark/releases/tag/v0.9.0
 
 
 ---
@@ -39,9 +59,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @162124540 — 2026-11-12 22:16 UTC (2026-11-12 23:16 WAT)
+    #### Quoted post — @gdb — 2026-11-12 22:16 UTC (2026-11-12 23:16 WAT)
     
-    - URL: https://x.com/162124540/status/2121004237413142656
+    - URL: https://x.com/gdb/status/2121004237413142656
     - Metrics (at fetch): bookmark 226, impression 65113, like 670, quote 28, reply 126, retweet 62
     
     > Announcing two new cyber products:
@@ -267,9 +287,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14290525 — 2026-10-24 02:52 UTC (2026-10-24 03:52 WAT)
+    #### Quoted post — @dguido — 2026-10-24 02:52 UTC (2026-10-24 03:52 WAT)
     
-    - URL: https://x.com/14290525/status/2113825891021144306
+    - URL: https://x.com/dguido/status/2113825891021144306
     - Metrics (at fetch): bookmark 473, impression 110440, like 678, quote 20, reply 39, retweet 105
     
     > Update: Our PHP exploit is now production-grade.
@@ -286,9 +306,9 @@ Tags (automatic): RCE
     
     **Quoted post (full text):**
     
-        #### Quoted post — @14290525 — 2026-10-22 04:43 UTC (2026-10-22 05:43 WAT)
+        #### Quoted post — @dguido — 2026-10-22 04:43 UTC (2026-10-22 05:43 WAT)
         
-        - URL: https://x.com/14290525/status/2113129153293897925
+        - URL: https://x.com/dguido/status/2113129153293897925
         - Metrics (at fetch): bookmark 329, impression 109681, like 437, quote 7, reply 15, retweet 75
         
         > Re: the widely circulated blog claiming the PHP bugs aren't easily exploitable: @trailofbits has a working exploit that gets a shell on an unmodified MediaWiki installation.
@@ -341,9 +361,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14290525 — 2026-10-22 04:43 UTC (2026-10-22 05:43 WAT)
+    #### Quoted post — @dguido — 2026-10-22 04:43 UTC (2026-10-22 05:43 WAT)
     
-    - URL: https://x.com/14290525/status/2113129153293897925
+    - URL: https://x.com/dguido/status/2113129153293897925
     - Metrics (at fetch): bookmark 329, impression 109681, like 437, quote 7, reply 15, retweet 75
     
     > Re: the widely circulated blog claiming the PHP bugs aren't easily exploitable: @trailofbits has a working exploit that gets a shell on an unmodified MediaWiki installation.
@@ -452,9 +472,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1013526003015184385 — 2026-10-20 17:00 UTC (2026-10-20 18:00 WAT)
+    #### Quoted post — @EFDevcon — 2026-10-20 17:00 UTC (2026-10-20 18:00 WAT)
     
-    - URL: https://x.com/1013526003015184385/status/2112589668814344499
+    - URL: https://x.com/EFDevcon/status/2112589668814344499
     - Metrics (at fetch): bookmark 0, impression 4108, like 44, quote 1, reply 3, retweet 1
     
     > We're excited to welcome @trailofbits as a supporter of Devcon 8!🎉
@@ -704,9 +724,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1357299664115142657 — 2026-09-24 09:56 UTC (2026-09-24 10:56 WAT)
+    #### Quoted post — @ARIA_research — 2026-09-24 09:56 UTC (2026-09-24 10:56 WAT)
     
-    - URL: https://x.com/1357299664115142657/status/2103061040632139954
+    - URL: https://x.com/ARIA_research/status/2103061040632139954
     - Metrics (at fetch): bookmark 39, impression 25422, like 91, quote 9, reply 2, retweet 16
     
     > AI-enabled cyber attacks are getting faster + going further. But what if AI-enabled formal methods could make high-assurance cyber defence practical at unprecedented speed + scale? We’re funding eight teams with £22m to test that idea. Meet them here: https://link.aria.org.uk/SAI-TA2-Creators-X [pic.x.com/6H9vxHZC45]
@@ -954,9 +974,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1707105432630915072 — 2026-09-10 13:14 UTC (2026-09-10 14:14 WAT)
+    #### Quoted post — @eigenlabs — 2026-09-10 13:14 UTC (2026-09-10 14:14 WAT)
     
-    - URL: https://x.com/1707105432630915072/status/2098037456067244098
+    - URL: https://x.com/eigenlabs/status/2098037456067244098
     - Metrics (at fetch): bookmark 37, impression 113091, like 242, quote 35, reply 30, retweet 59
     
     > The first full paper on http://ECDSA.fail is on arXiv
@@ -1091,9 +1111,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @162124540 — 2026-08-27 17:03 UTC (2026-08-27 18:03 WAT)
+    #### Quoted post — @gdb — 2026-08-27 17:03 UTC (2026-08-27 18:03 WAT)
     
-    - URL: https://x.com/162124540/status/2093021551855812842
+    - URL: https://x.com/gdb/status/2093021551855812842
     - Metrics (at fetch): bookmark 2036, impression 1426470, like 3953, quote 381, reply 410, retweet 686
     
     > An open letter for a global surge in cyber defense, signed by over 100 organizations including Anthropic, AWS, Google, Microsoft, OpenAI, and Oracle. https://x.com/i/article/2093011711712456704
@@ -1711,9 +1731,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2036163170717618176 — 2026-06-12 16:15 UTC (2026-06-12 17:15 WAT)
+    #### Quoted post — @ToBScottA — 2026-06-12 16:15 UTC (2026-06-12 17:15 WAT)
     
-    - URL: https://x.com/2036163170717618176/status/2065468153669312520
+    - URL: https://x.com/ToBScottA/status/2065468153669312520
     - Metrics (at fetch): bookmark 32, impression 43652, like 28, quote 2, reply 2, retweet 4
     
     > Last month, the @Symfony blog posted about some results from Claude Mythos.
@@ -1788,9 +1808,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1756434947202748416 — 2026-06-02 14:33 UTC (2026-06-02 15:33 WAT)
+    #### Quoted post — @_SEAL_Org — 2026-06-02 14:33 UTC (2026-06-02 15:33 WAT)
     
-    - URL: https://x.com/1756434947202748416/status/2061818470472237429
+    - URL: https://x.com/_SEAL_Org/status/2061818470472237429
     - Metrics (at fetch): bookmark 19, impression 31264, like 144, quote 22, reply 17, retweet 28
     
     > It's finally happening! 
@@ -1867,9 +1887,9 @@ Tags (automatic): Dependency confusion / supply chain, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1239876481951596545 — 2026-05-13 16:56 UTC (2026-05-13 17:56 WAT)
+    #### Quoted post — @obsdmd — 2026-05-13 16:56 UTC (2026-05-13 17:56 WAT)
     
-    - URL: https://x.com/1239876481951596545/status/2054606618818711862
+    - URL: https://x.com/obsdmd/status/2054606618818711862
     - Metrics (at fetch): bookmark 126, impression 69075, like 473, quote 2, reply 4, retweet 40
     
     > Two new security audits of Obsidian Sync by @cure53berlin and @trailofbits are now available on our Security page.
@@ -2279,9 +2299,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @909754784705597441 — 2026-04-16 13:28 UTC (2026-04-16 14:28 WAT)
+    #### Quoted post — @pypi — 2026-04-16 13:28 UTC (2026-04-16 14:28 WAT)
     
-    - URL: https://x.com/909754784705597441/status/2044769869418102795
+    - URL: https://x.com/pypi/status/2044769869418102795
     - Metrics (at fetch): bookmark 7, impression 15834, like 36, quote 1, reply 0, retweet 10
     
     > 🔎🔐 #PyPI has completed its second external #security audit! Thanks to Sovereign Tech Agency for funding, @trailofbits for the audit, and @AlphaOmegaOSS for supporting rapid remediation. Find the full report on the Trail of Bits publication page. #Python
@@ -2728,9 +2748,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @867100084248469505 — 2026-03-04 18:12 UTC (2026-03-04 19:12 WAT)
+    #### Quoted post — @aave — 2026-03-04 18:12 UTC (2026-03-04 19:12 WAT)
     
-    - URL: https://x.com/867100084248469505/status/2029258696761516461
+    - URL: https://x.com/aave/status/2029258696761516461
     - Metrics (at fetch): bookmark 17, impression 84997, like 343, quote 14, reply 34, retweet 25
     
     > Aave V4 was built security-first, with layered security controls from early architecture through post-audit fix validation.
@@ -2774,9 +2794,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15615663 — 2026-02-14 03:20 UTC (2026-02-14 04:20 WAT)
+    #### Quoted post — @gadievron — 2026-02-14 03:20 UTC (2026-02-14 04:20 WAT)
     
-    - URL: https://x.com/15615663/status/2022511320885805291
+    - URL: https://x.com/gadievron/status/2022511320885805291
     - Metrics (at fetch): bookmark 7, impression 10081, like 36, quote 2, reply 1, retweet 12
     
     > [un]prompted agenda is out!
@@ -3035,9 +3055,9 @@ Tags (automatic): Smart contract / DeFi, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1278266969532203008 — 2026-01-14 11:47 UTC (2026-01-14 12:47 WAT)
+    #### Quoted post — @Phalcon_xyz — 2026-01-14 11:47 UTC (2026-01-14 12:47 WAT)
     
-    - URL: https://x.com/1278266969532203008/status/2011404828115866061
+    - URL: https://x.com/Phalcon_xyz/status/2011404828115866061
     - Metrics (at fetch): bookmark 33, impression 23119, like 45, quote 2, reply 1, retweet 2
     
     > The @futureswapx' contract on #Arbitrum, which we reported was attacked four days ago, was exploited again, with an estimated loss of about $74K. While the loss is not large, the interesting part is that a new attack surface appeared: a reentrancy vulnerability.
@@ -3751,9 +3771,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, TEE / enclave
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1763969352150532097 — 2025-10-27 16:40 UTC (2025-10-27 17:40 WAT)
+    #### Quoted post — @DistrictCon — 2025-10-27 16:40 UTC (2025-10-27 17:40 WAT)
     
-    - URL: https://x.com/1763969352150532097/status/1982849778087276937
+    - URL: https://x.com/DistrictCon/status/1982849778087276937
     - Metrics (at fetch): bookmark 7, impression 25571, like 40, quote 7, reply 1, retweet 14
     
     > We're officially announcing our speakers DistrictCon Year 1! Check out our incredible lineup: https://www.districtcon.org/speakers
@@ -4143,9 +4163,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @54645160 — 2025-09-03 20:01 UTC (2025-09-03 21:01 WAT)
+    #### Quoted post — @DARPA — 2025-09-03 20:01 UTC (2025-09-03 21:01 WAT)
     
-    - URL: https://x.com/54645160/status/1963331540684828767
+    - URL: https://x.com/DARPA/status/1963331540684828767
     - Metrics (at fetch): bookmark 60, impression 25768, like 234, quote 11, reply 20, retweet 87
     
     > The DARPA AI Cyber Challenge was designed to advance cybersecurity technology and ensure that technology is applied to secure the code we all rely on. All seven finalist teams have released their competition cyber reasoning systems open source. https://archive.aicyberchallenge.com/ [pic.x.com/00fOoBhhuf]
@@ -4173,9 +4193,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1297925400090337280 — 2025-08-29 13:48 UTC (2025-08-29 14:48 WAT)
+    #### Quoted post — @RektHQ — 2025-08-29 13:48 UTC (2025-08-29 14:48 WAT)
     
-    - URL: https://x.com/1297925400090337280/status/1961425666164887879
+    - URL: https://x.com/RektHQ/status/1961425666164887879
     - Metrics (at fetch): bookmark 6, impression 16131, like 53, quote 3, reply 11, retweet 5
     
     > And we won’t be alone.
@@ -4206,9 +4226,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1506671749940850691 — 2025-08-21 15:29 UTC (2025-08-21 16:29 WAT)
+    #### Quoted post — @summit_defi — 2025-08-21 15:29 UTC (2025-08-21 16:29 WAT)
     
-    - URL: https://x.com/1506671749940850691/status/1958552046698627362
+    - URL: https://x.com/summit_defi/status/1958552046698627362
     - Metrics (at fetch): bookmark 1, impression 14494, like 27, quote 8, reply 2, retweet 9
     
     > Join us on Aug 28th at 5PM UTC for a DSS webinar on Automation Security, with:
@@ -4473,9 +4493,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @54645160 — 2025-08-04 20:17 UTC (2025-08-04 21:17 WAT)
+    #### Quoted post — @DARPA — 2025-08-04 20:17 UTC (2025-08-04 21:17 WAT)
     
-    - URL: https://x.com/54645160/status/1952463984038121731
+    - URL: https://x.com/DARPA/status/1952463984038121731
     - Metrics (at fetch): bookmark 28, impression 33892, like 113, quote 11, reply 37, retweet 50
     
     > We’ll announce the results and winners of the 
@@ -5109,9 +5129,9 @@ Tags (automatic): TEE / enclave
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1361909631187001350 — 2025-05-02 17:15 UTC (2025-05-02 18:15 WAT)
+    #### Quoted post — @Scroll_ZKP — 2025-05-02 17:15 UTC (2025-05-02 18:15 WAT)
     
-    - URL: https://x.com/1361909631187001350/status/1918353577631977620
+    - URL: https://x.com/Scroll_ZKP/status/1918353577631977620
     - Metrics (at fetch): bookmark 34, impression 24275, like 103, quote 5, reply 7, retweet 7
     
     > 1/ Last week, Scroll performed an emergency mainnet upgrade to fix two critical bugs - one in our zk proving system and one in our bridge contract.
@@ -5589,9 +5609,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1506671749940850691 — 2025-02-04 12:00 UTC (2025-02-04 13:00 WAT)
+    #### Quoted post — @summit_defi — 2025-02-04 12:00 UTC (2025-02-04 13:00 WAT)
     
-    - URL: https://x.com/1506671749940850691/status/1886746705472692675
+    - URL: https://x.com/summit_defi/status/1886746705472692675
     - Metrics (at fetch): bookmark 11, impression 14515, like 30, quote 3, reply 0, retweet 6
     
     > Watch the "Demystifying Smart Contract Security: Facts &amp; Fallacies" LIVE NOW: https://t.co/wUN2JRGHaB
@@ -5639,9 +5659,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1757050755712978944 — 2025-02-18 18:53 UTC (2025-02-18 19:53 WAT)
+    #### Quoted post — @trailofblocks — 2025-02-18 18:53 UTC (2025-02-18 19:53 WAT)
     
-    - URL: https://x.com/1757050755712978944/status/1891924112999645608
+    - URL: https://x.com/trailofblocks/status/1891924112999645608
     - Metrics (at fetch): bookmark 1, impression 2341, like 6, quote 1, reply 0, retweet 0
     
     > Building advanced invariants - where manual testing falls short with @thebensams 
@@ -5721,9 +5741,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1757050755712978944 — 2025-02-12 14:34 UTC (2025-02-12 15:34 WAT)
+    #### Quoted post — @trailofblocks — 2025-02-12 14:34 UTC (2025-02-12 15:34 WAT)
     
-    - URL: https://x.com/1757050755712978944/status/1889684507923546523
+    - URL: https://x.com/trailofblocks/status/1889684507923546523
     - Metrics (at fetch): bookmark 45, impression 8117, like 56, quote 3, reply 1, retweet 8
     
     > Smart contract devs: Can you instantly name your protocol's five most critical invariants? Most can't - and that gap leads to costly vulnerabilities. (⬇️) https://t.co/Y3KvvqMuXv
@@ -5861,9 +5881,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native, AI-as
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14290525 — 2024-08-13 22:19 UTC (2024-08-13 23:19 WAT)
+    #### Quoted post — @dguido — 2024-08-13 22:19 UTC (2024-08-13 23:19 WAT)
     
-    - URL: https://x.com/14290525/status/1823484447062171959
+    - URL: https://x.com/dguido/status/1823484447062171959
     - Metrics (at fetch): bookmark 9, impression 14141, like 44, quote 2, reply 1, retweet 7
     
     > We're setting up for our end-of-summer intern showcase @trailofbits. It's a public event through @empirehacking and I'll be live tweeting some of the takeaways 🧵
@@ -5873,9 +5893,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, Memory corruption / native, AI-as
     
     **Quoted post (full text):**
     
-        #### Quoted post — @3129975465 — 2024-08-13 11:39 UTC (2024-08-13 12:39 WAT)
+        #### Quoted post — @EmpireHacking — 2024-08-13 11:39 UTC (2024-08-13 12:39 WAT)
         
-        - URL: https://x.com/3129975465/status/1823323369078497630
+        - URL: https://x.com/EmpireHacking/status/1823323369078497630
         - Metrics (at fetch): bookmark 3, impression 14290, like 6, quote 2, reply 0, retweet 2
         
         > Tonight, 7 interns will present their summer research with @trailofbits. Join us to hear about data-flow tracking with CodeQL, post-quantum crypto gotchas, automated fuzz harness generation.
@@ -6838,9 +6858,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @46648807 — 2024-08-13 16:32 UTC (2024-08-13 17:32 WAT)
+    #### Quoted post — @NIST — 2024-08-13 16:32 UTC (2024-08-13 17:32 WAT)
     
-    - URL: https://x.com/46648807/status/1823397314557616156
+    - URL: https://x.com/NIST/status/1823397314557616156
     - Metrics (at fetch): bookmark 63, impression 63160, like 285, quote 36, reply 15, retweet 139
     
     > Quantum computers could imperil the security of confidential electronic information, such as emails. To counter this threat, NIST has finalized its set of three encryption algorithms designed to withstand a future quantum computer’s cyberattacks: https://t.co/WYNO9j7Owz https://t.co/o8TjLzv43p
@@ -6865,9 +6885,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3129975465 — 2024-08-13 11:39 UTC (2024-08-13 12:39 WAT)
+    #### Quoted post — @EmpireHacking — 2024-08-13 11:39 UTC (2024-08-13 12:39 WAT)
     
-    - URL: https://x.com/3129975465/status/1823323369078497630
+    - URL: https://x.com/EmpireHacking/status/1823323369078497630
     - Metrics (at fetch): bookmark 3, impression 14290, like 6, quote 2, reply 0, retweet 2
     
     > Tonight, 7 interns will present their summer research with @trailofbits. Join us to hear about data-flow tracking with CodeQL, post-quantum crypto gotchas, automated fuzz harness generation.
@@ -6908,9 +6928,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3129975465 — 2024-08-08 21:12 UTC (2024-08-08 22:12 WAT)
+    #### Quoted post — @EmpireHacking — 2024-08-08 21:12 UTC (2024-08-08 22:12 WAT)
     
-    - URL: https://x.com/3129975465/status/1821655688096940408
+    - URL: https://x.com/EmpireHacking/status/1821655688096940408
     - Metrics (at fetch): bookmark 0, impression 3941, like 3, quote 1, reply 0, retweet 1
     
     > Join us on August 13 for 7 lightning talks from the @trailofbits interns 
@@ -7908,9 +7928,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1757050755712978944 — 2024-04-18 13:32 UTC (2024-04-18 14:32 WAT)
+    #### Quoted post — @trailofblocks — 2024-04-18 13:32 UTC (2024-04-18 14:32 WAT)
     
-    - URL: https://x.com/1757050755712978944/status/1780952424338895318
+    - URL: https://x.com/trailofblocks/status/1780952424338895318
     - Metrics (at fetch): bookmark 2, impression 10589, like 13, quote 3, reply 2, retweet 6
     
     > Are you building on @optimismFND and looking to ensure the security of your smart contracts? Thanks to the RFG-3 grant, @trailofbits is offering pre-paid assessments to help you deploy secure and reliable contracts. Get in touch to learn more!
@@ -7931,9 +7951,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1757050755712978944 — 2024-04-18 13:32 UTC (2024-04-18 14:32 WAT)
+    #### Quoted post — @trailofblocks — 2024-04-18 13:32 UTC (2024-04-18 14:32 WAT)
     
-    - URL: https://x.com/1757050755712978944/status/1780952424338895318
+    - URL: https://x.com/trailofblocks/status/1780952424338895318
     - Metrics (at fetch): bookmark 2, impression 10589, like 13, quote 3, reply 2, retweet 6
     
     > Are you building on @optimismFND and looking to ensure the security of your smart contracts? Thanks to the RFG-3 grant, @trailofbits is offering pre-paid assessments to help you deploy secure and reliable contracts. Get in touch to learn more!
@@ -7954,9 +7974,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1757050755712978944 — 2024-04-18 13:32 UTC (2024-04-18 14:32 WAT)
+    #### Quoted post — @trailofblocks — 2024-04-18 13:32 UTC (2024-04-18 14:32 WAT)
     
-    - URL: https://x.com/1757050755712978944/status/1780952424338895318
+    - URL: https://x.com/trailofblocks/status/1780952424338895318
     - Metrics (at fetch): bookmark 2, impression 10589, like 13, quote 3, reply 2, retweet 6
     
     > Are you building on @optimismFND and looking to ensure the security of your smart contracts? Thanks to the RFG-3 grant, @trailofbits is offering pre-paid assessments to help you deploy secure and reliable contracts. Get in touch to learn more!
@@ -8367,9 +8387,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1757050755712978944 — 2024-03-05 16:49 UTC (2024-03-05 17:49 WAT)
+    #### Quoted post — @trailofblocks — 2024-03-05 16:49 UTC (2024-03-05 17:49 WAT)
     
-    - URL: https://x.com/1757050755712978944/status/1765057102811222336
+    - URL: https://x.com/trailofblocks/status/1765057102811222336
     - Metrics (at fetch): bookmark 1, impression 4009, like 0, quote 1, reply 1, retweet 2
     
     > Election for the Arbitrum ARDC Security Member is now live: https://buff.ly/3uNO3pP.
@@ -8509,9 +8529,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1423270264939372547 — 2024-02-26 15:21 UTC (2024-02-26 16:21 WAT)
+    #### Quoted post — @ONCD — 2024-02-26 15:21 UTC (2024-02-26 16:21 WAT)
     
-    - URL: https://x.com/1423270264939372547/status/1762135744426991757
+    - URL: https://x.com/ONCD/status/1762135744426991757
     - Metrics (at fetch): bookmark 28, impression 125612, like 114, quote 62, reply 5, retweet 50
     
     > Today we released a report calling on the technical community to adopt memory safe programming languages. We have the ability &amp; responsibility to reduce the cyber attack surface &amp; prevent entire classes of security bugs from entering the digital ecosystem https://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/ [pic.x.com/YP9Al7KQ1d]
@@ -9800,9 +9820,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @25053299 — 2023-11-04 00:46 UTC (2023-11-04 01:46 WAT)
+    #### Quoted post — @FortuneMagazine — 2023-11-04 00:46 UTC (2023-11-04 01:46 WAT)
     
-    - URL: https://x.com/25053299/status/1720603427636404323
+    - URL: https://x.com/FortuneMagazine/status/1720603427636404323
     - Metrics (at fetch): bookmark 0, impression 12716, like 3, quote 1, reply 1, retweet 1
     
     > Companies are clamoring to get The Wing’s ex-interior designer to style office spaces that employees want to commute to. https://t.co/ayw7smJ9Pu
@@ -10470,9 +10490,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @101341490 — 2023-08-30 12:12 UTC (2023-08-30 13:12 WAT)
+    #### Quoted post — @Montyly — 2023-08-30 12:12 UTC (2023-08-30 13:12 WAT)
     
-    - URL: https://x.com/101341490/status/1696858365194826198
+    - URL: https://x.com/Montyly/status/1696858365194826198
     - Metrics (at fetch): bookmark 2, impression 22008, like 21, quote 1, reply 0, retweet 2
     
     > But we don't want the echidna to be jealous: 
@@ -10499,9 +10519,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @953893947822280704 — 2023-08-23 14:07 UTC (2023-08-23 15:07 WAT)
+    #### Quoted post — @StarkWareLtd — 2023-08-23 14:07 UTC (2023-08-23 15:07 WAT)
     
-    - URL: https://x.com/953893947822280704/status/1694350704134050027
+    - URL: https://x.com/StarkWareLtd/status/1694350704134050027
     - Metrics (at fetch): bookmark 0, impression 6849, like 9, quote 1, reply 1, retweet 1
     
     > Welcome @technovision99 security engineer at @trailofbits to our speaker lineup! Can't wait to see you there!🎉🥳#StarknetSummit23 https://t.co/IYxhBIumuS
@@ -10728,9 +10748,9 @@ Tags (automatic): Smart contract / DeFi, ZK, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1661389948950401031 — 2023-07-28 07:13 UTC (2023-07-28 08:13 WAT)
+    #### Quoted post — @DeComputeConf — 2023-07-28 07:13 UTC (2023-07-28 08:13 WAT)
     
-    - URL: https://x.com/1661389948950401031/status/1684824434371104770
+    - URL: https://x.com/DeComputeConf/status/1684824434371104770
     - Metrics (at fetch): bookmark 0, impression 4994, like 6, quote 1, reply 1, retweet 0
     
     > 📢 Speaker Announcement
@@ -12259,9 +12279,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1290363651162021888 — 2022-12-05 00:10 UTC (2022-12-05 01:10 WAT)
+    #### Quoted post — @openssf — 2022-12-05 00:10 UTC (2022-12-05 01:10 WAT)
     
-    - URL: https://x.com/1290363651162021888/status/1599556690692648960
+    - URL: https://x.com/openssf/status/1599556690692648960
     - Metrics (at fetch): bookmark 2, impression 0, like 26, quote 11, reply 0, retweet 15
     
     > Welcome new members to the OpenSSF! 🎉  @AirbyteHQ @anacondainc @boostsecurityio @controlplaneio @cybozu @Docker @EndorLabs @getfossa @Hacker0x01 @Phylum_IO @qualys @trailofbits @VicOneAuto @XilinxInc @FSISAC @NTUsg @OpenForumEurope https://openssf.org/press-release/2022/12/04/openssf-membership-exceeds-100-with-many-new-members-dedicated-to-securing-open-source-software/ #OpenSSFDay #OSSummit [pic.x.com/kiNauKGjs0]
@@ -12685,9 +12705,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @101341490 — 2022-10-05 14:01 UTC (2022-10-05 15:01 WAT)
+    #### Quoted post — @Montyly — 2022-10-05 14:01 UTC (2022-10-05 15:01 WAT)
     
-    - URL: https://x.com/101341490/status/1577660217386467329
+    - URL: https://x.com/Montyly/status/1577660217386467329
     - Metrics (at fetch): bookmark 6, impression 0, like 60, quote 4, reply 0, retweet 16
     
     > Today we released Slither 0.9.0. It contains new detectors, improvements to the existing detectors, and several bug fixes https://github.com/crytic/slither/releases/tag/0.9.0
@@ -13091,9 +13111,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @454027153 — 2022-06-22 14:34 UTC (2022-06-22 15:34 WAT)
+    #### Quoted post — @peter_a_goodman — 2022-06-22 14:34 UTC (2022-06-22 15:34 WAT)
     
-    - URL: https://x.com/454027153/status/1539617817745670146
+    - URL: https://x.com/peter_a_goodman/status/1539617817745670146
     - Metrics (at fetch): bookmark 0, impression 0, like 6, quote 1, reply 0, retweet 1
     
     > I think this is the future of C and C++ compilers, static analysis, and source code verification. Also decompilers; can't forgot those! I want to see an open-source tower of IRs that can be descended by compilers, and ascended by decompilers. https://twitter.com/HenrichLauko/status/1539599459075719169
@@ -13270,9 +13290,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @953893947822280704 — 2022-06-14 11:08 UTC (2022-06-14 12:08 WAT)
+    #### Quoted post — @StarkWareLtd — 2022-06-14 11:08 UTC (2022-06-14 12:08 WAT)
     
-    - URL: https://x.com/953893947822280704/status/1536666948611760128
+    - URL: https://x.com/StarkWareLtd/status/1536666948611760128
     - Metrics (at fetch): bookmark 1, impression 0, like 103, quote 9, reply 3, retweet 16
     
     > We are pleased to announce our new strategic partnership with @trailofbits
@@ -13336,9 +13356,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @58089460 — 2022-05-09 01:55 UTC (2022-05-09 02:55 WAT)
+    #### Quoted post — @0xRajeev — 2022-05-09 01:55 UTC (2022-05-09 02:55 WAT)
     
-    - URL: https://x.com/58089460/status/1523481654362513408
+    - URL: https://x.com/0xRajeev/status/1523481654362513408
     - Metrics (at fetch): bookmark 2, impression 0, like 24, quote 4, reply 1, retweet 8
     
     > Excited to announce that @TheSecureum &amp; @trailofbits are collaborating on an Echidna Workshop.
@@ -13419,9 +13439,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14290525 — 2018-01-26 21:23 UTC (2018-01-26 22:23 WAT)
+    #### Quoted post — @dguido — 2018-01-26 21:23 UTC (2018-01-26 22:23 WAT)
     
-    - URL: https://x.com/14290525/status/957001014543974400
+    - URL: https://x.com/dguido/status/957001014543974400
     - Metrics (at fetch): bookmark 0, impression 0, like 18, quote 2, reply 4, retweet 2
     
     > A remote @trailofbits employee had his apartment robbed while on our weekly company-wide videoconference. He had headphones on and was sitting quietly in his office, so the robbers didn’t know he was home.
@@ -13444,9 +13464,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14538601 — 2022-04-18 16:14 UTC (2022-04-18 17:14 WAT)
+    #### Quoted post — @openjsf — 2022-04-18 16:14 UTC (2022-04-18 17:14 WAT)
     
-    - URL: https://x.com/14538601/status/1516087900340846594
+    - URL: https://x.com/openjsf/status/1516087900340846594
     - Metrics (at fetch): bookmark 1, impression 0, like 19, quote 1, reply 0, retweet 2
     
     > Node.js is critical to many. The OpenSSF investment brings in engineering resources from NearForm and Trail of Bits to support Node.js maintainers who strive for a stable and secure codebase. Read the announcement on our blog: https://openjsf.org/uncategorized/2022/04/18/open-source-security-foundation-openssf-selects-node-js-as-initial-project-to-improve-supply-chain-security/ 2/2
@@ -13549,9 +13569,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @831182644234821632 — 2022-03-25 16:00 UTC (2022-03-25 17:00 WAT)
+    #### Quoted post — @EntEthAlliance — 2022-03-25 16:00 UTC (2022-03-25 17:00 WAT)
     
-    - URL: https://x.com/831182644234821632/status/1507386864847757346
+    - URL: https://x.com/EntEthAlliance/status/1507386864847757346
     - Metrics (at fetch): bookmark 0, impression 0, like 5, quote 2, reply 0, retweet 1
     
     > Looking to break into a career in #web3 or #blockchain? We can help. Join the #EEA &amp; @BlockchainEdu on 3/31 for our virtual job fair, a chance to meet w/ @trailofbits and many other hiring organizations. Register now: https://t.co/VxRVYcO8k5 [pic.x.com/TD2ZKs5RvN]
@@ -13718,9 +13738,9 @@ Tags (automatic): Race condition, Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3129975465 — 2022-01-21 16:19 UTC (2022-01-21 17:19 WAT)
+    #### Quoted post — @EmpireHacking — 2022-01-21 16:19 UTC (2022-01-21 17:19 WAT)
     
-    - URL: https://x.com/3129975465/status/1484561228261433350
+    - URL: https://x.com/EmpireHacking/status/1484561228261433350
     - Metrics (at fetch): bookmark 0, impression 0, like 3, quote 1, reply 0, retweet 5
     
     > Call for speakers: We are currently recruiting speakers for our February 8th Empire Hacking virtual event. We're looking for 5-10 minute lightning talks. Have a cool tool you've been working on or solve an interesting problem? Let us know at empirehacking@trailofbits.com!
@@ -13837,9 +13857,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3129975465 — 2021-12-16 21:03 UTC (2021-12-16 22:03 WAT)
+    #### Quoted post — @EmpireHacking — 2021-12-16 21:03 UTC (2021-12-16 22:03 WAT)
     
-    - URL: https://x.com/3129975465/status/1471586898636423168
+    - URL: https://x.com/EmpireHacking/status/1471586898636423168
     - Metrics (at fetch): bookmark 1, impression 0, like 1, quote 1, reply 0, retweet 0
     
     > Join us at 6pm ET tonight for another virtual #empirehacking. We'll hear two short presentations, each followed by Q&amp;A.
@@ -14115,9 +14135,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3129975465 — 2021-08-26 14:52 UTC (2021-08-26 15:52 WAT)
+    #### Quoted post — @EmpireHacking — 2021-08-26 14:52 UTC (2021-08-26 15:52 WAT)
     
-    - URL: https://x.com/3129975465/status/1430906105056559106
+    - URL: https://x.com/EmpireHacking/status/1430906105056559106
     - Metrics (at fetch): bookmark 0, impression 0, like 3, quote 1, reply 0, retweet 0
     
     > Join us tonight for #empirehacking Intern Edition! Trail of Bits' talented interns will share what they've worked on this summer. Virtually, 6pm. Register to receive the Google Meet link here: https://www.eventbrite.com/x/empire-hacking-interns-tickets-168120020507
@@ -14157,9 +14177,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3129975465 — 2021-08-17 18:20 UTC (2021-08-17 19:20 WAT)
+    #### Quoted post — @EmpireHacking — 2021-08-17 18:20 UTC (2021-08-17 19:20 WAT)
     
-    - URL: https://x.com/3129975465/status/1427696741730689036
+    - URL: https://x.com/EmpireHacking/status/1427696741730689036
     - Metrics (at fetch): bookmark 0, impression 0, like 2, quote 2, reply 0, retweet 0
     
     > Join us next week for #empirehacking Intern Edition! Please help us share in and celebrate all the incredible work of Trail of Bits' talented interns. Virtually, Thursday August 26th at 6pm. More info available here: https://www.meetup.com/Empire-Hacking/events/280038405/
@@ -14326,9 +14346,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @720576770 — 2021-04-12 17:00 UTC (2021-04-12 18:00 WAT)
+    #### Quoted post — @clintgibler — 2021-04-12 17:00 UTC (2021-04-12 18:00 WAT)
     
-    - URL: https://x.com/720576770/status/1381653547184492544
+    - URL: https://x.com/clintgibler/status/1381653547184492544
     - Metrics (at fetch): bookmark 1, impression 0, like 19, quote 1, reply 0, retweet 5
     
     > 🎉 Checkov 2.0 by @bridgecrewio 
@@ -14751,9 +14771,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @216314265 — 2020-10-08 23:14 UTC (2020-10-09 00:14 WAT)
+    #### Quoted post — @ZeroTier — 2020-10-08 23:14 UTC (2020-10-09 00:14 WAT)
     
-    - URL: https://x.com/216314265/status/1314343535303446531
+    - URL: https://x.com/ZeroTier/status/1314343535303446531
     - Metrics (at fetch): bookmark 2, impression 0, like 20, quote 1, reply 0, retweet 5
     
     > In March we worked with @trailofbits to audit our protocol and cryptographic designs for ZeroTier 2.0. As one of its subjects is in our just-released beta, we are ready to make our first preliminary audit public: https://www.zerotier.com/wp-content/uploads/2020/10/ZeroTier-Protocol-Review-Summary.pdf -- a full code audit is coming after 2.0.
@@ -14849,9 +14869,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1075428307997548545 — 2020-10-14 09:10 UTC (2020-10-14 10:10 WAT)
+    #### Quoted post — @LabosNomades — 2020-10-14 09:10 UTC (2020-10-14 10:10 WAT)
     
-    - URL: https://x.com/1075428307997548545/status/1316305366020489216
+    - URL: https://x.com/LabosNomades/status/1316305366020489216
     - Metrics (at fetch): bookmark 1, impression 0, like 68, quote 3, reply 0, retweet 27
     
     > In this week's blog post, we discuss decentralized exchange with #Dexter on the #Tezos blockchain. Learn how we verified a functional specification of Dexter's core smart contract using Mi-Cho-Coq. @camlCaseTech
@@ -15099,9 +15119,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3129975465 — 2020-08-05 13:32 UTC (2020-08-05 14:32 WAT)
+    #### Quoted post — @EmpireHacking — 2020-08-05 13:32 UTC (2020-08-05 14:32 WAT)
     
-    - URL: https://x.com/3129975465/status/1291004093637570562
+    - URL: https://x.com/EmpireHacking/status/1291004093637570562
     - Metrics (at fetch): bookmark 0, impression 0, like 6, quote 1, reply 1, retweet 2
     
     > Join us on August 11th @ 6pm for a special session of Empire Hacking with 8 talks from Trail of Bits' summer interns. CodeQL, machine learning, fuzzers, and more.
@@ -15762,9 +15782,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @969622912008409088 — 2020-02-21 17:56 UTC (2020-02-21 18:56 WAT)
+    #### Quoted post — @sdasgup3 — 2020-02-21 17:56 UTC (2020-02-21 18:56 WAT)
     
-    - URL: https://x.com/969622912008409088/status/1230914137263419392
+    - URL: https://x.com/sdasgup3/status/1230914137263419392
     - Metrics (at fetch): bookmark 6, impression 0, like 64, quote 1, reply 6, retweet 10
     
     > I am so thrilled to share that my recent work on "Scalable Validation of Binary Lifters" got conditionally accepted in PLDI'20. This is build on top of our  x86-64 K-semantics (from @Pldi19 ). @RosuGrigore @vadve @alastair_d_reid @taoxiease
@@ -15874,9 +15894,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @8371802 — 2020-01-27 14:12 UTC (2020-01-27 15:12 WAT)
+    #### Quoted post — @daveaitel — 2020-01-27 14:12 UTC (2020-01-27 15:12 WAT)
     
-    - URL: https://x.com/8371802/status/1221798164363194371
+    - URL: https://x.com/daveaitel/status/1221798164363194371
     - Metrics (at fetch): bookmark 0, impression 0, like 14, quote 3, reply 2, repost 0
     
     > I'm super proud of our Sponsor lineup so far. [pic.x.com/JUtxonWpKU]
@@ -15905,9 +15925,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @738485554048860160 — 2020-01-25 16:00 UTC (2020-01-25 17:00 WAT)
+    #### Quoted post — @EthCC — 2020-01-25 16:00 UTC (2020-01-25 17:00 WAT)
     
-    - URL: https://x.com/738485554048860160/status/1221100415854485505
+    - URL: https://x.com/EthCC/status/1221100415854485505
     - Metrics (at fetch): bookmark 0, impression 0, like 74, quote 6, reply 5, repost 24
     
     > 40 DAYS LEFT TILL 👾 #EthCC 👾 KICK-OFF!
@@ -16196,9 +16216,9 @@ Tags (automatic): Mobile / Android / iOS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1187929919713464320 — 2019-11-14 17:36 UTC (2019-11-14 18:36 WAT)
+    #### Quoted post — @GHSecurityLab — 2019-11-14 17:36 UTC (2019-11-14 18:36 WAT)
     
-    - URL: https://x.com/1187929919713464320/status/1195032893027840000
+    - URL: https://x.com/GHSecurityLab/status/1195032893027840000
     - Metrics (at fetch): bookmark 16, impression 0, like 335, quote 12, reply 25, retweet 120
     
     > Hi 👋 we are the GitHub Security Lab. Find more information about us here: https://securitylab.github.com
@@ -16722,9 +16742,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14111408 — 2019-08-21 18:59 UTC (2019-08-21 19:59 WAT)
+    #### Quoted post — @geofft — 2019-08-21 18:59 UTC (2019-08-21 19:59 WAT)
     
-    - URL: https://x.com/14111408/status/1164250758264451072
+    - URL: https://x.com/geofft/status/1164250758264451072
     - Metrics (at fetch): bookmark 0, impression 0, like 5, quote 1, reply 1, repost 2
     
     > Next #linuxsecuritysummit talk: kernelspace fault injection with KRF... or "the fault in our syscalls." [pic.x.com/LGa92Nv3jW]
@@ -16811,9 +16831,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2397872018 — 2019-08-16 14:14 UTC (2019-08-16 15:14 WAT)
+    #### Quoted post — @ArmyCyberInst — 2019-08-16 14:14 UTC (2019-08-16 15:14 WAT)
     
-    - URL: https://x.com/2397872018/status/1162367131024945153
+    - URL: https://x.com/ArmyCyberInst/status/1162367131024945153
     - Metrics (at fetch): bookmark 1, impression 0, like 8, quote 1, reply 0, retweet 1
     
     > CPT Roy Ragsdale (far right), @ArmyCyberInst, spoke at @EmpireHacking after an internship there this summer. On the second Tuesday of every other month, information security professionals gather to discuss pragmatic security research and new discoveries in attack and defense. https://twitter.com/EmpireHacking/status/1161711901291810816
@@ -18002,9 +18022,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2814024864 — 2019-01-14 16:53 UTC (2019-01-14 17:53 WAT)
+    #### Quoted post — @seanmeals — 2019-01-14 16:53 UTC (2019-01-14 17:53 WAT)
     
-    - URL: https://x.com/2814024864/status/1084856076128976897
+    - URL: https://x.com/seanmeals/status/1084856076128976897
     - Metrics (at fetch): bookmark 0, impression 0, like 19, quote 1, reply 2, retweet 0
     
     > @martenmickos @anshuman_bh @HudelC @trailofbits @dguido @Hacker0x01 @facebook @mitpress Yup. I submitted my first bug and earned $400 and was hooked,then jumped to first place overall on HackerOne several months later. And earned around 220k my first year. Back in 2015. You get what you put in. Lots of sleepless nights but it’s my hobby and same with many others.
@@ -18211,9 +18231,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @905095675540643840 — 2018-11-09 16:45 UTC (2018-11-09 17:45 WAT)
+    #### Quoted post — @levelk_io — 2018-11-09 16:45 UTC (2018-11-09 17:45 WAT)
     
-    - URL: https://x.com/905095675540643840/status/1060936542028480513
+    - URL: https://x.com/levelk_io/status/1060936542028480513
     - Metrics (at fetch): bookmark 3, impression 0, like 75, quote 14, reply 9, retweet 42
     
     > We will shortly disclose a security issue that could potentially cause exchanges a loss of funds. In order to receive advance notice prior to disclosure, please add your name to the following list via pull request, or by DM’ing @trailofbits or @levelk_io: https://github.com/trailofbits/blockchain-security-contacts
@@ -18580,9 +18600,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @64261195 — 2018-09-27 23:49 UTC (2018-09-28 00:49 WAT)
+    #### Quoted post — @computerality — 2018-09-27 23:49 UTC (2018-09-28 00:49 WAT)
     
-    - URL: https://x.com/64261195/status/1045460408188981248
+    - URL: https://x.com/computerality/status/1045460408188981248
     - Metrics (at fetch): bookmark 0, impression 0, like 14, quote 1, reply 0, retweet 2
     
     > Solving @MurmusCTF challenge live right now at https://twitch.tv/computerality
@@ -18829,9 +18849,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3129975465 — 2018-08-08 00:58 UTC (2018-08-08 01:58 WAT)
+    #### Quoted post — @EmpireHacking — 2018-08-08 00:58 UTC (2018-08-08 01:58 WAT)
     
-    - URL: https://x.com/3129975465/status/1026996142733709312
+    - URL: https://x.com/EmpireHacking/status/1026996142733709312
     - Metrics (at fetch): bookmark 0, impression 0, like 2, quote 1, reply 1, retweet 1
     
     > 1 week remaining until our yearly end-of-summer intern event! Hear from interns with @trailofbits, @datadoghq, @nyutandon, @business, @facebook, and @codeascraft https://www.meetup.com/Empire-Hacking/events/251731371/
@@ -18919,9 +18939,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @717313 — 2018-07-26 00:21 UTC (2018-07-26 01:21 WAT)
+    #### Quoted post — @arstechnica — 2018-07-26 00:21 UTC (2018-07-26 01:21 WAT)
     
-    - URL: https://x.com/717313/status/1022275564386873349
+    - URL: https://x.com/arstechnica/status/1022275564386873349
     - Metrics (at fetch): bookmark 1, impression 0, like 24, quote 9, reply 3, retweet 45
     
     > Decade-old Bluetooth flaw lets hackers steal data passing between devices http://arstechnica.com/information-technology/2018/07/decade-old-bluetooth-flaw-lets-hackers-steal-data-passing-between-devices/ by @dangoodin001
@@ -19484,9 +19504,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @64261195 — 2018-03-07 03:44 UTC (2018-03-07 04:44 WAT)
+    #### Quoted post — @computerality — 2018-03-07 03:44 UTC (2018-03-07 04:44 WAT)
     
-    - URL: https://x.com/64261195/status/971230027860848640
+    - URL: https://x.com/computerality/status/971230027860848640
     - Metrics (at fetch): bookmark 0, impression 0, like 1, quote 1, reply 1, retweet 1
     
     > This code has run on everyone's computer :/ https://x.com/withzombies/status/971228877166084096
@@ -19695,9 +19715,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @6083342 — 2018-01-26 17:38 UTC (2018-01-26 18:38 WAT)
+    #### Quoted post — @bascule — 2018-01-26 17:38 UTC (2018-01-26 18:38 WAT)
     
-    - URL: https://x.com/6083342/status/956944561472815104
+    - URL: https://x.com/bascule/status/956944561472815104
     - Metrics (at fetch): bookmark 0, impression 0, like 151, quote 32, reply 7, retweet 166
     
     > "Tokyo-based cryptocurrency exchange Coincheck has confirmed that it has suffered what appears to be the biggest hack in history of the technology" 58 billion yen, or $533 million https://t.co/wi3OfqKN8G
@@ -19935,9 +19955,9 @@ Tags (automatic): Mobile / Android / iOS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3129975465 — 2017-11-22 14:47 UTC (2017-11-22 15:47 WAT)
+    #### Quoted post — @EmpireHacking — 2017-11-22 14:47 UTC (2017-11-22 15:47 WAT)
     
-    - URL: https://x.com/3129975465/status/933346195199680513
+    - URL: https://x.com/EmpireHacking/status/933346195199680513
     - Metrics (at fetch): bookmark 0, impression 0, like 6, quote 2, reply 0, retweet 6
     
     > Come to @EmpireHacking on December 12th to learn about Ethereum security. Talks on symbolic execution, DevCon3, CTFs, and @PolySwarm. https://t.co/AUxaPokARM
@@ -20431,9 +20451,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @226628271 — 2017-08-08 13:41 UTC (2017-08-08 14:41 WAT)
+    #### Quoted post — @InfiltrateCon — 2017-08-08 13:41 UTC (2017-08-08 14:41 WAT)
     
-    - URL: https://x.com/226628271/status/894916355065098244
+    - URL: https://x.com/InfiltrateCon/status/894916355065098244
     - Metrics (at fetch): bookmark 0, impression 0, like 6, quote 3, reply 0, retweet 1
     
     > We are excited to have our friends at @trailofbits back as an INFILTRATE 2018 sponsor! Join us on the offensive side
@@ -20528,9 +20548,9 @@ Tags (automatic): Mobile / Android / iOS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1602746592 — 2017-07-24 18:05 UTC (2017-07-24 19:05 WAT)
+    #### Quoted post — @GitHubSecurity — 2017-07-24 18:05 UTC (2017-07-24 19:05 WAT)
     
-    - URL: https://x.com/1602746592/status/889547184168763392
+    - URL: https://x.com/GitHubSecurity/status/889547184168763392
     - Metrics (at fetch): bookmark 0, impression 0, like 146, quote 10, reply 0, retweet 101
     
     > In an effort to increase the adoption of FIDO U2F, we’re releasing Soft U2F: a software-based U2F option for macOS https://githubengineering.com/soft-u2f/
@@ -20708,9 +20728,9 @@ Tags (automatic): Mobile / Android / iOS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14290525 — 2017-03-25 18:52 UTC (2017-03-25 19:52 WAT)
+    #### Quoted post — @dguido — 2017-03-25 18:52 UTC (2017-03-25 19:52 WAT)
     
-    - URL: https://x.com/14290525/status/845709912588062723
+    - URL: https://x.com/dguido/status/845709912588062723
     - Metrics (at fetch): bookmark 0, impression 0, like 34, quote 2, reply 3, retweet 15
     
     > If you're a security consultant that wants more software development in your life, apply to @trailofbits https://www.trailofbits.com/forms/wufoo-joinus/index.html
@@ -20886,9 +20906,9 @@ Tags (automatic): Mobile / Android / iOS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @138098380 — 2017-04-25 03:51 UTC (2017-04-25 04:51 WAT)
+    #### Quoted post — @jvanegue — 2017-04-25 03:51 UTC (2017-04-25 04:51 WAT)
     
-    - URL: https://x.com/138098380/status/856717260836265985
+    - URL: https://x.com/jvanegue/status/856717260836265985
     - Metrics (at fetch): bookmark 0, impression 0, like 13, quote 1, reply 0, retweet 5
     
     > Total preps to @dguido @alexsotirov and the whole ToB team for releasing many of their useful program analysis tools as open source https://x.com/moyix/status/856569030567743488
@@ -20915,9 +20935,9 @@ Tags (automatic): Mobile / Android / iOS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2800929940 — 2017-04-25 02:35 UTC (2017-04-25 03:35 WAT)
+    #### Quoted post — @japesinator — 2017-04-25 02:35 UTC (2017-04-25 03:35 WAT)
     
-    - URL: https://x.com/2800929940/status/856698038273880065
+    - URL: https://x.com/japesinator/status/856698038273880065
     - Metrics (at fetch): bookmark 0, impression 0, like 3, quote 1, reply 1, retweet 0
     
     > .@MurmusCTF is somehow already streaming manticore! Bonus points for shouting out @Eric_Hennenfent's awesome writeup
@@ -20943,9 +20963,9 @@ Tags (automatic): Mobile / Android / iOS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2800929940 — 2017-04-24 16:20 UTC (2017-04-24 17:20 WAT)
+    #### Quoted post — @japesinator — 2017-04-24 16:20 UTC (2017-04-24 17:20 WAT)
     
-    - URL: https://x.com/2800929940/status/856543410248929280
+    - URL: https://x.com/japesinator/status/856543410248929280
     - Metrics (at fetch): bookmark 0, impression 0, like 102, quote 3, reply 3, retweet 56
     
     > I've been working on https://github.com/trailofbits/manticore for the past several months, and it just went open source! You should go hack stuff with it
@@ -21728,9 +21748,9 @@ Tags (automatic): Mobile / Android / iOS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @19573836 — 2016-07-27 11:03 UTC (2016-07-27 12:03 WAT)
+    #### Quoted post — @RPISEC — 2016-07-27 11:03 UTC (2016-07-27 12:03 WAT)
     
-    - URL: https://x.com/19573836/status/758256408752164864
+    - URL: https://x.com/RPISEC/status/758256408752164864
     - Metrics (at fetch): not returned
     
     > Announcing our first CTF, Hack The Vote 2016, 48 hours starting Nov 4th at 7pm EDT - http://pwn.voting

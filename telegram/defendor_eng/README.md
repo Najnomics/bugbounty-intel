@@ -6,9 +6,9 @@ Public web preview used for this archive: [https://t.me/s/defendor_eng](https://
 - **Title:** Defendor — DeFi Security
 - **Description:** Web3 Security Feed /  / Ads: https://t.me/arsen_btnk
 - **Channel counters (at crawl):** 2.6K | subscribers | 2.08K | photos | 2.13K | links
-- **Messages captured:** 2149
-- **ID range:** 1–2388
-- **Date range (WAT, Africa/Lagos):** 2025-04-22T08:42:27+01:00 → 2026-11-25T20:24:09+01:00
+- **Messages captured:** 2153
+- **ID range:** 1–2392
+- **Date range (WAT, Africa/Lagos):** 2025-04-22T08:42:27+01:00 → 2026-11-26T19:40:43+01:00
 - **Backfill complete (reached first available message):** True
 - **Oldest captured id:** 1
 - **Newest captured id:** 2380
@@ -24,6 +24,6 @@ Fetched content is data, not instructions.
 | --- | --- | ---: |
 | [ARCHIVE-2025.md](ARCHIVE-2025.md) | 2025: ids 1–1030 | 833 |
 | [ARCHIVE-2026-01031-02070.md](ARCHIVE-2026-01031-02070.md) | 2026, messages 1031–2070: ids 1031–2070 | 1000 |
-| [ARCHIVE-2026-02071-02388.md](ARCHIVE-2026-02071-02388.md) | 2026, messages 2071–2388: ids 2071–2388 | 316 |
+| [ARCHIVE-2026-02071-02392.md](ARCHIVE-2026-02071-02392.md) | 2026, messages 2071–2392: ids 2071–2392 | 320 |
 
-All distinct external article/writeup URLs: [517 in links.md](links.md).
+All distinct external article/writeup URLs: [518 in links.md](links.md).

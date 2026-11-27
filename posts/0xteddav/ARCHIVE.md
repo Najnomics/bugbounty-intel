@@ -1,6 +1,6 @@
 # @0xteddav — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 49
 - Conversations/threads: 24
@@ -15,9 +15,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @1420500152469622785 — 2026-11-18 09:10 UTC (2026-11-18 10:10 WAT)
+#### Root post — @xyz_pierre — 2026-11-18 09:10 UTC (2026-11-18 10:10 WAT)
 
-- URL: https://x.com/1420500152469622785/status/2122980659471798638
+- URL: https://x.com/xyz_pierre/status/2122980659471798638
 - Metrics (at fetch): bookmark 52, impression 10046, like 205, quote 7, reply 30, retweet 26
 
 > we are launching a stealth addresses working group, featuring the best engineering teams dedicated to solving stealth addresses’ toughest crypto and ux problems on Ethereum
@@ -676,9 +676,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2811767916 — 2024-02-09 10:01 UTC (2024-02-09 11:01 WAT)
+    #### Quoted post — @portport255 — 2024-02-09 10:01 UTC (2024-02-09 11:01 WAT)
     
-    - URL: https://x.com/2811767916/status/1755894717248946359
+    - URL: https://x.com/portport255/status/1755894717248946359
     - Metrics (at fetch): not returned
     
     > Check this out :) https://twitter.com/0xteddav/status/1755889946806689959

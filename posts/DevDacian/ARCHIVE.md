@@ -1,11 +1,35 @@
 # @DevDacian — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 425
-- Conversations/threads: 374
+- Posts in this file: 426
+- Conversations/threads: 375
 - Oldest post captured: 2023-02-23
-- Newest post captured: 2026-11-24
+- Newest post captured: 2026-11-26
+
+
+---
+
+## 2026-11-26 · Post · Looking at the performance gains of our continuously improving proprietary AI, it has been making hu
+
+
+Tags (automatic): Smart contract / DeFi, AI-assisted hunting
+
+
+### Post — @DevDacian — 2026-11-26 10:34 UTC (2026-11-26 11:34 WAT)
+
+- URL: https://x.com/DevDacian/status/2125901013748253105
+- Metrics (at fetch): bookmark 3, impression 1114, like 25, quote 0, reply 1, repost 4
+
+> Looking at the performance gains of our continuously improving proprietary AI, it has been making huge leaps every ~3 months in terms of the security output it generates on smart contract audits.
+>
+> We are entering a world where quarterly or even monthly scanning with a continuously improving specialist AI becomes a necessity simply to stay ahead of the risk curve.
+>
+> The days of getting a few audits, deploying then doing no more security work for 6-18 months is over; the biggest at-risk contracts are now ones that were last audited ~6+ months ago without any further security work.
+>
+> Immutable contracts seem a rather risky proposition now as well, unless there is a way to quickly pause & move liquidity when a future bug is discovered.
+>
+> That being said for protocols who embrace these tools combined with AI-assisted invariant testing & formal verification, they will be stronger and more hardened than ever before as they can always stay in-front of the risk curve!
 
 
 ---
@@ -50,9 +74,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Context — conversation root by another account:**
 
-#### Root post — @1376152818004951041 — 2026-11-23 10:32 UTC (2026-11-23 11:32 WAT)
+#### Root post — @0xCharlesWang — 2026-11-23 10:32 UTC (2026-11-23 11:32 WAT)
 
-- URL: https://x.com/1376152818004951041/status/2124813448316117165
+- URL: https://x.com/0xCharlesWang/status/2124813448316117165
 - Metrics (at fetch): bookmark 2, impression 3356, like 25, quote 0, reply 7, retweet 0
 
 > Does OpenAI flag legacy models (sol 5.6 without daybreak etc) for cyber security way more since 6.2 is out?
@@ -115,9 +139,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1261335549215989760 — 2026-11-19 14:55 UTC (2026-11-19 15:55 WAT)
+    #### Quoted post — @Polymarket — 2026-11-19 14:55 UTC (2026-11-19 15:55 WAT)
     
-    - URL: https://x.com/1261335549215989760/status/2123430023986376719
+    - URL: https://x.com/Polymarket/status/2123430023986376719
     - Metrics (at fetch): bookmark 435, impression 229010, like 4590, quote 137, reply 185, retweet 455
     
     > BREAKING: Anthropic CEO Dario Amodei rings the Nasdaq opening bell to mark the largest IPO in history. https://t.co/lDaZg1mT7B
@@ -152,9 +176,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @1561823299163783171 — 2026-11-19 08:10 UTC (2026-11-19 09:10 WAT)
+#### Parent post — @0xFlint_ — 2026-11-19 08:10 UTC (2026-11-19 09:10 WAT)
 
-- URL: https://x.com/1561823299163783171/status/2123328110313541830
+- URL: https://x.com/0xFlint_/status/2123328110313541830
 - Metrics (at fetch): bookmark 5, impression 1093, like 12, quote 0, reply 4, retweet 0
 
 > A perfect encapsulation of my feelings. 
@@ -233,9 +257,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1390514234006540294 — 2026-11-18 07:14 UTC (2026-11-18 08:14 WAT)
+#### Root post — @0x158_ — 2026-11-18 07:14 UTC (2026-11-18 08:14 WAT)
 
-- URL: https://x.com/1390514234006540294/status/2122951594019090717
+- URL: https://x.com/0x158_/status/2122951594019090717
 - Metrics (at fetch): bookmark 1, impression 1179, like 43, quote 0, reply 5, retweet 0
 
 > Sometimes I think security researchers could add far more value by working closely with 1 protocol instead of constantly jumping between codebases.
@@ -262,9 +286,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @192462804 — 2026-11-19 01:14 UTC (2026-11-19 02:14 WAT)
+#### Root post — @Jeyffre — 2026-11-19 01:14 UTC (2026-11-19 02:14 WAT)
 
-- URL: https://x.com/192462804/status/2123223469790056780
+- URL: https://x.com/Jeyffre/status/2123223469790056780
 - Metrics (at fetch): bookmark 1, impression 959, like 14, quote 0, reply 2, retweet 1
 
 > Google - your models are amazing and I'm happy you are in the race.
@@ -407,9 +431,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Context — conversation root by another account:**
 
-#### Root post — @1471962504087625733 — 2026-11-16 17:50 UTC (2026-11-16 18:50 WAT)
+#### Root post — @windhustler — 2026-11-16 17:50 UTC (2026-11-16 18:50 WAT)
 
-- URL: https://x.com/1471962504087625733/status/2122386904771432757
+- URL: https://x.com/windhustler/status/2122386904771432757
 - Metrics (at fetch): bookmark 4, impression 2970, like 272, quote 0, reply 77, retweet 0
 
 > The weekend was super busy. My daughter was born on Saturday, one day before my 35th birthday! [pic.x.com/PiyfzpZdX6]
@@ -2593,9 +2617,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1546814146385268737 — 2025-12-28 13:46 UTC (2025-12-28 14:46 WAT)
+    #### Quoted post — @pashov — 2025-12-28 13:46 UTC (2025-12-28 14:46 WAT)
     
-    - URL: https://x.com/1546814146385268737/status/2005274271355142563
+    - URL: https://x.com/pashov/status/2005274271355142563
     - Metrics (at fetch): not returned
     
     > 2025 is 99% complete.
@@ -2657,9 +2681,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1617698796716150784 — 2025-12-23 13:20 UTC (2025-12-23 14:20 WAT)
+    #### Quoted post — @cyfrin — 2025-12-23 13:20 UTC (2025-12-23 14:20 WAT)
     
-    - URL: https://x.com/1617698796716150784/status/2003455651792511179
+    - URL: https://x.com/cyfrin/status/2003455651792511179
     - Metrics (at fetch): not returned
     
     > @CyfrinUpdraft Our security work scaled dramatically.
@@ -3231,9 +3255,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1678922837996998659 — 2025-10-01 13:38 UTC (2025-10-01 14:38 WAT)
+    #### Quoted post — @octane_security — 2025-10-01 13:38 UTC (2025-10-01 14:38 WAT)
     
-    - URL: https://x.com/1678922837996998659/status/1973382137236611295
+    - URL: https://x.com/octane_security/status/1973382137236611295
     - Metrics (at fetch): not returned
     
     > Finally, at Level 5, autonomous systems detect, validate, and recommend fixes automatically.
@@ -3471,9 +3495,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1671041128366235650 — 2025-08-28 08:46 UTC (2025-08-28 09:46 WAT)
+    #### Quoted post — @alexzoid — 2025-08-28 08:46 UTC (2025-08-28 09:46 WAT)
     
-    - URL: https://x.com/1671041128366235650/status/1960987430426747273
+    - URL: https://x.com/alexzoid/status/1960987430426747273
     - Metrics (at fetch): not returned
     
     > In a past private engagement with auditors, my @certora Formal Verification valid state property caught a CRIT in the assembly of a complex lending protocol, missed by manual reviews. 
@@ -3855,9 +3879,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1619025256693518337 — 2025-07-17 17:53 UTC (2025-07-17 18:53 WAT)
+    #### Quoted post — @0xMackenzieM — 2025-07-17 17:53 UTC (2025-07-17 18:53 WAT)
     
-    - URL: https://x.com/1619025256693518337/status/1945904772864954592
+    - URL: https://x.com/0xMackenzieM/status/1945904772864954592
     - Metrics (at fetch): bookmark 0, impression 3268, like 8, quote 1, reply 0, retweet 0
     
     > @DevDacian How you "Explain why false positives are invalid" repeatedly sticks out to me. Cause that's the worst part of talking to AI
@@ -4570,9 +4594,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1562070471977443330 — 2025-06-09 20:05 UTC (2025-06-09 21:05 WAT)
+    #### Quoted post — @0xStalin — 2025-06-09 20:05 UTC (2025-06-09 21:05 WAT)
     
-    - URL: https://x.com/1562070471977443330/status/1932167223365538149
+    - URL: https://x.com/0xStalin/status/1932167223365538149
     - Metrics (at fetch): not returned
     
     > This simple trick helped us to identify a critical issue during our most recent engagement.
@@ -4842,9 +4866,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1297925400090337280 — 2025-05-23 19:36 UTC (2025-05-23 20:36 WAT)
+    #### Quoted post — @RektHQ — 2025-05-23 19:36 UTC (2025-05-23 20:36 WAT)
     
-    - URL: https://x.com/1297925400090337280/status/1925999356706013416
+    - URL: https://x.com/RektHQ/status/1925999356706013416
     - Metrics (at fetch): not returned
     
     > $223 million from @CetusProtocol  through broken math. Sui validators froze $162M mid-heist. Over $60M walked across Wormhole and never looked back. Was it an exploit - or just the math working as written?
@@ -5074,9 +5098,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1492412477904023557 — 2025-05-03 01:30 UTC (2025-05-03 02:30 WAT)
+    #### Quoted post — @bunni_xyz — 2025-05-03 01:30 UTC (2025-05-03 02:30 WAT)
     
-    - URL: https://x.com/1492412477904023557/status/1918478221416513711
+    - URL: https://x.com/bunni_xyz/status/1918478221416513711
     - Metrics (at fetch): bookmark 94, impression 24826, like 92, quote 5, reply 3, retweet 12
     
     > The Bunni team has made a write-up of the exploit discovered by @cyfrin that could've led to the theft of user funds.
@@ -5367,9 +5391,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @990716955236749312 — 2025-04-11 07:00 UTC (2025-04-11 08:00 WAT)
+    #### Quoted post — @Dolomite_io — 2025-04-11 07:00 UTC (2025-04-11 08:00 WAT)
     
-    - URL: https://x.com/990716955236749312/status/1910588644769095854
+    - URL: https://x.com/Dolomite_io/status/1910588644769095854
     - Metrics (at fetch): bookmark 1, impression 5889, like 57, quote 1, reply 2, retweet 8
     
     > Our "Proof of Liquidity Integration" audit by @cyfrin just came back.
@@ -6617,9 +6641,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2167078213 — 2024-11-29 14:16 UTC (2024-11-29 15:16 WAT)
+    #### Quoted post — @CodeHawks — 2024-11-29 14:16 UTC (2024-11-29 15:16 WAT)
     
-    - URL: https://x.com/2167078213/status/1862500920564621377
+    - URL: https://x.com/CodeHawks/status/1862500920564621377
     - Metrics (at fetch): bookmark 0, impression 12756, like 130, quote 6, reply 10, retweet 21
     
     > They may have a point.
@@ -7104,9 +7128,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1357162894798909441 — 2024-06-06 09:08 UTC (2024-06-06 10:08 WAT)
+    #### Quoted post — @sockdrawermoney — 2024-06-06 09:08 UTC (2024-06-06 10:08 WAT)
     
-    - URL: https://x.com/1357162894798909441/status/1798643063172313554
+    - URL: https://x.com/sockdrawermoney/status/1798643063172313554
     - Metrics (at fetch): bookmark 39, impression 24388, like 94, quote 8, reply 6, retweet 8
     
     > @TheWavexyz @0xMackenzieM @0xnirlin @jack__sanford I’d prefer not to spend any energy debating this as I see no merit in it and the extremely narrow audience can make up their own minds, but I can fast forward it.
@@ -7219,9 +7243,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2167078213 — 2024-04-06 19:30 UTC (2024-04-06 20:30 WAT)
+    #### Quoted post — @CodeHawks — 2024-04-06 19:30 UTC (2024-04-06 20:30 WAT)
     
-    - URL: https://x.com/2167078213/status/1776694081235603476
+    - URL: https://x.com/CodeHawks/status/1776694081235603476
     - Metrics (at fetch): not returned
     
     > Awards have been announced for the Beanstalk Part 1 contest🤝
@@ -7382,9 +7406,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1376152818004951041 — 2024-01-15 14:05 UTC (2024-01-15 15:05 WAT)
+    #### Quoted post — @0xCharlesWang — 2024-01-15 14:05 UTC (2024-01-15 15:05 WAT)
     
-    - URL: https://x.com/1376152818004951041/status/1746896434434097645
+    - URL: https://x.com/0xCharlesWang/status/1746896434434097645
     - Metrics (at fetch): not returned
     
     > When it comes so smart contracts, there is nothing such as a 
@@ -7547,9 +7571,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2167078213 — 2023-12-14 16:07 UTC (2023-12-14 17:07 WAT)
+    #### Quoted post — @CodeHawks — 2023-12-14 16:07 UTC (2023-12-14 17:07 WAT)
     
-    - URL: https://x.com/2167078213/status/1735330714210451788
+    - URL: https://x.com/CodeHawks/status/1735330714210451788
     - Metrics (at fetch): bookmark 1, impression 5528, like 41, quote 2, reply 2, retweet 3
     
     > Announcing First Flight #6: Voting Booth
@@ -7929,9 +7953,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14488050 — 2023-08-24 08:44 UTC (2023-08-24 09:44 WAT)
+    #### Quoted post — @StErMi — 2023-08-24 08:44 UTC (2023-08-24 09:44 WAT)
     
-    - URL: https://x.com/14488050/status/1694631718697799864
+    - URL: https://x.com/StErMi/status/1694631718697799864
     - Metrics (at fetch): bookmark 6, impression 9566, like 33, quote 4, reply 13, retweet 0
     
     > I honestly think that any med/high/crit finding must have a PoC to showcase it to be accepted in any contest or report.
@@ -7967,9 +7991,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1519875568170381312 — 2023-08-14 17:00 UTC (2023-08-14 18:00 WAT)
+    #### Quoted post — @hansfriese — 2023-08-14 17:00 UTC (2023-08-14 18:00 WAT)
     
-    - URL: https://x.com/1519875568170381312/status/1691132694099382291
+    - URL: https://x.com/hansfriese/status/1691132694099382291
     - Metrics (at fetch): bookmark 50, impression 12039, like 97, quote 3, reply 8, retweet 10
     
     > This submission for the @CodeHawks contest is of exceptional quality.
@@ -8123,9 +8147,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1358831196747235328 — 2023-07-01 12:59 UTC (2023-07-01 13:59 WAT)
+    #### Quoted post — @code4rena — 2023-07-01 12:59 UTC (2023-07-01 13:59 WAT)
     
-    - URL: https://x.com/1358831196747235328/status/1675126861402103811
+    - URL: https://x.com/code4rena/status/1675126861402103811
     - Metrics (at fetch): bookmark 1, impression 8963, like 29, quote 2, reply 3, retweet 0
     
     > We’ve officially made it through more than half of 2023. What have you accomplished so far? What goals do you have on the horizon? 🐺
@@ -8706,9 +8730,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge, Platform: 
 
 **Quoted post (full text):**
 
-    #### Quoted post — @97492858 — 2023-04-27 16:46 UTC (2023-04-27 17:46 WAT)
+    #### Quoted post — @gjaldon — 2023-04-27 16:46 UTC (2023-04-27 17:46 WAT)
     
-    - URL: https://x.com/97492858/status/1651628913637081088
+    - URL: https://x.com/gjaldon/status/1651628913637081088
     - Metrics (at fetch): bookmark 0, impression 1924, like 10, quote 1, reply 1, retweet 1
     
     > @HollaWaldfee100 @code4rena @sherlockdefi For sure! The instant successes are not instant successes. ~90% of their journey just isn’t documented on Twitter

@@ -1,6 +1,6 @@
 # @infosec_au — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 251
 - Conversations/threads: 225
@@ -15,9 +15,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @1768306876897169408 — 2026-11-16 19:40 UTC (2026-11-16 20:40 WAT)
+#### Root post — @7urb01 — 2026-11-16 19:40 UTC (2026-11-16 20:40 WAT)
 
-- URL: https://x.com/1768306876897169408/status/2122414644300316853
+- URL: https://x.com/7urb01/status/2122414644300316853
 - Metrics (at fetch): bookmark 8, impression 998, like 8, quote 0, reply 1, retweet 0
 
 > Achieving hacker-in-an-action-movie levels of exploitation is insane. Research Review. https://youtu.be/M7hGvuQbZ1s https://twitter.com/infosec_au/status/2119025620969828598
@@ -172,9 +172,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @2052867933513097218 — 2026-09-30 15:19 UTC (2026-09-30 16:19 WAT)
+#### Root post — @0xMadder — 2026-09-30 15:19 UTC (2026-09-30 16:19 WAT)
 
-- URL: https://x.com/2052867933513097218/status/2105316601268736155
+- URL: https://x.com/0xMadder/status/2105316601268736155
 - Metrics (at fetch): bookmark 309, impression 274508, like 1403, quote 15, reply 56, repost 40
 
 > First Tweet, first Bounty, 2026 is going great :)) [pic.x.com/gwOtejjOmH]
@@ -806,9 +806,9 @@ Tags (automatic): SQL injection, SSRF
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1177545689460592640 — 2026-01-15 15:28 UTC (2026-01-15 16:28 WAT)
+    #### Quoted post — @PortSwiggerRes — 2026-01-15 15:28 UTC (2026-01-15 16:28 WAT)
     
-    - URL: https://x.com/1177545689460592640/status/2011822850626204152
+    - URL: https://x.com/PortSwiggerRes/status/2011822850626204152
     - Metrics (at fetch): not returned
     
     > Voting is now live for the top ten web hacking techniques of 2025! Grab a coffee, browse the 61 quality nominations and cast your vote on the most creative and ground-breaking techniques:
@@ -852,9 +852,9 @@ Tags (automatic): SQL injection, SSRF
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15540222 — 2025-12-05 01:08 UTC (2025-12-05 02:08 WAT)
+    #### Quoted post — @rauchg — 2025-12-05 01:08 UTC (2025-12-05 02:08 WAT)
     
-    - URL: https://x.com/15540222/status/1996748557173624956
+    - URL: https://x.com/rauchg/status/1996748557173624956
     - Metrics (at fetch): bookmark 18, impression 478704, like 144, quote 4, reply 3, repost 0
     
     > @infosec_au @assetnote DM’d you. You have a working repro for bypassing Cloudflare but not Vercel. Would love to correct the record or see the evidence.
@@ -2164,9 +2164,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2401933806 — 2023-04-20 10:48 UTC (2023-04-20 11:48 WAT)
+    #### Quoted post — @HusseiN98D — 2023-04-20 10:48 UTC (2023-04-20 11:48 WAT)
     
-    - URL: https://x.com/2401933806/status/1649002011944263681
+    - URL: https://x.com/HusseiN98D/status/1649002011944263681
     - Metrics (at fetch): bookmark 88, impression 36869, like 251, quote 2, reply 5, retweet 53
     
     > Throwback to when I and @infosec_au found a 0day to hack +200 subdomains of a Bank 

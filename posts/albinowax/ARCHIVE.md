@@ -1,6 +1,6 @@
 # @albinowax — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 347
 - Conversations/threads: 309
@@ -438,9 +438,9 @@ Tags (automatic): Request smuggling / desync
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1577925317141954560 — 2026-10-01 09:42 UTC (2026-10-01 10:42 WAT)
+    #### Quoted post — @timolongin — 2026-10-01 09:42 UTC (2026-10-01 10:42 WAT)
     
-    - URL: https://x.com/1577925317141954560/status/2105594181641027959
+    - URL: https://x.com/timolongin/status/2105594181641027959
     - Metrics (at fetch): bookmark 357, impression 42798, like 450, quote 1, reply 8, repost 99
     
     > Blog post about From header smuggling in Apple iCloud just dropped.
@@ -645,9 +645,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @736615159653924864 — 2026-09-01 09:07 UTC (2026-09-01 10:07 WAT)
+    #### Quoted post — @intigriti — 2026-09-01 09:07 UTC (2026-09-01 10:07 WAT)
     
-    - URL: https://x.com/736615159653924864/status/2094713628851065308
+    - URL: https://x.com/intigriti/status/2094713628851065308
     - Metrics (at fetch): not returned
     
     > Big news from Intigriti! 🎉 
@@ -689,9 +689,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @736615159653924864 — 2026-09-01 09:07 UTC (2026-09-01 10:07 WAT)
+    #### Quoted post — @intigriti — 2026-09-01 09:07 UTC (2026-09-01 10:07 WAT)
     
-    - URL: https://x.com/736615159653924864/status/2094713628851065308
+    - URL: https://x.com/intigriti/status/2094713628851065308
     - Metrics (at fetch): not returned
     
     > Big news from Intigriti! 🎉 
@@ -1244,9 +1244,9 @@ Tags (automatic): Memory corruption / native, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @438070214 — 2026-03-10 08:53 UTC (2026-03-10 09:53 WAT)
+    #### Quoted post — @PentesterLab — 2026-03-10 08:53 UTC (2026-03-10 09:53 WAT)
     
-    - URL: https://x.com/438070214/status/2031292432722374958
+    - URL: https://x.com/PentesterLab/status/2031292432722374958
     - Metrics (at fetch): not returned
     
     > A commit meant to "strengthen the crypto" in FreshRSS ended up removing the need for a correct password.
@@ -1387,9 +1387,9 @@ Tags (automatic): AI-assisted hunting, Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @850947286741901312 — 2025-08-18 13:00 UTC (2025-08-18 14:00 WAT)
+    #### Quoted post — @ehsayaan — 2025-08-18 13:00 UTC (2025-08-18 14:00 WAT)
     
-    - URL: https://x.com/850947286741901312/status/1957427261164212382
+    - URL: https://x.com/ehsayaan/status/1957427261164212382
     - Metrics (at fetch): bookmark 196, impression 32068, like 250, quote 2, reply 7, retweet 33
     
     > I recently discovered a critical race condition vulnerability at a multi-million dollar investment firm!
@@ -1749,9 +1749,9 @@ Tags (automatic): XSS, CSP / CSPT
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1396317355 — 2024-11-27 09:06 UTC (2024-11-27 10:06 WAT)
+    #### Quoted post — @lukejahnke — 2024-11-27 09:06 UTC (2024-11-27 10:06 WAT)
     
-    - URL: https://x.com/1396317355/status/1861698157887029713
+    - URL: https://x.com/lukejahnke/status/1861698157887029713
     - Metrics (at fetch): bookmark 191, impression 55505, like 292, quote 3, reply 5, retweet 63
     
     > 🧵Can you work out how to bypass this vulnerable CSRF protection? Read all about this gotcha in my latest blog post [pic.x.com/8hns5ojMou]
@@ -2001,9 +2001,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @260411518 — 2024-07-29 14:31 UTC (2024-07-29 15:31 WAT)
+    #### Quoted post — @rez0__ — 2024-07-29 14:31 UTC (2024-07-29 15:31 WAT)
     
-    - URL: https://x.com/260411518/status/1817931038602993792
+    - URL: https://x.com/rez0__/status/1817931038602993792
     - Metrics (at fetch): bookmark 2, impression 10773, like 20, quote 1, reply 1, retweet 0
     
     > maybe one natural evolution of bug bounty is that _as targets harden_ bb hunters end up collabing more to achieve the same output. https://t.co/6WqB0lnTkr
@@ -2213,9 +2213,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @19395266 — 2024-05-03 15:48 UTC (2024-05-03 16:48 WAT)
+    #### Quoted post — @joernchen — 2024-05-03 15:48 UTC (2024-05-03 16:48 WAT)
     
-    - URL: https://x.com/19395266/status/1786422466694328337
+    - URL: https://x.com/joernchen/status/1786422466694328337
     - Metrics (at fetch): bookmark 70, impression 27052, like 151, quote 1, reply 3, retweet 46
     
     > Earlier this year I found a pretty cool vuln, an arbitrary file write in GitLab.
@@ -2245,9 +2245,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @734164442997501952 — 2024-02-23 16:02 UTC (2024-02-23 17:02 WAT)
+    #### Quoted post — @Sonar_Research — 2024-02-23 16:02 UTC (2024-02-23 17:02 WAT)
     
-    - URL: https://x.com/734164442997501952/status/1761058954577137982
+    - URL: https://x.com/Sonar_Research/status/1761058954577137982
     - Metrics (at fetch): not returned
     
     > 🔥Multiple XSS vulnerabilities in popular CMS Joomla! (CVE-2024-21726) 🔥
@@ -2338,9 +2338,9 @@ Tags (automatic): XSS, RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1149823779431997442 — 2023-10-19 18:14 UTC (2023-10-19 19:14 WAT)
+    #### Quoted post — @0xTib3rius — 2023-10-19 18:14 UTC (2023-10-19 19:14 WAT)
     
-    - URL: https://x.com/1149823779431997442/status/1715068898549047559
+    - URL: https://x.com/0xTib3rius/status/1715068898549047559
     - Metrics (at fetch): bookmark 33, impression 48397, like 90, quote 1, reply 5, retweet 17
     
     > Answering my web #AppSec interview question from the other day!
@@ -2393,9 +2393,9 @@ Tags (automatic): XSS, RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1177545689460592640 — 2023-10-18 12:59 UTC (2023-10-18 13:59 WAT)
+    #### Quoted post — @PortSwiggerRes — 2023-10-18 12:59 UTC (2023-10-18 13:59 WAT)
     
-    - URL: https://x.com/1177545689460592640/status/1714627366545146306
+    - URL: https://x.com/PortSwiggerRes/status/1714627366545146306
     - Metrics (at fetch): bookmark 35, impression 39665, like 115, quote 2, reply 1, retweet 33
     
     > We've just published our findings on applying the single-packet attack to other popular network protocols. If you're looking for race conditions or research ideas, you'll find some leads here:
@@ -2833,9 +2833,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1081974201781694464 — 2023-02-21 16:59 UTC (2023-02-21 17:59 WAT)
+    #### Quoted post — @trufflesec — 2023-02-21 16:59 UTC (2023-02-21 17:59 WAT)
     
-    - URL: https://x.com/1081974201781694464/status/1628076850659606534
+    - URL: https://x.com/trufflesec/status/1628076850659606534
     - Metrics (at fetch): bookmark 19, impression 33450, like 86, quote 4, reply 4, retweet 22
     
     > Truffle Security's XSSHunter fork now optionally supports e2e encryption https://youtu.be/BBcZcoIZ1Jc
@@ -2903,9 +2903,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1177545689460592640 — 2023-01-12 11:00 UTC (2023-01-12 12:00 WAT)
+    #### Quoted post — @PortSwiggerRes — 2023-01-12 11:00 UTC (2023-01-12 12:00 WAT)
     
-    - URL: https://x.com/1177545689460592640/status/1613490987476701184
+    - URL: https://x.com/PortSwiggerRes/status/1613490987476701184
     - Metrics (at fetch): bookmark 8, impression 17357, like 64, quote 2, reply 0, retweet 20
     
     > Chrome has removed the path property from events in version 109. We've updated our article about bypassing CSP with AngularJS to reflect this. The workaround is to use the composedPath() function.
@@ -4647,9 +4647,9 @@ Tags (automatic): XSS, Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2216306262 — 2017-11-28 14:58 UTC (2017-11-28 15:58 WAT)
+    #### Quoted post — @Burp_Suite — 2017-11-28 14:58 UTC (2017-11-28 15:58 WAT)
     
-    - URL: https://x.com/2216306262/status/935523180722180096
+    - URL: https://x.com/Burp_Suite/status/935523180722180096
     - Metrics (at fetch): not returned
     
     > Blog post: The Daily Swig http://blog.portswigger.net/2017/11/the-daily-swig.html @DailySwig

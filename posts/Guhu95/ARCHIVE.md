@@ -1,6 +1,6 @@
 # @Guhu95 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 75
 - Conversations/threads: 63
@@ -53,9 +53,9 @@ Tags (automatic): AI-assisted hunting, Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1678922837996998659 — 2026-02-25 16:09 UTC (2026-02-25 17:09 WAT)
+    #### Quoted post — @octane_security — 2026-02-25 16:09 UTC (2026-02-25 17:09 WAT)
     
-    - URL: https://x.com/1678922837996998659/status/2026691133980684775
+    - URL: https://x.com/octane_security/status/2026691133980684775
     - Metrics (at fetch): bookmark 46, impression 59452, like 208, quote 24, reply 22, repost 25
     
     > 1/ Octane’s AI found a high-severity liveness bug in the @Nethermind execution client that could have stopped local block production for 38% of @ethereum mainnet validators.
@@ -449,9 +449,9 @@ Tags (automatic): Smart contract / DeFi, Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1232302723611201536 — 2025-07-16 17:43 UTC (2025-07-16 18:43 WAT)
+    #### Quoted post — @p_misirov — 2025-07-16 17:43 UTC (2025-07-16 18:43 WAT)
     
-    - URL: https://x.com/1232302723611201536/status/1945539845478330551
+    - URL: https://x.com/p_misirov/status/1945539845478330551
     - Metrics (at fetch): bookmark 112, impression 21840, like 170, quote 7, reply 6, repost 28
     
     > top 10 smart contract vulnerabilities in 2025 by OWASP 10 [pic.x.com/QunGhCSdRw]
@@ -983,9 +983,9 @@ Tags (automatic): Platform: Immunefi
     
     **Quoted post (full text):**
     
-        #### Quoted post — @1622629804791955458 — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
+        #### Quoted post — @cantinasecurity — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
         
-        - URL: https://x.com/1622629804791955458/status/1770828360471507068
+        - URL: https://x.com/cantinasecurity/status/1770828360471507068
         - Metrics (at fetch): bookmark 60, impression 157785, like 288, quote 154, reply 91, repost 134
         
         > Welcome... to the new largest competition in history with @eulerfinance!
@@ -1052,9 +1052,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @5678 — 2024-10-17 21:15 UTC (2024-10-17 22:15 WAT)
+    #### Quoted post — @danielvf — 2024-10-17 21:15 UTC (2024-10-17 22:15 WAT)
     
-    - URL: https://x.com/5678/status/1847023591117795708
+    - URL: https://x.com/danielvf/status/1847023591117795708
     - Metrics (at fetch): bookmark 714, impression 764458, like 1304, quote 179, reply 97, retweet 289
     
     > Yesterday's sophisticated 50 million Radiant Capital hack happened after attacker's trojaned the computers of multiple team members.
@@ -1100,9 +1100,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1622629804791955458 — 2024-08-22 14:01 UTC (2024-08-22 15:01 WAT)
+    #### Quoted post — @cantinasecurity — 2024-08-22 14:01 UTC (2024-08-22 15:01 WAT)
     
-    - URL: https://x.com/1622629804791955458/status/1826620693657858173
+    - URL: https://x.com/cantinasecurity/status/1826620693657858173
     - Metrics (at fetch): bookmark 9, impression 57744, like 57, quote 9, reply 7, retweet 9
     
     > ATTENTION: ​Calling all Security Researchers 🪐
@@ -1152,9 +1152,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1496567813737091075 — 2024-08-17 21:25 UTC (2024-08-17 22:25 WAT)
+    #### Quoted post — @optimizoor — 2024-08-17 21:25 UTC (2024-08-17 22:25 WAT)
     
-    - URL: https://x.com/1496567813737091075/status/1824920618795692125
+    - URL: https://x.com/optimizoor/status/1824920618795692125
     - Metrics (at fetch): bookmark 30, impression 44045, like 139, quote 5, reply 8, retweet 10
     
     > EOF will be like migrating from x86 to ARM. Solidity libraries and ERC standards will break. This is not like Paris -&gt; Shanghai (PUSH0 is child’s play compared to EOF).
@@ -1209,9 +1209,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
         
         **Quoted post (full text):**
         
-            #### Quoted post — @1622629804791955458 — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
+            #### Quoted post — @cantinasecurity — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
             
-            - URL: https://x.com/1622629804791955458/status/1770828360471507068
+            - URL: https://x.com/cantinasecurity/status/1770828360471507068
             - Metrics (at fetch): bookmark 60, impression 157785, like 288, quote 154, reply 91, repost 134
             
             > Welcome... to the new largest competition in history with @eulerfinance!
@@ -1252,9 +1252,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1622629804791955458 — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
+    #### Quoted post — @cantinasecurity — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
     
-    - URL: https://x.com/1622629804791955458/status/1770828360471507068
+    - URL: https://x.com/cantinasecurity/status/1770828360471507068
     - Metrics (at fetch): bookmark 60, impression 157785, like 288, quote 154, reply 91, repost 134
     
     > Welcome... to the new largest competition in history with @eulerfinance!
@@ -1407,9 +1407,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1357162894798909441 — 2024-06-06 09:08 UTC (2024-06-06 10:08 WAT)
+    #### Quoted post — @sockdrawermoney — 2024-06-06 09:08 UTC (2024-06-06 10:08 WAT)
     
-    - URL: https://x.com/1357162894798909441/status/1798643063172313554
+    - URL: https://x.com/sockdrawermoney/status/1798643063172313554
     - Metrics (at fetch): bookmark 39, impression 24388, like 94, quote 8, reply 6, retweet 8
     
     > @TheWavexyz @0xMackenzieM @0xnirlin @jack__sanford I’d prefer not to spend any energy debating this as I see no merit in it and the extremely narrow audience can make up their own minds, but I can fast forward it.
@@ -1464,9 +1464,9 @@ Tags (automatic): Smart contract / DeFi
     
     **Quoted post (full text):**
     
-        #### Quoted post — @1622629804791955458 — 2024-06-04 23:32 UTC (2024-06-05 00:32 WAT)
+        #### Quoted post — @cantinasecurity — 2024-06-04 23:32 UTC (2024-06-05 00:32 WAT)
         
-        - URL: https://x.com/1622629804791955458/status/1798135858048233802
+        - URL: https://x.com/cantinasecurity/status/1798135858048233802
         - Metrics (at fetch): bookmark 13, impression 56669, like 110, quote 13, reply 7, retweet 9
         
         > It's official. 🚀🪐
@@ -1508,9 +1508,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1622629804791955458 — 2024-06-04 23:32 UTC (2024-06-05 00:32 WAT)
+    #### Quoted post — @cantinasecurity — 2024-06-04 23:32 UTC (2024-06-05 00:32 WAT)
     
-    - URL: https://x.com/1622629804791955458/status/1798135858048233802
+    - URL: https://x.com/cantinasecurity/status/1798135858048233802
     - Metrics (at fetch): bookmark 13, impression 56669, like 110, quote 13, reply 7, retweet 9
     
     > It's official. 🚀🪐
@@ -1556,9 +1556,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1496567813737091075 — 2024-04-26 21:44 UTC (2024-04-26 22:44 WAT)
+    #### Quoted post — @optimizoor — 2024-04-26 21:44 UTC (2024-04-26 22:44 WAT)
     
-    - URL: https://x.com/1496567813737091075/status/1783975395735523423
+    - URL: https://x.com/optimizoor/status/1783975395735523423
     - Metrics (at fetch): bookmark 3, impression 5297, like 47, quote 0, reply 5, retweet 2
     
     > Snippet from LibClone.
@@ -1588,9 +1588,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @933421614217220096 — 2024-04-03 14:39 UTC (2024-04-03 15:39 WAT)
+    #### Quoted post — @iosiro_security — 2024-04-03 14:39 UTC (2024-04-03 15:39 WAT)
     
-    - URL: https://x.com/933421614217220096/status/1775533657505300922
+    - URL: https://x.com/iosiro_security/status/1775533657505300922
     - Metrics (at fetch): bookmark 40, impression 28887, like 122, quote 12, reply 2, retweet 14
     
     > Prior to the Dencun upgrade, we disclosed a bug to the @ethereum Foundation that could remotely crash Ethereum mainnet geth clients over RPC through eth_call. All major RPC providers were affected, incl. @infura_io, @AlchemyPlatform, @ankr, @QuickNode, and others👇
@@ -1617,9 +1617,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1357162894798909441 — 2024-03-10 11:17 UTC (2024-03-10 12:17 WAT)
+    #### Quoted post — @sockdrawermoney — 2024-03-10 11:17 UTC (2024-03-10 12:17 WAT)
     
-    - URL: https://x.com/1357162894798909441/status/1766785348552790054
+    - URL: https://x.com/sockdrawermoney/status/1766785348552790054
     - Metrics (at fetch): bookmark 9, impression 15507, like 62, quote 4, reply 2, retweet 5
     
     > This is 100% why @code4rena didn’t drop lows even after competitors created marketing narrative that they only focus on serious issues.
@@ -2031,9 +2031,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1548683514006192128 — 2023-06-18 13:00 UTC (2023-06-18 14:00 WAT)
+    #### Quoted post — @dannygfromnyc — 2023-06-18 13:00 UTC (2023-06-18 14:00 WAT)
     
-    - URL: https://x.com/1548683514006192128/status/1670416136478003203
+    - URL: https://x.com/dannygfromnyc/status/1670416136478003203
     - Metrics (at fetch): not returned
     
     > 5/
@@ -2078,9 +2078,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1548683514006192128 — 2023-06-18 13:00 UTC (2023-06-18 14:00 WAT)
+    #### Quoted post — @dannygfromnyc — 2023-06-18 13:00 UTC (2023-06-18 14:00 WAT)
     
-    - URL: https://x.com/1548683514006192128/status/1670416136478003203
+    - URL: https://x.com/dannygfromnyc/status/1670416136478003203
     - Metrics (at fetch): not returned
     
     > 5/

@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@vuusale/brand-new-prototype-pollution-gadget-in-mongodb-leading-to-rce-8c5e0087c15e?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@vuusale
-- **Fetched:** 2026-11-16
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 6431)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

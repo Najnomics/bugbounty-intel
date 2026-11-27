@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@syedshorox27/ssrf-via-host-header-injection-a-prank-gone-vulnerable-52eb514f664d?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@syedshorox27
-- **Fetched:** 2026-11-17
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 10369)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

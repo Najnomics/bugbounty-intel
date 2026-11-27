@@ -2,7 +2,7 @@
 
 - **Source URL:** https://xthemo.medium.com/stored-xss-at-nvidia-via-angular-js-template-injection-3c9793218860?source=rss------bug_bounty-5
 - **Fetched from:** https://xthemo.medium.com/feed
-- **Fetched:** 2026-11-16
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 327)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

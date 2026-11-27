@@ -1,45 +1,32 @@
 # @SuyashS91823422 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 136
-- Conversations/threads: 110
+- Posts in this file: 139
+- Conversations/threads: 111
 - Oldest post captured: 2021-10-06
-- Newest post captured: 2026-11-24
+- Newest post captured: 2026-11-26
 
 
 ---
 
-## 2026-11-24 · Reply · @cyberx00t @Bugcrowd https://t.co/1efu7C3hys
+## 2026-11-26 · Post · Is @Bugcrowd having any issue I submitted bugs but not showing in dashboard?
 
 
 Tags (automatic): Platform: Bugcrowd
 
 
-**Context — post being replied to:**
+### Post — @SuyashS91823422 — 2026-11-26 18:08 UTC (2026-11-26 19:08 WAT)
 
-#### Parent post — @1370207110022062083 — 2026-11-24 13:25 UTC (2026-11-24 14:25 WAT)
+- URL: https://x.com/SuyashS91823422/status/2126015373195837791
+- Metrics (at fetch): bookmark 0, impression 349, like 3, quote 0, reply 0, repost 0
 
-- URL: https://x.com/1370207110022062083/status/2125219329084186903
-- Metrics (at fetch): bookmark 0, impression 58, like 0, quote 0, reply 1, retweet 0
-
-> @SuyashS91823422 @Bugcrowd Party De Bhai , Pizza Hi Order Kar De
-
-
-### Post — @SuyashS91823422 — 2026-11-24 13:35 UTC (2026-11-24 14:35 WAT)
-
-- URL: https://x.com/SuyashS91823422/status/2125221688241750083
-- Metrics (at fetch): bookmark 0, impression 46, like 0, quote 0, reply 0, retweet 0
-
-> @cyberx00t @Bugcrowd https://t.co/1efu7C3hys
-
-**Media:**
-- animated_gif:  — no alt text provided by author
+> Is @Bugcrowd having any issue I submitted bugs but not showing in dashboard?
 
 
 ---
 
-## 2026-11-24 · Post · Finally crossed 1,000 points on @Bugcrowd! 🏆
+## 2026-11-24 · Thread · Finally crossed 1,000 points on @Bugcrowd! 🏆
 
 
 Tags (automatic): Platform: Bugcrowd
@@ -60,6 +47,51 @@ Tags (automatic): Platform: Bugcrowd
 
 **Media:**
 - photo: https://pbs.twimg.com/media/HX5ByA1aIAAdCwr.jpg — no alt text provided by author
+
+
+### Thread part 2 — @SuyashS91823422 — 2026-11-25 07:02 UTC (2026-11-25 08:02 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2125485306954895646
+- Metrics (at fetch): bookmark 0, impression 69, like 0, quote 0, reply 0, repost 0
+
+> @mdp_sec @Bugcrowd Thanks🫡
+
+
+### Thread part 3 — @SuyashS91823422 — 2026-11-26 09:54 UTC (2026-11-26 10:54 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2125890808276779169
+- Metrics (at fetch): bookmark 0, impression 39, like 1, quote 0, reply 0, repost 0
+
+> @Rockpratapsingh @Bugcrowd Thanks 🤩
+
+
+---
+
+## 2026-11-24 · Reply · @cyberx00t @Bugcrowd https://t.co/1efu7C3hys
+
+
+Tags (automatic): Platform: Bugcrowd
+
+
+**Context — post being replied to:**
+
+#### Parent post — @cyberx00t — 2026-11-24 13:25 UTC (2026-11-24 14:25 WAT)
+
+- URL: https://x.com/cyberx00t/status/2125219329084186903
+- Metrics (at fetch): bookmark 0, impression 58, like 0, quote 0, reply 1, retweet 0
+
+> @SuyashS91823422 @Bugcrowd Party De Bhai , Pizza Hi Order Kar De
+
+
+### Post — @SuyashS91823422 — 2026-11-24 13:35 UTC (2026-11-24 14:35 WAT)
+
+- URL: https://x.com/SuyashS91823422/status/2125221688241750083
+- Metrics (at fetch): bookmark 0, impression 46, like 0, quote 0, reply 0, retweet 0
+
+> @cyberx00t @Bugcrowd https://t.co/1efu7C3hys
+
+**Media:**
+- animated_gif:  — no alt text provided by author
 
 
 ---

@@ -2,7 +2,7 @@
 
 - **Source URL:** https://akashc99.medium.com/blind-xss-to-ssrf-e2bc579976d?source=rss------bug_bounty-5
 - **Fetched from:** https://akashc99.medium.com/feed
-- **Fetched:** 2026-11-16
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 1553)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

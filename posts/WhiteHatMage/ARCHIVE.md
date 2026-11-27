@@ -1,6 +1,6 @@
 # @WhiteHatMage — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 177
 - Conversations/threads: 135
@@ -141,9 +141,9 @@ Tags (automatic): Platform: HackenProof
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1988994064914739210 — 2026-11-12 09:15 UTC (2026-11-12 10:15 WAT)
+    #### Quoted post — @thedaofund — 2026-11-12 09:15 UTC (2026-11-12 10:15 WAT)
     
-    - URL: https://x.com/1988994064914739210/status/2120807580230471726
+    - URL: https://x.com/thedaofund/status/2120807580230471726
     - Metrics (at fetch): bookmark 1, impression 2187, like 43, quote 2, reply 1, retweet 10
     
     > We're getting closer to $1 MILLION for Ethereum security!
@@ -202,9 +202,9 @@ Tags (automatic): Platform: HackenProof
 
 **Quoted post (full text):**
 
-    #### Quoted post — @101341490 — 2026-11-12 13:04 UTC (2026-11-12 14:04 WAT)
+    #### Quoted post — @Montyly — 2026-11-12 13:04 UTC (2026-11-12 14:04 WAT)
     
-    - URL: https://x.com/101341490/status/2120865212039368790
+    - URL: https://x.com/Montyly/status/2120865212039368790
     - Metrics (at fetch): bookmark 1, impression 1768, like 23, quote 2, reply 0, retweet 3
     
     > We just need 12 companies or individuals to give $1k each to ensure Echidna's development through 2027
@@ -252,9 +252,9 @@ Tags (automatic): Platform: HackenProof
 
 **Context — post being replied to:**
 
-#### Parent post — @2044468682303107072 — 2026-11-11 19:12 UTC (2026-11-11 20:12 WAT)
+#### Parent post — @x509dot — 2026-11-11 19:12 UTC (2026-11-11 20:12 WAT)
 
-- URL: https://x.com/2044468682303107072/status/2120595509484134646
+- URL: https://x.com/x509dot/status/2120595509484134646
 - Metrics (at fetch): bookmark 0, impression 132, like 1, quote 0, reply 1, retweet 0
 
 > @WhiteHatMage wtf is with the bot flood lmao.
@@ -275,9 +275,9 @@ Tags (automatic): Platform: HackenProof
 
 **Context — post being replied to:**
 
-#### Parent post — @881012267675820034 — 2026-11-11 18:09 UTC (2026-11-11 19:09 WAT)
+#### Parent post — @storming0x — 2026-11-11 18:09 UTC (2026-11-11 19:09 WAT)
 
-- URL: https://x.com/881012267675820034/status/2120579608525631942
+- URL: https://x.com/storming0x/status/2120579608525631942
 - Metrics (at fetch): bookmark 0, impression 234, like 2, quote 0, reply 1, retweet 0
 
 > @WhiteHatMage "..well secured..." i hope so sir 🤞
@@ -298,9 +298,9 @@ Tags (automatic): Platform: HackenProof
 
 **Context — post being replied to:**
 
-#### Parent post — @1439912268603473923 — 2026-11-11 17:14 UTC (2026-11-11 18:14 WAT)
+#### Parent post — @xKeywordx — 2026-11-11 17:14 UTC (2026-11-11 18:14 WAT)
 
-- URL: https://x.com/1439912268603473923/status/2120565813123878930
+- URL: https://x.com/xKeywordx/status/2120565813123878930
 - Metrics (at fetch): bookmark 0, impression 92, like 3, quote 0, reply 1, retweet 0
 
 > @p_tsanev @WhiteHatMage 1 = Fireball
@@ -409,9 +409,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Context — post being replied to:**
 
-#### Parent post — @1662452097944625152 — 2026-11-11 15:42 UTC (2026-11-11 16:42 WAT)
+#### Parent post — @p_tsanev — 2026-11-11 15:42 UTC (2026-11-11 16:42 WAT)
 
-- URL: https://x.com/1662452097944625152/status/2120542743680385360
+- URL: https://x.com/p_tsanev/status/2120542743680385360
 - Metrics (at fetch): bookmark 5, impression 1206, like 14, quote 0, reply 2, retweet 0
 
 > Bro is definitely training a model asking for every write-up out there 😳
@@ -596,9 +596,9 @@ Tags (automatic): Smart contract / DeFi, Blockchain / L1-L2 / bridge
 
 **Context — post being replied to:**
 
-#### Parent post — @1589548360599478273 — 2026-11-11 11:04 UTC (2026-11-11 12:04 WAT)
+#### Parent post — @alexfilippov314 — 2026-11-11 11:04 UTC (2026-11-11 12:04 WAT)
 
-- URL: https://x.com/1589548360599478273/status/2120472605224214540
+- URL: https://x.com/alexfilippov314/status/2120472605224214540
 - Metrics (at fetch): bookmark 0, impression 200, like 6, quote 0, reply 1, retweet 0
 
 > @WhiteHatMage @b612security Yeah, they were mostly trivial RPC crashes or block delays caused by underpriced or unaccounted-for operations. And they were mostly found by AI alone, without much insight from my side. They were good debugging targets for the PoC generation and reporting flows in my tool, so I

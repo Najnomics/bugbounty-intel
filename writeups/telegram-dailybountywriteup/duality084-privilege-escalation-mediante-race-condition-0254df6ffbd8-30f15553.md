@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@duality084/privilege-escalation-mediante-race-condition-0254df6ffbd8?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@duality084
-- **Fetched:** 2026-11-19
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 5950)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

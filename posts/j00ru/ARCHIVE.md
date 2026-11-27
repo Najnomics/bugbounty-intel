@@ -1,6 +1,6 @@
 # @j00ru — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 75
 - Conversations/threads: 58
@@ -26,9 +26,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2375368765 — 2021-11-28 12:04 UTC (2021-11-28 13:04 WAT)
+    #### Quoted post — @DragonSectorCTF — 2021-11-28 12:04 UTC (2021-11-28 13:04 WAT)
     
-    - URL: https://x.com/2375368765/status/1464928109044584450
+    - URL: https://x.com/DragonSectorCTF/status/1464928109044584450
     - Metrics (at fetch): not returned
     
     > Dragon CTF 2021 is officially over!
@@ -156,9 +156,9 @@ Tags (automatic): Race condition, Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2375368765 — 2020-11-22 22:28 UTC (2020-11-22 23:28 WAT)
+    #### Quoted post — @DragonSectorCTF — 2020-11-22 22:28 UTC (2020-11-22 23:28 WAT)
     
-    - URL: https://x.com/2375368765/status/1330639231849558021
+    - URL: https://x.com/DragonSectorCTF/status/1330639231849558021
     - Metrics (at fetch): bookmark 2, impression 0, like 70, quote 5, reply 2, repost 18
     
     > The Dragon CTF 2020 is now over!

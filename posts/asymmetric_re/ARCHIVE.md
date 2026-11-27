@@ -1,6 +1,6 @@
 # @asymmetric_re — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 141
 - Conversations/threads: 69
@@ -164,9 +164,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1408488721813590016 — 2026-10-22 14:41 UTC (2026-10-22 15:41 WAT)
+    #### Quoted post — @fund_defi — 2026-10-22 14:41 UTC (2026-10-22 15:41 WAT)
     
-    - URL: https://x.com/1408488721813590016/status/2113279551069458486
+    - URL: https://x.com/fund_defi/status/2113279551069458486
     - Metrics (at fetch): bookmark 4, impression 2059, like 23, quote 3, reply 0, retweet 3
     
     > The FBI recently arrested an @OpenAI engineer, accusing him of planting a covert recording device in the company’s executive conference room.
@@ -1238,9 +1238,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1407411848446611459 — 2025-10-17 15:13 UTC (2025-10-17 16:13 WAT)
+    #### Quoted post — @SolanaFndn — 2025-10-17 15:13 UTC (2025-10-17 16:13 WAT)
     
-    - URL: https://x.com/1407411848446611459/status/1979204100400038113
+    - URL: https://x.com/SolanaFndn/status/1979204100400038113
     - Metrics (at fetch): bookmark 51, impression 109890, like 288, quote 12, reply 54, retweet 50
     
     > We've launched a new security bounty program for Anchor, offering rewards of up to $100k for vulnerabilities that affect production code.
@@ -1455,9 +1455,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1342961741718810632 — 2025-09-15 20:52 UTC (2025-09-15 21:52 WAT)
+    #### Quoted post — @monad — 2025-09-15 20:52 UTC (2025-09-15 21:52 WAT)
     
-    - URL: https://x.com/1342961741718810632/status/1967692955814334633
+    - URL: https://x.com/monad/status/1967692955814334633
     - Metrics (at fetch): bookmark 129, impression 322989, like 5616, quote 468, reply 1379, retweet 1901
     
     > Monad client is now open source --&gt; time for an audit competition
@@ -1594,9 +1594,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1436363727159365637 — 2025-06-18 20:33 UTC (2025-06-18 21:33 WAT)
+    #### Quoted post — @jump_ — 2025-06-18 20:33 UTC (2025-06-18 21:33 WAT)
     
-    - URL: https://x.com/1436363727159365637/status/1935435825207984228
+    - URL: https://x.com/jump_/status/1935435825207984228
     - Metrics (at fetch): bookmark 168, impression 418762, like 736, quote 92, reply 230, retweet 65
     
     > @jump_ is re-introducing itself: the builders behind some of the most ambitious projects in crypto.

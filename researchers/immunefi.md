@@ -18,3 +18,9 @@ Compiled 24 Nov 2026 (WAT). Platform account (program launches, payouts, competi
 - [Credits for valid duplicates/private known issues](../posts/immunefi/2026-11-25-2125574231727730708.md) (launched Nov 2; ~900 researchers earned credits; first-timer got $10,000).
 - [FBI AI-hacking-tool warning](../posts/immunefi/2026-11-25-2125616255533306197.md): SQLi, SSRF, missing API auth, hard-coded admin passwords in JS; weakest targets = partner portals, mobile backends, legacy, third-party.
 - [Base Everest $125K unlocked](../posts/immunefi/2026-11-25-2125658301077880929.md): 20 unique findings (2H/9M/8L/1 insight), 0 Critical, 135K+ lines Rust+Solidity, <6 days left. [Plether audit comp results](../posts/immunefi/2026-11-25-2125639417796948184.md) due 2026-11-26.
+
+## 2026-11-27 run additions
+
+### Plether audit competition results + Studio Signals $25k
+- Plether: 310 SRs, 1,391 reports, 63 unique bugs, 18 Criticals — [`posts/immunefi/2026-11-26-2125942235607011816.md`](../posts/immunefi/2026-11-26-2125942235607011816.md); accuracy leader @taichiaudit 3/5 chief (60%) — [`posts/immunefi/2026-11-26-2126002554115072500.md`](../posts/immunefi/2026-11-26-2126002554115072500.md).
+- Studio Signals: @Ziusz $25,000 one report (program undisclosed) — [`posts/immunefi/2026-11-26-2125892386970915281.md`](../posts/immunefi/2026-11-26-2125892386970915281.md).

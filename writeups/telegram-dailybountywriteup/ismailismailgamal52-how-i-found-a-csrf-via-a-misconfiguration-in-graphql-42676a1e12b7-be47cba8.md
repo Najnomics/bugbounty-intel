@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@ismailismailgamal52/how-i-found-a-csrf-via-a-misconfiguration-in-graphql-42676a1e12b7?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@ismailismailgamal52
-- **Fetched:** 2026-11-18
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 8838)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

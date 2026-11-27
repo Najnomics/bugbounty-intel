@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@Diegoeducacao404.../xss-e-ssti-%C3%A9-por-isso-que-o-desenvolvedor-deve-se-preocupar-em-aprender-seguran%C3%A7a-aaa51356b2b?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@Diegoeducacao404...
-- **Fetched:** 2026-11-17
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 2364)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

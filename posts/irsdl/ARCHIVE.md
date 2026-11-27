@@ -1,6 +1,6 @@
 # @irsdl — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 624
 - Conversations/threads: 542
@@ -15,9 +15,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @209811713 — 2026-11-23 09:30 UTC (2026-11-23 10:30 WAT)
+#### Root post — @TheHackersNews — 2026-11-23 09:30 UTC (2026-11-23 10:30 WAT)
 
-- URL: https://x.com/209811713/status/2124797606379372722
+- URL: https://x.com/TheHackersNews/status/2124797606379372722
 - Metrics (at fetch): bookmark 271, impression 62885, like 526, quote 11, reply 33, retweet 130
 
 > 🚨 Hackers are actively exploiting a critical flaw in a legacy ASP .NET anti-CSRF library to take over web servers.
@@ -106,9 +106,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @44666078 — 2026-11-19 17:10 UTC (2026-11-19 18:10 WAT)
+#### Root post — @lcamtuf — 2026-11-19 17:10 UTC (2026-11-19 18:10 WAT)
 
-- URL: https://x.com/44666078/status/2123463876109091219
+- URL: https://x.com/lcamtuf/status/2123463876109091219
 - Metrics (at fetch): bookmark 10, impression 9070, like 378, quote 3, reply 9, retweet 32
 
 > If Shellshock was discovered today, they'd have called it shell2shell
@@ -202,9 +202,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — conversation root by another account:**
 
-#### Root post — @353549736 — 2026-11-16 23:26 UTC (2026-11-17 00:26 WAT)
+#### Root post — @S0ufi4n3 — 2026-11-16 23:26 UTC (2026-11-17 00:26 WAT)
 
-- URL: https://x.com/353549736/status/2122471353852821658
+- URL: https://x.com/S0ufi4n3/status/2122471353852821658
 - Metrics (at fetch): bookmark 0, impression 1077, like 6, quote 0, reply 3, retweet 0
 
 > Can't remember the last time I opened Burp...
@@ -279,9 +279,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @839487450 — 2026-11-17 08:16 UTC (2026-11-17 09:16 WAT)
+#### Root post — @markpash — 2026-11-17 08:16 UTC (2026-11-17 09:16 WAT)
 
-- URL: https://x.com/839487450/status/2122604659734978833
+- URL: https://x.com/markpash/status/2122604659734978833
 - Metrics (at fetch): bookmark 20, impression 7675, like 555, quote 2, reply 24, retweet 29
 
 > زن زندگی آزادی... جمهوری اسلامی؟
@@ -341,9 +341,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1149823779431997442 — 2026-11-16 23:42 UTC (2026-11-17 00:42 WAT)
+#### Root post — @0xTib3rius — 2026-11-16 23:42 UTC (2026-11-17 00:42 WAT)
 
-- URL: https://x.com/1149823779431997442/status/2122475527185244225
+- URL: https://x.com/0xTib3rius/status/2122475527185244225
 - Metrics (at fetch): bookmark 1, impression 2859, like 84, quote 1, reply 9, retweet 7
 
 > Give it a few more days maybe we'll see this rebranding by the end of the year. [pic.x.com/2eC6RXGquw]
@@ -367,9 +367,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @21872102 — 2026-11-14 23:16 UTC (2026-11-15 00:16 WAT)
+#### Root post — @hkashfi — 2026-11-14 23:16 UTC (2026-11-15 00:16 WAT)
 
-- URL: https://x.com/21872102/status/2121744099577655706
+- URL: https://x.com/hkashfi/status/2121744099577655706
 - Metrics (at fetch): bookmark 2, impression 1868, like 31, quote 0, reply 3, retweet 1
 
 > I don't often prepare for MacOS full updates, but when I do, I prepare beyond 100% [pic.x.com/Mqr9cJCgau]
@@ -477,9 +477,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2835553985 — 2026-11-13 08:43 UTC (2026-11-13 09:43 WAT)
+    #### Quoted post — @secdim — 2026-11-13 08:43 UTC (2026-11-13 09:43 WAT)
     
-    - URL: https://x.com/2835553985/status/2121161963304833127
+    - URL: https://x.com/secdim/status/2121161963304833127
     - Metrics (at fetch): bookmark 0, impression 442, like 4, quote 1, reply 1, retweet 0
     
     > Black Friday: subscribe to SecDim Professional between 20 Nov and 5 Dec and get 35% off, forever.
@@ -515,9 +515,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — post being replied to:**
 
-#### Parent post — @839487450 — 2026-11-11 06:17 UTC (2026-11-11 07:17 WAT)
+#### Parent post — @markpash — 2026-11-11 06:17 UTC (2026-11-11 07:17 WAT)
 
-- URL: https://x.com/839487450/status/2120400498322788634
+- URL: https://x.com/markpash/status/2120400498322788634
 - Metrics (at fetch): bookmark 2, impression 1329, like 14, quote 0, reply 3, retweet 1
 
 > @MatinSenPai اتفاقاً خیلی وقته یه پلن دارم برای ساختن یه کیبورد فینگلیش به فارسی (شبیه اون چیزی که توی gboard هست). برای اینکه پیاده‌اش کنم، باید یه دیتا ست خوبی از فینگلیش پیدا کنم و یه مدل سبک ترین کنم. نمی‌دونم اون دیتا ست رو از کجا بگیرم ولی. ایده‌ای داری؟
@@ -783,9 +783,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1003519631389331457 — 2026-11-03 19:02 UTC (2026-11-03 20:02 WAT)
+    #### Quoted post — @SinSinology — 2026-11-03 19:02 UTC (2026-11-03 20:02 WAT)
     
-    - URL: https://x.com/1003519631389331457/status/2117693903570612659
+    - URL: https://x.com/SinSinology/status/2117693903570612659
     - Metrics (at fetch): bookmark 3, impression 3485, like 36, quote 1, reply 0, repost 0
     
     > vendor has stopped playing games and triaged all three reports https://twitter.com/SinSinology/status/2116909008946688400
@@ -1879,9 +1879,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @128484298 — 2026-02-06 08:48 UTC (2026-02-06 09:48 WAT)
+    #### Quoted post — @Dinosn — 2026-02-06 08:48 UTC (2026-02-06 09:48 WAT)
     
-    - URL: https://x.com/128484298/status/2019694674282438736
+    - URL: https://x.com/Dinosn/status/2019694674282438736
     - Metrics (at fetch): not returned
     
     > Critical SmarterMail Vulnerability Exploited in Ransomware Attacks https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/
@@ -2268,9 +2268,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @128484298 — 2025-08-04 11:35 UTC (2025-08-04 12:35 WAT)
+    #### Quoted post — @Dinosn — 2025-08-04 11:35 UTC (2025-08-04 12:35 WAT)
     
-    - URL: https://x.com/128484298/status/1952332484051443807
+    - URL: https://x.com/Dinosn/status/1952332484051443807
     - Metrics (at fetch): bookmark 2, impression 3334, like 12, quote 1, reply 0, retweet 4
     
     > Ransomware gangs join attacks targeting Microsoft SharePoint servers https://t.co/ubXTOAre12
@@ -2477,9 +2477,9 @@ Tags (automatic): Auth bypass
 
 **Quoted post (full text):**
 
-    #### Quoted post — @44196397 — 2025-07-29 17:56 UTC (2025-07-29 18:56 WAT)
+    #### Quoted post — @elonmusk — 2025-07-29 17:56 UTC (2025-07-29 18:56 WAT)
     
-    - URL: https://x.com/44196397/status/1950254103474446728
+    - URL: https://x.com/elonmusk/status/1950254103474446728
     - Metrics (at fetch): bookmark 4820, impression 32249215, like 49906, quote 1359, reply 7528, retweet 5503
     
     > This false nomenclature of “researcher” and “engineer”, which is a thinly-masked way of describing a two-tier engineering system, is being deleted from @xAI today.
@@ -3129,9 +3129,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3122875095 — 2025-04-12 10:03 UTC (2025-04-12 11:03 WAT)
+    #### Quoted post — @_JohnHammond — 2025-04-12 10:03 UTC (2025-04-12 11:03 WAT)
     
-    - URL: https://x.com/3122875095/status/1910997121639321866
+    - URL: https://x.com/_JohnHammond/status/1910997121639321866
     - Metrics (at fetch): bookmark 287, impression 142953, like 855, quote 3, reply 16, retweet 97
     
     > I got a proof-of-concept working for CVE-2025-30406, recently added to CISA's KEV. It's point and shoot 🙃 [pic.x.com/Wimc183h0h]
@@ -3156,9 +3156,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @3122875095 — 2025-04-12 10:03 UTC (2025-04-12 11:03 WAT)
+    #### Quoted post — @_JohnHammond — 2025-04-12 10:03 UTC (2025-04-12 11:03 WAT)
     
-    - URL: https://x.com/3122875095/status/1910997121639321866
+    - URL: https://x.com/_JohnHammond/status/1910997121639321866
     - Metrics (at fetch): bookmark 287, impression 142953, like 855, quote 3, reply 16, retweet 97
     
     > I got a proof-of-concept working for CVE-2025-30406, recently added to CISA's KEV. It's point and shoot 🙃 [pic.x.com/Wimc183h0h]
@@ -3237,9 +3237,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @934191732731842561 — 2024-10-11 23:09 UTC (2024-10-12 00:09 WAT)
+    #### Quoted post — @hackermondev — 2024-10-11 23:09 UTC (2024-10-12 00:09 WAT)
     
-    - URL: https://x.com/934191732731842561/status/1844877950698537323
+    - URL: https://x.com/hackermondev/status/1844877950698537323
     - Metrics (at fetch): not returned
     
     > 1 Bug, $50K+ in bounties: how Zendesk left a backdoor in hundreds of companies #bugbountytips 
@@ -3268,9 +3268,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @128484298 — 2024-09-13 14:27 UTC (2024-09-13 15:27 WAT)
+    #### Quoted post — @Dinosn — 2024-09-13 14:27 UTC (2024-09-13 15:27 WAT)
     
-    - URL: https://x.com/128484298/status/1834599828375888053
+    - URL: https://x.com/Dinosn/status/1834599828375888053
     - Metrics (at fetch): not returned
     
     > Progress WhatsUp Gold Exploited Just Hours After PoC Release for Critical Flaw https://thehackernews.com/2024/09/progress-whatsup-gold-exploited-just.html
@@ -3390,9 +3390,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2835553985 — 2024-07-24 00:04 UTC (2024-07-24 01:04 WAT)
+    #### Quoted post — @secdim — 2024-07-24 00:04 UTC (2024-07-24 01:04 WAT)
     
-    - URL: https://x.com/2835553985/status/1815900816336986213
+    - URL: https://x.com/secdim/status/1815900816336986213
     - Metrics (at fetch): bookmark 1, impression 1069, like 3, quote 1, reply 0, retweet 1
     
     > This year we excited to be the official host for @defcon @AppSec_Village  CTF. A different security contest with the focus on "fixing" the flag. You can win prizes both for building challenges or protecting the most apps. Call for CTF challenge is open 👉https://t.co/eq02CWnurR https://t.co/aYM3xt0Bcz https://t.co/5kaphoQ4Jq
@@ -3548,9 +3548,9 @@ Tags (automatic): Account takeover
 
 **Quoted post (full text):**
 
-    #### Quoted post — @128484298 — 2024-05-02 05:58 UTC (2024-05-02 06:58 WAT)
+    #### Quoted post — @Dinosn — 2024-05-02 05:58 UTC (2024-05-02 06:58 WAT)
     
-    - URL: https://x.com/128484298/status/1785911710315872349
+    - URL: https://x.com/Dinosn/status/1785911710315872349
     - Metrics (at fetch): bookmark 5, impression 8939, like 35, quote 1, reply 0, retweet 6
     
     > CVE-2024-32962 (CVSS 10): Critical Vulnerability in XML-Crypto Affects Millions https://t.co/JGzhgC9Il2
@@ -3673,9 +3673,9 @@ Tags (automatic): SSRF
 
 **Quoted post (full text):**
 
-    #### Quoted post — @128484298 — 2024-03-29 05:46 UTC (2024-03-29 06:46 WAT)
+    #### Quoted post — @Dinosn — 2024-03-29 05:46 UTC (2024-03-29 06:46 WAT)
     
-    - URL: https://x.com/128484298/status/1773587443234591040
+    - URL: https://x.com/Dinosn/status/1773587443234591040
     - Metrics (at fetch): not returned
     
     > CVE-2023-50969: Critical Flaw in Imperva SecureSphere WAF Could Lead to Devastating Breaches https://securityonline.info/cve-2023-50969-critical-flaw-in-imperva-securesphere-waf-could-lead-to-devastating-breaches/
@@ -3742,9 +3742,9 @@ Tags (automatic): RCE, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1280533400647086080 — 2024-03-07 12:43 UTC (2024-03-07 13:43 WAT)
+    #### Quoted post — @ptswarm — 2024-03-07 12:43 UTC (2024-03-07 13:43 WAT)
     
-    - URL: https://x.com/1280533400647086080/status/1765719923009921320
+    - URL: https://x.com/ptswarm/status/1765719923009921320
     - Metrics (at fetch): not returned
     
     > 🎁 Source Code Disclosure in IIS 10.0! Almost.
@@ -3839,9 +3839,9 @@ Tags (automatic): RCE, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2835553985 — 2024-02-29 01:00 UTC (2024-02-29 02:00 WAT)
+    #### Quoted post — @secdim — 2024-02-29 01:00 UTC (2024-02-29 02:00 WAT)
     
-    - URL: https://x.com/2835553985/status/1763006169847861339
+    - URL: https://x.com/secdim/status/1763006169847861339
     - Metrics (at fetch): not returned
     
     > The _validate_url method should prevent any URL that points to a local network (e.g. localhost). 
@@ -3904,9 +3904,9 @@ Tags (automatic): RCE, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @736615159653924864 — 2024-02-02 11:01 UTC (2024-02-02 12:01 WAT)
+    #### Quoted post — @intigriti — 2024-02-02 11:01 UTC (2024-02-02 12:01 WAT)
     
-    - URL: https://x.com/736615159653924864/status/1753372978560078261
+    - URL: https://x.com/intigriti/status/1753372978560078261
     - Metrics (at fetch): not returned
     
     > Scrolling through your list of screenshots from your live hosts you come across this page...
@@ -3945,9 +3945,9 @@ Tags (automatic): RCE, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1298628360273362946 — 2024-01-31 01:29 UTC (2024-01-31 02:29 WAT)
+    #### Quoted post — @xnl_h4ck3r — 2024-01-31 01:29 UTC (2024-01-31 02:29 WAT)
     
-    - URL: https://x.com/1298628360273362946/status/1752504326411448599
+    - URL: https://x.com/xnl_h4ck3r/status/1752504326411448599
     - Metrics (at fetch): not returned
     
     > I've only just discovered the joys of IIS hacking and shortname scanning today after watching great talks by @infosec_au and @irsdl and using the great shortscan tool from @bitquark 🤘
@@ -4042,9 +4042,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @177819502 — 2023-12-14 11:01 UTC (2023-12-14 12:01 WAT)
+    #### Quoted post — @pi3ch — 2023-12-14 11:01 UTC (2023-12-14 12:01 WAT)
     
-    - URL: https://x.com/177819502/status/1735253592104460762
+    - URL: https://x.com/pi3ch/status/1735253592104460762
     - Metrics (at fetch): not returned
     
     > Started to build the classics! What else I should add? #appsec #cybersec #challange [pic.x.com/b7Zq6xegua]
@@ -5073,9 +5073,9 @@ Tags (automatic): SSRF
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2401933806 — 2023-04-25 07:22 UTC (2023-04-25 08:22 WAT)
+    #### Quoted post — @HusseiN98D — 2023-04-25 07:22 UTC (2023-04-25 08:22 WAT)
     
-    - URL: https://x.com/2401933806/status/1650762211030188032
+    - URL: https://x.com/HusseiN98D/status/1650762211030188032
     - Metrics (at fetch): not returned
     
     > I think bug bounty platforms will see a huge decrease of excellent hackers in the next years.
@@ -5253,9 +5253,9 @@ Tags (automatic): Auth bypass, RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1177545689460592640 — 2023-03-10 13:43 UTC (2023-03-10 14:43 WAT)
+    #### Quoted post — @PortSwiggerRes — 2023-03-10 13:43 UTC (2023-03-10 14:43 WAT)
     
-    - URL: https://x.com/1177545689460592640/status/1634188122559741953
+    - URL: https://x.com/PortSwiggerRes/status/1634188122559741953
     - Metrics (at fetch): bookmark 61, impression 35208, like 274, quote 6, reply 2, retweet 83
     
     > Apache &lt;2.4.56 is vulnerable to request splitting in mod_rewrite and mod_proxy #CVE-2023-25690
@@ -5501,9 +5501,9 @@ Tags (automatic): SSRF
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1183468046851231744 — 2022-11-18 12:12 UTC (2022-11-18 13:12 WAT)
+    #### Quoted post — @therceman — 2022-11-18 12:12 UTC (2022-11-18 13:12 WAT)
     
-    - URL: https://x.com/1183468046851231744/status/1593577852900986881
+    - URL: https://x.com/therceman/status/1593577852900986881
     - Metrics (at fetch): bookmark 142, impression 0, like 332, quote 3, reply 8, retweet 95
     
     > Bug Bounty Hint
@@ -5604,9 +5604,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @990945874019840000 — 2022-11-14 16:04 UTC (2022-11-14 17:04 WAT)
+    #### Quoted post — @WebSecAcademy — 2022-11-14 16:04 UTC (2022-11-14 17:04 WAT)
     
-    - URL: https://x.com/990945874019840000/status/1592186634241540096
+    - URL: https://x.com/WebSecAcademy/status/1592186634241540096
     - Metrics (at fetch): bookmark 11, impression 0, like 55, quote 2, reply 3, retweet 8
     
     > 📣 Feeling up for a speed hacking challenge? Solve our lab by Thur 17 Nov, within the 10 minute limit, to be entered into a prize draw to win exclusive Burp Suite swag #burpchallenge https://t.co/z4EdjEghim https://t.co/YKMPcJPNhH
@@ -6389,9 +6389,9 @@ Tags (automatic): Mobile / Android / iOS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @128484298 — 2021-09-22 14:50 UTC (2021-09-22 15:50 WAT)
+    #### Quoted post — @Dinosn — 2021-09-22 14:50 UTC (2021-09-22 15:50 WAT)
     
-    - URL: https://x.com/128484298/status/1440689982012735504
+    - URL: https://x.com/Dinosn/status/1440689982012735504
     - Metrics (at fetch): not returned
     
     > Microsoft Exchange Autodiscover bugs leak 100K Windows credentials https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-autodiscover-bugs-leak-100k-windows-credentials/
@@ -6442,9 +6442,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @334002593 — 2021-09-15 09:51 UTC (2021-09-15 10:51 WAT)
+    #### Quoted post — @MDSecLabs — 2021-09-15 09:51 UTC (2021-09-15 10:51 WAT)
     
-    - URL: https://x.com/334002593/status/1438077964638371845
+    - URL: https://x.com/MDSecLabs/status/1438077964638371845
     - Metrics (at fetch): not returned
     
     > In our latest post, @irsdl explores the benefits of merging two Exchange exploits, “NSA Meeting Proposal for ProxyShell” https://www.mdsec.co.uk/2021/09/nsa-meeting-proposal-for-proxyshell/ [pic.x.com/eaR8MFIU2a]
@@ -6693,9 +6693,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @704115137116942336 — 2021-03-12 06:30 UTC (2021-03-12 07:30 WAT)
+    #### Quoted post — @blackorbird — 2021-03-12 06:30 UTC (2021-03-12 07:30 WAT)
     
-    - URL: https://x.com/704115137116942336/status/1370260965976023040
+    - URL: https://x.com/blackorbird/status/1370260965976023040
     - Metrics (at fetch): not returned
     
     > When you copy the proxyLogon_poc.py code and save😅
@@ -6976,9 +6976,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @209811713 — 2020-12-06 18:25 UTC (2020-12-06 19:25 WAT)
+    #### Quoted post — @TheHackersNews — 2020-12-06 18:25 UTC (2020-12-06 19:25 WAT)
     
-    - URL: https://x.com/209811713/status/1335651490828935171
+    - URL: https://x.com/TheHackersNews/status/1335651490828935171
     - Metrics (at fetch): bookmark 13, impression 0, like 87, quote 3, reply 1, retweet 42
     
     > Researchers find it's possible to bypass Cloudflare's WAF. if not configured correctly, allowing attackers to exploit a wide range of application vulnerabilities.
@@ -7008,9 +7008,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @26536163 — 2020-11-25 23:32 UTC (2020-11-26 00:32 WAT)
+    #### Quoted post — @ricardo_iramar — 2020-11-25 23:32 UTC (2020-11-26 00:32 WAT)
     
-    - URL: https://x.com/26536163/status/1331742590614577154
+    - URL: https://x.com/ricardo_iramar/status/1331742590614577154
     - Metrics (at fetch): bookmark 3, impression 0, like 178, quote 6, reply 12, retweet 14
     
     > Got this answer for a HTTP Request Smuggling report at @Hacker0x01 🤣
@@ -7719,9 +7719,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @334002593 — 2020-02-14 10:32 UTC (2020-02-14 11:32 WAT)
+    #### Quoted post — @MDSecLabs — 2020-02-14 10:32 UTC (2020-02-14 11:32 WAT)
     
-    - URL: https://x.com/334002593/status/1228265830670118914
+    - URL: https://x.com/MDSecLabs/status/1228265830670118914
     - Metrics (at fetch): not returned
     
     > Another patch Tuesday and another RCE from @irsdl... check out our blog on exploiting CVE-2020-0618, deserialisation in SQL Reporting Services https://www.mdsec.co.uk/2020/02/cve-2020-0618-rce-in-sql-server-reporting-services-ssrs/ [pic.x.com/kcfJ0arX4B]
@@ -8288,9 +8288,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @116285769 — 2019-04-02 23:08 UTC (2019-04-03 00:08 WAT)
+    #### Quoted post — @msftsecresponse — 2019-04-02 23:08 UTC (2019-04-03 00:08 WAT)
     
-    - URL: https://x.com/116285769/status/1113216543578411008
+    - URL: https://x.com/msftsecresponse/status/1113216543578411008
     - Metrics (at fetch): not returned
     
     > Calling all present and future bounty hunters! See our new blog post on improvements to the Microsoft vulnerability bounty program to increase some awards and pay bounties more quickly. https://blogs.technet.microsoft.com/msrc/2019/04/02/microsoft-bounty-program-updates-faster-bounty-review-faster-payments-and-higher-rewards/
@@ -8378,9 +8378,9 @@ Tags (automatic): XSS, SQL injection
 
 **Quoted post (full text):**
 
-    #### Quoted post — @283928662 — 2018-12-17 11:26 UTC (2018-12-17 12:26 WAT)
+    #### Quoted post — @NCCGroupInfosec — 2018-12-17 11:26 UTC (2018-12-17 12:26 WAT)
     
-    - URL: https://x.com/283928662/status/1074626897756217344
+    - URL: https://x.com/NCCGroupInfosec/status/1074626897756217344
     - Metrics (at fetch): not returned
     
     > New blog: Beware of Deserialisation in .NET Methods and Classes + Code Execution via Paste!
@@ -8443,9 +8443,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @209811713 — 2018-11-15 15:04 UTC (2018-11-15 16:04 WAT)
+    #### Quoted post — @TheHackersNews — 2018-11-15 15:04 UTC (2018-11-15 16:04 WAT)
     
-    - URL: https://x.com/209811713/status/1063085407712264192
+    - URL: https://x.com/TheHackersNews/status/1063085407712264192
     - Metrics (at fetch): not returned
     
     > Critical flaw found in one of the popular Google #AMP (Accelerated Mobile Pages) plugins for #WordPress, installed by more than 100,000+ websites.
@@ -8501,9 +8501,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @18075045 — 2018-11-09 13:25 UTC (2018-11-09 14:25 WAT)
+    #### Quoted post — @pwntester — 2018-11-09 13:25 UTC (2018-11-09 14:25 WAT)
     
-    - URL: https://x.com/18075045/status/1060886204609118208
+    - URL: https://x.com/pwntester/status/1060886204609118208
     - Metrics (at fetch): not returned
     
     > @irsdl @NCCGroupInfosec If only there were some bounty left for a working RCE exploit ...
@@ -8526,9 +8526,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @283928662 — 2018-11-08 14:49 UTC (2018-11-08 15:49 WAT)
+    #### Quoted post — @NCCGroupInfosec — 2018-11-08 14:49 UTC (2018-11-08 15:49 WAT)
     
-    - URL: https://x.com/283928662/status/1060544806315794433
+    - URL: https://x.com/NCCGroupInfosec/status/1060544806315794433
     - Metrics (at fetch): not returned
     
     > Technical Advisory: Another XOML Workflows Protection Mechanisms Bypass using Deserialisation of Untrusted Data - Potential Code Execution on SharePoint Written by: @irsdl 
@@ -8605,9 +8605,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2216306262 — 2018-08-15 13:50 UTC (2018-08-15 14:50 WAT)
+    #### Quoted post — @Burp_Suite — 2018-08-15 13:50 UTC (2018-08-15 14:50 WAT)
     
-    - URL: https://x.com/2216306262/status/1029726971155107840
+    - URL: https://x.com/Burp_Suite/status/1029726971155107840
     - Metrics (at fetch): bookmark 15, impression 0, like 255, quote 12, reply 6, retweet 136
     
     > Blog post: Voting is now open for the Top 10 Web Hacking Techniques of 2017
@@ -9077,9 +9077,9 @@ Tags (automatic): SQL injection
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2799802928 — 2018-06-20 18:02 UTC (2018-06-20 19:02 WAT)
+    #### Quoted post — @SecurityMB — 2018-06-20 18:02 UTC (2018-06-20 19:02 WAT)
     
-    - URL: https://x.com/2799802928/status/1009496638480633857
+    - URL: https://x.com/SecurityMB/status/1009496638480633857
     - Metrics (at fetch): bookmark 12, impression 0, like 326, quote 13, reply 8, retweet 161
     
     > Blogged! About quite an unexpected bug in a browser in 2018. Setting arbitrary headers via CRLF injection in Chrome. Also an example how a new security feature can introduce a bad bug ;)
@@ -9894,9 +9894,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @292234592 — 2016-09-23 06:37 UTC (2016-09-23 07:37 WAT)
+    #### Quoted post — @Agarri_FR — 2016-09-23 06:37 UTC (2016-09-23 07:37 WAT)
     
-    - URL: https://x.com/292234592/status/779208144132116484
+    - URL: https://x.com/Agarri_FR/status/779208144132116484
     - Metrics (at fetch): not returned
     
     > Regarding @Yahoo... I pwned their monitoring infrastructure twice, no need for state-actors.
@@ -10172,9 +10172,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @283928662 — 2016-03-08 15:30 UTC (2016-03-08 16:30 WAT)
+    #### Quoted post — @NCCGroupInfosec — 2016-03-08 15:30 UTC (2016-03-08 16:30 WAT)
     
-    - URL: https://x.com/283928662/status/707227002231758848
+    - URL: https://x.com/NCCGroupInfosec/status/707227002231758848
     - Metrics (at fetch): bookmark 0, impression 0, like 6, quote 0, reply 0, retweet 4
     
     > NCC Group Advisories: SAP Netweaver - https://t.co/rnjwIk1GHM and https://t.co/Hly6dVyD1D - CVE-2015-8774 and CVE-2015-8775 by @irsdl
@@ -10357,9 +10357,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2799802928 — 2015-05-01 21:01 UTC (2015-05-01 22:01 WAT)
+    #### Quoted post — @SecurityMB — 2015-05-01 21:01 UTC (2015-05-01 22:01 WAT)
     
-    - URL: https://x.com/2799802928/status/594245329857413122
+    - URL: https://x.com/SecurityMB/status/594245329857413122
     - Metrics (at fetch): not returned
     
     > Here we go! XSS via Host header (IE-only, trick by @Black2Fan) in http://www.google.com. http://blog.bentkowski.info/2015/04/xss-via-host-header-cse.html #XSS #vrp #bugbounty

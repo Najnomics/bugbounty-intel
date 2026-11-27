@@ -1,6 +1,6 @@
 # @Swartz068 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 68
 - Conversations/threads: 49
@@ -18,9 +18,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Context — post being replied to:**
 
-#### Parent post — @1921179616179564544 — 2026-11-24 17:38 UTC (2026-11-24 18:38 WAT)
+#### Parent post — @isTsNameAlright — 2026-11-24 17:38 UTC (2026-11-24 18:38 WAT)
 
-- URL: https://x.com/1921179616179564544/status/2125283008672600066
+- URL: https://x.com/isTsNameAlright/status/2125283008672600066
 - Metrics (at fetch): bookmark 0, impression 74, like 1, quote 0, reply 1, retweet 0
 
 > @Swartz068 @Bugcrowd @GodfatherOrwa @lostsec_ @HubC3i I have no words. All respect in the world to you sir 🤝🤝
@@ -142,9 +142,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Context — conversation root by another account:**
 
-#### Root post — @1790387576794492928 — 2026-11-21 15:38 UTC (2026-11-21 16:38 WAT)
+#### Root post — @LoopandPixels — 2026-11-21 15:38 UTC (2026-11-21 16:38 WAT)
 
-- URL: https://x.com/1790387576794492928/status/2124165641548800023
+- URL: https://x.com/LoopandPixels/status/2124165641548800023
 - Metrics (at fetch): bookmark 11, impression 10156, like 174, quote 0, reply 269, repost 2
 
 > Hey guys! I’m making a little tech group. If you’d like to join, just say hi and I’ll add you 🫶
@@ -254,9 +254,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Context — conversation root by another account:**
 
-#### Root post — @2008166756435812352 — 2026-11-18 05:04 UTC (2026-11-18 06:04 WAT)
+#### Root post — @sristhi_saha — 2026-11-18 05:04 UTC (2026-11-18 06:04 WAT)
 
-- URL: https://x.com/2008166756435812352/status/2122918729193591281
+- URL: https://x.com/sristhi_saha/status/2122918729193591281
 - Metrics (at fetch): bookmark 0, impression 447, like 16, quote 0, reply 7, retweet 1
 
 > Your first income will always be special, no matter how small it is. ❤️
@@ -356,9 +356,9 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 **Context — conversation root by another account:**
 
-#### Root post — @1430528648969428992 — 2026-11-15 11:57 UTC (2026-11-15 12:57 WAT)
+#### Root post — @areebbbbaaaa — 2026-11-15 11:57 UTC (2026-11-15 12:57 WAT)
 
-- URL: https://x.com/1430528648969428992/status/2121935509648019762
+- URL: https://x.com/areebbbbaaaa/status/2121935509648019762
 - Metrics (at fetch): bookmark 24, impression 11041, like 266, quote 4, reply 45, retweet 17
 
 > How to control from texting a person!!!!!!
@@ -403,9 +403,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Context — conversation root by another account:**
 
-#### Root post — @343492719 — 2026-11-14 07:30 UTC (2026-11-14 08:30 WAT)
+#### Root post — @wannabechamp — 2026-11-14 07:30 UTC (2026-11-14 08:30 WAT)
 
-- URL: https://x.com/343492719/status/2121506148499284019
+- URL: https://x.com/wannabechamp/status/2121506148499284019
 - Metrics (at fetch): not returned
 
 > Name a profitable trader on X
@@ -426,9 +426,9 @@ Tags (automatic): Platform: Bugcrowd
 
 **Context — conversation root by another account:**
 
-#### Root post — @1740459527508553728 — 2026-11-14 15:09 UTC (2026-11-14 16:09 WAT)
+#### Root post — @thetraderoom_ — 2026-11-14 15:09 UTC (2026-11-14 16:09 WAT)
 
-- URL: https://x.com/1740459527508553728/status/2121621427216699785
+- URL: https://x.com/thetraderoom_/status/2121621427216699785
 - Metrics (at fetch): not returned
 
 > ❤️ [pic.x.com/9mbwwvSWsm]

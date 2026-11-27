@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@forensics.000/cross-site-and-server-side-request-forgeries-csrf-and-ssrf-b91911e42e44?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@forensics.000
-- **Fetched:** 2026-11-20
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 5280)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

@@ -2,6 +2,14 @@
 
 Generated 11 Nov 2026 (WAT), Telegram sources added 12 Nov 2026 (Africa/Lagos). Every link points to a file inside this repo that holds **full verbatim text** — no X or Telegram access needed.
 
+## Daily update — 27 November 2026 (Africa/Lagos)
+
+- **X:** +50 new security-relevant verbatim files (plus many @mdp_sec chat replies archived into ARCHIVE.md). Highlights: [@0xacb / @mdisec PostgreSQL type-confusion RCE (CVE-2026-6460)](posts/0xacb/2026-11-26-2125948257977184643.md) ([writeup](writeups/0xacb/mdisec-pg-clickhouse-type-confusion-rce-cve-2026-6460.md)), [@mdp_sec AI-credited CVE week + Cairn MONAI Label zero-day](posts/mdp_sec/2026-11-25-2125502246758584345.md) ([AWS](writeups/mdp_sec/aws-cairn-ai-agents-zero-day-monai-label-cve-2026-133968.md)), [Trailmark v0.9.0](posts/trailofbits/2026-11-25-2125561387241857029.md), [BB Arena CTF](writeups/mdp_sec/blackboxarena-ctf-2026-11-26.md) + [board-reading article](posts/mdp_sec/2026-11-26-2125809861527261304.md). Backfill: u1 DONE; saxk +123 → n=442 oldest 2024-04-11 (OPEN). ARCHIVE total 22,526.
+- **Telegram:** defendor_eng +4 (ids 2389–2392); dailybountywriteup +1 (id 15000). Writeups: defendor +8 (fetched 364 / pending 0); dailybounty +393 (RSS + Wayback; fetched 3,205 / failed 1,326 / pending 8,603).
+- **HackerOne:** +1 disclosed — Nextcloud Notes Unicode RTLO filenames [#3490059](hackerone/reports/2026/3490059.md). Enumerated 12,795.
+- **CVE:** cvelistV5 +515 new / 433 updated (max 2026-11-27T05:00:21Z); NVD +1,126 new / 1,055 upd (records 433,070); GHSA +4 (TastyIgniter RCE/path-traversal); KEV unchanged (2026.11.25 / 1,805). Project/repo advisories: 0 new since 2026-10.
+- **Harness:** [`harness/bug-classes/2026-11-27-postgres-type-confusion-cairn-agents-trailmark-bb-arena.md`](harness/bug-classes/2026-11-27-postgres-type-confusion-cairn-agents-trailmark-bb-arena.md); techniques.md + findings.jsonl refreshed.
+
 ## Daily update — 26 November 2026 (Africa/Lagos)
 
 - **X:** +15 new security-relevant verbatim files (plus ~30 chatty @mdp_sec replies not archived). Highlights: [@monkehack "Human-Model Differentials" (via @xssdoctor / @0xacb)](writeups/monkehack/human-model-differentials-and-language-hacking.md), [@garethheyes on Assetnote's Chrome Sanitizer API bypasses](posts/garethheyes/2026-11-25-2125629582015611281.md) ([writeup](writeups/SLCyberSec/two-bypasses-for-chromes-sanitizer-api.md)), [@immunefi FBI AI-tool warning](posts/immunefi/2026-11-25-2125616255533306197.md), [@mdp_sec BB Arena article](posts/mdp_sec/2026-11-26-2125809861527261304.md). Backfill: cursor u1 +115 posts back to 2025-02-20 (OPEN); t2 closed.

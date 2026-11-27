@@ -1,6 +1,6 @@
 # @bluethroat_labs — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 148
 - Conversations/threads: 60
@@ -15,9 +15,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Context — post being replied to:**
 
-#### Parent post — @1807786728826007552 — 2026-11-24 09:41 UTC (2026-11-24 10:41 WAT)
+#### Parent post — @iamwehi — 2026-11-24 09:41 UTC (2026-11-24 10:41 WAT)
 
-- URL: https://x.com/1807786728826007552/status/2125162895658963304
+- URL: https://x.com/iamwehi/status/2125162895658963304
 - Metrics (at fetch): bookmark 2, impression 401, like 14, quote 0, reply 3, retweet 1
 
 > just a vid of me being depressed about Ethereum security
@@ -240,9 +240,9 @@ Tags (automatic): Platform: Immunefi
     
     **Quoted post (full text):**
     
-        #### Quoted post — @1988994064914739210 — 2026-11-02 18:16 UTC (2026-11-02 19:16 WAT)
+        #### Quoted post — @thedaofund — 2026-11-02 18:16 UTC (2026-11-02 19:16 WAT)
         
-        - URL: https://x.com/1988994064914739210/status/2117319992652001664
+        - URL: https://x.com/thedaofund/status/2117319992652001664
         - Metrics (at fetch): bookmark 4, impression 2076, like 26, quote 4, reply 3, retweet 3
         
         > Thursday, November 5
@@ -1486,9 +1486,9 @@ Tags (automatic): TEE / enclave
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1738660073910509568 — 2026-08-19 15:03 UTC (2026-08-19 16:03 WAT)
+    #### Quoted post — @oxwizzdom — 2026-08-19 15:03 UTC (2026-08-19 16:03 WAT)
     
-    - URL: https://x.com/1738660073910509568/status/2090092304103100845
+    - URL: https://x.com/oxwizzdom/status/2090092304103100845
     - Metrics (at fetch): bookmark 8, impression 2758, like 19, quote 3, reply 4, retweet 0
     
     > just built rootward; the first static auditor for web3 TEE protocols thanks to @saxenism for the @bluethroat_labs community.
@@ -2016,9 +2016,9 @@ Tags (automatic): TEE / enclave
     
     **Quoted post (full text):**
     
-        #### Quoted post — @1988994064914739210 — 2026-04-22 15:14 UTC (2026-04-22 16:14 WAT)
+        #### Quoted post — @thedaofund — 2026-04-22 15:14 UTC (2026-04-22 16:14 WAT)
         
-        - URL: https://x.com/1988994064914739210/status/2046971025443713460
+        - URL: https://x.com/thedaofund/status/2046971025443713460
         - Metrics (at fetch): bookmark 3, impression 9230, like 68, quote 6, reply 2, retweet 3
         
         > With no further ado, meet the final 100 ETHSecurity Badge holders:

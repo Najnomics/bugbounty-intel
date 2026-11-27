@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@sreejihkn43073/how-i-use-to-find-vulnerabilities-like-xss-sqli-using-mixture-of-3-simple-tools-5108068646d2?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@sreejihkn43073
-- **Fetched:** 2026-11-17
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 6204)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

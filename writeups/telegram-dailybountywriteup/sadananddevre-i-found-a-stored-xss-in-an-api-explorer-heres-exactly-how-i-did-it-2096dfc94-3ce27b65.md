@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@sadananddevre/i-found-a-stored-xss-in-an-api-explorer-heres-exactly-how-i-did-it-2096dfc94753?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@sadananddevre
-- **Fetched:** 2026-11-16
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 13392)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

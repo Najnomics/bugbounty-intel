@@ -1,6 +1,6 @@
 # @PaulosYibelo — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 216
 - Conversations/threads: 206
@@ -31,9 +31,9 @@ Tags (automatic): Memory corruption / native
 
 **Context — conversation root by another account:**
 
-#### Root post — @587173876 — 2026-11-21 23:16 UTC (2026-11-22 00:16 WAT)
+#### Root post — @stefanboesen — 2026-11-21 23:16 UTC (2026-11-22 00:16 WAT)
 
-- URL: https://x.com/587173876/status/2124280816352264418
+- URL: https://x.com/stefanboesen/status/2124280816352264418
 - Metrics (at fetch): bookmark 0, impression 221, like 4, quote 0, reply 1, repost 1
 
 > Another crazy bug from @PaulosYibelo &amp; @pwn_ai! Great find https://twitter.com/pwn_ai/status/2124201550122041564
@@ -42,9 +42,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2026-11-21 18:01 UTC (2026-11-21 19:01 WAT)
+    #### Quoted post — @pwn_ai — 2026-11-21 18:01 UTC (2026-11-21 19:01 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/2124201550122041564
+    - URL: https://x.com/pwn_ai/status/2124201550122041564
     - Metrics (at fetch): bookmark 227, impression 131732, like 359, quote 56, reply 19, repost 69
     
     > Good morning, we are releasing Upload2Shell - where you upload a file and get a shell. 
@@ -71,9 +71,9 @@ Tags (automatic): Memory corruption / native
 
 **Context — conversation root by another account:**
 
-#### Root post — @1063345956987568128 — 2026-11-22 00:24 UTC (2026-11-22 01:24 WAT)
+#### Root post — @chapimenge3 — 2026-11-22 00:24 UTC (2026-11-22 01:24 WAT)
 
-- URL: https://x.com/1063345956987568128/status/2124297946975854606
+- URL: https://x.com/chapimenge3/status/2124297946975854606
 - Metrics (at fetch): bookmark 0, impression 352, like 6, quote 0, reply 1, repost 0
 
 > He never stops 👏. @PaulosYibelo Superstar 💪 https://twitter.com/PaulosYibelo/status/2124277899557822687
@@ -132,9 +132,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2026-11-21 18:01 UTC (2026-11-21 19:01 WAT)
+    #### Quoted post — @pwn_ai — 2026-11-21 18:01 UTC (2026-11-21 19:01 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/2124201550122041564
+    - URL: https://x.com/pwn_ai/status/2124201550122041564
     - Metrics (at fetch): bookmark 227, impression 131732, like 359, quote 56, reply 19, repost 69
     
     > Good morning, we are releasing Upload2Shell - where you upload a file and get a shell. 
@@ -235,9 +235,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1158139840866791424 — 2026-11-21 20:48 UTC (2026-11-21 21:48 WAT)
+#### Root post — @vxunderground — 2026-11-21 20:48 UTC (2026-11-21 21:48 WAT)
 
-- URL: https://x.com/1158139840866791424/status/2124243629741142272
+- URL: https://x.com/vxunderground/status/2124243629741142272
 - Metrics (at fetch): bookmark 76, impression 37454, like 1899, quote 12, reply 137, retweet 72
 
 > IM ABOUT TO CRASH OUT. STOP NAMING SHIT 2SHELL
@@ -265,9 +265,9 @@ Tags (automatic): AI-assisted hunting
     
     **Quoted post (full text):**
     
-        #### Quoted post — @1439534375058624513 — 2026-11-21 18:01 UTC (2026-11-21 19:01 WAT)
+        #### Quoted post — @pwn_ai — 2026-11-21 18:01 UTC (2026-11-21 19:01 WAT)
         
-        - URL: https://x.com/1439534375058624513/status/2124201550122041564
+        - URL: https://x.com/pwn_ai/status/2124201550122041564
         - Metrics (at fetch): bookmark 227, impression 131732, like 359, quote 56, reply 19, repost 69
         
         > Good morning, we are releasing Upload2Shell - where you upload a file and get a shell. 
@@ -295,9 +295,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @793795 — 2026-11-21 22:24 UTC (2026-11-21 23:24 WAT)
+#### Root post — @mycoliza — 2026-11-21 22:24 UTC (2026-11-21 23:24 WAT)
 
-- URL: https://x.com/793795/status/2124267616802058492
+- URL: https://x.com/mycoliza/status/2124267616802058492
 - Metrics (at fetch): bookmark 5, impression 2594, like 81, quote 0, reply 4, repost 3
 
 > “every application with an upload box” feels like a pretty misleading claim when the application has to actually attempt to process PDFs. i will certainly admit that a lot of applications *do* do that, but like… https://twitter.com/paulosyibelo/status/2124203995329933441
@@ -323,9 +323,9 @@ Tags (automatic): AI-assisted hunting
     
     **Quoted post (full text):**
     
-        #### Quoted post — @1439534375058624513 — 2026-11-21 18:01 UTC (2026-11-21 19:01 WAT)
+        #### Quoted post — @pwn_ai — 2026-11-21 18:01 UTC (2026-11-21 19:01 WAT)
         
-        - URL: https://x.com/1439534375058624513/status/2124201550122041564
+        - URL: https://x.com/pwn_ai/status/2124201550122041564
         - Metrics (at fetch): bookmark 227, impression 131732, like 359, quote 56, reply 19, repost 69
         
         > Good morning, we are releasing Upload2Shell - where you upload a file and get a shell. 
@@ -353,9 +353,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @737793991865831427 — 2026-11-21 18:49 UTC (2026-11-21 19:49 WAT)
+#### Root post — @dylfreed — 2026-11-21 18:49 UTC (2026-11-21 19:49 WAT)
 
-- URL: https://x.com/737793991865831427/status/2124213516643295374
+- URL: https://x.com/dylfreed/status/2124213516643295374
 - Metrics (at fetch): bookmark 10, impression 3111, like 18, quote 0, reply 3, repost 9
 
 > We reported on Upload2Shell as part of a sweeping NYT story on the house of cards that computer software is built on — with @dnvolz, @kateconger and @sheeraf. Bug found by @PaulosYibelo.
@@ -367,9 +367,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2026-11-21 18:01 UTC (2026-11-21 19:01 WAT)
+    #### Quoted post — @pwn_ai — 2026-11-21 18:01 UTC (2026-11-21 19:01 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/2124201550122041564
+    - URL: https://x.com/pwn_ai/status/2124201550122041564
     - Metrics (at fetch): bookmark 227, impression 131732, like 359, quote 56, reply 19, repost 69
     
     > Good morning, we are releasing Upload2Shell - where you upload a file and get a shell. 
@@ -396,9 +396,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @835932743716462593 — 2026-11-21 18:39 UTC (2026-11-21 19:39 WAT)
+#### Root post — @AniC_dev — 2026-11-21 18:39 UTC (2026-11-21 19:39 WAT)
 
-- URL: https://x.com/835932743716462593/status/2124211201047740746
+- URL: https://x.com/AniC_dev/status/2124211201047740746
 - Metrics (at fetch): bookmark 3, impression 2347, like 19, quote 0, reply 1, repost 1
 
 > don't give this man even a way to poke you https://twitter.com/PaulosYibelo/status/2124203995329933441
@@ -424,9 +424,9 @@ Tags (automatic): AI-assisted hunting
     
     **Quoted post (full text):**
     
-        #### Quoted post — @1439534375058624513 — 2026-11-21 18:01 UTC (2026-11-21 19:01 WAT)
+        #### Quoted post — @pwn_ai — 2026-11-21 18:01 UTC (2026-11-21 19:01 WAT)
         
-        - URL: https://x.com/1439534375058624513/status/2124201550122041564
+        - URL: https://x.com/pwn_ai/status/2124201550122041564
         - Metrics (at fetch): bookmark 227, impression 131732, like 359, quote 56, reply 19, repost 69
         
         > Good morning, we are releasing Upload2Shell - where you upload a file and get a shell. 
@@ -466,9 +466,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2026-09-25 16:58 UTC (2026-09-25 17:58 WAT)
+    #### Quoted post — @pwn_ai — 2026-09-25 16:58 UTC (2026-09-25 17:58 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/2103529606351340028
+    - URL: https://x.com/pwn_ai/status/2103529606351340028
     - Metrics (at fetch): bookmark 811, impression 787422, like 2083, quote 103, reply 68, repost 226
     
     > We have found one zeroday that preauth RCE'd Debian 13, Google, Meta, Roundcube, Plesk, Wikimedia, Box, Dropbox, Zoom, Forminator, Elementor, WordPress Core, among many more. Details soon!
@@ -515,9 +515,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2026-11-05 16:25 UTC (2026-11-05 17:25 WAT)
+    #### Quoted post — @pwn_ai — 2026-11-05 16:25 UTC (2026-11-05 17:25 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/2118379120597864954
+    - URL: https://x.com/pwn_ai/status/2118379120597864954
     - Metrics (at fetch): bookmark 504, impression 128487, like 1043, quote 69, reply 34, retweet 151
     
     > Good morning, we escaped the famous Firecracker VM and got root execution on the host. 
@@ -547,9 +547,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2026-10-30 14:17 UTC (2026-10-30 15:17 WAT)
+    #### Quoted post — @pwn_ai — 2026-10-30 14:17 UTC (2026-10-30 15:17 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/2116172656084979725
+    - URL: https://x.com/pwn_ai/status/2116172656084979725
     - Metrics (at fetch): bookmark 829, impression 292955, like 1555, quote 62, reply 62, retweet 182
     
     > Introducing CVE-2026-106378: Chrome GPU Sandbox Escape to full Remote Command Execution using synthetic keyboard injection
@@ -606,9 +606,9 @@ Tags (automatic): RCE, Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @704115137116942336 — 2026-10-19 08:17 UTC (2026-10-19 09:17 WAT)
+    #### Quoted post — @blackorbird — 2026-10-19 08:17 UTC (2026-10-19 09:17 WAT)
     
-    - URL: https://x.com/704115137116942336/status/2112095772124864777
+    - URL: https://x.com/blackorbird/status/2112095772124864777
     - Metrics (at fetch): bookmark 9, impression 74464, like 64, quote 1, reply 0, retweet 3
     
     > How can one obtain such a great identifier as CVE-2026-99999? #PwnEscape
@@ -634,9 +634,9 @@ Tags (automatic): RCE, Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2026-10-15 16:48 UTC (2026-10-15 17:48 WAT)
+    #### Quoted post — @pwn_ai — 2026-10-15 16:48 UTC (2026-10-15 17:48 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/2110774865548439957
+    - URL: https://x.com/pwn_ai/status/2110774865548439957
     - Metrics (at fetch): bookmark 804, impression 396525, like 1279, quote 46, reply 16, retweet 221
     
     > Introducing PwnEscape 🦉: a full KVM guest-to-host escape via a Linux kernel networking flaw affecting industry standard hypervisors.
@@ -679,9 +679,9 @@ Tags (automatic): RCE, Memory corruption / native
     
     **Quoted post (full text):**
     
-        #### Quoted post — @1439534375058624513 — 2026-10-15 16:48 UTC (2026-10-15 17:48 WAT)
+        #### Quoted post — @pwn_ai — 2026-10-15 16:48 UTC (2026-10-15 17:48 WAT)
         
-        - URL: https://x.com/1439534375058624513/status/2110774865548439957
+        - URL: https://x.com/pwn_ai/status/2110774865548439957
         - Metrics (at fetch): bookmark 804, impression 396525, like 1279, quote 46, reply 16, retweet 221
         
         > Introducing PwnEscape 🦉: a full KVM guest-to-host escape via a Linux kernel networking flaw affecting industry standard hypervisors.
@@ -717,9 +717,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2026-10-15 16:48 UTC (2026-10-15 17:48 WAT)
+    #### Quoted post — @pwn_ai — 2026-10-15 16:48 UTC (2026-10-15 17:48 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/2110774865548439957
+    - URL: https://x.com/pwn_ai/status/2110774865548439957
     - Metrics (at fetch): bookmark 804, impression 396525, like 1279, quote 46, reply 16, retweet 221
     
     > Introducing PwnEscape 🦉: a full KVM guest-to-host escape via a Linux kernel networking flaw affecting industry standard hypervisors.
@@ -747,9 +747,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15540222 — 2026-10-14 23:32 UTC (2026-10-15 00:32 WAT)
+    #### Quoted post — @rauchg — 2026-10-14 23:32 UTC (2026-10-15 00:32 WAT)
     
-    - URL: https://x.com/15540222/status/2110514201559228606
+    - URL: https://x.com/rauchg/status/2110514201559228606
     - Metrics (at fetch): bookmark 198, impression 89627, like 744, quote 11, reply 131, retweet 27
     
     > This is one of the most exhilarating times in technology, and this challenge was yet another jaw-dropping moment.
@@ -836,9 +836,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15534471 — 2026-10-04 19:05 UTC (2026-10-04 20:05 WAT)
+    #### Quoted post — @cramforce — 2026-10-04 19:05 UTC (2026-10-04 20:05 WAT)
     
-    - URL: https://x.com/15534471/status/2106823001593528540
+    - URL: https://x.com/cramforce/status/2106823001593528540
     - Metrics (at fetch): bookmark 45, impression 41404, like 286, quote 7, reply 18, retweet 21
     
     > Funnily enough, I broadly agree with Mr. @DeGatchi. For vulnerabilities like this one which impacts everybody using KVM (read every hyperscaler, every AI lab, every company on the planet really), there should be a fund that pays from all of them.
@@ -909,9 +909,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @15540222 — 2026-10-03 15:12 UTC (2026-10-03 16:12 WAT)
+    #### Quoted post — @rauchg — 2026-10-03 15:12 UTC (2026-10-03 16:12 WAT)
     
-    - URL: https://x.com/15540222/status/2106402024804020657
+    - URL: https://x.com/rauchg/status/2106402024804020657
     - Metrics (at fetch): bookmark 530, impression 259228, like 2068, quote 46, reply 102, retweet 148
     
     > We’ve confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s gold standard solution for Linux virtualization. 
@@ -967,9 +967,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2026-09-28 16:55 UTC (2026-09-28 17:55 WAT)
+    #### Quoted post — @pwn_ai — 2026-09-28 16:55 UTC (2026-09-28 17:55 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/2104616064118382965
+    - URL: https://x.com/pwn_ai/status/2104616064118382965
     - Metrics (at fetch): bookmark 323, impression 452999, like 438, quote 9, reply 7, retweet 92
     
     > How pwn agents escaped the hardest-known sandbox setup: Google’s KVM (kvmCTF).
@@ -998,9 +998,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2026-09-25 16:58 UTC (2026-09-25 17:58 WAT)
+    #### Quoted post — @pwn_ai — 2026-09-25 16:58 UTC (2026-09-25 17:58 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/2103529606351340028
+    - URL: https://x.com/pwn_ai/status/2103529606351340028
     - Metrics (at fetch): bookmark 811, impression 787422, like 2083, quote 103, reply 68, repost 226
     
     > We have found one zeroday that preauth RCE'd Debian 13, Google, Meta, Roundcube, Plesk, Wikimedia, Box, Dropbox, Zoom, Forminator, Elementor, WordPress Core, among many more. Details soon!
@@ -1083,9 +1083,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @883005552309276672 — 2026-08-31 19:23 UTC (2026-08-31 20:23 WAT)
+    #### Quoted post — @_jensec — 2026-08-31 19:23 UTC (2026-08-31 20:23 WAT)
     
-    - URL: https://x.com/883005552309276672/status/2094506500848865581
+    - URL: https://x.com/_jensec/status/2094506500848865581
     - Metrics (at fetch): bookmark 51, impression 22045, like 205, quote 2, reply 30, retweet 1
     
     > Serious question, The consensus is that AI makes finding bugs easy. So why do internal security teams still wait for bounty hunters to find them?
@@ -1149,9 +1149,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2026-08-07 12:23 UTC (2026-08-07 13:23 WAT)
+    #### Quoted post — @pwn_ai — 2026-08-07 12:23 UTC (2026-08-07 13:23 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/2085703409160650985
+    - URL: https://x.com/pwn_ai/status/2085703409160650985
     - Metrics (at fetch): bookmark 746, impression 1662678, like 975, quote 35, reply 30, retweet 201
     
     > Introducing XSS2Shell ⛓️: WordPress Core preauth XSS→RCE vulnerability affecting 43% of the internet, discovered autonomously by pwn (using open-source models), affecting all WordPress versions.
@@ -1227,9 +1227,9 @@ Tags (automatic): Request smuggling / desync, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1632109271700889600 — 2026-06-08 21:17 UTC (2026-06-08 22:17 WAT)
+    #### Quoted post — @calif_io — 2026-06-08 21:17 UTC (2026-06-08 22:17 WAT)
     
-    - URL: https://x.com/1632109271700889600/status/2064094460183781426
+    - URL: https://x.com/calif_io/status/2064094460183781426
     - Metrics (at fetch): bookmark 35, impression 17178, like 82, quote 2, reply 5, retweet 13
     
     > As far as we can tell, no. There is only anecdotal evidence, along with claims from AI pentesting vendors.
@@ -1266,9 +1266,9 @@ Tags (automatic): Request smuggling / desync, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2026-04-10 13:23 UTC (2026-04-10 14:23 WAT)
+    #### Quoted post — @pwn_ai — 2026-04-10 13:23 UTC (2026-04-10 14:23 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/2042594391848554961
+    - URL: https://x.com/pwn_ai/status/2042594391848554961
     - Metrics (at fetch): bookmark 118, impression 32477, like 136, quote 2, reply 5, retweet 22
     
     > Today we’re announcing something new in offensive security: the first AI system for novel vulnerability class discovery.
@@ -1357,9 +1357,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1279334534 — 2025-07-07 15:13 UTC (2025-07-07 16:13 WAT)
+    #### Quoted post — @shhnjk — 2025-07-07 15:13 UTC (2025-07-07 16:13 WAT)
     
-    - URL: https://x.com/1279334534/status/1942240487974596878
+    - URL: https://x.com/shhnjk/status/1942240487974596878
     - Metrics (at fetch): bookmark 73, impression 17414, like 107, quote 2, reply 6, retweet 17
     
     > Here's the slide for the talk I gave at #shibuyaxss
@@ -1381,9 +1381,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1177545689460592640 — 2025-02-04 15:04 UTC (2025-02-04 16:04 WAT)
+    #### Quoted post — @PortSwiggerRes — 2025-02-04 15:04 UTC (2025-02-04 16:04 WAT)
     
-    - URL: https://x.com/1177545689460592640/status/1886792856204959824
+    - URL: https://x.com/PortSwiggerRes/status/1886792856204959824
     - Metrics (at fetch): bookmark 506, impression 226524, like 866, quote 40, reply 24, retweet 291
     
     > The results are in! We're proud to announce the Top ten web hacking techniques of 2024! https://t.co/XHPEeqPQLR
@@ -1546,9 +1546,9 @@ Tags (automatic): Account takeover
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1600519214519013377 — 2023-11-30 21:15 UTC (2023-11-30 22:15 WAT)
+    #### Quoted post — @ctbbpodcast — 2023-11-30 21:15 UTC (2023-11-30 22:15 WAT)
     
-    - URL: https://x.com/1600519214519013377/status/1730334680388423746
+    - URL: https://x.com/ctbbpodcast/status/1730334680388423746
     - Metrics (at fetch): bookmark 44, impression 28651, like 92, quote 2, reply 2, retweet 14
     
     > Crazy CSP Bypass here by @PaulosYibelo! Utilizes JSONP endpoints where you can ONLY use [a-z.]+ as the callback and crafts a valid exploit. 
@@ -1576,9 +1576,9 @@ Tags (automatic): Account takeover
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2023-11-06 17:23 UTC (2023-11-06 18:23 WAT)
+    #### Quoted post — @pwn_ai — 2023-11-06 17:23 UTC (2023-11-06 18:23 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/1721579002886836526
+    - URL: https://x.com/pwn_ai/status/1721579002886836526
     - Metrics (at fetch): bookmark 39, impression 16071, like 125, quote 1, reply 0, retweet 34
     
     > CVE-2023-46251: Stored DOM XSS in MyBB &lt; 1.8.37 by using BBCode 🔥:
@@ -1609,9 +1609,9 @@ Tags (automatic): SSRF
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2022-12-19 19:04 UTC (2022-12-19 20:04 WAT)
+    #### Quoted post — @pwn_ai — 2022-12-19 19:04 UTC (2022-12-19 20:04 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/1604915475753959438
+    - URL: https://x.com/pwn_ai/status/1604915475753959438
     - Metrics (at fetch): bookmark 132, impression 141797, like 549, quote 12, reply 69, retweet 87
     
     > There is an SSRF here somewhere. Can you use it to steal the flag? 10$ reward. 🔥💀
@@ -1640,9 +1640,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2022-11-16 17:31 UTC (2022-11-16 18:31 WAT)
+    #### Quoted post — @pwn_ai — 2022-11-16 17:31 UTC (2022-11-16 18:31 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/1592933272052727808
+    - URL: https://x.com/pwn_ai/status/1592933272052727808
     - Metrics (at fetch): bookmark 66, impression 0, like 288, quote 3, reply 35, retweet 39
     
     > Can you pop alert(1) here? 
@@ -1710,9 +1710,9 @@ Tags (automatic): CSP / CSPT
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2022-05-29 21:21 UTC (2022-05-29 22:21 WAT)
+    #### Quoted post — @pwn_ai — 2022-05-29 21:21 UTC (2022-05-29 22:21 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/1531022887964098560
+    - URL: https://x.com/pwn_ai/status/1531022887964098560
     - Metrics (at fetch): bookmark 10, impression 0, like 28, quote 1, reply 1, retweet 14
     
     > 🌟 New Post: How to bypass CSP by Abusing WordPress and Same Origin Method Execution by @PaulosYibelo 
@@ -1738,9 +1738,9 @@ Tags (automatic): CSP / CSPT
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2022-05-13 00:04 UTC (2022-05-13 01:04 WAT)
+    #### Quoted post — @pwn_ai — 2022-05-13 00:04 UTC (2022-05-13 01:04 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/1524903436822585345
+    - URL: https://x.com/pwn_ai/status/1524903436822585345
     - Metrics (at fetch): bookmark 121, impression 0, like 771, quote 13, reply 43, retweet 106
     
     > Can you bypass authentication by exploiting a vulnerability? 10$ for first solver! 💢🔥 
@@ -1769,9 +1769,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2022-03-07 16:29 UTC (2022-03-07 17:29 WAT)
+    #### Quoted post — @pwn_ai — 2022-03-07 16:29 UTC (2022-03-07 17:29 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/1500871147503566849
+    - URL: https://x.com/pwn_ai/status/1500871147503566849
     - Metrics (at fetch): bookmark 15, impression 0, like 70, quote 2, reply 2, retweet 26
     
     > 🔥⛓️ CVE-2022-24990: TerraMaster TOS unauthenticated remote command execution via PHP Object Instantiation, new blog post:
@@ -1802,9 +1802,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2022-03-02 22:49 UTC (2022-03-02 23:49 WAT)
+    #### Quoted post — @pwn_ai — 2022-03-02 22:49 UTC (2022-03-02 23:49 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/1499154917969309697
+    - URL: https://x.com/pwn_ai/status/1499154917969309697
     - Metrics (at fetch): bookmark 12, impression 0, like 53, quote 2, reply 3, retweet 19
     
     > 🔥New Post: CVE-2022-24948: Apache JSPWiki Stored XSS to Account Takeover 
@@ -1837,9 +1837,9 @@ Tags (automatic): XSS, RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2022-01-26 02:12 UTC (2022-01-26 03:12 WAT)
+    #### Quoted post — @pwn_ai — 2022-01-26 02:12 UTC (2022-01-26 03:12 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/1486160142248726529
+    - URL: https://x.com/pwn_ai/status/1486160142248726529
     - Metrics (at fetch): bookmark 5, impression 0, like 52, quote 2, reply 0, retweet 20
     
     > (0day) preauth XSS leading to server compromise on all MAMP servers. 
@@ -1873,9 +1873,9 @@ Tags (automatic): RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2022-01-22 04:05 UTC (2022-01-22 05:05 WAT)
+    #### Quoted post — @pwn_ai — 2022-01-22 04:05 UTC (2022-01-22 05:05 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/1484738862865739782
+    - URL: https://x.com/pwn_ai/status/1484738862865739782
     - Metrics (at fetch): bookmark 78, impression 0, like 392, quote 7, reply 10, retweet 169
     
     > Our first blog post is up! 
@@ -1999,9 +1999,9 @@ Tags (automatic): Request smuggling / desync
 
 **Quoted post (full text):**
 
-    #### Quoted post — @404136883 — 2021-08-18 14:45 UTC (2021-08-18 15:45 WAT)
+    #### Quoted post — @detectify — 2021-08-18 14:45 UTC (2021-08-18 15:45 WAT)
     
-    - URL: https://x.com/404136883/status/1428005017286553602
+    - URL: https://x.com/detectify/status/1428005017286553602
     - Metrics (at fetch): bookmark 4, impression 0, like 30, quote 3, reply 0, retweet 8
     
     > Can you exploit this vulnerability? 👀 Join the challenge and submit your answer here: https://t.co/fBbtT13xWt The winners will be announced next week 🏆 Big shout out to @PaulosYibelo who created this CTF! 🔥 https://t.co/ED0ywDtcTn
@@ -2551,9 +2551,9 @@ Tags (automatic): SSRF, RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @816653 — 2018-10-19 23:42 UTC (2018-10-20 00:42 WAT)
+    #### Quoted post — @TechCrunch — 2018-10-19 23:42 UTC (2018-10-20 00:42 WAT)
     
-    - URL: https://x.com/816653/status/1053431106803023872
+    - URL: https://x.com/TechCrunch/status/1053431106803023872
     - Metrics (at fetch): bookmark 4, impression 0, like 46, quote 9, reply 8, retweet 29
     
     > Another lesson in "don't put everything on the internet" https://tcrn.ch/2CTYXOa

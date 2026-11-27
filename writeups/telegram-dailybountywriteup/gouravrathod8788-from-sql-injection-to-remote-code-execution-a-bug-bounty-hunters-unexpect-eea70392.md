@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@gouravrathod8788/from-sql-injection-to-remote-code-execution-a-bug-bounty-hunters-unexpected-journey-bc91a3697f24?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@gouravrathod8788
-- **Fetched:** 2026-11-16
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 8788)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

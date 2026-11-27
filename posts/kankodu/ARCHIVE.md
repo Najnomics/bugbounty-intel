@@ -1,6 +1,6 @@
 # @kankodu — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 169
 - Conversations/threads: 82
@@ -1181,9 +1181,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1877728835216568321 — 2025-03-08 14:35 UTC (2025-03-08 15:35 WAT)
+    #### Quoted post — @bountyhunt3rz — 2025-03-08 14:35 UTC (2025-03-08 15:35 WAT)
     
-    - URL: https://x.com/1877728835216568321/status/1898381975477469334
+    - URL: https://x.com/bountyhunt3rz/status/1898381975477469334
     - Metrics (at fetch): bookmark 13, impression 6621, like 53, quote 2, reply 4, retweet 4
     
     > BOUNTYHUNT3RZ Episode 6: w/ @kankodu 
@@ -1585,9 +1585,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @5678 — 2024-01-13 22:50 UTC (2024-01-13 23:50 WAT)
+    #### Quoted post — @danielvf — 2024-01-13 22:50 UTC (2024-01-13 23:50 WAT)
     
-    - URL: https://x.com/5678/status/1746303616778981402
+    - URL: https://x.com/danielvf/status/1746303616778981402
     - Metrics (at fetch): bookmark 583, impression 109809, like 607, quote 24, reply 22, retweet 103
     
     > Yesterday's complete hack of Wise Lending was far more complex than reported. Very worth examining.
@@ -1845,9 +1845,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @5678 — 2024-01-13 22:50 UTC (2024-01-13 23:50 WAT)
+    #### Quoted post — @danielvf — 2024-01-13 22:50 UTC (2024-01-13 23:50 WAT)
     
-    - URL: https://x.com/5678/status/1746303616778981402
+    - URL: https://x.com/danielvf/status/1746303616778981402
     - Metrics (at fetch): bookmark 583, impression 109809, like 607, quote 24, reply 22, retweet 103
     
     > Yesterday's complete hack of Wise Lending was far more complex than reported. Very worth examining.

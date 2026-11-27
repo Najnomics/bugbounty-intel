@@ -1,6 +1,6 @@
 # @Shanon40439853 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 24
 - Conversations/threads: 23
@@ -50,9 +50,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1622629804791955458 — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
+    #### Quoted post — @cantinasecurity — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
     
-    - URL: https://x.com/1622629804791955458/status/1770828360471507068
+    - URL: https://x.com/cantinasecurity/status/1770828360471507068
     - Metrics (at fetch): bookmark 60, impression 157785, like 288, quote 154, reply 91, repost 134
     
     > Welcome... to the new largest competition in history with @eulerfinance!
@@ -95,9 +95,9 @@ Tags (automatic): Platform: Code4rena / Sherlock / Cantina
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1622629804791955458 — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
+    #### Quoted post — @cantinasecurity — 2024-03-21 15:02 UTC (2024-03-21 16:02 WAT)
     
-    - URL: https://x.com/1622629804791955458/status/1770828360471507068
+    - URL: https://x.com/cantinasecurity/status/1770828360471507068
     - Metrics (at fetch): bookmark 60, impression 157785, like 288, quote 154, reply 91, repost 134
     
     > Welcome... to the new largest competition in history with @eulerfinance!
@@ -326,9 +326,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1420789685811650560 — 2023-06-26 12:20 UTC (2023-06-26 13:20 WAT)
+    #### Quoted post — @Morpho — 2023-06-26 12:20 UTC (2023-06-26 13:20 WAT)
     
-    - URL: https://x.com/1420789685811650560/status/1673305344930455553
+    - URL: https://x.com/Morpho/status/1673305344930455553
     - Metrics (at fetch): bookmark 8, impression 7287, like 27, quote 3, reply 2, repost 4
     
     > In the following post, we take a closer look at last month's bug report on Immunefi, the safety measures that were taken, and how a fix was deployed.

@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@sharmamansi0502/understanding-idor-insecure-direct-object-reference-b99690842319?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@sharmamansi0502
-- **Fetched:** 2026-11-18
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 12973)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

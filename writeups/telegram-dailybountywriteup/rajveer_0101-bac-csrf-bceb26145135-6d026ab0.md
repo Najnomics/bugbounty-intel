@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@rajveer_0101/bac-csrf-bceb26145135?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@rajveer_0101
-- **Fetched:** 2026-11-17
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 14015)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

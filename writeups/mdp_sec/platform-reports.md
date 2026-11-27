@@ -100,3 +100,15 @@ Source: HackerOne GraphQL `user(username:"mdpsec")` → reputation 889, rank 265
 | 4071668 | stripe | Stripe | 2026-09-30T07:13:36.163Z | $842 | False |
 | 4092104 | abb | ABB Information Systems Ltd | 2026-10-06T23:36:46.134Z |  | False |
 | 4092109 | abb | ABB Information Systems Ltd | 2026-10-06T23:39:34.856Z |  | False |
+
+## Update 2026-11-27 (WAT) — HackerOne hacktivity re-check
+
+Same GraphQL query (`search(index:CompleteHacktivityReportIndex, query_string:"reporter:mdpsec")`) now returns **18** entries (was 15). Still **0 publicly disclosed** — no titles, steps or payloads are public. New rows since the 2026-11-11 snapshot:
+
+| Report id | Program | Severity | Bounty | Disclosed |
+| --- | --- | --- | --- | --- |
+| 3925371 | msd |  |  | False |
+| 4027629 | capital-one-bounty |  | $750 | False |
+| 4061813 | s-pankki |  |  | False |
+
+mdpsec.com home page re-fetched 2026-11-27: unchanged from the archived copy (`mdpsec-home.md`); no reports listing. huntdeck.io still returns HTTP 403 (Cloudflare) to this crawler.

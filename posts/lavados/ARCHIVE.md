@@ -1,6 +1,6 @@
 # @lavados — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 90
 - Conversations/threads: 81
@@ -855,9 +855,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14862447 — 2019-11-08 23:40 UTC (2019-11-09 00:40 WAT)
+    #### Quoted post — @BlackhatEvents — 2019-11-08 23:40 UTC (2019-11-09 00:40 WAT)
     
-    - URL: https://x.com/14862447/status/1192949932875014150
+    - URL: https://x.com/BlackhatEvents/status/1192949932875014150
     - Metrics (at fetch): bookmark 0, impression 0, like 26, quote 1, reply 0, retweet 5
     
     > Learn a new type of side-channel attack based on speculative execution of the SWAPGS instruction inside the OS kernel at this #BHEU Briefing. This attack is capable of circumventing all existing protective measures, such as CPU microcode patches https://t.co/3wgNI1stvv
@@ -1010,9 +1010,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2419140080 — 2018-07-26 22:05 UTC (2018-07-26 23:05 WAT)
+    #### Quoted post — @misc0110 — 2018-07-26 22:05 UTC (2018-07-26 23:05 WAT)
     
-    - URL: https://x.com/2419140080/status/1022603751197163520
+    - URL: https://x.com/misc0110/status/1022603751197163520
     - Metrics (at fetch): bookmark 45, impression 0, like 1181, quote 105, reply 17, retweet 909
     
     > We present NetSpectre: A remote Spectre attack without attacker-controlled code on the victim, and the first Spectre attack which works without the cache as covert channel. https://t.co/qEJ2YMROAh /cc @lavados @mlqxyz https://t.co/5T1VzZDvOJ
@@ -1090,9 +1090,9 @@ Tags (automatic): Race condition, Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2419140080 — 2018-01-10 08:57 UTC (2018-01-10 09:57 WAT)
+    #### Quoted post — @misc0110 — 2018-01-10 08:57 UTC (2018-01-10 09:57 WAT)
     
-    - URL: https://x.com/2419140080/status/951015199292755968
+    - URL: https://x.com/misc0110/status/951015199292755968
     - Metrics (at fetch): bookmark 2, impression 0, like 51, quote 3, reply 3, retweet 22
     
     > @aionescu That can be optimized a lot, in this video I read uncached memory with our internal #Meltdown tools (not public): https://t.co/DIfRbPIHox (can't upload GIF to Twitter for some reason...)

@@ -1,11 +1,29 @@
 # @naresh_1337 — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 93
-- Conversations/threads: 53
+- Posts in this file: 94
+- Conversations/threads: 54
 - Oldest post captured: 2026-05-22
-- Newest post captured: 2026-11-24
+- Newest post captured: 2026-11-26
+
+
+---
+
+## 2026-11-26 · Post · I just found a confirmed bug on @immunefi immunefitribe https://immunefi.com/s/ss/?severity=low&sta
+
+
+Tags (automatic): Platform: Immunefi
+
+
+### Post — @naresh_1337 — 2026-11-26 01:01 UTC (2026-11-26 02:01 WAT)
+
+- URL: https://x.com/naresh_1337/status/2125756766755471410
+- Metrics (at fetch): bookmark 0, impression 376, like 20, quote 0, reply 3, repost 0
+
+> I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=low&status=confirmed&gifId=3&programType=audit-competition
+
+**Links in post:** https://immunefi.com/s/ss/?severity=low&status=confirmed&gifId=3&programType=audit-competition
 
 
 ---
@@ -94,9 +112,9 @@ Tags (automatic): AI-assisted hunting, Platform: Immunefi
 
 **Context — post being replied to:**
 
-#### Parent post — @3169959111 — 2026-11-19 09:50 UTC (2026-11-19 10:50 WAT)
+#### Parent post — @theBliz_ — 2026-11-19 09:50 UTC (2026-11-19 10:50 WAT)
 
-- URL: https://x.com/3169959111/status/2123353107643974061
+- URL: https://x.com/theBliz_/status/2123353107643974061
 - Metrics (at fetch): bookmark 0, impression 36, like 1, quote 0, reply 1, retweet 0
 
 > @naresh_1337 @ChatGPT That’s the risk 🤣
@@ -206,9 +224,9 @@ Tags (automatic): Platform: Immunefi
 
 **Context — conversation root by another account:**
 
-#### Root post — @2072881297475956736 — 2026-11-18 15:14 UTC (2026-11-18 16:14 WAT)
+#### Root post — @0xunineko — 2026-11-18 15:14 UTC (2026-11-18 16:14 WAT)
 
-- URL: https://x.com/2072881297475956736/status/2123072475764506767
+- URL: https://x.com/0xunineko/status/2123072475764506767
 - Metrics (at fetch): bookmark 0, impression 130, like 3, quote 0, reply 3, retweet 4
 
 > Looking for an invite to @immunefi Studio. Got one to spare? #ImmunefiStudio https://studio.immunefi.com/r/unineko
@@ -234,9 +252,9 @@ Tags (automatic): Platform: Immunefi
 
 **Context — conversation root by another account:**
 
-#### Root post — @1553261128406499329 — 2026-11-18 14:32 UTC (2026-11-18 15:32 WAT)
+#### Root post — @hybridthegeek — 2026-11-18 14:32 UTC (2026-11-18 15:32 WAT)
 
-- URL: https://x.com/1553261128406499329/status/2123061887617102032
+- URL: https://x.com/hybridthegeek/status/2123061887617102032
 - Metrics (at fetch): bookmark 0, impression 476, like 8, quote 0, reply 5, retweet 3
 
 > Looking for an invite to @immunefi Studio. 
@@ -265,9 +283,9 @@ Tags (automatic): Platform: Immunefi
 
 **Context — conversation root by another account:**
 
-#### Root post — @1596497436763201543 — 2026-11-18 15:16 UTC (2026-11-18 16:16 WAT)
+#### Root post — @maFa_686 — 2026-11-18 15:16 UTC (2026-11-18 16:16 WAT)
 
-- URL: https://x.com/1596497436763201543/status/2123072852790227139
+- URL: https://x.com/maFa_686/status/2123072852790227139
 - Metrics (at fetch): bookmark 0, impression 225, like 5, quote 0, reply 3, retweet 2
 
 > Immunefi Studio: The All-in-One Research Suite for the AI era https://immunefi.com/blog/company-announcement/immunefi-studio-the-all-in-one-research-suite-for-the-ai-era/ 
@@ -296,9 +314,9 @@ Tags (automatic): Platform: Immunefi
 
 **Context — conversation root by another account:**
 
-#### Root post — @1434867532159094787 — 2026-11-18 15:01 UTC (2026-11-18 16:01 WAT)
+#### Root post — @thongtrungtran — 2026-11-18 15:01 UTC (2026-11-18 16:01 WAT)
 
-- URL: https://x.com/1434867532159094787/status/2123069004957007920
+- URL: https://x.com/thongtrungtran/status/2123069004957007920
 - Metrics (at fetch): bookmark 0, impression 330, like 8, quote 0, reply 4, retweet 3
 
 > Looking for an invite to @immunefi Studio. Got one to spare? #ImmunefiStudio https://studio.immunefi.com/r/trtrth
@@ -324,9 +342,9 @@ Tags (automatic): Platform: Immunefi
 
 **Context — conversation root by another account:**
 
-#### Root post — @1919555011 — 2026-11-18 15:27 UTC (2026-11-18 16:27 WAT)
+#### Root post — @Bicktivism — 2026-11-18 15:27 UTC (2026-11-18 16:27 WAT)
 
-- URL: https://x.com/1919555011/status/2123075588214931864
+- URL: https://x.com/Bicktivism/status/2123075588214931864
 - Metrics (at fetch): bookmark 0, impression 303, like 5, quote 0, reply 4, retweet 3
 
 > Looking for an invite to @immunefi Studio. Got one to spare? #ImmunefiStudio https://studio.immunefi.com/r/bicktivism
@@ -391,9 +409,9 @@ Tags (automatic): Platform: Immunefi
 
 **Context — post being replied to:**
 
-#### Parent post — @1473075684 — 2026-11-14 07:23 UTC (2026-11-14 08:23 WAT)
+#### Parent post — @Valistheaeth — 2026-11-14 07:23 UTC (2026-11-14 08:23 WAT)
 
-- URL: https://x.com/1473075684/status/2121504286853226522
+- URL: https://x.com/Valistheaeth/status/2121504286853226522
 - Metrics (at fetch): bookmark 2, impression 1036, like 25, quote 0, reply 4, retweet 0
 
 > Update !! https://t.co/0yX7DXDeiF https://t.co/1xs08s36Xk
@@ -423,9 +441,9 @@ Tags (automatic): Platform: Immunefi
 
 **Context — post being replied to:**
 
-#### Parent post — @1473075684 — 2026-11-12 04:59 UTC (2026-11-12 05:59 WAT)
+#### Parent post — @Valistheaeth — 2026-11-12 04:59 UTC (2026-11-12 05:59 WAT)
 
-- URL: https://x.com/1473075684/status/2120743143390023785
+- URL: https://x.com/Valistheaeth/status/2120743143390023785
 - Metrics (at fetch): bookmark 0, impression 584, like 34, quote 0, reply 4, retweet 0
 
 > I just found a confirmed bug on @immunefi #immunefitribe https://t.co/CLJ63FRO4y
@@ -1518,11 +1536,3 @@ Tags (automatic): AI-assisted hunting
 > No ownership validation.
 > Just sequential integer IDs.
 > €1,500
-
-### Post — @naresh_1337 — 2026-11-26 01:01 UTC
-
-- URL: https://x.com/naresh_1337/status/2125756766755471410
-- Metrics (at fetch): bookmark 0, impression 204, like 12, quote 0, reply 2, retweet 0
-
-> I just found a confirmed bug on @immunefi #immunefitribe https://immunefi.com/s/ss/?severity=low&status=confirmed&gifId=3&programType=audit-competition
-

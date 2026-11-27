@@ -1,11 +1,94 @@
 # @0xriptide — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
-- Posts in this file: 229
-- Conversations/threads: 222
+- Posts in this file: 232
+- Conversations/threads: 225
 - Oldest post captured: 2014-07-21
-- Newest post captured: 2026-11-24
+- Newest post captured: 2026-11-26
+
+
+---
+
+## 2026-11-26 · Reply · @Lighter_xyz tradeoff is 300ms delay to let premium trade against u
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @Lighter_xyz — 2026-11-26 01:42 UTC (2026-11-26 02:42 WAT)
+
+- URL: https://x.com/Lighter_xyz/status/2125767064162017523
+- Metrics (at fetch): bookmark 61, impression 30540, like 395, quote 14, reply 19, retweet 48
+
+> https://x.com/i/article/2125755405720494080
+
+**Links in post:** https://x.com/i/article/2125755405720494080
+
+
+### Post — @0xriptide — 2026-11-26 06:23 UTC (2026-11-26 07:23 WAT)
+
+- URL: https://x.com/0xriptide/status/2125837825958425020
+- Metrics (at fetch): bookmark 0, impression 153, like 3, quote 0, reply 0, repost 0
+
+> @Lighter_xyz tradeoff is 300ms delay to let premium trade against u
+
+
+---
+
+## 2026-11-25 · Reply · @CiaraNightingal Glengarry Glen Ross
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @CiaraNightingal — 2026-11-25 00:05 UTC (2026-11-25 01:05 WAT)
+
+- URL: https://x.com/CiaraNightingal/status/2125380235310842023
+- Metrics (at fetch): bookmark 2, impression 2358, like 49, quote 0, reply 10, retweet 0
+
+> Health is so under appreciated when you have it. I’d love positive plot twist now please
+>
+> Ps if you have any film recs, I’m all out ( ngl it even feels like a luxury to be well enough to watch films )
+
+
+### Post — @0xriptide — 2026-11-25 07:26 UTC (2026-11-25 08:26 WAT)
+
+- URL: https://x.com/0xriptide/status/2125491282516607006
+- Metrics (at fetch): bookmark 0, impression 152, like 3, quote 0, reply 0, repost 0
+
+> @CiaraNightingal Glengarry Glen Ross
+>
+> and
+>
+> The Network
+
+
+---
+
+## 2026-11-25 · Reply · @StErMi @aave @Montyly shocked this didn't happen sooner tbh 
+
+
+**Context — conversation root by another account:**
+
+#### Root post — @StErMi — 2026-11-24 17:57 UTC (2026-11-24 18:57 WAT)
+
+- URL: https://x.com/StErMi/status/2125287736429183066
+- Metrics (at fetch): bookmark 10, impression 22507, like 402, quote 2, reply 52, retweet 7
+
+> Personal update: I've joined @aave!
+>
+> Working with the team over the years has been a pleasure, and I'm excited to see where this next chapter takes me.
+>
+> Can't wait to work alongside @Montyly to make the Aave security team even stronger!
+
+
+### Post — @0xriptide — 2026-11-25 07:20 UTC (2026-11-25 08:20 WAT)
+
+- URL: https://x.com/0xriptide/status/2125489818591199343
+- Metrics (at fetch): bookmark 0, impression 105, like 2, quote 0, reply 0, repost 0
+
+> @StErMi @aave @Montyly shocked this didn't happen sooner tbh 
+>
+> congrats my man enjoy
 
 
 ---
@@ -24,9 +107,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1988994064914739210 — 2026-11-24 14:49 UTC (2026-11-24 15:49 WAT)
+    #### Quoted post — @thedaofund — 2026-11-24 14:49 UTC (2026-11-24 15:49 WAT)
     
-    - URL: https://x.com/1988994064914739210/status/2125240487720153171
+    - URL: https://x.com/thedaofund/status/2125240487720153171
     - Metrics (at fetch): bookmark 3, impression 2316, like 50, quote 2, reply 2, retweet 8
     
     > We've seen a lot of people calling for more funding for SEAL, and @therealgregoAI just did something about it.
@@ -102,9 +185,9 @@ _Generated 2026-11-26 from the X API (full-archive search + timeline). Every pos
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2207129125 — 2026-11-20 00:00 UTC (2026-11-20 01:00 WAT)
+    #### Quoted post — @Cointelegraph — 2026-11-20 00:00 UTC (2026-11-20 01:00 WAT)
     
-    - URL: https://x.com/2207129125/status/2123567174543389127
+    - URL: https://x.com/Cointelegraph/status/2123567174543389127
     - Metrics (at fetch): bookmark 9, impression 27872, like 118, quote 4, reply 27, retweet 7
     
     > 🚨 LATEST: Apple is developing its own AI agent that can code, browse the web and control apps for users, in a push to rival OpenAI and Anthropic. [pic.x.com/FAutFa6L7E]
@@ -214,9 +297,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @116276827 — 2026-11-04 15:46 UTC (2026-11-04 16:46 WAT)
+#### Root post — @XeEaton — 2026-11-04 15:46 UTC (2026-11-04 16:46 WAT)
 
-- URL: https://x.com/116276827/status/2118006876528861205
+- URL: https://x.com/XeEaton/status/2118006876528861205
 - Metrics (at fetch): bookmark 56, impression 22828, like 99, quote 0, reply 6, retweet 9
 
 > Today I am fully revealing my ultimate vulnerability disclosure project. If you thought October was bad for cyber, it is about to get worse.
@@ -257,9 +340,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1471962504087625733 — 2026-11-16 17:50 UTC (2026-11-16 18:50 WAT)
+#### Root post — @windhustler — 2026-11-16 17:50 UTC (2026-11-16 18:50 WAT)
 
-- URL: https://x.com/1471962504087625733/status/2122386904771432757
+- URL: https://x.com/windhustler/status/2122386904771432757
 - Metrics (at fetch): bookmark 4, impression 2970, like 272, quote 0, reply 77, retweet 0
 
 > The weekend was super busy. My daughter was born on Saturday, one day before my 35th birthday! [pic.x.com/PiyfzpZdX6]
@@ -368,9 +451,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1967838686797807616 — 2026-11-13 15:03 UTC (2026-11-13 16:03 WAT)
+    #### Quoted post — @therealgregoAI — 2026-11-13 15:03 UTC (2026-11-13 16:03 WAT)
     
-    - URL: https://x.com/1967838686797807616/status/2121257695273505002
+    - URL: https://x.com/therealgregoAI/status/2121257695273505002
     - Metrics (at fetch): bookmark 11, impression 5710, like 65, quote 3, reply 7, retweet 6
     
     > We made it into the Top 10 of the @ethereum Consensus Layer Bug Bounty leaderboard, currently at #8.
@@ -492,9 +575,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1967838686797807616 — 2026-11-10 08:55 UTC (2026-11-10 09:55 WAT)
+    #### Quoted post — @therealgregoAI — 2026-11-10 08:55 UTC (2026-11-10 09:55 WAT)
     
-    - URL: https://x.com/1967838686797807616/status/2120077868222865448
+    - URL: https://x.com/therealgregoAI/status/2120077868222865448
     - Metrics (at fetch): bookmark 3, impression 2428, like 22, quote 1, reply 0, repost 2
     
     > How a Grego AI engagement works:
@@ -761,9 +844,9 @@ Tags (automatic): Mobile / Android / iOS, Blockchain / L1-L2 / bridge, AI-assist
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1967838686797807616 — 2026-10-20 21:39 UTC (2026-10-20 22:39 WAT)
+    #### Quoted post — @therealgregoAI — 2026-10-20 21:39 UTC (2026-10-20 22:39 WAT)
     
-    - URL: https://x.com/1967838686797807616/status/2112659981208084673
+    - URL: https://x.com/therealgregoAI/status/2112659981208084673
     - Metrics (at fetch): bookmark 16, impression 191678, like 36, quote 2, reply 0, repost 6
     
     > https://x.com/i/article/2112612029265793024
@@ -1106,9 +1189,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1720665183188922368 — 2026-09-07 06:59 UTC (2026-09-07 07:59 WAT)
+    #### Quoted post — @grok — 2026-09-07 06:59 UTC (2026-09-07 07:59 WAT)
     
-    - URL: https://x.com/1720665183188922368/status/2096855796092956802
+    - URL: https://x.com/grok/status/2096855796092956802
     - Metrics (at fetch): bookmark 1, impression 12826, like 32, quote 5, reply 0, repost 2
     
     > No, Liquid Network / Blockstream did not run a public security bug bounty program.
@@ -1464,9 +1547,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1278266969532203008 — 2026-06-22 05:09 UTC (2026-06-22 06:09 WAT)
+    #### Quoted post — @Phalcon_xyz — 2026-06-22 05:09 UTC (2026-06-22 06:09 WAT)
     
-    - URL: https://x.com/1278266969532203008/status/2068924424238321854
+    - URL: https://x.com/Phalcon_xyz/status/2068924424238321854
     - Metrics (at fetch): bookmark 42, impression 38424, like 91, quote 10, reply 10, retweet 14
     
     > .@taikoxyz was reportedly attacked, with losses exceeding $1.7M. Our initial investigation suggests the likely root cause was an exposed Raiko SGX enclave signing key on GitHub. Raiko is Taiko’s multi-prover stack for Taiko and Ethereum blocks, so an exposed Raiko SGX enclave key https://t.co/eAq9Xjngz8 https://t.co/8BIiEeNtYJ
@@ -1503,9 +1586,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @231208649 — 2026-06-12 12:23 UTC (2026-06-12 13:23 WAT)
+    #### Quoted post — @hosseeb — 2026-06-12 12:23 UTC (2026-06-12 13:23 WAT)
     
-    - URL: https://x.com/231208649/status/2065409689320337636
+    - URL: https://x.com/hosseeb/status/2065409689320337636
     - Metrics (at fetch): bookmark 27, impression 28119, like 126, quote 10, reply 31, retweet 10
     
     > Everyone thinks there's a hackpocalypse going on in crypto right now. But if you dig into the data, the story is not that simple.
@@ -1540,9 +1623,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1041276721759043584 — 2026-06-05 08:03 UTC (2026-06-05 09:03 WAT)
+    #### Quoted post — @P3b7_ — 2026-06-05 08:03 UTC (2026-06-05 09:03 WAT)
     
-    - URL: https://x.com/1041276721759043584/status/2062807526463205876
+    - URL: https://x.com/P3b7_/status/2062807526463205876
     - Metrics (at fetch): bookmark 375, impression 275739, like 1009, quote 58, reply 317, retweet 198
     
     > 👉For 4 years, 1 day, and 10 hours, anyone who understood the Orchard circuit could have minted ZEC out of thin air, silently, with no on-chain signature. The bug was disclosed this week. It was found by an AI-driven audit running Opus 4.8, not by an attacker.
@@ -1920,9 +2003,9 @@ Tags (automatic): AI-assisted hunting, Platform: HackenProof
 
 **Quoted post (full text):**
 
-    #### Quoted post — @902839045356744704 — 2026-03-26 07:54 UTC (2026-03-26 08:54 WAT)
+    #### Quoted post — @justinsuntron — 2026-03-26 07:54 UTC (2026-03-26 08:54 WAT)
     
-    - URL: https://x.com/902839045356744704/status/2037075581943021762
+    - URL: https://x.com/justinsuntron/status/2037075581943021762
     - Metrics (at fetch): not returned
     
     > We have independently developed an AI detective system capable of systematically processing complex case data and identifying criminal suspects in an extremely short period of time, assisting judicial authorities in bringing them to justice. 
@@ -2042,9 +2125,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1967838686797807616 — 2026-03-09 08:27 UTC (2026-03-09 09:27 WAT)
+    #### Quoted post — @therealgregoAI — 2026-03-09 08:27 UTC (2026-03-09 09:27 WAT)
     
-    - URL: https://x.com/1967838686797807616/status/2030923482159059433
+    - URL: https://x.com/therealgregoAI/status/2030923482159059433
     - Metrics (at fetch): not returned
     
     > http://x.com/i/article/2028855148169039872
@@ -2440,9 +2523,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1628039684189200385 — 2025-10-23 12:27 UTC (2025-10-23 13:27 WAT)
+    #### Quoted post — @0xTimofey — 2025-10-23 12:27 UTC (2025-10-23 13:27 WAT)
     
-    - URL: https://x.com/1628039684189200385/status/1981336556976713864
+    - URL: https://x.com/0xTimofey/status/1981336556976713864
     - Metrics (at fetch): not returned
     
     > Dropped some alpha knowledge (at least this is what @0xriptide told me) about Audit Competitions at Immunefi 
@@ -2474,9 +2557,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1347307079187525637 — 2025-10-22 23:22 UTC (2025-10-23 00:22 WAT)
+    #### Quoted post — @MitchellAmador — 2025-10-22 23:22 UTC (2025-10-23 00:22 WAT)
     
-    - URL: https://x.com/1347307079187525637/status/1981139035432374613
+    - URL: https://x.com/MitchellAmador/status/1981139035432374613
     - Metrics (at fetch): not returned
     
     > Has Immunefi become the king of the audit competition hill? Sure seems like it.
@@ -2603,9 +2686,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1200227965079916545 — 2025-10-02 01:03 UTC (2025-10-02 02:03 WAT)
+    #### Quoted post — @0xKaden — 2025-10-02 01:03 UTC (2025-10-02 02:03 WAT)
     
-    - URL: https://x.com/1200227965079916545/status/1973554329526337610
+    - URL: https://x.com/0xKaden/status/1973554329526337610
     - Metrics (at fetch): not returned
     
     > ngl this reads like a rejected escalation
@@ -2696,9 +2779,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1628039684189200385 — 2025-08-29 09:48 UTC (2025-08-29 10:48 WAT)
+    #### Quoted post — @0xTimofey — 2025-08-29 09:48 UTC (2025-08-29 10:48 WAT)
     
-    - URL: https://x.com/1628039684189200385/status/1961365227858956781
+    - URL: https://x.com/0xTimofey/status/1961365227858956781
     - Metrics (at fetch): not returned
     
     > Hey @LoopGhost007 . 
@@ -2736,9 +2819,9 @@ Tags (automatic): Smart contract / DeFi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1091391900089749504 — 2025-07-30 14:52 UTC (2025-07-30 15:52 WAT)
+    #### Quoted post — @Certora — 2025-07-30 14:52 UTC (2025-07-30 15:52 WAT)
     
-    - URL: https://x.com/1091391900089749504/status/1950570079369728189
+    - URL: https://x.com/Certora/status/1950570079369728189
     - Metrics (at fetch): bookmark 5, impression 21154, like 36, quote 6, reply 1, retweet 6
     
     > 🗳️ Calling all @compgovernance voters! 
@@ -3060,9 +3143,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1297925400090337280 — 2025-02-22 18:52 UTC (2025-02-22 19:52 WAT)
+    #### Quoted post — @RektHQ — 2025-02-22 18:52 UTC (2025-02-22 19:52 WAT)
     
-    - URL: https://x.com/1297925400090337280/status/1893373221564510321
+    - URL: https://x.com/RektHQ/status/1893373221564510321
     - Metrics (at fetch): bookmark 23, impression 16745, like 127, quote 9, reply 7, retweet 28
     
     > $1.43B heist on @Bybit_Official claims the throne on our Rekt Leaderboard.
@@ -3110,9 +3193,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1877728835216568321 — 2025-02-16 06:29 UTC (2025-02-16 07:29 WAT)
+    #### Quoted post — @bountyhunt3rz — 2025-02-16 06:29 UTC (2025-02-16 07:29 WAT)
     
-    - URL: https://x.com/1877728835216568321/status/1891012103437213961
+    - URL: https://x.com/bountyhunt3rz/status/1891012103437213961
     - Metrics (at fetch): bookmark 18, impression 11059, like 41, quote 4, reply 2, retweet 2
     
     > BOUNTYHUNT3RZ Episode 4:
@@ -3168,9 +3251,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1278266969532203008 — 2025-01-24 03:23 UTC (2025-01-24 04:23 WAT)
+    #### Quoted post — @Phalcon_xyz — 2025-01-24 03:23 UTC (2025-01-24 04:23 WAT)
     
-    - URL: https://x.com/1278266969532203008/status/1882630151583981787
+    - URL: https://x.com/Phalcon_xyz/status/1882630151583981787
     - Metrics (at fetch): bookmark 93, impression 45618, like 88, quote 13, reply 5, retweet 19
     
     > ALERT! Our system detected a series of attacks targeting the @odosprotocol protocol on #ETH #Base, resulting in ~$50k in losses. 
@@ -3258,9 +3341,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1877728835216568321 — 2025-01-11 16:16 UTC (2025-01-11 17:16 WAT)
+    #### Quoted post — @bountyhunt3rz — 2025-01-11 16:16 UTC (2025-01-11 17:16 WAT)
     
-    - URL: https://x.com/1877728835216568321/status/1878113703721078891
+    - URL: https://x.com/bountyhunt3rz/status/1878113703721078891
     - Metrics (at fetch): bookmark 88, impression 28790, like 129, quote 8, reply 5, retweet 13
     
     > bountyhunt3rz: life on the blockchain: EP1
@@ -3307,9 +3390,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @775471354170580992 — 2025-01-03 03:27 UTC (2025-01-03 04:27 WAT)
+    #### Quoted post — @lj1nu — 2025-01-03 03:27 UTC (2025-01-03 04:27 WAT)
     
-    - URL: https://x.com/775471354170580992/status/1875021257210736870
+    - URL: https://x.com/lj1nu/status/1875021257210736870
     - Metrics (at fetch): bookmark 380, impression 320858, like 1046, quote 49, reply 64, retweet 97
     
     > I took a quick look at the code and found the vulnerability in @virtuals_io 
@@ -3375,9 +3458,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1544845931140743168 — 2024-11-15 09:38 UTC (2024-11-15 10:38 WAT)
+    #### Quoted post — @1_00_proof — 2024-11-15 09:38 UTC (2024-11-15 10:38 WAT)
     
-    - URL: https://x.com/1544845931140743168/status/1857357570228506661
+    - URL: https://x.com/1_00_proof/status/1857357570228506661
     - Metrics (at fetch): bookmark 6, impression 5492, like 38, quote 2, reply 3, retweet 1
     
     > This morning I didn't even know of @0xKorok. 
@@ -3497,9 +3580,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @950915985422221312 — 2024-09-03 20:49 UTC (2024-09-03 21:49 WAT)
+    #### Quoted post — @peckshield — 2024-09-03 20:49 UTC (2024-09-03 21:49 WAT)
     
-    - URL: https://x.com/950915985422221312/status/1831072098669953388
+    - URL: https://x.com/peckshield/status/1831072098669953388
     - Metrics (at fetch): bookmark 64, impression 62122, like 176, quote 24, reply 8, retweet 59
     
     > Today @Penpiexyz_io was exploited, resulting in a loss of $&gt;16M, including  $7,879,029.18 wstETH, $2,517,458.57 sUSDe, $3,409,021.04 agETH, $2,226,244.80 rswETH and four other Pendle-related YT tokens.
@@ -3653,9 +3736,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1346525072811585537 — 2024-04-13 23:50 UTC (2024-04-14 00:50 WAT)
+    #### Quoted post — @dedaub — 2024-04-13 23:50 UTC (2024-04-14 00:50 WAT)
     
-    - URL: https://x.com/1346525072811585537/status/1779296095547306415
+    - URL: https://x.com/dedaub/status/1779296095547306415
     - Metrics (at fetch): not returned
     
     > The Dedaub team, in a study for the EF in 2021, identified an exhaustive list of contracts that were  easier to exploit with **EIP-3074**
@@ -3974,9 +4057,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1546814146385268737 — 2023-09-27 11:00 UTC (2023-09-27 12:00 WAT)
+    #### Quoted post — @pashov — 2023-09-27 11:00 UTC (2023-09-27 12:00 WAT)
     
-    - URL: https://x.com/1546814146385268737/status/1706987151823397202
+    - URL: https://x.com/pashov/status/1706987151823397202
     - Metrics (at fetch): bookmark 87, impression 30743, like 240, quote 4, reply 15, retweet 45
     
     > A BIG inefficiency is currently present in almost all smart contract security audits, wasting precious time and money of protocols and auditors
@@ -4066,9 +4149,9 @@ Tags (automatic): Memory corruption / native
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1162883382700912640 — 2023-08-22 15:52 UTC (2023-08-22 16:52 WAT)
+    #### Quoted post — @balancer — 2023-08-22 15:52 UTC (2023-08-22 16:52 WAT)
     
-    - URL: https://x.com/1162883382700912640/status/1694014645378724280
+    - URL: https://x.com/balancer/status/1694014645378724280
     - Metrics (at fetch): bookmark 89, impression 1366797, like 1217, quote 489, reply 120, retweet 713
     
     > Balancer has received a critical vulnerability report affecting a number of V2 Pools.
@@ -4391,9 +4474,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1303577160234328066 — 2023-04-09 14:03 UTC (2023-04-09 15:03 WAT)
+    #### Quoted post — @SushiSwap — 2023-04-09 14:03 UTC (2023-04-09 15:03 WAT)
     
-    - URL: https://x.com/1303577160234328066/status/1645064984622407680
+    - URL: https://x.com/SushiSwap/status/1645064984622407680
     - Metrics (at fetch): bookmark 14, impression 102124, like 152, quote 12, reply 25, retweet 35
     
     > 🚨 Some positive news following the RouteProcessor 2 approval bug.
@@ -4420,9 +4503,9 @@ Tags (automatic): ZK
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1501279850727821312 — 2023-03-29 19:55 UTC (2023-03-29 20:55 WAT)
+    #### Quoted post — @RDNTCapital — 2023-03-29 19:55 UTC (2023-03-29 20:55 WAT)
     
-    - URL: https://x.com/1501279850727821312/status/1641167227780046848
+    - URL: https://x.com/RDNTCapital/status/1641167227780046848
     - Metrics (at fetch): bookmark 3, impression 46108, like 142, quote 1, reply 9, retweet 22
     
     > In collaboration with @immunefi, Radiant has posted bug bounties with the scope of impact covering the v2 smart contracts and front end. 
@@ -4594,9 +4677,9 @@ Tags (automatic): Blockchain / L1-L2 / bridge
 
 **Quoted post (full text):**
 
-    #### Quoted post — @5678 — 2023-02-17 17:54 UTC (2023-02-17 18:54 WAT)
+    #### Quoted post — @danielvf — 2023-02-17 17:54 UTC (2023-02-17 18:54 WAT)
     
-    - URL: https://x.com/5678/status/1626641254531448833
+    - URL: https://x.com/danielvf/status/1626641254531448833
     - Metrics (at fetch): bookmark 280, impression 439754, like 1405, quote 134, reply 84, retweet 310
     
     > In a dazzling reverse hack, a substantial chunk of the Playtpus hack stolen funds have been recovered.
@@ -4913,9 +4996,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @5678 — 2022-10-03 14:00 UTC (2022-10-03 15:00 WAT)
+    #### Quoted post — @danielvf — 2022-10-03 14:00 UTC (2022-10-03 15:00 WAT)
     
-    - URL: https://x.com/5678/status/1576935143528226816
+    - URL: https://x.com/danielvf/status/1576935143528226816
     - Metrics (at fetch): not returned
     
     > @immunefi Update: Last Monday, @Instadapp reevaluated this bounty and increased their payout on this from $500 to $10,000. Appreciated.
@@ -4968,9 +5051,9 @@ Tags (automatic): Platform: Immunefi
 
 **Quoted post (full text):**
 
-    #### Quoted post — @5678 — 2022-09-23 22:28 UTC (2022-09-23 23:28 WAT)
+    #### Quoted post — @danielvf — 2022-09-23 22:28 UTC (2022-09-23 23:28 WAT)
     
-    - URL: https://x.com/5678/status/1573439227865583631
+    - URL: https://x.com/danielvf/status/1573439227865583631
     - Metrics (at fetch): not returned
     
     > Here's the story on how reporting yesterday's deployer timelock takeover issue to projects went. 1/18 [pic.x.com/c3w6T23BVf]

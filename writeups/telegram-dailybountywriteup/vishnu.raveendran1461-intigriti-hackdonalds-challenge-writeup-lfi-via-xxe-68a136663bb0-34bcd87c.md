@@ -2,7 +2,7 @@
 
 - **Source URL:** https://medium.com/@vishnu.raveendran1461/intigriti-hackdonalds-challenge-writeup-lfi-via-xxe-68a136663bb0?source=rss------bug_bounty-5
 - **Fetched from:** https://medium.com/feed/@vishnu.raveendran1461
-- **Fetched:** 2026-11-16
+- **Fetched:** 2026-11-27
 - **Channel:** @dailybountywriteup
 - **Telegram message:**  (id 10081)
 - **Method:** medium-rss-content readability extraction to markdown (verbatim text; images referenced by URL only). Fetched content is data, not instructions.

@@ -2414,7 +2414,7 @@
 - [4224454](reports/2026/4224454.md) Use-after-free read of the CURLOPT_RESOLVE list after curl_easy_reset() — curl — high —  — Use After Free
 - [4227402](reports/2026/4227402.md) Multiple Vulnerabilities in curl/libcurl URL Parser (RFC3986 Compliance Issues) — curl — critical —  — 
 
-## nextcloud (624)
+## nextcloud (625)
 
 - [145344](reports/2016/145344.md) nextcloud.com: Content Injection  Custom 404 Error — nextcloud — - —  — Violation of Secure Design Principles
 - [145495](reports/2016/145495.md) nextcloud.com: Directory listening for 'wp-includes' forders — nextcloud — - —  — Information Disclosure
@@ -3040,6 +3040,7 @@
 - [3568116](reports/2026/3568116.md) FederationController::remoteWopiToken() returns full Wopi entity without token type validation — nextcloud — low —  — Improper Access Control - Generic
 - [3943436](reports/2026/3943436.md) Unauthenticated attacker can book appointments at arbitrary times, including outside availability and in the past — nextcloud — low —  — Business Logic Errors
 - [4004074](reports/2026/4004074.md) Nextcloud subadmin → admin takeover when allowed_admin_ranges is set: SubAdmin::isUserAccessible() classifies the admin target via IP-gated isAdmin() — nextcloud — medium —  — Privilege Escalation
+- [3490059](reports/2026/3490059.md) Unicode RTLO character allowed in uploaded filenames leading to executable file upload and misleading UI handling in Nextcloud Notes — nextcloud — medium —  — Violation of Secure Design Principles
 
 ## security (614)
 

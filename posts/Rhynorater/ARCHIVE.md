@@ -1,6 +1,6 @@
 # @Rhynorater — full verbatim X archive (security-relevant posts)
 
-_Generated 2026-11-26 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
+_Generated 2026-11-27 from the X API (full-archive search + timeline). Every post below is copied word-for-word; t.co links are expanded; quoted posts are inlined in full; media are listed with alt text when the author provided it. Posts are grouped by conversation (a thread = the author's root post followed by their own replies, oldest first). Groups are newest first. An agent without X access can rely on this file._
 
 - Posts in this file: 439
 - Conversations/threads: 339
@@ -27,9 +27,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1714438092655149056 — 2026-11-23 21:42 UTC (2026-11-23 22:42 WAT)
+    #### Quoted post — @ChatGPT — 2026-11-23 21:42 UTC (2026-11-23 22:42 WAT)
     
-    - URL: https://x.com/1714438092655149056/status/2124981905380569283
+    - URL: https://x.com/ChatGPT/status/2124981905380569283
     - Metrics (at fetch): bookmark 831, impression 926103, like 9918, quote 736, reply 1243, retweet 489
     
     > Every model has its day in the sun. For GPT-5.6, it's time to set.
@@ -96,9 +96,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @260411518 — 2026-11-20 02:28 UTC (2026-11-20 03:28 WAT)
+#### Root post — @rez0__ — 2026-11-20 02:28 UTC (2026-11-20 03:28 WAT)
 
-- URL: https://x.com/260411518/status/2123604334793380294
+- URL: https://x.com/rez0__/status/2123604334793380294
 - Metrics (at fetch): bookmark 5, impression 2263, like 53, quote 0, reply 7, retweet 2
 
 > waiting to board my flight to san fran just sticker mogging all the other tech bros [pic.x.com/y7iCbzXeUF]
@@ -230,9 +230,9 @@ Tags (automatic): AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1600519214519013377 — 2026-11-16 16:31 UTC (2026-11-16 17:31 WAT)
+    #### Quoted post — @ctbbpodcast — 2026-11-16 16:31 UTC (2026-11-16 17:31 WAT)
     
-    - URL: https://x.com/1600519214519013377/status/2122366966329483565
+    - URL: https://x.com/ctbbpodcast/status/2122366966329483565
     - Metrics (at fetch): bookmark 9, impression 4874, like 56, quote 2, reply 2, retweet 1
     
     > We just hired the most chaotic host we could find xD https://t.co/cJ7LP9TGDV
@@ -300,9 +300,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1206974272016506882 — 2026-11-16 11:24 UTC (2026-11-16 12:24 WAT)
+#### Root post — @1_am_nek0 — 2026-11-16 11:24 UTC (2026-11-16 12:24 WAT)
 
-- URL: https://x.com/1206974272016506882/status/2122289602803499078
+- URL: https://x.com/1_am_nek0/status/2122289602803499078
 - Metrics (at fetch): bookmark 0, impression 1882, like 31, quote 0, reply 2, retweet 0
 
 > 最近Metaのお世話になりすぎてる、感謝 [pic.x.com/CwsVTYFE92]
@@ -334,9 +334,9 @@ Tags (automatic): AI-assisted hunting
 
 **Context — conversation root by another account:**
 
-#### Root post — @1631812582192615424 — 2026-11-16 10:01 UTC (2026-11-16 11:01 WAT)
+#### Root post — @JUCK_28 — 2026-11-16 10:01 UTC (2026-11-16 11:01 WAT)
 
-- URL: https://x.com/1631812582192615424/status/2122268924335308995
+- URL: https://x.com/JUCK_28/status/2122268924335308995
 - Metrics (at fetch): bookmark 4, impression 4703, like 79, quote 0, reply 6, retweet 0
 
 > I was in Meta Bug Bounty Live Hacking Event but I didn't do nothing🥲
@@ -1050,9 +1050,9 @@ Tags (automatic): Dependency confusion / supply chain, AI-assisted hunting
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2052867933513097218 — 2026-09-30 15:19 UTC (2026-09-30 16:19 WAT)
+    #### Quoted post — @0xMadder — 2026-09-30 15:19 UTC (2026-09-30 16:19 WAT)
     
-    - URL: https://x.com/2052867933513097218/status/2105316601268736155
+    - URL: https://x.com/0xMadder/status/2105316601268736155
     - Metrics (at fetch): bookmark 309, impression 274508, like 1403, quote 15, reply 56, repost 40
     
     > First Tweet, first Bounty, 2026 is going great :)) [pic.x.com/gwOtejjOmH]
@@ -1353,9 +1353,9 @@ Tags (automatic): Platform: HackerOne, Platform: Bugcrowd
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1439534375058624513 — 2026-08-07 12:23 UTC (2026-08-07 13:23 WAT)
+    #### Quoted post — @pwn_ai — 2026-08-07 12:23 UTC (2026-08-07 13:23 WAT)
     
-    - URL: https://x.com/1439534375058624513/status/2085703409160650985
+    - URL: https://x.com/pwn_ai/status/2085703409160650985
     - Metrics (at fetch): bookmark 746, impression 1662678, like 975, quote 35, reply 30, retweet 201
     
     > Introducing XSS2Shell ⛓️: WordPress Core preauth XSS→RCE vulnerability affecting 43% of the internet, discovered autonomously by pwn (using open-source models), affecting all WordPress versions.
@@ -2452,9 +2452,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @934191732731842561 — 2024-10-11 23:09 UTC (2024-10-12 00:09 WAT)
+    #### Quoted post — @hackermondev — 2024-10-11 23:09 UTC (2024-10-12 00:09 WAT)
     
-    - URL: https://x.com/934191732731842561/status/1844877950698537323
+    - URL: https://x.com/hackermondev/status/1844877950698537323
     - Metrics (at fetch): not returned
     
     > 1 Bug, $50K+ in bounties: how Zendesk left a backdoor in hundreds of companies #bugbountytips 
@@ -2853,9 +2853,9 @@ Tags (automatic): CSP / CSPT, Request smuggling / desync
 
 **Quoted post (full text):**
 
-    #### Quoted post — @14511703 — 2024-07-02 20:53 UTC (2024-07-02 21:53 WAT)
+    #### Quoted post — @lucacarettoni — 2024-07-02 20:53 UTC (2024-07-02 21:53 WAT)
     
-    - URL: https://x.com/14511703/status/1808242573775196627
+    - URL: https://x.com/lucacarettoni/status/1808242573775196627
     - Metrics (at fetch): bookmark 216, impression 43734, like 287, quote 3, reply 1, retweet 92
     
     > After months of work (and bugs), @maxenceschmitt has finally released his fabulous research. Exploiting Client-Side Path Traversal to Perform Cross-Site Request Forgery or #CSPT2CSRF. 
@@ -5281,9 +5281,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @1177545689460592640 — 2023-02-24 14:49 UTC (2023-02-24 15:49 WAT)
+    #### Quoted post — @PortSwiggerRes — 2023-02-24 14:49 UTC (2023-02-24 15:49 WAT)
     
-    - URL: https://x.com/1177545689460592640/status/1629131380473970688
+    - URL: https://x.com/PortSwiggerRes/status/1629131380473970688
     - Metrics (at fetch): not returned
     
     > We found a fancy new way to conceal XSS payloads! Check it out in our cheat sheet: 
@@ -5406,9 +5406,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @785694042 — 2023-01-31 01:49 UTC (2023-01-31 02:49 WAT)
+    #### Quoted post — @IAmMandatory — 2023-01-31 01:49 UTC (2023-01-31 02:49 WAT)
     
-    - URL: https://x.com/785694042/status/1620237762980102146
+    - URL: https://x.com/IAmMandatory/status/1620237762980102146
     - Metrics (at fetch): not returned
     
     > Due to the low percentage of XSS Hunter users who have set a forwarding URL/static JS payload the deprecation date is being pushed back a week.
@@ -6168,9 +6168,9 @@ Tags (automatic): Platform: HackerOne
 
 **Quoted post (full text):**
 
-    #### Quoted post — @769883225732812800 — 2020-07-04 10:28 UTC (2020-07-04 11:28 WAT)
+    #### Quoted post — @Th3G3nt3lman — 2020-07-04 10:28 UTC (2020-07-04 11:28 WAT)
     
-    - URL: https://x.com/769883225732812800/status/1279361536985874438
+    - URL: https://x.com/Th3G3nt3lman/status/1279361536985874438
     - Metrics (at fetch): not returned
     
     > Even bug bounty hunters deserve an unpaid leave sometimes 😅, Its been a really hard and stressful period the latest 3 months with the lockdown and bug bounty, recovery is always needed to stay healthy and focused, i need to take a rest for a while and leave computers .. 🙏
@@ -6304,9 +6304,9 @@ Tags (automatic): XSS
 
 **Quoted post (full text):**
 
-    #### Quoted post — @961961458346135552 — 2020-03-20 14:47 UTC (2020-03-20 15:47 WAT)
+    #### Quoted post — @InsiderPhD — 2020-03-20 14:47 UTC (2020-03-20 15:47 WAT)
     
-    - URL: https://x.com/961961458346135552/status/1241013454846201858
+    - URL: https://x.com/InsiderPhD/status/1241013454846201858
     - Metrics (at fetch): not returned
     
     > #bugbountytip don’t read passively! Take notes on all the write ups, disclosures bugs, articles, techniques you read. You’re more likely to remember it AND if you come across a similar thing you can recall it from your notes and execute it! #BugBounty
@@ -6600,9 +6600,9 @@ Tags (automatic): SSRF, RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @2216306262 — 2019-04-02 13:00 UTC (2019-04-02 14:00 WAT)
+    #### Quoted post — @Burp_Suite — 2019-04-02 13:00 UTC (2019-04-02 14:00 WAT)
     
-    - URL: https://x.com/2216306262/status/1113063657762484229
+    - URL: https://x.com/Burp_Suite/status/1113063657762484229
     - Metrics (at fetch): not returned
     
     > Blog post: Introducing the Web Security Academy
@@ -6629,9 +6629,9 @@ Tags (automatic): SSRF, RCE
 
 **Quoted post (full text):**
 
-    #### Quoted post — @4916110689 — 2019-04-01 13:00 UTC (2019-04-01 14:00 WAT)
+    #### Quoted post — @hacker_ — 2019-04-01 13:00 UTC (2019-04-01 14:00 WAT)
     
-    - URL: https://x.com/4916110689/status/1112701344996093953
+    - URL: https://x.com/hacker_/status/1112701344996093953
     - Metrics (at fetch): not returned
     
     > Tired of writing reports? Tired of getting duped or NA'd? Are you tired of waiting for bounties? Introducing Pimp My Report™, a new startup created by BBAC to wash your worries away! Get huge bounties today! https://wewriteyour.report/
